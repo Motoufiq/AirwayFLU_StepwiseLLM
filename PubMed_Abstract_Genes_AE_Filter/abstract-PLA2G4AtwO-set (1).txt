@@ -1,0 +1,2589 @@
+1. Dig Dis Sci. 2024 Oct;69(10):3742-3752. doi: 10.1007/s10620-024-08588-2. Epub 
+2024 Aug 14.
+
+Homocysteine Promotes Intestinal Inflammation in Colitis Mice Through the 
+PGE2/STAT3 Signaling Pathway.
+
+Shao A(1)(2), Zhao Q(1)(2), Chen M(3)(4).
+
+Author information:
+(1)Department of Gastroenterology, Zhongnan Hospital of Wuhan University, Donghu 
+Road 169, Wuhan, 430071, People's Republic of China.
+(2)The Hubei Clinical Center and Key Laboratory of Intestinal and Colorectal 
+Diseases, Wuhan, 430071, People's Republic of China.
+(3)Department of Gastroenterology, Zhongnan Hospital of Wuhan University, Donghu 
+Road 169, Wuhan, 430071, People's Republic of China. chenmin8106@whu.edu.cn.
+(4)The Hubei Clinical Center and Key Laboratory of Intestinal and Colorectal 
+Diseases, Wuhan, 430071, People's Republic of China. chenmin8106@whu.edu.cn.
+
+BACKGROUND: Our previous study indicated that Hcy exacerbated DSS-induced 
+colitis by facilitating the differentiation of intestinal T helper cell 17 
+(Th17), but the precise mechanism remains unidentified. Therefore, our current 
+research aims to elucidate the signaling pathway through which Hcy promotes the 
+differentiation of Th17 cells.
+METHODS: BALb/c mice were randomly assigned into six groups. The model of mice 
+colitis was induced using 3% DSS, while the model of Hyperhomocysteinemia was 
+induced using 1.7% methionine. The concentrations of Hcy and prostaglandin E2 
+(PGE2) were measured using enzyme-linked immunosorbent assay (ELISA). The 
+protein expressions of cytosolic phospholipase A2 (cPLA2), phosphorylated-cPLA2 
+(p-cPLA2), cyclooxygenase 2 (COX2), cyclic adenosine monophosphate (cAMP), 
+signal transducer and activator of transcription 3 (STAT3), phosphorylated-STAT3 
+(p-STAT3), interleukin-17A (IL-17A), and retinoid-related orphan nuclear 
+receptor-γt (RORγt) were assessed using western blot analysis.
+RESULTS: Compared to the DSS + HHcy group, the addition of the COX inhibitor did 
+not significantly alter the protein expression of p-PLA2/PLA2, but led to 
+significant decreases in serum PGE2 concentration, cAMP, and p-STAT3/STAT3 
+protein expression. The protein expressions of p-PLA2/PLA2, COX2, and cAMP 
+upstream of STAT3 inhibitor addition did not exhibit significant changes. 
+However, PGE2 concentration and p-STAT3/STAT3 protein expression were notably 
+reduced. After the COX inhibitor and STAT3 inhibitor added, the protein 
+expression of IL-17A and RORγt and the levels of IL-17A and IL-23R in CD4+ T 
+cells were significantly reduced.
+CONCLUSION: HHcy aggravated DSS-induced colitis by promoting the differentiation 
+and proliferation of Th17 cells through the PGE2 / STAT3 signaling pathway.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s10620-024-08588-2
+PMCID: PMC11489288
+PMID: 39141200 [Indexed for MEDLINE]
+
+Conflict of interest statement: There is no financial conflict of interest to 
+declare for any of the authors.
+
+
+2. J Ethnopharmacol. 2024 May 23;326:117841. doi: 10.1016/j.jep.2024.117841. Epub 
+2024 Feb 3.
+
+Chaihu Guizhi Ganjiang Decoction attenuates nonalcoholic steatohepatitis by 
+enhancing intestinal barrier integrity and ameliorating PPARα mediated 
+lipotoxicity.
+
+Wu H(1), Lou T(1), Pan M(1), Wei Z(1), Yang X(1), Liu L(1), Feng M(1), Shi L(1), 
+Qu B(1), Cong S(1), Chen K(1), Yang H(1), Liu J(2), Li Y(1), Jia Z(2), Xiao 
+H(3).
+
+Author information:
+(1)School of Chinese Materia Medica, Beijing University of Chinese Medicine, 
+Beijing 100029, China.
+(2)Beijing Research Institute of Chinese Medicine, Beijing University of Chinese 
+Medicine, Beijing 100029, China.
+(3)School of Chinese Materia Medica, Beijing University of Chinese Medicine, 
+Beijing 100029, China; Beijing Research Institute of Chinese Medicine, Beijing 
+University of Chinese Medicine, Beijing 100029, China. Electronic address: 
+hbxiao69@163.com.
+
+BACKGROUND: Nonalcoholic steatohepatitis (NASH) is a prominent cause of 
+liver-related death that poses a threat to global health and is characterized by 
+severe hepatic steatosis, lobular inflammation, and ballooning degeneration. To 
+date, no Food and Drug Administration-approved medicine is commercially 
+available. The Chaihu Guizhi Ganjiang Decoction (CGGD) shows potential curative 
+effects on regulation of blood lipids and blood glucose, mitigation of organism 
+inflammation, and amelioration of hepatic function. However, the overall 
+regulatory mechanisms underlying its effects on NASH remain unclear.
+PURPOSE: This study aimed to investigate the efficiency of CGGD on methionine- 
+and choline-deficient (MCD)-induced NASH and unravel its underlying mechanisms.
+METHODS: A NASH model of SD rats was established using an MCD diet for 8 weeks, 
+and the efficacy of CGGD was evaluated based on hepatic lipid accumulation, 
+inflammatory response, and fibrosis. The effects of CGGD on the intestinal 
+barrier, metabolic profile, and differentially expressed genes (DEGs) profile 
+were analyzed by integrating gut microbiota, metabolomics, and transcriptome 
+sequencing to elucidate its mechanisms of action.
+RESULTS: In MCD-induced NASH rats, pathological staining demonstrated that CGGD 
+alleviated lipid accumulation, inflammatory cell infiltration, and fibrosis in 
+the hepatic tissue. After CGGD administration, liver index, liver weight, serum 
+alanine aminotransferase (ALT), and aspartate aminotransferase (AST) contents, 
+liver triglycerides (TG), and free fatty acids (FFAs) were decreased, meanwhile, 
+it down-regulated the level of proinflammatory mediators (TNF-α, IL-6, IL-1β, 
+MCP-1), and up-regulated the level of anti-inflammatory factors (IL-4, IL-10), 
+and the expression of liver fibrosis markers TGFβ, Acta2, Col1a1 and Col1a2 were 
+weakened. Mechanistically, CGGD treatment altered the diversity of intestinal 
+flora, as evidenced by the depletion of Allobaculum, Blautia, 
+norank_f_Erysipelotrichaceae, and enrichment of the probiotic genera Roseburia, 
+Lactobacillus, Lachnoclostridium, etc. The colonic histopathological results 
+indicated that the gut barrier damage recovered in the CGGD treatment group, and 
+the expression levels of colonic short-chain fatty acids (SCFAs)-specific 
+receptors FFAR2, FFAR3, and tight junction (TJs) proteins ZO-1, Occludin, 
+Claudin-1 were increased compared with those in the model group. Further 
+metabolomic and transcriptomic analyses suggested that CGGD mitigated the 
+lipotoxicity caused by glycerophospholipid and eicosanoid metabolism disorders 
+by decreasing the levels of PLA2G4A, LPCAT1, COX2, and LOX5. In addition, CGGD 
+could activate the inhibitory lipotoxic transcription factor PPARα, regulate the 
+proteins of FABP1, APOC2, APOA2, and LPL to promote fatty acid catabolism, and 
+suppress the TLR4/MyD88/NFκB pathway to attenuate NASH.
+CONCLUSION: Our study demonstrated that CGGD improved steatosis, inflammation, 
+and fibrosis on NASH through enhancing intestinal barrier integrity and 
+alleviating PPARα mediated lipotoxicity, which makes it an attractive candidate 
+for potential new strategies for NASH prevention and treatment.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jep.2024.117841
+PMID: 38310988 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest We declare 
+that they have no known competing financial interests or personal relationships 
+that could have appeared to influence the work reported in this paper.
+
+
+3. Adv Biol (Weinh). 2023 Jul;7(7):e2300054. doi: 10.1002/adbi.202300054. Epub 2023 
+May 2.
+
+Role of CPNE1 in Odontoblastic Differentiation of Rat Stem Cells from Apical 
+Papilla.
+
+Lu X(1), Xie H(1), Ju Y(1), Fu Y(1), Liu S(1)(2), Zhao S(1).
+
+Author information:
+(1)Department of Stomatology, Huashan Hospital, Fudan University, Shanghai, 
+200001, P. R. China.
+(2)Shanghai Key Laboratory of Craniomaxillofacial Development and Disease, 
+Shanghai Stomatological Hospital, Fudan University, Shanghai, 200001, P. R. 
+China.
+
+CPNE1 is a calcium-dependent, phospholipid-binding protein that is ubiquitously 
+expressed in various tissues and organs. This study investigates the expression 
+and localization of CPNE1 in tooth germ development and the role of CPNE1 in 
+odontoblastic differentiation. In rat tooth germs, CPNE1 is expressed in the 
+odontoblasts and ameloblasts since the late bell stage. The depletion of CPNE1 
+in the stem cells from apical papilla (SCAPs) clearly inhibits the expression of 
+odontoblastic-related genes and the formation of mineralized nodules during 
+differentiation, while CPNE1 overexpression promotes this process. In addition, 
+CPNE1 overexpression increases AKT phosphorylation during the odontoblastic 
+differentiation of SCAPs. Furthermore, treatment with AKT inhibitor (MK2206) 
+reduces the expression of odontoblastic-related genes in CPNE1 over-expressed 
+SCAPs, and Alizarin Red staining shows reduced mineralization. These results 
+suggest that CPNE1 plays a role in the tooth germ development as well as the 
+odontblastic differentiation of SCAPs in vitro that is related to the AKT 
+signaling pathway.
+
+© 2023 Wiley-VCH GmbH.
+
+DOI: 10.1002/adbi.202300054
+PMID: 37132099 [Indexed for MEDLINE]
+
+
+4. Sci Rep. 2023 Mar 8;13(1):3884. doi: 10.1038/s41598-023-29207-6.
+
+Based on network pharmacology and bioinformatics to analyze the mechanism of 
+action of Astragalus membranaceus in the treatment of vitiligo and COVID-19.
+
+Wang Y(1)(2), Ding M(3)(2), Chi J(3)(2), Wang T(3)(2), Zhang Y(2), Li Z(1), Li 
+Q(4)(5).
+
+Author information:
+(1)Graduate School, Hebei North University, Zhangjiakou, 075000, China.
+(2)Department of Dermatology, Air Force Medical Center, PLA, Beijing, 100142, 
+China.
+(3)Air Force Clinical College, The Fifth School of Clinical Medicine, Anhui 
+Medical University, Hefei, 230032, China.
+(4)Air Force Clinical College, The Fifth School of Clinical Medicine, Anhui 
+Medical University, Hefei, 230032, China. 16585260@qq.com.
+(5)Department of Dermatology, Air Force Medical Center, PLA, Beijing, 100142, 
+China. 16585260@qq.com.
+
+Erratum in
+    Sci Rep. 2023 May 8;13(1):7455. doi: 10.1038/s41598-023-34471-7.
+
+Coronavirus disease 2019 (COVID-19) is spreading rapidly around the world. 
+However, the treatment of vitiligo combined with COVID-19 has not been reported. 
+Astragalus membranaceus (AM) has a therapeutic effect on patients with vitiligo 
+and COVID-19. This study aims to discover its possible therapeutic mechanisms 
+and provide potential drug targets. Using the Chinese Medicine System 
+Pharmacological Database (TCMSP), GEO database and Genecards websites and other 
+databases, AM target, vitiligo disease target, and COVID-19 related gene set 
+were established. Then find the crossover genes by taking the intersection. Then 
+use GO, KEGG enrichment analysis, and PPI network to discover its underlying 
+mechanism. Finally, by importing drugs, active ingredients, crossover genes, and 
+enriched signal pathways into Cytoscape software, a "drug-active 
+ingredient-target signal pathway-" network is constructed. TCMSP screened and 
+obtained 33 active ingredients including baicalein (MOL002714), NEOBAICALEIN 
+(MOL002934), Skullcapflavone II (MOL002927), and wogonin (MOL000173), which 
+acted on 448 potential targets. 1166 differentially expressed genes for vitiligo 
+were screened by GEO. CIVID-19 related genes were screened by Genecards. Then by 
+taking the intersection, a total of 10 crossover genes (PTGS2, CDK1, STAT1, 
+BCL2L1, SCARB1, HIF1A, NAE1, PLA2G4A, HSP90AA1, and HSP90B1) were obtained. KEGG 
+analysis found that it was mainly enriched in signaling pathways such as IL-17 
+signaling pathway, Th17 cell differentiation, Necroptosis, NOD-like receptor 
+signaling pathway. Five core targets (PTGS2, STAT1, BCL2L1, HIF1A, and HSP90AA1) 
+were obtained by analyzing the PPI network. The network of "active 
+ingredients-crossover genes" was constructed by Cytoscape, and the 5 main active 
+ingredients acting on the 5 core crossover genes acacetin, wogonin, baicalein, 
+bis2S)-2-ethylhexyl) benzene-1,2-dicarboxylate and 
+5,2'-Dihydroxy-6,7,8-trimethoxyflavone. The core crossover genes obtained by PPI 
+and the core crossover genes obtained by the "active ingredient-crossover gene" 
+network are intersected to obtain the three most important core genes (PTGS2, 
+STAT1, HSP90AA1). AM may act on PTGS2, STAT1, HSP90AA1, etc. through active 
+components such as acacetin, wogonin, baicalein, bis2S)-2-ethylhexyl) 
+benzene-1,2-dicarboxylate and 5,2'-Dihydroxy-6,7,8-trimethoxyflavone to activate 
+IL-17 signaling pathway, Th17 cell differentiation, Necroptosis, NOD-like 
+receptor signaling pathway, Kaposi sarcoma-associated herpesvirus infection, and 
+VEGF signaling pathway and other signaling pathways to achieve the effect of 
+treating vitiligo and COVID-19.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-29207-6
+PMCID: PMC9993359
+PMID: 36890149 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+5. Int J Mol Sci. 2023 Jan 4;24(2):913. doi: 10.3390/ijms24020913.
+
+Protective Effects of Human Pericyte-like Adipose-Derived Mesenchymal Stem Cells 
+on Human Retinal Endothelial Cells in an In Vitro Model of Diabetic Retinopathy: 
+Evidence for Autologous Cell Therapy.
+
+Lupo G(1), Agafonova A(1), Cosentino A(1), Giurdanella G(2), Mannino G(3), Lo 
+Furno D(4), Romano IR(4), Giuffrida R(4), D'Angeli F(4)(5), Anfuso CD(1).
+
+Author information:
+(1)Department of Biomedical and Biotechnological Sciences, Section of Medical 
+Biochemistry, School of Medicine, University of Catania, 95123 Catania, Italy.
+(2)Faculty of Medicine and Surgery, University of Enna "Kore", 94100 Enna, 
+Italy.
+(3)Department of Chemical, Biological, Pharmaceutical and Environmental 
+Sciences, University of Messina, 98122 Messina, Italy.
+(4)Department of Biomedical and Biotechnological Sciences, Section of 
+Physiology, School of Medicine, University of Catania, 95123 Catania, Italy.
+(5)Department of Human Sciences and Quality of Life Promotion, San Raffaele Roma 
+Open University, 00166 Rome, Italy.
+
+Diabetic retinopathy (DR) is characterized by morphologic and metabolic 
+alterations in endothelial cells (ECs) and pericytes (PCs) of the blood-retinal 
+barrier (BRB). The loss of interendothelial junctions, increased vascular 
+permeability, microaneurysms, and finally, EC detachment are the main features 
+of DR. In this scenario, a pivotal role is played by the extensive loss of PCs. 
+Based on previous results, the aim of this study was to assess possible 
+beneficial effects exerted by adipose mesenchymal stem cells (ASCs) and their 
+pericyte-like differentiated phenotype (P-ASCs) on human retinal endothelial 
+cells (HRECs) in high glucose conditions (25 mM glucose, HG). P-ASCs were more 
+able to preserve BRB integrity than ASCs in terms of (a) increased 
+transendothelial electrical resistance (TEER); (b) increased expression of 
+adherens junction and tight junction proteins (VE-cadherin and ZO-1); (c) 
+reduction in mRNA levels of inflammatory cytokines TNF-α, IL-1β, and MMP-9; (d) 
+reduction in the angiogenic factor VEGF and in fibrotic TGF-β1. Moreover, P-ASCs 
+counteracted the HG-induced activation of the pro-inflammatory 
+phospho-ERK1/2/phospho-cPLA2/COX-2 pathway. Finally, crosstalk between HRECs and 
+ASCs or P-ASCs based on the PDGF-B/PDGFR-β axis at the mRNA level is described 
+herein. Thus, P-ASCs might be considered valuable candidates for therapeutic 
+approaches aimed at countering BRB disruption in DR.
+
+DOI: 10.3390/ijms24020913
+PMCID: PMC9860961
+PMID: 36674425 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
+
+
+6. Autophagy. 2022 Oct;18(10):2459-2480. doi: 10.1080/15548627.2022.2039000. Epub 
+2022 Feb 27.
+
+A defective lysophosphatidic acid-autophagy axis increases miscarriage risk by 
+restricting decidual macrophage residence.
+
+Yang HL(1)(2), Lai ZZ(1), Shi JW(1), Zhou WJ(3), Mei J(4), Ye JF(5), Zhang T(6), 
+Wang J(1), Zhao JY(7)(8), Li DJ(1), Li MQ(1)(2).
+
+Author information:
+(1)Laboratory for Reproductive Immunology, NHC Key Lab of Reproduction 
+Regulation (Shanghai Institute for Biomedical and Pharmaceutical Technologies), 
+Hospital of Obstetrics and Gynecology, Shanghai Medical School, Fudan 
+University, Shanghai, 200080 People's Republic of China.
+(2)Shanghai Key Laboratory of Female Reproductive Endocrine Related Diseases, 
+Hospital of Obstetrics and Gynecology, Shanghai Medical School, Fudan 
+University, Shanghai, 200080, People's Republic of China.
+(3)Center of Reproductive Medicine of Ruijin Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai 200025, People's Republic of China.
+(4)Reproductive Medicine Center, Department of Obstetrics and Gynecology, 
+Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University 
+Medicine School, Nanjing, 210000, People's Republic of China.
+(5)Division of Obstetrics and Gynecology, KK Women's and Children's Hospital, 
+229899, Singapore.
+(6)Assisted Reproductive Technology Unit, Department of Obstetrics and 
+Gynecology, Faculty of Medicine, Chinese University of Hong Kong, Hong Kong, 
+People's Republic of China.
+(7)State Key Laboratory of Genetic Engineering, Collaborative Innovation Center 
+for Genetics and Development, School of Life Sciences, Fudan University, 
+Shanghai 200433, People's Republic of China.
+(8)Institute of Metabolism and Integrative Biology (IMIB), School of Life 
+Sciences, Fudan University, Shanghai 200433, People's Republic of China.
+
+Massive infiltrated and enriched decidual macrophages (dMφ) have been widely 
+regarded as important regulators of maternal-fetal immune tolerance and 
+trophoblast invasion, contributing to normal pregnancy. However, the 
+characteristics of metabolic profile and the underlying mechanism of dMφ 
+residence remain largely unknown. Here, we observe that dMφ display an active 
+glycerophospholipid metabolism. The activation of ENPP2-lysophosphatidic acid 
+(LPA) facilitates the adhesion and retention, and M2 differentiation of dMφ 
+during normal pregnancy. Mechanistically, this process is mediated through 
+activation of the LPA receptors (LPAR1 and 
+PPARG/PPARγ)-DDIT4-macroautophagy/autophagy axis, and further upregulation of 
+multiple adhesion factors (e.g., cadherins and selectins) in a CLDN7 (claudin 
+7)-dependent manner. Additionally, poor trophoblast invasion and placenta 
+development, and a high ratio of embryo loss are observed in Enpp2±, lpar1-/- or 
+PPARG-blocked pregnant mice. Patients with unexplained spontaneous abortion 
+display insufficient autophagy and cell residence of dMφ. In therapeutic 
+studies, supplementation with LPA or the autophagy inducer rapamycin 
+significantly promotes dMφ autophagy and cell residence, and improves embryo 
+resorption in Enpp2± and spontaneous abortion mouse models, which should be 
+dependent on the activation of DDIT4-autophagy-CLDN7-adhesion molecules axis. 
+This observation reveals that inactivation of ENPP2-LPA metabolism and 
+insufficient autophagy of dMφ result in resident obstacle of dMφ and further 
+increase the risk of spontaneous abortion, and provides potential therapeutic 
+strategies to prevent spontaneous abortion.Abbreviations: ACTB: actin beta; 
+ADGRE1/F4/80: adhesion G protein-coupled receptor E1; Atg5: autophagy related 5; 
+ATG13: autophagy related 13; BECN1: beclin 1; CDH1/E-cadherin: cadherin 1; 
+CDH5/VE-cadherin: cadherin 5; CFSE: carboxyfluorescein succinimidyl ester; 
+CLDN7: claudin 7; CSF1/M-CSF: colony stimulating factor 1; CSF2/GM-CSF: colony 
+stimulating factor 2; Ctrl: control; CXCL10/IP-10: chemokine (C-X-C) ligand 10; 
+DDIT4: DNA damage inducible transcript 4; dMφ: decidual macrophage; DSC: 
+decidual stromal cells; ENPP2/ATX: ectonucleotide 
+pyrophosphatase/phosphodiesterase 2; Enpp2±: Enpp2 heterozygous knockout mouse; 
+ENPP2i/PF-8380: ENPP2 inhibitor; EPCAM: epithelial cell adhesion molecule; ESC: 
+endometrial stromal cells; FGF2/b-FGF: fibroblast growth factor 2; GAPDH: 
+glyceraldehyde-3-phosphate dehydrogenase; GPCPD1: glycerophosphocholine 
+phosphodiesterase 1; HE: heterozygote; HIF1A: hypoxia inducible factor 1 subunit 
+alpha; HNF4A: hepatocyte nuclear factor 4 alpha; HO: homozygote; ICAM2: 
+intercellular adhesion molecule 2; IL: interleukin; ITGAV/CD51: integrin subunit 
+alpha V; ITGAM/CD11b: integrin subunit alpha M; ITGAX/CD11b: integrin subunit 
+alpha X; ITGB3/CD61: integrin subunit beta 3; KLRB1/NK1.1: killer cell lectin 
+like receptor B1; KRT7/cytokeratin 7: keratin 7; LPA: lysophosphatidic acid; 
+LPAR: lysophosphatidic acid receptor; lpar1-/-: lpar1 homozygous knockout mouse; 
+LPAR1i/AM966: LPAR1 inhibitor; LY6C: lymphocyte antigen 6 complex, locus C1; 
+LYPLA1: lysophospholipase 1; LYPLA2: lysophospholipase 2; Lyz2: lysozyme 2; 
+MAP1LC3B: microtubule associated protein 1 light chain 3 beta; MARVELD2: MARVEL 
+domain containing 2; 3-MA: 3-methyladenine; MBOAT2: membrane bound 
+O-acyltransferase domain containing 2; MGLL: monoglyceride lipase; MRC1/CD206: 
+mannose receptor C-type 1; MTOR: mechanistic target of rapamycin kinase; NP: 
+normal pregnancy; PDGF: platelet derived growth factor; PLA1A: phospholipase A1 
+member A; PLA2G4A: phospholipase A2 group IVA; PLPP1: phospholipid phosphatase 
+1; pMo: peripheral blood monocytes; p-MTOR: phosphorylated MTOR; PPAR: 
+peroxisome proliferator activated receptor; PPARG/PPARγ: peroxisome proliferator 
+activated receptor gamma; PPARGi/GW9662: PPARG inhibitor; PTPRC/CD45: protein 
+tyrosine phosphatase receptor type, C; Rapa: rapamycin; RHEB: Ras homolog, 
+mTORC1 binding; SA: spontaneous abortion; SELE: selectin E; SELL: selectin L; 
+siCLDN7: CLDN7-silenced; STAT: signal transducer and activator of transcription; 
+SQSTM1: sequestosome 1; TJP1: tight junction protein 1; VCAM1: vascular cell 
+adhesion molecule 1; WT: wild type.
+
+DOI: 10.1080/15548627.2022.2039000
+PMCID: PMC9542369
+PMID: 35220880 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s)
+
+
+7. Vascul Pharmacol. 2022 Feb;142:106941. doi: 10.1016/j.vph.2021.106941. Epub 2021 
+Nov 13.
+
+CRH/CRHR1 modulates cerebrovascular endothelial cell permeability in association 
+with S1PR2 and S1PR3 under oxidative stress.
+
+Mu J(1), Que Y(1), Li X(1), Zhou F(1), Jin L(1), Li S(2), Zhu C(3).
+
+Author information:
+(1)Department of pharmacology, Nanjing Medical University, Nanjing 210029, PR 
+China.
+(2)Department of pharmacology, Nanjing Medical University, Nanjing 210029, PR 
+China. Electronic address: snli@njmu.edu.cn.
+(3)Department of pharmacology, Nanjing Medical University, Nanjing 210029, PR 
+China. Electronic address: czhu@njmu.edu.cn.
+
+Corticotrophin-releasing hormone (CRH) has been demonstrated to participate in 
+vascular inflammation and permeability. Our previous studies have shown that 
+blockade of S1PR2 or CRHR1 inhibited H2O2-induced brain endothelial 
+hyperpermeability via inhibiting cPLA2 phosphorylation. However, little is known 
+about the linkage between S1PRs and CRHR1 in oxidative stress-induced 
+cerebrovascular endothelial hyperpermeability. Here we observed the opposite 
+effects of S1PR2 to those of S1PR3 on the monolayer permeability of bEnd3 cells 
+in response to H2O2. Interestingly, activation of CRHR1 was found to reverse the 
+effects resulting from blockade/silencing of both S1PR2 and S1PR3. In bEnd3 
+monolayer, blockade/knockdown of S1PR2 reduced the endothelial hyperpermeability 
+and suppressed the tight junction protein ZO-1 redistribution caused by H2O2, 
+along with the inhibition of p38, ERK and cPLA2 phosphorylation. On the 
+contrary, suppression/silencing of S1PR3 further promoted H2O2-induced 
+endothelial hyperpermeability and ZO-1 redistribution, accompanied by the 
+increased phosphorylation of p38, ERK and cPLA2. In the presence of CRH, the 
+effects resulting from the suppression of both S1PR2 and S1PR3 were abolished. 
+Our results elucidate a possible linkage between CRHR1 and S1PR2/S1PR3 involving 
+in the regulation of endothelial monolayer permeability under oxidative stress 
+condition.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vph.2021.106941
+PMID: 34781017 [Indexed for MEDLINE]
+
+
+8. Proc Natl Acad Sci U S A. 2021 Oct 12;118(41):e2112971118. doi: 
+10.1073/pnas.2112971118.
+
+Phospholipase Cγ2 regulates endocannabinoid and eicosanoid networks in innate 
+immune cells.
+
+Jing H(1), Reed A(1), Ulanovskaya OA(2), Grigoleit JS(2), Herbst DM(2), Henry 
+CL(2), Li H(1), Barbas S(1), Germain J(1), Masuda K(1), Cravatt BF(3).
+
+Author information:
+(1)Department of Chemistry, The Scripps Research Institute, La Jolla, CA 92037.
+(2)Lundbeck La Jolla Research Center, La Jolla, CA 92121.
+(3)Department of Chemistry, The Scripps Research Institute, La Jolla, CA 92037; 
+cravatt@scripps.edu.
+
+Human genetic studies have pointed to a prominent role for innate immunity and 
+lipid pathways in immunological and neurodegenerative disorders. Our 
+understanding of the composition and function of immunomodulatory lipid networks 
+in innate immune cells, however, remains incomplete. Here, we show that 
+phospholipase Cγ2 (PLCγ2 or PLCG2)-mutations in which are associated with 
+autoinflammatory disorders and Alzheimer's disease-serves as a principal source 
+of diacylglycerol (DAG) pools that are converted into a cascade of bioactive 
+endocannabinoid and eicosanoid lipids by DAG lipase (DAGL) and monoacylglycerol 
+lipase (MGLL) enzymes in innate immune cells. We show that this lipid network is 
+tonically stimulated by disease-relevant human mutations in PLCγ2, as well as Fc 
+receptor activation in primary human and mouse macrophages. Genetic disruption 
+of PLCγ2 in mouse microglia suppressed DAGL/MGLL-mediated 
+endocannabinoid-eicosanoid cross-talk and also caused widespread transcriptional 
+and proteomic changes, including the reorganization of immune-relevant lipid 
+pathways reflected in reductions in DAGLB and elevations in PLA2G4A. Despite 
+these changes, Plcg2-/- mice showed generally normal proinflammatory cytokine 
+and chemokine responses to lipopolysaccharide treatment, instead displaying a 
+more restricted deficit in microglial activation that included impairments in 
+prostaglandin production and CD68 expression. Our findings enhance the 
+understanding of PLCγ2 function in innate immune cells, delineating a role in 
+cross-talk with endocannabinoid/eicosanoid pathways and modulation of subsets of 
+cellular responses to inflammatory stimuli.
+
+DOI: 10.1073/pnas.2112971118
+PMCID: PMC8522274
+PMID: 34607960 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+9. Nat Commun. 2020 Aug 31;11(1):4363. doi: 10.1038/s41467-020-18175-4.
+
+ABHD4-dependent developmental anoikis safeguards the embryonic brain.
+
+László ZI(#)(1)(2), Lele Z(#)(1), Zöldi M(1)(2), Miczán V(1)(3), Mógor F(1), 
+Simon GM(4), Mackie K(5), Kacskovics I(6)(7), Cravatt BF(4), Katona I(8)(9).
+
+Author information:
+(1)Momentum Laboratory of Molecular Neurobiology, Institute of Experimental 
+Medicine, 1450 Budapest Pf. 67., Budapest, Hungary.
+(2)School of Ph.D. Studies, Semmelweis University, Budapest, Hungary.
+(3)Faculty of Information Technology and Bionics, Pázmány Péter Catholic 
+University, Budapest, Hungary.
+(4)The Skaggs Institute for Chemical Biology, Department of Chemical Physiology, 
+The Scripps Research Institute, La Jolla, CA, 92307, USA.
+(5)Department of Psychological and Brain Sciences, Indiana University, 
+Bloomington, IN, 47405, USA.
+(6)Department of Immunology, Eötvös Loránd University, Pázmány Péter stny 1/A., 
+1117, Budapest, Hungary.
+(7)ImmunoGenes Ltd, Makkosi út 86., 2092, Budakeszi, Hungary.
+(8)Momentum Laboratory of Molecular Neurobiology, Institute of Experimental 
+Medicine, 1450 Budapest Pf. 67., Budapest, Hungary. katona@koki.hu.
+(9)Department of Psychological and Brain Sciences, Indiana University, 
+Bloomington, IN, 47405, USA. katona@koki.hu.
+(#)Contributed equally
+
+A specialized neurogenic niche along the ventricles accumulates millions of 
+progenitor cells in the developing brain. After mitosis, fate-committed daughter 
+cells delaminate from this germinative zone. Considering the high number of cell 
+divisions and delaminations taking place during embryonic development, brain 
+malformations caused by ectopic proliferation of misplaced progenitor cells are 
+relatively rare. Here, we report that a process we term developmental anoikis 
+distinguishes the pathological detachment of progenitor cells from the normal 
+delamination of daughter neuroblasts in the developing mouse neocortex. We 
+identify the endocannabinoid-metabolizing enzyme abhydrolase domain containing 4 
+(ABHD4) as an essential mediator for the elimination of pathologically detached 
+cells. Consequently, rapid ABHD4 downregulation is necessary for delaminated 
+daughter neuroblasts to escape from anoikis. Moreover, ABHD4 is required for 
+fetal alcohol-induced apoptosis, but not for the well-established form of 
+developmentally controlled programmed cell death. These results suggest that 
+ABHD4-mediated developmental anoikis specifically protects the embryonic brain 
+from the consequences of sporadic delamination errors and teratogenic insults.
+
+DOI: 10.1038/s41467-020-18175-4
+PMCID: PMC7459116
+PMID: 32868797 [Indexed for MEDLINE]
+
+Conflict of interest statement: I. Kacskovics is a scientific co-founder of 
+ImmunoGenes Ltd., a company specialized in the generation of FcRn transgenic 
+animals for the production of polyclonal and monoclonal antibodies. All the 
+other authors declare no competing interests.
+
+
+10. Am J Respir Cell Mol Biol. 2020 Jul;63(1):57-66. doi: 10.1165/rcmb.2019-0325OC.
+
+Cysteinyl Leukotriene Synthesis via Phospholipase A2 Group IV Mediates 
+Exercise-induced Bronchoconstriction and Airway Remodeling.
+
+Ueno H(1), Koya T(1), Takeuchi H(1), Tsukioka K(1), Saito A(1), Kimura Y(1), 
+Hayashi M(1), Watanabe S(1), Hasegawa T(2), Arakawa M(3), Kikuchi T(1).
+
+Author information:
+(1)Department of Respiratory Medicine and Infectious Diseases, Niigata 
+University Graduate School of Medical and Dental Sciences, Niigata, Japan.
+(2)Department of General Medicine, Niigata University Medical and Dental 
+Hospital, Niigata, Japan; and.
+(3)Niigata Institute for Health and Sports Medicine, Niigata, Japan.
+
+Comment in
+    Am J Respir Cell Mol Biol. 2020 Jul;63(1):7-8. doi: 
+10.1165/rcmb.2020-0092ED.
+    Am J Respir Cell Mol Biol. 2020 Oct;63(4):543-545. doi: 
+10.1165/rcmb.2020-0131LE.
+    Am J Respir Cell Mol Biol. 2020 Oct;63(4):545-546. doi: 
+10.1165/rcmb.2020-0186LE.
+
+It is well known that the prevalence of asthma is higher in athletes, including 
+Olympic athletes, than in the general population. In this study, we analyzed the 
+mechanism of exercise-induced bronchoconstriction by using animal models of 
+athlete asthma. Mice were made to exercise on a treadmill for a total duration 
+of 1 week, 3 weeks, or 5 weeks. We analyzed airway responsiveness, BAL fluid, 
+lung homogenates, and tissue histology for each period. In mice that were 
+treated (i.e., the treatment model), treatments were administered from the 
+fourth to the fifth week. We also collected induced sputum from human athletes 
+with asthma and analyzed the supernatants. Airway responsiveness to methacholine 
+was enhanced with repeated exercise stimulation, although the cell composition 
+in BAL fluid did not change. Exercise induced hypertrophy of airway smooth 
+muscle and subepithelial collagen deposition. Cysteinyl-leukotriene (Cys-LT) 
+levels were significantly increased with exercise duration. Montelukast 
+treatment significantly reduced airway hyperresponsiveness (AHR) and airway 
+remodeling. Expression of PLA2G4 (phospholipase A2 group IV) and leukotriene C4 
+synthase in the airway epithelium was upregulated in the exercise model, and 
+inhibition of PLA2 ameliorated AHR and airway remodeling, with associated lower 
+levels of Cys-LTs. The levels of Cys-LTs in sputum from athletes did not differ 
+between those with and without sputum eosinophilia. These data suggest that AHR 
+and airway remodeling were caused by repeated and strenuous exercise. Cys-LTs 
+from the airway epithelium, but not inflammatory cells, may play an important 
+role in this mouse model.
+
+DOI: 10.1165/rcmb.2019-0325OC
+PMID: 32182104 [Indexed for MEDLINE]
+
+
+11. Sci Rep. 2020 Jan 27;10(1):1256. doi: 10.1038/s41598-020-58296-w.
+
+Annexin A8 regulates Wnt signaling to maintain the phenotypic plasticity of 
+retinal pigment epithelial cells.
+
+Lueck K(1), Carr AF(1), Yu L(2), Greenwood J(1), Moss SE(3).
+
+Author information:
+(1)UCL Institute of Ophthalmology, 11-43 Bath Street, EC1V 9EL, London, United 
+Kingdom.
+(2)PAREXEL International, The Quays, 101-105 Oxford Road UB8 1LZ, Uxbridge, 
+United Kingdom.
+(3)UCL Institute of Ophthalmology, 11-43 Bath Street, EC1V 9EL, London, United 
+Kingdom. s.moss@ucl.ac.uk.
+
+Wnt signalling mediates complex cell-cellinteractions during development and 
+proliferation. Annexin A8 (AnxA8), a calcium-dependent phospholipid-binding 
+protein, and canonical Wnt signalling mechanisms have both been implicated in 
+retinal pigment epithelial (RPE) cell differentiation. The aim here was to 
+examine the possibility of cross-talk between AnxA8 and Wnt signalling, as both 
+are down-regulated upon fenretinide (FR)-mediated RPE transdifferentiation. 
+AnxA8 suppression in RPE cells via siRNA or administration of FR induced 
+neuronal-like cell transdifferentiation and reduced expression of Wnt-related 
+genes, as measured by real-time PCR and western blotting. AnxA8 gene expression, 
+on the other hand, remained unaltered upon manipulating Wnt signalling, 
+suggesting Wnt-related genes to be downstream effectors of AnxA8. 
+Co-immunoprecipitation revealed an interaction between AnxA8 and β-catenin, 
+which was reduced in the presence of activated TGF-β1. TGF-β1 signalling also 
+reversed the AnxA8 loss-induced cell morphology changes, and induced β-catenin 
+translocation and GSK-3β phosphorylation in the absence of AnxA8. Ectopic 
+over-expression of AnxA8 led to an increase in active β-catenin and GSK-3β 
+phosphorylation. These data demonstrate an important role for AnxA8 as a 
+regulator of Wnt signalling and a determinant of RPE phenotype, with 
+implications for regenerative medicine approaches that utilise stem cell-derived 
+RPE cells to treat conditions such as age-related macular degeneration.
+
+DOI: 10.1038/s41598-020-58296-w
+PMCID: PMC6985107
+PMID: 31988387 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+12. Blood Adv. 2019 Nov 26;3(22):3579-3589. doi: 10.1182/bloodadvances.2019000922.
+
+Non-del(5q) myelodysplastic syndromes-associated loci detected by SNP-array 
+genome-wide association meta-analysis.
+
+McGraw KL(1), Cheng CH(2), Chen YA(2), Hou HA(3), Nilsson B(4), Genovese 
+G(5)(6)(7), Cluzeau T(8), Pellagatti A(9), Przychodzen BP(10), Mallo M(11), 
+Arenillas L(12), Mohamedali A(13), Adès L(14), Sallman DA(1), Padron E(1), Sokol 
+L(1), Moreilhon C(8), Raynaud S(8), Tien HF(3), Boultwood J(9), Ebert BL(15), 
+Sole F(11), Fenaux P(14), Mufti GJ(13), Maciejewski JP(10), Kanetsky PA(16), 
+List AF(1).
+
+Author information:
+(1)Department of Malignant Hematology and.
+(2)Department of Biostatistics and Bioinformatics, Moffitt Cancer Center, Tampa, 
+FL.
+(3)Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+Taiwan.
+(4)Department of Laboratory Medicine, Section of Hematology and Transfusion 
+Medicine, Lund University, Lund, Sweden.
+(5)Stanley Center for Psychiatric Research and.
+(6)Program in Medical and Population Genetics, Broad Institute of the 
+Massachusetts Institute of Technology and Harvard, Cambridge, MA.
+(7)Department of Genetics, Harvard Medical School, Boston, MA.
+(8)Cote d'Azur University, Centre Hospitalier Universitaire of Nice, Nice, 
+France.
+(9)Bloodwise Molecular Haematology Unit, Nuffield Division of Clinical 
+Laboratory Sciences, Radcliffe Department of Medicine, University of Oxford and 
+Oxford Biomedical Research Centre Haematology Theme, Oxford, United Kingdom.
+(10)Cleveland Clinic, Taussig Cancer Institute, Cleveland, OH.
+(11)Institut de Recerca Contra la Leucèmia Josep Carreras, Institut Catala 
+d'Oncologia-Hospital GermansTrias i Pujol, Universitat Autonòma de Barcelona, 
+Badalona, Barcelona, Spain.
+(12)Laboratori de Citologia Hematòlogica, Servei de Patologia, Hospital del Mar, 
+Barcelona, Spain.
+(13)Department of Haematological Medicine, Kings College London, London, United 
+Kingdom.
+(14)Senior Hematology Department, Hopital Saint Louis, Paris, France.
+(15)Departments of Medicine and Medical Oncology, Harvard Medical School and 
+Brigham and Women's Hospital, Boston, MA; and.
+(16)Department of Cancer Epidemiology, Moffitt Cancer Center, Tampa, FL.
+
+Myelodysplastic syndromes (MDS) are hematopoietic stem cell malignancies. Known 
+predisposing factors to adult MDS include rare germline mutations, cytotoxic 
+therapy, age-related clonal hematopoiesis, and autoimmune or chronic 
+inflammatory disorders. To date, no published studies characterizing 
+MDS-associated germline susceptibility polymorphisms exist. We performed a 
+genome-wide association study of 2 sample sets (555 MDS cases vs 2964 control 
+subjects; 352 MDS cases vs 2640 control subjects) in non-del(5q) MDS cases of 
+European genomic ancestry. Meta-analysis identified 8 MDS-associated loci at 
+1q31.1 (PLA2G4A), 3p14.1 (FAM19A4), 5q21.3 (EFNA5), 6p21.33, 10q23.1 (GRID1), 
+12q24.32, 15q26.1, and 20q13.12 (EYA2) that approached genome-wide significance. 
+Gene expression for 5 loci that mapped within or near genes was significantly 
+upregulated in MDS bone marrow cells compared with those of control subjects (P 
+< .01). Higher PLA2G4A expression and lower EYA2 expression were associated with 
+poorer overall survival (P = .039 and P = .037, respectively). Higher PLA2G4A 
+expression is associated with mutations in NRAS (P < .001), RUNX1 (P = .012), 
+ASXL1 (P = .007), and EZH2 (P = .038), all of which are known to contribute to 
+MDS development. EYA2 expression was an independently favorable risk factor 
+irrespective of age, sex, and Revised International Scoring System score 
+(relative risk, 0.67; P = .048). Notably, these genes have regulatory roles in 
+innate immunity, a critical driver of MDS pathogenesis. EYA2 overexpression 
+induced innate immune activation, whereas EYA2 inhibition restored 
+colony-forming potential in primary MDS cells indicative of hematopoietic 
+restoration and possible clinical relevance. In conclusion, among 8 suggestive 
+MDS-associated loci, 5 map to genes upregulated in MDS with functional roles in 
+innate immunity and potential biological relevance to MDS.
+
+© 2019 by The American Society of Hematology.
+
+DOI: 10.1182/bloodadvances.2019000922
+PMCID: PMC6880887
+PMID: 31738830 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest disclosure: The authors 
+declare no competing financial interests.
+
+
+13. Cell Signal. 2020 Feb;66:109467. doi: 10.1016/j.cellsig.2019.109467. Epub 2019 
+Nov 9.
+
+Activation of CRHR1 contributes to cerebral endothelial barrier impairment via 
+cPLA(2) phosphorylation in experimental ischemic stroke.
+
+Cao C(1), Zhou J(2), Wu X(3), Qian Y(2), Hong Y(2), Mu J(2), Jin L(2), Zhu C(2), 
+Li S(4).
+
+Author information:
+(1)Department of Pharmacology, Nanjing Medical University, 101 Longmian Avenue, 
+Nanjing, Jiangsu, China; Department of Pharmacy, The Affiliated Huaian NO.1 
+People's Hospital of Nanjing Medical University, 1 Huanghe West Road, Huaian, 
+Jiangsu, China.
+(2)Department of Pharmacology, Nanjing Medical University, 101 Longmian Avenue, 
+Nanjing, Jiangsu, China.
+(3)Department of Pharmacy, The Affiliated Huaian NO.1 People's Hospital of 
+Nanjing Medical University, 1 Huanghe West Road, Huaian, Jiangsu, China.
+(4)Department of Pharmacology, Nanjing Medical University, 101 Longmian Avenue, 
+Nanjing, Jiangsu, China. Electronic address: snli@njmu.edu.cn.
+
+The activation of corticotrophin-releasing hormone receptor (CRHR) 1 is 
+implicated in neuronal injury in experimental stroke. However, little is known 
+about the relationship between CRHR1 activation and brain endothelial barrier 
+impairment after ischemia and reperfusion (I/R). Recently we have demonstrated 
+that the activation of extracellular signal-regulated kinase (Erk) 1/2 as well 
+as p38 is required for hydrogen peroxide (H2O2)-increased cytosolic 
+phospholipase A2 (cPLA2) phosphorylation in bEnd3 cells. Using this in vitro 
+ischemic-like model, we found that both blockade and interference of CRHR1 
+inhibited H2O2-enhancd p38, Erk1/2 and cPLA2 phosphorylation and in turn 
+suppressed monolayer hyperpermeability and ZO-1 redistribution. Then using the 
+transient middle cerebral artery occlusion (tMCAO) mouse model, we revealed that 
+CRHR1 antagonist NBI27914 pretreatment attenuated cPLA2 phosphorylation, Evans 
+blue dye (EBD) extravasation, tight junction disruption and mitochondrial 
+cytochrome c release. CRHR1 interference also inhibited cortical vascular 
+hyperpermeability. Furthermore, NBI27914 administration attenuated neurovascular 
+injury. After 30 min MCAO with 7 days reperfusion CRHR1 interference alleviated 
+hippocampal blood-brain barrier (BBB) leakage and improved spatial cognitive 
+dysfunction. Thus, our study demonstrates that during ischemic stroke the 
+activation of endothelial CRHR1 contributes to BBB impairment via cPLA2 
+phosphorylation.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellsig.2019.109467
+PMID: 31715260 [Indexed for MEDLINE]
+
+
+14. Science. 2019 May 24;364(6442):eaaw4295. doi: 10.1126/science.aaw4295.
+
+Protein crystallization promotes type 2 immunity and is reversible by antibody 
+treatment.
+
+Persson EK(#)(1)(2), Verstraete K(#)(3)(4), Heyndrickx I(#)(1)(2), Gevaert E(5), 
+Aegerter H(1)(2), Percier JM(6), Deswarte K(1)(2), Verschueren KHG(3)(4), 
+Dansercoer A(3)(4), Gras D(7), Chanez P(7)(8), Bachert C(5)(9), Gonçalves 
+A(10)(11), Van Gorp H(1)(2), De Haard H(6), Blanchetot C(6), Saunders M(6), 
+Hammad H(1)(2), Savvides SN(12)(4), Lambrecht BN(13)(2)(14).
+
+Author information:
+(1)Immunoregulation Unit, VIB Center for Inflammation Research, Ghent, Belgium.
+(2)Department of Internal Medicine and Pediatrics, Ghent University, Ghent, 
+Belgium.
+(3)Unit for Structural Biology, VIB Center for Inflammation Research, Ghent, 
+Belgium.
+(4)Department of Biochemistry and Microbiology, Ghent University, Ghent, 
+Belgium.
+(5)Upper Airways Research Laboratory, ENT Department, Ghent University Hospital, 
+Ghent, Belgium.
+(6)arGEN-X, Ghent, Belgium.
+(7)Aix Marseille University, INSERM, INRA, C2VN, Marseille, France.
+(8)Clinique des Bronches, Allergies et Sommeil, Hôpital Nord, AP-HM, Marseille, 
+France.
+(9)Division of ENT Diseases, CLINTEC, Karolinska Institute, Stockholm, Sweden.
+(10)BioImaging Core, VIB Inflammation Research Center, Ghent, Belgium.
+(11)Department of Biomedical Molecular Biology, Ghent University, Belgium.
+(12)Unit for Structural Biology, VIB Center for Inflammation Research, Ghent, 
+Belgium. bart.lambrecht@ugent.be savvas.savvides@ugent.be.
+(13)Immunoregulation Unit, VIB Center for Inflammation Research, Ghent, Belgium. 
+bart.lambrecht@ugent.be savvas.savvides@ugent.be.
+(14)Department of Pulmonary Medicine, ErasmusMC, Rotterdam, Netherlands.
+(#)Contributed equally
+
+Comment in
+    Science. 2019 May 24;364(6442):738-739. doi: 10.1126/science.aax6175.
+    Nat Rev Immunol. 2019 Jul;19(7):412-413. doi: 10.1038/s41577-019-0187-7.
+    N Engl J Med. 2019 Aug 29;381(9):882-884. doi: 10.1056/NEJMcibr1908064.
+    Am J Respir Crit Care Med. 2020 Dec 1;202(11):1576-1578. doi: 
+10.1164/rccm.202005-1797RR.
+
+Although spontaneous protein crystallization is a rare event in vivo, 
+Charcot-Leyden crystals (CLCs) consisting of galectin-10 (Gal10) protein are 
+frequently observed in eosinophilic diseases, such as asthma. We found that CLCs 
+derived from patients showed crystal packing and Gal10 structure identical to 
+those of Gal10 crystals grown in vitro. When administered to the airways, 
+crystalline Gal10 stimulated innate and adaptive immunity and acted as a type 2 
+adjuvant. By contrast, a soluble Gal10 mutein was inert. Antibodies directed 
+against key epitopes of the CLC crystallization interface dissolved preexisting 
+CLCs in patient-derived mucus within hours and reversed crystal-driven 
+inflammation, goblet-cell metaplasia, immunoglobulin E (IgE) synthesis, and 
+bronchial hyperreactivity (BHR) in a humanized mouse model of asthma. Thus, 
+protein crystals may promote hallmark features of asthma and are targetable by 
+crystal-dissolving antibodies.
+
+Copyright © 2019 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/science.aaw4295
+PMID: 31123109 [Indexed for MEDLINE]
+
+
+15. Nutrients. 2019 Mar 7;11(3):574. doi: 10.3390/nu11030574.
+
+Docosahexaenoic Acid Inhibits Proliferation of EoL-1 Leukemia Cells and Induces 
+Cell Cycle Arrest and Cell Differentiation.
+
+Moustaka K(1), Maleskou E(2), Lambrianidou A(3), Papadopoulos S(4), Lekka ME(5), 
+Trangas T(6), Kitsiouli E(7)(8).
+
+Author information:
+(1)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+kallia.moustaka@gmail.com.
+(2)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+emaleskou1988@gmail.com.
+(3)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+mahilabrianidou@hotmail.com.
+(4)Laboratory of Biochemistry, Department of Chemistry, University of Ioannina, 
+45110 Ioannina, Greece. stelios_ppp@yahoo.com.
+(5)Laboratory of Biochemistry, Department of Chemistry, University of Ioannina, 
+45110 Ioannina, Greece. mlekka@uoi.gr.
+(6)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+ttrangas@cc.uoi.gr.
+(7)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+ekitsiouli@gmail.com.
+(8)Laboratory of Biochemistry, Department of Chemistry, University of Ioannina, 
+45110 Ioannina, Greece. ekitsiouli@gmail.com.
+
+Τhe effect of docosahexaenoic acid (DHA, an omega-3 polyunsaturated fatty acid) 
+upon the proliferation of EoL-1 (Eosinophilic leukemia) cell line was assessed, 
+while additional cellular events during the antiproliferative action were 
+recorded. DHA inhibited EoL-1 cells growth dose-dependently by inducing growth 
+arrest at G0/1 phase of the cell cycle. After DHA addition to the cells, the 
+expression of MYC oncogene was decreased, PTAFR-mRNA overexpression was observed 
+which was used as a marker of differentiation, and PLA2G4A-mRNA increase was 
+recorded. The enzymatic activities of phospholipase A₂ (PLA₂), a group of 
+hydrolytic enzymes, whose action precedes and leads to PAF biosynthesis through 
+the remodeling pathway, as well as platelet activating factor acetylhydrolase 
+(PAFAH) which hydrolyses and deactivates PAF, were also measured. DHA had an 
+effect on the levels of both the intracellular and secreted activities of PLA₂ 
+and PAFAH. The inflammatory cytokines IL-6 and TNF-α were also detected in high 
+levels. In conclusion, DHA-induced EoL-1 cells differentiation was correlated 
+with downregulation of MYC oncogene, overexpression of PTAFR and PLA2G4A-mRNAs, 
+increase of the inflammatory cytokines production, and alteration of the 
+enzymatic activities that regulate PAF levels. DHA is a natural substance and 
+the understanding of its action on EoL-1 cells on molecular level could be 
+useful in further investigation as a future therapeutic tool against F/P ⁺ 
+hypereosinophilic syndrome.
+
+DOI: 10.3390/nu11030574
+PMCID: PMC6471786
+PMID: 30866528 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+16. Dig Dis Sci. 2018 Dec;63(12):3339-3347. doi: 10.1007/s10620-018-5177-2. Epub 
+2018 Jul 4.
+
+Effect of Homocysteine on the Differentiation of CD4(+) T Cells into Th17 Cells.
+
+Gao X(1)(2), Li J(1)(2), Chen M(3)(4).
+
+Author information:
+(1)Department of Gastroenterology, Zhongnan Hospital, Wuhan University School of 
+Medicine, Donghu Road 169, Wuhan, 430071, People's Republic of China.
+(2)The Hubei Clinical Center & Key Laboratory of Intestinal & Colorectal 
+Diseases, Wuhan, 430071, People's Republic of China.
+(3)Department of Gastroenterology, Zhongnan Hospital, Wuhan University School of 
+Medicine, Donghu Road 169, Wuhan, 430071, People's Republic of China. 
+chenmin8106@whu.edu.cn.
+(4)The Hubei Clinical Center & Key Laboratory of Intestinal & Colorectal 
+Diseases, Wuhan, 430071, People's Republic of China. chenmin8106@whu.edu.cn.
+
+Comment in
+    Dig Dis Sci. 2018 Dec;63(12):3161-3163. doi: 10.1007/s10620-018-5274-2.
+
+BACKGROUND: The hyperhomocysteinaemia (Hhcy) is a common phenomenon observed in 
+patients with inflammatory bowel disease (IBD). Our previous study showed that 
+Hhcy aggravated intestinal inflammation in an animal model of colitis. Increased 
+levels of IL-17 and RORγt were also observed in this animal model of colitis 
+with Hhcy. However, the direct effect of homocysteine on the differentiation of 
+Th17 cells has never been studied. The aim of this study was to investigate the 
+direct effect of Hhcy on the differentiation of CD4+ T cells into Th17 cells.
+METHOD: Lamina propria lymphocytes (LPLs) in colonic mucosa of Wistar rats were 
+isolated and cultured under Th17-inducing (iTH17) environments. Different 
+concentrations of the Hcy (0-100 μmol/ml) were added alone or combined with 
+IL-23 (100 ng/ml) or folate (5 μmol/ml). The LPLs were divided into eight groups 
+as follows: (1) Control group; (2) 10 μmol/ml Hcy group; (3) 25 μmol/ml Hcy 
+group; (4) 50 μmol/ml Hcy group; (5) 100 μmol/ml Hcy group; (6) 100 ng/ml IL-23 
+group; (7) 50 μmol/ml Hcy + 100 ng/ml IL-23 group and (8) 50 μmol/ml 
+Hcy + 100 ng/ml IL-23 + 5 μmol/ml folate group. The protein expression levels of 
+IL-17, retinoid-related orphan nuclear receptor-γt (RORγt), p38 MAPK, 
+phosphorylated p38 MAPK, cytosolic phospholipase A2 (cPLA2), 
+phosphorylated-cPLA2 and cyclooxygenase 2 (COX2) were detected by immunoblot 
+analysis. The protein level of prostaglandin E2 (PGE2) and IL-17 was detected by 
+ELISA, and IL-17 and RORγt-positive CD4+ T cells were stained and analyzed by 
+flow cytometry.
+RESULTS: Hcy increased the protein levels of IL-17, RORγt, the ratio of 
+phosphorylated p38 MAPK to p38 MAPK (p-p38/p38), the ratio of phosphorylated 
+cPLA2 to cPLA2 (p-cPLA2/cPLA2) and COX2. The effect was concentration dependent 
+to a certain degree; Hcy of 50 μmol/ml was the optimal concentration to increase 
+the protein levels of those molecules. The level of IL-17 and PGE2 in the cell 
+culture supernatants and the expression of IL-17 and RORγt in positive CD4+ T 
+cells were also increased in the group of Hhcy. IL-23 showed a cooperative 
+effect with Hcy on the differentiation of CD4+ Th cells into Th17 cells, whereas 
+folate supplementation showed an inhibition action.
+CONCLUSIONS: Homocysteine promoted the differentiation of CD4+ T cells into Th17 
+cells in a dose-dependant manner. This effect could be inhibited by folate.
+
+DOI: 10.1007/s10620-018-5177-2
+PMID: 29974377 [Indexed for MEDLINE]
+
+
+17. J Neurosci. 2018 May 2;38(18):4301-4315. doi: 10.1523/JNEUROSCI.2751-17.2018. 
+Epub 2018 Apr 9.
+
+Matrix Metalloproteinase-Mediated Blood-Brain Barrier Dysfunction in Epilepsy.
+
+Rempe RG(1), Hartz AMS(2)(3), Soldner ELB(4), Sokola BS(1), Alluri SR(1), Abner 
+EL(2), Kryscio RJ(2)(5), Pekcec A(4), Schlichtiger J(4), Bauer B(6)(7).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, College of Pharmacy.
+(2)Sanders-Brown Center on Aging.
+(3)Department of Pharmacology and Nutritional Sciences.
+(4)Department of Pharmacy Practice and Pharmaceutical Sciences, College of 
+Pharmacy, University of Minnesota, Duluth, Minnesota 55812.
+(5)Department of Statistics, and.
+(6)Department of Pharmaceutical Sciences, College of Pharmacy, 
+bjoern.bauer@uky.edu.
+(7)Epilepsy Center, University of Kentucky, Lexington, Kentucky 40536.
+
+Comment in
+    Epilepsy Curr. 2018 Sep-Oct;18(5):334-335. doi: 10.5698/1535-7597.18.5.334.
+
+The blood-brain barrier is dysfunctional in epilepsy, thereby contributing to 
+seizure genesis and resistance to antiseizure drugs. Previously, several groups 
+reported that seizures increase brain glutamate levels, which leads to barrier 
+dysfunction. One critical component of barrier dysfunction is brain capillary 
+leakage. Based on our preliminary data, we hypothesized that glutamate released 
+during seizures mediates an increase in matrix-metalloproteinase (MMP) 
+expression and activity levels, thereby contributing to barrier leakage. To test 
+this hypothesis, we exposed isolated brain capillaries from male Sprague Dawley 
+rats to glutamate ex vivo and used an in vivo/ex vivo approach of isolated brain 
+capillaries from female Wistar rats that experienced status epilepticus as an 
+acute seizure model. We found that exposing isolated rat brain capillaries to 
+glutamate increased MMP-2 and MMP-9 protein and activity levels, and decreased 
+tight junction protein levels, which resulted in barrier leakage. We confirmed 
+these findings in vivo in rats after status epilepticus and in brain capillaries 
+from male mice lacking cytosolic phospholipase A2 Together, our data support the 
+hypothesis that glutamate released during seizures signals an increase in MMP-2 
+and MMP-9 protein expression and activity levels, resulting in blood-brain 
+barrier leakage.SIGNIFICANCE STATEMENT The mechanism leading to seizure-mediated 
+blood-brain barrier dysfunction in epilepsy is poorly understood. In the present 
+study, we focused on defining this mechanism in the brain capillary endothelium. 
+We demonstrate that seizures trigger a pathway that involves glutamate signaling 
+through cytosolic phospholipase A2, which increases MMP levels and decreases 
+tight junction protein expression levels, resulting in barrier leakage. These 
+findings may provide potential therapeutic avenues within the blood-brain 
+barrier to limit barrier dysfunction in epilepsy and decrease seizure burden.
+
+Copyright © 2018 the authors 0270-6474/18/384301-15$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.2751-17.2018
+PMCID: PMC5932641
+PMID: 29632167 [Indexed for MEDLINE]
+
+
+18. Sci Immunol. 2017 Dec 22;2(18):eaan5918. doi: 10.1126/sciimmunol.aan5918.
+
+CD1a presentation of endogenous antigens by group 2 innate lymphoid cells.
+
+Hardman CS(1), Chen YL(1), Salimi M(1), Jarrett R(1), Johnson D(2), Järvinen 
+VJ(3), Owens RJ(3), Repapi E(4), Cousins DJ(5)(6), Barlow JL(7), McKenzie 
+ANJ(7), Ogg G(8).
+
+Author information:
+(1)Medical Research Council (MRC) Human Immunology Unit, Weatherall Institute of 
+Molecular Medicine, National Institute for Health Research (NIHR) Biomedical 
+Research Centre, Radcliffe Department of Medicine, University of Oxford, Oxford, 
+UK.
+(2)Department of Plastic and Reconstructive Surgery, John Radcliffe Hospital, 
+Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+(3)Oxford Protein Production Facility-UK, Harwell and Wellcome Trust Centre for 
+Human Genetics, University of Oxford, Oxford, UK.
+(4)Computational Biology Research Group, Weatherall Institute of Molecular 
+Medicine, Oxford, UK.
+(5)Department of Infection, Immunity and Inflammation, NIHR Leicester 
+Respiratory Biomedical Research Unit, University of Leicester, Leicester, UK.
+(6)MRC and Asthma UK Centre in Allergic Mechanisms of Asthma, King's College 
+London, London, UK.
+(7)MRC Laboratory of Molecular Biology, Cambridge, UK.
+(8)Medical Research Council (MRC) Human Immunology Unit, Weatherall Institute of 
+Molecular Medicine, National Institute for Health Research (NIHR) Biomedical 
+Research Centre, Radcliffe Department of Medicine, University of Oxford, Oxford, 
+UK. graham.ogg@ndm.ox.ac.uk.
+
+Comment in
+    Nat Rev Immunol. 2018 Feb;18(2):78-79. doi: 10.1038/nri.2018.1.
+
+Group 2 innate lymphoid cells (ILC2) are effectors of barrier immunity, with 
+roles in infection, wound healing, and allergy. A proportion of ILC2 express 
+MHCII (major histocompatibility complex II) and are capable of presenting 
+peptide antigens to T cells and amplifying the subsequent adaptive immune 
+response. Recent studies have highlighted the importance of CD1a-reactive T 
+cells in allergy and infection, activated by the presentation of endogenous 
+neolipid antigens and bacterial components. Using a human skin challenge model, 
+we unexpectedly show that human skin-derived ILC2 can express CD1a and are 
+capable of presenting endogenous antigens to T cells. CD1a expression is 
+up-regulated by TSLP (thymic stromal lymphopoietin) at levels observed in the 
+skin of patients with atopic dermatitis, and the response is dependent on 
+PLA2G4A. Furthermore, this pathway is used to sense Staphylococcus aureus by 
+promoting Toll-like receptor-dependent CD1a-reactive T cell responses to 
+endogenous ligands. These findings define a previously unrecognized role for 
+ILC2 in lipid surveillance and identify shared pathways of CD1a- and 
+PLA2G4A-dependent ILC2 inflammation amenable to therapeutic intervention.
+
+Copyright © 2017 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/sciimmunol.aan5918
+PMCID: PMC5826589
+PMID: 29273672 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: G. Ogg has served on 
+advisory boards for Eli Lilly, Novartis, Janssen, Orbit Discovery and UCB 
+Pharma, and has undertaken clinical trials for Atopix, Regeneron/Sanofi, Roche, 
+Anaptysbio. The authors declare no further competing financial interests.
+
+
+19. Neuroscience. 2017 Jan 6;340:373-383. doi: 10.1016/j.neuroscience.2016.11.003. 
+Epub 2016 Nov 10.
+
+Streptozotocin induced oxidative stress, innate immune system responses and 
+behavioral abnormalities in male mice.
+
+Amiri S(1), Haj-Mirzaian A(2), Momeny M(3), Amini-Khoei H(4), Rahimi-Balaei 
+M(5), Poursaman S(6), Rastegar M(7), Nikoui V(8), Mokhtari T(9), Ghazi-Khansari 
+M(10), Hosseini MJ(11).
+
+Author information:
+(1)Department of Pharmacology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran; Experimental Medicine Research Center, Tehran University 
+of Medical Sciences, Tehran, Iran; Regenerative Medicine Program, Department of 
+Biochemistry and Medical Genetics, Max Rady College of Medicine, Rady Faculty of 
+Health Sciences, University of Manitoba, Winnipeg, Manitoba, Canada.
+(2)Department of Pharmacology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran; Experimental Medicine Research Center, Tehran University 
+of Medical Sciences, Tehran, Iran.
+(3)Hematology/Oncology and Stem Cell Transplantation Research Center, Shariati 
+Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(4)Experimental Medicine Research Center, Tehran University of Medical Sciences, 
+Tehran, Iran; Department of Physiology and Pharmacology, School of Medicine, 
+Shahrekord University of Medical Sciences, Shahrekord, Iran.
+(5)Department of Human Anatomy and Cell Science, Max Rady College of Medicine, 
+Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, Manitoba, 
+Canada.
+(6)Department of Pharmacology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(7)Regenerative Medicine Program, Department of Biochemistry and Medical 
+Genetics, Max Rady College of Medicine, Rady Faculty of Health Sciences, 
+University of Manitoba, Winnipeg, Manitoba, Canada.
+(8)Razi Drug Research Center, Iran University of Medical Sciences, Tehran, Iran.
+(9)Department of Anatomy, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(10)Department of Pharmacology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran; Experimental Medicine Research Center, Tehran University 
+of Medical Sciences, Tehran, Iran. Electronic address: ghazikha@sina.tums.ac.ir.
+(11)Zanjan Applied Pharmacology Research Center, Zanjan University of Medical 
+Sciences, Zanjan, Iran; Department of Pharmacology and Toxicology, School of 
+Pharmacy, Zanjan University of Medical Sciences, Zanjan, Iran. Electronic 
+address: jamal_hossini@yahoo.com.
+
+Recent evidence indicates the involvement of inflammatory factors and 
+mitochondrial dysfunction in the etiology of psychiatric disorders such as 
+anxiety and depression. To investigate the possible role of 
+mitochondrial-induced sterile inflammation in the co-occurrence of anxiety and 
+depression, in this study, we treated adult male mice with the 
+intracerebroventricular (i.c.v.) infusion of a single low dose of streptozotocin 
+(STZ, 0.2mg/mouse). Using valid and qualified behavioral tests for the 
+assessment of depressive and anxiety-like behaviors, we showed that STZ-treated 
+mice exhibited behaviors relevant to anxiety and depression 24h following STZ 
+treatment. We observed that the co-occurrence of anxiety and depressive-like 
+behaviors in animals were associated with abnormal mitochondrial function, 
+nitric oxide overproduction and, the increased activity of cytosolic 
+phospholipase A2 (cPLA2) in the hippocampus. Further, STZ-treated mice had a 
+significant upregulation of genes associated with the innate immune system such 
+as toll-like receptors 2 and 4. Pathological evaluations showed no sign of 
+neurodegeneration in the hippocampus of STZ-treated mice. Results of this study 
+revealed that behavioral abnormalities provoked by STZ, as a cytotoxic agent 
+that targets mitochondria and energy metabolism, are associated with abnormal 
+mitochondrial activity and, consequently the initiation of innate-inflammatory 
+responses in the hippocampus. Our findings highlight the role of mitochondria 
+and innate immunity in the formation of sterile inflammation and behaviors 
+relevant to anxiety and depression. Also, we have shown that STZ injection 
+(i.c.v.) might be an animal model for depression and anxiety disorders based on 
+sterile inflammation.
+
+Copyright © 2016 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2016.11.003
+PMID: 27840233 [Indexed for MEDLINE]
+
+
+20. BMC Immunol. 2016 Aug 8;17(1):27. doi: 10.1186/s12865-016-0165-9.
+
+Cytosolic phospholipase A2 contributes to innate immune defense against Candida 
+albicans lung infection.
+
+Jayaraja S(1), Dakhama A(1), Yun B(1), Ghosh M(1), Lee H(1), Redente EF(1), 
+Uhlson CL(2), Murphy RC(2), Leslie CC(3)(4)(5).
+
+Author information:
+(1)Department of Pediatrics, National Jewish Health, 1400 Jackson St., Denver, 
+Colorado, 80206, USA.
+(2)Department of Pharmacology, University of Colorado Denver, Aurora, Colorado, 
+USA.
+(3)Department of Pediatrics, National Jewish Health, 1400 Jackson St., Denver, 
+Colorado, 80206, USA. lesliec@njhealth.org.
+(4)Department of Pharmacology, University of Colorado Denver, Aurora, Colorado, 
+USA. lesliec@njhealth.org.
+(5)Department of Pathology, University of Colorado Denver, Aurora, Colorado, 
+USA. lesliec@njhealth.org.
+
+BACKGROUND: The lung is exposed to airborne fungal spores, and fungi that 
+colonize the oral cavity such as Candida albicans, but does not develop disease 
+to opportunistic fungal pathogens unless the immune system is compromised. The 
+Group IVA cytosolic phospholipase A2 (cPLA2α) is activated in response to 
+Candida albicans infection resulting in the release of arachidonic acid for 
+eicosanoid production. Although eicosanoids such as prostaglandins and 
+leukotrienes modulate inflammation and immune responses, the role of cPLA2α and 
+eicosanoids in regulating C. albicans lung infection is not understood.
+METHODS: The responses of cPLA2α(+/+) and cPLA2α(-/-) Balb/c mice to 
+intratracheal instillation of C. albicans were compared. After challenge, we 
+evaluated weight loss, organ fungal burden, and the recruitment of cells and the 
+levels of cytokines and eicosanoids in bronchoalveolar lavage fluid. The ability 
+of macrophages and neutrophils from cPLA2α(+/+) and cPLA2α(-/-) mice to 
+recognize and kill C. albicans was also compared.
+RESULTS: After C. albicans instillation, cPLA2α(+/+) mice recovered a modest 
+weight loss by 48 h and completely cleared fungi from the lung by 12 h with no 
+dissemination to the kidneys. In cPLA2α(-/-) mice, weight loss continued for 
+72 h, C. albicans was not completely cleared from the lung and disseminated to 
+the kidneys. cPLA2α(-/-) mice exhibited greater signs of inflammation including 
+higher neutrophil influx, and elevated levels of albumin and pro-inflammatory 
+cytokines/chemokines (IL1α, IL1β, TNFα, IL6, CSF2, CXCL1, CCL20) in 
+bronchoalveolar lavage fluid. The amounts of cysteinyl leukotrienes, thromboxane 
+B2 and prostaglandin E2 were significantly lower in bronchoalveolar lavage fluid 
+from C. albicans-infected cPLA2α(-/-) mice compared to cPLA2α(+/+) mice. 
+Alveolar macrophages and neutrophils from uninfected cPLA2α(-/-) mice exhibited 
+less killing of C. albicans in vitro than cells from cPLA2α(+/+) mice. In 
+addition alveolar macrophages from cPLA2α(-/-) mice isolated 6 h after 
+instillation of GFP-C. albicans contained fewer internalized fungi than 
+cPLA2α(+/+) macrophages.
+CONCLUSIONS: The results demonstrate that cPLA2α contributes to immune 
+surveillance and host defense in the lung to prevent infection by the commensal 
+fungus C. albicans and to dampen inflammation.
+
+DOI: 10.1186/s12865-016-0165-9
+PMCID: PMC4977843
+PMID: 27501951 [Indexed for MEDLINE]
+
+
+21. J Biol Chem. 2016 Jun 24;291(26):13448-64. doi: 10.1074/jbc.M115.700609. Epub 
+2016 Apr 22.
+
+Human Platelets Utilize Cycloxygenase-1 to Generate Dioxolane A3, a 
+Neutrophil-activating Eicosanoid.
+
+Hinz C(1), Aldrovandi M(1), Uhlson C(2), Marnett LJ(3), Longhurst HJ(4), Warner 
+TD(4), Alam S(1), Slatter DA(1), Lauder SN(1), Allen-Redpath K(1), Collins 
+PW(1), Murphy RC(2), Thomas CP(1), O'Donnell VB(5).
+
+Author information:
+(1)From the Systems Immunity Research Institute and Division of Infection and 
+Immunity, School of Medicine, Cardiff University, Cardiff CF14 4XN, United 
+Kingdom.
+(2)the Department of Pharmacology, University of Colorado at Denver, Aurora, 
+Colorado 80045.
+(3)the Vanderbilt Institute of Chemical Biology, Centre in Molecular Toxicology, 
+Vanderbilt-Ingram Cancer Center, Nashville, Tennessee 37232-0146, and.
+(4)the William Harvey Research Institute, Queen Mary University of London, 
+Charterhouse Square, London EC1M 6BQ, United Kingdom.
+(5)From the Systems Immunity Research Institute and Division of Infection and 
+Immunity, School of Medicine, Cardiff University, Cardiff CF14 4XN, United 
+Kingdom, O-DonnellVB@cardiff.ac.uk.
+
+Eicosanoids are important mediators of fever, pain, and inflammation that 
+modulate cell signaling during acute and chronic disease. We show by using 
+lipidomics that thrombin-activated human platelets generate a new type of 
+eicosanoid that both stimulates and primes human neutrophil integrin (Mac-1) 
+expression, in response to formylmethionylleucylphenylalanine. Detailed 
+characterization proposes a dioxolane structure, 8-hydroxy-9,11-dioxolane 
+eicosatetraenoic acid (dioxolane A3, DXA3). The lipid is generated in nanogram 
+amounts by platelets from endogenous arachidonate during physiological 
+activation, with inhibition by aspirin in vitro or in vivo, implicating 
+cyclooxygenase-1 (COX). Pharmacological and genetic studies on human/murine 
+platelets revealed that DXA3 formation requires protease-activated receptors 1 
+and 4, cytosolic phospholipase A2 (cPLA2), Src tyrosine kinases, p38 MAPK, 
+phospholipase C, and intracellular calcium. From data generated by purified COX 
+isoforms and chemical oxidation, we propose that DXA3 is generated by release of 
+an intermediate from the active site followed by oxygenation at C8. In summary, 
+a new neutrophil-activating platelet-derived lipid generated by COX-1 is 
+presented that can activate or prime human neutrophils, suggesting a role in 
+innate immunity and acute inflammation.
+
+© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M115.700609
+PMCID: PMC4919433
+PMID: 27129261 [Indexed for MEDLINE]
+
+
+22. J Neurosci. 2015 Aug 12;35(32):11399-414. doi: 10.1523/JNEUROSCI.0345-15.2015.
+
+The Autotaxin-Lysophosphatidic Acid Axis Modulates Histone Acetylation and Gene 
+Expression during Oligodendrocyte Differentiation.
+
+Wheeler NA(1), Lister JA(2), Fuss B(3).
+
+Author information:
+(1)Departments of Anatomy and Neurobiology and.
+(2)Human and Molecular Genetics, Virginia Commonwealth University School of 
+Medicine, Richmond, Virginia 23298.
+(3)Departments of Anatomy and Neurobiology and bfuss@vcu.edu.
+
+During development, oligodendrocytes (OLGs), the myelinating cells of the CNS, 
+undergo a stepwise progression during which OLG progenitors, specified from 
+neural stem/progenitor cells, differentiate into fully mature myelinating OLGs. 
+This progression along the OLG lineage is characterized by well synchronized 
+changes in morphology and gene expression patterns. The latter have been found 
+to be particularly critical during the early stages of the lineage, and they 
+have been well described to be regulated by epigenetic mechanisms, especially by 
+the activity of the histone deacetylases HDAC1 and HDAC2. The data presented 
+here identify the extracellular factor autotaxin (ATX) as a novel upstream 
+signal modulating HDAC1/2 activity and gene expression in cells of the OLG 
+lineage. Using the zebrafish as an in vivo model system as well as rodent 
+primary OLG cultures, this functional property of ATX was found to be mediated 
+by its lysophospholipase D (lysoPLD) activity, which has been well characterized 
+to generate the lipid signaling molecule lysophosphatidic acid (LPA). More 
+specifically, the lysoPLD activity of ATX was found to modulate HDAC1/2 
+regulated gene expression during a time window coinciding with the transition 
+from OLG progenitor to early differentiating OLG. In contrast, HDAC1/2 regulated 
+gene expression during the transition from neural stem/progenitor to OLG 
+progenitor appeared unaffected by ATX and its lysoPLD activity. Thus, together, 
+our data suggest that an ATX-LPA-HDAC1/2 axis regulates OLG differentiation 
+specifically during the transition from OLG progenitor to early differentiating 
+OLG and via a molecular mechanism that is evolutionarily conserved from at least 
+zebrafish to rodent.
+SIGNIFICANCE STATEMENT: The formation of the axon insulating and supporting 
+myelin sheath by differentiating oligodendrocytes (OLGs) in the CNS is 
+considered an essential step during vertebrate development. In addition, loss 
+and/or dysfunction of the myelin sheath has been associated with a variety of 
+neurologic diseases in which repair is limited, despite the presence of 
+progenitor cells with the potential to differentiate into myelinating OLGs. This 
+study characterizes the autotaxin-lysophosphatidic acid signaling axis as a 
+modulator of OLG differentiation in vivo in the developing zebrafish and in 
+vitro in rodent OLGs in culture. These findings provide novel insight into the 
+regulation of developmental myelination, and they are likely to lead to 
+advancing studies related to the stimulation of myelin repair under pathologic 
+conditions.
+
+Copyright © 2015 the authors 0270-6474/15/3511399-16$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.0345-15.2015
+PMCID: PMC4532767
+PMID: 26269646 [Indexed for MEDLINE]
+
+
+23. PLoS One. 2015 May 13;10(5):e0126204. doi: 10.1371/journal.pone.0126204. 
+eCollection 2015.
+
+Study of the role of cytosolic phospholipase A2 alpha in eicosanoid generation 
+and thymocyte maturation in the thymus.
+
+Rousseau M(1), Naika GS(2), Perron J(3), Jacques F(3), Gelb MH(2), Boilard E(1).
+
+Author information:
+(1)Centre de Recherche en Rhumatologie et Immunologie, Centre de Recherche du 
+Centre Hospitalier Universitaire de Québec, Faculté de Médecine de l'Université 
+Laval, Québec, QC, Canada.
+(2)Department of Chemistry, University of Washington, Seattle, WA, the United 
+States of America.
+(3)Centre de Recherche du Centre Hospitalier Universitaire de Québec, Faculté de 
+Médecine de l'Université Laval, Québec, QC, Canada.
+
+The thymus is a primary lymphoid organ, home of maturation and selection of 
+thymocytes for generation of functional T-cells. Multiple factors are involved 
+throughout the different stages of the maturation process to tightly regulate 
+T-cell production. The metabolism of arachidonic acid by cyclooxygenases, 
+lipoxygenases and specific isomerases generates eicosanoids, lipid mediators 
+capable of triggering cellular responses. In this study, we determined the 
+profile of expression of the eicosanoids present in the mouse thymus at 
+different stages of thymocyte development. As the group IVA cytosolic 
+phospholipase A2 (cPLA2α) catalyzes the hydrolysis of phospholipids, thereby 
+generating arachidonic acid, we further verified its contribution by including 
+cPLA2α deficient mice to our investigations. We found that a vast array of 
+eicosanoids is expressed in the thymus, which expression is substantially 
+modulated through thymocyte development. The cPLA2α was dispensable in the 
+generation of most eicosanoids in the thymus and consistently, the ablation of 
+the cPLA2α gene in mouse thymus and the culture of thymuses from human newborns 
+in presence of the cPLA2α inhibitor pyrrophenone did not impact thymocyte 
+maturation. This study provides information on the eicosanoid repertoire present 
+during thymocyte development and suggests that thymocyte maturation can occur 
+independently of cPLA2α.
+
+DOI: 10.1371/journal.pone.0126204
+PMCID: PMC4430275
+PMID: 25969996 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+24. Toxins (Basel). 2015 Apr 29;7(5):1457-66. doi: 10.3390/toxins7051457.
+
+Sphingomyelinase D/ceramide 1-phosphate in cell survival and inflammation.
+
+Rivera IG(1), Ordoñez M(2), Presa N(3), Gomez-Larrauri A(4), Simón J(5), Trueba 
+M(6), Gomez-Muñoz A(7).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, Faculty of Science and 
+Technology, University of the Basque Country (UPV/EHU), 48080 Bilbao, Spain. 
+io_rivera@hotmail.com.
+(2)Department of Biochemistry and Molecular Biology, Faculty of Science and 
+Technology, University of the Basque Country (UPV/EHU), 48080 Bilbao, Spain. 
+marta.ordonez87@gmail.com.
+(3)Department of Biochemistry and Molecular Biology, Faculty of Science and 
+Technology, University of the Basque Country (UPV/EHU), 48080 Bilbao, Spain. 
+npretor@gmail.com.
+(4)Department of Biochemistry and Molecular Biology, Faculty of Science and 
+Technology, University of the Basque Country (UPV/EHU), 48080 Bilbao, Spain. 
+anagola@hotmail.com.
+(5)Department of Biochemistry and Molecular Biology, Faculty of Science and 
+Technology, University of the Basque Country (UPV/EHU), 48080 Bilbao, Spain. 
+jorgesimon04@gmail.com.
+(6)Department of Biochemistry and Molecular Biology, Faculty of Science and 
+Technology, University of the Basque Country (UPV/EHU), 48080 Bilbao, Spain. 
+miguel.trueba@ehu.es.
+(7)Department of Biochemistry and Molecular Biology, Faculty of Science and 
+Technology, University of the Basque Country (UPV/EHU), 48080 Bilbao, Spain. 
+antonio.gomez@ehu.es.
+
+Sphingolipids are major constituents of biological membranes of eukaryotic 
+cells. Many studies have shown that sphingomyelin (SM) is a major phospholipid 
+in cell bilayers and is mainly localized to the plasma membrane of cells, where 
+it serves both as a building block for cell architecture and as a precursor of 
+bioactive sphingolipids. In particular, upregulation of (C-type) 
+sphingomyelinases will produce ceramide, which regulates many physiological 
+functions including apoptosis, senescence, or cell differentiation. 
+Interestingly, the venom of some arthropodes including spiders of the genus 
+Loxosceles, or the toxins of some bacteria such as Corynebacterium tuberculosis, 
+or Vibrio damsela possess high levels of D-type sphingomyelinase (SMase D). This 
+enzyme catalyzes the hydrolysis of SM to yield ceramide 1-phosphate (C1P), which 
+promotes cell growth and survival and is a potent pro-inflammatory agent in 
+different cell types. In particular, C1P stimulates cytosolic phospholipase A2 
+leading to arachidonic acid release and the subsequent formation of eicosanoids, 
+actions that are all associated to the promotion of inflammation. In addition, 
+C1P potently stimulates macrophage migration, which has also been associated to 
+inflammatory responses. Interestingly, this action required the interaction of 
+C1P with a specific plasma membrane receptor, whereas accumulation of 
+intracellular C1P failed to stimulate chemotaxis. The C1P receptor is coupled to 
+Gi proteins and activates of the PI3K/Akt and MEK/ERK1-2 pathways upon ligation 
+with C1P. The proposed review will address novel aspects on the control of 
+inflammatory responses by C1P and will highlight the molecular mechanisms 
+whereby C1P exerts these actions.
+
+DOI: 10.3390/toxins7051457
+PMCID: PMC4448157
+PMID: 25938271 [Indexed for MEDLINE]
+
+
+25. J Bacteriol. 2014 Apr;196(8):1619-26. doi: 10.1128/JB.01281-13. Epub 2014 Feb 
+14.
+
+Characterization of the Vibrio cholerae VolA surface-exposed lipoprotein 
+lysophospholipase.
+
+Pride AC(1), Guan Z, Trent MS.
+
+Author information:
+(1)Department of Molecular Biosciences, The University of Texas at Austin, 
+Austin, Texas, USA.
+
+Bacterial lipases play important roles in bacterial metabolism and environmental 
+response. Our laboratory recently discovered that a novel lipoprotein 
+lysophospholipase, VolA, localizes on the surface of the Gram-negative aquatic 
+pathogen Vibrio cholerae. VolA functions to cleave exogenous 
+lysophosphatidylcholine, freeing the fatty acid moiety for use by V. cholerae. 
+This fatty acid is transported into the cell and can be used as a nutrient and, 
+more importantly, as a way to alter the membrane architecture via incorporation 
+into the phospholipid biosynthesis pathway. There are few examples of 
+Gram-negative, surface-exposed lipoproteins, and VolA is unique, as it has a 
+previously undercharacterized function in V. cholerae membrane remodeling. 
+Herein, we report the biochemical characterization of VolA. We show that VolA is 
+a canonical lipoprotein via mass spectrometry analysis and demonstrate the in 
+vitro activity of VolA under a variety of conditions. Additionally, we show that 
+VolA contains a conserved Gly-Xaa-Ser-Xaa-Gly motif typical of lipases. 
+Interestingly, we report the observation of VolA homologs in other aquatic 
+pathogens. An Aeromonas hydrophila VolA homolog complements a V. cholerae VolA 
+mutant in growth on lysophosphatidylcholine as the sole carbon source and in 
+enzymatic assays. These results support the idea that the lipase activity of 
+surface-exposed VolA likely contributes to the success of V. cholerae, improving 
+the overall adaptation and survival of the organism in different environments.
+
+DOI: 10.1128/JB.01281-13
+PMCID: PMC3993367
+PMID: 24532770 [Indexed for MEDLINE]
+
+
+26. Allergy Asthma Immunol Res. 2014 Jan;6(1):66-74. doi: 10.4168/aair.2014.6.1.66. 
+Epub 2013 Nov 28.
+
+Stimulated bronchial epithelial cells release bioactive lysophosphatidylcholine 
+16:0, 18:0, and 18:1.
+
+Zhuge Y(1), Yuan Y(2), van Breemen R(2), Degrand M(1), Holian O(1), Yoder M(3), 
+Lum H(1).
+
+Author information:
+(1)Department of Pharmacology, Rush University Medical Center, Chicago, IL, USA.
+(2)Department of Medicinal Chemistry & Pharmacognosy, University of Illinois, 
+Chicago, IL, USA.
+(3)Department of Medicine, Rush University Medical Center, Chicago, IL, USA.
+
+PURPOSE: In human subjects and animal models with acute and chronic lung injury, 
+the bioactive lysophosphatidylcholine (LPC) is elevated in lung lining fluids. 
+The increased LPC can promote an inflammatory microenvironment resulting in lung 
+injury. Furthermore, pathological lung conditions are associated with 
+upregulated phospholipase A2 (PLA2), the predominant enzyme producing LPC in 
+tissues by hydrolysis of phosphatidylcholine. However, the lung cell populations 
+responsible for increases of LPC have yet to be systematically characterized. 
+The goal was to investigate the LPC generation by bronchial epithelial cells in 
+response to pathological mediators and determine the major LPC species produced.
+METHODS: Primary human bronchial epithelial cells (NHBE) were challenged by 
+vascular endothelial growth factor (VEGF) for 1 or 6 h, and condition medium and 
+cells collected for quantification of predominant LPC species by high 
+performance liquid chromatography-tandem mass spectrometry (LC-MS-MS). The cells 
+were analyzed by quantitative reverse transcriptase polymerase chain reaction 
+(qRT-PCR) for PLA2. The direct effects of LPC in inducing inflammatory 
+activities on NHBE were assessed by transepithelial resistance as well as 
+expression of interleukin-8 (IL-8) and matrix metalloproteinase-1 (MMP-1).
+RESULTS: VEGF stimulation of NHBE for 1 or 6 h, significantly increased 
+concentrations of LPC16:0, LPC18:0, and LPC18:1 in condition medium compared to 
+control. The sPLA2-selective inhibitor (oleyloxyethyl phosphorylcholine) 
+inhibited the VEGF-induced release of LPC16:0 and LPC18:1 and PLA2 activity. In 
+contrast, NHBE stimulated with TNF did not induce LPC release. VEGF did not 
+increase mRNA of PLA2 subtypes sPLA2-X, sPLA2-XIIa, cPLA2-IVa, and iPLA2-VI. 
+Exogenous LPC treatment increased expression of IL-8 and MMP-1, and reduced the 
+transepithelial resistance in NHBE.
+CONCLUSIONS: Our findings indicate that VEGF-stimulated bronchial epithelial 
+cells are a key source of extracellular LPCs, which can function as an autocrine 
+mediator with potential to induce airway epithelial inflammatory injury.
+
+DOI: 10.4168/aair.2014.6.1.66
+PMCID: PMC3881404
+PMID: 24404396
+
+Conflict of interest statement: There are no financial or other issues that 
+might lead to conflict of interest.
+
+
+27. Mol Pharmacol. 2014 Jan;85(1):187-97. doi: 10.1124/mol.113.089573. Epub 2013 Oct 
+29.
+
+Polarization of the innate immune response by prostaglandin E2: a puzzle of 
+receptors and signals.
+
+Rodríguez M(1), Domingo E, Municio C, Alvarez Y, Hugo E, Fernández N, Sánchez 
+Crespo M.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Valladolid, 
+Valladolid, Spain (M.R., N.F.); and Institute of Biology and Molecular Genetics, 
+Spanish National Research Council, Valladolid, Spain (E.D., C.M., Y.A., E.H., 
+M.S.C.).
+
+Eicosanoids tailor the innate immune response by supporting local inflammation 
+and exhibiting immunomodulatory properties. Prostaglandin (PG) E2 is the most 
+abundant eicosanoid in the inflammatory milieu due to the robust production 
+elicited by pathogen-associated molecular patterns on cells of the innate immune 
+system. The different functions and cell distribution of E prostanoid receptors 
+explain the difficulty encountered thus far to delineate the actual role of PGE2 
+in the immune response. The biosynthesis of eicosanoids includes as the first 
+step the Ca(2+)- and kinase-dependent activation of the cytosolic phospholipase 
+A2, which releases arachidonic acid from membrane phospholipids, and later 
+events depending on the transcriptional regulation of the enzymes of the 
+cyclooxygenase routes, where PGE2 is the most relevant product. Acting in an 
+autocrine/paracrine manner in macrophages, PGE2 induces a regulatory phenotype 
+including the expression of interleukin (IL)-10, sphingosine kinase 1, and the 
+tumor necrosis factor family molecule LIGHT. PGE2 also stabilizes the 
+suppressive function of myeloid-derived suppressor cells, inhibits the release 
+of IL-12 p70 by macrophages and dendritic cells, and may enhance the production 
+of IL-23. PGE2 is a central component of the inflammasome-dependent induction of 
+the eicosanoid storm that leads to massive loss of intravascular fluid, 
+increases the mortality rate associated with coinfection by Candida ssp. and 
+bacteria, and inhibits fungal phagocytosis. These effects have important 
+consequences for the outcome of infections and the polarization of the immune 
+response into the T helper cell types 2 and 17 and can be a clue to develop 
+pharmacological tools to address infectious, autoimmune, and autoinflammatory 
+diseases.
+
+DOI: 10.1124/mol.113.089573
+PMID: 24170779 [Indexed for MEDLINE]
+
+
+28. J Innate Immun. 2014;6(2):159-68. doi: 10.1159/000353694. Epub 2013 Aug 28.
+
+Leukotriene B4, an endogenous stimulator of the innate immune response against 
+pathogens.
+
+Le Bel M(1), Brunet A, Gosselin J.
+
+Author information:
+(1)Laboratory of Innate Immunology, Centre Hospitalier Universitaire de Québec, 
+and Department of Molecular Medicine, Laval University, Quebec City, Que., 
+Canada.
+
+Leukotriene B4 (LTB4) is an endogenous lipid mediator of inflammation derived 
+from arachidonic acid by the sequential action of cytosolic phospholipase A2 and 
+5-lipoxygenase. This mediator was initially recognized for its involvement in 
+the recruitment of neutrophils. However, in the last decade, LTB4 has been 
+clearly demonstrated to play a significant role in the control of microbial 
+infections through its ability to activate host innate defenses. In this review, 
+we will focus on the modulator effects of LTB4 on the innate defenses and 
+discuss its therapeutic potential against viral pathogens.
+
+Copyright © 2013 S. Karger AG, Basel.
+
+DOI: 10.1159/000353694
+PMCID: PMC6741447
+PMID: 23988515 [Indexed for MEDLINE]
+
+
+29. Nat Cell Biol. 2013 Sep;15(9):1123-30. doi: 10.1038/ncb2818. Epub 2013 Aug 11.
+
+Tissue damage detection by osmotic surveillance.
+
+Enyedi B(1), Kala S, Nikolich-Zugich T, Niethammer P.
+
+Author information:
+(1)Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New 
+York 10065, USA.
+
+How tissue damage is detected to induce inflammatory responses is unclear. Most 
+studies have focused on damage signals released by cell breakage and necrosis. 
+Whether tissues use other cues in addition to cell lysis to detect that they are 
+damaged is unknown. We find that osmolarity differences between interstitial 
+fluid and the external environment mediate rapid leukocyte recruitment to sites 
+of tissue damage in zebrafish by activating cytosolic phospholipase a2 (cPLA2) 
+at injury sites. cPLA2 initiates the production of non-canonical arachidonate 
+metabolites that mediate leukocyte chemotaxis through a 5-oxo-ETE receptor 
+(OXE-R). Thus, tissues can detect damage through direct surveillance of barrier 
+integrity, with cell swelling probably functioning as a pro-inflammatory 
+intermediate in the process.
+
+DOI: 10.1038/ncb2818
+PMCID: PMC3826879
+PMID: 23934216 [Indexed for MEDLINE]
+
+
+30. Mediators Inflamm. 2013;2013:791231. doi: 10.1155/2013/791231. Epub 2013 Apr 4.
+
+Inflammatory signalings involved in airway and pulmonary diseases.
+
+Lee IT(1), Yang CM.
+
+Author information:
+(1)Department of Anesthetics, Chang Gung Memorial Hospital at Linkuo and Chang 
+Gung University, Kwei-San, Tao-Yuan 33302, Taiwan.
+
+In respiratory diseases, there is an increased expression of multiple 
+inflammatory proteins in the respiratory tract, including cytokines, chemokines, 
+and adhesion molecules. Chemokines have been shown to regulate inflammation and 
+immune cell differentiation. Moreover, many of the known inflammatory target 
+proteins, such as matrix metalloproteinase-9 (MMP-9), intercellular adhesion 
+molecule-1 (ICAM-1), vascular cell adhesion molecule-1 (VCAM-1), 
+cyclooxygenase-2 (COX-2), and cytosolic phospholipase A2 (cPLA2), are associated 
+with airway and lung inflammation in response to various stimuli. Injuriously 
+environmental stimuli can access the lung through either the airways or the 
+pulmonary and systemic circulations. The time course and intensity of responses 
+by resident and circulating cells may be regulated by various inflammatory 
+signalings, including Src family kinases (SFKs), protein kinase C (PKC), growth 
+factor tyrosine kinase receptors, nicotinamide adenine dinucleotide phosphate 
+(NADPH)/reactive oxygen species (ROS), PI3K/Akt, MAPKs, nuclear factor-kappa B 
+(NF-κB), activator protein-1 (AP-1), and other signaling molecules. These 
+signaling molecules regulate both key inflammatory signaling transduction 
+pathways and target proteins involved in airway and lung inflammation. Here, we 
+discuss the mechanisms involved in the expression of inflammatory target 
+proteins associated with the respiratory diseases. Knowledge of the mechanisms 
+of inflammation regulation could lead to the pharmacological manipulation of 
+anti-inflammatory drugs in the respiratory diseases.
+
+DOI: 10.1155/2013/791231
+PMCID: PMC3649692
+PMID: 23690670 [Indexed for MEDLINE]
+
+
+31. Respirology. 2013 Jul;18(5):848-56. doi: 10.1111/resp.12086.
+
+Bile acids increase alveolar epithelial permeability via mitogen-activated 
+protein kinase, cytosolic phospholipase A2 , cyclooxygenase-2, prostaglandin E2 
+and junctional proteins.
+
+Su KC(1), Wu YC, Chen CS, Hung MH, Hsiao YH, Tseng CM, Chang SC, Lee YC, Perng 
+DW.
+
+Author information:
+(1)Institute of Emergency and Critical Care Medicine, School of Medicine, 
+Taipei, Taiwan.
+
+BACKGROUND AND OBJECTIVE: Bile acid (BA) aspiration is associated with various 
+lung diseases. It was hypothesized that BA may induce changes in alveolar 
+epithelium permeability and contribute to the pathogenesis of lung injury.
+METHODS: Human alveolar epithelial cells were grown in monolayer and stimulated 
+with a major component of BA, chenodeoxycholic acid (CDCA). Transepithelial 
+electrical resistance (TER) and paracellular fluxes were measured to assess 
+permeability alteration. Prostaglandin E2 ( PGE2 ) production was measured, and 
+its effect on TER and junctional proteins (JP) was also examined. Reverse 
+transcription polymerase chain reaction and Western blots were used to 
+investigate the expression of messenger RNA and JP.
+RESULTS: CDCA induced significant p38 and c-Jun N-terminal kinase (JNK) 
+phosphorylation, cytosolic phospholipase A2 (cPLA2 ) and cyclooxygenase-2 
+(COX-2) messenger RNA expression, PGE2 production, TER reduction and decay of JP 
+(including occludin, zonula occludens-1 (ZO-1) and E-cadherin, in which ZO-1 had 
+maximal change). CDCA also increased paracellular fluxes, which was abolished by 
+dexamethasone. Both CDCA and PGE2 contributed to TER reduction in an identical 
+trend and a dose-response manner. PGE2 also reduced ZO-1 expression, which was 
+similar to that observed by CDCA stimulation. Pretreatment with inhibitors of 
+p38 (SB203580), JNK (SP600125), cPLA2 (mepacrine) and COX-2 (NS398) as well as 
+dexamethasone reversed the CDCA-induced PGE2 production, TER reduction and decay 
+of ZO-1.
+CONCLUSIONS: The increase in alveolar permeability was associated with decay of 
+JP. BA may induce permeability alteration through the upregulation of 
+mitogen-activated protein kinase, cPLA2 , COX-2, PGE2 and JP, which may 
+contribute to the pathogenesis of BA-associated lung injury.
+
+© 2013 The Authors. Respirology © 2013 Asian Pacific Society of Respirology.
+
+DOI: 10.1111/resp.12086
+PMID: 23521748 [Indexed for MEDLINE]
+
+
+32. J Neurochem. 2013 Mar;124(6):855-68. doi: 10.1111/jnc.12068. Epub 2013 Jan 13.
+
+ω-3 fatty acid eicosapentaenoic acid attenuates MPP+-induced neurodegeneration 
+in fully differentiated human SH-SY5Y and primary mesencephalic cells.
+
+Luchtman DW(1), Meng Q, Wang X, Shao D, Song C.
+
+Author information:
+(1)National Research Institute for Nutrisciences and Health and Department of 
+Biomedical Science, University of Prince Edward Island, Charlottetown, Canada.
+
+Eicosapentaenoic acid (EPA), a neuroactive omega-3 fatty acid, has been 
+demonstrated to exert neuroprotective effects in experimental models of 
+Parkinson's disease (PD), but the cellular mechanisms of protection are unknown. 
+Here, we studied the effects of EPA in fully differentiated human SH-SY5Y cells 
+and primary mesencephalic neurons treated with MPP(+) . In both in-vitro models 
+of PD, EPA attenuated an MPP(+) -induced reduction in cell viability. EPA also 
+prevented the presence of electron-dense cytoplasmic inclusions in SH-SY5Y 
+cells. Then, possible mechanisms of the neuroprotection were studied. In primary 
+neurons, EPA attenuated an MPP(+) -induced increase in Tyrosine-related kinase B 
+(TrkB) receptors. In SH-SY5Y cells, EPA down-regulated reactive oxygen species 
+and nitric oxide. This antioxidant effect of EPA may have been mediated by its 
+inhibition of neuronal NADPH oxidase and cyclo-oxygenase-2 (COX-2), as MPP(+) 
+increased the expression of these enzymes. Furthermore, EPA prevented an 
+increase in cytosolic phospholipase A2 (cPLA2), an enzyme linked with COX-2 in 
+the potentially pro-inflammatory arachidonic acid cascade. Lastly, EPA 
+attenuated an increase in the bax:bcl-2 ratio, and cytochrome c release. 
+However, EPA did not prevent mitochondrial enlargement or a decrease in 
+mitochondrial membrane potential. This study demonstrated cellular mechanisms by 
+which EPA provided neuroprotective effects in experimental PD.
+
+© 2012 The Authors Journal of Neurochemistry © 2012 International Society for 
+Neurochemistry.
+
+DOI: 10.1111/jnc.12068
+PMID: 23106698 [Indexed for MEDLINE]
+
+
+33. Gut. 2013 Oct;62(10):1395-405. doi: 10.1136/gutjnl-2012-303171. Epub 2012 Aug 
+15.
+
+The oesophageal string test: a novel, minimally invasive method measures mucosal 
+inflammation in eosinophilic oesophagitis.
+
+Furuta GT(1), Kagalwalla AF, Lee JJ, Alumkal P, Maybruck BT, Fillon S, Masterson 
+JC, Ochkur S, Protheroe C, Moore W, Pan Z, Amsden K, Robinson Z, Capocelli K, 
+Mukkada V, Atkins D, Fleischer D, Hosford L, Kwatia MA, Schroeder S, Kelly C, 
+Lovell M, Melin-Aldana H, Ackerman SJ.
+
+Author information:
+(1)Department of Pediatrics, Gastrointestinal Eosinophilic Diseases Program, 
+University of Colorado Denver School of Medicine, Aurora, Colorado, USA.
+
+OBJECTIVE: Eosinophil predominant inflammation characterises histological 
+features of eosinophilic oesophagitis (EoE). Endoscopy with biopsy is currently 
+the only method to assess oesophageal mucosal inflammation in EoE. We 
+hypothesised that measurements of luminal eosinophil-derived proteins would 
+correlate with oesophageal mucosal inflammation in children with EoE.
+DESIGN: The Enterotest diagnostic device was used to develop an oesophageal 
+string test (EST) as a minimally invasive clinical device. EST samples and 
+oesophageal mucosal biopsies were obtained from children undergoing upper 
+endoscopy for clinically defined indications. Eosinophil-derived proteins 
+including eosinophil secondary granule proteins (major basic protein-1, 
+eosinophil-derived neurotoxin, eosinophil cationic protein, eosinophil 
+peroxidase) and Charcot-Leyden crystal protein/galectin-10 were measured by 
+ELISA in luminal effluents eluted from ESTs and extracts of mucosal biopsies.
+RESULTS: ESTs were performed in 41 children with active EoE (n=14), EoE in 
+remission (n=8), gastro-oesophageal reflux disease (n=4) and controls with 
+normal oesophagus (n=15). EST measurement of eosinophil-derived protein 
+biomarkers significantly distinguished between children with active EoE, treated 
+EoE in remission, gastro-oesophageal reflux disease and normal oesophagus. 
+Levels of luminal eosinophil-derived proteins in EST samples significantly 
+correlated with peak and mean oesophageal eosinophils/high power field (HPF), 
+eosinophil peroxidase indices and levels of the same eosinophil-derived proteins 
+in extracts of oesophageal biopsies.
+CONCLUSIONS: The presence of eosinophil-derived proteins in luminal secretions 
+is reflective of mucosal inflammation in children with EoE. The EST is a novel, 
+minimally invasive device for measuring oesophageal eosinophilic inflammation in 
+children with EoE.
+
+DOI: 10.1136/gutjnl-2012-303171
+PMCID: PMC3786608
+PMID: 22895393 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.
+
+
+34. Dev Neurobiol. 2010 Nov;70(13):897-911. doi: 10.1002/dneu.20829.
+
+GAP43 phosphorylation is critical for growth and branching of retinotectal 
+arbors in zebrafish.
+
+Leu B(1), Koch E, Schmidt JT.
+
+Author information:
+(1)Department of Biological Sciences and Center for Neuroscience Research, 
+University at Albany, SUNY, Albany, New York 12222, USA.
+
+Visual activity acts via NMDA Receptors to refine developing retinotectal maps 
+by shaping retinal arbors. Retinal axons add and delete transient branches, and 
+the dynamic rates increase when MK801 blocks NMDARs, as if this prevents release 
+of a stabilizing signal. Ca(++) entry through NMDARs activates phospholipase A2 
+(cPLA2) to release arachidonic acid (AA), which taps into a presynaptic growth 
+control mechanism. NCAM, L1, N-cadherin, and FGF all stimulate axon growth via 
+AA activation of protein kinase C to phosphorylate GAP43 and 
+polymerize/stabilize F-actin. Our previous results show that blocking cPLA2 
+mimics NMDAR blockers, whereas exogenous AA reverses the increased dynamics, and 
+PKC inhibitors also arrest growth. To test whether this activity-driven F-actin 
+control mechanism shapes retinotectal arbors in zebrafish, we used the 
+alpha-1-tubulin promoter to express GAP43-GFP fusion proteins in retinal 
+ganglion cells, and imaged arbors in time-lapse to test for effects of GAP43 
+levels and its phosphorylation. Overexpressing wildtype GAP43 gave faster growth 
+and larger arbors (#branches, spatial extent, total length of branches) at three 
+days and especially four days. Surprisingly, the N-terminal 20 amino acid 
+segment alone caused the same increase in branching, but no increase in growth. 
+Earlier studies implicate this region in activating G(o) resulting in collapse 
+of growth cones, which is now known to precede branch initiation. In contrast, 
+GAP43 with ser41 mutated to ala (S41A) to prevent phosphorylation did not 
+increase either branching or growth but resulted in immature, elongated arbors 
+even at four to five days. In support of this atrophic effect, only half of 
+brain/spinal neurons expressing S41A successfully initiated axonal outgrowth 
+(vs. nearly 100% for wtGAP43). These results suggest that the region around the 
+ser41 phosphorylation site, which binds CaM and PIP2, promotes growth only when 
+phosphorylated, and also activates the branching control region in the first 
+10-20 amino acids. Whereas phosphorylation introduces a bulky negative charge 
+group, mutation of serine to arginine introduces a bulky positive charge. But 
+this also produced the same growth and branching as phosphorylation, suggesting 
+that the effect of phosphorylation is through hydrophilic bulk rather than 
+negative charge, in agreement with other IQ motifs. The results implicate the 
+cPLA2-AA-PKC-GAP43 pathway as part of an F-actin based mechanism that both 
+stabilizes new synapses and initiates new branches near effective synapses.
+
+DOI: 10.1002/dneu.20829
+PMID: 20669323 [Indexed for MEDLINE]
+
+
+35. Biochim Biophys Acta. 2010 Nov;1802(11):986-94. doi: 
+10.1016/j.bbadis.2010.06.008. Epub 2010 Jun 23.
+
+Impaired phospholipases A₂production by stimulated macrophages from patients 
+with acute respiratory distress syndrome.
+
+Hatzidaki E(1), Nakos G, Galiatsou E, Lekka ME.
+
+Author information:
+(1)Chemistry Department, University of Ioannina, 45100 Ioannina, Greece.
+
+The aim of this study was to investigate whether early phase of acute 
+respiratory distress syndrome (ARDS) is associated with changes in immune 
+response, either systemic or localized to the lung. ARDS and control 
+mechanically ventilated patients, as well as healthy volunteers were studied. 
+Alveolar macrophages (AMΦ) and blood monocytes (BM) were treated ex vivo with 
+lipopolysaccharide (LPS), interferon-γ (IFNγ), and surfactant. Phospholipase A₂ 
+(PLA₂) activity and TLR4 expression were evaluated as markers of cell response. 
+AMΦ from ARDS patients did not respond upon treatment with either LPS or IFN-γ 
+by inducing PLA₂ production. On the contrary, upon stimulation, in control 
+patients the intracellular PLA₂, (mainly cPLA₂) levels were increased, but 
+secretion of PLA₂ (mainly sPLA₂-IIA) was observed only after treatment with LPS. 
+Surfactant suppressed PLA₂ production in cells from both groups of patients. 
+Increased relative changes of total PLA₂ activity and an upregulation of TLR4 
+expression upon stimulation was observed in BM from primary ARDS, control 
+patients and healthy volunteers. In BM from secondary ARDS patients, however, no 
+PLA₂ induction was observed, with a concomitant down-regulation of TLR4 
+expression. Cytosolic PLA₂, its activated form, p-cPLA₂, and sPLA₂-IIA were the 
+predominant PLA₂ types within the cells, while extracellularly only sPLA₂-IIA 
+was identified. These results support the concept of down-regulated innate 
+immunity in early ARDS that is compartmentalized in primary and systemic in 
+secondary ARDS. PLA₂ isoforms could serve as markers of the immunity status in 
+ARDS. Finally, our data highlight the role of surfactant in controlling 
+inflammation.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2010.06.008
+PMID: 20600872 [Indexed for MEDLINE]
+
+
+36. J Endod. 2010 Apr;36(4):636-41. doi: 10.1016/j.joen.2009.12.009.
+
+Effect of cytosolic phospholipase A2 on proinflammatory cytokine-induced bone 
+resorptive genes including receptor activator of nuclear factor kappa B ligand 
+in human dental pulp cells.
+
+Kim YS(1), Min KS, Lee HD, Oh HW, Kim EC.
+
+Author information:
+(1)Department of Oral & Maxillofacial Pathology, College of Dentistry, Wonkwang 
+University, Iksan, South Korea.
+
+INTRODUCTION: Although cytokines stimulate prostaglandin E(2) (PGE(2)) 
+production and cyclooxygenase-2 (COX-2) gene expression in human dental pulp 
+cells (HDPCs), the involvement of cytosolic phospholipase A(2) (cPLA(2)) has not 
+been assessed. The purpose of this study was to examine the role of cPLA(2) on 
+the regulation of proinflammatory cytokine-stimulated genes associated with 
+osteoclast differentiation or bone resorption.
+METHODS: Tumor necrosis factor-alpha (TNF-alpha) and interleukin-1alpha 
+(IL-1alpha)-induced COX-2 and receptor activator of nuclear factor kappa B 
+ligand (RANKL) mRNA and protein expression in the HDPCs was determined by using 
+reverse transcription-polymerase chain reaction (RT-PCR) and Western blot 
+analysis. PGE(2) release and osteoclast-related gene expression were measured by 
+enzyme-linked immunosorbent assay and RT-PCR.
+RESULTS: Stimulation with TNF-alpha and IL-1alpha synergistically increased 
+levels of COX-2 as well as RANKL mRNA and protein expression. Osteoclast markers 
+(macrophage colony-stimulating factor [M-CSF], matrix metalloproteinase-9 
+[MMP-9], and tartrate-resistant acid phosphatase [TRAP]) and osteolysis 
+regulating cytokines or osteoclastogenic cytokines (IL-6, IL-11, and Il-17) were 
+up-regulated in HDPCs after IL-1alpha and TNF-alpha treatment. A cPLA(2) 
+inhibitor attenuated both the cytokine-stimulated PGE(2) release as well as 
+changes in osteoclast differentiation-related genes like RANKL.
+CONCLUSIONS: These results suggest that cPLA(2) is involved in inflammatory 
+cytokine-induced osteoclastogenic gene expression and consequent damage or 
+destruction.
+
+Copyright (c) 2010 American Association of Endodontists. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.joen.2009.12.009
+PMID: 20307736 [Indexed for MEDLINE]
+
+
+37. Arch Dermatol Res. 2010 Apr;302(3):221-7. doi: 10.1007/s00403-009-1017-8. Epub 
+2009 Dec 30.
+
+Platelet activating factor stimulates arachidonic acid release in differentiated 
+keratinocytes via arachidonyl non-selective phospholipase A2.
+
+Jørgensen KM(1), Felberg HS, Berge RK, Laegreid A, Johansen B.
+
+Author information:
+(1)Department of Biology, Norwegian University of Science and Technology, NTNU, 
+Trondheim, Norway.
+
+Platelet activating factor (PAF, 1-O-alkyl-2-acetyl-sn-glycero-3-phosphocholine) 
+is known to be present in excess in psoriatic skin, but its exact role is 
+uncertain. In the present study we demonstrate for the first time the role of 
+group VI PLA(2) in PAF-induced arachidonic acid release in highly differentiated 
+human keratinocytes. The group IValpha PLA(2) also participates in the release, 
+while secretory PLA(2)s play a minor role. Two anti-inflammatory synthetic fatty 
+acids, tetradecylthioacetic acid and tetradecylselenoacetic acid, are shown to 
+interfere with signalling events upstream of group IValpha PLA(2) activation. In 
+summary, our major novel finding is the involvement of the arachidonyl 
+non-selective group VI PLA(2) in PAF-induced inflammatory responses.
+
+DOI: 10.1007/s00403-009-1017-8
+PMCID: PMC2829133
+PMID: 20041255 [Indexed for MEDLINE]
+
+
+38. J Leukoc Biol. 2009 Aug;86(2):389-99. doi: 10.1189/jlb.1008591. Epub 2009 Apr 
+28.
+
+TLR2 ligands augment cPLA2alpha activity and lead to enhanced leukotriene 
+release in human monocytes.
+
+Lindner SC(1), Köhl U, Maier TJ, Steinhilber D, Sorg BL.
+
+Author information:
+(1)Institute of Pharmaceutical Chemistry/Center for Drug Research, Development, 
+and Safety (ZAFES), Goethe University, Frankfurt/Main, Germany.
+
+Toll-like receptors (TLRs) play an important role in innate immunity. They 
+detect pathogen-associated receptor patterns (PAMPs) and initiate subsequent 
+immune responses. Present studies investigate the influence of TLR2 ligands on 
+leukotrienes (LT) formation in human monocytes. LTs are proinflammatory 
+mediators derived from arachidonic acid (AA), which is released from membranes 
+by phospholipase A(2) (PLA(2)) enzymes. Pretreatment of MM6 cells with the TLR2 
+ligands LTA, FSL-1, or Pam(3)CSK(4) resulted in an up to two- to threefold 
+enhancement of ionophore-induced LT formation in a dose- and time-dependent 
+manner and to an augmentation of ionophore-induced AA release with similar 
+kinetics. Also in human peripheral blood mononuclear cells (hPBMC), TLR2 
+activators increased LT formation. Studies with PLA(2) inhibitors indicated that 
+the increase of AA release is a result of enhanced activity of group IV cPLA(2) 
+in MM6 cells. TLR2 ligands elicited the time-dependent activation of p38 MAPK 
+and ERK1/2 pathways, which led to phosphorylation of cPLA(2)alpha at Ser(505). 
+Simultaneous inhibition of p38 MAPK and ERK1/2 pathways prevented the increase 
+of cPLA(2)alpha phosphorylation and the augmentation of AA release. TLR2 
+ligand-induced increase of AA release was blocked by a neutralizing anti-hTLR2 
+antibody, indicating that TLR2 mediates augmented cPLA(2) activation and 
+subsequent LT biosynthesis.
+
+DOI: 10.1189/jlb.1008591
+PMID: 19401382 [Indexed for MEDLINE]
+
+
+39. J Pharmacol Exp Ther. 2009 May;329(2):747-52. doi: 10.1124/jpet.108.145466. Epub 
+2009 Feb 3.
+
+Prostaglandin E2 derived from cyclooxygenases 1 and 2 mediates intestinal 
+epithelial ion transport stimulated by the activation of protease-activated 
+receptor 2.
+
+van der Merwe JQ(1), Ohland CL, Hirota CL, MacNaughton WK.
+
+Author information:
+(1)Department of Physiology and Biophysics, University of Calgary, Calgary, 
+Alberta, Canada.
+
+Proteinase-activated receptor (PAR)(2) is activated by trypsin-like serine 
+proteinases and has been implicated in intestinal inflammation. However, its 
+role in the regulation of intestinal mucosal function remains unclear. Using the 
+intestinal epithelial cell line, SCBN, we have studied the stimulus-secretion 
+coupling mechanisms of PAR(2)-induced epithelial chloride transport, focusing on 
+cyclooxygenase (COX)-1 and COX-2 activities and prostaglandin (PG) E(2) 
+secretion. SCBN monolayers were grown on Snapwell supports, mounted in modified 
+Ussing chambers, and exposed to the activating peptide, SLIGRL-NH(2) (50 
+microM), to activate PAR(2). Pretreatment with inhibitors of cytosolic PLA(2) 
+(cPLA(2)) (AACOCF3, arachidonyltrifluoromethyl ketone), COX-1 [SC560, 
+5-(4-chlorophenyl)-1-(4-methoxyphenyl)-3-(trifluoromethyl)-1H-pyrazole], and 
+COX-2 (celecoxib) resulted in a significant concentration-dependent attenuation 
+of PAR(2)-induced changes in short-circuit current. Immunoblot analysis showed a 
+PAR(2)-induced increase in cPLA(2) phosphorylation that was blocked by the 
+mitogen-activated protein kinase kinase inhibitor, PD98059 
+[2-(2-amino-3methoxyphenyl)-4H-1benzopyran-4-one, C(16)H(13)NO(3)], and the 
+pan-protein kinase C inhibitor, GFX (bisindolylmaleimide). PAR(2) stimulation 
+also resulted in a large increase in the production of PGE(2) as determined by 
+enzyme-linked immunosorbent assay and was also blocked by PD98059 and GFX. 
+Immunofluorescence and immunoblot analysis determined that EP2 and EP4 are 
+expressed at the basolateral membrane of SCBN cells. Through the use of 
+selective inhibitors (EP2, AH6809 [6-isopropoxy-9-oxoxanthene-2-carboxylic 
+acid]; EP4, GW627368X 
+[N-[2[4,9-diethoxy-1-oxo-1,3-dihydro-2H-benzo[f]isoindol-2-yl)phenyl] 
+acetyl]benzene sulphonamide]), it was found that both EP2 and EP4 were involved 
+in mediating the PAR(2)-induced chloride secretory response. We conclude that 
+basolateral PAR(2) activation induces epithelial chloride secretion that is 
+mediated by cPLA(2), COX-1, COX-2, and the subsequent release of PGE(2). The 
+production of PGE(2) results in an autocrine secretory response that is 
+dependent on basolateral EP2 and EP4 receptors.
+
+DOI: 10.1124/jpet.108.145466
+PMID: 19190238 [Indexed for MEDLINE]
+
+
+40. FEBS J. 2009 Jan;276(1):175-86. doi: 10.1111/j.1742-4658.2008.06771.x. Epub 2008 
+Nov 19.
+
+The identification of a phospholipase B precursor in human neutrophils.
+
+Xu S(1), Zhao L, Larsson A, Venge P.
+
+Author information:
+(1)Department of Medical Sciences, Clinical Chemistry, Uppsala University, 
+Sweden. shengyuan.xu@medsci.uu.se
+
+A phospholipase B (PLB) precursor was purified from normal human granulocytes 
+using Sephadex G-75, Mono-S cation-exchange and hydroxyapatite columns. The 
+molecular mass of the protein was estimated to be approximately 130 kDa by gel 
+filtration and 22 and 42 kDa by SDS/PAGE. Tryptic peptide and sequence analyses 
+by MALDI-TOF and tandem mass spectrometry (MS/MS) identified the protein as a 
+FLJ22662 (Homo sapiens) gene product, a homologue of the amoeba Dictyostelium 
+discoideum PLB. The native protein needed modifications to acquire deacylation 
+activity against phospholipids including phosphatidylcholine, 
+phosphatidylinositol, phosphatidylethanolamine and lysophospholipids. Enzyme 
+activity was associated with fragments derived from the 42 kDa fragment. The 
+enzyme revealed a PLB nature by removing fatty acids from both the sn-1 and sn-2 
+positions of phospholipids. The enzyme is active at a broad pH range with an 
+optimum of 7.4. Immunoblotting of neutrophil postnuclear supernatant using 
+antibodies against the 42 kDa fragment detected a band at a molecular mass of 42 
+kDa, indicating a neutrophil origin of the novel PLB precursor. The existence of 
+the PLB precursor in neutrophils and its enzymatic activity against 
+phospholipids suggest a role in the defence against invading microorganisms and 
+in the generation of lipid mediators of inflammation.
+
+DOI: 10.1111/j.1742-4658.2008.06771.x
+PMID: 19019078 [Indexed for MEDLINE]
+
+
+41. Cell Signal. 2009 Mar;21(3):367-77. doi: 10.1016/j.cellsig.2008.10.010. Epub 
+2008 Oct 26.
+
+Lysophosphatidic acid signaling in airway epithelium: role in airway 
+inflammation and remodeling.
+
+Zhao Y(1), Natarajan V.
+
+Author information:
+(1)Department of Medicine, University of Chicago, Chicago, IL 60637, USA. 
+yzhao@medicine.bsd.uchicago.edu
+
+Lysophosphatidic acid (LPA), a potent bioactive phospholipid, induces diverse 
+cellular responses, including cell proliferation, migration, and cytokine 
+release. LPA can be generated intracellularly and extracellularly through 
+multiple synthetic pathways by action of various enzymes, such as phospholipase 
+A(1/2) (PLA(1/2)), phospholipase D (PLD), acylglycerol kinase (AGK), and 
+lysophospholipase D (lysoPLD). Metabolism of LPA is regulated by a family of 
+lipid phosphate phosphatases (LPPs). Significant amounts of LPA have been 
+detected in various biological fluids, including serum, saliva, and 
+bronchoalveolar lavage fluid (BALF). The most significant effects of LPA appear 
+to be through activation of the G-protein-coupled receptors (GPCRs), termed 
+LPA(1-6). LPA regulates gene expression through activation of several 
+transcriptional factors, such as nuclear factor-kappaB (NF-kappaB), AP-1, and 
+C/EBPbeta. In addition to GPCRs, cross-talk between LPA receptors and receptor 
+tyrosine kinases (RTKs) partly regulates LPA-induced intracellular signaling and 
+cellular responses. Airway epithelial cells participate in innate immunity 
+through the release of cytokines, chemokines, lipid mediators, other 
+inflammatory mediators and an increase in barrier function in response to a 
+variety of inhaled stimuli. Expression of LPA receptors has been demonstrated in 
+airway epithelial cells. This review summarizes our recent observations of the 
+role of LPA/LPA-Rs in regulation of airway epithelium, especially in relation to 
+the secretion of pro- and anti-inflammatory mediators and regulation of airway 
+barrier function.
+
+DOI: 10.1016/j.cellsig.2008.10.010
+PMCID: PMC2660380
+PMID: 18996473 [Indexed for MEDLINE]
+
+
+42. Am J Pathol. 2008 Nov;173(5):1566-76. doi: 10.2353/ajpath.2008.071153. Epub 2008 
+Sep 25.
+
+Involvement of the lysophosphatidic acid-generating enzyme autotaxin in 
+lymphocyte-endothelial cell interactions.
+
+Nakasaki T(1), Tanaka T, Okudaira S, Hirosawa M, Umemoto E, Otani K, Jin S, Bai 
+Z, Hayasaka H, Fukui Y, Aozasa K, Fujita N, Tsuruo T, Ozono K, Aoki J, Miyasaka 
+M.
+
+Author information:
+(1)Department of Microbiology and Immunology, Osaka University Graduate School 
+of Medicine, Suita, Osaka, 565-0871, Japan.
+
+Autotaxin (ATX) is a secreted protein with lysophospholipase D activity that 
+generates lysophosphatidic acid (LPA) from lysophosphatidylcholine. Here we 
+report that functional ATX is selectively expressed in high endothelial venules 
+(HEVs) of both lymph nodes and Peyer's patches. ATX expression was 
+developmentally regulated and coincided with lymphocyte recruitment to the lymph 
+nodes. In adults, ATX expression was independent of HEV-expressed chemokines 
+such as CCL21 and CXCL13, innate immunity signals including those via TLR4 or 
+MyD88, and of the extent of lymphocyte trafficking across the HEVs. ATX 
+expression was induced in venules at sites of chronic inflammation. Receptors 
+for the ATX enzyme product LPA were constitutively expressed in HEV endothelial 
+cells (ECs). In vitro, LPA induced strong morphological changes in HEV ECs. 
+Forced ATX expression caused cultured ECs to respond to lysophosphatidylcholine, 
+up-regulating lymphocyte binding to the ECs in a LPA receptor-dependent manner 
+under both static and flow conditions. Although in vivo depletion of circulating 
+ATX did not affect lymphocyte trafficking into the lymph nodes, we surmise, 
+based on the above data, that ATX expressed by HEVs acts on HEVs in situ to 
+facilitate lymphocyte binding to ECs and that ATX in the general circulation 
+does not play a major role in this process. Tissue-specific inactivation of ATX 
+will verify this hypothesis in future studies of its mechanism of action.
+
+DOI: 10.2353/ajpath.2008.071153
+PMCID: PMC2570145
+PMID: 18818380 [Indexed for MEDLINE]
+
+
+43. Prostaglandins Leukot Essent Fatty Acids. 2008 Jun;78(6):403-13. doi: 
+10.1016/j.plefa.2008.05.002. Epub 2008 Jun 24.
+
+Ischaemic preconditioning and TNF-alpha-mediated preconditioning is associated 
+with a differential cPLA2 translocation pattern in early ischaemia.
+
+Loos B(1), Smith R, Engelbrecht AM.
+
+Author information:
+(1)Department of Physiological Sciences, University of Stellenbosch, Meriman 
+Street, Stellenbosch 7600, Republic of South Africa.
+
+Both the cytokine tumour necrosis factor-alpha (TNF-alpha) and the enzyme 
+cytosolic phospholipase A2 (cPLA2) have been implicated in ischaemic injury. 
+Apart from the induction of apoptosis, TNF-alpha also mediates cytoprotection 
+when present in low concentrations. However, the relationship between TNF-alpha 
+and cPLA2 activities during cytoprotection is poorly understood. Therefore, we 
+examined the role of cPLA2 in TNF-alpha-mediated (TNF-PC) and ischaemic 
+preconditioning (IPC) in tolerance to ischaemia (SI) in C2C12 myotubes. 
+Significant decreases in cPLA2 phosphorylation in SI compared with the 
+preconditioned groups were observed. This was also mirrored by the p38 mitogen 
+activated protein kinase (MAPK) phosphorylation pattern. These results 
+correlated with fluorescence- and three-dimensional imaging, demonstrating 
+increased translocation of phospho-cPLA2 to the nuclear region in SI compared to 
+TNF-PC and IPC. These data suggest a p38 driven cPLA2 translocation pattern, 
+with a possible role for cPLA2 in deciding cell fate.
+
+DOI: 10.1016/j.plefa.2008.05.002
+PMID: 18579361 [Indexed for MEDLINE]
+
+
+44. Blood. 2006 Sep 1;108(5):1758-66. doi: 10.1182/blood-2006-05-021881. Epub 2006 
+May 18.
+
+Induction of Fc gammaRIIA expression in myeloid PLB cells during differentiation 
+depends on cytosolic phospholipase A2 activity and is regulated via activation 
+of CREB by PGE2.
+
+Hazan-Eitan Z(1), Weinstein Y, Hadad N, Konforty A, Levy R.
+
+Author information:
+(1)Infectious Diseases Laboratory, Department of Clinical Biochemistry, Faculty 
+of Health Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel.
+
+Fc gammaRIIA expressed on neutrophils and monocytes has a fundamental role in 
+combating bacterial infections. In the present study, the requirement of 
+cytosolic phospholipase A2 (cPLA2) for induction of Fc gammaRIIA expression was 
+studied in a model of cPLA2-deficient PLB-985 cells (PLB-D cells). Fc gammaRIIA 
+was acquired only during differentiation of PLB but not of PLB-D cells induced 
+by either 1,25-dihydroxyvitamin D3, retinoic acid, or interferon gamma. Addition 
+of prostaglandin E2 (PGE2) to PLB-D cells undergoing differentiation restored 
+the expression of Fc gammaRIIA protein, whereas addition of indomethacin to PLB 
+cells during differentiation inhibited both the production of PGE2 and the 
+expression of Fc gammaRIIA. Inhibition of PKA during PLB differentiation 
+prevented Fc gammaRIIA expression, whereas dibutyryl cAMP (dbcAMP) induced its 
+expression in both PLB and PLB-D cells. CREB phosphorylation and CREB-CRE 
+interaction were detected only in differentiated PLB cells and not PLB-D cells 
+and were inhibited by indomethacin. A reporter gene containing a Fc gammaRIIA 
+gene promoter fragment with the CRE element was sufficient for CREB activation. 
+Our results are the first to show that CREB activation is involved in 
+up-regulation of Fc gammaRIIA expression in myeloid lineages. PGE2 formed via 
+cPLA2 activates CREB through PKA and this process is dependent on development of 
+PGE2 receptor 4.
+
+DOI: 10.1182/blood-2006-05-021881
+PMID: 16709925 [Indexed for MEDLINE]
+
+
+45. J Proteome Res. 2006 Feb;5(2):330-8. doi: 10.1021/pr050341h.
+
+Comparative proteomics of nasal fluid in seasonal allergic rhinitis.
+
+Ghafouri B(1), Irander K, Lindbom J, Tagesson C, Lindahl M.
+
+Author information:
+(1)Division of Occupational and Environmental Medicine, Department of Molecular 
+and Clinical Medicine, Linköping University, Sweden.
+
+A comparative proteomic approach was applied to examine nasal lavage fluid (NLF) 
+from patients with seasonal allergic rhinitis (SAR, n = 6) and healthy subjects 
+(controls, n = 5). NLF samples were taken both before allergy (pollen) season 
+and during season, and proteins were analyzed by two-dimensional gel 
+electrophoresis (2-DE) and matrix assisted laser desorption/ionization 
+time-of-flight mass spectrometry (MALDI-TOF MS) after tryptic cleavage. Twenty 
+proteins were selected and quantified. During allergy season, the levels of six 
+sialylated isoforms of PLUNC (palate lung nasal epithelial clone) were lower in 
+SAR patients than controls, as were the levels of six isoforms of von Ebner's 
+gland protein (VEGP), including a previously undescribed form with N-linked 
+glycosylation, and of cystatin S. PLUNC is a new innate immunity protein and 
+VEGP and cystatin S are two endogenous proteinase inhibitors. By contrast, the 
+levels of an acidic form of alpha-1-antitrypsin were higher in SAR patients than 
+controls. One previously unidentified NLF protein was found in all samples from 
+the SAR patients during allergy season but not in any sample before allergy 
+season: this protein was identified as eosinophil lysophospholipase 
+(Charcot-Leyden crystal protein/galactin 10). MS/MS analysis of the N-terminus 
+of the protein showed removal of Met and acetylation of Ser. Altogether, these 
+findings illustrate the potential use of proteomics for identifying protein 
+changes associated with allergic rhinitis and for revealing post-translational 
+modifications of such new potential markers of allergic inflammation.
+
+DOI: 10.1021/pr050341h
+PMID: 16457599 [Indexed for MEDLINE]
+
+
+46. J Exp Med. 2005 Sep 19;202(6):841-51. doi: 10.1084/jem.20050665.
+
+Cytosolic phospholipase A2 alpha-deficient mice are resistant to experimental 
+autoimmune encephalomyelitis.
+
+Marusic S(1), Leach MW, Pelker JW, Azoitei ML, Uozumi N, Cui J, Shen MW, 
+DeClercq CM, Miyashiro JS, Carito BA, Thakker P, Simmons DL, Leonard JP, Shimizu 
+T, Clark JD.
+
+Author information:
+(1)Department of Inflammation, Wyeth Research, Cambridge, MA 02140, USA. 
+smarusic@wyeth.com
+
+Experimental autoimmune encephalomyelitis (EAE), a Th1-mediated inflammatory 
+disease of the central nervous system (CNS), is a model of human multiple 
+sclerosis. Cytosolic phospholipase A2alpha (cPLA2alpha), which initiates 
+production of prostaglandins, leukotrienes, and platelet-activating factor, is 
+present in EAE lesions. Using myelin oligodendrocyte glycoprotein (MOG) 
+immunization, as well as an adoptive transfer model, we showed that 
+cPLA2alpha-/- mice are resistant to EAE. Histologic examination of the CNS from 
+MOG-immunized mice revealed extensive inflammatory lesions in the cPLA2alpha+/- 
+mice, whereas the lesions in cPLA2alpha-/- mice were reduced greatly or 
+completely absent. MOG-specific T cells generated from WT mice induced less 
+severe EAE in cPLA2alpha-/- mice compared with cPLA2alpha+/- mice, which 
+indicates that cPLA2alpha plays a role in the effector phase of EAE. 
+Additionally, MOG-specific T cells from cPLA2alpha-/- mice, transferred into WT 
+mice, induced EAE with delayed onset and lower severity compared with EAE that 
+was induced by control cells; this indicates that cPLA2alpha also plays a role 
+in the induction phase of EAE. MOG-specific T cells from cPLA2alpha-/- mice were 
+deficient in production of Th1-type cytokines. Consistent with this deficiency, 
+in vivo administration of IL-12 rendered cPLA2alpha-/- mice susceptible to EAE. 
+Our data indicate that cPLA2alpha plays an important role in EAE development and 
+facilitates differentiation of T cells toward the Th1 phenotype.
+
+DOI: 10.1084/jem.20050665
+PMCID: PMC2212947
+PMID: 16172261 [Indexed for MEDLINE]
+
+
+47. J Biol Chem. 2005 Apr 15;280(15):14656-62. doi: 10.1074/jbc.M412585200. Epub 
+2005 Feb 14.
+
+Lysophosphatidic acid inhibits adipocyte differentiation via lysophosphatidic 
+acid 1 receptor-dependent down-regulation of peroxisome proliferator-activated 
+receptor gamma2.
+
+Simon MF(1), Daviaud D, Pradère JP, Grès S, Guigné C, Wabitsch M, Chun J, Valet 
+P, Saulnier-Blache JS.
+
+Author information:
+(1)INSERM U586, Institut Louis Bugnard, Rangueil Hospital, BP84225, 31432 
+Toulouse, Cedex 4, France.
+
+Lysophosphatidic acid (LPA) is a bioactive phospholipid acting via specific G 
+protein-coupled receptors that is synthesized at the extracellular face of 
+adipocytes by a secreted lysophospholipase D (autotaxin). Preadipocytes mainly 
+express the LPA(1) receptor subtype, and LPA increases their proliferation. In 
+monocytes and CV1 cells LPA was recently reported to bind and activate 
+peroxisome proliferator-activated receptor gamma (PPARgamma), a transcription 
+factor also known to play a pivotal role in adipogenesis. Here we show that, 
+unlike the PPARgamma agonist rosiglitazone, LPA was unable to increase 
+transcription of PPARgamma-sensitive genes (PEPCK and ALBP) in the mouse 
+preadipose cell line 3T3F442A. In contrast, treatment with LPA decreased 
+PPARgamma2 expression, impaired the response of PPARgamma-sensitive genes to 
+rosiglitazone, reduced triglyceride accumulation, and reduced the expression of 
+adipocyte mRNA markers. The anti-adipogenic activity of LPA was also observed in 
+the human SGBS (Simpson-Golabi-Behmel syndrome) preadipocyte cell line, as well 
+as in primary preadipocytes isolated from wild type mice. Conversely, the 
+anti-adipogenic activity of LPA was not observed in primary preadipocytes from 
+LPA(1) receptor knock-out mice, which, in parallel, exhibited a higher adiposity 
+than wild type mice. In conclusion, LPA does not behave as a potent PPARgamma 
+agonist in adipocytes but, conversely, inhibits PPARgamma expression and 
+adipogenesis via LPA(1) receptor activation. The local production of LPA may 
+exert a tonic inhibitory effect on the development of adipose tissue.
+
+DOI: 10.1074/jbc.M412585200
+PMID: 15710620 [Indexed for MEDLINE]
+
+
+48. Neuroscience. 2004;125(1):119-27. doi: 10.1016/j.neuroscience.2004.01.028.
+
+Histamine activates a background, arachidonic acid-sensitive K channel in 
+embryonic chick dorsal root ganglion neurons.
+
+Fioretti B(1), Catacuzzeno L, Tata AM, Franciolini F.
+
+Author information:
+(1)Dipartimento Biologia Cellulare e Molecolare, Universita' di Perugia, Via 
+Pascoli 1, 06100 Perugia, Italy.
+
+Histamine has been proposed to be an important modulator of developing neurons, 
+but its mechanism of action remains unclear. In embryonic chick dorsal root 
+ganglion neurons we found that histamine activates, through the 
+pyrilamine-sensitive H1 receptor, a K-selective, background channel. The K 
+channel activated by histamine was also activated by arachidonic acid in a 
+dose-dependent way, with a KD of 4 microM and a slope of 2.5, had a unitary 
+conductance of about 150 pS (symmetrical 140 KCl) and a moderate voltage 
+dependence. The channel was insensitive to the classical K channel blockers 
+tetraethylammonium, charybdotoxin, 4-aminopyridine, but inhibited by millimolar 
+Ba2+. Channel activity could also be increased by lowering the intracellular pH 
+from 7.2 to 5.5, or by applying negative pressure pulses through the patch 
+pipette. Experiments aimed at delineating the metabotropic pathway leading to K 
+channel activation by histamine indicated the involvement of a pertussis 
+toxin-insensitive G protein, and a quinacrine-sensitive cytosolic phospholipase 
+A2. The histamine-induced K channel activation was observed only with elevated 
+internal Ca2+ (achieved using 0.5 microM ionomycin or elevated external KCl). An 
+increase in the histamine-induced phosphoinositide hydrolysis was also observed 
+upon internal Ca2+ elevation, showing the presence of a Ca2+ dependent step 
+upstream to inositol 1,4,5-triphosphate production. In view of the functional 
+importance of K conductances during cell differentiation, we propose that 
+histamine activation of this K channel may have a significant role during normal 
+development of embryonic chick neurons.
+
+DOI: 10.1016/j.neuroscience.2004.01.028
+PMID: 15051151 [Indexed for MEDLINE]
+
+
+49. J Biol Chem. 2003 May 16;278(20):18162-9. doi: 10.1074/jbc.M301158200. Epub 2003 
+Mar 17.
+
+Autotaxin is released from adipocytes, catalyzes lysophosphatidic acid 
+synthesis, and activates preadipocyte proliferation. Up-regulated expression 
+with adipocyte differentiation and obesity.
+
+Ferry G(1), Tellier E, Try A, Grés S, Naime I, Simon MF, Rodriguez M, Boucher J, 
+Tack I, Gesta S, Chomarat P, Dieu M, Raes M, Galizzi JP, Valet P, Boutin JA, 
+Saulnier-Blache JS.
+
+Author information:
+(1)Institut de Recherche Servier, Centre de Recherche de Croissy, 78290 
+Croissy-sur-Seine, France.
+
+Our group has recently demonstrated (Gesta, S., Simon, M., Rey, A., Sibrac, D., 
+Girard, A., Lafontan, M., Valet, P., and Saulnier-Blache, J. S. (2002) J. Lipid 
+Res. 43, 904-910) the presence, in adipocyte conditioned-medium, of a soluble 
+lysophospholipase d-activity (LPLDact) involved in synthesis of the bioactive 
+phospholipid lysophosphatidic acid (LPA). In the present report, LPLDact was 
+purified from 3T3F442A adipocyte-conditioned medium and identified as the type 
+II ecto-nucleotide pyrophosphatase phosphodiesterase, autotaxin (ATX). A unique 
+ATX cDNA was cloned from 3T3F442A adipocytes, and its recombinant expression in 
+COS-7 cells led to extracellular release of LPLDact. ATX mRNA expression was 
+highly up-regulated during adipocyte differentiation of 3T3F442A-preadipocytes. 
+This up-regulation was paralleled by the ability of newly differentiated 
+adipocytes to release LPLDact and LPA. Differentiation-dependent up-regulation 
+of ATX expression was also observed in a primary culture of mouse preadipocytes. 
+Treatment of 3T3F442A-preadipocytes with concentrated conditioned medium from 
+ATX-expressing COS-7 cells led to an increase in cell number as compared with 
+concentrated conditioned medium from ATX non-expressing COS-7 cells. The 
+specific effect of ATX on preadipocyte proliferation was completely suppressed 
+by co-treatment with a LPA-hydrolyzing phospholipase, phospholipase B. Finally, 
+ATX expression was found in mature adipocytes isolated from mouse adipose tissue 
+and was substantially increased in genetically obese-diabetic db/db mice when 
+compared with their lean siblings. In conclusion, the present work shows that 
+ATX is responsible for the LPLDact released by adipocytes and exerts a paracrine 
+control on preadipocyte growth via an LPA-dependent mechanism. Up-regulations of 
+ATX expression with adipocyte differentiation and genetic obesity suggest a 
+possible involvement of this released protein in the development of adipose 
+tissue and obesity-associated pathologies.
+
+DOI: 10.1074/jbc.M301158200
+PMCID: PMC1885458
+PMID: 12642576 [Indexed for MEDLINE]
+
+
+50. J Biol Chem. 2001 Jan 19;276(3):1800-7. doi: 10.1074/jbc.M009209200. Epub 2000 
+Oct 24.
+
+Traumatic injury of cortical neurons causes changes in intracellular calcium 
+stores and capacitative calcium influx.
+
+Weber JT(1), Rzigalinski BA, Ellis EF.
+
+Author information:
+(1)Department of Pharmacology and Toxicology, Medical College of Virginia, 
+Virginia Commonwealth University, Richmond, Virginia 23298-0613, USA.
+
+Using an in vitro traumatic injury model, we examined the effects of mechanical 
+(stretch) injury on intracellular Ca2+ store-mediated signaling in cultured 
+cortical neurons using fura-2. We previously found that elevation of [Ca2+](i) 
+by the endoplasmic reticulum Ca2+-ATPase inhibitor, thapsigargin, was abolished 
+15 min post-injury. In the current studies, pre-injury inhibition of 
+phospholipase C with neomycin sulfate maintained Ca2+-replete stores 15 min 
+post-injury, suggesting that the initial injury-induced store depletion may be 
+due to increased inositol trisphosphate production. Thapsigargin-stimulated 
+elevation of [Ca2+](i) returned with time after injury and was potentiated at 3 
+h. Stimulation with thapsigargin in Ca2+-free media revealed that the size of 
+the Ca2+ stores was normal at 3 h post-injury. However, Ca2+ influx triggered by 
+depletion of intracellular Ca2+ stores (capacitative Ca2+ influx) was enhanced 3 
+h after injury. Enhancement was blocked by inhibitors of cytosolic phospholipase 
+A2 and cytochrome P450 epoxygenase. Since intracellular Ca2+ store-mediated 
+signaling plays an important role in neuronal function, the observed changes may 
+contribute to dysfunction produced by traumatic brain injury. Additionally, our 
+results suggest that capacitative Ca2+ influx may be mediated by both 
+conformational coupling and a diffusible messenger synthesized by the combined 
+action of cytosolic PLA2 and P450.
+
+DOI: 10.1074/jbc.M009209200
+PMID: 11050103 [Indexed for MEDLINE]
+
+
+51. J Biol Chem. 1998 May 29;273(22):13407-14. doi: 10.1074/jbc.273.22.13407.
+
+Ectopic epididymal expression of guinea pig intestinal phospholipase B. Possible 
+role in sperm maturation and activation by limited proteolytic digestion.
+
+Delagebeaudeuf C(1), Gassama-Diagne A, Nauze M, Ragab A, Li RY, Capdevielle J, 
+Ferrara P, Fauvel J, Chap H.
+
+Author information:
+(1)Institut Fédératif de Recherche en Immunologie Cellulaire et Moléculaire, 
+Université Paul Sabatier, Toulouse Cedex, France.
+
+Guinea pig intestinal phospholipase B is a calcium-independent phospholipase 
+hydrolyzing sequentially the acyl ester bonds at sn-2 and sn-1 positions of 
+glycerophospholipids, promoting the formation of sn-glycero-3-phosphocholine 
+from phosphatidylcholine. This 140-kDa glycoprotein from the brush border 
+membrane of differentiated enterocytes contributes to lipid digestion as an 
+ectoenzyme. The cDNA coding for guinea pig phospholipase B was revealed to be 
+the homologue of AdRab-B, an mRNA appearing in rabbit upon intestine 
+development. The sequence predicts a polypeptide of 1463 amino acids displaying 
+four homologous repeats, two of them containing the lipase consensus sequence 
+GXSXG. A 5-kilobase transcript was particularly abundant in mature ileal and 
+jejunal enterocytes but was also detected in epididymis, where phospholipase B 
+displayed a higher molecular mass (170 kDa versus 140 kDa in intestine), with no 
+obvious evidence for enzyme activity. Trypsin treatment of phospholipase B 
+immunoprecipitated from epididymal membranes reduced its size to 140 kDa, 
+coinciding with the appearance of a significant phospholipase A2 activity. The 
+same results were obtained in COS cells transfected with phospholipase B cDNA. 
+Since sn-glycero-3-phosphocholine present at high concentrations in seminal 
+plasma mainly stems from epididymis, this suggests a possible role of 
+phospholipase B in male reproduction. This novel localization also unravels a 
+mechanism of phospholipase B activation by limited proteolysis involving either 
+trypsin in the intestinal lumen or a trypsin-like endopeptidase in the male 
+reproductive tract.
+
+DOI: 10.1074/jbc.273.22.13407
+PMID: 9593672 [Indexed for MEDLINE]
+
+
+52. J Immunol. 1998 Mar 1;160(5):2393-400.
+
+IL-5 is required for eosinophil recruitment, crystal deposition, and mononuclear 
+cell recruitment during a pulmonary Cryptococcus neoformans infection in 
+genetically susceptible mice (C57BL/6).
+
+Huffnagle GB(1), Boyd MB, Street NE, Lipscomb MF.
+
+Author information:
+(1)Department of Internal Medicine, University of Michigan Medical Center, Ann 
+Arbor 48109, USA. ghuff@umich.edu
+
+CBA/J (highly resistant), BALB/c (moderately resistant), and C57BL/6 
+(susceptible) mice displayed three resistance patterns following intratracheal 
+inoculation of Cryptococcus neoformans 52. The inability to clear the infection 
+correlated with the duration of the eosinophil infiltrate in the lungs. The role 
+of IL-5 in promoting the pulmonary eosinophilia and subsequent inflammatory 
+damage in susceptible C57BL/6 mice was investigated. C57BL/6 mice developed a 
+chronic alveolar, peribronchiolar, and perivascular eosinophilia following C. 
+neoformans infection. This resulted in the accumulation of intracellular 
+Charcot-Leyden-like crystals in alveolar macrophages by wk 4 and the 
+extracellular deposition of these crystals in the bronchioles with associated 
+destruction of airway epithelium by wk 6. IL-5 mRNA was expressed in the lungs, 
+and injections of anti-IL-5 mAb prevented eosinophil recruitment and crystal 
+deposition but did not alter cryptococcal clearance. Depletion of CD4+ T cells 
+(but not CD8+) ablated IL-5 production by lung leukocytes in vitro and 
+eosinophil recruitment in vivo. Neutralization of IL-5 also inhibited the 
+recruitment of macrophages, CD8+ T lymphocytes, and B lymphocytes by 47 to 57%. 
+Anti-IL-5 mAb inhibited CD4+ T lymphocyte recruitment by 30% but did not affect 
+neutrophil recruitment. Thus, the development of a chronic eosinophil infiltrate 
+in the lungs of C. neoformans-infected C57BL/6 mice is a nonprotective immune 
+response that causes significant lung pathology. Furthermore, IL-5 promotes the 
+recruitment and activation of eosinophils, resulting in the recruitment of 
+additional macrophages and lymphocytes into the lungs.
+
+PMID: 9498782 [Indexed for MEDLINE]
+
+
+53. Environ Health Perspect. 1997 Sep;105 Suppl 5(Suppl 5):1301-7. doi: 
+10.1289/ehp.97105s51301.
+
+The role of reactive oxygen and nitrogen species in the response of airway 
+epithelium to particulates.
+
+Martin LD(1), Krunkosky TM, Dye JA, Fischer BM, Jiang NF, Rochelle LG, Akley NJ, 
+Dreher KL, Adler KB.
+
+Author information:
+(1)Department of Anatomy, North Carolina State University, College of Veterinary 
+Medicine, Raleigh 27606, USA.
+
+Epidemiologic and occupational studies indicate adverse health effects due to 
+inhalation of particulate air pollutants, but precise biologic mechanisms 
+responsible have yet to be fully established. The tracheobronchial epithelium 
+forms the body's first physiologic barrier to such airborne pollutants, where 
+ciliary movement functions to remove the offending substances caught in the 
+overlying mucus layer. Resident and infiltrating phagocytic cells also function 
+in this removal process. In this paper, we examine the role of reactive oxygen 
+and nitrogen species (ROS/RNS) in the response of airway epithelium to 
+particulates. Some particulates themselves can generate ROS, as can the 
+epithelial cells, in response to appropriate stimulation. In addition, resident 
+macrophages in the airways and the alveolar spaces can release ROS/RNS after 
+phagocytosis of inhaled particles. These macrophages also release large amounts 
+of tumor necrosis factor alpha (TNF-alpha), a cytokine that can generate 
+responses within the airway epithelium dependent upon intracellular generation 
+of ROS/RNS. As a result, signal transduction pathways are set in motion that may 
+contribute to inflammation and other pathobiology in the airway. Such effects 
+include increased expression of intercellular adhesion molecule 1, 
+interleukin-6, cytosolic and inducible nitric oxide synthase, manganese 
+superoxide dismutase, cytosolic phospholipase A2, and hypersecretion of mucus. 
+Ultimately, ROS/RNS may play a role in the global response of the airway 
+epithelium to particulate pollutants via activation of kinases and transcription 
+factors common to many response genes. Thus, defense mechanisms involved in 
+responding to offending particulates may result in a complex cascade of events 
+that can contribute to airway pathology.
+
+DOI: 10.1289/ehp.97105s51301
+PMCID: PMC1470132
+PMID: 9400742 [Indexed for MEDLINE]
+
+
+54. Eur J Biochem. 1996 Aug 1;239(3):572-8. doi: 10.1111/j.1432-1033.1996.0572u.x.
+
+Regulation of leukotriene-biosynthetic enzymes during differentiation of 
+myelocytic HL-60 cells to eosinophilic or neutrophilic cells.
+
+Scoggan KA(1), Nicholson DW, Ford-Hutchinson AW.
+
+Author information:
+(1)Department of Pharmacology and Therapeutics, McGill University, Quebec, 
+Canada.
+
+Leukotrienes (LTs) are potent mediators of bronchial inflammation and are 
+predominantly produced by myeloid cells. As myelocytic cells differentiate 
+towards either eosinophils or neutrophils, the profile of leukotrienes they 
+produce upon stimulation diverges. Eosinophils produce mainly cysteinyl 
+leukotrienes whereas neutrophils predominantly synthesize 5(S), 
+12(R)-dihydroxy-6,8,10,14-eicosatetraenoic acid (LTB delta). The mechanism by 
+which this change in leukotriene composition occurs is unknown. In this study, 
+we investigated the control of leukotriene biosynthetic enzymes during myeloid 
+cell differentiation. Western-blot analyses of myelocytic leukemia cell lines, 
+HL-60#7 and HL-60, differentiated towards eosinophilic or neutrophilic cell 
+types, respectively, demonstrated that as myelocytic cells differentiate towards 
+eosinophils or neutrophils, the protein levels of cytosolic phospholipase A2 
+(cPLA2) remain constant, whereas 5-lipoxygenase and 5-lipoxygenase-activating 
+protein (FLAP) levels are simultaneously elevated. As myelocytic cells become 
+more eosinophil-like, 5(S)-hydroxy- 6(R)-S-glutathionyl-7,9-trans-11, 
+14-cis-eicosatetraenoic acid (LTC delta) synthase activity and expression of 
+both the protein and messenger RNA in the cells are dramatically increased 
+(approximately 75-fold), while the LTC delta synthase level and activity in 
+neutrophil-like cells remain constant at very low levels. In contrast, in 
+neutrophilic cells, the amount of 5,6-oxido-7,9,11,14-eicosatetraenoic acid (LTA 
+delta) hydrolase was elevated approximately 100-fold greater than the increase 
+in LTA delta hydrolase from eosinophilic cells. These results indicate that as a 
+myeloid cell differentiates towards a granulocyte, similar mechanisms of 
+regulation may be applied to the leukotriene biosynthetic pathway up to the 
+point at which the pathway diverges. At the stage in the leukotriene 
+biosynthetic pathway where LTA delta may be converted to either LTC delta or to 
+LTB delta, specific regulators of transcription may become activated as a 
+myelocytic cell differentiates, thereby causing increased LTA delta hydrolase or 
+LTC delta synthase expression.
+
+DOI: 10.1111/j.1432-1033.1996.0572u.x
+PMID: 8774699 [Indexed for MEDLINE]
+
+
+55. Biochem Biophys Res Commun. 1992 May 29;185(1):350-5. doi: 
+10.1016/s0006-291x(05)80992-1.
+
+Ontogeny of cytosolic phospholipase A2 activity in rat brain.
+
+Yoshihara Y(1), Yamaji M, Kawasaki M, Watanabe Y.
+
+Author information:
+(1)Department of Neuroscience, Osaka Bioscience Institute, Japan.
+
+We investigated developmental changes in the activity of cytosolic phospholipase 
+A2 (cPLA2) in the rat brain. When the cytosolic fractions from rat brain of 
+various ages were examined by gel filtration chromatography, cPLA2 activity was 
+detected at about 100 kDa in all developmental stages. However, the magnitude of 
+cPLA2 activity differed significantly. The cPLA2 activity was highest in the 
+brain of day-12 embryo, gradually decreased toward birth, and retained a 
+constant level into adulthood. This result suggests that cPLA2 plays an 
+important role in the early development of the nervous system.
+
+DOI: 10.1016/s0006-291x(05)80992-1
+PMID: 1599471 [Indexed for MEDLINE]

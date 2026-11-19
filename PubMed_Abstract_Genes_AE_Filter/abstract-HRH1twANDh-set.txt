@@ -1,0 +1,1384 @@
+1. Front Aging Neurosci. 2022 May 9;14:847561. doi: 10.3389/fnagi.2022.847561. 
+eCollection 2022.
+
+NLRP3/Caspase-1-Mediated Pyroptosis of Astrocytes Induced by Antipsychotics Is 
+Inhibited by a Histamine H1 Receptor-Selective Agonist.
+
+He M(1), Fan J(1), Zhou R(1), Gao G(2), Li R(3), Zuo Y(1), Li B(1), Li Y(4), Sun 
+T(1).
+
+Author information:
+(1)School of Chemistry, Chemical Engineering and Life Sciences, Wuhan University 
+of Technology, Wuhan, China.
+(2)State Key Laboratory of Advanced Technology for Materials Synthesis and 
+Processing, Wuhan University of Technology, Wuhan, China.
+(3)School of Public Health, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, China.
+(4)Hubei Provincial Key Laboratory for Applied Toxicology, Hubei Provincial 
+Center for Disease Control and Prevention, Wuhan, China.
+
+Emerging data indicate that antipsychotic treatment causes brain volume loss and 
+astrocyte death, but the mechanisms remain elusive. Pyroptosis, inflammatory 
+cell death characterized by the formation of inflammatory bodies, increased 
+expression of nod-like receptor proteins (NLRPs) such as NLRP3, and activation 
+of caspases and gasdermin D (GSDMD) are largely associated with innate immunity, 
+inflammation, and cell injury/death. However, the main effect of antipsychotics 
+on astrocyte pyroptotic signaling and the molecular mechanisms remain obscure. 
+In the present study, 72-h treatment with olanzapine, quetiapine, risperidone, 
+or haloperidol significantly decreased the viability of astrocytes. Twenty-four 
+hour treatment with olanzapine, quetiapine, risperidone, or haloperidol 
+dose-dependently increased the protein expression of astrocytic NLRP3, NLRP6, 
+caspase-1, caspase-4, and GSDMD. Co-treatment with a histamine H1 receptor 
+agonist, 2-(3-trifluoromethylphenyl) histamine (FMPH), dose-dependently reduced 
+the increased expression of NLRP3, caspase-1 and GSDMD induced by olanzapine, 
+quetiapine, risperidone, or haloperidol. Moreover, olanzapine, quetiapine, 
+risperidone, or haloperidol treatment induced pore formation in the membranes of 
+astrocytes, and these effects were inhibited by FMPH co-treatment. Taken 
+together, antipsychotic treatment activated astrocyte pyroptotic signaling, and 
+these effects may be related to antipsychotic-induced astrocyte death. H1 
+receptor activation is an effective treatment strategy to suppress 
+antipsychotic-induced astrocyte pyroptosis and inflammation.
+
+Copyright © 2022 He, Fan, Zhou, Gao, Li, Zuo, Li, Li and Sun.
+
+DOI: 10.3389/fnagi.2022.847561
+PMCID: PMC9125084
+PMID: 35615587
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Mucosal Immunol. 2021 Jan;14(1):135-143. doi: 10.1038/s41385-020-0306-6. Epub 
+2020 Jun 23.
+
+Dysregulation of intestinal epithelial CFTR-dependent Cl(-) ion transport and 
+paracellular barrier function drives gastrointestinal symptoms of food-induced 
+anaphylaxis in mice.
+
+Yamani A(1)(2), Wu D(2), Ahrens R(2), Waggoner L(2), Noah TK(1)(2), 
+Garcia-Hernandez V(3), Ptaschinski C(1), Parkos CA(3), Lukacs NW(1)(3), Nusrat 
+A(3), Hogan SP(4)(5)(6).
+
+Author information:
+(1)Mary H Weiser Food Allergy Center, Department of Pathology, Michigan 
+Medicine, University of Michigan, 109 Zina Pitcher Place, Ann Arbor, MI, 
+48109-2200, USA.
+(2)Division of Allergy and Immunology, Department of Pediatrics, Cincinnati 
+Children's Hospital Medical Center, University of Cincinnati College of 
+Medicine, 3333 Burnet Ave, Cincinnati, OH, 45229-3026, USA.
+(3)Department of Pathology, Michigan Medicine, University of Michigan, 109 Zina 
+Pitcher Place, Ann Arbor, MI, 48109-2200, USA.
+(4)Mary H Weiser Food Allergy Center, Department of Pathology, Michigan 
+Medicine, University of Michigan, 109 Zina Pitcher Place, Ann Arbor, MI, 
+48109-2200, USA. sihogan@med.umich.edu.
+(5)Division of Allergy and Immunology, Department of Pediatrics, Cincinnati 
+Children's Hospital Medical Center, University of Cincinnati College of 
+Medicine, 3333 Burnet Ave, Cincinnati, OH, 45229-3026, USA. 
+sihogan@med.umich.edu.
+(6)Department of Pathology, Michigan Medicine, University of Michigan, 109 Zina 
+Pitcher Place, Ann Arbor, MI, 48109-2200, USA. sihogan@med.umich.edu.
+
+Food-triggered anaphylaxis can encompass a variety of systemic and intestinal 
+symptoms. Murine-based and clinical studies have revealed a role for histamine 
+and H1R and H2R-pathway in the systemic response; however, the molecular 
+processes that regulate the gastrointestinal (GI) response are not as well 
+defined. In the present study, by utilizing an IgE-mast cell (MC)-dependent 
+experimental model of oral antigen-induced anaphylaxis, we define the intestinal 
+epithelial response during a food-induced anaphylactic reaction. We show that 
+oral allergen-challenge stimulates a rapid dysregulation of intestinal 
+epithelial transcellular and paracellular transport that was associated with the 
+development of secretory diarrhea. Allergen-challenge induced (1) a rapid 
+intestinal epithelial Cftr-dependent Cl- secretory response and (2) paracellular 
+macromolecular leak that was associated with modification in epithelial 
+intercellular junction proteins claudin-1, 2, 3 and 5, E-cadherin and desmosomal 
+cadherins. OVA-induced Cftr-dependent Cl- secretion and junctional protein 
+degradation was rapid occurring and was sustained for 72 h following 
+allergen-challenge. Blockade of both the proteolytic activity and Cl- secretory 
+response was required to alleviate intestinal symptoms of food-induced 
+anaphylaxis. Collectively, these data suggest that the GI symptom of 
+food-induced anaphylactic reaction, secretory diarrhea, is a consequence of 
+CFTR-dependent Cl- secretion and proteolytic activity.
+
+DOI: 10.1038/s41385-020-0306-6
+PMCID: PMC11197992
+PMID: 32576925 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Authors have nothing to disclose
+
+
+3. Sci Rep. 2020 Mar 9;10(1):4360. doi: 10.1038/s41598-020-60036-z.
+
+Robust induction of neural crest cells to derive peripheral sensory neurons from 
+human induced pluripotent stem cells.
+
+Umehara Y(1)(2), Toyama S(1), Tominaga M(1), Matsuda H(1), Takahashi N(1), 
+Kamata Y(1), Niyonsaba F(2)(3), Ogawa H(1)(2), Takamori K(4)(5).
+
+Author information:
+(1)Juntendo Itch Research Center (JIRC), Institute for Environmental and Gender 
+Specific Medicine, Juntendo University Graduate School of Medicine, 2-1-1 
+Tomioka, Urayasu, Chiba, 279-0021, Japan.
+(2)Atopy (Allergy) Research Center, Juntendo University Graduate School of 
+Medicine, 2-1-1 Hongo, Bunkyo-ku, Tokyo, 113-8421, Japan.
+(3)Faculty of International Liberal Arts, Juntendo University, 2-1-1 Hongo, 
+Bunkyo-ku, Tokyo, 113-8421, Japan.
+(4)Juntendo Itch Research Center (JIRC), Institute for Environmental and Gender 
+Specific Medicine, Juntendo University Graduate School of Medicine, 2-1-1 
+Tomioka, Urayasu, Chiba, 279-0021, Japan. ktakamor@juntendo.ac.jp.
+(5)Department of Dermatology, Juntendo University Urayasu Hospital, 2-1-1 
+Tomioka, Urayasu, Chiba, 279-0021, Japan. ktakamor@juntendo.ac.jp.
+
+Because intractable itch reduces quality of life, understanding the fundamental 
+mechanisms of itch is required to develop antipruritic treatments. Itch is 
+mediated by peripheral sensory neurons, which originate from the neural crest 
+(NC) during development. Itch-associated signaling molecules have been detected 
+in genetically engineered animals and in cultures of peripheral neurons from 
+dorsal root ganglia (DRG). Ethical difficulties collecting peripheral neurons 
+from human DRG have limited analysis of itch in humans. This study describes a 
+method of differentiating peripheral neurons from human induced pluripotent stem 
+cells (hiPSCs) for physiological study of itch. This method resulted in the 
+robust induction of p75 and HNK1 double-positive NC cells from hiPSCs. The 
+expression of NC markers TFAP2A, SOX10 and SNAI1 increased during NC induction. 
+The induction efficiency was nearly 90%, and human peripheral neurons expressing 
+peripherin were efficiently differentiated from hiPSC-derived NC cells. 
+Moreover, induced peripheral neurons expressed the sensory neuronal marker BRN3A 
+and the itch-related receptors HRH1, MRGPRX1, IL31R and IL-4R. Calcium imaging 
+analyses indicated that these peripheral neurons included sensory neurons 
+responsive to itch-related stimuli such as histamine, BAM8-22, IL-31 and IL-4. 
+These findings may enable detailed analyses of human DRG neurons and may result 
+in new therapies for intractable itch.
+
+DOI: 10.1038/s41598-020-60036-z
+PMCID: PMC7063040
+PMID: 32152328 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+4. Stem Cell Res Ther. 2020 Mar 4;11(1):27. doi: 10.1186/s13287-020-1551-z.
+
+Disruption of histamine/H(1)R signaling pathway represses cardiac 
+differentiation and maturation of human induced pluripotent stem cells.
+
+Zhu X(1)(2), Ding S(1), Li H(1)(2), Zhang Z(1)(3), Xu L(1)(2), Wu J(1), Wang 
+X(1)(2), Zou Y(1)(2), Yang X(4), Ge J(5)(6).
+
+Author information:
+(1)Shanghai Institute of Cardiovascular Diseases, Zhongshan Hospital, Institutes 
+of Biomedical Sciences, Fudan University, Shanghai, 200032, China.
+(2)Department of Cardiology, Zhongshan Hospital, Fudan University, Shanghai, 
+200032, China.
+(3)Institutes of Biomedical Sciences, Fudan University, Shanghai, 200032, China.
+(4)Shanghai Institute of Cardiovascular Diseases, Zhongshan Hospital, Institutes 
+of Biomedical Sciences, Fudan University, Shanghai, 200032, China. 
+yang.xiangdong@zs-hospital.sh.cn.
+(5)Shanghai Institute of Cardiovascular Diseases, Zhongshan Hospital, Institutes 
+of Biomedical Sciences, Fudan University, Shanghai, 200032, China. 
+jbge@zs-hospital.sh.cn.
+(6)Department of Cardiology, Zhongshan Hospital, Fudan University, Shanghai, 
+200032, China. jbge@zs-hospital.sh.cn.
+
+BACKGROUND: The efficiency and quality of human induced pluripotent stem 
+cell-derived cardiomyocytes (hiPSC-CMs) are crucial for regenerative medicine, 
+disease modeling, drug screening, and the study of the development events during 
+cardiac specification. However, their applications have been hampered by the 
+differentiation efficiency, poor maturation, and high interline variability. 
+Recent studies have reported that histamine plays important roles in 
+hematopoietic stem cell proliferation and neutrophil maturation. However, its 
+roles in cardiovascular tissue regeneration have not been thoroughly 
+investigated. In the current study, we identified a novel physiological function 
+of the histamine/histamine 1 receptor (H1R) signal in regulating the 
+differentiation of hiPSC-CMs and heart development.
+METHODS: Transgenic zebrafish model (cmlc2: mCherry) was treated with histamine 
+and histamine receptor (HR) antagonists. Histological morphology and 
+ultrastructure of zebrafish heart were measured. Histamine-deficient pregnant 
+mice (HDC-/-) were treated with H1R antagonist (pyrilamine) by intragastric 
+administration from E8.5 to E18.5. Cardiac histological morphology and 
+ultrastructure were analyzed in neonatal mice, and cardiac function in adult 
+mice was measured. In vitro, histamine and HR antagonists were administrated in 
+the culture medium during hiPSC-CM differentiation at different stages. The 
+efficiency and maturation of cardiac differentiation were evaluated. Finally, 
+histamine-treated hiPSC-CMs were transplanted into ischemic myocardium to detect 
+the possible therapeutic effect.
+RESULTS: Administration of H1R antagonist during heart development induced 
+cardiac dysplasia in zebrafish. Furthermore, using histidine decarboxylase (HDC) 
+knockout mice, we examined abnormal swelling of myocardial mitochondria and 
+autophagy formation under the condition of endogenous histamine deficiency. 
+Histamine significantly promoted myocardial differentiation from human induced 
+pluripotent stem cells (hiPSCs) with better structure and function via a 
+H1R-dependent signal. The activation of histamine/H1R signaling pathway 
+augmented hiPSC-derived cardiomyocyte (hiPSC-CM) differentiation through the 
+ERK1/2-STAT3 signaling pathway. In addition, histamine-pre-treated hiPSC-CMs 
+were transplanted into the ischemic hearts of myocardial injured mice and 
+exhibited better survival and myocardial protection.
+CONCLUSIONS: Thus, these findings indicated that histamine/H1R and its 
+downstream signals were not only involved in cardiac differentiation but also 
+provided a better survival environment for stem cell transplanted into ischemic 
+myocardium.
+
+DOI: 10.1186/s13287-020-1551-z
+PMCID: PMC7055148
+PMID: 32127042 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+5. Elife. 2020 Jan 14;9:e51862. doi: 10.7554/eLife.51862.
+
+Inflammation-induced IgE promotes epithelial hyperplasia and tumour growth.
+
+Hayes MD(1), Ward S(1), Crawford G(1), Seoane RC(1), Jackson WD(1), Kipling 
+D(2), Voehringer D(3), Dunn-Walters D(4), Strid J(1).
+
+Author information:
+(1)Department of Immunology and Inflammation, Imperial College London, London, 
+United Kingdom.
+(2)Division of Cancer and Genetics, School of Medicine, Cardiff University, 
+Cardiff, United Kingdom.
+(3)Department of Infection Biology, University Hospital Erlangen and 
+Friedrich-Alexander University Erlangen-Nuremberg (FAU), Erlangen, Germany.
+(4)Faculty of Health and Medical Sciences, School of Biosciences and Medicine, 
+University of Surrey, Guildford, United Kingdom.
+
+IgE is the least abundant circulating antibody class but is constitutively 
+present in healthy tissues bound to resident cells via its high-affinity 
+receptor, FcεRI. The physiological role of endogenous IgE antibodies is unclear 
+but it has been suggested that they provide host protection against a variety of 
+noxious environmental substances and parasitic infections at epithelial barrier 
+surfaces. Here we show, in mice, that skin inflammation enhances levels of IgE 
+antibodies that have natural specificities and a repertoire, VDJ rearrangements 
+and CDRH3 characteristics similar to those of IgE antibodies in healthy tissue. 
+IgE-bearing basophils are recruited to inflamed skin via CXCL12 and thymic 
+stromal lymphopoietin (TSLP)/IL-3-dependent upregulation of CXCR4. In the 
+inflamed skin, IgE/FcεRI-signalling in basophils promotes epithelial cell growth 
+and differentiation, partly through histamine engagement of H1R and H4R. 
+Furthermore, this IgE response strongly drives tumour outgrowth of epithelial 
+cells harbouring oncogenic mutation. These findings indicate that natural IgE 
+antibodies support skin barrier defences, but that during chronic tissue 
+inflammation this role may be subverted to promote tumour growth.
+
+© 2020, Hayes et al.
+
+DOI: 10.7554/eLife.51862
+PMCID: PMC6959995
+PMID: 31931959 [Indexed for MEDLINE]
+
+Conflict of interest statement: MH, SW, GC, RS, WJ, DK, DV, DD, JS No competing 
+interests declared
+
+
+6. Front Pediatr. 2019 Nov 20;7:467. doi: 10.3389/fped.2019.00467. eCollection 
+2019.
+
+Transcriptomic Analysis Links Eosinophilic Esophagitis and Atopic Dermatitis.
+
+Doucet-Ladevèze R(1), Holvoet S(2), Raymond F(1), Foata F(1), Hershey GKK(2)(3), 
+Sherrill JD(2), Rothenberg ME(2), Blanchard C(1).
+
+Author information:
+(1)Nestlé Institute of Health Sciences, Nestlé Research, Lausanne, Switzerland.
+(2)Division of Allergy and Immunology, Department of Pediatrics, Cincinnati 
+Children's Hospital Medical Center, University of Cincinnati College of 
+Medicine, Cincinnati, OH, United States.
+(3)Division of Asthma Research, Department of Pediatrics, Cincinnati Children's 
+Hospital Medical Center, University of Cincinnati College of Medicine, 
+Cincinnati, OH, United States.
+
+Background: Eosinophilic esophagitis (EoE) is commonly associated with 
+concomitant atopic diseases including atopic dermatitis (AD) and allergic airway 
+(AA) diseases including asthma. Despite this link and the shared pathologic 
+features across these three disorders, detailed analyses of the unifying 
+molecular pathways are lacking. Objectives: We sought to investigate the mRNA 
+expression profile overlap between EoE, AA, and AD and to identify the 
+involvement of interleukin 13 (IL-13) in modulating gene expression. Methods: 
+Whole-genome mRNA expression analyses were performed on tissue specimens 
+(biopsies or nasal brushes) from patients with EoE, AD, and AA, and 
+IL-13-stimulated primary human epithelial cells from the esophagus, the skin, 
+and the airways. Results: By human disease expression profiles, EoE evidenced a 
+significantly higher overlap (p = 0.0006) with AD (181 transcripts; 10%) than 
+with AA (124 transcripts, 7%). Only 18 genes were found to be commonly 
+dysregulated among the three diseases; these included filaggrin, histamine 
+receptor H1, claudin 1, cathepsin C, plasminogen activator urokinase receptor, 
+and suppressor of cytokine signaling 3. Ontogenetic analysis revealed a common 
+immune/inflammatory response among the three diseases and a different epithelial 
+response (epidermal cell differentiation) between EoE and AA. The overlap 
+between the IL-13-stimulated epithelial cell transcriptome and the respective 
+disease transcriptome was 22, 9, and 5% in EoE, AD, and AA, respectively, 
+indicating a greater involvement of the IL-13 pathway in EoE than AA (p = 
+0.0007) or AD (p = 0.02). Conclusion: EoE, AD, and AA share a common set of 
+disease-specific transcripts, highlighting common molecular etiology. Their 
+comparative analysis indicates relatively closer relationships between EoE and 
+AD, particularly centered around IL-13-driven pathways. Therefore, these 
+findings provide an increased rationale for shared therapeutic strategies.
+
+Copyright © 2019 Doucet-Ladevèze, Holvoet, Raymond, Foata, Hershey, Sherrill, 
+Rothenberg and Blanchard.
+
+DOI: 10.3389/fped.2019.00467
+PMCID: PMC6879454
+PMID: 31824894
+
+
+7. Artif Cells Nanomed Biotechnol. 2019 Dec;47(1):1281-1287. doi: 
+10.1080/21691401.2019.1596924.
+
+The effects of histamine H1 type receptor (H1R) in regulating osteoblastic cell 
+differentiation and mineralization.
+
+Sun Y(1), Peng X(1), Li Y(2), Ma H(1), Li D(1), Shi X(1).
+
+Author information:
+(1)a Department of Spinal Surgery , Luoyang Orthopedic Hospital of Henan 
+Province , Luoyang , Henan , China.
+(2)b Department of Intervention , Luoyang Orthopedic Hospital of Henan Province 
+, Luoyang , Henan , China.
+
+Osteoblastic bone formation is important for maintaining the balance of bone 
+turnover. However, the underlying mechanisms are still needed to be elucidated. 
+Histamine H1 type receptor (H1R) is a major subtype of histamine membrane 
+receptors family, which has displayed diverse biological functions in various 
+tissues and cells. In the current study, we have identified a novel 
+physiological function of H1R in regulating osteoblastic differentiation and 
+mineralization of the MC3T3-E1 cells. We found that H1R is expressed in the 
+MC3T3-E1 cells. Interestingly, H1R is up-regulated in the process of 
+differentiation and mineralization of the MC3T3-E1cells induced by osteogenic 
+medium (OM). Blockage of H1R using its specific antagonist Loratadine prevented 
+differentiation and mineralization of the MC3T3-E1 cells by reducing ALP 
+activity, bone matrix deposition, and the expressions of osteogenic marker genes 
+including ALP, OCN, Osx, and type I collagen as well as the transcriptional 
+factor RUNX-2, which is a central regulator of osteoblastogenesis. In contrast, 
+we found that activation of H1R with Histamine exerts opposite actions by 
+increasing the expressions of RUNX-2. Finally, we found that the effects of H1R 
+in osteoblastic differentiation and mineralization are mediated by the AMPK/eNOS 
+signaling. Based on these findings, we concluded that H1R might be an important 
+therapeutic target for the treatment of skeletal disorders.
+
+DOI: 10.1080/21691401.2019.1596924
+PMID: 30942635 [Indexed for MEDLINE]
+
+
+8. Front Cell Neurosci. 2018 Nov 13;12:412. doi: 10.3389/fncel.2018.00412. 
+eCollection 2018.
+
+Clemastine Alleviates Depressive-Like Behavior Through Reversing the Imbalance 
+of Microglia-Related Pro-inflammatory State in Mouse Hippocampus.
+
+Su WJ(1), Zhang T(1)(2), Jiang CL(1), Wang W(1).
+
+Author information:
+(1)Department of Stress Medicine, Faculty of Psychology and Mental Health, 
+Second Military Medical University, Shanghai, China.
+(2)Department of Navy Aviation Medicine, Faculty of Naval Medicine, Second 
+Military Medical University, Shanghai, China.
+
+Backgrounds: Abundant reports indicate that neuroinflammatory signaling 
+contributes to behavioral complications associated with depression and may be 
+related to treatment response. The glial cells, especially microglia and 
+astrocytes in brain regions of hippocampus and medial prefrontal cortex (mPFC), 
+are major components of CNS innate immunity. Moreover, purinergic receptor P2X, 
+ligand-gated ion channel 7 (P2X7R) was recently reckoned as a pivotal regulator 
+in central immune system. Besides, it was pointed out that clemastine, a 
+first-generation histamine receptor H1 (HRH1) antagonist with considerable 
+safety profile and pharmacological effect, may suppress immune activation 
+through modulating P2X7R. Herein, we investigated the potential 
+anti-neuroinflammatory effects of clemastine on chronic unpredictable mild 
+stress (CUMS)-induced depressive-like behavior in a mouse model. Methods: Male 
+BALB/c mice were subjected to CUMS for 4 weeks, some of them were injected with 
+clemastine fumarate solution. After the stress procedure, behavioral tests 
+including Sucrose Preference Tests (SPTs), Tail Suspension Tests (TSTs) and 
+locomotor activities were performed to evaluate depressive-like phenotype. 
+Subsequently, expression of cytokines and microglia-related inflammatory 
+biomarkers were assessed. Results: In the present research, we found that 
+clemastine significantly reversed both the declination of SPT percentage and the 
+extension of TST immobility durations in depression mouse model without 
+affecting locomotor activity. Also, we observed that clemastine regulated the 
+imbalance of pro-inflammatory cytokines including interleukin-1 beta (IL-1β) and 
+tumor necrosis factor alpha (TNF-α) in the hippocampus and serum of 
+depressive-like mice. Additionally, clemastine significantly suppressed 
+microglial M1-like activation specifically in the hippocampus, and also improved 
+hippocampal astrocytic loss. Furthermore, clemastine downregulated hippocampal 
+P2X7R without interfering with the expression of HRH1. Conclusion: As a safe and 
+efficient anti-allergic agent, clemastine could impressively alleviate 
+stress-related depressive-like phenotype in mice. Further evidence supported 
+that it was because of the potential function of clemastine in modulating the 
+expression of P2X7 receptor possibly independent of HRH1, therefore suppressing 
+the microglial M1-like activation and pro-inflammatory cytokines release in 
+brain regions of hippocampus rather than mPFC.
+
+DOI: 10.3389/fncel.2018.00412
+PMCID: PMC6243034
+PMID: 30483062
+
+
+9. J Innate Immun. 2018;10(4):349-362. doi: 10.1159/000490426. Epub 2018 Jul 20.
+
+The Anaphylatoxin C3a Receptor Expression on Human M2 Macrophages Is 
+Down-Regulated by Stimulating the Histamine H4 Receptor and the IL-4 Receptor.
+
+Mommert S(1), Aslan D(1), Ratz L(1), Stark H(2), Gutzmer R(1), Werfel T(1).
+
+Author information:
+(1)Division of Immunodermatology and Allergy Research, Department of Dermatology 
+and Allergy, Hannover Medical School, Hannover, Germany.
+(2)Institute of Pharmaceutical and Medicinal Chemistry, Heinrich Heine 
+University, Duesseldorf, Germany.
+
+The anaphylatoxin C3a triggers inflammation by binding to its specific 
+G-protein-coupled C3a receptor (C3aR). Since the number of C3aR, which is 
+expressed on the cell surface, affects the response to C3a, we investigated the 
+expression levels of C3aR on human M2 macrophages in allergic situations where 
+high levels of the Th2 cytokine IL-4 and histamine are present in a local 
+microenvironment. The histamine H1 receptor (H1R), H2R and the H4R mRNA 
+expressions were induced or up-regulated during the differentiation process of 
+M2 macrophages. The presence of histamine or agonists targeting the H1R, H2R 
+and, in particular, the H4R during in vitro differentiation from monocytes to 
+macrophages modified the M2 phenotype by regulating the macrophage 
+differentiation marker CD68 and CD163 expressions. In -addition, the C3aR 
+expression was also down-regulated by -ST-1006 during this process. Histamine 
+and ST-1006 down-regulated the expression of C3aR with different time 
+kinetics on fully differentiated M2 macrophages. By analysing C3a-induced IL-6 
+mRNA expression, we observed a diminished response to C3a in ST-1006-treated M2 
+macrophages when compared to un-treated cells. Expression of C3 was not affected 
+by histamine, whereas IL-4 strongly down-regulated C3aR and C3 expressions. Our 
+data suggests that down-regulation of C3aR expression by mediators present in 
+allergic situations such as IL-4 or histamine has an anti-inflammatory impact by 
+reducing the sensitivity to C3a-induced down-stream signaling, thereby 
+contributing to the regulation of local inflammatory responses in the skin.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000490426
+PMCID: PMC6757164
+PMID: 30032131 [Indexed for MEDLINE]
+
+
+10. Inflamm Res. 2018 Jun;67(6):503-513. doi: 10.1007/s00011-018-1140-0. Epub 2018 
+Mar 29.
+
+The histamine H4 receptor modulates the differentiation process of human 
+monocyte-derived M1 macrophages and the release of CCL4/MIP-1β from fully 
+differentiated M1 macrophages.
+
+Mommert S(1), Ratz L(2), Stark H(3), Gutzmer R(2), Werfel T(2).
+
+Author information:
+(1)Division of Immunodermatology and Allergy Research, Department of Dermatology 
+and Allergy, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, 
+Germany. Mommert.Susanne@mh-hannover.de.
+(2)Division of Immunodermatology and Allergy Research, Department of Dermatology 
+and Allergy, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, 
+Germany.
+(3)Institute of Pharmaceutical and Medicinal Chemistry, Heinrich Heine 
+University, Universitaetsstraße 1, 40225, Duesseldorf, Germany.
+
+OBJECTIVE: Histamine is an important mediator of biological functions and 
+present in high amounts in inflammatory skin lesions which are characterised by 
+a marked infiltration of myeloid derived cell populations. The aim of the study 
+was to investigate the expression and function of histamine receptors, with a 
+focus on the histamine H4 receptor (H4R) in detail during the differentiation 
+process from monocytes to macrophages and on fully differentiated M1 
+macrophages.
+METHODS: Quantitative PCR, ELISA technique, and flow cytometry were applied to 
+analyze expression levels of histamine receptors, of CXCL10, CCL4, CCL3, or 
+IL-23 and of the macrophage differentiation marker CD68, respectively.
+RESULTS: We demonstrated that monocytes and fully differentiated M1 macrophages 
+express H1R-, H2R-, and H4R mRNA which were differentially regulated during the 
+differentiation process and in IFN-Ƴ and LPS classically activated M1 
+macrophages. The H3R mRNA was not expressed. During in vitro differentiation 
+from monocytes to macrophages, the H4R agonist ST-1006 modified the M1 phenotype 
+by up-regulating the macrophage differentiation marker CD68, by down-regulating 
+the production of CXCL10, and by changing the morphology. In fully 
+differentiated M1 macrophages, histamine or ST-1006 decreased the IFN-Ƴ- and 
+LPS-induced CCL4 mRNA expression and protein production, whereas CCL3 or IL-23 
+production was not regulated via H4R.
+CONCLUSIONS: We describe novel immunomodulatory functions of the H4R during the 
+differentiation process of human monocyte-derived macrophages and in fully 
+differentiated M1 macrophages. The down-regulation of Th1-related chemokines 
+during the differentiation process or in classically activated macrophages via 
+H4R may contribute to decreased migration of immune cells to the site of 
+inflammation. This may have implications for the treatment of allergic diseases 
+with H4R ligands regulating the dysbalance of Th2/Th1 polarizations in these 
+disorders.
+
+DOI: 10.1007/s00011-018-1140-0
+PMID: 29600327 [Indexed for MEDLINE]
+
+
+11. Eur Arch Otorhinolaryngol. 2017 Feb;274(2):845-853. doi: 
+10.1007/s00405-016-4295-8. Epub 2016 Sep 13.
+
+Effect of budesonide and azelastine on histamine signaling regulation in human 
+nasal epithelial cells.
+
+Liu SC(1)(2), Lin CS(1)(3), Chen SG(2), Chu YH(2), Lee FP(1), Lu HH(1)(4), Wang 
+HW(5)(6)(7).
+
+Author information:
+(1)Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical 
+University, Taipei, Taiwan, ROC.
+(2)Department of Otolaryngology-Head and Neck Surgery, Tri-Service General 
+Hospital, National Defense Medical Center, Taipei, Taiwan, ROC.
+(3)Department of Radiation Oncology, Taipei Medical University, Taipei, Taiwan, 
+ROC.
+(4)Department of Internal Medicine, National Taiwan University Hospital, College 
+of Medicine, National Taiwan University, Taipei, Taiwan, ROC.
+(5)Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical 
+University, Taipei, Taiwan, ROC. w0512n@ms15.hinet.net.
+(6)Department of Otolaryngology-Head and Neck Surgery, Tri-Service General 
+Hospital, National Defense Medical Center, Taipei, Taiwan, ROC. 
+w0512n@ms15.hinet.net.
+(7)Department of Otolaryngology-Head and Neck Surgery, Shuang Ho Hospital, No. 
+291, Zhongzheng Rd., Zhonghe District, New Taipei City, 23561, Taiwan, ROC. 
+w0512n@ms15.hinet.net.
+
+Both glucocorticoids and H1-antihistamines are widely used on patients with 
+airway diseases. However, their direct effects on airway epithelial cells are 
+not fully explored. Therefore, we use the primary culture of human nasal 
+epithelial cells (HNEpC) to delineate in vitro mucosal responses to above two 
+drugs. HNEpC cells were cultured with/without budesonide and azelastine. The 
+growth rate at each group was recorded and measured as population double time 
+(PDT). The histamine1-receptor (H1R), muscarinic1-receptor (M1R) and M3R were 
+measured using immunocytochemistry and western blotting after 7-days treatment. 
+Then, we used histamine and methacholine to stimulate the mucus secretion from 
+HNEpC and observed the MUC5AC expression in culture supernatants. 
+Concentration-dependent treatment-induced inhibition of HNEpC growth rate was 
+observed. Cells incubated with azelastine proliferated significantly slower than 
+that with budesonide and the combined use of those drugs led to significant PDT 
+prolong. The immunocytochemistry showed the H1R, M1R and M3R were obviously 
+located in the cell membrane without apparent difference after treatment. 
+However, western blotting showed that budesonide can significantly up-regulate 
+the H1R, M1R and M3R level while azelastine had opposite effects. Histamine and 
+methacholine stimulated MUC5AC secretion was greater in cells treated with 
+budesonide but was lesser in those treated with azelastine, as compared to 
+controls. Our data suggest that both budesonide and azelastine can significantly 
+inhibit HNEpC proliferation, and therefore, be helpful in against airway 
+remodeling. Long-term use of budesonide might amplify histamine signaling and 
+result in airway hyperreactivity to stimulants by enhancing H1R, M1R and M3R 
+expression while azelastine can oppose this effect. Therefore, combined use of 
+those two drugs in patients with chronic inflammatory airway diseases may be an 
+ideal option.
+
+DOI: 10.1007/s00405-016-4295-8
+PMID: 27623823 [Indexed for MEDLINE]
+
+
+12. Allergol Int. 2016 Sep;65 Suppl:S38-44. doi: 10.1016/j.alit.2016.05.015. Epub 
+2016 Aug 11.
+
+The involvement of central nervous system histamine receptors in psychological 
+stress-induced exacerbation of allergic airway inflammation in mice.
+
+Miyasaka T(1), Okuyama-Dobashi K(2), Masuda C(2), Iwami S(2), Sato M(2), 
+Mizoguchi H(3), Kawano T(2), Ohkawara Y(2), Sakurada S(3), Takayanagi M(2), Ohno 
+I(2).
+
+Author information:
+(1)Department of Pathophysiology, Tohoku Pharmaceutical University, Sendai, 
+Japan. Electronic address: t-miya13@tohoku-mpu.ac.jp.
+(2)Department of Pathophysiology, Tohoku Pharmaceutical University, Sendai, 
+Japan.
+(3)Department of Physiology and Anatomy, Tohoku Pharmaceutical University, 
+Sendai, Japan.
+
+BACKGROUND: Psychological stress is one of the major risk factors for asthma 
+exacerbation. Although histamine in the brain acts as an excitatory and 
+inhibitory neurotransmitter associated with psychological stress, the 
+contribution of brain histamine to psychological stress-induced exacerbation of 
+asthma remains unclear. The objective of this study was to investigate the role 
+of histamine receptors in the CNS on stress induced asthma aggravation.
+METHODS: We monitored the numbers of inflammatory cells and interleukin (IL)-13 
+levels in bronchoalveolar lavage fluid, airway responsiveness to inhaled 
+methacholine, mucus secretion in airway epithelial cells, and antigen-specific 
+IgE contents in sera in a murine model of stress-induced asthma treated with 
+epinastine (an H1R antagonist), thioperamide (an H3/4R antagonist), or solvent.
+RESULTS: All indicators of stress-induced asthma exacerbation were significantly 
+reduced in stressed mice treated with epinastine compared with those treated 
+with solvent, whereas treatment with thioperamide did not reduce the numbers of 
+inflammatory cells in the stressed mice.
+CONCLUSIONS: These results suggest that H1R, but not H3/4R, may be involved in 
+stress-induced asthma exacerbations in the central nervous system.
+
+Copyright © 2016 Japanese Society of Allergology. Production and hosting by 
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.alit.2016.05.015
+PMID: 27523601 [Indexed for MEDLINE]
+
+
+13. Biochem Pharmacol. 2016 Mar 1;103:74-84. doi: 10.1016/j.bcp.2016.01.007. Epub 
+2016 Jan 13.
+
+Cellular analysis of the histamine H4 receptor in human myeloid cells.
+
+Capelo R(1), Lehmann C(2), Ahmad K(3), Snodgrass R(4), Diehl O(5), Ringleb J(6), 
+Flamand N(7), Weigert A(8), Stark H(9), Steinhilber D(10), Kahnt AS(11).
+
+Author information:
+(1)Institute of Pharmaceutical Chemistry/ZAFES, Goethe University Frankfurt, 
+Max-von-Laue Str. 9, D-60438 Frankfurt/Main, Germany. Electronic address: 
+dossantoscapelo@pharmchem.uni-frankfurt.de.
+(2)Fraunhofer Institute for Molecular Biology and Applied Ecology IME, Project 
+Group Translational Medicine and Pharmacology, Theodor-Stern-Kai 7, D-60596 
+Frankfurt/Main, Germany. Electronic address: lehmann@pharmchem.uni-frankfurt.de.
+(3)Institute of Pharmaceutical Chemistry/ZAFES, Goethe University Frankfurt, 
+Max-von-Laue Str. 9, D-60438 Frankfurt/Main, Germany. Electronic address: 
+ahmad@pharmchem.uni-frankfurt.de.
+(4)Faculty of Medicine, Institute of Biochemistry I, Goethe-University, 
+Theodor-Stern-Kai 7, D-60596 Frankfurt/Main, Germany. Electronic address: 
+snodgrass@biochem.uni-frankfurt.de.
+(5)Institute of Pharmaceutical Chemistry/ZAFES, Goethe University Frankfurt, 
+Max-von-Laue Str. 9, D-60438 Frankfurt/Main, Germany. Electronic address: 
+diehl@pharmchem.uni-frankfurt.de.
+(6)Faculty of Medicine, Institute of Biochemistry I, Goethe-University, 
+Theodor-Stern-Kai 7, D-60596 Frankfurt/Main, Germany. Electronic address: 
+j.hahn@biochem.uni-frankfurt.de.
+(7)Université Laval, Centre de Recherche de l'IUCPQ, 2725 Chemin Sainte-Foy, 
+Québec City, QC G1V 4G5, Canada. Electronic address: 
+nicolas.flamand.1@ulaval.ca.
+(8)Faculty of Medicine, Institute of Biochemistry I, Goethe-University, 
+Theodor-Stern-Kai 7, D-60596 Frankfurt/Main, Germany. Electronic address: 
+weigert@biochem.uni-frankfurt.de.
+(9)Institute of Pharmaceutical Chemistry, Heinrich-Heine University, 
+Universitaetsstr. 1, D-40225 Düsseldorf, Germany. Electronic address: 
+stark@hhu.de.
+(10)Institute of Pharmaceutical Chemistry/ZAFES, Goethe University Frankfurt, 
+Max-von-Laue Str. 9, D-60438 Frankfurt/Main, Germany. Electronic address: 
+steinhilber@em.uni-frankfurt.de.
+(11)Institute of Pharmaceutical Chemistry/ZAFES, Goethe University Frankfurt, 
+Max-von-Laue Str. 9, D-60438 Frankfurt/Main, Germany. Electronic address: 
+kahnt@pharmchem.uni-frankfurt.de.
+
+The human histamine H4 receptor (H4R) is a Gαi/o-coupled receptor which is 
+mainly expressed on hematopoietic cells. Accordingly, the receptor is implicated 
+in the pathology of various diseases such as autoimmune disorders, bronchial 
+asthma and pruritus. Due to complicated receptor pharmacology, the lack of a 
+reliable antibody and limited availability of primary cells expressing the 
+receptor the physiology of this receptor is still poorly understood. Therefore, 
+we aimed to assess absolute receptor mRNA expression and functionality 
+(intracellular Ca(2+) release) in various human myeloid cell types such as 
+granulocytes, monocytes, macrophages and dendritic cells (DCs). This was put 
+into context with the expression of the H1R and H2R. In addition, the influence 
+of various inflammatory stimuli on H4R expression was investigated in 
+macrophages and monocyte-derived DCs. We found that classically activated 
+macrophages treated with pro-inflammatory stimuli down-regulated histamine 
+receptor mRNA expression as did LPS and zymosan A matured monocyte-derived DCs. 
+In contrast, alternatively activated macrophages (IL-4 or IL-13) upregulated H2R 
+and H4R expression compared to controls. Consistent with existing literature, we 
+found eosinophils to be the major source of the H4R. Since availability of 
+primary eosinophils is limited, we developed a cell model based on the 
+differentiated eosinophilic cell line EOL-1, in which H4R pharmacology and 
+physiology may be studied.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2016.01.007
+PMID: 26774453 [Indexed for MEDLINE]
+
+
+14. Biochem Biophys Res Commun. 2015 Jul 31;463(3):434-9. doi: 
+10.1016/j.bbrc.2015.05.094. Epub 2015 May 31.
+
+Histamine inhibits differentiation of skin fibroblasts into myofibroblasts.
+
+Lin L(1), Yamagata K(2), Nakayamada S(2), Sawamukai N(2), Yamaoka K(3), Sakata 
+K(4), Nakano K(2), Tanaka Y(5).
+
+Author information:
+(1)The First Department of Internal Medicine, University of Occupational and 
+Environmental Health, Japan, Kitakyushu 807-8555, Japan; Department of 
+Respiratory Medicine, Shengjing Hospital of China Medical University, Shenyang 
+110022, China.
+(2)The First Department of Internal Medicine, University of Occupational and 
+Environmental Health, Japan, Kitakyushu 807-8555, Japan.
+(3)Division of Rheumatology, Keio University, Tokyo 160-8582, Japan.
+(4)The First Department of Internal Medicine, University of Occupational and 
+Environmental Health, Japan, Kitakyushu 807-8555, Japan; Pharmacology Research 
+Laboratories I, Research Division, Mitsubishi Tanabe Pharma Corporation, 
+Yokohama, Kanagawa 227-0033, Japan.
+(5)The First Department of Internal Medicine, University of Occupational and 
+Environmental Health, Japan, Kitakyushu 807-8555, Japan. Electronic address: 
+tanaka@med.uoeh-u.ac.jp.
+
+Histamine and TGF-β, major mediators secreted by mast cells, are involved in 
+skin inflammation and play critical roles in the pathogenesis of systemic 
+sclerosis. However, the roles of signaling mechanisms in the development of skin 
+fibrosis remain largely unclear. Here we show that histamine suppressed the 
+expression of α smooth muscle actin (αSMA), a marker of myofibroblasts, induced 
+by TGF-β1 in skin fibroblasts. Histamine H1-receptor (H1R), but not H2-receptor 
+(H2R) or H4-receptor (H4R), was expressed on skin fibroblasts at both mRNA and 
+protein levels. Interestingly, an H1R antagonist, but not H2R or H4R 
+antagonists, antagonized the histamine-mediated suppression of αSMA expression 
+by TGF-β1. Correspondingly, phosphorylated Smad2 was detected after treatment 
+with TGF-β1, whereas the addition of histamine inhibited this phosphorylation. 
+Taken together, histamine-H1R decreased TGF-β1-mediated Smad2 phosphorylation 
+and inhibited differentiation of skin fibroblasts into myofibroblasts.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2015.05.094
+PMID: 26036574 [Indexed for MEDLINE]
+
+
+15. J Periodontal Res. 2015 Dec;50(6):786-92. doi: 10.1111/jre.12265. Epub 2015 Feb 
+25.
+
+Influence of histamine on the expression of CCL20 in human gingival fibroblasts.
+
+Dommisch H(1)(2)(3), Chung WO(2), Plötz S(3), Jepsen S(3).
+
+Author information:
+(1)Department of Periodontology and Synoptic Dentistry, Charité - University 
+Medicine Berlin, Berlin, Germany.
+(2)Department of Oral Health Sciences, Health Science Center, University of 
+Washington, Seattle, WA, USA.
+(3)Department of Periodontology, Operative and Preventive Dentistry, University 
+Hospital Bonn, Bonn, Germany.
+
+BACKGROUND AND OBJECTIVE: Histamine plays an important role during allergic and 
+inflammatory reactions, and it has been suggested to influence periodontal 
+inflammation. The aim of this study was to investigate the effects of histamine 
+on the expression of the antimicrobial peptide C-C chemokine ligand 20 (CCL20) 
+in human gingival fibroblasts (HGFs) when exposed to toll-like receptor (TLR) 
+agonists.
+MATERIAL AND METHODS: Monolayers of HGFs from three different donors were 
+exposed to histamine, alone, and in combination with Pam3CSK4 (a TLR2 agonist) 
+or lipopolysaccharide (LPS) from Escherichia coli (a TLR4 agonist), for 2, 4, 6 
+or 12 h. In another experimental group, cells were pretreated with a specific 
+histamine-1 receptor antagonist (H1R) antagonist, cetirizine. Real-time PCR 
+analysis was performed to detect expression of glyceraldehyde-3-phosphate 
+dehydrogenase (GAPDH), CCL20 and interleukin-8 (IL8) genes. The levels of CCL20 
+and IL-8 protein were determined by ELISA.
+RESULTS: In HGFs, histamine induced expression of CCL20 and IL8 genes in a 
+time-dependent manner (p < 0.05). Combined stimulation with histamine and 
+Pam3CSK4 or LPS led to a significant amplification in expression of CCL20 and 
+IL-8 when compared with treatment with each stimulant alone (p < 0.05), and this 
+effect was mediated via pathways involving the H1R (p < 0.05).
+CONCLUSION: The results of this study suggest a sensitizing effect of histamine 
+on early innate immune responses of HGFs when simultaneously exposed to 
+bacterial virulence factors.
+
+© 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jre.12265
+PMID: 25712856 [Indexed for MEDLINE]
+
+
+16. Mol Brain. 2014 Aug 12;7:58. doi: 10.1186/s13041-014-0058-x.
+
+Histamine impairs midbrain dopaminergic development in vivo by activating 
+histamine type 1 receptors.
+
+Escobedo-Avila I, Vargas-Romero F, Molina-Hernández A, López-González R, Cortés 
+D, De Carlos JA, Velasco I(1).
+
+Author information:
+(1)Instituto de Fisiología Celular-Neurociencias, Universidad Nacional Autónoma 
+de México, México D,F,-04510, Mexico. ivelasco@ifc.unam.mx.
+
+BACKGROUND: Histamine (HA) regulates the sleep-wake cycle, synaptic plasticity 
+and memory in adult mammals. Dopaminergic specification in the embryonic ventral 
+midbrain (VM) coincides with increased HA brain levels. To study the effect of 
+HA receptor stimulation on dopamine neuron generation, we administered HA to 
+dopamine progenitors, both in vitro and in vivo.
+RESULTS: Cultured embryonic day 12 (E12) VM neural stem/progenitor cells 
+expressed transcripts for HA receptors H1R, H2R and H3R. These undifferentiated 
+progenitors increased intracellular calcium upon HA addition. In HA-treated 
+cultures, dopamine neurons significantly decreased after activation of H1R. We 
+performed intrauterine injections in the developing VM to investigate HA effects 
+in vivo. HA administration to E12 rat embryos notably reduced VM Tyrosine 
+Hydroxylase (TH) staining 2 days later, without affecting GABA neurons in the 
+midbrain, or serotonin neurons in the mid-hindbrain boundary. qRT-PCR and 
+Western blot analyses confirmed that several markers important for the 
+generation and maintenance of dopaminergic lineage such as TH, Lmx1a and Lmx1b 
+were significantly diminished. To identify the cell type susceptible to HA 
+action, we injected embryos of different developmental stages, and found that 
+neural progenitors (E10 and E12) were responsive, whereas differentiated 
+dopaminergic neurons (E14 and E16) were not susceptible to HA actions. 
+Proliferation was significantly diminished, whereas neuronal death was not 
+increased in the VM after HA administration. We injected H1R or H2R antagonists 
+to identify the receptor responsible for the detrimental effect of HA on 
+dopaminergic lineage and found that activation of H1R was required.
+CONCLUSION: These results reveal a novel action of HA affecting dopaminergic 
+lineage during VM development.
+
+DOI: 10.1186/s13041-014-0058-x
+PMCID: PMC4237960
+PMID: 25112718 [Indexed for MEDLINE]
+
+
+17. Am J Respir Cell Mol Biol. 2014 Jan;50(1):125-34. doi: 10.1165/rcmb.2013-0254OC.
+
+Histamine stimulates hydrogen peroxide production by bronchial epithelial cells 
+via histamine H1 receptor and dual oxidase.
+
+Rada B(1), Boudreau HE, Park JJ, Leto TL.
+
+Author information:
+(1)1 Department of Infectious Diseases, College of Veterinary Medicine, 
+University of Georgia, Athens, Georgia; and.
+
+Oxidative stress has been implicated in the pathogenesis of bronchial asthma. 
+Besides granulocytes, the airway epithelium can produce large amounts of 
+reactive oxygen species and can contribute to asthma-related oxidative stress. 
+Histamine is a major inflammatory mediator present in large quantities in 
+asthmatic airways. Whether histamine triggers epithelium-derived oxidative 
+stress is unknown. We therefore aimed at characterizing human airway epithelial 
+H2O2 production stimulated by histamine. We found that air-liquid interface 
+cultures of primary human bronchial epithelial cells (BECs) and an immortalized 
+BEC model (Cdk4/hTERT HBEC) produce H2O2 in response to histamine. The main 
+source of airway epithelial H2O2 is an NADPH dual oxidase, Duox1. Out of the 
+four histamine receptors (H1R-H4R), H1R has the highest expression in BECs and 
+mediates the H2O2-producing effects of histamine. IL-4 induces Duox1 gene and 
+protein expression levels and enhances histamine-induced H2O2 production by 
+epithelial cells. Using HEK-293 cells expressing Duox1 or Duox2 and endogenous 
+H1R, histamine triggers an immediate intracellular calcium signal and H2O2 
+release. Overexpression of H1R further increases the oxidative output of 
+Duox-expressing HEK-293 cells. Our observations show that BECs respond to 
+histamine with Duox-mediated H2O2 production. These findings reveal a mechanism 
+that could be an important contributor to oxidative stress characteristic of 
+asthmatic airways, suggesting novel therapeutic targets for treating asthmatic 
+airway disease.
+
+DOI: 10.1165/rcmb.2013-0254OC
+PMCID: PMC3930938
+PMID: 23962049 [Indexed for MEDLINE]
+
+
+18. Neural Dev. 2013 Mar 7;8:4. doi: 10.1186/1749-8104-8-4.
+
+Histamine up-regulates fibroblast growth factor receptor 1 and increases FOXP2 
+neurons in cultured neural precursors by histamine type 1 receptor activation: 
+conceivable role of histamine in neurogenesis during cortical development in 
+vivo.
+
+Molina-Hernández A(1), Rodríguez-Martínez G, Escobedo-Ávila I, Velasco I.
+
+Author information:
+(1)Instituto de Fisiología Celular - Neurociencias, Universidad Nacional 
+Autónoma de México, México, D.F. 04510, México.
+
+BACKGROUND: During rat development, histamine (HA) is one of the first 
+neuroactive molecules to appear in the brain, reaching its maximal value at 
+embryonic day 14, a period when neurogenesis of deep layers is occurring in the 
+cerebral cortex, suggesting a role of this amine in neuronal specification. We 
+previously reported, using high-density cerebrocortical neural precursor 
+cultures, that micromolar HA enhanced the effect of fibroblast growth factor 
+(FGF)-2 on proliferation, and that HA increased neuronal differentiation, due to 
+HA type 1 receptor (H(1)R) activation.
+RESULTS: Clonal experiments performed here showed that HA decreased colony size 
+and caused a significant increase in the percentage of clones containing mature 
+neurons through H(1)R stimulation. In proliferating precursors, we studied 
+whether HA activates G protein-coupled receptors linked to intracellular calcium 
+increases. Neural cells presented an increase in cytoplasmic calcium even in the 
+absence of extracellular calcium, a response mediated by H(1)R. Since FGF 
+receptors (FGFRs) are known to be key players in cell proliferation and 
+differentiation, we determined whether HA modifies the expression of FGFRs1-4 by 
+using RT-PCR. An important transcriptional increase in FGFR1 was elicited after 
+H(1)R activation. We also tested whether HA promotes differentiation 
+specifically to neurons with molecular markers of different cortical layers by 
+immunocytochemistry. HA caused significant increases in cells expressing the 
+deep layer neuronal marker FOXP2; this induction of FOXP2-positive neurons 
+elicited by HA was blocked by the H(1)R antagonist chlorpheniramine in vitro. 
+Finally, we found a notable decrease in FOXP2+ cortical neurons in vivo, when 
+chlorpheniramine was infused in the cerebral ventricles through intrauterine 
+injection.
+CONCLUSION: These results show that HA, by activating H(1)R, has a neurogenic 
+effect in clonal conditions and suggest that intracellular calcium elevation and 
+transcriptional up-regulation of FGFR1 participate in HA-induced neuronal 
+differentiation to FOXP2 cells in vitro; furthermore, H(1)R blockade in vivo 
+resulted in decreased cortical FOXP2+ neurons.
+
+DOI: 10.1186/1749-8104-8-4
+PMCID: PMC3601999
+PMID: 23497494 [Indexed for MEDLINE]
+
+
+19. Allergy. 2013 Apr;68(4):454-61. doi: 10.1111/all.12109. Epub 2013 Feb 18.
+
+FcεRI stimulation promotes the differentiation of histamine receptor 
+1-expressing inflammatory macrophages.
+
+Novak N(1), Peng WM, Bieber T, Akdis C.
+
+Author information:
+(1)Department of Dermatology and Allergy, University of Bonn Medical Center, 
+Bonn, Germany. Natalija.Novak@ukb.uni-bonn.de
+
+BACKGROUND: Monocyte differentiation into dendritic cells or macrophages and 
+recruitment to peripheral organs in chronic inflammatory diseases are directed 
+by allergen challenge via FcεRI as well as the nature of soluble factors in the 
+microenvironment. High-affinity receptor for IgE stimulation of effector cells 
+results in the release of histamine, which acts on various histamine receptors 
+(HR) 1-4, expressed by immune cells.
+METHODS: We examined the effect of FcεRI stimulation of human monocytes on H1R 
+expression and function of differentiating cells. The mRNA levels of H1R, H2R 
+and histidine decarboxylase of differentiating cells were detected by 
+quantitative real-time PCR. Expression of CD1c, CD11c, CD68 and CD163 was 
+detected by flow cytometry. Amount of histamine, IL-6 and IL-12p70 in the cell 
+culture was measured with the help of cytometric bead arrays or ELISA assays. 
+Numbers of H1R-expressing macrophages were evaluated by immunofluorescence 
+double staining of CD68 and H1R on human skin sections.
+RESULTS: We demonstrated that FcεRI stimulation promotes the generation of 
+H1R-expressing macrophage-like cells with enhanced histamine biosynthesis and 
+H1R-mediated proinflammatory properties. Supporting our in vitro findings, high 
+numbers of H1R-expressing CD68(pos) macrophages were detected in the dermis of 
+atopic dermatitis (AD) skin lesions.
+CONCLUSION: Our observations point to a close histamine-/HR-mediated activation 
+of dermal macrophages, leading to modified cell differentiation and 
+responsiveness via H1R, which might contribute to the aggravation of allergic 
+skin inflammation in AD.
+
+© 2013 John Wiley & Sons A/S. Published by Blackwell Publishing Ltd.
+
+DOI: 10.1111/all.12109
+PMID: 23414213 [Indexed for MEDLINE]
+
+
+20. J Invest Dermatol. 2013 Feb;133(2):469-78. doi: 10.1038/jid.2012.335. Epub 2012 
+Sep 27.
+
+Topical antihistamines display potent anti-inflammatory activity linked in part 
+to enhanced permeability barrier function.
+
+Lin TK(1), Man MQ, Santiago JL, Park K, Roelandt T, Oda Y, Hupe M, Crumrine D, 
+Lee HJ, Gschwandtner M, Thyssen JP, Trullas C, Tschachler E, Feingold KR, Elias 
+PM.
+
+Author information:
+(1)Dermatology Service, Department of Veterans Affairs Medical Center, and 
+Department of Dermatology, UCSF, San Francisco, California 94121, USA.
+
+Systemic antagonists of the histamine type 1 and 2 receptors (H1/2r) are widely 
+used as anti-pruritics and central sedatives, but demonstrate only modest 
+anti-inflammatory activity. Because many inflammatory dermatoses result from 
+defects in cutaneous barrier function, and because keratinocytes express both 
+Hr1 and Hr2, we hypothesized that H1/2r antagonists might be more effective if 
+they were used topically to treat inflammatory dermatoses. Topical H1/2r 
+antagonists additively enhanced permeability barrier homeostasis in normal mouse 
+skin by the following mechanisms: (i) stimulation of epidermal differentiation, 
+leading to thickened cornified envelopes; and (ii) enhanced epidermal lipid 
+synthesis and secretion. As barrier homeostasis was enhanced to a comparable 
+extent in mast cell-deficient mice, with no further improvement following 
+application of topical H1/2r antagonists, H1/2r antagonists likely oppose mast 
+cell-derived histamines. In four immunologically diverse, murine disease models, 
+characterized by either inflammation alone (acute irritant contact dermatitis, 
+acute allergic contact dermatitis) or by prominent barrier abnormalities 
+(subacute allergic contact dermatitis, atopic dermatitis), topical H1/2r 
+agonists aggravated, whereas H1/2r antagonists improved, inflammation and/or 
+barrier function. The apparent ability of topical H1r/2r antagonists to target 
+epidermal H1/2r could translate into increased efficacy in the treatment of 
+inflammatory dermatoses, likely due to decreased inflammation and enhanced 
+barrier function. These results could shift current paradigms of antihistamine 
+utilization from a predominantly systemic to a topical approach.
+
+DOI: 10.1038/jid.2012.335
+PMCID: PMC3532566
+PMID: 23014339 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors state no conflict of interest.
+
+
+21. Int Immunol. 2012 Feb;24(2):107-16. doi: 10.1093/intimm/dxr107. Epub 2012 Jan 9.
+
+Histamine modulates multiple functional activities of monocyte-derived dendritic 
+cell subsets via histamine receptor 2.
+
+Simon T(1), Gogolák P, Kis-Tóth K, Jelinek I, László V, Rajnavölgyi E.
+
+Author information:
+(1)Department of Immunology, Medical and Health Science Center, University of 
+Debrecen, Debrecen H-4032, Hungary.
+
+Expression of CD1a proteins in human monocyte-derived dendritic cells (DCs) 
+specifies functionally distinct subsets with different inflammatory properties. 
+Histamine is recognized as an inflammatory mediator released by various cell 
+types including DCs. The diverse biological effects of histamine are mediated by 
+G-protein-coupled histamine receptors (HRs), which are able to modulate the 
+functional activities of DC subsets. The goal of the present study was to 
+compare the expression and activity of HRs in the CD1a(-) and CD1a(+) 
+monocyte-derived DC subsets and to test the effects of histamine on the 
+differentiation, activation and functional activities of these subsets. We show 
+that H2R is present at high levels in both DC subsets, whereas H1R and H4R are 
+expressed in a subset-specific manner. Histamine shifts DC differentiation to 
+the development of CD1a(-) DCs and modulates DC activation through its 
+inhibitory effect on CD1a(+) DC differentiation. Histamine-induced reduction of 
+CD1a(+) DCs is associated with increased secretion of IL-6 and IL-10, 
+up-regulation of a typical combination of chemokines, expression C5aR1 by the 
+CD1a(-) DC subset and enhanced migration of both activated DC subsets supported 
+by the production of MMP-9 and MMP-12 enzymes. All these effects were shown to 
+be mediated in a H2R-specific manner as revealed by the specific antagonist of 
+the receptor. As H2R is expressed at high levels in both DC subsets, we propose 
+that it may dominate the regulation of multiple DC functions. In contrast, H1R 
+and H4R with opposing subset-related expression may have a regulatory or 
+fine-tuning role in histamine-induced functional activities.
+
+DOI: 10.1093/intimm/dxr107
+PMID: 22232416 [Indexed for MEDLINE]
+
+
+22. J Allergy Clin Immunol. 2011 Dec;128(6):1286-94. doi: 
+10.1016/j.jaci.2011.06.023. Epub 2011 Jul 31.
+
+Clemastine causes immune suppression through inhibition of extracellular 
+signal-regulated kinase-dependent proinflammatory cytokines.
+
+Johansen P(1), Weiss A, Bünter A, Waeckerle-Men Y, Fettelschoss A, Odermatt B, 
+Kündig TM.
+
+Author information:
+(1)Department of Dermatology, University Hospital Zurich, Zurich, Switzerland. 
+pal.johansen@usz.ch
+
+BACKGROUND: Antihistamines are considered safe and used worldwide against 
+allergy, pruritus, nausea, and cough and as sleeping aids. Nonetheless, a 
+growing number of reports suggest that antihistamines also have immunoregulatory 
+functions.
+OBJECTIVE: We examined the extent and by what potential mechanisms 
+histamine-1-receptor (H1R) antagonists exert immune suppressive effects.
+METHODS: Immune suppression by antihistamines and immunosuppressants was tested 
+in mice infected with Listeria monocytogenes. Potential modes of action were 
+studied in vitro by using murine and human cells. We also tested whether 
+injection of clemastine in healthy volunteers affected the activation of 
+peripheral macrophages and monocytes. Finally, therapeutic application of 
+clemastine-mediated immune suppression was tested in a murine model of sepsis.
+RESULTS: Clemastine and desloratadine strongly reduced innate responses to 
+Listeria monocytogenes in mice as did dexamethasone. The immune suppression was 
+MyD88 independent and characterized by inhibition of the mitogen-activated 
+protein kinase-extracellular signal-regulated kinase signaling pathway, leading 
+to overall impaired innate immunity with reduced TNF-α and IL-6 production. 
+Surprisingly, the observed effects were H1R independent as demonstrated in 
+H1R-deficient mice. Moreover, in a double-blind placebo-controlled clinical 
+trial, 1 intravenous administration of clemastine reduced the TNF-α secretion 
+potential of peripheral blood macrophages and monocytes. This inhibition could 
+be exploited to treat sepsis in mice.
+CONCLUSIONS: The safety profile of antihistamines may need to be revisited. 
+However, antihistamine-mediated immune suppression may also be exploited and 
+find applications in the treatment of inflammatory diseases.
+
+Copyright © 2011 American Academy of Allergy, Asthma & Immunology. Published by 
+Mosby, Inc. All rights reserved.
+
+DOI: 10.1016/j.jaci.2011.06.023
+PMID: 21807405 [Indexed for MEDLINE]
+
+
+23. Int Arch Allergy Immunol. 2011;155(4):355-60. doi: 10.1159/000321614. Epub 2011 
+Feb 22.
+
+Effects of antihistamines on innate immune responses to severe bacterial 
+infection in mice.
+
+Metz M(1), Doyle E, Bindslev-Jensen C, Watanabe T, Zuberbier T, Maurer M.
+
+Author information:
+(1)Department of Dermatology and Allergy, Allergie-Centrum-Charité, Charité - 
+Universitätsmedizin Berlin, Berlin, Germany.
+
+BACKGROUND: Sedating and non-sedating histamine H(1) receptor (H1R) antagonists 
+and H2R blockers are widely used drugs which are generally considered to be safe 
+medications. However, recently, these drugs have been shown to possibly impair 
+the outcome of perforating appendicitis in children.
+OBJECTIVE: It was the aim of this study to characterize the effects of histamine 
+receptor blockade in severe bacterial infections in more detail.
+METHODS: To obtain information on the safety of histamine receptor blockade in 
+more detail, we used pharmacological and genetic approaches targeting histamine 
+receptors and performed cecal ligation and puncture (CLP), a mouse model of 
+septic peritonitis. After induction of septic peritonitis, morbidity and 
+mortality were monitored closely.
+RESULTS: Here, we show that oral treatment with first-generation H1R 
+antihistamine diphenhydramine, H2R blocker cimetidine and H3/4R blocker 
+thioperamide impairs optimal innate immune responses in severe murine bacterial 
+sepsis. However, these adverse effects are not mediated by H1R, as mice 
+deficient for H1R show similar rates of morbidity and mortality after CLP as 
+their wild-type controls. Similarly, the second-generation antihistamine 
+desloratadine neither affects morbidity nor mortality after CLP.
+CONCLUSION: Our findings indicate that sedating first-generation H1R 
+antihistamines and H2R blockers might impair innate immune responses to bacteria 
+and that these drugs should be used with caution in patients with severe 
+bacterial infections.
+
+Copyright © 2011 S. Karger AG, Basel.
+
+DOI: 10.1159/000321614
+PMID: 21346365 [Indexed for MEDLINE]
+
+
+24. Allergol Int. 2009 Mar;58(1):125-34. doi: 10.2332/allergolint.O-08-547. Epub 
+2009 Jan 25.
+
+Enhanced goblet cell hyperplasia in HDC knockout mice with allergic airway 
+inflammation.
+
+Yamauchi K(1), Piao HM, Nakadate T, Shikanai T, Nakamura Y, Ito H, Mouri T, 
+Kobayashi H, Maesawa C, Sawai T, Ohtsu H, Inoue H.
+
+Author information:
+(1)Third Department of Internal Medicine, Iwate Medical University School of 
+Medicine, Iwate, Japan. kyamauch@iwate-med.ac.jp
+
+Erratum in
+    Allergol Int. 2009 Dec;58(4):605.
+    Allergol Int. 2009;58(4):605. doi: 10.2332/allergolint.O-08-547E.
+
+BACKGROUND: Histamine is known to have immunoregulatory roles in allergic 
+reactions through histamine receptor 1 (H1R), H2R, H3R and H4R. However, its 
+role in goblet cell hyperplasia in the airways of asthma patients is yet to be 
+clarified.
+OBJECTIVE: This study was designed to examine the role of histamine in goblet 
+cell hyperplasia using histamine-deficient mice (Hdc-/- mice) with allergic 
+airway inflammation.
+METHODS: Wild-type and Hdc-/- C57BL/6 mice were sensitized with ovalbumin (OVA). 
+After a 2-week exposure to OVA, goblet cell hyperplasia was evaluated. Cell 
+differentials and cytokines in BALF were analyzed. The mRNA levels of MUC5AC and 
+Gob-5 gene were determined quantitatively.
+RESULTS: The number of eosinophils in BALF increased in both the sensitized 
+wild-type mice and Hdc-/- mice with OVA inhalation. In addition, the numbers of 
+alveolar macrophages and lymphocytes in BALF increased significantly in the 
+sensitized Hdc-/- mice with OVA inhalation compared to the wild-type mice under 
+the same conditions. The concentrations of Interleukin-4 (IL-4), IL-5, IL-13, 
+Interferon-gamma (IFN-gamma), tumor necrosis factor-alpha (TNF-alpha) and IL-2 
+in the BALF all increased significantly in both groups compared to those exposed 
+to saline. In particular, the concentration of TNF-alpha in the Hdc-/- mice 
+exposed to OVA was significantly higher than that in the wild-type mice under 
+the same conditions. The mRNA levels of Gob-5 and MUC5AC, and the ratio of the 
+goblet cells in the airway epithelium significantly increased in Hdc-/- mice 
+exposed to OVA compared to wild-type mice.
+CONCLUSIONS: These results suggested that histamine may play a regulatory role 
+in goblet cell hyperplasia in allergic airway inflammation.
+
+DOI: 10.2332/allergolint.O-08-547
+PMID: 19153539 [Indexed for MEDLINE]
+
+
+25. J Allergy Clin Immunol. 2007 Feb;119(2):472-81. doi: 10.1016/j.jaci.2006.09.027. 
+Epub 2006 Nov 27.
+
+Differentiation of monocytes into macrophages induces the upregulation of 
+histamine H1 receptor.
+
+Triggiani M(1), Petraroli A, Loffredo S, Frattini A, Granata F, Morabito P, 
+Staiano RI, Secondo A, Annunziato L, Marone G.
+
+Author information:
+(1)Division of Clinical Immunology and Allergy, University of Naples Federico 
+II, Naples, Italy. triggian@unina.it <triggian@unina.it>
+
+BACKGROUND: Histamine modulates several functions in human monocytes, 
+macrophages, and dendritic cells. However, responses elicited by histamine 
+differ depending on cell type, suggesting variable expression of histamine 
+receptors in the monocyte/macrophage lineage.
+OBJECTIVE: We sought to examine whether the expression of H(1) receptors was 
+regulated by cell differentiation of human monocytes into macrophages or 
+dendritic cells.
+METHODS: Expression of H(1) receptor was evaluated by RT-PCR and western blot in 
+monocytes, monocyte-derived macrophages (MDMs), monocyte-derived dendritic cells 
+(DCs) and human lung macrophages (HLMs).
+RESULTS: Expression of H(1) receptor mRNA and protein was higher in HLMs and DCs 
+than in monocytes. H(1) expression was approximately 15-fold and 4-fold higher 
+in MDMs and HLMs, respectively, as compared with that seen in monocytes. H(1) 
+receptor protein was undetectable in monocytes, whereas it was conspicuous in 
+MDMs. Simultaneous analysis of H(2) and H(1) mRNA expression indicated that the 
+H(2)/H(1) ratio decreased from 202.7 +/- 14.8 in monocytes to 2.2 +/- 0.4 in MDM 
+and 39.5 +/- 5.0 in DCs. Incubation of monocytes with histamine neither affected 
+intracellular Ca(2+) concentrations nor influenced IL-8 production. In contrast, 
+histamine rapidly induced a Ca(2+) signal and stimulated IL-8 production in 
+MDMs. Both effects were inhibited by H(1) blockade with levocetirizine, but not 
+by H(2) blockade with ranitidine.
+CONCLUSIONS: Differentiation of monocytes into macrophages or dendritic cells is 
+associated with profound changes of histamine receptor expression. Upregulation 
+of H(1) receptors confers on macrophages the capacity of being activated by 
+histamine.
+CLINICAL IMPLICATIONS: Regulation of H(1) and H(2) receptor expression in the 
+monocyte/macrophage lineage can be relevant to the pathogenesis of allergic 
+inflammation.
+
+DOI: 10.1016/j.jaci.2006.09.027
+PMID: 17125827 [Indexed for MEDLINE]
+
+
+26. J Immunol. 2005 May 1;174(9):5224-32. doi: 10.4049/jimmunol.174.9.5224.
+
+Histamine H4 receptor stimulation suppresses IL-12p70 production and mediates 
+chemotaxis in human monocyte-derived dendritic cells.
+
+Gutzmer R(1), Diestel C, Mommert S, Köther B, Stark H, Wittmann M, Werfel T.
+
+Author information:
+(1)Department of Dermatology and Allergology, Hannover Medical University, 
+Hannover, Germany. rgutzmer@gmx.de
+
+There is increasing evidence that histamine as an important mediator of 
+immediate type allergic reactions also effects professional APCs. Recent reports 
+showed effects of histamine on human monocyte-derived dendritic cells (MoDC) 
+mediated primarily via histamine H1 receptors (H1R) and H2R. We show here that 
+MoDC also express H3R and H4R at the mRNA and protein level. mRNA of the H3R is 
+down-regulated and mRNA of the H4R is up-regulated during the differentiation 
+from monocytes to MoDC. H4R or H2R stimulation suppressed IL-12p70 production in 
+MoDC. Induction of cAMP was necessary for IL-12p70 inhibition mediated via the 
+H2R. In contrast, H4R stimulation did not affect cAMP production but induced the 
+transcription factor AP-1, and U0126, an inhibitor of AP-1 transactivation and 
+MEK, rescued H4R mediated IL-12p70 suppression. Moreover, MoDC responded to a 
+H4R agonist (and also to a H2R agonist) with increased F-actin polymerization 
+and migration in modified Boyden chamber assays, suggesting a chemotactic effect 
+of histamine via the H2R and the H4R. Thus, H4R stimulation on MoDC results in 
+immunomodulatory and chemotactic effects. Histamine induces chemotaxis and 
+IL-12p70 suppression via different receptors using different signaling pathways, 
+which might be important for the pathogenesis of and therapeutic interventions 
+in allergic diseases.
+
+DOI: 10.4049/jimmunol.174.9.5224
+PMID: 15843518 [Indexed for MEDLINE]
+
+
+27. Nature. 2001 Sep 27;413(6854):420-5. doi: 10.1038/35096564.
+
+Histamine regulates T-cell and antibody responses by differential expression of 
+H1 and H2 receptors.
+
+Jutel M(1), Watanabe T, Klunker S, Akdis M, Thomet OA, Malolepszy J, Zak-Nejmark 
+T, Koga R, Kobayashi T, Blaser K, Akdis CA.
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), Obere Strasse 22, 
+CH-7270 Davos, Switzerland. marek.jutel@siaf.unizh.ch
+
+Many pathological processes, including those causing allergies and autoimmune 
+diseases, are associated with the presence of specialized subsets of T helper 
+cells (TH1 and TH2) at the site of inflammation. The diversity of TH1 and TH2 
+function is not predetermined but depends on signals that drive the cells 
+towards either subset. Histamine, released from effector cells (mast cells and 
+basophils) during inflammatory reactions can influence immune response. Here we 
+report that histamine enhances TH1-type responses by triggering the histamine 
+receptor type 1 (H1R), whereas both TH1- and TH2-type responses are negatively 
+regulated by H2R through the activation of different biochemical intracellular 
+signals. In mice, deletion of H1R results in suppression of interferon 
+(IFN)-gamma and dominant secretion of TH2 cytokines (interleukin (IL)-4 and 
+IL-13). Mutant mice lacking H2R showed upregulation of both TH1 and TH2 
+cytokines. Relevant to T-cell cytokine profiles, mice lacking H1R displayed 
+increased specific antibody response with increased immunoglobulin-epsilon (IgE) 
+and IgG1, IgG2b and IgG3 compared with mice lacking H2R. These findings account 
+for an important regulatory mechanism in the control of inflammatory functions 
+through effector-cell-derived histamine.
+
+DOI: 10.1038/35096564
+PMID: 11574888 [Indexed for MEDLINE]
+
+
+28. Gut. 1997 Dec;41(6):785-92. doi: 10.1136/gut.41.6.785.
+
+Mast cell mediated ion transport in intestine from patients with and without 
+inflammatory bowel disease.
+
+Crowe SE(1), Luthra GK, Perdue MH.
+
+Author information:
+(1)Department of Internal Medicine, University of Texas Medical Branch, 
+Galveston, USA.
+
+BACKGROUND: Mast cells have been shown to regulate intestinal ion transport in 
+animal models and normal human colon but their physiological role in human 
+intestinal inflammatory disorders is unknown.
+AIMS: To examine mast cell regulation of ion transport in inflammatory bowel 
+disease (IBD).
+SUBJECTS AND METHODS: Small and large intestine was obtained from patients with 
+and without IBD undergoing surgical resection. Short circuit current (Isc) 
+responses to rabbit antihuman IgE, histamine, and electrical stimulation were 
+measured in Ussing chambers. Specimens were also examined for mast cell numbers 
+and degree of inflammation.
+RESULTS: Isc responses to anti-IgE and histamine were smaller in magnitude in 
+IBD compared with non-IBD tissues. In all tissues, anti-IgE Isc responses were 
+reduced by about 80% in chloride free buffer. The histamine H1 receptor 
+antagonist, pyrilamine, decreased anti-IgE responses in non-IBD tissues. Greater 
+inhibition with pyrilamine was seen in IBD small intestine but its effect was 
+less in IBD colon. Histamine pretreatment of non-IBD control tissues reduced 
+anti-IgE responses to levels seen in IBD colon but had no effect in small 
+intestine. Mast cell numbers were greater in IBD compared with non-IBD small 
+intestine while no differences were observed between the colonic groups. Isc 
+responses to anti-IgE were not correlated with the degree of mucosal 
+inflammation.
+CONCLUSIONS: This study provides further evidence that mast cells are capable of 
+mediating alterations of ion transport in human gut but that this regulatory 
+role may be altered in IBD. The data suggest that prior activation of mast cells 
+with release of histamine may account for the reduced secretory response to 
+anti-IgE observed in IBD colonic tissues.
+
+DOI: 10.1136/gut.41.6.785
+PMCID: PMC1891616
+PMID: 9462211 [Indexed for MEDLINE]
+
+
+29. J Allergy Clin Immunol. 1990 Oct;86(4 Pt 2):599-605. doi: 
+10.1016/s0091-6749(05)80223-4.
+
+The role of histamine in allergic diseases.
+
+White MV(1).
+
+Author information:
+(1)National Institute of Allergy and Infectious Diseases, National Institutes of 
+Health, Bethesda, MD 20892.
+
+Histamine, which is stored mainly in mast cells and basophils, is a prominent 
+contributor to allergic disease. Elevations in plasma or tissue histamine levels 
+have been noted during anaphylaxis and experimental allergic responses of the 
+skin, nose, and airways. Of the four cardinal signs of asthma (bronchospasm, 
+edema, inflammation, and mucus secretion), histamine is capable of mediating the 
+first two through its H1 receptor and mucus secretion through its H2 receptor. 
+Of the five cardinal signs of allergic rhinitis (pruritus, mucosal edema, 
+sneezing, mucus secretion, and late-phase inflammatory reactions), histamine is 
+capable of mediating the first three through its H1 receptor. In the nose, mucus 
+secretion can be reflexively mediated by H1 and possibly also by H2 receptors. 
+In the skin the cardinal features of urticaria (vasodilation, vascular 
+permeability, and pruritus) can be mediated by stimulation of the H1 receptor. 
+In anaphylaxis histamine H1-receptor stimulation can mediate vascular 
+permeability, smooth muscle contraction, and tachycardia, whereas H2-receptor 
+stimulation can mediate mucus secretion. Stimulation of both receptors can 
+mediate vasodilation and reduce peripheral vascular resistance. Thus although 
+histamine is only one of many mediators of allergic disease, it plays a primary 
+role in allergic rhinitis, urticaria, anaphylaxis, and to a lesser degree, 
+asthma.
+
+DOI: 10.1016/s0091-6749(05)80223-4
+PMID: 1699987 [Indexed for MEDLINE]
+
+
+30. Am Rev Respir Dis. 1990 Mar;141(3 Pt 2):S151-6. doi: 
+10.1164/ajrccm/141.3_Pt_2.S151.
+
+Receptors in asthmatic airways.
+
+Goldie RG(1).
+
+Author information:
+(1)Department of Pharmacology, University of Western Australia, Nedlands.
+
+Airway tissue obtained postmortem from nondiseased and severely asthmatic human 
+lung was used in functional, radioligand binding and autoradiographic studies to 
+investigate aspects of various receptor systems for putative mediators of 
+asthma. Results indicate that asthma does not involve an intrinsic abnormality 
+of smooth muscle contractility to spasmogens. Nor was there any evidence for 
+up-regulation of histamine H1-receptor, muscarinic cholinoceptor, or alpha 
+1-adrenoceptor function. Conversely, severe asthma involving intense airway 
+inflammation resulted in significant beta-adrenoceptor dysfunction, probably 
+caused by receptor uncoupling from adenylate cyclase. Evidence was also obtained 
+for histamine and methacholine-induced release of a nonprostanoid, airway 
+epithelium-derived inhibitory factor (EpDIF), which may have a significant 
+dilator effect in the adjacent bronchial circulation. The activity of this 
+potentially protective inhibitory autacoid system would be expected to be 
+reduced in asthma, which commonly involves epithelium damage. The 
+autoradiographic distribution of specific binding sites for 125I-labeled 
+substance P (I-SP) was also determined in bronchi from healthy humans and 
+asthmatics. In sharp contrast to guinea pig airways where high levels of binding 
+were detected over smooth muscle, specific I-SP binding was sparse over human 
+airway smooth muscle from both sources, while dense binding was associated with 
+structures immediately beneath the epithelium and with deep submucosal glands. 
+These data suggest a more significant role for SP in secretory processes than in 
+spasmogenic processes in human bronchi and highlight the potential for drawing 
+invalid conclusions concerning human airway function from studies using animal 
+models.
+
+DOI: 10.1164/ajrccm/141.3_Pt_2.S151
+PMID: 2155564 [Indexed for MEDLINE]

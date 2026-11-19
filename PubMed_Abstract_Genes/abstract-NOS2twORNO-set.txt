@@ -1,0 +1,2780 @@
+1. FASEB J. 2022 Jun;36(6):e22376. doi: 10.1096/fj.202101577RR.
+
+The interdependent relationship between the nitric oxide signaling pathway and 
+primary cilia in pulse electromagnetic field-stimulated osteoblastic 
+differentiation.
+
+He WF(1)(2)(3), Qin R(1), Gao YH(1), Zhou J(1), Wei JJ(1), Liu J(1), Hou XF(1), 
+Ma HP(1), Xian CJ(4), Li XY(2), Chen KM(1)(3).
+
+Author information:
+(1)Fundamental Medical Science Research Laboratories, The 940th Hospital of 
+Joint Logistic Support Force, People's Liberation Army of China, Lanzhou, P. R. 
+China.
+(2)Department of Bioengineering, School of Life Science and Engineering, Lanzhou 
+University of Technology, Lanzhou, P. R. China.
+(3)Key Laboratory of Stem Cells and Gene Drugs of Gansu Province, Lanzhou, P. R. 
+China.
+(4)UniSA Clinical and Health Sciences, University of South Australia, Adelaide, 
+South Australia, Australia.
+
+Pulsed electromagnetic fields (PEMFs) have long been recognized being safe and 
+effective in treating bone fracture nonunion and osteoporosis. However, the 
+mechanism of osteogenic action of PEMFs is still unclear. While primary cilia 
+are reported to be a sensory organelle for PEMFs, and nitric oxide (NO) plays an 
+indispensable role in osteogenic effect of PEMFs, the relationship between NO 
+and primary cilia is unknown. In this study, effects of treatment with 50 Hz 
+0.6 mT PEMFs on osteogenic differentiation and mineralization, NO secretion, and 
+ciliary location of specific proteins were examined in rat calvarial osteoblasts 
+(ROBs) with normal or abrogated primary cilia. It was found that PEMFs 
+stimulated the osteogenic differentiation by activating the NOS/NO/sGC/cGMP/PKG 
+signaling pathway, which need the existence of primary cilia. All components of 
+the signaling pathway including iNOS, eNOS, sGC, PKG-1, and PKG-2 were localized 
+to primary cilia, and eNOS was phosphorylated inside the primary cilia. Besides, 
+primary cilia were elongated significantly by PEMF treatment and changed 
+dynamically with the activation NO/cGMP pathway. When the pathway was blocked by 
+L-NAME, PEMFs could no longer elongate the primary cilia and stimulate the 
+osteoblastic differentiation. Thus, this study for the first time observed 
+activation of the NO/cGMP signaling pathway in ciliary compartment of 
+osteoblasts, and PEMFs could not stimulate the osteoblastic differentiation if 
+the NO signaling pathway was blocked or the ciliogenesis was inhibited. Our 
+findings indicate the interdependent relationship between NO and primary cilia 
+in the PEMF-promoted osteogenesis.
+
+© 2022 Federation of American Societies for Experimental Biology.
+
+DOI: 10.1096/fj.202101577RR
+PMID: 35616355 [Indexed for MEDLINE]
+
+
+2. Sci Rep. 2021 Jul 29;11(1):15498. doi: 10.1038/s41598-021-94782-5.
+
+Somatic cell hemoglobin modulates nitrogen oxide metabolism in the human airway 
+epithelium.
+
+Marozkina N(1), Smith L(2), Zhao Y(2), Zein J(3), Chmiel JF(2), Kim J(4), 
+Kiselar J(5), Davis MD(2), Cunningham RS(2), Randell SH(4), Gaston B(2).
+
+Author information:
+(1)Herman Wells Center for Pediatric Research, Riley Hospital for Children, 
+Indiana University School of Medicine, 1044 W. Walnut Street, R4-474, 
+Indianapolis, IN, 46202, USA. nmarozki@iu.edu.
+(2)Herman Wells Center for Pediatric Research, Riley Hospital for Children, 
+Indiana University School of Medicine, 1044 W. Walnut Street, R4-474, 
+Indianapolis, IN, 46202, USA.
+(3)Respiratory Institute, Cleveland Clinic, Cleveland, OH, USA.
+(4)University of North Carolina School of Medicine, Chapel Hill, NC, USA.
+(5)Case Western Reserve University, Cleveland, OH, USA.
+
+Endothelial hemoglobin (Hb)α regulates endothelial nitric oxide synthase (eNOS) 
+biochemistry. We hypothesized that Hb could also be expressed and biochemically 
+active in the ciliated human airway epithelium. Primary human airway epithelial 
+cells, cultured at air-liquid interface (ALI), were obtained by clinical airway 
+brushings or from explanted lungs. Human airway Hb mRNA data were from 
+publically available databases; or from RT-PCR. Hb proteins were identified by 
+immunoprecipitation, immunoblot, immunohistochemistry, immunofluorescence and 
+liquid chromatography- mass spectrometry. Viral vectors were used to alter Hbβ 
+expression. Heme and nitrogen oxides were measured colorimetrically. Hb mRNA was 
+expressed in human ciliated epithelial cells. Heme proteins (Hbα, β, and δ) were 
+detected in ALI cultures by several methods. Higher levels of airway epithelial 
+Hbβ gene expression were associated with lower FEV1 in asthma. Both Hbβ 
+knockdown and overexpression affected cell morphology. Hbβ and eNOS were 
+apically colocalized. Binding heme with CO decreased extracellular accumulation 
+of nitrogen oxides. Human airway epithelial cells express Hb. Higher levels of 
+Hbβ gene expression were associated with airflow obstruction. Hbβ and eNOS were 
+colocalized in ciliated cells, and heme affected oxidation of the NOS product. 
+Epithelial Hb expression may be relevant to human airways diseases.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-94782-5
+PMCID: PMC8322277
+PMID: 34326365 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. Chest. 2021 Nov;160(5):1604-1613. doi: 10.1016/j.chest.2021.05.013. Epub 2021 
+May 21.
+
+Mucociliary Clearance Differs in Mild Asthma by Levels of Type 2 Inflammation.
+
+Corcoran TE(1), Huber AS(2), Hill SL(3), Locke LW(4), Weber L(5), Muthukrishnan 
+A(6), Heidrich EM(3), Wenzel S(7), Myerburg MM(3).
+
+Author information:
+(1)Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, 
+University of Pittsburgh, PA; Department of Bioengineering, University of 
+Pittsburgh, PA; Department of Chemical and Petroleum Engineering, University of 
+Pittsburgh, PA. Electronic address: corcorante@upmc.edu.
+(2)Department of Chemical and Petroleum Engineering, University of Pittsburgh, 
+PA.
+(3)Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, 
+University of Pittsburgh, PA.
+(4)Department of Microbial Infection and Immunity, The Ohio State University, 
+Columbus, OH.
+(5)Nuclear Medicine Department, University of Pittsburgh Medical Center, PA.
+(6)Department of Radiology, University of Pittsburgh, PA.
+(7)Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, 
+University of Pittsburgh, PA; Department of Environmental & Occupational Health, 
+University of Pittsburgh, PA.
+
+BACKGROUND: Although mucus plugging is a well-reported feature of asthma, 
+whether asthma and type 2 inflammation affect mucociliary clearance (MCC) is 
+unknown.
+RESEARCH QUESTION: Does type 2 inflammation influence mucus clearance rates in 
+patients with mild asthma who are not receiving corticosteroids?
+STUDY DESIGN AND METHODS: The clearance rates of inhaled radiolabeled particles 
+were compared between patients with mild asthma with low (n = 17) and high (n = 
+18) levels of T2 inflammation. Fraction exhaled nitric oxide (Feno) was used to 
+prospectively segregate subjects into T2 Lo (Feno < 25 ppb) and T2 Hi (Feno > 35 
+ppb) cohorts. Bronchial brush samples were collected with fiber-optic 
+bronchoscopy, and quantitative polymerase chain reaction was performed to 
+measure expression of genes associated with T2 asthma. MCC rate comparisons were 
+also made with a historical group of healthy control subjects (HCs, n = 12).
+RESULTS: The T2 Lo cohort demonstrated increased MCC when compared with both T2 
+Hi and historic HCs. MCC within the T2 Hi group varied significantly, with some 
+subjects having low or zero clearance. MCC decreased with increasing expression 
+of several markers of T2 airway inflammation (CCL26, NOS2, and POSTN) and with 
+Feno. MUC5AC and FOXJ1 expression was similar between the T2Lo and T2Hi cohorts.
+INTERPRETATION: Increasing T2 inflammation was associated with decreasing MCC. 
+High rates of MCC in T2 Lo subjects may indicate a compensatory mechanism 
+present in mild disease but lost with high levels of inflammation. Future 
+studies are required to better understand mechanisms and whether impairments in 
+MCC in more severe asthma drive worse clinical outcomes.
+
+Copyright © 2021 American College of Chest Physicians. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.chest.2021.05.013
+PMCID: PMC8628176
+PMID: 34029561 [Indexed for MEDLINE]
+
+
+4. Metallomics. 2020 Nov 1;12(11):1679-1692. doi: 10.1039/d0mt00164c. Epub 2020 Sep 
+10.
+
+MiR-196-5p involvement in selenium deficiency-induced immune damage via 
+targeting of NFκBIA in the chicken trachea.
+
+Qin L(1), Zhang Y, Wan C, Wang Z, Cong Y, Li S.
+
+Author information:
+(1)College of Veterinary Medicine, Northeast Agricultural University, Harbin 
+150030, P. R. China. lishu@neau.edu.cn cym_01@126.com.
+
+Dietary selenium (Se) deficiency can induce multifarious immune injury in 
+tissues, accompanied by inflammation and a decreased expression of 
+selenoproteins. The results of previous studies indicated that these issues are 
+associated with Se-mediated microRNAs involved in immune regulation, although 
+the specific mechanisms associated with these interactions have not been 
+reported in the trachea of chickens. To explore the effects of Se deficiency in 
+the trachea of chickens and the role of miR-196-5p, we established correlational 
+models of tracheal injury in chickens. One hundred broilers were divided into 
+four groups, including a control group (C group), a Se deficient group (L 
+group), a lipopolysaccharide (LPS)-induced control group (C + LPS group) and a 
+LPS-induced Se deficient group (L + LPS group). Light microscopy observations 
+indicated that the infiltration of inflammatory cells was the major 
+histopathological change caused by Se deficiency. Furthermore, ultrastructural 
+observation of the tracheal epithelium and ciliary showed typical inflammatory 
+signs owing to Se deficiency. We determined the targeting relationship between 
+miR-196-5p and NFκBIA by bioinformatics analysis. In the case of Se deficiency, 
+the changes were detected as follows: 19 selenoproteins showed different degrees 
+of decrease (p < 0.05). Significant inhibition of both antimicrobial peptides 
+and immunoglobulin production were observed (p < 0.05). IκB-α (NFκBIA) 
+expression degraded with the increasing miR-196-5p (p < 0.05), and the NF-κB 
+pathway was activated. Thereafter, we can see a significant increase in the mRNA 
+levels of inflammatory cytokines-related genes (tumor necrosis factor (TNF)-α, 
+inducible nitric oxide synthase (iNOS), cyclooxygenase (COX)-2, prostaglandin E 
+(PTGE), interleukin (IL)-1β, IL-6) and protein expression of NF-κB/iNOS 
+pathway-related genes (NF-κB, iNOS, TNF-α, COX-2) (p < 0.05). The release of 
+IL-2, interferon (IFN)-γ inhibited (p < 0.05) and the secretion of IL-4, IL-6 
+increased, suggesting the imbalance of Th1/Th2 (Th, helper T cell) cytokines. 
+Compared to the control, the mRNA and protein expression levels of the 
+anti-inflammatory system components with antioxidant activity (PPAR-γ/HO-1) were 
+in an inhibitory state (p < 0.05). Antioxidases (SOD, CAT, GSH-Px) activities 
+were suppressed. The activities of the peroxide markers (MDA, H2O2) were 
+enhanced (p < 0.05). In addition, Se deficiency had a positive effect on the 
+pathological changes of inflammation and the exceptional immunity in LPS-treated 
+groups (p < 0.05). The results confirmed the relationship between miR-196-5p and 
+NFκBIA in chickens, revealing that Se deficiency causes respiratory mucosal 
+immune dysfunction via the miR-196-5p-NFκBIA axis, oxidative stress and 
+inflammation. Moreover, Se deficiency exacerbates the inflammatory damage 
+stimulated by LPS. Our work provides a theoretical basis for the prevention of 
+tracheal injury owing to Se deficiency and can be used as a reference for 
+comparative medicine. Furthermore, the targeted regulation of miR-196-5p and 
+NFκBIA may contribute to the protection of the tracheal mucosa in chickens.
+
+DOI: 10.1039/d0mt00164c
+PMID: 32910126 [Indexed for MEDLINE]
+
+
+5. J Cell Sci. 2020 Jul 8;133(13):jcs239871. doi: 10.1242/jcs.239871.
+
+Ciliary proteins specify the cell inflammatory response by tuning NFκB 
+signalling, independently of primary cilia.
+
+Mc Fie M(1)(2), Koneva L(1), Collins I(1), Coveney CR(1), Clube AM(1), 
+Chanalaris A(1), Vincent TL(1), Bezbradica JS(1), Sansom SN(1), Wann AKT(3).
+
+Author information:
+(1)Kennedy Institute of Rheumatology Research, Nuffield Department of 
+Orthopaedics, Rheumatology and Musculoskeletal Sciences, Medical Sciences 
+Division, University of Oxford, Oxford OX3 7FY, UK.
+(2)School of Engineering and Materials Science, Queen Mary University of London, 
+Mile End Road, London E1 4NS, UK.
+(3)Kennedy Institute of Rheumatology Research, Nuffield Department of 
+Orthopaedics, Rheumatology and Musculoskeletal Sciences, Medical Sciences 
+Division, University of Oxford, Oxford OX3 7FY, UK angus.wann@kennedy.ox.ac.uk.
+
+Complex inflammatory signalling cascades define the response to tissue injury 
+but also control development and homeostasis, limiting the potential for these 
+pathways to be targeted therapeutically. Primary cilia are subcellular 
+regulators of cellular signalling, controlling how signalling is organized, 
+encoded and, in some instances, driving or influencing pathogenesis. Our 
+previous research revealed that disruption of ciliary intraflagellar transport 
+(IFT), altered the cell response to IL-1β, supporting a putative link emerging 
+between cilia and inflammation. Here, we show that IFT88 depletion affects 
+specific cytokine-regulated behaviours, changing cytosolic NFκB translocation 
+dynamics but leaving MAPK signalling unaffected. RNA-seq analysis indicates that 
+IFT88 regulates one third of the genome-wide targets, including the 
+pro-inflammatory genes Nos2, Il6 and Tnf Through microscopy, we find altered 
+NFκB dynamics are independent of assembly of a ciliary axoneme. Indeed, 
+depletion of IFT88 inhibits inflammatory responses in the non-ciliated 
+macrophage. We propose that ciliary proteins, including IFT88, KIF3A, TTBK2 and 
+NPHP4, act outside of the ciliary axoneme to tune cytoplasmic NFκB signalling 
+and specify the downstream cell response. This is thus a non-canonical function 
+for ciliary proteins in shaping cellular inflammation.This article has an 
+associated First Person interview with the first author of the paper.
+
+© 2020. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jcs.239871
+PMCID: PMC7358134
+PMID: 32503942 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+6. Brain Sci. 2019 Sep 19;9(9):241. doi: 10.3390/brainsci9090241.
+
+Fumaric Acids Do Not Directly Influence Gene Expression of Neuroprotective 
+Factors in Highly Purified Rodent Astrocytes.
+
+Pars K(1)(2), Gingele M(3), Kronenberg J(4)(5), Prajeeth CK(6), Skripuletz T(7), 
+Pul R(8)(9), Jacobs R(10), Gudi V(11), Stangel M(12)(13).
+
+Author information:
+(1)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. Kaweh.Pars@uni-oldenburg.de.
+(2)Department of Neurology, European Medical School, University Oldenburg, 26129 
+Oldenburg, Germany. Kaweh.Pars@uni-oldenburg.de.
+(3)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. 
+Gingele.Marina@mh-hannover.de.
+(4)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. 
+Kronenberg.Jessica@mh-hannover.de.
+(5)Center for Systems Neuroscience, University of Veterinary Medicine, 30559 
+Hannover, Germany. Kronenberg.Jessica@mh-hannover.de.
+(6)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. 
+ChittappenKandiyil.Prajeeth@mh-hannover.de.
+(7)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. 
+Skripuletz.Thomas@mh-hannover.de.
+(8)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. Refik.Pul@uk-essen.de.
+(9)Department of Neurology, University Clinic Essen, 45147 Essen, Germany. 
+Refik.Pul@uk-essen.de.
+(10)Department of Clinical Immunology and Rheumatology, Hannover Medical School, 
+30559 Hannover, Germany. Jacobs.Roland@mh-hannover.de.
+(11)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. Gudi.Viktoria@mh-hannover.de.
+(12)Clinical Neuroimmunology and Neurochemistry, Department of Neurology, 
+Hannover, Medical School, 30559 Hannover, Germany. 
+Stangel.Martin@mh.hannover.de.
+(13)Center for Systems Neuroscience, University of Veterinary Medicine, 30559 
+Hannover, Germany. Stangel.Martin@mh.hannover.de.
+
+(1) Background: Dimethylfumarate (DMF) has been approved for the treatment of 
+relapsing remitting multiple sclerosis. However, the mode of action of DMF and 
+its assumed active primary metabolite monomethylfumarate (MMF) is still not 
+fully understood. Former reports suggest a neuroprotective effect of DMF 
+mediated via astrocytes by reducing pro-inflammatory activation of these glial 
+cells. We investigated potential direct effects of DMF and MMF on 
+neuroprotective factors like neurotrophic factors and growth factors in 
+astrocytes to elucidate further possible mechanisms of the mode of action of 
+fumaric acids; (2) Methods: highly purified cultures of primary rat astrocytes 
+were pre-treated in vitro with DMF or MMF and incubated with lipopolysaccharides 
+(LPS) or a mixture of interferon gamma (IFN-γ) plus interleukin 1 beta (IL-1β) 
+in order to simulate an inflammatory environment. The gene expression of 
+neuroprotective factors such as neurotrophic factors (nuclear factor E2-related 
+factor 2 (NGF), brain-derived neurotrophic factor (BDNF), glial cell-derived 
+neurotrophic factor (GDNF)) and growth factors (fibroblast growth factor 2 
+(FGF2), platelet-derived growth factor subunit A (PDGFa), ciliary neurotrophic 
+factor (CNTF)) as well as cytokines (tumor necrosis factor alpha (TNFα), 
+interleukin 6 (IL-6), IL-1β, inducible nitric oxide synthase (iNOS)) was 
+examined by determining the transcription level with real-time quantitative 
+polymerase chain reaction (qPCR); (3) Results: The stimulation of highly 
+purified astrocytes with either LPS or cytokines changed the expression profile 
+of growth factors and pro- inflammatory factors. However, the expression was not 
+altered by either DMF nor MMF in unstimulated or stimulated astrocytes; (4) 
+Conclusions: There was no direct influence of fumaric acids on neuroprotective 
+factors in highly purified primary rat astrocytes. This suggests that the 
+proposed potential neuroprotective effect of fumaric acid is not mediated by 
+direct stimulation of neurotrophic factors in astrocytes but is rather mediated 
+by other pathways or indirect mechanisms via other glial cells like microglia as 
+previously demonstrated.
+
+DOI: 10.3390/brainsci9090241
+PMCID: PMC6769695
+PMID: 31546798
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+7. J Cosmet Dermatol. 2019 Dec;18(6):1938-1946. doi: 10.1111/jocd.12917. Epub 2019 
+Apr 13.
+
+Abnormalities in endothelial form of nitric oxide synthase is pathogenic in 
+limited cutaneous systemic sclerosis.
+
+Jia XJ(1), Mu QR(2), Lei TC(1).
+
+Author information:
+(1)Department of Dermatology, Renmin Hospital of Wuhan University, Wuhan, China.
+(2)Department of Dermatology, Inner Mongolia People's Hospital, Hohhot, China.
+
+BACKGROUND: Limited cutaneous systemic sclerosis is one subtype of systemic 
+sclerosis which is characterized by a prototypic multisystem fibrotic disorder.
+OBJECTIVE: This study aimed to further investigate the pathological mechanism of 
+limited cutaneous systemic sclerosis (lcSSc).
+METHODS: The dataset GSE76807 generated from 10 lcSSc patients and five healthy 
+controls was used. After the preprocessing of the original data, differentially 
+expressed genes (DEGs) were identified and then performed functional analysis, 
+protein-protein interaction (PPI) network and module analysis. Additionally, the 
+transcription factors (TFs) and miRNAs which potentially regulating DEGs were 
+identified and the co-regulatory network was constructed. Finally, DEGs targeted 
+by current drugs were identified. Real-time quantitative PCR analyses of some 
+DEGs in mice with lcSSc were performed.
+RESULTS: Total 203 up-regulated and 189 down-regulated DEGs were obtained. The 
+up-regulated genes were enriched in protein interactions at the synapses 
+neuronal system, NCAM1 interactions, and CREB phosphorylation through the 
+activation of CaMKII, while, cilium assembly, and endothelial form of nitric 
+oxide synthase (eNOS) activation were enriched by down-regulated genes. SCRT2 
+and RABEP1 regulated by miR-218 were hub nodes in the network. DRD4 and GRIN2D 
+were the main drug targets. RABEP1 and SSB were found lowly expressed in mice 
+model with lcSSc.
+CONCLUSION: Endothelial form of NOS activation would be suppressed, and the 
+process of neuronal migration and outgrowth would be activated to participant in 
+the pathological mechanism of lcSSc.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1111/jocd.12917
+PMID: 30980594 [Indexed for MEDLINE]
+
+
+8. Inflammation. 2019 Apr;42(2):506-515. doi: 10.1007/s10753-018-0908-2.
+
+Compound GDC, an Isocoumarin Glycoside, Protects against LPS-Induced 
+Inflammation and Potential Mechanisms In Vitro.
+
+Zhang Y(1)(2)(3), Yan G(4), Sun C(1)(3), Nan L(1)(3), Wang X(1)(3), Xu W(5)(6), 
+Chu K(7)(8).
+
+Author information:
+(1)Pharmacy College of Fujian University of Traditional Chinese Medicine, 
+Shangjie Minhou, Fuzhou, Fujian, People's Republic of China.
+(2)Key Laboratory of Tropical Medicinal Plant Chemistry of Ministry of 
+Education, Hainan Normal University, Haikou, People's Republic of China.
+(3)State Key Laboratory of Chinese Pharmacies of Fujian Provincial Department of 
+Science and Technology of Fujian University of Traditional Chinese Medicine, No. 
+1 Qiuyang Road, Shangjie Minhou, Fuzhou, Fujian, 350122, People's Republic of 
+China.
+(4)People's Hospital Affiliated to Fujian University of Traditional Chinese 
+Medicine, Bayiqi Road, Fuzhou, Fujian, People's Republic of China.
+(5)Pharmacy College of Fujian University of Traditional Chinese Medicine, 
+Shangjie Minhou, Fuzhou, Fujian, People's Republic of China. 
+2000017@fjtcm.edu.cn.
+(6)State Key Laboratory of Chinese Pharmacies of Fujian Provincial Department of 
+Science and Technology of Fujian University of Traditional Chinese Medicine, No. 
+1 Qiuyang Road, Shangjie Minhou, Fuzhou, Fujian, 350122, People's Republic of 
+China. 2000017@fjtcm.edu.cn.
+(7)Pharmacy College of Fujian University of Traditional Chinese Medicine, 
+Shangjie Minhou, Fuzhou, Fujian, People's Republic of China. 
+2008002@fjtcm.edu.cn.
+(8)State Key Laboratory of Chinese Pharmacies of Fujian Provincial Department of 
+Science and Technology of Fujian University of Traditional Chinese Medicine, No. 
+1 Qiuyang Road, Shangjie Minhou, Fuzhou, Fujian, 350122, People's Republic of 
+China. 2008002@fjtcm.edu.cn.
+
+Compound 3R-(4'-hydroxyl-3'-O-β-D-glucopyranosyl phenyl)-dihydro isocoumarin 
+(GDC) is a natural isocoumarin, recently isolated from the stems of H. 
+paniculiflorum. However, we know little about the effects of GDC on rheumatoid 
+arthritis (RA). This study aims to investigate the protective effects and 
+potential mechanisms of GDC against LPS-induced inflammation in vitro. 
+Fibroblast-like synoviocytes (FLSs) obtained from synovial tissue of rats were 
+induced by lipopolysaccharide (LPS) and treated with GDC. Cell viability was 
+determined by 
+mitochondrial-respiration-dependent3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium 
+(MTT) assay. Secretion of various inflammatory mediators was analyzed by ELISA 
+and RayBio® Rat Cytokine Antibody Array. Potential mechanisms that are 
+associated with anti-inflammatory effect were examined by Western blot. Results 
+showed that GDC significantly inhibited the production of tumor necrosis factor 
+alpha (TNF-α) and interleukin- (IL-) 6 induced by LPS. GDC also reduced the 
+expression of inducible nitric oxide synthase (iNOS), TNF-α, IL-6, and IL-1β, as 
+well as proinflammatory cytokines such as activin A, ciliary neurotrophic factor 
+(CNTF), fractalkine, IFN-γ, IL-4, and TIMP-1. Moreover, GDC inhibited 
+LPS-induced phosphorylation of extracellular regulated protein kinases (ERK1/2), 
+p38 mitogen-activated protein kinases (p38), c-Jun N-terminal kinase (JNK), and 
+IκB. And GDC also blocked NF-κBp65 nuclear translocation. All the results 
+suggested that the protective effects of GDC against LPS-induced inflammation in 
+vitro may be related with NF-κB and JNK signaling pathway.
+
+DOI: 10.1007/s10753-018-0908-2
+PMID: 30328549 [Indexed for MEDLINE]
+
+
+9. Reprod Fertil Dev. 2018 Nov;30(12):1666-1674. doi: 10.1071/RD17450.
+
+Nitric oxide activation by progesterone suppresses ATP-induced ciliary activity 
+in oviductal ciliated cells.
+
+Kerr B(1), Ríos M(2), Droguett K(3), Villalón M(3).
+
+Author information:
+(1)Centro de Estudios Científicos, Av. Arturo Prat 514, 5110466, Valdivia, 
+Chile.
+(2)Millenium Institute on Immunology and Immunotherapy, Departamento de Genética 
+Molecular y Microbiología, Facultad de Ciencias Biológicas, Pontificia 
+Universidad Católica de Chile, Alameda 340, 8331150 Santiago, Chile.
+(3)Departamento de Ciencias Fisiológicas, Facultad de Ciencias Biológicas, 
+Pontificia Universidad Católica de Chile, Alameda 340, 8331150 Santiago, Chile.
+
+Ciliary beat frequency (CBF) regulates the oviductal transport of oocytes and 
+embryos, which are important components of the reproductive process. Local 
+release of ATP transiently increases CBF by increasing [Ca2+]i. Ovarian hormones 
+also regulate ciliary activity and oviductal transport. Progesterone (P4) 
+induces nitric oxide (NO) production and high P4 concentrations induce ciliary 
+dysfunction. However, the mechanism by which P4 affects CBF has not been 
+elucidated. To evaluate the role of P4 in NO production and its effect on 
+ATP-induced increases in CBF, we measured CBF, NO concentrations and [Ca2+]i in 
+cultures of oviductal ciliated cells treated with P4 or NO signalling-related 
+molecules. ATP induced a [Ca2+]i peak, followed by an increase in NO 
+concentrations that were temporally correlated with the decreased phase of the 
+transiently increased CBF. Furthermore, P4 increased the expression of nitric 
+oxide synthases (iNOS and nNOS) and reduced the ATP-induced increase in CBF via 
+a mechanism that involves the NO signalling pathway. These results have improved 
+our knowledge about intracellular messengers controlling CBF and showed that NO 
+attenuates oviduct cell functions. Furthermore, we showed that P4 regulates 
+neurotransmitter (ATP) actions on CBF via the NO pathway, which could explain 
+pathologies where oviductal transport is altered and fertility decreased.
+
+DOI: 10.1071/RD17450
+PMID: 29936934 [Indexed for MEDLINE]
+
+
+10. PLoS One. 2017 Apr 4;12(4):e0174971. doi: 10.1371/journal.pone.0174971. 
+eCollection 2017.
+
+Silibinin treatment prevents endotoxin-induced uveitis in rats in vivo and in 
+vitro.
+
+Chen CL(1)(2), Chen JT(1)(2), Liang CM(1)(2), Tai MC(2), Lu DW(1)(2), Chen 
+YH(1)(2).
+
+Author information:
+(1)Graduate Institute of Medical Science, National Defense Medical Center, 
+Taipei, Taiwan.
+(2)Department of Ophthalmology, Tri-Service General Hospital, National Defense 
+Medical Center, Taipei, Taiwan.
+
+Uveitis, an intraocular inflammatory disease, occurs mostly in young people and 
+can result in the loss of socioeconomic capabilities. Silibinin has been shown 
+to exert anti-inflammatory effects in human retinal pigment epithelial (RPE) 
+cells. The present study investigated the anti-inflammatory effect of silibinin 
+pretreatment on endotoxin-induced uveitis (EIU) in rats and the mechanisms by 
+which it exerts these effects. Uveitis was induced via injection of 
+lipopolysaccharides (LPS) into Lewis rats. Twenty-four hours after the LPS 
+injection, histological examination showed that silibinin decreased inflammatory 
+cell infiltration in the anterior segment of the eyes of LPS-treated rats. 
+Analyses of the aqueous humor showed that silibinin decreased cell infiltration, 
+protein concentration, nitric oxide (NO), and prostaglandin (PG)-E2 production. 
+Western blot analysis indicated that silibinin decreased the expression of 
+inducible NO synthase (iNOS), cyclooxygenase (COX-2), and phosphorylated IkB in 
+the iris-ciliary body (ICB). Immunohistochemistry showed that silibinin 
+decreased intercellular adhesion molecule (ICAM-1) expression in the ICB. In 
+addition, western blot analysis showed that silibinin attenuated the expression 
+of iNOS, COX-2, ICAM-1, and nuclear p65 in LPS-treated RAW cells. In conclusion, 
+silibinin pretreatment prevents EIU and the subsequent production of 
+proinflammatory mediators and ICAM-1, at least in part, by blocking the 
+NF-κB-dependent signaling pathway both in vivo and in vitro. These effects may 
+contribute to the silibinin-mediated preventive effects on intraocular 
+inflammatory diseases such as acute uveitis.
+
+DOI: 10.1371/journal.pone.0174971
+PMCID: PMC5380317
+PMID: 28376126 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+11. J Vet Med Sci. 2016 Sep 1;78(8):1229-35. doi: 10.1292/jvms.16-0118. Epub 2016 
+Apr 21.
+
+Luteolin attenuates endotoxin-induced uveitis in Lewis rats.
+
+Kanai K(1), Hatta T, Nagata S, Sugiura Y, Sato K, Yamashita Y, Kimura Y, Itoh N.
+
+Author information:
+(1)Department of Small Animal Internal Medicine I, School of Veterinary 
+Medicine, University of Kitasato, Towada, Aomori 034-8628, Japan.
+
+The aim of the present study was to investigate the efficacy of luteolin on 
+endotoxin-induced uveitis (EIU) in rats. EIU was induced in Lewis rats by 
+subcutaneous injections of lipopolysaccharide (LPS). One hr before the LPS 
+injection, 0.1, 1 or 10 mg/kg luteolin or 1 mg/kg prednisolone was 
+intraperitoneally injected. We investigated its effect upon clinical scores, 
+cellular infiltration and protein leakage, as well as on the level of tumor 
+necrosis factor (TNF)-α, nitric oxide (NO) and prostaglandin (PG) E2 in the 
+aqueous humor (AqH). Histologic examination and immunohistochemical analysis in 
+the iris-ciliary body (ICB) were performed to determine the expressions of 
+cyclooxygenase (COX)-2 and inducible NO synthase (iNOS), and then the activated 
+nuclear factor (NF)-κB p65, I kappa B (IκB)-α degradation, phosphorylated 
+(p)-IκB kinase (IKK) α/β and activator protein (AP)-1 c-Jun. Luteolin 
+suppressed, in a dose-dependent manner, the clinical scores, number of 
+inflammatory cells, the protein concentration, and the TNF-α, NO and PGE2 levels 
+in the AqH and improved the histiologic status of the ocular tissue. Luteolin 
+suppressed the expression of iNOS and COX-2 and the activated NF-κB p65, IκB-α 
+degradation, p-IKKα/β and AP-1 p-c-Jun in the ICB. The anti-inflammatory potency 
+of 10 mg/kg luteolin was as strong as that observed with 1 mg/kg prednisolone. 
+These results demonstrate that luteolin attenuates ocular inflammation by 
+inhibiting expression and release of inflammatory markers, along with the 
+inhibition of the activated NF-κB pathway and at least partly AP-1 activity in 
+the ICB.
+
+DOI: 10.1292/jvms.16-0118
+PMCID: PMC5053922
+PMID: 27098110 [Indexed for MEDLINE]
+
+
+12. Invest Ophthalmol Vis Sci. 2016 Apr;57(4):1671-9. doi: 10.1167/iovs.15-18127.
+
+Anti-Inflammatory Effect of Dexamethasone Controlled Released From Anterior 
+Suprachoroidal Polyurethane Implants on Endotoxin-Induced Uveitis in Rats.
+
+Barbosa Saliba J(1), Vieira L(1), Fernandes-Cunha GM(1), Rodrigues Da Silva 
+G(2), Ligório Fialho S(3), Silva-Cunha A(4), Bousquet E(5), Naud MC(5), Ayres 
+E(6), Oréfice RL(7), Tekaya M(8), Kowalczuk L(8), Zhao M(5), Behar-Cohen F(5).
+
+Author information:
+(1)Faculty of Pharmacy, Federal University of Minas Gerais, Belo Horizonte, 
+Minas Gerais, Brazil 2Inserm UMR_S 1138, Team 17: From Physiopathology of 
+Retinal Diseases to Clinical Advances, Centre de Recherche des Cordeliers, 
+Paris, France 3Sorbonne Universit.
+(2)School of Pharmacy, Federal University of São João Del Rei, Divinópolis, 
+Minas Gerais, Brazil.
+(3)Pharmaceutical and Biotechnological Development, Ezequiel Dias Foundation, 
+Belo Horizonte, Minas Gerais, Brazil.
+(4)Faculty of Pharmacy, Federal University of Minas Gerais, Belo Horizonte, 
+Minas Gerais, Brazil.
+(5)Inserm UMR_S 1138, Team 17: From Physiopathology of Retinal Diseases to 
+Clinical Advances, Centre de Recherche des Cordeliers, Paris, France 3Sorbonne 
+Universities, University of Pierre et Marie Curie, Centre de Recherche des 
+Cordeliers, Paris, France 4Pa.
+(6)State University of Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.
+(7)Department of Metallurgical and Materials Engineering, Federal University of 
+Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.
+(8)Department of Ophthalmology of University of Lausanne, Jules-Gonin Ophthalmic 
+Hospital, CHUV, Lausanne, Switzerland.
+
+PURPOSE: Targeted drug delivery to the ocular tissues remains a challenge. 
+Biodegradable intraocular implants allow prolonged controlled release of drugs 
+directly into the eye. In this study, we evaluated an anterior suprachoroidal 
+polyurethane implant containing dexamethasone polyurethane dispersions (DX-PUD) 
+as a drug delivery system in the rat model of endotoxin-induced uveitis (EIU).
+METHODS: In vitro drug release was studied using PUD implants containing 8%, 
+20%, and 30% (wt/wt) DX. Cytotoxicity of the degradation products of DX-PUD was 
+assessed on human ARPE-19 cells using 
+3-(4,5-dimethylthiazolyl-2)-2,5-diphenyltetrazolium bromide (MTT) test. 
+Short-term ocular biocompatibility of suprachoroidal DX-PUD implants was 
+evaluated in normal rat eyes. Endotoxin-induced uveitis was then induced in rat 
+eyes preimplanted with DX-PUD. Clinical examination was performed at 24 hours; 
+eyes were used to assess inflammatory cell infiltration and 
+macrophage/microglial activation. Cytokine and chemokine expression in the 
+iris/ciliary body and in the retina was investigated using quantitative PCR. 
+Feasibility of anterior suprachoroidal PUD implantation was also tested using 
+postmortem human eyes.
+RESULTS: A burst release was followed by a sustained controlled release of DX 
+from PUD implants. By-products of the DX-PUD were not toxic to human ARPE-19 
+cells or to rat ocular tissues. Dexamethasone-PUD implants prevented EIU in rat 
+eyes, reducing inflammatory cell infiltration and inhibiting 
+macrophage/microglial activation. Dexamethasone-PUD downregulated 
+proinflammatory cytokines/chemokines (IL-1β, IL-6, cytokine-induced neutrophil 
+chemoattractant [CINC]) and inducible nitric oxide synthase (iNOS) and 
+upregulated IL-10 anti-inflammatory cytokine. Polyurethane dispersion was 
+successfully implanted into postmortem human eyes.
+CONCLUSIONS: Dexamethasone-PUD implanted in the anterior suprachoroidal space 
+may be of interest in the treatment of intraocular inflammation.
+
+DOI: 10.1167/iovs.15-18127
+PMID: 27054520 [Indexed for MEDLINE]
+
+
+13. Eur J Pharmacol. 2015 Aug 15;761:28-35. doi: 10.1016/j.ejphar.2015.04.025. Epub 
+2015 Apr 28.
+
+The anti-inflammatory effects of palmitoylethanolamide (PEA) on 
+endotoxin-induced uveitis in rats.
+
+Impellizzeri D(1), Ahmad A(1), Bruschetta G(1), Di Paola R(1), Crupi R(1), 
+Paterniti I(1), Esposito E(1), Cuzzocrea S(2).
+
+Author information:
+(1)Department of Biological and Environmental Sciences, University of Messina, 
+Viale Ferdinando Stagno D׳Alcontres, 31-98166 Messina, Italy.
+(2)Department of Biological and Environmental Sciences, University of Messina, 
+Viale Ferdinando Stagno D׳Alcontres, 31-98166 Messina, Italy; Manchester 
+Biomedical Research Centre, Manchester Royal Infirmary, University of 
+Manchester, UK. Electronic address: salvator@unime.it.
+
+The aim of this study was to investigate the effects of palmitoylethanolamide 
+(PEA), an endogenous fatty acid amide belonging to the family of the 
+N-acylethanolamines (NAEs), in rats subjected to endotoxin-induced uveitis 
+(EIU). EIU was induced in male rats by a single footpad injection of 200μg 
+lipopolysaccharide (LPS). PEA was administered intraperitoneally at 1h before 
+and 7h after injection of LPS. Another group of animals was treated with 
+vehicle. Dexamethasone (DEX) was administered as a positive control. Rats were 
+sacrificed 16h after injection and the eyes tissues were collected for 
+histology, immunohistochemical and western blot analyses. The histological 
+evaluation of the iris-ciliary body showed an increase of neutrophilic 
+infiltration and nuclear modification of vessel of endothelial cells. PEA 
+treatment decreased the inflammatory cell infiltration and improved histological 
+damage of eye tissues. In addition, PEA treatment reduced pro-inflammatory tumor 
+necrosis factor (TNF-α) levels, protein extravasion and lipid peroxidation. 
+Immunohistochemical analysis for intracellular adhesion molecule (ICAM)-1 and 
+nitrotyrosine showed a positive staining from LPS-injected rats. The degree of 
+staining for ICAM-1 and nitrotyrosine was significantly reduced in eye sections 
+from LPS-injected rats treated with PEA. In addition, an increase of inducible 
+nitric oxide synthase (iNOS) and nuclear factor (NF-κB) was also evaluated in 
+inflammed ocular tissues by western blot. PEA strongly inhibited iNOS expression 
+and nuclear NF-κB translocation. Thus, in this study we demonstrated that PEA 
+reduces the degree of ocular inflammation in a rat model of EIU.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2015.04.025
+PMID: 25934566 [Indexed for MEDLINE]
+
+
+14. Mol Vis. 2015 Apr 10;21:403-11. eCollection 2015.
+
+Topical administration of diminazene aceturate decreases inflammation in 
+endotoxin-induced uveitis.
+
+Zheng C(1), Lei C(1), Chen Z(1), Zheng S(1), Yang H(1), Qiu Y(1), Lei B(1).
+
+Author information:
+(1)Department of Ophthalmology, the First Affiliated Hospital of Chongqing 
+Medical University, Chongqing Key Laboratory of Ophthalmology, Chongqing Eye 
+Institute, Chongqing, China.
+
+PURPOSE: Our previous study demonstrated that an intraperitoneal injection of 
+Diminazene Aceturate (DIZE) attenuated uveitis by activating ocular 
+angiotensin-converting enzyme 2 (ACE2). Here, we investigated the 
+anti-inflammatory effects on the ocular anterior segment of a topical 
+administration of a DIZE solution and explored the downstream target molecules 
+involved in the anti-inflammatory mechanism after ACE2 activation.
+METHODS: Endotoxin-induced uveitis (EIU) in rats was induced by a subcutaneous 
+injection of lipopolysaccharides (LPS, 200 μg) in 0.1 ml of sterile saline. DIZE 
+(0.025, 0.05, or 0.1%) and dexamethasone (0.1%) solutions were applied topically 
+(10 μl eyedrops) to both eyes 6X every two hours before and after LPS injection. 
+The inflammation of the ocular anterior segment was observed and the clinical 
+scores were evaluated 24 h after LPS injection. The total protein concentration 
+and levels of tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6) in the 
+aqueous humor were determined. CD11b-positive cells adjacent to the iris ciliary 
+body (ICB) were stained by immunohistochemistry. The mRNA levels of inflammatory 
+cytokines and mediators, including IL-1β, TNF-α, COX-2, and iNOS or NF-κB 
+subunit p65 in the ICB, were analyzed by real time RT-PCR. The protein 
+expression of NF-κB p65 and the phosphorylated protein of p38 MAPK were detected 
+by western blotting.
+RESULTS: A topical administration of DIZE decreased clinical scores and the 
+total protein concentration, as well as TNF-α and IL-6 levels in the aqueous 
+humor. Meanwhile, the mRNA levels of inflammatory cytokines and mediators, 
+including IL-1β, TNF-α, COX-2, and iNOS in the ICB, were downregulated. DIZE 
+reduced the recruitment of CD11b-positive cells adjacent to the ICB. 
+Furthermore, DIZE downregulated the expressions of NF-κB subunit p65 at protein 
+and mRNA levels and inhibited the phosphorylation of p38 MAPK protein in the 
+ICB.
+CONCLUSIONS: A topical administration of DIZE suppressed ocular inflammation in 
+EIU and decreased the levels of inflammatory cytokines. DIZE attenuated the 
+activation of NF-κB and p38 MAPK in EIU, which may be associated with 
+ACE2-mediated anti-inflammatory effects. Our data provided further evidence that 
+DIZE may represent a novel class of drug for the management of ocular 
+inflammation.
+
+PMCID: PMC4392833
+PMID: 25883526 [Indexed for MEDLINE]
+
+
+15. Cell Signal. 2014 Aug;26(8):1735-42. doi: 10.1016/j.cellsig.2014.04.004. Epub 
+2014 Apr 12.
+
+The primary cilium influences interleukin-1β-induced NFκB signalling by 
+regulating IKK activity.
+
+Wann AK(1), Chapple JP(2), Knight MM(3).
+
+Author information:
+(1)Institute of Bioengineering and School of Engineering and Materials Science, 
+Queen Mary University of London, Bancroft Road, Mile End, London E1 4NS, United 
+Kingdom. Electronic address: a.wann@qmul.ac.uk.
+(2)Centre for Endocrinology, William Harvey Research Institute, Barts and the 
+London School of Medicine and Dentistry, Queen Mary University of London, John 
+Vane science building, Charterhouse square, London EC1M 6BQ, United Kingdom. 
+Electronic address: j.p.chapple@qmul.ac.uk.
+(3)Institute of Bioengineering and School of Engineering and Materials Science, 
+Queen Mary University of London, Bancroft Road, Mile End, London E1 4NS, United 
+Kingdom. Electronic address: M.M.Knight@qmul.ac.uk.
+
+The primary cilium is an organelle acting as a master regulator of cellular 
+signalling. We have previously shown that disruption of primary cilia assembly, 
+through targeting intraflagellar transport, is associated with muted nitric 
+oxide and prostaglandin responses to the inflammatory cytokine interleukin-1β 
+(IL-1β). Here, we show that loss of the primary cilium disrupts specific 
+molecular signalling events in cytosolic NFκB signalling. The induction of 
+cyclooxygenase 2 (COX2) and inducible nitrous oxide synthase (iNOS) protein is 
+abolished. Cells unable to assemble cilia exhibit unaffected activation of IκB 
+kinase (IKK), but delayed and reduced degradation of IκB, due to diminished 
+phosphorylation of inhibitor of kappa B (IκB) by IKK. This results in both 
+delayed and reduced NFκB p65 nuclear translocation and nuclear transcript 
+binding. We also demonstrate that heat shock protein 27 (hsp27), an established 
+regulator of IKK, is localized to the ciliary axoneme and cellular levels are 
+dramatically disrupted with loss of the primary cilium. These results suggest 
+that the primary cilia compartment exerts influence over NFκB signalling. We 
+propose that the cilium is a locality for regulation of the molecular events 
+defining NFκB signalling events, tuning signalling as appropriate.
+
+Copyright © 2014. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cellsig.2014.04.004
+PMCID: PMC4064300
+PMID: 24726893 [Indexed for MEDLINE]
+
+
+16. Chest. 2013 Nov;144(5):1671-1676. doi: 10.1378/chest.13-0159.
+
+Ciliated cultures from patients with primary ciliary dyskinesia do not produce 
+nitric oxide or inducible nitric oxide synthase during early infection.
+
+Smith CM(1), Fadaee-Shohada MJ(2), Sawhney R(2), Baker N(2), Williams G(2), 
+Hirst RA(2), Andrew PW(2), O'Callaghan C(3).
+
+Author information:
+(1)Department of Respiratory Medicine, Portex Unit, Institute of Child Health, 
+UCL, and Great Ormond Street Hospital for Children NHS Foundation Trust, London; 
+Department of Infection, Immunity and Inflammation, University of Leicester, 
+Leicester, England.
+(2)Department of Infection, Immunity and Inflammation, University of Leicester, 
+Leicester, England.
+(3)Department of Respiratory Medicine, Portex Unit, Institute of Child Health, 
+UCL, and Great Ormond Street Hospital for Children NHS Foundation Trust, London; 
+Department of Infection, Immunity and Inflammation, University of Leicester, 
+Leicester, England. Electronic address: c.ocallaghan@ucl.ac.uk.
+
+Comment in
+    Chest. 2014 Mar 1;145(3):668-669. doi: 10.1378/chest.13-2398.
+    Chest. 2014 Mar 1;145(3):669. doi: 10.1378/chest.14-0187.
+    Chest. 2014 Mar;145(3):669. doi: 10.1378/chest.14-0187.
+
+BACKGROUND: The mechanism behind why patients with primary ciliary dyskinesia 
+(PCD) exhibit low nasal and exhaled nitric oxide (NO) remains unknown. One 
+hypothesis is that reduced NO biosynthesis is caused by a defect in one or more 
+NO synthases (NOSs). In healthy cells, the biosynthesis of NO is increased 
+following exposure to respiratory pathogens. Here, we aimed to investigate 
+whether ciliated epithelial cells from patients with PCD increase NO production 
+following pneumococcal infection.
+METHODS: Human respiratory epithelium was cultured to a basal or ciliated cell 
+phenotype using submerged or air-liquid interface cultures, respectively. Cells 
+were exposed to media or pneumococci until cells became damaged (&lt; 4 h). 
+Apical fluids were collected prior and following infection, and NO production 
+was determined using chemiluminescence. NOS gene expression was determined using 
+real-time quantitative polymerase chain reaction.
+RESULTS: Levels of NO and NOS2 gene expression increased significantly following 
+infection of healthy ciliated epithelial cells but not basal cells. No increase 
+in NO was seen in ciliated cell cultures from patients with PCD, and NOS2 gene 
+expression remained unchanged from baseline.
+CONCLUSIONS: These results suggest that the biosynthesis of NO in ciliated cells 
+from patients with PCD is abnormal following early bacterial challenge, 
+suggesting an abnormality in the function of inducible NOS in PCD.
+
+DOI: 10.1378/chest.13-0159
+PMID: 24189859 [Indexed for MEDLINE]
+
+
+17. RETRACTED ARTICLE
+
+Int Immunopharmacol. 2013 Oct;17(2):439-46. doi: 10.1016/j.intimp.2013.07.007. 
+Epub 2013 Jul 25.
+
+Piceatannol suppresses endotoxin-induced ocular inflammation in rats.
+
+Kalariya NM(1), Shoeb M, Reddy AB, Sawhney R, Ramana KV.
+
+Author information:
+(1)Department of Ophthalmology & Visual Sciences, University of Texas Medical 
+Branch, Galveston, TX, USA.
+
+Retraction in
+    Int Immunopharmacol. 2016 Oct;39:403. doi: 10.1016/j.intimp.2016.07.011.
+    Int Immunopharmacol. 2017 Jan;42:218. doi: 10.1016/j.intimp.2016.10.022.
+
+Anti-inflammatory effect of piceatannol, a naturally occurring polyphenol and a 
+potent free radical scavenger, on ocular inflammation is not known. We examined 
+the anti-inflammatory role of piceatannol in ocular inflammatory response due to 
+endotoxin-induced uveitis (EIU) in rats. EIU was induced in Lewis rats by 
+subcutaneous injection of lipopolysaccharide (LPS; 150 ug/rat). Piceatannol 
+(30mg/kg body wt, i.p) was injected either 2h prior to or 1h post LPS induction. 
+A significant increase in the number of infiltrating cells, total protein, and 
+various cytokines and chemokines in AqH were observed in the EIU rat eyes as 
+compared to control groups. However, pre- or post-treatment of piceatannol 
+significantly blocked the LPS-induced changes. Further, piceatannol also 
+suppressed the expression of cyclooxygenase-2 (Cox-2), inducible nitric oxide 
+synthase (iNOS) and activation of NF-κB in the ciliary bodies as well as retina. 
+Further, piceatannol also inhibited the expression of Cox-2, iNOS, and 
+phosphorylation of NF-κB in primary human non-pigmented ciliary epithelial cells 
+(HNPECs) treated with LPS. Similarly, piceatannol also diminished LPS-induced 
+level of NO and prostaglandin E2 in HNPECs. Thus our results demonstrate an 
+anti-inflammatory role of piceatannol in suppressing ocular inflammation induced 
+by endotoxin in rats.
+
+© 2013.
+
+DOI: 10.1016/j.intimp.2013.07.007
+PMCID: PMC3786330
+PMID: 23892029 [Indexed for MEDLINE]
+
+
+18. Auris Nasus Larynx. 2013 Oct;40(5):458-64. doi: 10.1016/j.anl.2013.02.001. Epub 
+2013 Mar 13.
+
+Increased exhaled nitric oxide and its oxidation metabolism in eosinophilic 
+chronic rhinosinusitis.
+
+Takeno S(1), Taruya T, Ueda T, Noda N, Hirakawa K.
+
+Author information:
+(1)Department of Otolaryngology, Head and Neck Surgery, Division of Clinical 
+Medical Science, Programs for Applied Biomedicine, Graduate School of Biomedical 
+Sciences, Hiroshima University, Hiroshima, Japan. takeno@hiroshima-u.ac.jp
+
+OBJECTIVE: Monitoring of fractional concentrations of exhaled nitric oxide 
+(FeNO) has become a reliable marker of inflammation in human nose and paranasal 
+sinuses. However, it is still unknown to what extent nasal NO levels contribute 
+to the pathology of chronic rhinosinusitis (CRS). In the present study, we aimed 
+to examine FeNO levels and the underlying mechanism of NO production and 
+metabolism in patients with eosinophilic chronic rhinosinusitis (ECRS) and 
+non-ECRS.
+METHODS: Thirty-three untreated ECRS patients, 16 non-ECRS patients, and 38 
+normal subjects were enrolled in this cross-sectional study of FeNO levels. Oral 
+and nasal FeNO levels were measured before treatment using an electrochemical NO 
+analyzer (NObreath(®)) with a nose adaptor. The mRNA expression of three nitric 
+oxide synthase (NOS) isoforms, interleukin-5 (IL-5), and transforming growth 
+factor-beta (TGF-β) in the ethmoid sinus mucosa and nasal polyps were analyzed 
+by real-time PCR. Immunohistological localization of inducible NOS (iNOS) and 
+nitrotyrosine (NT), a marker for oxidized NO metabolites, was also examined.
+RESULTS: ECRS patients showed significantly higher oral FeNO levels compared to 
+non-ECRS patients and normal subjects (mean values, 47.6, 13.5, and 15.3ppb, 
+respectively). Nasal FeNO levels of the non-ECRS patients (30.5ppb) were 
+significantly lower than those of the ECRS patients (53.9ppb) and normal 
+subjects (45.5ppb). Positive correlations existed between the blood eosinophil 
+percentage and FeNO levels in ECRS patients. Histologically, ECRS patients 
+showed higher eosinophil accumulation in the ethmoid mucosa than non-ECRS 
+patients (103.1 vs. 16.3cells/HPF). Real-time PCR analysis showed significant 
+upregulation of iNOS and IL-5 mRNA expression in the ethmoid mucosa of the ECRS 
+patients compared to those of non-ECRS patients. Positive iNOS immunoreactivity 
+was observed in ciliated epithelial cells, submucosal glands and associated 
+inflammatory cells in both groups. NT immunoreactivity was detected in the 
+epithelium and around inflammatory cells. Intense NT staining was co-localized 
+with eosinophil accumulation and ECRS patients showed significantly higher rates 
+of NT-positive cells than non-ECRS patients.
+CONCLUSION: A combination of oral and nasal FeNO measurement is a valid marker 
+for the classification and definition of different CRS subtypes in Japan. Higher 
+levels of oral and nasal FeNO in ECRS patients may reflect the persistence of 
+eosinophilic inflammation in sinus mucosa with concomitant iNOS upregulation and 
+accompanying deposition of oxidized NO metabolites.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.anl.2013.02.001
+PMID: 23489830 [Indexed for MEDLINE]
+
+
+19. J Biol Chem. 2012 Dec 7;287(50):41628-39. doi: 10.1074/jbc.M112.358788. Epub 
+2012 Oct 4.
+
+Ciliary neurotrophic factor protects mice against streptozotocin-induced type 1 
+diabetes through SOCS3: the role of STAT1/STAT3 ratio in β-cell death.
+
+Rezende LF(1), Santos GJ, Carneiro EM, Boschero AC.
+
+Author information:
+(1)Department of Structural and Functional Biology Institute of Biology State 
+University of Campinas (UNICAMP), P.O. Box 6109, Campinas, Sao Paulo 13083-865, 
+Brazil. luizbio@gmail.com
+
+Type 1 diabetes is characterized by a loss of islet β-cells. Ciliary 
+neurotrophic factor (CNTF) protects pancreatic islets against cytokine-induced 
+apoptosis. For this reason, we assessed whether CNTF protects mice against 
+streptozotocin-induced diabetes (a model of type 1 diabetes) and the mechanism 
+for this protection. WT and SOCS3 knockdown C57BL6 mice were treated for 5 days 
+with citrate buffer or 0.1 mg/kg CNTF before receiving 80 mg/kg streptozotocin. 
+Glycemia in non-fasted mice was measured weekly from days 0-28 after 
+streptozotocin administration. Diabetes was defined as a blood glucose > 11.2 
+mmol/liter. Wild-type (WT) and SOCS3 knockdown MIN6 cells were cultured with 
+CNTF, IL1β, or both. CNTF reduced diabetes incidence and islet apoptosis in WT 
+but not in SOCS3kd mice. Likewise, CNTF inhibited apoptosis in WT but not in 
+SOCS3kd MIN6 cells. CNTF increased STAT3 phosphorylation in WT and SOCS3kd mice 
+and MIN6 cells but reduced STAT1 phosphorylation only in WT mice, in contrast to 
+streptozotocin and IL1β. Moreover, CNTF reduced NFκB activation and required 
+down-regulation of inducible NO synthase expression to exert its protective 
+effects. In conclusion, CNTF protects mice against streptozotocin-induced 
+diabetes by increasing pancreatic islet survival, and this protection depends on 
+SOCS3. In addition, SOCS3 expression and β-cell fate are dependent on 
+STAT1/STAT3 ratio.
+
+DOI: 10.1074/jbc.M112.358788
+PMCID: PMC3516714
+PMID: 23038263 [Indexed for MEDLINE]
+
+
+20. Exp Eye Res. 2012 Oct;103:55-62. doi: 10.1016/j.exer.2012.07.011. Epub 2012 Aug 
+21.
+
+Aqueous humor oxidative stress proteomic levels in primary open angle glaucoma.
+
+Bagnis A(1), Izzotti A, Centofanti M, Saccà SC.
+
+Author information:
+(1)University of Genova, Eye Clinic, Department of Neurosciences, Ophthalmology 
+and Genetics, University of Genoa, Genoa, Italy. alebagnis@libero.it
+
+The purpose of this work was to investigate the expression of glutamine synthase 
+(GS), nitric oxide synthase (NOS) superoxide dismutase (SOD) and glutathione 
+transferase (GST) in the aqueous humor of patients with primary open angle 
+glaucoma and controls. Aqueous humor proteome was analyzed by antibody 
+microarray. The expression of tested proteins was detected by protein Cy3/Cy5 
+labeling, column purification and hybridization on antibody-spotted glass 
+microarray. Fluorescent signals were detected by fluorescence laser scanning. 
+Aqueous humor levels of SOD as well as of GST were significantly lower (2.0- and 
+2.2-fold, p < 0.01) among patients than controls; both NOS and GS expression 
+were significantly higher (2.2- and 2.6 fold, p < 0.01) among patients than 
+controls. Our data showed substantial differences of GS, NOS2, SOD and GST 
+aqueous humor levels between glaucomatous patients and controls as measured by 
+antibody microarray technology. The overproduction of NO through inducible NOS 
+can form toxic products and change the metabolic conditions of the TM. The GS 
+over-expression might be related to neuronal injury or to the potential role of 
+glutamate as a modulator in the ciliary body signaling. The reduced expression 
+of the antioxidant enzymes SOD and GST could aggravate the unbalance between 
+both oxygen- and nitrogen-derived free radicals production and detoxification. 
+Based on our results, GS, NOS2, SOD and GST as measured by antibody microarray 
+technology may be useful oxidative markers in aqueous humor of glaucomatous 
+patients.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.exer.2012.07.011
+PMID: 22974818 [Indexed for MEDLINE]
+
+
+21. Lung. 2012 Oct;190(5):563-71. doi: 10.1007/s00408-012-9395-7. Epub 2012 Jun 23.
+
+Interferon γ stimulates accumulation of gas phase nitric oxide in differentiated 
+cultures of normal and cystic fibrosis airway epithelial cells.
+
+Ostrowski LE(1), Stewart D, Hazucha M.
+
+Author information:
+(1)Department of Cell and Developmental Biology, Cystic Fibrosis/Pulmonary 
+Research and Treatment Center, School of Medicine, The University of North 
+Carolina, CB# 7248, 6123A Thurston-Bowles Bldg., Chapel Hill, NC 27599-7248, 
+USA. ostro@med.unc.edu
+
+BACKGROUND: Exhaled nitric oxide (NO) levels have been reported to be lower in 
+patients with cystic fibrosis (CF) than in controls; however the mechanism(s) 
+responsible and the effect on pathogenesis are unclear. The objective of these 
+studies was to determine if the low levels of gas phase NO (gNO) could be 
+reproduced in well-differentiated air-liquid interface (ALI) cultures of normal 
+and CF cells.
+METHODS: Human bronchial epithelial (HBE) cells from CF and control tissues were 
+cultured under ALI conditions that promote differentiation into a mostly 
+ciliated, pseudostratified epithelium similar to that of the in vivo airway. 
+Cultures were incubated in gas tight chambers and the concentration of gNO was 
+measured using a Sievers nitric oxide analyzer.
+RESULTS: In CF and control cultures the level of accumulated gNO under baseline 
+conditions was low (<20 ppb). Treatment with interferon gamma (IFNγ) induced 
+iNOS expression and increased gNO significantly in differentiated cultures, 
+while having no significant effect on undifferentiated cultures. Submersion of 
+the apical surface with fluid drastically reduced the level of gNO. Importantly, 
+the average level of gNO measured after IFNγ treatment of control cells 
+(576 ppb) was threefold greater than that from CF cells (192 ppb).
+CONCLUSIONS: The results demonstrate that the lower level of exhaled NO observed 
+in CF patients is reproduced in well-differentiated primary cultures of HBE 
+cells treated with IFNγ, supporting the hypothesis that the regulation of NO 
+production is altered in CF. The results also demonstrate that IFNγ treatment of 
+differentiated cells results in higher levels of gNO than treatment of 
+undifferentiated cells, and that a layer of fluid on the apical surface 
+drastically reduces the amount of gNO, possibly by limiting the availability of 
+oxygen.
+
+DOI: 10.1007/s00408-012-9395-7
+PMCID: PMC4152005
+PMID: 22729230 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest L. E. Ostrowski, D. 
+Stewart, and Milan Hazucha have no conflicts of interest to disclose.
+
+
+22. Exp Cell Res. 2011 Oct 15;317(17):2548-53. doi: 10.1016/j.yexcr.2011.07.007. 
+Epub 2011 Jul 20.
+
+Regulation of ciliary beat frequency by the nitric oxide signaling pathway in 
+mouse nasal and tracheal epithelial cells.
+
+Jiao J(1), Wang H, Lou W, Jin S, Fan E, Li Y, Han D, Zhang L.
+
+Author information:
+(1)Key Laboratory of Otolaryngology, Head and Neck Surgery (Ministry of 
+Education), Beijing Institute of Otolaryngology, China.
+
+OBJECTIVES: Our purpose was to investigate the role of the nitric oxide (NO) 
+signaling pathway in the regulation of ciliary beat frequency (CBF) in mouse 
+nasal and tracheal epithelial cells.
+METHODS: We studied the effects of the NO donor l-arginine (L-Arg) and specific 
+inhibitors of the NO signaling pathway on CBF of both nasal and tracheal 
+epithelial cells by using high-speed digital microscopy. We also examined eNOS, 
+sGC β, PKG I and acetylated α tubulin expression in native mouse nasal and 
+tracheal epithelium using immunohistochemical methods.
+RESULTS: L-Arg significantly increased CBF of cultured nasal and tracheal 
+epithelial cells, and the effects were blocked by pretreatment with 
+N(G)-nitro-l-arginine methyl ester (L-NAME), a NOS inhibitor, with LY-83583, a 
+sGC inhibitor, or with KT-5823, a PKG inhibitor. Positive immunostaining for NO 
+signaling molecules including eNOS, sGC β and PKG I was observed in either nasal 
+or tracheal ciliated epithelium.
+CONCLUSION: NO plays a role in regulating CBF of mouse respiratory epithelial 
+cells via a eNOS-NO-sGC β-cGMP-PKG I pathway.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexcr.2011.07.007
+PMID: 21787770 [Indexed for MEDLINE]
+
+
+23. Cell Signal. 2011 Oct;23(10):1669-76. doi: 10.1016/j.cellsig.2011.06.001. Epub 
+2011 Jun 15.
+
+CNTF protects MIN6 cells against apoptosis induced by Alloxan and IL-1β through 
+downregulation of the AMPK pathway.
+
+Santos GJ(1), Oliveira CA, Boschero AC, Rezende LF.
+
+Author information:
+(1)Department of Anatomy, Cellular Biology and Physiology and Biophysics, 
+Institute of Biology, State University of Campinas, Brazil.
+
+Our group previously demonstrated that CNTF protects pancreatic islets against 
+apoptosis induced by IL1β. In addition, it is known that AMPK knockout protects 
+beta cells from IL1β-mediated apoptosis, however how AMPK activation leads to 
+apoptosis remains unknown. The present study was designed to investigate the 
+possible role of AMPK pathway modulation in CNTF protective effects against 
+apoptosis induced by IL1β or Alloxan and how AMPK activation leads to beta cells 
+apoptosis. First, we observed that apoptosis of MIN6 cells, induced by Alloxan 
+as well as IL-1β, requires activation of the AMPK pathway, and also that CNTF 
+protective effects are dependent on downregulation of AMPK. In addition, we 
+found that Alloxan induces AMPK differently from IL1β, as Alloxan acts mainly 
+through CaMKII while IL1β acts through LKB1 phosphorylation. Meanwhile, CNTF by 
+itself inhibited the AMPK pathway and protected against AMPK activation induced 
+by Alloxan or IL1β via downregulation of CaMKII. Finally, AMPK-dependent MIN6 
+cell apoptosis, induced by IL1β or Alloxan, required increased iNOS expression, 
+an effect that was reversed by CNTF downregulation of AMPK pathway and iNOS 
+expression. In conclusion, IL1β upregulates the LKB1-AMPK-INOS pathway, while 
+Alloxan acts through CaMKII-AMPK-INOS, both ultimately leading to beta cell 
+death. In this context, CNTF protects beta cells against apoptosis, induced by 
+either IL1β or Alloxan, through downregulation of the CaMKII-AMPK-INOS pathway.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellsig.2011.06.001
+PMID: 21689743 [Indexed for MEDLINE]
+
+
+24. Hum Pathol. 2011 Dec;42(12):1855-61. doi: 10.1016/j.humpath.2011.01.027. Epub 
+2011 Jun 12.
+
+Expression of nitric oxide synthases in primary ciliary dyskinesia.
+
+Degano B(1), Valmary S, Serrano E, Brousset P, Arnal JF.
+
+Author information:
+(1)Institut National de la Recherche Médicale Unité (U)858-I2MR, University 
+Hospital, 31059 Toulouse, France. bruno.degano@univ-fcomte.fr
+
+Nitric oxide is believed to play a central role in nonspecific defense of upper 
+airways. Patients with primary ciliary dyskinesia have very low concentration of 
+nasal nitric oxide, which may contribute to the chronic upper airway diseases 
+encountered by these patients. The mechanisms underlying this drop of nasal 
+nitric oxide in primary ciliary dyskinesia are still unknown. The goal of the 
+present work was to study nitric oxide synthases expression in upper airway 
+tissues from patients with primary ciliary dyskinesia. For this purpose, 5 
+patients with primary ciliary dyskinesia and 10 nonallergic age-matched patients 
+without primary ciliary dyskinesia undergoing nasal polypectomy were included. 
+Nasal nitric oxide concentration was measured before polypectomy, and nitric 
+oxide synthase expression and function were studied in nasal polyps. The nasal 
+nitric oxide in patients with primary ciliary dyskinesia was lower than that in 
+patients without primary ciliary dyskinesia (13 [9-16] ppb versus 210 [167-254] 
+ppb, P < .0001). Nitric oxide synthase 2 immunostaining was prominent at the 
+apical part of the ciliated epithelial cells and was similar in both groups. 
+Nitric oxide synthase 3 staining was restricted to endothelial cells in both 
+groups. In addition, reduced nicotinamide adenine dinucleotide phosphate 
+(NADPH)-diaphorase activity was superimposable to nitric oxide synthases 2 and 3 
+immunostaining, suggesting a preserved NADPH-activity of nitric oxide synthase. 
+We therefore conclude that the drop in nasal nitric oxide in patients with 
+primary ciliary dyskinesia is not secondary to the loss of nitric oxide synthase 
+expression.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.humpath.2011.01.027
+PMID: 21663943 [Indexed for MEDLINE]
+
+
+25. Eur Respir J. 2011 Mar;37(3):572-7. doi: 10.1183/09031936.00044310. Epub 2011 
+Jan 27.
+
+Nasal nitric oxide and nitric oxide synthase expression in primary ciliary 
+dyskinesia.
+
+Pifferi M(1), Bush A, Maggi F, Michelucci A, Ricci V, Conidi ME, Cangiotti AM, 
+Bodini A, Simi P, Macchia P, Boner AL.
+
+Author information:
+(1)Dept of Pediatrics, University of Pisa, Via Roma 67, 56126 Pisa, Italy. 
+m.pifferi@med.unipi.it
+
+No study has evaluated the correlation between different expression of nitric 
+oxide synthase (NOS) isoforms in nasal epithelial cells and nasal NO (nNO) level 
+in primary ciliary dyskinesia (PCD). Gene expression of endothelial (NOS3) and 
+inducible NOS (NOS2) and their correlation with nNO level, ciliary function and 
+morphology were studied in patients with PCD or secondary ciliary dyskinesia 
+(SCD). NOS3 gene polymorphisms were studied in blood leukocytes. A total of 212 
+subjects were studied (48 with PCD, 161 with SCD and three normal subjects). nNO 
+level correlated with mean ciliary beat frequency (p = 0.044; r = 0.174). The 
+lower the nNO level the higher was the percentage of immotile cilia (p<0.001; r 
+= -0.375). A significant positive correlation between NOS2 gene expression and 
+nNO levels was demonstrated in all children (p = 0.001; r = 0.428), and this 
+correlation was confirmed in patients with PCD (p = 0.019; r = 0.484). NOS2 gene 
+expression was lower in PCD than in SCD (p = 0.04). The NOS3 isoform correlated 
+with missing central microtubules (p = 0.048; r = 0.447). nNO levels were higher 
+in PCD subjects with the NOS3 thymidine 894 mutation, and this was associated 
+with a higher ciliary beat frequency (p = 0.045). These results demonstrate a 
+relationship between nNO level, NOS mRNA expression and ciliary beat frequency.
+
+DOI: 10.1183/09031936.00044310
+PMID: 21273388 [Indexed for MEDLINE]
+
+
+26. J Vet Med Sci. 2011 Apr;73(4):423-30. doi: 10.1292/jvms.10-0353. Epub 2010 Nov 
+5.
+
+Localization of eNOS in the olfactory epithelium of the rat.
+
+Endo D(1), Yamamoto Y, Yamaguchi-Yamada M, Nakamuta N, Taniguchi K.
+
+Author information:
+(1)Basic Veterinary Science, The United Graduate School of Veterinary Sciences, 
+Gifu University, Gifu, Japan.
+
+Nitric oxide (NO) is a free radical and produced from L-arginine by nitric oxide 
+synthase (NOS). Since NO is recently suggested to be involved in olfactory 
+perception, the expression of eNOS, an isoform of NOS, was examined in the rat 
+olfactory epithelium. The activity of NADPH-diaphorase was also examined as a 
+marker of NOS. In the dorsomedial region of the nasal cavity, intensely positive 
+reactions for NADPH-diaphorase were observed in the entire cytoplasm of sensory 
+cells (olfactory cells). By immunohistochemistry, intensely positive reactions 
+for eNOS were also found in the dorsomedial region of the nasal cavity. These 
+reactions were observed on the free border of the olfactory epithelium. By 
+immunoelectron microscopy, positive reactions for eNOS were found in the cilia 
+of olfactory cells. In addition, in situ hybridization analysis of the olfactory 
+epithelium revealed the expression of eNOS mRNA in the olfactory cells. These 
+results indicate the presence of eNOS in the olfactory cells of the rat, and 
+differential expression of eNOS in the olfactory epithelium depending on the 
+regions of the nasal cavity. In addition, NO produced by eNOS may be involved in 
+olfactory perception in the cilia of olfactory cells.
+
+DOI: 10.1292/jvms.10-0353
+PMID: 21068516 [Indexed for MEDLINE]
+
+
+27. Invest Ophthalmol Vis Sci. 2010 Sep;51(9):4683-93. doi: 10.1167/iovs.09-4733. 
+Epub 2010 Apr 14.
+
+A peptide inhibitor of c-Jun N-terminal kinase for the treatment of 
+endotoxin-induced uveitis.
+
+Touchard E(1), Omri S, Naud MC, Berdugo M, Deloche C, Abadie C, Jonet L, Jeanny 
+JC, Crisanti P, de Kozak Y, Combette JM, Behar-Cohen F.
+
+Author information:
+(1)INSERM, U872 Physiopathology of Ocular Diseases/Therapeutic Innovations, 
+Paris, France.
+
+PURPOSE: To evaluate the effect of XG-102 (formerly D-JNKI1), a TAT-coupled 
+dextrogyre peptide that selectively inhibits the c-Jun N-terminal kinase, in the 
+treatment of endotoxin-induced uveitis (EIU).
+METHODS: EIU was induced in Lewis rats by LPS injection. XG-102 was administered 
+at the time of LPS challenge. The ocular biodistribution of XG-102 was evaluated 
+using immunodetection at 24 hours after either 20 microg/kg IV (IV) or 0.2 
+microg/injection intravitreous (IVT) administrations in healthy or uveitic eyes. 
+The effect of XG-102 on EIU was evaluated using clinical scoring, infiltration 
+cell quantification, inducible nitric oxide synthase (iNOS) expression and 
+immunohistochemistry, and cytokines and chemokines kinetics at 6, 24, and 48 
+hours using multiplex analysis on ocular media. Control EIU eyes received 
+vehicle injection IV or IVT. The effect of XG-102 on c-Jun phosphorylation in 
+EIU was evaluated by Western blot in eye tissues.
+RESULTS: After IVT injection, XG-102 was internalized in epithelial cells from 
+iris/ciliary body and retina and in glial and microglial cells in both healthy 
+and uveitic eyes. After IV injection, XG-102 was concentrated primarily in 
+inflammatory cells of uveitic eyes. Using both routes of administration, XG-102 
+significantly inhibited clinical signs of EIU, intraocular cell infiltration, 
+and iNOS expression together with reduced phosphorylation of c-Jun. The 
+anti-inflammatory effect of XG-102 was mediated by iNOS, IFN-gamma, IL-2, and 
+IL-13.
+CONCLUSIONS: This is the first evidence that interfering with the JNK pathway 
+can reduce intraocular inflammation. Local administration of XG-102, a 
+clinically evaluated peptide, may have potential for treating uveitis.
+
+DOI: 10.1167/iovs.09-4733
+PMID: 20393119 [Indexed for MEDLINE]
+
+
+28. Exp Eye Res. 2010 May;90(5):555-63. doi: 10.1016/j.exer.2010.01.012. Epub 2010 
+Feb 4.
+
+Inhibition of aldose reductase attenuates endotoxin signals in human 
+non-pigmented ciliary epithelial cells.
+
+Yadav UC(1), Srivastava SK, Ramana KV.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Texas Medical 
+Branch, 6.644 Basic Science Building, 301 University Blvd., Galveston, TX 
+77555-0647, USA.
+
+Chronic inflammatory diseases such as autoimmune and bacterial infections are 
+associated with an elevated risk of ocular inflammation. Ciliary epithelial 
+cells that play an important role in maintaining aqueous humor dynamics and 
+homeostasis of anterior segment of eye are continuously exposed to inflammatory 
+markers during infections and injury. Lipopolysacchharide (LPS), a Gram-negative 
+bacterial endotoxin, dysregulates aqueous humor (AqH) homeostasis by inducing 
+inflammatory changes. We have investigated how inhibition of a polyol pathway 
+enzyme, aldose reductase (AR), alters LPS-induced inflammatory changes in human 
+non-pigmented ciliary epithelial cells (hNPECs). The stimulation of hNPECs with 
+LPS (1 microg/ml) caused increased secretion of inflammatory markers such as 
+PGE(2) and NO in the culture medium as well as increased expression of COX-2 and 
+iNOS proteins in cell extracts. LPS also increased phosphorylation of MAPKs 
+(ERK1/2) and SAPK/JNK and activation of redox-sensitive transcription factors 
+NF-kappaB and AP-1 in hNPECs and inhibition of AR by zopolrestat and sorbinil 
+ameliorated these changes. Further, LPS-induced decrease in the expression of 
+Na/K-ATPase in hNPECs was restored by AR inhibitors. Similar results were 
+observed in ciliary bodies of LPS-injected rats. Taken together, our results 
+suggest that AR plays an important role in the LPS-induced inflammatory changes 
+in hNPECs and that inhibition of AR could be a novel therapeutic approach for 
+ocular inflammation.
+
+(c) 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.exer.2010.01.012
+PMCID: PMC2854217
+PMID: 20138035 [Indexed for MEDLINE]
+
+
+29. ORL J Otorhinolaryngol Relat Spec. 2010;72(1):6-11. doi: 10.1159/000265683. Epub 
+2010 Jan 22.
+
+Regulation of tracheal ciliary beat frequency by nitric oxide synthase substrate 
+L-arginine.
+
+Jiao J(1), Han D, Meng N, Jin S, Zhang L.
+
+Author information:
+(1)Laboratory of Otolaryngology, Head and Neck Surgery, Ministry of Education, 
+Beijing Institute of Otolaryngology, Beijing, China.
+
+OBJECTIVES: Our purpose was to investigate the role of nitric oxide (NO) 
+synthase substrate L-arginine (L-arg) in the regulation of airway ciliary beat 
+frequency (CBF).
+METHODS: We studied the effects of L-arg on CBF of rabbit tracheal epithelial 
+cells by using high-speed digital microscopy and determined the expression and 
+distribution of neuronal nitric oxide synthase (nNOS), inducible nitric oxide 
+synthase (iNOS) and endothelial nitric oxide synthase (eNOS) in intact tracheal 
+mucosa and in isolated cilia by using immunohistochemistry and Western blot, 
+respectively.
+RESULTS: L-arg dose- and time-dependently increased CBF compared with the 
+control groups, and the effect was blocked by pretreatment with the NOS 
+inhibitor N(G)-nitro-L-arginine methyl ester (L-NAME). Immunoreactivity to 3 
+isoforms of NOS (nNOS, iNOS, and eNOS) was observed in cilia of epithelial 
+cells, and the signal intensity of eNOS was stronger than that of both nNOS and 
+iNOS. Western blot analysis of isolated ciliary preparations also detected all 3 
+isoforms of NOS, and the expression level is eNOS > nNOS > iNOS.
+CONCLUSION: L-arg increases the CBF of rabbit tracheal epithelial cells via the 
+NOS-NO signal pathway.
+
+DOI: 10.1159/000265683
+PMID: 20110742 [Indexed for MEDLINE]
+
+
+30. Mol Cell Neurosci. 2010 Feb;43(2):244-57. doi: 10.1016/j.mcn.2009.11.007. Epub 
+2009 Dec 1.
+
+PACAP/PAC1R signaling modulates acetylcholine release at neuronal nicotinic 
+synapses.
+
+Pugh PC(1), Jayakar SS, Margiotta JF.
+
+Author information:
+(1)University of Toledo College of Medicine, Department of Neurosciences, 
+Toledo, OH 43614-5804, USA.
+
+Neuropeptides collaborate with conventional neurotransmitters to regulate 
+synaptic output. Pituitary adenylate cyclase-activating polypeptide (PACAP) 
+co-localizes with acetylcholine in presynaptic nerve terminals, is released by 
+stimulation, and enhances nicotinic acetylcholine receptor- (nAChR-) mediated 
+responses. Such findings implicate PACAP in modulating nicotinic 
+neurotransmission, but relevant synaptic mechanisms have not been explored. We 
+show here that PACAP acts via selective high-affinity G-protein coupled 
+receptors (PAC(1)Rs) to enhance transmission at nicotinic synapses on 
+parasympathetic ciliary ganglion (CG) neurons by rapidly and persistently 
+increasing the frequency and amplitude of spontaneous, impulse-dependent 
+nicotinic excitatory postsynaptic currents (sEPSCs). Of the canonical adenylate 
+cyclase (AC) and phospholipase-C (PLC) transduction cascades stimulated by 
+PACAP/PAC(1)R signaling, only AC-generated signals are critical for synaptic 
+modulation since the increases in sEPSC frequency and amplitude were mimicked by 
+8-Bromo-cAMP, blocked by inhibiting AC or cAMP-dependent protein kinase (PKA), 
+and unaffected by inhibiting PLC. Despite its ability to increase 
+agonist-induced nAChR currents, PACAP failed to influence nAChR-mediated 
+impulse-independent miniature EPSC amplitudes (quantal size). Instead, evoked 
+transmission assays reveal that PACAP/PAC(1)R signaling increased quantal 
+content, indicating that it modulates synaptic function by increasing vesicular 
+ACh release from presynaptic terminals. Lastly, signals generated by the 
+retrograde messenger, nitric oxide- (NO-) are critical for the synaptic 
+modulation since the PACAP-induced increases in spontaneous EPSC frequency, 
+amplitude and quantal content were mimicked by NO donor and absent after 
+inhibiting NO synthase (NOS). These results indicate that PACAP/PAC(1)R 
+activation recruits AC-dependent signaling that stimulates NOS to increase NO 
+production and control presynaptic transmitter output at neuronal nicotinic 
+synapses.
+
+Copyright 2009 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcn.2009.11.007
+PMCID: PMC2818583
+PMID: 19958833 [Indexed for MEDLINE]
+
+
+31. J Dermatol. 2009 Jun;36(6):335-45. doi: 10.1111/j.1346-8138.2009.00649.x. Epub 
+2009 Apr 28.
+
+Ultraviolet A irradiation of the eye activates a nitric oxide-dependent 
+hypothalamo-pituitary pro-opiomelanocortin pathway and modulates the functions 
+of Langerhans cells.
+
+Hiramoto K(1).
+
+Author information:
+(1)Department of Basic Research, Kitasato Institute, Tokyo, Japan. 
+hiramoto@msic.med.osaka-cu.ac.jp
+
+Ultraviolet A (UV-A) radiation decreases Langerhans cells (LC) in the skin 
+specifically at the site of exposure. Unexpectedly, UV-A irradiation of the eye 
+has been found systemically downregulating epidermal LC in mice. Male C57BL/6j 
+mice and an inducible type of nitric oxide synthase knockout mice (iNOS(-/-)) 
+were used in this study. The eye or ear was locally exposed to UV-A after 
+covering the remaining body surface with aluminum foil at a dose of 110 kJ/m(2) 
+using a sunlamp. Localized UV-A irradiation of the eye downregulated epidermal 
+LC. The hypophysectomy strongly inhibited the UV-A-induced downregulation of LC. 
+To elucidate the pathway by UV-A irradiation of the eye, the effect of a 
+bilateral ciliary ganglionectomy and denervation of the optic nerves was 
+examined. Optic nerve denervation strongly inhibited LC downregulation in 
+response to localized irradiation of the eye. Furthermore, no LC downregulation 
+in response to localized UV-A irradiation of the eye was observed in iNOS(-/-) 
+mice. These results clearly indicate that a signal evoked by UV-A irradiation of 
+the eye is transmitted in a nitric oxide-dependent manner through the optic 
+nerves to the hypothalamo-pituitary pro-opiomelanocortin system.
+
+DOI: 10.1111/j.1346-8138.2009.00649.x
+PMID: 19500182 [Indexed for MEDLINE]
+
+
+32. Fertil Steril. 2010 Aug;94(3):833-40. doi: 10.1016/j.fertnstert.2009.04.020. 
+Epub 2009 May 30.
+
+The expression of inducible nitric oxide synthase in the human fallopian tube 
+during the menstrual cycle and in ectopic pregnancy.
+
+Al-Azemi M(1), Refaat B, Amer S, Ola B, Chapman N, Ledger W.
+
+Author information:
+(1)Academic Unit of Reproductive and Developmental Medicine, Royal Hallamshire 
+Hospital, Sheffield, United Kingdom.
+
+OBJECTIVE: To investigate the production of inducible nitric oxide synthase 
+(iNOS) in the fallopian tube (FT) during the menstrual cycle and whether 
+epithelia from FTs bearing an ectopic pregnancy differ from healthy tubes in 
+iNOS expression.
+DESIGN: Prospective study.
+SETTING: Academic unit of reproductive and developmental medicine.
+PATIENT(S): Fallopian tubes from the different stages of the menstrual cycle 
+(n=12), FTs bearing an ectopic pregnancy (n=15), and FTs from pseudopregnant 
+women (n=6) were collected.
+INTERVENTION(S): In the pseudopregnant group, patients were injected with hCG in 
+the days leading up to hysterectomy. Samples were processed for 
+immunohistochemistry staining and quantitative reverse transcriptase polymerase 
+chain reaction.
+MAIN OUTCOME MEASURE(S): To compare iNOS protein and messenger RNA expression 
+between the different groups.
+RESULT(S): This is the first report on cyclicity in iNOS production by human 
+fallopian tube during the menstrual cycle. The intensity of expression of iNOS 
+was higher in the ectopic pregnancy group compared with the pseudopregnant group 
+(P<0.05).
+CONCLUSION(S): The cyclicity in iNOS expression by the tube suggests its 
+involvement in fertilization and early embryonic development. Pathologic 
+generation of nitric oxide through increase iNOS production may decrease tubal 
+ciliary beats and smooth muscle contractions and thus affect embryo transport, 
+which may consequently result in ectopic pregnancy.
+
+Copyright (c) 2010 American Society for Reproductive Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.fertnstert.2009.04.020
+PMID: 19482272 [Indexed for MEDLINE]
+
+
+33. Free Radic Biol Med. 2009 Aug 1;47(3):300-6. doi: 
+10.1016/j.freeradbiomed.2009.04.033. Epub 2009 May 3.
+
+Nrf2 is a critical modulator of the innate immune response in a model of 
+uveitis.
+
+Nagai N(1), Thimmulappa RK, Cano M, Fujihara M, Izumi-Nagai K, Kong X, Sporn MB, 
+Kensler TW, Biswal S, Handa JT.
+
+Author information:
+(1)Wilmer Eye Institute, Johns Hopkins School of Medicine, Johns Hopkins 
+University, Baltimore, MD 21205, USA.
+
+Uveitis is an inflammatory condition that can lead to blindness. It is therefore 
+important to understand the pathophysiology against which to develop targeted 
+therapy. Herein, we tested whether the oxidant-responsive transcription factor 
+Nrf2 is involved in regulating the innate immune response and oxidative damage 
+in the LPS uveitis model. As shown by dihydroethidium staining, 
+intraperitoneally injected LPS increased reactive oxygen species in the retina 
+and iris-ciliary body of Nrf2+/+ and Nrf2-/- mice. After LPS injection, ICAM-1, 
+IL-6, TNF-alpha, COX-2, iNOS, and MCP-1 mRNAs were increased more in the retina 
+and iris-ciliary body of Nrf2-/- than in those of Nrf2+/+ mice. NQO-1 and GCLM, 
+two Nrf2-responsive antioxidant enzymes, had reduced expression in Nrf2+/+ 
+retinas after LPS injection, but no change in expression in Nrf2-/- mice. The 
+number of FITC-Con A-labeled leukocytes adherent to the retinal vascular 
+endothelium increased after LPS treatment in both Nrf2+/+ and Nrf2-/- mice 
+compared to control injections, with more adherent leukocytes in Nrf2-/- than in 
+Nrf2+/+ mice. Pretreatment with the Nrf2 activator 
+1-(2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oyl)imidazole increased antioxidant 
+gene expression in the retina, reduced inflammatory mediator expression, and 
+reduced leukocyte adherence to retinal vasculature after LPS treatment in 
+Nrf2+/+ mice, but had no effect on Nrf2-/- mice. Treatment targeting the Nrf2 
+pathway may be a new therapy for uveitis.
+
+DOI: 10.1016/j.freeradbiomed.2009.04.033
+PMCID: PMC2700746
+PMID: 19410644 [Indexed for MEDLINE]
+
+
+34. Invest Ophthalmol Vis Sci. 2009 Apr;50(4):1761-8. doi: 10.1167/iovs.08-3027.
+
+Local ocular immunomodulation resulting from electrotransfer of plasmid encoding 
+soluble TNF receptors in the ciliary muscle.
+
+Kowalczuk L(1), Touchard E, Camelo S, Naud MC, Castaneda B, Brunel N, 
+Besson-Lescure B, Thillaye-Goldenberg B, Bigey P, BenEzra D, de Kozak Y, 
+Behar-Cohen F.
+
+Author information:
+(1)INSERM UMRS 872 Team17, Centre de Recherches des Cordeliers, Université 
+Pierre et Marie Curie, Université Paris Descartes, Paris, France.
+
+PURPOSE: Plasmid electrotransfer in the ciliary muscle allows the sustained 
+release of therapeutic proteins within the eye. The aim of this study was to 
+evaluate whether the ocular production of TNF-alpha soluble receptor, using this 
+nonviral gene therapy method, could have a beneficial local effect in a model of 
+experimental autoimmune uveoretinitis (EAU).
+METHODS: Injection of a plasmid encoding a TNF-alpha p55 receptor (30 microg) in 
+the ciliary muscle, combined with electrotransfer (200 V/cm), was carried out in 
+Lewis rat eyes 4 days before the induction of EAU by S-antigen. Control eyes 
+received naked plasmid electrotransfer or simple injection of the therapeutic 
+plasmid. The disease was evaluated clinically and histologically. Cytokines and 
+chemokines were analyzed in the ocular media by multiplex assay performed 15 and 
+21 days after immunization.
+RESULTS: Ocular TNF-alpha blockade, resulting from the local secretion of 
+soluble receptors, was associated with delayed and significantly less severe 
+uveitis, together with a reduction of the retinal damages. Compared with the 
+controls, treated eyes showed significantly lower levels of IL-1beta and MCP1, 
+higher levels of IL-13 and IL-4, and reduced NOS-2 expression in infiltrating 
+cells. Treatment did not influence TNF-alpha levels in inguinal lymph nodes.
+CONCLUSIONS: Taken together, these results indicate that local immunomodulation 
+was achieved and that no systemic adverse effects of TNF-alpha blockade observed 
+after systemic injection of TNF-alpha inhibitors should be expected.
+
+DOI: 10.1167/iovs.08-3027
+PMID: 19321795 [Indexed for MEDLINE]
+
+
+35. Respir Res. 2009 Jan 19;10(1):3. doi: 10.1186/1465-9921-10-3.
+
+Nitric oxide gas phase release in human small airway epithelial cells.
+
+Jiang J(1), Malavia N, Suresh V, George SC.
+
+Author information:
+(1)Department of Biomedical Engineering, University of California Irvine, 
+Irvine, CA, USA. jingjinj@uci.edu
+
+BACKGROUND: Asthma is a chronic airway inflammatory disease characterized by an 
+imbalance in both Th1 and Th2 cytokines. Exhaled nitric oxide (NO) is elevated 
+in asthma, and is a potentially useful non-invasive marker of airway 
+inflammation. However, the origin and underlying mechanisms of intersubject 
+variability of exhaled NO are not yet fully understood. We have previously 
+described NO gas phase release from normal human bronchial epithelial cells 
+(NHBEs, tracheal origin). However, smaller airways are the major site of 
+morbidity in asthma. We hypothesized that IL-13 or cytomix (IL-1beta, TNF-alpha, 
+and IFN-gamma) stimulation of differentiated small airway epithelial cells 
+(SAECs, generation 10-12) and A549 cells (model cell line of alveolar type II 
+cells) in culture would enhance NO gas phase release.
+METHODS: Confluent monolayers of SAECs and A549 cells were cultured in Transwell 
+plates and SAECs were allowed to differentiate into ciliated and mucus producing 
+cells at an air-liquid interface. The cells were then stimulated with IL-13 (10 
+ng/mL) or cytomix (10 ng/mL for each cytokine). Gas phase NO release in the 
+headspace air over the cells was measured for 48 hours using a chemiluminescence 
+analyzer.
+RESULTS: In contrast to our previous result in NHBE, baseline NO release from 
+SAECs and A549 is negligible. However, NO release is significantly increased by 
+cytomix (0.51 +/- 0.18 and 0.29 +/- 0.20 pl.s-1.cm-2, respectively) reaching a 
+peak at approximately 10 hours. iNOS protein expression increases in a 
+consistent pattern both temporally and in magnitude. In contrast, IL-13 only 
+modestly increases NO release in SAECs reaching a peak (0.06 +/- 0.03 
+pl.s-1.cm-2) more slowly (30 to 48 hours), and does not alter NO release in A549 
+cells.
+CONCLUSION: We conclude that the airway epithelium is a probable source of NO in 
+the exhaled breath, and intersubject variability may be due, in part, to 
+variability in the type (Th1 vs Th2) and location (large vs small airway) of 
+inflammation.
+
+DOI: 10.1186/1465-9921-10-3
+PMCID: PMC2633284
+PMID: 19152703 [Indexed for MEDLINE]
+
+
+36. Invest Ophthalmol Vis Sci. 2009 May;50(5):2276-82. doi: 10.1167/iovs.08-2816. 
+Epub 2009 Jan 10.
+
+Prevention of endotoxin-induced uveitis in rats by benfotiamine, a lipophilic 
+analogue of vitamin B1.
+
+Yadav UC(1), Subramanyam S, Ramana KV.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Texas Medical 
+Branch, Galveston, Texas 77555-0647, USA.
+
+PURPOSE: To study the amelioration of ocular inflammation in endotoxin-induced 
+uveitis (EIU) in rats by benfotiamine, a lipid-soluble analogue of thiamine.
+METHODS: EIU in Lewis rats was induced by subcutaneous injection of 
+lipopolysaccharide (LPS) followed by treatment with benfotiamine. The rats were 
+killed 3 or 24 hours after LPS injection, eyes were enucleated, aqueous humor 
+(AqH) was collected, and the number of infiltrating cells, protein 
+concentration, and inflammatory marker levels were determined. 
+Immunohistochemical analysis of eye sections was performed to determine the 
+expression of inducible-nitric oxide synthase (iNOS), cyclooxygenase (Cox)-2, 
+protein kinase C (PKC), and transcription factor NF-kappaB.
+RESULTS: Infiltrating leukocytes, protein concentrations, and inflammatory 
+cytokines and chemokines were significantly elevated in the AqH of EIU rats 
+compared with control rats, and benfotiamine treatment suppressed these 
+increases. Similarly increased expression of inflammatory markers iNOS and Cox-2 
+in ciliary body and retinal wall was also significantly inhibited by 
+benfotiamine. The increased phosphorylation of PKC and the activation of 
+NF-kappaB in the ciliary body and in the retinal wall of EIU rat eyes were 
+suppressed by benfotiamine.
+CONCLUSIONS: These results suggest that benfotiamine suppresses oxidative 
+stress-induced NF-kappaB-dependent inflammatory signaling leading to uveitis. 
+Therefore, benfotiamine could be used as a novel therapeutic agent for the 
+treatment of ocular inflammation, especially uveitis.
+
+DOI: 10.1167/iovs.08-2816
+PMCID: PMC2685466
+PMID: 19136698 [Indexed for MEDLINE]
+
+
+37. Vet Immunol Immunopathol. 2008 Dec 15;126(3-4):171-98. doi: 
+10.1016/j.vetimm.2008.07.013. Epub 2008 Aug 3.
+
+Fish immunity and parasite infections: from innate immunity to 
+immunoprophylactic prospects.
+
+Alvarez-Pellitero P(1).
+
+Author information:
+(1)Instituto de Acuicultura de Torre de la Sal, Consejo Superior de 
+Investigaciones Científicas, Torre de la Sal s/n, 12595 Ribera de Cabanes, 
+Castellón, Spain. alvarezp@iats.csic.es
+
+The increasing economic importance of fish parasitoses for aquaculture and 
+fisheries has enhanced the interest in the defence mechanisms against these 
+infections. Both innate and adaptive immune responses are mounted by fish to 
+control parasite infections, and several mechanisms described for mammalian 
+parasitoses have also been demonstrated in teleosts. Innate immune initiation 
+relies on the recognition of pathogen-associated molecular patterns (PAMPs) by 
+pathogen recognizing receptors (PRRs). A number of PRRs, mainly Toll-like 
+receptors (TLRs), have been characterized in fish, and some molecules 
+susceptible of functioning as PAMPs are known for some fish parasites. A 
+lectin-carbohydrate interaction has also been described in some host 
+fish-parasite systems, thus probably involving C-type lectin receptors. 
+Inflammatory reactions involving cellular reactions, as phagocytosis and 
+phagocyte activity (including oxidative mechanisms), as well as complement 
+activity, are modulated by many fish parasites, including mainly ciliates, 
+flagellates and myxozoans. Besides complement, a number of humoral immune 
+factors (peroxidases, lysozyme, acute-phase proteins) are also implicated in the 
+response to some parasites. Among adaptive responses, most data deal with the 
+presence of B lymphocytes and the production of specific antibodies (Abs). 
+Although an increasing number of T-cell markers have been described for 
+teleosts, the specific characterization of those involved in their response is 
+far from being obtained. Gene expression studies have demonstrated the 
+involvement of other mediators of the innate and adaptive responses, i.e., 
+cytokines [interleukins (IL-1, IL-8), tumor necrosis factor (TNF), interferon 
+(IFN)], chemokines (CXC, CC), as well as several oxidative enzymes [inducible 
+nitric oxide synthase (iNOS), cyclo-oxygenase 2 (COX-2)]. Information is scarcer 
+for factors more directly linked to adaptive responses, such as major 
+histocompatibility (MH) receptors, T cell receptors (TCRs) and IgM. Expression 
+of some immune genes varied according to the phase of infection, and 
+proinflammatory cytokines were mainly activated in the early stages. Gene 
+expression was generally higher in the target tissues for some skin and gill 
+parasites, as Ichthyophthirius multifiliis, Neoparamoeba spp. and Lepeophtheirus 
+salmonis, thus confirming the relevance of mucosal immunity in these infections. 
+The existence of protective responses has been demonstrated for several fish 
+parasites, both in natural infections and in immunization studies. Most 
+information on the mechanisms involved in protection deals with the production 
+of specific Abs. Nevertheless, their levels are not always correlated to 
+protection, and the precise involvement of immune mechanisms in the response is 
+unknown in many cases. No commercial vaccine is currently available for piscine 
+parasitoses, although experimental vaccines have been assayed against I. 
+multifiliis, Cryptobia salmositica and scuticociliates. The known information 
+points to the need for integrated studies of the mechanisms involved in 
+protection, in order to choose the optimum antigen candidates, adjuvants and 
+formulations.
+
+DOI: 10.1016/j.vetimm.2008.07.013
+PMID: 18783835 [Indexed for MEDLINE]
+
+
+38. J Huazhong Univ Sci Technolog Med Sci. 2007 Jun;27(3):230-2. doi: 
+10.1007/s11596-007-0303-y.
+
+Effects of activated ACM on expression of signal transducers in cerebral 
+cortical neurons of rats.
+
+Wang X(1), Li Z, Zhu C, Li Z.
+
+Author information:
+(1)Department of Anatomy, Xu Zhou Medical college, Xu Zhou 221004, China. 
+wangxiaojing8888@163.com
+
+To explore the roles of astrocytes in the epileptogenesis, astrocytes and 
+neurons were isolated, purified and cultured in vitro from cerebral cortex of 
+rats. The astrocytes were activated by ciliary neurotrophic factor (CNTF) and 
+astrocytic conditioned medium (ACM) was collected to treat neurons for 4, 8 and 
+12 h. By using Western blot, the expression of calmodulin dependent protein 
+kinase II (CaMK II), inducible nitric oxide synthase (iNOS) and adenylate 
+cyclase (AC) was detected in neurons. The results showed that the expression of 
+CaMK II, iNOS and AC was increased significantly in the neurons treated with ACM 
+from 4 h to 12 h (P<0.05), and that of iNOS and AC peaked at 8 h and 12 h 
+respectively. It was suggested that there might be some epileptogenic factors in 
+the ACM and such signal pathways as NOS-NO-cGMP, Ca2+/CaM-CaMK II and 
+AC-cAMP-PKA might take part in the signal transduction of epileptogenesis.
+
+DOI: 10.1007/s11596-007-0303-y
+PMID: 17641829 [Indexed for MEDLINE]
+
+
+39. Dev Dyn. 2007 Jun;236(6):1535-46. doi: 10.1002/dvdy.21161.
+
+Development of nitric oxide synthase-defined neurons in the sea urchin larval 
+ciliary band and evidence for a chemosensory function during metamorphosis.
+
+Bishop CD(1), Brandhorst BP.
+
+Author information:
+(1)Kewalo Marine Laboratories, University of Hawaii, Honolulu, Hawaii, USA. 
+cdbishop@dal.ca
+
+We previously reported that initiation of metamorphosis of larvae of Lytechinus 
+pictus is negatively regulated by nitric oxide (NO) and cGMP. We have examined 
+the expression of nitric oxide synthase (NOS) and cGMP in cells of the 
+developing larva. A section of the post-oral ciliary band of feeding larvae 
+includes neural cells defined by their expression of both NOS and the echinoderm 
+neural-specific antibody 1E11. These neurons project processes to the pre-oral 
+neuropile during larval development. Larvae regenerated this section of the 
+ciliary band after its excision, complete with NOS-defined neurons that 
+projected again to the pre-oral neuropile. Excision of ectoderm containing the 
+post-oral ciliary band prevented a behavioral and morphogenetic response of 
+competent larvae to biofilm, and delayed initiation of metamorphosis. Elevated 
+cGMP levels were detected in several larval and juvenile cell types prior to 
+metamorphosis. Treatment of larvae with ODQ, an inhibitor of soluble guanylate 
+cyclase, decreased cGMP levels and induced metamorphosis while a generator of NO 
+counteracted this effect, indicating inhibition of metamorphosis by NO operates 
+via interaction with soluble guanylate cyclase. We discuss these observations, 
+proposing that the NOS-defined neurons in the post-oral ciliary band have a 
+chemosensory function during settlement and metamorphosis that involves 
+morphologically specialized ectoderm and manipulation of fluid flow. We provide 
+a tentative cellular model of how environmental signals may be transduced into a 
+metamorphic response.
+
+Copyright 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/dvdy.21161
+PMID: 17474125 [Indexed for MEDLINE]
+
+
+40. Dev Biol. 2006 Dec 15;300(2):583-98. doi: 10.1016/j.ydbio.2006.09.002. Epub 2006 
+Sep 9.
+
+The CNTF/LIF signaling pathway regulates developmental programmed cell death and 
+differentiation of rod precursor cells in the mouse retina in vivo.
+
+Elliott J(1), Cayouette M, Gravel C.
+
+Author information:
+(1)Institut de Recherches Cliniques de Montréal (IRCM), 110, avenue des Pins 
+Ouest Montréal, Québec, Canada H2W 1R7.
+
+Natural cell death is critical for normal development of the nervous system, but 
+the extracellular regulators of developmental cell death remain poorly 
+characterized. Here, we studied the role of the CNTF/LIF signaling pathway 
+during mouse retinal development in vivo. We show that exposure to CNTF during 
+neonatal retinal development in vivo retards rhodopsin expression and results in 
+an important and specific deficit in photoreceptor cells. Detailed analysis 
+revealed that exposure to CNTF during retinal development causes a sharp 
+increase in cell death of postmitotic rod precursor cells. Importantly, we show 
+that blocking the CNTF/LIF signaling pathway during mouse retinal development in 
+vivo results in a significant reduction of naturally occurring cell death. Using 
+retroviral lineage analysis, we demonstrate that exposure to CNTF causes a 
+specific reduction of clones containing only rods without affecting other clone 
+types, whereas blocking the CNTF/LIF receptor complex causes a specific increase 
+of clones containing only rods. In addition, we show that stimulation of the 
+CNTF/LIF pathway positively regulates the expression of the neuronal and 
+endothelial nitric oxide synthase (NOS) genes, and blocking nitric oxide 
+production by pre-treatment with a NOS inhibitor abolishes CNTF-induced cell 
+death. Taken together, these results indicate that the CNTF/LIF signaling 
+pathway acts via regulation of nitric oxide production to modulate developmental 
+programmed cell death of postmitotic rod precursor cells.
+
+DOI: 10.1016/j.ydbio.2006.09.002
+PMID: 17054938 [Indexed for MEDLINE]
+
+
+41. Free Radic Biol Med. 2006 Aug 15;41(4):515-27. doi: 
+10.1016/j.freeradbiomed.2006.05.011. Epub 2006 May 26.
+
+Nitric oxide and reactive nitrogen species in airway epithelial signaling and 
+inflammation.
+
+Bove PF(1), van der Vliet A.
+
+Author information:
+(1)Department of Pathology, College of Medicine, University of Vermont, 
+Burlington, VT 05405, USA.
+
+Nitric oxide (NO(.-)) is produced by many diverse cell types as a cellular or 
+intracellular signaling molecule, by the activation of nitric oxide synthases 
+(NOSs). All three known NOS isoforms are expressed within the respiratory tract 
+and mediate various airway functional properties such as airway smooth muscle 
+tone, ciliary function, epithelial electrolyte transport, and innate host 
+defense. The respiratory epithelium is a major source of NO(.-), in which it 
+regulates normal epithelial cell function and signaling as well as signaling 
+pathways involved in airway inflammation. In addition to its normal 
+physiological properties, increased airway NO(.-) production in inflammatory 
+respiratory tract diseases such as asthma may activate additional signaling 
+mechanisms to regulate inflammatory-immune pathways, and epithelial barrier 
+(dys)function or repair. The biological actions of NO(.-) are controlled at 
+various levels, including mechanisms that regulate NOS localization and 
+activation, and variable oxidative metabolism of NO(.-), resulting in generation 
+of bioactive reactive nitrogen species (RNS). Moreover, in addition to altered 
+production of NO(.-) or RNS, the presence of various target enzymes and/or 
+metabolic regulators of NO(.-)/RNS can be dramatically altered during airway 
+inflammatory conditions, and contribute to alterations in NO(.-)-mediated 
+signaling pathways in disease. This review summarizes current knowledge 
+regarding NO(.-)-mediated epithelial signaling, as well as disease-related 
+changes in airway NOS biology and target enzymes that affect NO(.-)/RNS 
+signaling mechanisms. A detailed understanding of these various changes and 
+their impact on NO(.-) signaling pathways are needed to fully appreciate the 
+contributions of NO(.-)/RNS to airway inflammation and to develop suitable 
+therapeutic approaches based on regulating NO(.-) function.
+
+DOI: 10.1016/j.freeradbiomed.2006.05.011
+PMID: 16863984 [Indexed for MEDLINE]
+
+
+42. Biol Bull. 2006 Apr;210(2):109-20. doi: 10.2307/4134600.
+
+Programmed cell death in the apical ganglion during larval metamorphosis of the 
+marine mollusc Ilyanassa obsoleta.
+
+Gifondorwa DJ(1), Leise EM.
+
+Author information:
+(1)Department of Biology, University of North Carolina Greensboro, Greensboro, 
+North Carolina 27402-6170, USA.
+
+The apical ganglion (AG) of larval caenogastropods, such as Ilyanassa obsoleta, 
+houses a sensory organ, contains five serotonergic neurons, innervates the 
+muscular and ciliary components of the velum, and sends neurites into a neuropil 
+that lies atop the cerebral commissure. During metamorphosis, the AG is lost. 
+This loss had been postulated to occur through some form of programmed cell 
+death (PCD), but it is possible for cells within the AG to be respecified or to 
+migrate into adjacent ganglia. Evidence from histological sections is supported 
+by results from a terminal deoxynucleotidyl transferase dUTP nick end labeling 
+(TUNEL) assay, which indicate that cells of the AG degenerate by PCD. PCD occurs 
+after metamorphic induction by serotonin or by inhibition of nitric oxide 
+synthase (NOS) activity. Cellular degeneration and nuclear condensation and loss 
+were observed within 12 h of metamorphic induction by NOS inhibition and occur 
+before loss of the velar lobes, the ciliated tissue used for larval swimming and 
+feeding. Velar disintegration happens more rapidly after metamorphic induction 
+by serotonin than by 7-nitroindazole, a NOS inhibitor. Loss of the AG was 
+complete by 72 h after induction. Spontaneous loss of the AG in older competent 
+larvae may arise from a natural decrease in endogenous NOS activity, giving rise 
+to the tendency of aging larvae to display spontaneous metamorphosis in culture.
+
+DOI: 10.2307/4134600
+PMID: 16641516 [Indexed for MEDLINE]
+
+
+43. Exp Eye Res. 2006 May;82(5):860-7. doi: 10.1016/j.exer.2005.10.024. Epub 2005 
+Nov 23.
+
+Effects of blue honeysuckle (Lonicera caerulea L.) extract on 
+lipopolysaccharide-induced inflammation in vitro and in vivo.
+
+Jin XH(1), Ohgami K, Shiratori K, Suzuki Y, Koyama Y, Yoshida K, Ilieva I, 
+Tanaka T, Onoe K, Ohno S.
+
+Author information:
+(1)Department of Ophthalmology and Visual Sciences, Hokkaido University Graduate 
+School of Medicine, North 15, West 7, Kita-ku, Sapporo 060-8638 Japan. 
+xhjin@med.hokudai.ac.jp
+
+The aim of the present study was to investigate the effects of blue honeysuckle 
+extract (BHE), which contains high level of phenolic compounds, on 
+endotoxin-induced uveitis (EIU). Male Lewis rats were randomly divided into 5 
+groups with 14 rats in each (eight rats for collection of aqueous humor, six 
+rats for histologic examination). EIU was induced by a footpad injection of 
+lipopolysaccharide (LPS). 1, 10, or 100 mg of BHE was injected intravenously 
+immediately after LPS injection. The aqueous humor was collected at 24 h after 
+LPS injection, the number of infiltrating cells, protein concentration, nitric 
+oxide (NO), tumor necrosis factor (TNF)-alpha, and prostaglandin (PG)-E2 levels 
+in the aqueous humor were determined. Some eyes were enucleated for histologic 
+examination and immunohistochemical analysis. Immunohistochemical staining with 
+a monoclonal antibody against activated nuclear factor (NF)-kappaB was performed 
+to evaluate the effect of BHE on NF-kappaB activation. To further clarify the 
+anti-inflammatory effect, RAW264.7 cells (a mouse macrophage cell line) were 
+stimulated with LPS in the presence or absence of BHE and its major phenolics, 
+cyanidin 3-glucoside (C3G), cyanidin 3-rutinoside (C3R), chlorogenic acid (CA). 
+Expression of inducible NO synthase (iNOS) and cyclooxygenase-2 (COX-2) were 
+analyzed by Western blot method. BHE treatment significantly reduced the 
+inflammatory cell infiltration, the protein concentration, the levels of NO, 
+TNF-alpha and PGE2 in the aqueous humor and improved histologic status of the 
+ocular tissue. The number of activated NF-kappaB-positive cells was lower in the 
+iris-ciliary body treated with BHE at 3 h after LPS injection. BHE significantly 
+suppressed the production of NO, PGE2 and TNF-alpha in the culture medium as 
+well as the expression of iNOS and COX-2 by LPS-stimulated RAW264.7 cells in a 
+dose-dependent fashion. C3G, C3R and CA showed no or weak inhibitory effects on 
+the level of inflammatory mediators and the expression of iNOS and COX-2. These 
+results suggest that BHE attenuates the degree of inflammation in eyes with EIU 
+by inhibiting the NF-kappaB dependent signaling pathway and the subsequent 
+production of proinflammatory mediators.
+
+DOI: 10.1016/j.exer.2005.10.024
+PMID: 16309673 [Indexed for MEDLINE]
+
+
+44. Invest Ophthalmol Vis Sci. 2005 Apr;46(4):1497-503. doi: 10.1167/iovs.04-0664.
+
+CNTF and BDNF have similar effects on retinal ganglion cell survival but 
+differential effects on nitric oxide synthase expression soon after optic nerve 
+injury.
+
+Zhang CW(1), Lu Q, You SW, Zhi Y, Yip HK, Wu W, So KF, Cui Q.
+
+Author information:
+(1)Laboratory for Neural Repair, Shantou University Medical College, Shantou, 
+People's Republic of China.
+
+PURPOSE: To investigate the effect of ciliary neurotrophic factor (CNTF) and 
+brain-derived neurotrophic factor (BDNF) on retinal ganglion cell (RGC) survival 
+and nitric oxide synthase (NOS) expression in the retina during the early phase 
+of optic nerve (ON) injury, and to examine whether intraperitoneal application 
+of the NOS scavenger nitro-l-arginine (l-NA) could protect the injured RGCs.
+METHODS: RGCs were retrogradely labeled with granular blue 3 days before the ON 
+was intraorbitally transected. RGC survival was examined 1 week after ON 
+transection and intraocular injection of CNTF and/or BDNF, or 1 to 2 weeks after 
+daily intraperitoneal injection of the NOS inhibitor l-NA. NOS expression was 
+examined by NADPH-diaphorase histochemistry and neuronal NOS (nNOS) 
+immunohistochemistry, and nNOS-positive cells were identified by various 
+staining approaches.
+RESULTS: Both CNTF and BDNF significantly increased RGC survival 1 week after ON 
+injury. In the ganglion cell layer (GCL), CNTF did not increase the number of 
+NADPH-diaphorase positive ((+)) cells but appeared to reduce the intensity of 
+NADPH-diaphorase staining, whereas BDNF increased the number of 
+NADPH-diaphorase(+) cells and also appeared to enhance the intensity of 
+NADPH-diaphorase staining. In the GCL, amacrine cells but not RGCs were nNOS(+). 
+Some macrophages were also nNOS(+). In contrast, no amacrine cells were nNOS(+) 
+in the inner nuclear layer. Daily intraperitoneal injection of l-NA at 
+appropriate concentrations promoted RGC survival for 1 or 2 weeks after ON 
+injury.
+CONCLUSIONS: Both CNTF and BDNF protected RGCs after ON injury. CNTF and BDNF 
+acted differently on NOS expression in the GCL. Intraperitoneal injections of 
+l-NA at appropriate dosages enhance RGC survival.
+
+DOI: 10.1167/iovs.04-0664
+PMID: 15790921 [Indexed for MEDLINE]
+
+
+45. Exp Eye Res. 2005 Mar;80(3):313-22. doi: 10.1016/j.exer.2004.10.002.
+
+Delphinidin-3-rutinoside relaxes the bovine ciliary smooth muscle through 
+activation of ETB receptor and NO/cGMP pathway.
+
+Matsumoto H(1), Kamm KE, Stull JT, Azuma H.
+
+Author information:
+(1)Food and Health Laboratories, Meiji Seika Ltd, 5-3-1, Chiyoda, Saitama 
+350-0289, Japan. hitoshi_matsumoto@meiji.co.jp
+
+Delphinidin-3-rutinoside (D3R) is the major anthocyanin component in 
+blackcurrant (Ribes nigrum L.) fruits. We investigated the relaxation mechanism 
+of D3R in bovine ciliary smooth muscle (CM). D3R at a concentration of 10(-5) m 
+produced a sustained and progressive relaxation during the contraction induced 
+by endothelin (ET)-1 in the bovine CM specimens. After the pre-treatment with 
+D3R, the anthocyanin exerted an inhibitory effect on the ET-1-induced 
+contraction with a concomitant increase in cyclic GMP production and decreased 
+phosphorylation ratio of myosin light chain (RLC). The inhibitory effect of D3R 
+was significantly attenuated in the presence of either N(G)-nitro-L-arginine 
+(NOARG) as a nitric oxide synthase (NOS) inhibitor, carboxy-PTIO as a NO 
+scavenger, ODQ as an inhibitor of guanylyl cyclase, or BQ788 as a selective 
+ET(B) receptor antagonist. The atteuation with NOARG was reversed by the 
+addition of excess L-arginine. However, iberiotoxin as a Ca2+-activated K+ 
+channel inhibitor, propranolol as a beta-adrenoceptor antagonist, and 
+indomethacin as a cyclooxygenase inhibitor failed to modify the inhibitory 
+effect of D3R. Scatchard plot analysis revealed that the [125I]-ET-1 binding 
+site constituted a single population with Kd of 54.5+/-4.6 nm and maximum 
+binding site (B(max)) of 168.4+/-25.4 fmol/mg protein in the ciliary epithelium 
+(CE), and Kd of 141.7+/-18.0 nm and B(max) of 357.7+/-35.8 fmol/mg protein in 
+CM. [125I]-ET-1 binding was completely displaced by BQ788 with K(i) values of 
+56.7+/-10.8 pm in CE and 93.4+/-23.3 pm in CM. Meanwhile, partial displacement 
+(approximately 40%) was observed by BQ123 as a selective ET(A) receptor 
+antagonist in both preparations. ET(B) receptor was predominant subtype in CE 
+and CM, whereas kinetics of the binding was different in two preparations. These 
+results suggest that D3R possibly stimulates ET(B) receptors to produce/release 
+NO, and results in an inhibition of myosin RLC phosphorylation and/or 
+acceleration of dephosphorylation, thereby causing relaxation and producing an 
+inhibitory effect on the ET-1-induced contraction in the bovine CM.
+
+DOI: 10.1016/j.exer.2004.10.002
+PMID: 15721614 [Indexed for MEDLINE]
+
+
+46. J Gen Physiol. 2004 Nov;124(5):527-40. doi: 10.1085/jgp.200409153. Epub 2004 Oct 
+11.
+
+Intracellular Ca2+ regulates the phosphorylation and the dephosphorylation of 
+ciliary proteins via the NO pathway.
+
+Gertsberg I(1), Hellman V, Fainshtein M, Weil S, Silberberg SD, Danilenko M, 
+Priel Z.
+
+Author information:
+(1)Department of Chemistry, Faculty of Natural Science, Ben-Gurion University of 
+the Negev, P.O. Box 653, Beer-Sheva 84105, Israel.
+
+The phosphorylation profile of ciliary proteins under basal conditions and after 
+stimulation by extracellular ATP was investigated in intact tissue and in 
+isolated cilia from porcine airway epithelium using anti-phosphoserine and 
+anti-phosphothreonine specific antibodies. In intact tissue, several 
+polypeptides were serine phosphorylated in the absence of any treatment (control 
+conditions). After stimulation by extracellular ATP, changes in the 
+phosphorylation pattern were detected on seven ciliary polypeptides. Serine 
+phosphorylation was enhanced for three polypeptides (27, 37, and 44 kD), while 
+serine phosphorylation was reduced for four polypeptides (35, 69, 100, and 130 
+kD). Raising intracellular Ca2+ with ionomycin induced identical changes in the 
+protein phosphorylation profile. Inhibition of the NO pathway by inhibiting 
+either NO synthase (NOS), guanylyl cyclase (GC), or cGMP-dependent protein 
+kinase (PKG) abolished the changes in phosphorylation induced by ATP. The 
+presence of PKG within the axoneme was demonstrated using a specific antibody. 
+In addition, in isolated permeabilized cilia, submicromolar concentrations of 
+cGMP induced protein phosphorylation. Taken together, these results suggest that 
+the axoneme is an integral part of the intracellular NO pathway. The surprising 
+observation that ciliary activation is accompanied by sustained 
+dephosphorylation of ciliary proteins via NO pathway was not detected in 
+isolated cilia, suggesting that the protein phosphatases were either lost or 
+deactivated during the isolation procedure. This work reveals that any 
+pharmacological manipulation that abolished phosphorylation and 
+dephosphorylation also abolished the enhancement of ciliary beating. Thus, part 
+or all of the phosphorylated polypeptides are likely directly involved in 
+axonemal regulation of ciliary beating.
+
+DOI: 10.1085/jgp.200409153
+PMCID: PMC2234008
+PMID: 15477378 [Indexed for MEDLINE]
+
+
+47. Acta Biol Hung. 2004;55(1-4):293-300. doi: 10.1556/ABiol.55.2004.1-4.35.
+
+Induction of metamorphosis in the marine gastropod Ilyanassa obsoleta: 5HT, NO 
+and programmed cell death.
+
+Leise EM(1), Kempf SC, Durham NR, Gifondorwa DJ.
+
+Author information:
+(1)Department of Biology, University of North Carolina Greensboro, Greensboro, 
+North Carolina 27402-6170, USA. Esther_Leise@uncg.edu
+
+The central nervous system (CNS) of a metamorphically competent larva of the 
+caenogastropod Ilyanassa obsoleta contains a medial, unpaired apical ganglion 
+(AG) of approximately 25 neurons that lies above the commissure connecting the 
+paired cerebral ganglia. The AG, also known as the cephalic or apical sensory 
+organ (ASO), contains numerous sensory neurons and innervates the ciliated velar 
+lobes, the larval swimming and feeding structures. Before metamorphosis, the AG 
+contains 5 serotonergic neurons and exogenous serotonin can induce metamorphosis 
+in competent larvae. The AG appears to be a purely larval structure as it 
+disappears within 3 days of metamorphic induction. In competent larvae, most 
+neurons of the AG display nitric oxide synthase (NOS)-like immunoreactivity and 
+inhibition of NOS activity can induce larval metamorphose. Because nitric oxide 
+(NO) can prevent cells from undergoing apoptosis, a form of programmed cell 
+death (PCD), we hypothesize that inhibition of NOS activity triggers the loss of 
+the AG at the beginning of the metamorphic process. Within 24 hours of 
+metamorphic induction, cellular changes that are typical of the early stages of 
+PCD are visible in histological sections and results of a terminal 
+deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) assay in 
+metamorphosing larvae show AG nuclei containing fragmented DNA, supporting our 
+hypothesis.
+
+DOI: 10.1556/ABiol.55.2004.1-4.35
+PMID: 15270246 [Indexed for MEDLINE]
+
+
+48. Pflugers Arch. 2004 Oct;449(1):33-41. doi: 10.1007/s00424-004-1308-z.
+
+Oestradiol rapidly inhibits Ca2+ signals in ciliary neurons through classical 
+oestrogen receptors in cytoplasm.
+
+Viso-León MC(1), Ripoll C, Nadal A.
+
+Author information:
+(1)Institut de Bioenginyeria, Universitat Miguel Hernández d'Elx, Campus de Sant 
+Joan, Carretera Alacant-Valéncia Km 87, 03550 Sant Joan d'Alacant, Spain.
+
+Oestrogen plays a key role in a great variety of actions in the nervous system, 
+either through classical or alternative pathways. The classical pathways are 
+initiated after oestrogen binding to the oestrogen receptors ERalpha or ERbeta, 
+which translocate from the cytoplasm to the nucleus and act there as 
+transcription factors. Alternative pathways are initiated at the plasma membrane 
+and cytoplasm, via binding to classical or non-classical ERs. Using isolated 
+ciliary ganglion neurons from the chick embryo and Ca2+ imaging, we demonstrated 
+that a 10-min exposure to 17beta-oestradiol reduces Ca2+ influx through the 
+plasma membrane. This effect was not reproduced by oestradiol conjugated to 
+bovine serum albumin, which does not cross the plasma membrane, indicating that 
+17beta-oestradiol was acting intracellularly. ERalpha was detected in the 
+cytoplasm by immunostaining and its involvement in the regulation of Ca2+ influx 
+by ICI182,780 inhibition. The phosphatidylinositol-3 kinase (Pi3-kinase) 
+inhibitor wortmannin and the nitric oxide synthase (NOS) inhibitor 
+Nomega-nitro-L-arginine methyl ester (L-NAME) both blocked the oestradiol 
+effect. The oestradiol effect was reproduced by 8Br-cGMP and abolished in the 
+presence of the cGMP-dependent protein kinase (PKG) inhibitor KT5823. Our study 
+indicates that 17beta-oestradiol can regulate Ca2+ influx via PI3-kinase, NOS 
+and PKG after activation of cytoplasmic ER.
+
+DOI: 10.1007/s00424-004-1308-z
+PMID: 15258764 [Indexed for MEDLINE]
+
+
+49. J Fish Dis. 2004 Jul;27(7):409-17. doi: 10.1111/j.1365-2761.2004.00558.x.
+
+The parasitic ciliate Ichthyophthirius multifiliis induces expression of immune 
+relevant genes in rainbow trout, Oncorhynchus mykiss (Walbaum).
+
+Sigh J(1), Lindenstrøm T, Buchmann K.
+
+Author information:
+(1)Department of Veterinary Pathobiology, Section of Fish Diseases, The Royal 
+Veterinary and Agricultural University, Frederiksberg C, Denmark. jsi@kvl.dk
+
+Abstract During an infection with the parasitic ciliate Ichthyophthirius 
+multifiliis, expression of genes encoding complement factor C3, inducible nitric 
+oxide synthase (iNOS), immunoglobulin (IgM) and major histocompatibility complex 
+(MHC-II) was examined in the skin, head kidney and spleen of rainbow trout using 
+semi-quantitative reverse transcriptase-polymerase chain reaction. Induction of 
+C3 transcription levels was evident in the skin and spleen showing extra-hepatic 
+production of C3. MHC-II and IgM levels were increased in both head kidney and 
+skin suggesting a production of antibodies at the site of infection, as well as 
+in the lymphoid organs. iNOS expression was only increased briefly in the skin 
+during the infection. These data suggest that complement is involved in immune 
+reactions against I. multifiliis and that mucosal antibodies might be produced 
+at the site of infection.
+
+Copyright 2004 Blackwell Publishing Ltd
+
+DOI: 10.1111/j.1365-2761.2004.00558.x
+PMID: 15228610 [Indexed for MEDLINE]
+
+
+50. Exp Eye Res. 2003 Dec;77(6):665-73. doi: 10.1016/j.exer.2003.08.014.
+
+Protective role of heme oxygenase-1 against endotoxin-induced uveitis in rats.
+
+Ohta K(1), Kikuchi T, Arai S, Yoshida N, Sato A, Yoshimura N.
+
+Author information:
+(1)Department of Ophthalmology, Shinshu University School of Medicine, 3-1-1 
+Asahi, Matsumoto 390 8621, Japan. kohta@hsp.md.shinshu-u.ac.jp
+
+Endotoxin-induced uveitis (EIU) is an animal model of acute ocular inflammation. 
+Cytokines, chemokines, and nitric oxide (NO) have been reported to play 
+important roles. We have determined whether heme oxygenase (HO)-1, a heat shock 
+protein, can suppress EIU. EIU was induced by a footpad injection of 
+lipopolysaccharide (LPS) in male Lewis rats. Hemin, an inducer of HO-1, was 
+injected intraperitoneally 1 hr prior to the LPS injection. HO-1 and HO-2 
+expression in the iris-ciliary body (ICB) was studied by real time PCR and 
+Western blot analysis. The number of infiltrating cells and the protein 
+concentration in the aqueous humor (AqH) were evaluated by microscopy and by 
+protein assay. The expression of inducible nitric oxide synthase (iNOS), 
+interleukin (IL)-6, tumor necrosis factor (TNF)-alpha, and IL-1beta mRNA was 
+determined by real time PCR. The concentration of nitrate plus nitrite, and 
+levels of IL-6 and TNF-alpha in the AqH were also evaluated by Griess reagents 
+and by enzyme-linked immunosorbent assay, respectively. The expression of HO-1 
+mRNA and protein, induced by LPS, was enhanced significantly by pre-injection of 
+hemin (P<0.001). HO-2 was constitutively present in the ICB and was not 
+up-regulated by LPS or by hemin. The number of infiltrating cells and the 
+concentration of protein in the AqH was significantly elevated by LPS injection, 
+and hemin significantly reduced the number of cells and the protein 
+concentration (P<0.0001). The expression of iNOS and IL-6 mRNA and protein were 
+down-regulated by hemin (P<0.001). Hemin is effective in inducing HO-1 and in 
+reducing the ocular inflammation induced by LPS probably by down-regulating NO 
+and pro-inflammatory cytokine expression.
+
+DOI: 10.1016/j.exer.2003.08.014
+PMID: 14609554 [Indexed for MEDLINE]
+
+
+51. Neuropharmacology. 2003 Oct;45(5):637-48. doi: 10.1016/s0028-3908(03)00206-5.
+
+Effects of intraocular injection of a low concentration of zinc on the rat 
+retina.
+
+Nakamichi N(1), Chidlow G, Osborne NN.
+
+Author information:
+(1)Laboratory of Molecular Pharmacology, Kanazawa University Graduate School of 
+Natural Science and Technology, 13-1 Takara-machi, Kanazawa, Ishikawa 920-0934, 
+Japan.
+
+The main aim of this study was to investigate whether intraocular injection of 
+low concentrations of zinc (no greater than 10 microM) aid the survival of 
+ganglion cells in the rat retina after excitotoxic (NMDA) and 
+ischemia/reperfusion injuries. We also determined whether low amounts of zinc 
+cause any detectable retinal toxicity. Intraocular injection of NMDA caused 
+substantial reductions in the mRNA levels of the ganglion cell-specific markers 
+Thy-1 and neurofilament light (NF-L). Co-injection of 0.1 or 1 nmol zinc neither 
+diminished nor exacerbated the effect of NMDA on the levels of these mRNAs. 
+Likewise, ischemia/reperfusion caused significant decreases in the levels of 
+Thy-1 and NF-L mRNAs and in the b-wave amplitude of the electroretinogram. These 
+effects were not counteracted by injection of zinc. Intraocular injection of 
+NMDA caused marked toxicological effects in retinal glial cells, including 
+upregulations of cyclooxygenase-2 (COX-2), inducible nitric oxide synthase 
+(iNOS), glial fibrial acidic protein (GFAP), basic fibroblast growth factor 
+(FGF-2) and ciliary neurotrophic factor (CNTF). Interestingly, injection of 1 
+nmol zinc caused no changes in the levels of COX-2 and iNOS, yet produced 
+similar, although quantitatively less pronounced, changes in FGF-2, GFAP and 
+CNTF. The upregulations of FGF-2 and CNTF suggest that increasing zinc intake 
+may benefit injured retinal neurons. However, this was not found to be the case 
+in the present studies, perhaps due to the acute nature of the injury paradigms 
+utilised.
+
+DOI: 10.1016/s0028-3908(03)00206-5
+PMID: 12941377 [Indexed for MEDLINE]
+
+
+52. J Neurotrauma. 2003 Jun;20(6):603-12. doi: 10.1089/089771503767168528.
+
+GDNF and BDNF alter the expression of neuronal NOS, c-Jun, and p75 and prevent 
+motoneuron death following spinal root avulsion in adult rats.
+
+Wu W(1), Li L, Yick LW, Chai H, Xie Y, Yang Y, Prevette DM, Oppenheim RW.
+
+Author information:
+(1)Department of Anatomy, Faculty of Medicine, University of Hong Kong, Hong 
+Kong, China. wtwu@hkucc.hku.hk
+
+In the present study, we examined the effects of glial cell line-derived 
+neurotrophic factor (GDNF), brain-derived neurotrophic factor (BDNF), ciliary 
+neurotrophic factor (CNTF), and insulin growth factor (IGF-1) on adult 
+motoneuron survival following spinal root avulsion. The expression of neuronal 
+nitric oxide synthase (nNOS), c-Jun, and the low-affinity neurotrophin receptor 
+(P75) following treatment with these neurotrophic factors was also examined. In 
+control animals, approximately 80% of spinal motoneurons were nNOS positive at 3 
+weeks following the lesion, whereas in GDNF or BDNF treated animals no nNOS 
+positive motoneurons were found at the same time point. Following injury and 
+treatment with GDNF and BDNF increased numbers of motoneurons were c-Jun and P75 
+positive. By 6 weeks following the lesion, only approximately 28% of motoneurons 
+persisted in control animals whereas about 90% of motoneurons survived injury 
+following treatment with either GDNF or BDNF. In contrast, CNTF and IGF-1 were 
+ineffective in either inhibiting nNOS expression or preventing motoneuron death. 
+Our results provide in vivo evidence that the survival of injured adult 
+mammalian motoneurons can be promoted by specific neurotrophic factors, and that 
+this effect is associated with inhibition of nNOS expression and up-regulation 
+of c-Jun and P75 expression.
+
+DOI: 10.1089/089771503767168528
+PMID: 12906744 [Indexed for MEDLINE]
+
+
+53. J Histochem Cytochem. 2003 Jan;51(1):81-7. doi: 10.1177/002215540305100110.
+
+Expression of endothelial nitric oxide synthase in ciliated epithelia of rats.
+
+Zhan X(1), Li D, Johns RA.
+
+Author information:
+(1)Department of Anesthesiology and Critical Care Medicine, Johns Hopkins 
+University School of Medicine, Baltimore, Maryland 21287-4965, USA.
+
+Endothelial nitric oxide synthase (eNOS), originally found in the endothelium of 
+vascular tissue, also exists in other cell types, including ciliated epithelia 
+of airways. The eNOS is ultrastructurally localized to the basal body of the 
+microtubules of the cilia, and nitric oxide (NO) stimulates ciliary beat 
+frequency (CBF). We examined whether the expression of eNOS is present in 
+ciliated cells of other organs. Western blotting analysis revealed that eNOS was 
+expressed in the rat cerebrum, lung, trachea, testis, and oviduct. 
+Immunohistochemical staining showed that eNOS was localized in the ciliated 
+epithelia of airways, oviduct, testis, and ependymal cells of brain in addition 
+to the endothelium and smooth muscle of the vasculature. To confirm the 
+activation of eNOS in the ciliated epithelia, we examined the effect of 
+L-arginine (L-Arg), the substrate of NOS, on the production of nitrite and 
+nitrate (NOx) in the cultured explants of rat trachea. L-Arg (100 microM) 
+increased NOx levels significantly (p<0.05). In explants exposed to inhibitors 
+of NOS, the effect of l-Arg on the production of NOx was blocked. These findings 
+suggest that epithelial NO plays an important role in signal transduction 
+associated with ciliary functions.
+
+DOI: 10.1177/002215540305100110
+PMID: 12502757 [Indexed for MEDLINE]
+
+
+54. Acta Neuropathol. 2002 Nov;104(5):482-92. doi: 10.1007/s00401-002-0576-y. Epub 
+2002 Jul 12.
+
+The reciprocal change of neurotrophin-4 and glial cell line-derived neurotrophic 
+factor protein in the muscles, spinal cord and cerebellum of the dy mouse.
+
+Sakuma K(1), Watanabe K, Totsuka T, Sano M, Nakano H, Nakao R, Nishikawa JJ, 
+Sorimachi Y, Yoshimoto K, Yasuhara M.
+
+Author information:
+(1)Department of Legal Medicine, Kyoto Prefectural University of Medicine, 456 
+Kajii-cho, Kawaramachi-hirokoji, Kamigyo-ku, Kyoto 602-8566, Japan. 
+ksakuma@basic.kpu-m.ac.jp
+
+Laminin alpha2 (merosin)-deficient congenital muscular dystrophy (CMD) patients 
+show progressive muscle fiber necrosis and ineffective muscle regeneration, 
+probably due to a lower formation of multinucleated myotubes due to an adhesion 
+defect of myoblasts to each other. Some recent studies found that CMD patients 
+have a white matter disorder and cerebellum atrophy. In the spinal cord of dy 
+mice, a model of CMD, inducible nitric oxide synthase (iNOS) was markedly 
+expressed. Using Western blotting and immunohistochemical analyses, we 
+investigated the levels of neurotrophin-4 (NT-4), brain-derived neurotrophic 
+factor, glial cell line-derived neurotrophic factor (GDNF) and ciliary 
+neurotrophic factor (CNTF) in the central nervous system and skeletal muscles of 
+dy mice. In the dy mice, the microtubule-associated protein-2 (MAP-2) protein 
+level was markedly decreased in the Purkinje and granule cells of the 
+cerebellum, and in lumbar motoneurons of the spinal cord. The motoneurons and 
+axons of dy mice possessed lower expressions of phosphorylated tau. The amount 
+of NT-4 was markedly lower in the cerebellum, spinal cord and hindlimb muscles 
+of dy mice. In dy mice, GDNF was markedly enhanced in the Purkinje and granule 
+cells of the cerebellum, in many lumbar motoneurons, and in the regenerating 
+atrophied fibers. The CNTF protein level did not differ in the hindlimb muscles 
+between the normal and dy mice. Therefore, GDNF could act to inhibit the death 
+of Purkinje and granular neurons, and motoneurons, and to promote the remodeling 
+of the neuromuscular junction of atrophied muscle fibers of dy mice. 
+Furthermore, dy mice include neurogenic abnormalities in the cerebellum and 
+spinal cord along with myogenic disorder of muscle fibers.
+
+DOI: 10.1007/s00401-002-0576-y
+PMID: 12410396 [Indexed for MEDLINE]
+
+
+55. Exp Eye Res. 2000 Nov;71(5):535-9. doi: 10.1006/exer.2000.0908.
+
+Endothelin-1 induces nitric oxide synthase-2 expression in human non-pigmented 
+ciliary epithelial cells.
+
+Prasanna G, Krishnamoorthy R, Hulet C, Zhang H, Zhang X, Yorio T.
+
+DOI: 10.1006/exer.2000.0908
+PMID: 11040089 [Indexed for MEDLINE]
+
+
+56. Am J Respir Cell Mol Biol. 2000 Aug;23(2):175-81. doi: 10.1165/ajrcmb.23.2.4022.
+
+Regulation of ciliary beat frequency by the nitric oxide-cyclic guanosine 
+monophosphate signaling pathway in rat airway epithelial cells.
+
+Li D(1), Shirakami G, Zhan X, Johns RA.
+
+Author information:
+(1)Department of Anesthesiology and Critical Care Medicine, Johns Hopkins 
+University School of Medicine, Baltimore, Maryland 21287, USA.
+
+Nitric oxide (NO) upregulates ciliary beat frequency (CBF). The present study 
+evaluates mechanisms of the NO-cyclic guanosine monophosphate (cGMP) pathway 
+regulation of CBF. Rat tracheal explants were loaded with 4,5-diaminofluorescein 
+diacetate for the demonstration of NO production by ciliated epithelial cells 
+after L-arginine (L-Arg) stimulation. CBF was measured using phase contrast 
+microscopy and videotape analysis. The roles of NO, soluble guanylate cyclase 
+(sGC), cGMP-dependent protein kinase (PK) G, and phosphodiesterase (PDE) V in 
+regulation of CBF were evaluated. NO synthase (NOS) was activated with L-Arg or 
+inhibited with N(G)-monomethyl-L-Arg. sGC was stimulated with NO donors 
+1-hydroxy-2-oxo-3- (N-ethyl-2-aminoethyl)-3-ethyl-1-triazene and 
+S-nitroso-L-glutathione or mimicked by 8-bromo-guanosine 3', 5'-cyclic 
+monophosphate (8-Br-cGMP) and inhibited with 1H-[1,2, 
+4]oxadiazole[4,3-a]quinoxalin-1-one. The effects of the PKG inhibition with 
+KT5823 and PDE V inhibition with Zaprinast were also examined. The studies 
+demonstrate that ciliated epithelial cells produce NO, which is correlated with 
+CBF stimulation. L-Arg dose- and time-dependently increases CBF, and NO donors, 
+8-Br-cGMP, and Zaprinast also enhance CBF. Inhibitors of NOS, sGC, and PKG can 
+block the stimulant effect of L-Arg on CBF. Thus, NO is a regulator of CBF 
+acting via sGC and PKG. The NO-cGMP signaling pathway regulates CBF in an 
+autocrine manner in cultured rat ciliated airway epithelium.
+
+DOI: 10.1165/ajrcmb.23.2.4022
+PMID: 10919983 [Indexed for MEDLINE]
+
+
+57. Exp Neurol. 1999 Sep;159(1):131-8. doi: 10.1006/exnr.1999.7134.
+
+Peripheral nerve graft and neurotrophic factors enhance neuronal survival and 
+expression of nitric oxide synthase in Clarke's nucleus after hemisection of the 
+spinal cord in adult rat.
+
+Yick LW(1), Wu W, So KF, Yip HK.
+
+Author information:
+(1)Faculty of Medicine, The University of Hong Kong, Hong Kong.
+
+The present study examined the effects of peripheral nerve (PN) graft and 
+neurotrophic factors on the expression of nitric oxide synthase (NOS) and the 
+survival of Clarke's nucleus (CN) neurons at the first lumbar spinal segment 
+(L1) 15 days after hemisection of the spinal cord at T11. Normal intact CN 
+neurons did not express NOS. Forty-one percent of the ipsilateral CN neurons 
+survived after hemisection at T11, and 48% of the surviving neurons expressed 
+NOS. Transplantation of PN graft at the lesion site promoted the survival of CN 
+neurons to 71% and increased the expression of NOS to 70%. Continuous infusion 
+of brain-derived neurotrophic factor, ciliary neurotrophic factor, and 
+neurotrophic-3, but not glial cell-derived neurotrophic factor, at the lesion 
+site enhanced the survival of CN neurons to about 65%. Among the surviving 
+neurons about 70% were NOS-positive. These results indicated that 
+transplantation of autologous PN graft or continuous infusion of neurotrophic 
+factors could enhance the survival of axotomized CN neurons. In addition, the 
+survival-promoting function of the neurotrophic agents was coincided with the 
+upregulation of the expression of NOS. However, whether the upregulation of NOS 
+expression in injured CN neurons is related to the rescue function or is a side 
+effect of the neurotrophic factors is not clear and needed further 
+investigation.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/exnr.1999.7134
+PMID: 10486182 [Indexed for MEDLINE]
+
+
+58. Invest Ophthalmol Vis Sci. 1999 Sep;40(10):2275-82.
+
+Inhibition of endotoxin-induced uveitis and potentiation of local TNF-alpha and 
+interleukin-6 mRNA expression by interleukin-13.
+
+Marie O(1), Thillaye-Goldenberg B, Naud MC, de Kozak Y.
+
+Author information:
+(1)INSERM U450, Development, Aging and Pathology of the Retina, Paris, France.
+
+PURPOSE: To investigate the effect of systemic injections of interleukin (IL)-13 
+on the development of endotoxin-induced uveitis (EIU) in the rat.
+METHODS: EIU was induced in Lewis rats by a single footpad injection of 
+lipopolysaccharide (LPS; 350 microg/kg) from Salmonella typhimurium. Rats were 
+treated with a subcutaneous injection in the back of recombinant human IL-13 (50 
+microg/kg in 0.2 ml of saline) performed 30 minutes before LPS injection and 6 
+and 10 hours afterward. At 23 hours after LPS injection, EIU was evaluated by 
+slit-lamp examination and by counts of inflammatory cells on cryostat sections 
+after specific immunostaining. The expression of nitric oxide synthase (NOS)-II 
+in ocular tissues was determined by dual immunofluorescent staining and the 
+release of nitrite in aqueous humor by Griess reaction. Cytokine gene expression 
+in the iris/ciliary body, choroid, and retina was evaluated by reverse 
+transcription-polymerase chain reaction.
+RESULTS: At 24 hours after LPS injection, significant clinical inhibition of 
+ocular inflammation and fibrin deposition in the eye was observed in 
+IL-13-treated rats. Quantitative analysis of ocular tissues revealed a 
+significant decrease of OX42+ cells (microglia, activated macrophages, dendritic 
+cells, and polymorphonuclear leukocytes) and ED-1+ cells (monocytes/macrophages 
+and dendritic cells). No effect on ED2+ cells (resident tissue macrophages) was 
+found. Treatment with IL-13 decreased nitrite levels in aqueous humor and 
+enhanced the expression of tumor necrosis factor-alpha (TNF-alpha) and IL-6 mRNA 
+in ocular tissues.
+CONCLUSIONS: Interleukin-13 treatment inhibits LPS-induced ocular inflammation 
+with inhibition of nitrite release and increased TNF and IL-6 production in the 
+eye. These results confirm the role of the NO pathway in the pathogenesis of EIU 
+and suggest the involvement of TNF and IL-6 in the downregulation of ocular 
+inflammation.
+
+PMID: 10476793 [Indexed for MEDLINE]
+
+
+59. Eur J Neurosci. 1999 May;11(5):1567-76. doi: 10.1046/j.1460-9568.1999.00567.x.
+
+Mutual regulation between the intercellular messengers nitric oxide and 
+brain-derived neurotrophic factor in rodent neocortical neurons.
+
+Xiong H(1), Yamada K, Han D, Nabeshima T, Enikolopov G, Carnahan J, Nawa H.
+
+Author information:
+(1)Department of Molecular Neurobiology, Brain Research Institute, Niigata 
+University, Niigata, Japan.
+
+The diffusible factors, nitric oxide (NO) and brain-derived neurotrophic factor 
+(BDNF) are both suggested to be intercellular messengers that have similar 
+synaptic activities and developmental influences in the brain. In the present 
+study, we have analysed their mutual regulation with respect to their production 
+in rodent neocortical neurons. Some of the cultured rat neocortical neurons 
+exhibited immunoreactivity for both neuronal NO synthase (NOS) and the BDNF 
+receptor trkB. Neuronal NOS appeared to be activated autonomously and produced 
+NO in culture as monitored by nitrite accumulation. Inhibition of the endogenous 
+NO production in culture by a NOS inhibitor, NG-monomethyl-L-arginine (NMMA), 
+enhanced basal expression of BDNF mRNA and protein. Similarly, 
+cerebroventricular administration of another NOS inhibitor, 
+N-omega-nitro-L-arginine methylester (L-NAME), but not D-NAME or saline, 
+increased BDNF content in the neocortex. In the opposite direction, however, 
+BDNF appeared to function as a positive regulator for NO synthesis. Addition of 
+BDNF upregulated the neuronal NOS expression as well as NO production in 
+neocortical culture. In agreement, BDNF knock-out mice exhibited significant 
+impairment of neuronal NOS expression in the neocortex. Taken together, these 
+observations suggest that the trans-synaptic signalling molecules, NO and BDNF, 
+influence the production of each other and mutually regulate the strength of 
+their intercellular communications.
+
+DOI: 10.1046/j.1460-9568.1999.00567.x
+PMID: 10215909 [Indexed for MEDLINE]
+
+
+60. Am J Respir Cell Mol Biol. 1998 Dec;19(6):950-8. doi: 10.1165/ajrcmb.19.6.2904.
+
+Effect of inhibition of nitric oxide synthase on Pseudomonas aeruginosa 
+infection of respiratory mucosa in vitro.
+
+Dowling RB(1), Newton R, Robichaud A, Cole PJ, Barnes PJ, Wilson R.
+
+Author information:
+(1)Department of Thoracic Medicine, Imperial College of Science, Technology and 
+Medicine, National Heart and Lung Institute, London, United Kingdom.
+
+We studied the effect of the nitric oxide synthase (NOS) inhibitor asymmetric 
+dimethyl arginine (ADMA) and the inactive enantiomer N G-methyl-D-arginine 
+(D-NMMA) on Pseudomonas aeruginosa infection of the respiratory mucosa in nasal 
+turbinate organ cultures. We also investigated the effect of P. aeruginosa 
+culture filtrate on the expression of inducible NOS (iNOS) messenger RNA (mRNA) 
+by an epithelial cell line (A549). Organ cultures were preincubated with ADMA 
+(0.1 to 4 x 10(-4) M) or D-NMMA (2 x 10(-4) M) for 30 min prior to bacterial 
+infection. Infected organ cultures (8 h) had significantly (P <= 0.05) greater 
+epithelial damage and fewer ciliated and unciliated cells than did control 
+cultures. There was an increased level of nitrite in the medium feeding infected 
+organ cultures as compared with control cultures. ADMA significantly (P <= 0.05) 
+reduced both bacterially induced epithelial damage and loss of ciliated cells in 
+a concentration-dependent manner. D-NMMA did not influence the effect of P. 
+aeruginosa infection of the mucosa. ADMA, but not D-NMMA, significantly (P <= 
+0.04) reduced total bacterial numbers adherent to the respiratory mucosa. P. 
+aeruginosa culture filtrates (24 h and 36 h) significantly (P = 0.02) increased 
+iNOS with respect to glyceraldehyde-3-phosphate dehydrogenase mRNA expression. 
+These results show that P. aeruginosa stimulates iNOS expression by a cell line 
+and NO production by an organ culture. ADMA reduces mucosal damage and loss of 
+ciliated cells, which suggests that NO may be a mediator of epithelial damage 
+caused by P. aeruginosa.
+
+DOI: 10.1165/ajrcmb.19.6.2904
+PMID: 9843930 [Indexed for MEDLINE]
+
+
+61. Diabetes. 1998 Oct;47(10):1602-8. doi: 10.2337/diabetes.47.10.1602.
+
+Ciliary neurotrophic factor potentiates the beta-cell inhibitory effect of 
+IL-1beta in rat pancreatic islets associated with increased nitric oxide 
+synthesis and increased expression of inducible nitric oxide synthase.
+
+Wadt KA(1), Larsen CM, Andersen HU, Nielsen K, Karlsen AE, Mandrup-Poulsen T.
+
+Author information:
+(1)Steno Diabetes Center, Gentofte, Denmark.
+
+Proinflammatory cytokines are implicated as effector molecules in the 
+pathogenesis of IDDM. Interleukin-6 (IL-6) alone or in combination with IL-1beta 
+inhibits glucose-stimulated insulin release from isolated rat pancreatic islets 
+by unknown mechanisms. Here we investigated 1) if the effects of IL-6 are 
+mimicked by ciliary neurotrophic factor (CNTF), another member of the IL-6 
+family of cytokines signaling via gp130, 2) the possible cellular mechanisms for 
+these effects, and 3) if islet endocrine cells are a source of CNTF. CNTF (20 
+ng/ml) potentiated IL-1beta-mediated (5-150 pg/ml) nitric oxide (NO) synthesis 
+from neonatal Wistar rat islets by 31-116%, inhibition of accumulated insulin 
+release by 34-49%, and inhibition insulin response to a 2-h glucose challenge by 
+31-36%. CNTF potentiated IL-1beta-mediated NO synthesis from RIN-5AH cells by 
+83%, and IL-1beta induced islet inducible NO-synthase (iNOS) mRNA expression 
+fourfold. IL-6 (10 ng/ml) also potentiated IL-1beta-mediated NO synthesis and 
+inhibition of insulin release, whereas beta-nerve growth factor (NGF) (5 or 50 
+ng/ml) had no effect. mRNA for CNTF was expressed in rat islets and in islet 
+cell lines. In conclusion, CNTF is constitutively expressed in pancreatic 
+beta-cells and potentiates the beta-cell inhibitory effect of IL-1beta in 
+association with increased iNOS expression and NO synthesis, an effect shared by 
+IL-6 but not by beta-NGF. These findings indicate that signaling via gp130 
+influences islet NO synthesis associated with iNOS expression. We hypothesize 
+that CNTF released from destroyed beta-cells during the inflammatory islet 
+lesion leading to IDDM may potentiate IL-1beta action on the beta-cells.
+
+DOI: 10.2337/diabetes.47.10.1602
+PMID: 9753298 [Indexed for MEDLINE]
+
+
+62. J Neurosci. 1998 Feb 1;18(3):1038-46. doi: 10.1523/JNEUROSCI.18-03-01038.1998.
+
+Free radical scavenging and inhibition of nitric oxide synthase potentiates the 
+neurotrophic effects of brain-derived neurotrophic factor on axotomized retinal 
+ganglion cells In vivo.
+
+Klöcker N(1), Cellerino A, Bähr M.
+
+Author information:
+(1)Department of Neurology, University of Tübingen, 72076 Tübingen, Germany.
+
+Brain-derived neurotrophic factor (BDNF) partially promotes the survival of 
+axotomized retinal ganglion cells (RGCs). In analogy with in vitro experiments 
+(; ), we tested whether neuroprotection by BDNF is limited by adverse effects as 
+a consequence of excessive free radical formation. First, we investigated 
+whether BDNF and the free radical scavenger N-tert-butyl-(2-sulfophenyl)-nitrone 
+(S-PBN) cooperate in protecting RGCs from axotomy-induced death. Although 
+systemic S-PBN treatment alone did not influence RGC survival after axotomy, it 
+potentiated the neuroprotective effects of BDNF significantly. Single BDNF 
+treatment rescued 27% of the RGCs, which otherwise would have died 14 d after 
+optic nerve transection, whereas a combined treatment of BDNF and S-PBN improved 
+this rescue rate up to 68%. We then investigated whether the adverse effects of 
+BDNF could be ascribed to activation of nitric oxide synthase (NOS). We found 
+colocalization of NOS and the BDNF receptor TrkB in the retina. NADPH-diaphorase 
+reactivity, a reliable marker for NOS in the rat retina, increased after chronic 
+BDNF treatment in vivo. Systemic application of the NOS-inhibitor 
+N-omega-nitro-L-arginine-methylester (L-NAME) potentiated the neuroprotective 
+action of BDNF (55% rescue rate). We conclude that activation of NOS is a 
+pathological consequence of BDNF application, which reduces its neuroprotective 
+potential. The observation that this adverse effect can be antagonized by 
+systemic application of free radical scavengers could be of relevance for 
+clinical applications of neurotrophins in human neurodegenerative diseases.
+
+DOI: 10.1523/JNEUROSCI.18-03-01038.1998
+PMCID: PMC6792783
+PMID: 9437024 [Indexed for MEDLINE]
+
+
+63. Invest Ophthalmol Vis Sci. 1996 May;37(6):1187-96.
+
+Expression of inducible nitric oxide synthase in the eye from endotoxin-induced 
+uveitis rats.
+
+Jacquemin E(1), de Kozak Y, Thillaye B, Courtois Y, Goureau O.
+
+Author information:
+(1)Laboratoire de Développment, Vieillissement et Pathologie de la Rétine, 
+Paris, France.
+
+PURPOSE: Inducible nitric oxide (NO) synthase (iNOS) has been implicated in the 
+pathogenesis of endotoxin-induced uveitis (EIU). This study was undertaken to 
+localize the cells, in the eye, which express iNOS during EIU in the rat.
+METHODS: EIU was induced in Lewis rats by a single foot pad injection of 150 
+micrograms lipopolysaccharide (LPS) from Salmonella typhimurium. At different 
+time intervals after LPS injection, the authors evaluated ocular inflammation 
+(slit lamp observation), iNOS localization by in situ hybridization, and 
+comparison of OX-42- and ED1-positive cell appearance and of glial response by 
+specific immunohistochemistry.
+RESULTS: iNOS mRNA was not detected in the iris-ciliary body nor in the retina 
+of control rats. It was detected strongly in the epithelial cells of the 
+iris-ciliary body at 6 hours and also in stromal cells of the ciliary processes 
+at 16 hours after LPS injection. In the neuroretina, iNOS mRNA was observed in 
+the inner layers 16 hours after LPS injection. iNOS-positive cells were also 
+present on the vitreous at this time. At 6 and approximately 16 hours after LPS 
+injection, immunohistochemistry experiments revealed a large number of OX-42- 
+and ED1-positive cells (microglia, macrophages, or polymorphonuclear leukocytes) 
+colocalized in part with some iNOS-positive cells in the ciliary body and in the 
+retina. Furthermore, expression of iNOS in Müller cells cannot be excluded.
+CONCLUSIONS: These observations confirm that subcutaneous injection of endotoxin 
+dramatically induces NOS mRNA expression in the eye, and they demonstrate that 
+epithelial cells of the iris-ciliary body and cells infiltrating the anterior 
+segment of the eye and the retina are the major source of NO. These results 
+support the hypothesis that both inflammatory and resident ocular cells are 
+involved in iNOS expression during EIU.
+
+PMID: 8631633 [Indexed for MEDLINE]
+
+
+64. Life Sci. 1996;58(22):1979-86. doi: 10.1016/0024-3205(96)00188-9.
+
+Membrane delimited and intracellular soluble pathways in the somatostatin 
+modulation of ACh release.
+
+Pilar G(1), Gray DB, Meriney SD.
+
+Author information:
+(1)Department of Physiology and Neurobiology, Univ. of Connecticut, Storrs 
+06269-4156, USA.
+
+The signal transduction cascade between the activation of the somatostatin (SOM) 
+receptor and modulation of transmitter release was study using Acetylcholine 
+(Ach) release measurements and patch clamp recordings of Ca2+ current from 
+acutely dissociated St 40 ciliary ganglion neurons. As in intact synapses, somal 
+ACh release was blocked by 100 nM SOM or 100 microM dibutyril cGMP, and the 
+SOM-mediated inhibition could be reversed by 10 microM 1-NAME (a selective 
+inhibitor of nitric oxide synthase, NOS) or 100 microM Rp-8p-CPT-cGMPs (a 
+selective inhibitor of a cGMP protein dependent kinase, PKG). In whole cell 
+recordings, SOM inhibition of Ca2+ current rapidly relaxes to control levels but 
+is sustained in perforated patch recordings which decreases cell dialysis. 
+Inhibition of NOS or PKG in perforated patch recordings, however caused SOM 
+effects to become transient again. We hypothesize that PKG alters the 
+characteristics of the membrane-delimited G protein inhibition of Ca2+ current. 
+Therefore SOM receptors trigger a membrane-delimited signal transduction cascade 
+that is modulated by soluble messengers, converging on voltage activated Ca2+ 
+channels. When both pathways are active together, SOM causes a sustained 
+inhibition of neuronal Ca2+ current leading to a decrease in transmitter 
+release.
+
+DOI: 10.1016/0024-3205(96)00188-9
+PMID: 8637427 [Indexed for MEDLINE]
+
+
+65. Neurosci Lett. 1995 Nov 10;200(1):45-8. doi: 10.1016/0304-3940(95)12078-i.
+
+Brain-derived neurotrophic factor promotes survival and blocks nitric oxide 
+synthase expression in adult rat spinal motoneurons after ventral root avulsion.
+
+Novikov L(1), Novikova L, Kellerth JO.
+
+Author information:
+(1)Department of Anatomy, Umeå University, Sweden.
+
+In adult spinal motoneurons, retrograde cell death is induced by ventral root 
+avulsion. A lethal effect of nitric oxide has been implicated, since nitric 
+oxide synthase (NOS) is expressed in the motoneurons destined to die. Our study 
+investigates the effects of brain-derived neurotrophic factor (BDNF) and ciliary 
+neurotrophic factor (CNTF) on the retrograde cell death and NOS expression of 
+adult rat spinal motoneurons. Following ventral root avulsion and 4 weeks of 
+continuous treatment, BDNF, but not CNTF, was found to prevent cell death and 
+NOS expression in the lesioned motoneurons. This suggests a therapeutic 
+potential for BDNF in the adult nervous system, possibly through blockage of 
+nitric oxide synthesis.
+
+DOI: 10.1016/0304-3940(95)12078-i
+PMID: 8584263 [Indexed for MEDLINE]
+
+
+66. Am J Physiol. 1995 Jun;268(6 Pt 1):L911-7. doi: 10.1152/ajplung.1995.268.6.L911.
+
+TNF-alpha and IL-1 beta upregulate nitric oxide-dependent ciliary motility in 
+bovine airway epithelium.
+
+Jain B(1), Rubinstein I, Robbins RA, Sisson JH.
+
+Author information:
+(1)Department of Medicine, University of Nebraska Medical Center, Omaha 
+68198-5300, USA.
+
+Airway epithelial cells can be modulated by cytokines such as tumor necrosis 
+factor (TNF)-alpha and interleukin (IL)-1 beta that are released from 
+inflammatory cells. Since ciliary motility is an important host defense function 
+of airway epithelium, we hypothesized that cytokines, released from lung 
+macrophages, upregulate ciliary motility. To test this hypothesis, ciliary beat 
+frequency (CBF) was measured by video microscopy in cultured ciliated bovine 
+bronchial epithelial cells (BBECs) incubated for 24 h with bovine alveolar 
+macrophage-conditioned medium (AM-CM). Exposure to AM-CM resulted in a delayed 
+(> or = 2 h) increase in CBF that was maximal after 24 h exposure (13.70 +/- 
+0.43 for AM-CM vs. 9.44 +/- 0.24 Hz for medium; P < 0.0001) and which was 
+largely blocked by either anti-TNF-alpha or anti-IL-1 beta antibodies. 
+rTNF-alpha or rIL-1 beta similarly increased CBF, which could be blocked by 
+preincubation with either anti-rTNF-alpha or anti-rIL-1 beta antibodies. 
+Preincubation of BBECs with actinomycin D or dexamethasone also blocked 
+rTNF-alpha- and rIL-1 beta-induced cilia stimulation, suggesting that new 
+protein synthesis is required for cytokine-induced upregulation of CBF. Since NO 
+is known to upregulate ciliary motility and cytokines can induce NO synthase 
+(NOS), we hypothesized that TNF-alpha and IL-1 beta increase CBF by inducing NOS 
+in BBECs. The cilia stimulatory effects of TNF-alpha or IL-1 beta were inhibited 
+by NG-monomethyl-L-arginine, a competitive NOS inhibitor, and restored by the 
+addition of either L-arginine, an NOS substrate, or sodium nitroprusside, an NO 
+donor.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1152/ajplung.1995.268.6.L911
+PMID: 7541949 [Indexed for MEDLINE]
+
+
+67. Am J Physiol. 1995 Apr;268(4 Pt 1):L596-600. doi: 
+10.1152/ajplung.1995.268.4.L596.
+
+Ethanol stimulates apparent nitric oxide-dependent ciliary beat frequency in 
+bovine airway epithelial cells.
+
+Sisson JH(1).
+
+Author information:
+(1)Department of Internal Medicine, University of Nebraska Medical Center, Omaha 
+68198, USA.
+
+The mucociliary apparatus of the lung provides an important host-defense 
+function by clearing the upper airway of inhaled particles and infectious 
+microorganisms. Because lung host defenses are impaired in alcoholics, we 
+hypothesized that ethanol would decrease ciliary motility in airway epithelium. 
+Ciliary beat frequency (CBF) was measured by videomicroscopy in primary cultures 
+of ciliated bovine bronchial epithelial cells (BBECs). Ethanol rapidly 
+stimulated ciliary motility in a time-dependent fashion with concentrations as 
+low as 10 mM. No detectable decreases in ciliary motility were noted until 
+ethanol concentrations exceeded 1,000 mM. Because many substances stimulate 
+ciliary motility by releasing nitric oxide (NO) via upregulation of nitric oxide 
+synthase (NOS), we preincubated ciliated BBECs with a stereospecific NOS 
+inhibitor, NG-monomethyl-L-arginine (L-NMMA). L-NMMA completely blocked 
+ethanol-induced stimulation of CBF, which could be subsequently restored by 
+adding either L-arginine or sodium nitroprusside, which is a direct NO donor. 
+These results indicate that ethanol, at clinically relevant concentrations, 
+stimulates the release of NO by airway epithelium that upregulates ciliary 
+motility. The rapidity of this response suggests upregulation of the 
+constitutive NOS, known to be present in airway epithelium, and may explain the 
+increases in mucociliary clearance observed in previous studies of ethanol 
+ingestion in animals and in humans. These data also suggest a novel signal 
+transduction pathway, the NO/NOS system, by which ethanol may exert some of its 
+diverse biologic effects.
+
+DOI: 10.1152/ajplung.1995.268.4.L596
+PMID: 7537462 [Indexed for MEDLINE]

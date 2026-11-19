@@ -1,0 +1,787 @@
+1. J Physiol. 2024 Oct;602(19):4889-4905. doi: 10.1113/JP286959. Epub 2024 Aug 21.
+
+The Ca(2+)-activated Cl(-) channel TMEM16B shapes the response time course of 
+olfactory sensory neurons.
+
+Reisert J(1), Pifferi S(2), Guarneri G(3), Ricci C(3), Menini A(3), Dibattista 
+M(4).
+
+Author information:
+(1)Monell Chemical Senses Center, Philadelphia, PA, United States.
+(2)Department of Experimental and Clinical Medicine, Università Politecnica 
+delle Marche, Ancona, Italy.
+(3)Neurobiology Group, SISSA, Scuola Internazionale Superiore di Studi Avanzati, 
+Trieste, Italy.
+(4)Department of Translational Biomedicine and Neuroscience, University of Bari 
+Aldo Moro, Bari, Italy.
+
+Mammalian olfactory sensory neurons (OSNs) generate an odorant-induced response 
+by sequentially activating two ion channels, which are in their ciliary 
+membranes. First, a cationic, Ca2+-permeable cyclic nucleotide-gated channel is 
+opened following odorant stimulation via a G protein-coupled transduction 
+cascade and an ensuing rise in cAMP. Second, the increase in ciliary Ca2+ opens 
+the excitatory Ca2+-activated Cl- channel TMEM16B, which carries most of the 
+odorant-induced receptor current. While the role of TMEM16B in amplifying the 
+response has been well established, it is less understood how this secondary ion 
+channel contributes to response kinetics and action potential generation during 
+single as well as repeated stimulation and, on the other hand, which response 
+properties the cyclic nucleotide-gated (CNG) channel determines. We first 
+demonstrate that basic membrane properties such as input resistance, resting 
+potential and voltage-gated currents remained unchanged in OSNs that lack 
+TMEM16B. The CNG channel predominantly determines the response delay and 
+adaptation during odorant exposure, while the absence of the Cl- channels 
+shortens both the time the response requires to reach its maximum and the time 
+to terminate after odorant stimulation. This faster response termination in 
+Tmem16b knockout OSNs allows them, somewhat counterintuitively despite the large 
+reduction in receptor current, to fire action potentials more reliably when 
+stimulated repeatedly in rapid succession, a phenomenon that occurs both in 
+isolated OSNs and in OSNs within epithelial slices. Thus, while the two 
+olfactory ion channels act in concert to generate the overall response, each one 
+controls specific aspects of the odorant-induced response. KEY POINTS: Mammalian 
+olfactory sensory neurons (OSNs) generate odorant-induced responses by 
+activating two ion channels sequentially in their ciliary membranes: a Na+, 
+Ca2⁺-permeable cyclic nucleotide-gated (CNG) channel and the Ca2⁺-activated Cl⁻ 
+channel TMEM16B. The CNG channel controls response delay and adaptation during 
+odorant exposure, while TMEM16B amplifies the response and influences the time 
+required for the response to reach its peak and terminate. OSNs lacking TMEM16B 
+display faster response termination, allowing them to fire action potentials 
+more reliably during rapid repeated stimulation. The CNG and TMEM16B channels 
+have distinct and complementary roles in shaping the kinetics and reliability of 
+odorant-induced responses in OSNs.
+
+© 2024 The Author(s). The Journal of Physiology © 2024 The Physiological 
+Society.
+
+DOI: 10.1113/JP286959
+PMCID: PMC11466690
+PMID: 39167717 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+2. Genes Dis. 2023 May 23;11(2):1035-1049. doi: 10.1016/j.gendis.2023.03.033. 
+eCollection 2024 Mar.
+
+The endoplasmic reticulum membrane protein complex subunit Emc6 is essential for 
+rhodopsin localization and photoreceptor cell survival.
+
+Sun K(1)(2)(3)(4), Liu L(3), Jiang X(3), Wang H(1), Wang L(3), Yang Y(3), Liu 
+W(3), Zhang L(3), Zhao X(2), Zhu X(1)(2)(3)(4)(5).
+
+Author information:
+(1)Health Management Center, Sichuan Provincial People's Hospital, University of 
+Electronic Science and Technology of China, Chengdu, Sichuan 610072, China.
+(2)Key Laboratory of Tibetan Medicine Research, Chinese Academy of Sciences and 
+Qinghai Provincial Key Laboratory of Tibetan Medicine Research, Northwest 
+Institute of Plateau Biology, Xining, Qinghai 810008, China.
+(3)The Sichuan Provincial Key Laboratory for Human Disease Gene Study and 
+Department of Laboratory Medicine, Center for Medical Genetics, Sichuan 
+Provincial People's Hospital, University of Electronic Science and Technology of 
+China, Chengdu, Sichuan 610072, China.
+(4)Research Unit for Blindness Prevention of Chinese Academy of Medical Sciences 
+(2019RU026), Sichuan Academy of Medical Sciences and Sichuan Provincial People's 
+Hospital, Chengdu, Sichuan 610072, China.
+(5)Department of Ophthalmology, The First People's Hospital of Shangqiu, 
+Shangqiu, Henan 476000, China.
+
+The endoplasmic reticulum (ER) membrane protein complex (EMC) is responsible for 
+monitoring the biogenesis and synthetic quality of membrane proteins with 
+tail-anchored or multiple transmembrane domains. The EMC subunit EMC6 is one of 
+the core members of EMC and forms an enclosed hydrophilic vestibule in 
+cooperation with EMC3. Despite studies demonstrating that deletion of EMC3 led 
+to rhodopsin mislocalization in rod photoreceptors of mice, the precise 
+mechanism leading to the failure of rhodopsin trafficking remains unclear. Here, 
+we generated the first rod photoreceptor-specific knockout of Emc6 (RKO) and 
+cone photoreceptor-specific knockout of Emc6 (CKO) mouse models. Deficiency of 
+Emc6 in rod photoreceptors led to progressive shortening of outer segments (OS), 
+impaired visual function, mislocalization and reduced expression of rhodopsin, 
+and increased gliosis in rod photoreceptors. In addition, CKO mice displayed the 
+progressive death of cone photoreceptors and abnormal localization of cone opsin 
+protein. Subsequently, proteomics analysis of the RKO mouse retina illustrated 
+that several cilium-related proteins, particularly anoctamin-2 (ANO2) and 
+transmembrane protein 67 (TMEM67), were significantly down-regulated prior to OS 
+degeneration. Detrimental rod photoreceptor cilia and mislocalized membrane disc 
+proteins were evident in RKO mice. Our data revealed that in addition to 
+monitoring the synthesis of rhodopsin-dominated membrane disc proteins, EMC6 
+also impacted rod photoreceptors' ciliogenesis by regulating the synthesis of 
+membrane proteins associated with cilia, contributing to the mislocalization of 
+membrane disc proteins.
+
+© 2023 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi 
+Communications Co., Ltd.
+
+DOI: 10.1016/j.gendis.2023.03.033
+PMCID: PMC10492031
+PMID: 37692493
+
+
+3. BMC Neurosci. 2017 Aug 11;18(1):61. doi: 10.1186/s12868-017-0379-7.
+
+A CLCA regulatory protein present in the chemosensory cilia of olfactory sensory 
+neurons induces a Ca(2+)-activated Cl(-) current when transfected into HEK293.
+
+Mura CV(1), Delgado R(1), Delgado MG(1), Restrepo D(2), Bacigalupo J(3).
+
+Author information:
+(1)Department of Biology, Faculty of Sciences, University of Chile, Las Palmeras 
+3425, Ñuñoa, 7800024, Santiago, Chile.
+(2)Department of Cell and Developmental Biology, Neuroscience Program and Rocky 
+Mountain Taste and Smell Center, University of Colorado Anschutz Medical Campus, 
+Aurora, CO, 80045, USA.
+(3)Department of Biology, Faculty of Sciences, University of Chile, Las Palmeras 
+3425, Ñuñoa, 7800024, Santiago, Chile. bacigalu@uchile.cl.
+
+BACKGROUND: CLCA is a family of metalloproteases that regulate Ca2+-activated 
+Cl- fluxes in epithelial tissues. In HEK293 cells, CLCA1 promotes membrane 
+expression of an endogenous Anoctamin 1 (ANO1, also termed TMEM16A)-dependent 
+Ca2+-activated Cl- current. Motif architecture similarity with CLCA2, 3 and 4 
+suggested that they have similar functions. We previously detected the isoform 
+CLCA4L in rat olfactory sensory neurons, where Anoctamin 2 is the principal 
+chemotransduction Ca2+-activated Cl- channel. We explored the possibility that 
+this protein plays a role in odor transduction.
+RESULTS: We cloned and expressed CLCA4L from rat olfactory epithelium in HEK293 
+cells. In the transfected HEK293 cells we measured a Cl--selective 
+Ca2+-activated current, blocked by niflumic acid, not present in the 
+non-transfected cells. Thus, CLCA4L mimics the CLCA1 current on its ability to 
+induce the ANO1-dependent Ca2+-activated Cl- current endogenous to these cells. 
+By immunocytochemistry, a CLCA protein, presumably CLCA4L, was detected in the 
+cilia of olfactory sensory neurons co-expressing with ANO2.
+CONCLUSION: These findings suggests that a CLCA isoform, namely CLCA4L, 
+expressed in OSN cilia, might have a regulatory function over the ANO2-dependent 
+Ca2+-activated Cl- channel involved in odor transduction.
+
+DOI: 10.1186/s12868-017-0379-7
+PMCID: PMC5553735
+PMID: 28800723 [Indexed for MEDLINE]
+
+
+4. Channels (Austin). 2017 Sep 3;11(5):399-414. doi: 10.1080/19336950.2017.1307489. 
+Epub 2017 Mar 16.
+
+The long tale of the calcium activated Cl(-) channels in olfactory transduction.
+
+Dibattista M(1), Pifferi S(2), Boccaccio A(3), Menini A(2), Reisert J(4).
+
+Author information:
+(1)a Department of Basic Medical Sciences, Neuroscience and Sensory Organs , 
+University of Bari A. Moro , Bari , Italy.
+(2)b Neurobiology Group, SISSA, Scuola Internazionale Superiore di Studi 
+Avanzati , Trieste , Italy.
+(3)c Institute of Biophysics, CNR , Genova , Italy.
+(4)d Monell Chemical Senses Center , Philadelphia , PA , USA.
+
+Ca2+-activated Cl- currents have been implicated in many cellular processes in 
+different cells, but for many years, their molecular identity remained unknown. 
+Particularly intriguing are Ca2+-activated Cl- currents in olfactory 
+transduction, first described in the early 90s. Well characterized 
+electrophysiologically, they carry most of the odorant-induced receptor current 
+in the cilia of olfactory sensory neurons (OSNs). After many attempts to 
+determine their molecular identity, TMEM16B was found to be abundantly expressed 
+in the cilia of OSNs in 2009 and having biophysical properties like those of the 
+native olfactory channel. A TMEM16B knockout mouse confirmed that TMEM16B was 
+indeed the olfactory Cl- channel but also suggested a limited role in olfactory 
+physiology and behavior. The question then arises of what the precise role of 
+TMEM16b in olfaction is. Here we review the long story of this channel and its 
+possible roles.
+
+DOI: 10.1080/19336950.2017.1307489
+PMCID: PMC5626357
+PMID: 28301269 [Indexed for MEDLINE]
+
+
+5. J Gen Physiol. 2016 Oct;148(4):293-311. doi: 10.1085/jgp.201611622. Epub 2016 
+Sep 12.
+
+The Ca2+-activated Cl- channel TMEM16B regulates action potential firing and 
+axonal targeting in olfactory sensory neurons.
+
+Pietra G(1), Dibattista M(2), Menini A(3), Reisert J(4), Boccaccio A(5).
+
+Author information:
+(1)Neurobiology Group, International School for Advanced Studies (SISSA), 34136 
+Trieste, Italy.
+(2)Monell Chemical Senses Center, Philadelphia, PA 19104.
+(3)Neurobiology Group, International School for Advanced Studies (SISSA), 34136 
+Trieste, Italy boccaccio@ge.ibf.cnr.it menini@sissa.it jreisert@monell.org.
+(4)Monell Chemical Senses Center, Philadelphia, PA 19104 boccaccio@ge.ibf.cnr.it 
+menini@sissa.it jreisert@monell.org.
+(5)Institute of Biophysics, National Research Council (CNR), 16149 Genova, Italy 
+boccaccio@ge.ibf.cnr.it menini@sissa.it jreisert@monell.org.
+
+The Ca(2+)-activated Cl(-) channel TMEM16B is highly expressed in the cilia of 
+olfactory sensory neurons (OSNs). Although a large portion of the odor-evoked 
+transduction current is carried by Ca(2+)-activated Cl(-) channels, their role 
+in olfaction is still controversial. A previous report (Billig et al. 2011. Nat. 
+Neurosci. http://dx.doi.org/10.1038/nn.2821) showed that disruption of the 
+TMEM16b/Ano2 gene in mice abolished Ca(2+)-activated Cl(-) currents in OSNs but 
+did not produce any major change in olfactory behavior. Here we readdress the 
+role of TMEM16B in olfaction and show that TMEM16B knockout (KO) mice have 
+behavioral deficits in odor-guided food-finding ability. Moreover, as the role 
+of TMEM16B in action potential (AP) firing has not yet been studied, we use 
+electrophysiological recording methods to measure the firing activity of OSNs. 
+Suction electrode recordings from isolated olfactory neurons and on-cell 
+loose-patch recordings from dendritic knobs of neurons in the olfactory 
+epithelium show that randomly selected neurons from TMEM16B KO mice respond to 
+stimulation with increased firing activity than those from wild-type (WT) mice. 
+Because OSNs express different odorant receptors (ORs), we restrict variability 
+by using a mouse line that expresses a GFP-tagged I7 OR, which is known to be 
+activated by heptanal. In response to heptanal, we measure dramatic changes in 
+the firing pattern of I7-expressing neurons from TMEM16B KO mice compared with 
+WT: responses are prolonged and display a higher number of APs. Moreover, lack 
+of TMEM16B causes a markedly reduced basal spiking activity in I7-expressing 
+neurons, together with an alteration of axonal targeting to the olfactory bulb, 
+leading to the appearance of supernumerary I7 glomeruli. Thus, TMEM16B controls 
+AP firing and ensures correct glomerular targeting of OSNs expressing I7. 
+Altogether, these results show that TMEM16B does have a relevant role in normal 
+olfaction.
+
+© 2016 Pietra et al.
+
+DOI: 10.1085/jgp.201611622
+PMCID: PMC5037344
+PMID: 27619419 [Indexed for MEDLINE]
+
+
+6. BMC Neurosci. 2016 Apr 25;17(1):17. doi: 10.1186/s12868-016-0252-0.
+
+Single Ca(2+)-activated Cl(-) channel currents recorded from toad olfactory 
+cilia.
+
+Delgado R(1), Mura CV(1), Bacigalupo J(2).
+
+Author information:
+(1)Department of Biology, Faculty of Sciences, University of Chile, 7800024, 
+Ñuñoa, Santiago, Chile.
+(2)Department of Biology, Faculty of Sciences, University of Chile, 7800024, 
+Ñuñoa, Santiago, Chile. bacigalu@uchile.cl.
+
+BACKGROUND: Odor transduction, occurring in the chemosensory cilia of vertebrate 
+olfactory sensory neurons, is triggered by guanosine triphosphate-coupled odor 
+receptors and mediated by a cyclic adenosine monophosphate (cAMP) signaling 
+cascade, where cAMP opens cationic non-selective cyclic nucleotide-gated (CNG) 
+channels. Calcium enters through CNG gates Ca(2+)-activated Cl(-) channels, 
+allowing a Cl(-) inward current that enhances the depolarization initiated by 
+the CNG-dependent inward current. The anoctamin channel 2, ANO2, is considered 
+the main Ca(2+)-activated Cl(-) channel of olfactory transduction. Although 
+Ca(2+)-activated Cl(-) channel-dependent currents in olfactory sensory neurons 
+were reported to be suppressed in ANO2-knockout mice, field potentials from 
+their olfactory epithelium were only modestly diminished and their 
+smell-dependent behavior was unaffected, suggesting the participation of 
+additional Ca(2+)-activated Cl(-) channel types. The Bestrophin channel 2, 
+Best2, was also detected in mouse olfactory cilia and ClCa4l, belonging to the 
+ClCa family of Ca(2+)-activated Cl(-) channels, were found in rat cilia. Best2 
+knock-out mice present no electrophysiological or behavioral impairment, while 
+the ClCa channels have not been functionally studied; therefore, the overall 
+participation of all these channels in olfactory transduction remains 
+unresolved.
+RESULTS: We explored the presence of detectable Ca(2+)-activated Cl(-) channels 
+in toad olfactory cilia by recording from inside-out membrane patches excised 
+from individual cilia and detected unitary Cl(-) current events with a 
+pronounced Ca(2+) dependence, corresponding to 12 and 24 pS conductances, over 
+tenfold higher than the aforementioned channels, and a approx. fivefold higher 
+Ca(2+) affinity (K0.5 = 0.38 µM). Remarkably, we observed immunoreactivity to 
+anti-ClCa and anti-ANO2 antibodies in the olfactory cilia, suggesting a possible 
+cooperative function of both channel type in chemotransduction.
+CONCLUSIONS: These results are consistent with a novel olfactory cilia channel, 
+which might play a role in odor transduction.
+
+DOI: 10.1186/s12868-016-0252-0
+PMCID: PMC4845334
+PMID: 27113933 [Indexed for MEDLINE]
+
+
+7. J Cell Sci. 2015 May 15;128(10):1934-45. doi: 10.1242/jcs.164673. Epub 2015 Apr 
+23.
+
+SUMOylation regulates ciliary localization of olfactory signaling proteins.
+
+McIntyre JC(1), Joiner AM(2), Zhang L(1), Iñiguez-Lluhí J(2), Martens JR(3).
+
+Author information:
+(1)Department of Pharmacology and Therapeutics, University of Florida, PO Box 
+100267, Gainesville, FL 32610, USA.
+(2)Department of Pharmacology, University of Michigan, Ann Arbor, MI 48109, USA.
+(3)Department of Pharmacology and Therapeutics, University of Florida, PO Box 
+100267, Gainesville, FL 32610, USA martensj@ufl.edu.
+
+Cilia are evolutionarily conserved organelles found on many mammalian cell 
+types, including neuronal populations. Although neuronal cilia, including those 
+on olfactory sensory neurons (OSNs), are often delineated by localization of 
+adenylyl cyclase 3 (AC3, also known as ADCY3), the mechanisms responsible for 
+targeting integral membrane proteins are largely unknown. Post-translational 
+modification by small ubiquitin-like modifier (SUMO) proteins plays an important 
+role in protein localization processes such as nuclear-cytosolic transport. 
+Here, we identified through bioinformatic analysis that adenylyl cyclases harbor 
+conserved SUMOylation motifs, and show that AC3 is a substrate for SUMO 
+modification. Functionally, overexpression of the SUMO protease SENP2 prevented 
+ciliary localization of AC3, without affecting ciliation or cilia maintenance. 
+Furthermore, AC3-SUMO mutants did not localize to cilia. To test whether 
+SUMOylation is sufficient for cilia entry, we compared localization of ANO2, 
+which possesses a SUMO motif, and ANO1, which lacks SUMOylation sites and does 
+not localize to cilia. Introduction of SUMOylation sites into ANO1 was not 
+sufficient for ciliary entry. These data suggest that SUMOylation is necessary 
+but not sufficient for ciliary trafficking of select constituents, further 
+establishing the link between ciliary and nuclear import.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jcs.164673
+PMCID: PMC4457158
+PMID: 25908845 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing or financial interests.
+
+
+8. Chem Senses. 2015 Feb;40(2):73-87. doi: 10.1093/chemse/bju061. Epub 2014 Dec 12.
+
+Co-expression of anoctamins in cilia of olfactory sensory neurons.
+
+Henkel B(1), Drose DR(2), Ackels T(2), Oberland S(1), Spehr M(2), Neuhaus EM(3).
+
+Author information:
+(1)Department of Pharmacology and Toxicology, University Hospital Jena, 
+Drackendorfer Strasse 1, 07747 Jena, Germany, Cluster of Excellence NeuroCure, 
+Charité-Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany, FU 
+Berlin, Fachbereich Biologie, Chemie und Pharmazie , Takustr. 3, 14195 Berlin, 
+Germany and.
+(2)Department of Chemosensation, Institute for Biology II, RWTH Aachen 
+University, Worringerweg 3, 52074 Aachen, Germany.
+(3)Department of Pharmacology and Toxicology, University Hospital Jena, 
+Drackendorfer Strasse 1, 07747 Jena, Germany, Cluster of Excellence NeuroCure, 
+Charité-Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany, 
+eva.neuhaus@med.uni-jena.de.
+
+Vertebrates can sense and identify a vast array of chemical cues. The molecular 
+machinery involved in chemodetection and transduction is expressed within the 
+cilia of olfactory sensory neurons. Currently, there is only limited information 
+available on the distribution and density of individual signaling components 
+within the ciliary compartment. Using super-resolution microscopy, we show here 
+that cyclic-nucleotide-gated channels and calcium-activated chloride channels of 
+the anoctamin family are localized to discrete microdomains in the ciliary 
+membrane. In addition to ANO2, a second anoctamin, ANO6, also localizes to 
+ciliary microdomains. This observation, together with the fact that ANO6 and 
+ANO2 co-localize, indicates a role for ANO6 in olfactory signaling. We show that 
+both ANO2 and ANO6 can form heteromultimers and that this heteromerization 
+alters the recombinant channels' physiological properties. Thus, we provide 
+evidence for interaction of ANO2 and ANO6 in olfactory cilia, with possible 
+physiological relevance for olfactory signaling.
+
+© The Author 2014. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/chemse/bju061
+PMID: 25500808 [Indexed for MEDLINE]
+
+
+9. Dev Neurobiol. 2014 Jul;74(7):657-75. doi: 10.1002/dneu.22159. Epub 2013 Dec 17.
+
+Developmental expression of the calcium-activated chloride channels TMEM16A and 
+TMEM16B in the mouse olfactory epithelium.
+
+Maurya DK(1), Menini A.
+
+Author information:
+(1)Laboratory of Olfactory Transduction, SISSA, International School for 
+Advanced Studies, Via Bonomea 265, Trieste, 34136, Italy.
+
+Calcium-activated chloride channels are involved in several physiological 
+processes including olfactory perception. TMEM16A and TMEM16B, members of the 
+transmembrane protein 16 family (TMEM16), are responsible for calcium-activated 
+chloride currents in several cells. Both are present in the olfactory epithelium 
+of adult mice, but little is known about their expression during embryonic 
+development. Using immunohistochemistry we studied their expression in the mouse 
+olfactory epithelium at various stages of prenatal development from embryonic 
+day (E) 12.5 to E18.5 as well as in postnatal mice. At E12.5, TMEM16A 
+immunoreactivity was present at the apical surface of the entire olfactory 
+epithelium, but from E16.5 became restricted to a region near the transition 
+zone with the respiratory epithelium, where localized at the apical part of 
+supporting cells and in their microvilli. In contrast, TMEM16B immunoreactivity 
+was present at E14.5 at the apical surface of the entire olfactory epithelium, 
+increased in subsequent days, and localized to the cilia of mature olfactory 
+sensory neurons. These data suggest different functional roles for TMEM16A and 
+TMEM16B in the developing as well as in the postnatal olfactory epithelium. The 
+presence of TMEM16A at the apical part and in microvilli of supporting cells is 
+consistent with a role in the regulation of the chloride ionic composition of 
+the mucus covering the apical surface of the olfactory epithelium, whereas the 
+localization of TMEM16B to the cilia of mature olfactory sensory neurons is 
+consistent with a role in olfactory signal transduction.
+
+© 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dneu.22159
+PMID: 24318978 [Indexed for MEDLINE]
+
+
+10. RETRACTED ARTICLE
+
+Am J Physiol Regul Integr Comp Physiol. 2013 Dec;305(11):R1376-89. doi: 
+10.1152/ajpregu.00303.2012. Epub 2013 Sep 18.
+
+Phylogenetic, expression, and functional analyses of anoctamin homologs in 
+Caenorhabditis elegans.
+
+Wang Y(1), Alam T, Hill-Harfe K, Lopez AJ, Leung CK, Iribarne D, Bruggeman B, 
+Miyamoto MM, Harfe BD, Choe KP.
+
+Author information:
+(1)Department of Biology, University of Florida, Gainesville, Florida;
+
+Retraction in
+    Am J Physiol Regul Integr Comp Physiol. 2015 Dec 1;309(11):R1461. doi: 
+10.1152/ajpregu.zh6-8888-retr.2015.
+
+Ca(2+)-activated Cl(-) channels (CaCCs) are critical to processes such as 
+epithelial transport, membrane excitability, and signal transduction. Anoctamin, 
+or TMEM16, is a family of 10 mammalian transmembrane proteins, 2 of which were 
+recently shown to function as CaCCs. The functions of other family members have 
+not been firmly established, and almost nothing is known about anoctamins in 
+invertebrates. Therefore, we performed a phylogenetic analysis of anoctamins 
+across the animal kingdom and examined the expression and function of anoctamins 
+in the genetically tractable nematode Caenorhabditis elegans. Phylogenetic 
+analyses support five anoctamin clades that are at least as old as the 
+deuterostome/protosome ancestor. This includes a branch containing two 
+Drosophila paralogs that group with mammalian ANO1 and ANO2, the two best 
+characterized CaCCs. We identify two anoctamins in C. elegans (ANOH-1 and 
+ANOH-2) that are also present in basal metazoans. The anoh-1 promoter is active 
+in amphid sensory neurons that detect external chemical and nociceptive cues. 
+Within amphid neurons, ANOH-1::GFP fusion protein is enriched within sensory 
+cilia. RNA interference silencing of anoh-1 reduced avoidance of steep osmotic 
+gradients without disrupting amphid cilia development, chemotaxis, or withdrawal 
+from noxious stimuli, suggesting that ANOH-1 functions in a sensory 
+mode-specific manner. The anoh-2 promoter is active in mechanoreceptive neurons 
+and the spermatheca, but loss of anoh-2 had no effect on motility or brood size. 
+Our study indicates that at least five anoctamin duplicates are evolutionarily 
+ancient and suggests that sensory signaling may be a basal function of the 
+anoctamin protein family.
+
+DOI: 10.1152/ajpregu.00303.2012
+PMID: 24049119 [Indexed for MEDLINE]
+
+
+11. PLoS One. 2013 Jul 9;8(7):e69295. doi: 10.1371/journal.pone.0069295. Print 2013.
+
+Ca2+-activated Cl- channels of the ClCa family express in the cilia of a subset 
+of rat olfactory sensory neurons.
+
+Gonzalez-Silva C(1), Vera J, Bono MR, González-Billault C, Baxter B, Hansen A, 
+Lopez R, Gibson EA, Restrepo D, Bacigalupo J.
+
+Author information:
+(1)Department of Biology, Faculty of Sciences, University of Chile, Las 
+Palmeras, Santiago, Chile.
+
+The Ca(2+)-activated Cl(-) channel is considered a key constituent of odor 
+transduction. Odorant binding to a specific receptor in the cilia of olfactory 
+sensory neurons (OSNs) triggers a cAMP cascade that mediates the opening of a 
+cationic cyclic nucleotide-gated channel (CNG), allowing Ca(2+) influx. Ca(2+) 
+ions activate Cl(-) channels, generating a significant Cl(-) efflux, with a 
+large contribution to the receptor potential. The Anoctamin 2 channel (ANO2) is 
+a major constituent of the Cl(-) conductance, but its knock-out has no 
+impairment of behavior and only slightly reduces field potential odorant 
+responses of the olfactory epithelium. Likely, an additional Ca(2+)-activated 
+Cl(-) channel of unknown molecular identity is also involved. In addition to 
+ANO2, we detected two members of the ClCa family of Ca(2+)-activated Cl(-) 
+channels in the rat olfactory epithelium, ClCa4l and ClCa2. These channels, also 
+expressed in the central nervous system, may correspond to odorant transduction 
+channels. Whole Sprague Dawley olfactory epithelium nested RT-PCR and single 
+OSNs established that the mRNAs of both channels are expressed in OSNs. Real 
+time RT-PCR and full length sequencing of amplified ClCa expressed in rat 
+olfactory epithelium indicated that ClCa4l is the most abundant. Immunoblotting 
+with an antibody recognizing both channels revealed immunoreactivity in the 
+ciliary membrane. Immunochemistry of olfactory epithelium and OSNs confirmed 
+their ciliary presence in a subset of olfactory sensory neurons. The evidence 
+suggests that ClCa4l and ClCa2 might play a role in odorant transduction in rat 
+olfactory cilia.
+
+DOI: 10.1371/journal.pone.0069295
+PMCID: PMC3706372
+PMID: 23874937 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+12. J Gen Physiol. 2013 Jun;141(6):691-703. doi: 10.1085/jgp.201210937. Epub 2013 
+May 13.
+
+Channel properties of the splicing isoforms of the olfactory calcium-activated 
+chloride channel Anoctamin 2.
+
+Ponissery Saidu S(1), Stephan AB, Talaga AK, Zhao H, Reisert J.
+
+Author information:
+(1)Monell Chemical Senses Center, Philadelphia, PA 19104, USA.
+
+Erratum in
+    J Gen Physiol. 2014 Aug;144(2):203.
+
+Anoctamin (ANO)2 (or TMEM16B) forms a cell membrane Ca(2+)-activated Cl(-) 
+channel that is present in cilia of olfactory receptor neurons, vomeronasal 
+microvilli, and photoreceptor synaptic terminals. Alternative splicing of Ano2 
+transcripts generates multiple variants with the olfactory variants skipping 
+exon 14 and having alternative splicing of exon 4. In the present study, 5' 
+rapid amplification of cDNA ends analysis was conducted to characterize the 5' 
+end of olfactory Ano2 transcripts, which showed that the most abundant Ano2 
+transcripts in the olfactory epithelium contain a novel starting exon that 
+encodes a translation initiation site, whereas transcripts of the publically 
+available sequence variant, which has an alternative and longer 5' end, were 
+present in lower abundance. With two alternative starting exons and alternative 
+splicing of exon 4, four olfactory ANO2 isoforms are thus possible. Patch-clamp 
+experiments in transfected HEK293T cells expressing these isoforms showed that 
+N-terminal sequences affect Ca(2+) sensitivity and that the exon 4-encoded 
+sequence is required to form functional channels. Coexpression of the two 
+predominant isoforms, one with and one without the exon 4 sequence, as well as 
+coexpression of the two rarer isoforms showed alterations in channel properties, 
+indicating that different isoforms interact with each other. Furthermore, 
+channel properties observed from the coexpression of the predominant isoforms 
+better recapitulated the native channel properties, suggesting that the native 
+channel may be composed of two or more splicing isoforms acting as subunits that 
+together shape the channel properties.
+
+DOI: 10.1085/jgp.201210937
+PMCID: PMC3664704
+PMID: 23669718 [Indexed for MEDLINE]
+
+
+13. J Gen Physiol. 2012 Apr;139(4):285-94. doi: 10.1085/jgp.201110764. Epub 2012 Mar 
+12.
+
+The voltage dependence of the TMEM16B/anoctamin2 calcium-activated chloride 
+channel is modified by mutations in the first putative intracellular loop.
+
+Cenedese V(1), Betto G, Celsi F, Cherian OL, Pifferi S, Menini A.
+
+Author information:
+(1)Neurobiology Sector, International School for Advanced Studies, and Italian 
+Institute of Technology, SISSA Unit, 34136 Trieste, Italy.
+
+Ca(2+)-activated Cl(-) channels (CaCCs) are involved in several physiological 
+processes. Recently, TMEM16A/anoctamin1 and TMEM16B/anoctamin2 have been shown 
+to function as CaCCs, but very little information is available on the 
+structure-function relations of these channels. TMEM16B is expressed in the 
+cilia of olfactory sensory neurons, in microvilli of vomeronasal sensory 
+neurons, and in the synaptic terminals of retinal photoreceptors. Here, we have 
+performed the first site-directed mutagenesis study on TMEM16B to understand the 
+molecular mechanisms of voltage and Ca(2+) dependence. We have mutated amino 
+acids in the first putative intracellular loop and measured the properties of 
+the wild-type and mutant TMEM16B channels expressed in HEK 293T cells using the 
+whole cell voltage-clamp technique in the presence of various intracellular 
+Ca(2+) concentrations. We mutated E367 into glutamine or deleted the five 
+consecutive glutamates (386)EEEEE(390) and (399)EYE(401). The EYE deletion did 
+not significantly modify the apparent Ca(2+) dependence nor the voltage 
+dependence of channel activation. E367Q and deletion of the five glutamates did 
+not greatly affect the apparent Ca(2+) affinity but modified the voltage 
+dependence, shifting the conductance-voltage relations toward more positive 
+voltages. These findings indicate that glutamates E367 and (386)EEEEE(390) in 
+the first intracellular putative loop play an important role in the voltage 
+dependence of TMEM16B, thus providing an initial structure-function study for 
+this channel.
+
+DOI: 10.1085/jgp.201110764
+PMCID: PMC3315145
+PMID: 22412191 [Indexed for MEDLINE]
+
+
+14. Cell Tissue Res. 2012 Feb;347(2):327-41. doi: 10.1007/s00441-012-1324-9.
+
+Expression patterns of anoctamin 1 and anoctamin 2 chloride channels in the 
+mammalian nose.
+
+Dauner K(1), Lissmann J, Jeridi S, Frings S, Möhrlen F.
+
+Author information:
+(1)Department of Molecular Physiology, Centre for Organismal Studies, University 
+of Heidelberg, Im Neuenheimer Feld 230, 69120 Heidelberg, Germany.
+
+Calcium-activated chloride channels are expressed in chemosensory neurons of the 
+nose and contribute to secretory processes and sensory signal transduction. 
+These channels are thought to be members of the family of anoctamins 
+(alternative name: TMEM16 proteins), which are opened by micromolar 
+concentrations of intracellular Ca(2+). Two family members,ANO 1 (TMEM16A) and 
+ANO 2 (TMEM16B), are expressed in the various sensory and respiratory tissues of 
+the nose.We have examined the tissue specificity and sub-cellular localization 
+of these channels in the nasal respiratory epithelium and in the five 
+chemosensory organs of the nose: the main olfactory epithelium, the septal organ 
+of Masera, the vomeronasal organ, the Grueneberg ganglion and the trigeminal 
+system. We have found that the two channels show mutually exclusive expression 
+patterns. ANO 1 is present in the apical membranes of various secretory 
+epithelia in which it is co-localized with the water channel aquaporin 5. It has 
+also been detected in acinar cells and duct cells of subepithelial glands and in 
+the supporting cells of sensory epithelia. In contrast, ANO 2 expression is 
+restricted to chemosensory neurons in which it has been detected in microvillar 
+and ciliary surface structures. The different expression patterns of ANO 1 and 
+ANO 2 have been observed in the olfactory, vomeronasal and respiratory 
+epithelia. No expression has been detected in the Grueneberg ganglion or 
+trigeminal sensory fibers. On the basis of this differential expression, we 
+derive the main functional features of ANO 1 and ANO 2 chloride channels in the 
+nose and suggest their significance for nasal physiology.
+
+DOI: 10.1007/s00441-012-1324-9
+PMID: 22314846 [Indexed for MEDLINE]
+
+
+15. Exp Physiol. 2012 Feb;97(2):193-9. doi: 10.1113/expphysiol.2011.058230. Epub 
+2011 Sep 2.
+
+Anoctamin 2/TMEM16B: a calcium-activated chloride channel in olfactory 
+transduction.
+
+Pifferi S(1), Cenedese V, Menini A.
+
+Author information:
+(1)SISSA, International School for Advanced Studies, and Italian Institute of 
+Technology, SISSA Unit, Via Bonomea 265, 34136 Trieste, Italy.
+
+In vertebrate olfactory transduction, a Ca(2+)-dependent Cl(-) efflux greatly 
+amplifies the odorant response. The binding of odorants to receptors in the 
+cilia of olfactory sensory neurons activates a transduction cascade that 
+involves the opening of cyclic nucleotide-gated channels and the entry of Ca(2+) 
+into the cilia. The Ca(2+) activates a Cl(-) current that, in the presence of a 
+maintained elevated intracellular Cl(-) concentration, produces an efflux of 
+Cl(-) ions and amplifies the depolarization. In this review, we summarize 
+evidence supporting the hypothesis that anoctamin 2/TMEM16B is the main, or 
+perhaps the only, constituent of the Ca(2+)-activated Cl(-) channels involved in 
+olfactory transduction. Indeed, studies from several laboratories have shown 
+that anoctamin 2/TMEM16B is expressed in the ciliary layer of the olfactory 
+epithelium, that there are remarkable functional similarities between currents 
+in olfactory sensory neurons and in HEK 293 cells transfected with anoctamin 
+2/TMEM16B, and that knockout mice for anoctamin 2/TMEM16B did not show any 
+detectable Ca(2+)-activated Cl(-) current. Finally, we discuss the involvement 
+of Ca(2+)-activated Cl(-) channels in the transduction process of vomeronasal 
+sensory neurons and the physiological role of these channels in olfaction.
+
+DOI: 10.1113/expphysiol.2011.058230
+PMID: 21890523 [Indexed for MEDLINE]
+
+
+16. Nat Neurosci. 2011 Jun;14(6):763-9. doi: 10.1038/nn.2821. Epub 2011 Apr 24.
+
+Ca2+-activated Cl− currents are dispensable for olfaction.
+
+Billig GM(1), Pál B, Fidzinski P, Jentsch TJ.
+
+Author information:
+(1)Leibniz-Institut für Molekulare Pharmakologie (FMP)/Max-Delbrück-Centrum für 
+Molekulare Medizin (MDC), Berlin, Germany.
+
+Canonical olfactory signal transduction involves the activation of cyclic 
+AMP-activated cation channels that depolarize the cilia of receptor neurons and 
+raise intracellular calcium. Calcium then activates Cl(-) currents that may be 
+up to tenfold larger than cation currents and are believed to powerfully amplify 
+the response. We identified Anoctamin2 (Ano2, also known as TMEM16B) as the 
+ciliary Ca(2+)-activated Cl(-) channel of olfactory receptor neurons. Ano2 is 
+expressed in the main olfactory epithelium (MOE) and in the vomeronasal organ 
+(VNO), which also expresses the related Ano1 channel. Disruption of Ano2 in mice 
+virtually abolished Ca(2+)-activated Cl(-) currents in the MOE and VNO. Ano2 
+disruption reduced fluid-phase electro-olfactogram responses by only ∼40%, did 
+not change air-phase electro-olfactograms and did not reduce performance in 
+olfactory behavioral tasks. In contrast with the current view, cyclic 
+nucleotide-gated cation channels do not need a boost by Cl(-) channels to 
+achieve near-physiological levels of olfaction.
+
+DOI: 10.1038/nn.2821
+PMID: 21516098 [Indexed for MEDLINE]
+
+
+17. Proc Natl Acad Sci U S A. 2010 Mar 30;107(13):6052-7. doi: 
+10.1073/pnas.0909032107. Epub 2010 Mar 15.
+
+Molecular components of signal amplification in olfactory sensory cilia.
+
+Hengl T(1), Kaneko H, Dauner K, Vocke K, Frings S, Möhrlen F.
+
+Author information:
+(1)Department of Molecular Physiology, University of Heidelberg, 69120 
+Heidelberg, Germany.
+
+The mammalian olfactory system detects an unlimited variety of odorants with a 
+limited set of odorant receptors. To cope with the complexity of the odor world, 
+each odorant receptor must detect many different odorants. The demand for low 
+odor selectivity creates problems for the transduction process: the initial 
+transduction step, the synthesis of the second messenger cAMP, operates with low 
+efficiency, mainly because odorants bind only briefly to their receptors. 
+Sensory cilia of olfactory receptor neurons have developed an unusual solution 
+to this problem. They accumulate chloride ions at rest and discharge a chloride 
+current upon odor detection. This chloride current amplifies the receptor 
+potential and promotes electrical excitation. We have studied this amplification 
+process by examining identity, subcellular localization, and regulation of its 
+molecular components. We found that the Na(+)/K(+)/2Cl(-) cotransporter NKCC1 is 
+expressed in the ciliary membrane, where it mediates chloride accumulation into 
+the ciliary lumen. Gene silencing experiments revealed that the activity of this 
+transporter depends on the kinases SPAK and OSR1, which are enriched in the 
+cilia together with their own activating kinases, WNK1 and WNK4. A second Cl(-) 
+transporter, the Cl(-)/HCO(3)(-) exchanger SLC4A1, is expressed in the cilia and 
+may support Cl(-) accumulation. The calcium-dependent chloride channel TMEM16B 
+(ANO2) provides a ciliary pathway for the excitatory chloride current. These 
+findings describe a specific set of ciliary proteins involved in anion-based 
+signal amplification. They provide a molecular concept for the unique strategy 
+that allows olfactory sensory neurons to operate as efficient transducers of 
+weak sensory stimuli.
+
+DOI: 10.1073/pnas.0909032107
+PMCID: PMC2851919
+PMID: 20231443 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+18. Chem Senses. 2010 Mar;35(3):239-45. doi: 10.1093/chemse/bjq007. Epub 2010 Jan 
+25.
+
+Tmem16b is specifically expressed in the cilia of olfactory sensory neurons.
+
+Rasche S(1), Toetter B, Adler J, Tschapek A, Doerner JF, Kurtenbach S, Hatt H, 
+Meyer H, Warscheid B, Neuhaus EM.
+
+Author information:
+(1)NeuroScience Research Center, Charité, Universitätsmedizin Berlin, 10117 
+Berlin, Germany.
+
+Calcium-activated chloride channels (CaCCs) are involved in many physiological 
+processes, including sensory signal transduction, but only little is known to 
+date about their structure and function. We performed a proteome analysis of the 
+olfactory epithelium (OE) membrane proteome and identified so far 
+uncharacterized membrane proteins as candidate channels. One of the most 
+abundant membrane proteins in olfactory sensory neurons (OSNs) was Tmem16b, a 
+member of a recently identified family of CaCCs. In addition to former studies 
+performed on Tmem16b, we show here that Tmem16b expression is highly specific 
+for the OE, in contrast to the closely related Tmem16a, which shows a broad 
+expression pattern in secretory epithelial cells. Native Tmem16b is localized in 
+the cilia of the OSNs, which is in agreement with previous electrophysiological 
+recordings.
+
+DOI: 10.1093/chemse/bjq007
+PMID: 20100788 [Indexed for MEDLINE]
+
+
+19. Proc Natl Acad Sci U S A. 2009 Jul 14;106(28):11776-81. doi: 
+10.1073/pnas.0903304106. Epub 2009 Jun 26.
+
+ANO2 is the cilial calcium-activated chloride channel that may mediate olfactory 
+amplification.
+
+Stephan AB(1), Shum EY, Hirsh S, Cygnar KD, Reisert J, Zhao H.
+
+Author information:
+(1)Department of Biology, The Johns Hopkins University School of Medicine, 
+Baltimore, MD 21218, USA.
+
+For vertebrate olfactory signal transduction, a calcium-activated chloride 
+conductance serves as a major amplification step. However, the molecular 
+identity of the olfactory calcium-activated chloride channel (CaCC) is unknown. 
+Here we report a proteomic screen for cilial membrane proteins of mouse 
+olfactory sensory neurons (OSNs) that identified all the known olfactory 
+transduction components as well as Anoctamin 2 (ANO2). Ano2 transcripts were 
+expressed specifically in OSNs in the olfactory epithelium, and ANO2::EGFP 
+fusion protein localized to the OSN cilia when expressed in vivo using an 
+adenoviral vector. Patch-clamp analysis revealed that ANO2, when expressed in 
+HEK-293 cells, forms a CaCC and exhibits channel properties closely resembling 
+the native olfactory CaCC. Considering these findings together, we propose that 
+ANO2 constitutes the olfactory calcium-activated chloride channel.
+
+DOI: 10.1073/pnas.0903304106
+PMCID: PMC2702256
+PMID: 19561302 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

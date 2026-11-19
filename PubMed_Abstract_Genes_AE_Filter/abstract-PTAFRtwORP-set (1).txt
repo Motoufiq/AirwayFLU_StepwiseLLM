@@ -1,0 +1,1573 @@
+1. Front Cell Neurosci. 2024 Mar 20;18:1343745. doi: 10.3389/fncel.2024.1343745. 
+eCollection 2024.
+
+Platelet-activating factor receptor (PAFR) regulates neuronal maturation and 
+synaptic transmission during postnatal retinal development.
+
+Dalmaso B(1), Liber AMP(2)(3), Ventura DF(3), Jancar S(4), Del Debbio CB(1).
+
+Author information:
+(1)Department of Cell and Developmental Biology, Biomedical Sciences Institute, 
+University of São Paulo (ICB-USP), São Paulo, Brazil.
+(2)Université Paris-Saclay, CNRS, Institut des Neurosciences Paris-Saclay, 
+Saclay, France.
+(3)Department of Experimental Psychology, Institute of Psychology, University of 
+São Paulo (IP-USP), São Paulo, Brazil.
+(4)Department of Immunology, Biomedical Sciences Institute, University of São 
+Paulo (ICB-USP), São Paulo, Brazil.
+
+INTRODUCTION: Platelet-activating factor (PAF), PAF receptor (PAFR), and PAF- 
+synthesis/degradation systems are involved in essential CNS processes such as 
+neuroblast proliferation, differentiation, migration, and synaptic modulation. 
+The retina is an important central nervous system (CNS) tissue for visual 
+information processing. During retinal development, the balance between Retinal 
+Progenitor Cell (RPC) proliferation and differentiation is crucial for proper 
+cell determination and retinogenesis. Despite its importance in retinal 
+development, the effects of PAFR deletion on RPC dynamics are still unknown.
+METHODS: We compared PAFR knockout mice (PAFR-/-) retinal postnatal development 
+proliferation and differentiation aspects with control animals. 
+Electrophysiological responses were analyzed by electroretinography (ERG).
+RESULTS AND DISCUSSION: In this study, we demonstrate that PAFR-/- mice 
+increased proliferation during postnatal retinogenesis and altered the 
+expression of specific differentiation markers. The retinas of postnatal PAFR-/- 
+animals decreased neuronal differentiation and synaptic transmission markers, 
+leading to differential responses to light stimuli measured by ERG. Our findings 
+suggest that PAFR signaling plays a critical role in regulating postnatal RPC 
+cell differentiation dynamics during retinal development, cell organization, and 
+neuronal circuitry formation.
+
+Copyright © 2024 Dalmaso, Liber, Ventura, Jancar and Del Debbio.
+
+DOI: 10.3389/fncel.2024.1343745
+PMCID: PMC10988781
+PMID: 38572071
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Chem Biol Interact. 2024 Apr 1;392:110946. doi: 10.1016/j.cbi.2024.110946. Epub 
+2024 Mar 7.
+
+Transcriptomic and proteomic study of cancer cell lines exposed to actinomycin D 
+and nutlin-3a reveals numerous, novel candidates for p53-regulated genes.
+
+Łasut-Szyszka B(1), Gdowicz-Kłosok A(1), Małachowska B(2), Krześniak M(1), 
+Będzińska A(1), Gawin M(1), Pietrowska M(1), Rusin M(3).
+
+Author information:
+(1)Center for Translational Research and Molecular Biology of Cancer, Maria 
+Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, 
+44-101, Gliwice, Poland.
+(2)Department of Radiation Oncology, Albert Einstein College of Medicine, 1300 
+Morris Park Ave, Bronx, NY, 10461, USA.
+(3)Center for Translational Research and Molecular Biology of Cancer, Maria 
+Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, 
+44-101, Gliwice, Poland. Electronic address: Marek.Rusin@gliwice.nio.gov.pl.
+
+Transcriptomic analyses have revealed hundreds of p53-regulated genes; however, 
+these studies used a limited number of cell lines and p53-activating agents. 
+Therefore, we searched for candidate p53-target genes by employing stress 
+factors and cell lines never before used in a high-throughput search for 
+p53-regulated genes. We performed RNA-Seq on A549 cells exposed to camptothecin, 
+actinomycin D, nutlin-3a, as well as a combination of actinomycin D and 
+nutlin-3a (A + N). The latter two substances synergise upon the activation of 
+selected p53-target genes. A similar analysis was performed on other cell lines 
+(U-2 OS, NCI-H460, A375) exposed to A + N. To identify proteins in cell lysates 
+or those secreted into a medium of A549 cells in control conditions or treated 
+with A + N, we employed mass spectrometry. The expression of selected genes 
+strongly upregulated by A + N or camptothecin was examined by RT-PCR in 
+p53-deficient cells and their controls. We found that p53 participates in the 
+upregulation of: ACP5, APOL3, CDH3, CIBAR2, CRABP2, CTHRC1, CTSH, FAM13C, FBXO2, 
+FRMD8, FRZB, GAST, ICOSLG, KANK3, KCNK6, KLRG2, MAFB, MR1, NDRG4, PTAFR, RETSAT, 
+TMEM52, TNFRSF14, TRANK1, TYSND1, WFDC2, WFDC5, WNT4 genes. Twelve of these 
+proteins were detected in the secretome and/or proteome of treated cells. Our 
+data generated new hypotheses concerning the functioning of p53. Many genes 
+activated by A + N or camptothecin are also activated by interferons, indicating 
+a noticeable overlap between transcriptional programs of p53 and these antiviral 
+cytokines. Moreover, several identified genes code for antagonists of 
+WNT/β-catenin signalling pathways, which suggests new connections between these 
+two cancer-related signalling systems. One of these antagonists is DRAXIN. 
+Previously, we found that its gene is activated by p53. In this study, using 
+mass spectrometry and Western blotting, we detected expression of DRAXIN in a 
+medium of A549 cells exposed to A + N. Thus, this protein functions not only in 
+the development of the nervous system, but it may also have a new cancer-related 
+function.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cbi.2024.110946
+PMID: 38460933 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Drug Des Devel Ther. 2020 Oct 12;14:4205-4214. doi: 10.2147/DDDT.S251941. 
+eCollection 2020.
+
+Effect of Platelet-Activating Factor on Barrier Function of ARPE-19 Cells.
+
+Zhang F(1), Liu L(2), Zhang H(2), Liu ZL(2).
+
+Author information:
+(1)Department of Ophthalmology, The Fourth Affiliated Hospital of China Medical 
+University, Eye Hospital of China Medical University, Key Lens Research 
+Laboratory of Liaoning Province, Shenyang, Liaoning, People's Republic of China.
+(2)Department of Ophthalmology, The First Affiliated Hospital of China Medical 
+University, Shenyang, Liaoning, People's Republic of China.
+
+AIM: To examine the effects of platelet-activating factor (PAF) on the barrier 
+functions of cultured retinal pigment epithelial (RPE) cells.
+METHODS: A human RPE cell line (ARPE-19) was cultured on microporous filter 
+supports and treated with PAF and WEB 2086, a specific PAF-receptor (PAF-R) 
+antagonist. The permeability of the RPE monolayer was measured using 
+transepithelial electrical resistance (TER) and sodium fluorescein flux. The 
+expression of the tight junction protein zonula occludens (ZO)-1 and the 
+adherens junction protein N-cadherin was assessed using immunohistochemistry and 
+Western blotting. We also measured the vascular endothelial growth factor (VEGF) 
+concentrations in PAF-treated cultures and re-measured RPE monolayer 
+permeability in the presence of VEGF-neutralizing antibodies.
+RESULTS: PAF significantly decreased the TER and enhanced the sodium fluorescein 
+flux of the RPE monolayer and downregulated the expression of ZO-1 and 
+N-cadherin. These effects were abolished by WEB 2086-mediated blockage of the 
+PAF-R. PAF stimulation increased VEGF expression in RPE cells, and the 
+antibody-mediated neutralization of VEGF caused a partial recovery of the 
+barrier properties.
+CONCLUSION: The barrier functions of ARPE-19 cells were altered by PAF, and 
+these effects were partly mediated by an upregulation of VEGF expression in 
+these cells. Our results contribute to the growing body of evidence supporting 
+the role of PAF in choroidal neovascularization. Our findings suggest that PAF 
+is a novel target in the development of therapies for increased permeability of 
+the RPE monolayer.
+
+© 2020 Zhang et al.
+
+DOI: 10.2147/DDDT.S251941
+PMCID: PMC7567541
+PMID: 33116408 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+4. Nutrients. 2019 Mar 7;11(3):574. doi: 10.3390/nu11030574.
+
+Docosahexaenoic Acid Inhibits Proliferation of EoL-1 Leukemia Cells and Induces 
+Cell Cycle Arrest and Cell Differentiation.
+
+Moustaka K(1), Maleskou E(2), Lambrianidou A(3), Papadopoulos S(4), Lekka ME(5), 
+Trangas T(6), Kitsiouli E(7)(8).
+
+Author information:
+(1)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+kallia.moustaka@gmail.com.
+(2)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+emaleskou1988@gmail.com.
+(3)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+mahilabrianidou@hotmail.com.
+(4)Laboratory of Biochemistry, Department of Chemistry, University of Ioannina, 
+45110 Ioannina, Greece. stelios_ppp@yahoo.com.
+(5)Laboratory of Biochemistry, Department of Chemistry, University of Ioannina, 
+45110 Ioannina, Greece. mlekka@uoi.gr.
+(6)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+ttrangas@cc.uoi.gr.
+(7)Laboratory of Biochemistry, Department of Biological Applications & 
+Technologies, University of Ioannina, 45110 Ioannina, Greece. 
+ekitsiouli@gmail.com.
+(8)Laboratory of Biochemistry, Department of Chemistry, University of Ioannina, 
+45110 Ioannina, Greece. ekitsiouli@gmail.com.
+
+Τhe effect of docosahexaenoic acid (DHA, an omega-3 polyunsaturated fatty acid) 
+upon the proliferation of EoL-1 (Eosinophilic leukemia) cell line was assessed, 
+while additional cellular events during the antiproliferative action were 
+recorded. DHA inhibited EoL-1 cells growth dose-dependently by inducing growth 
+arrest at G0/1 phase of the cell cycle. After DHA addition to the cells, the 
+expression of MYC oncogene was decreased, PTAFR-mRNA overexpression was observed 
+which was used as a marker of differentiation, and PLA2G4A-mRNA increase was 
+recorded. The enzymatic activities of phospholipase A₂ (PLA₂), a group of 
+hydrolytic enzymes, whose action precedes and leads to PAF biosynthesis through 
+the remodeling pathway, as well as platelet activating factor acetylhydrolase 
+(PAFAH) which hydrolyses and deactivates PAF, were also measured. DHA had an 
+effect on the levels of both the intracellular and secreted activities of PLA₂ 
+and PAFAH. The inflammatory cytokines IL-6 and TNF-α were also detected in high 
+levels. In conclusion, DHA-induced EoL-1 cells differentiation was correlated 
+with downregulation of MYC oncogene, overexpression of PTAFR and PLA2G4A-mRNAs, 
+increase of the inflammatory cytokines production, and alteration of the 
+enzymatic activities that regulate PAF levels. DHA is a natural substance and 
+the understanding of its action on EoL-1 cells on molecular level could be 
+useful in further investigation as a future therapeutic tool against F/P ⁺ 
+hypereosinophilic syndrome.
+
+DOI: 10.3390/nu11030574
+PMCID: PMC6471786
+PMID: 30866528 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+5. Front Vet Sci. 2017 Dec 18;4:226. doi: 10.3389/fvets.2017.00226. eCollection 
+2017.
+
+Characterization of the Phospholipid Platelet-Activating Factor As a Mediator of 
+Inflammation in Chickens.
+
+Garrido D(1), Chanteloup NK(1), Trotereau A(1), Lion A(1), Bailleul G(1), 
+Esnault E(1), Trapp S(1), Quéré P(1), Schouler C(1), Guabiraba R(1).
+
+Author information:
+(1)ISP, INRA, Université François Rabelais de Tours, Nouzilly, France.
+
+Lipid mediators are known to play important roles in the onset and resolution 
+phases of the inflammatory response in mammals. The phospholipid 
+platelet-activating factor (PAF) is a pro-inflammatory lipid mediator which 
+participates in vascular- and innate immunity-associated processes by increasing 
+vascular permeability, by facilitating leukocyte adhesion to the endothelium, 
+and by contributing to phagocyte activation. PAF exerts its function upon 
+binding to its specific receptor, PAF receptor (PAFR), which is abundantly 
+expressed in leukocytes and endothelial cells (ECs). In chickens, lipid 
+mediators and their functions are still poorly characterized, and the role of 
+PAF as an inflammatory mediator has not yet been investigated. In the present 
+study we demonstrate that primary chicken macrophages express PAFR and 
+lysophosphatidylcholine acyltransferase 2 (LPCAT2), the latter being essential 
+to PAF biosynthesis during inflammation. Also, exogenous PAF treatment induces 
+intracellular calcium increase, reactive oxygen species release, and increased 
+phagocytosis by primary chicken macrophages in a PAFR-dependent manner. We also 
+show that PAF contributes to the Escherichia coli lipopolysaccharide 
+(LPS)-induced pro-inflammatory response and boosts the macrophage response to E. 
+coli LPS via phosphatidylinositol 3-kinase/Akt- and calmodulin kinase 
+II-mediated intracellular signaling pathways. Exogenous PAF treatment also 
+increases avian pathogenic E. coli intracellular killing by chicken macrophages, 
+and PAFR and LPCAT2 are upregulated in chicken lungs and liver during 
+experimental pulmonary colibacillosis. Finally, exogenous PAF treatment 
+increases cell permeability and upregulates the expression of genes coding for 
+proteins involved in leukocyte adhesion to the endothelium in primary chicken 
+endothelial cells (chAEC). In addition to these vascular phenomena, PAF boosts 
+the chAEC inflammatory response to bacteria-associated molecular patterns in a 
+PAFR-dependent manner. In conclusion, we identified PAF as an inflammation 
+amplifier in chicken macrophages and ECs, which suggests that PAF could play 
+important roles in the endothelium-innate immunity interface in birds during 
+major bacterial infectious diseases such as colibacillosis.
+
+DOI: 10.3389/fvets.2017.00226
+PMCID: PMC5741692
+PMID: 29326957
+
+
+6. J Immunol. 2017 Aug 1;199(3):1184-1195. doi: 10.4049/jimmunol.1700034. Epub 2017 
+Jun 30.
+
+CD36 and Platelet-Activating Factor Receptor Promote House Dust Mite Allergy 
+Development.
+
+Patel PS(1), Kearney JF(2).
+
+Author information:
+(1)Department of Microbiology, The University of Alabama at Birmingham, 
+Birmingham, AL 35294.
+(2)Department of Microbiology, The University of Alabama at Birmingham, 
+Birmingham, AL 35294 jfk@uab.edu.
+
+Over 89% of asthmatic children in underdeveloped countries demonstrate 
+sensitivity to house dust mites (HDMs). The allergic response to HDMs is 
+partially mediated by epithelial cell-derived cytokines that activate group 2 
+innate lymphoid cells, induce migration and activation of dendritic cells, and 
+promote effector differentiation of HDM-specific TH2 cells. However, the 
+contribution of innate receptor engagement on epithelial or dendritic cells by 
+HDMs that ultimately mediates said innate and adaptive allergic responses is 
+poorly understood. We and other investigators have demonstrated that HDMs 
+express phosphorylcholine (PC) moieties. The major PC receptors involved in 
+immune responses include CD36 and platelet-activating factor receptor (PAFR). 
+Because CD36 and PAFR are expressed by epithelial cells and dendritic cells, and 
+expression of these receptors is higher in human asthmatics, we determined 
+whether engagement of CD36 or PAFR on epithelial or dendritic cells contributes 
+to HDM allergy development. Testing bone marrow chimeric mice revealed that CD36 
+engagement on radioresistant cells and PAFR engagement on radioresistant and 
+radiosensitive cells in the lung promote allergic responses to HDMs. 
+Additionally, passive anti-PC IgM Abs administered intratracheally with HDMs 
+decreased allergen uptake by epithelial cells and APCs in the lungs of C57BL/6 
+mice but not CD36-/- or PAFR-/- mice. These results show that CD36 and PAFR are 
+important mediators of HDM allergy development and that inhibiting HDM 
+engagement with PC receptors in the lung protects against allergic airway 
+disease.
+
+Copyright © 2017 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.1700034
+PMCID: PMC5538133
+PMID: 28667161 [Indexed for MEDLINE]
+
+
+7. J Transl Med. 2016 Oct 26;14(1):304. doi: 10.1186/s12967-016-1063-x.
+
+Does upregulated host cell receptor expression provide a link between bacterial 
+adhesion and chronic respiratory disease?
+
+O'Toole RF(1), Shukla SD(2), Walters EH(2).
+
+Author information:
+(1)School of Medicine, Faculty of Health, University of Tasmania, Medical 
+Science 1, 17 Liverpool Street, Hobart, TAS, 7000, Australia. 
+ronan.otoole@utas.edu.au.
+(2)School of Medicine, Faculty of Health, University of Tasmania, Medical 
+Science 1, 17 Liverpool Street, Hobart, TAS, 7000, Australia.
+
+Expression of the platelet-activating factor receptor is upregulated in the 
+respiratory epithelium of smokers and chronic obstructive pulmonary disease 
+patients. We have recently determined that increased expression of PAFr 
+correlates with higher levels of adhesion to human bronchial epithelial cells by 
+non-typable Haemophilus influenzae and Streptococcus pneumoniae which are major 
+bacterial pathogens in acute exacerbations of COPD. In addition, we found that a 
+PAFr antagonist decreased the adhesion of both respiratory bacterial pathogens 
+to non-cigarette exposure control levels. This highlights the possibility that 
+epithelial receptors, that are upregulated in response to cigarette smoke, could 
+be targeted to specifically block chronic bacterial infections of the lower 
+respiratory tract. In this commentary, we explore the question of whether 
+adhesion to a temporally-upregulated host receptor is a common event in chronic 
+bacterial disease, and as such, could represent a putative therapeutic target 
+for blocking infection by respiratory and other pathogens.
+
+DOI: 10.1186/s12967-016-1063-x
+PMCID: PMC5080759
+PMID: 27782846 [Indexed for MEDLINE]
+
+
+8. Int J Chron Obstruct Pulmon Dis. 2016 Jul 25;11:1647-55. doi: 
+10.2147/COPD.S108698. eCollection 2016.
+
+An antagonist of the platelet-activating factor receptor inhibits adherence of 
+both nontypeable Haemophilus influenzae and Streptococcus pneumoniae to cultured 
+human bronchial epithelial cells exposed to cigarette smoke.
+
+Shukla SD(1), Fairbairn RL(1), Gell DA(1), Latham RD(1), Sohal SS(2), Walters 
+EH(1), O'Toole RF(1).
+
+Author information:
+(1)Breathe Well Centre, School of Medicine, Faculty of Health, University of 
+Tasmania, Hobart, TAS, Australia.
+(2)Breathe Well Centre, School of Medicine, Faculty of Health, University of 
+Tasmania, Hobart, TAS, Australia; School of Health Sciences, Faculty of Health, 
+University of Tasmania, Launceston, TAS, Australia.
+
+BACKGROUND: COPD is emerging as the third largest cause of human mortality 
+worldwide after heart disease and stroke. Tobacco smoking, the primary risk 
+factor for the development of COPD, induces increased expression of 
+platelet-activating factor receptor (PAFr) in the lung epithelium. Nontypeable 
+Haemophilus influenzae (NTHi) and Streptococcus pneumoniae adhere to PAFr on the 
+luminal surface of human respiratory tract epithelial cells.
+OBJECTIVE: To investigate PAFr as a potential drug target for the prevention of 
+infections caused by the main bacterial drivers of acute exacerbations in COPD 
+patients, NTHi and S. pneumoniae.
+METHODS: Human bronchial epithelial BEAS-2B cells were exposed to cigarette 
+smoke extract (CSE). PAFr expression levels were determined using 
+immunocytochemistry and quantitative polymerase chain reaction. The epithelial 
+cells were challenged with either NTHi or S. pneumoniae labeled with fluorescein 
+isothiocyanate, and bacterial adhesion was measured using immunofluorescence. 
+The effect of a well-evaluated antagonist of PAFr, WEB-2086, on binding of the 
+bacterial pathogens to BEAS-2B cells was then assessed. In silico studies of the 
+tertiary structure of PAFr and the binding pocket for PAF and its antagonist 
+WEB-2086 were undertaken.
+RESULTS: PAFr expression by bronchial epithelial cells was upregulated by CSE, 
+and significantly associated with increased bacterial adhesion. WEB-2086 reduced 
+the epithelial adhesion by both NTHi and S. pneumoniae to levels observed for 
+non-CSE-exposed cells. Furthermore, it was nontoxic toward the bronchial 
+epithelial cells. In silico analyses identified a binding pocket for 
+PAF/WEB-2086 in the predicted PAFr structure.
+CONCLUSION: WEB-2086 represents an innovative class of candidate drugs for 
+inhibiting PAFr-dependent lung infections caused by the main bacterial drivers 
+of smoking-related COPD.
+
+DOI: 10.2147/COPD.S108698
+PMCID: PMC4965220
+PMID: 27524890 [Indexed for MEDLINE]
+
+
+9. Respirology. 2016 Apr;21(3):504-10. doi: 10.1111/resp.12709. Epub 2015 Dec 10.
+
+Platelet-activating factor receptor (PAFr) is upregulated in small airways and 
+alveoli of smokers and COPD patients.
+
+Shukla SD(1), Muller HK(1), Latham R(1), Sohal SS(1)(2), Walters EH(1).
+
+Author information:
+(1)NHMRC Centre of Research Excellence for Chronic Respiratory Disease, School 
+of Medicine, University of Tasmania, Hobart, Tasmania, Australia.
+(2)School of Health Sciences, University of Tasmania, Launceston, Tasmania, 
+Australia.
+
+BACKGROUND AND OBJECTIVE: PAFr is a cell adhesion site for specific bacteria, 
+notably non-typeable Haemophilus influenzae (NTHi) and Streptococcus pneumoniae. 
+We previously published that PAFr expression is significantly upregulated in the 
+large airways of smokers, especially in COPD. We have now investigated PAFr 
+expression in the epithelium and Rbm of small airways and in the alveolar 
+compartment in smokers and patients with both COPD and small airway disease.
+METHODS: We evaluated PAFr expression cross-sectionally in resected lung tissue 
+from: eight smokers with normal lung function (NLFS); 10 with smoking-related 
+small airway narrowing only; eight COPD smokers; 10 COPD ex-smokers, and 
+compared these with nine control tissues. Anti-PAFr immunostaining was 
+quantified using computer-aided image analysis.
+RESULTS: Significantly increased PAFr expression in small airway epithelium of 
+all clinical groups was found compared with controls (P < 0.01). Moreover, 
+epithelial PAFr expression was upregulated in COPD smokers compared with NLFS 
+(P < 0.05), but not when compared with COPD ex-smokers or patients with only 
+small airways disease. Smoking history (pack-year) correlated significantly with 
+PAFr expression in the currently smoking individuals, especially in NLFS 
+(r = 0.9; P < 0.002). An increase above normal in PAFr-expressing cells in the 
+airway epithelial Rbm was only significant in COPD smokers (P < 0.007). An 
+upregulation of PAFr-expressing cell in alveolar epithelium was uniformly found 
+in all clinical groups compared with normal control (P < 0.01).
+CONCLUSION: Epithelial PAFr expression is upregulated in small airways and 
+alveoli in smokers and COPD. Increased expression of PAFr could be crucial in 
+facilitating acute and chronic respiratory infection with specific respiratory 
+pathogens.
+
+© 2015 Asian Pacific Society of Respirology.
+
+DOI: 10.1111/resp.12709
+PMID: 26662379 [Indexed for MEDLINE]
+
+
+10. J Clin Invest. 2015 Oct 1;125(10):3878-90. doi: 10.1172/JCI81888. Epub 2015 Aug 
+31.
+
+Bacterial exploitation of phosphorylcholine mimicry suppresses inflammation to 
+promote airway infection.
+
+Hergott CB, Roche AM, Naidu NA, Mesaros C, Blair IA, Weiser JN.
+
+Regulation of neutrophil activity is critical for immune evasion among 
+extracellular pathogens, yet the mechanisms by which many bacteria disrupt 
+phagocyte function remain unclear. Here, we have shown that the respiratory 
+pathogen Streptococcus pneumoniae disables neutrophils by exploiting molecular 
+mimicry to degrade platelet-activating factor (PAF), a host-derived inflammatory 
+phospholipid. Using mass spectrometry and murine upper airway infection models, 
+we demonstrated that phosphorylcholine (ChoP) moieties that are shared by PAF 
+and the bacterial cell wall allow S. pneumoniae to leverage a ChoP-remodeling 
+enzyme (Pce) to remove PAF from the airway. S. pneumoniae-mediated PAF 
+deprivation impaired viability, activation, and bactericidal capacity among 
+responding neutrophils. In the absence of Pce, neutrophils rapidly cleared S. 
+pneumoniae from the airway and impeded invasive disease and transmission between 
+mice. Abrogation of PAF signaling rendered Pce dispensable for S. pneumoniae 
+persistence, reinforcing that this enzyme deprives neutrophils of essential 
+PAF-mediated stimulation. Accordingly, exogenous activation of neutrophils 
+overwhelmed Pce-mediated phagocyte disruption. Haemophilus influenzae also uses 
+an enzyme, GlpQ, to hydrolyze ChoP and subvert PAF function, suggesting that 
+mimicry-driven immune evasion is a common paradigm among respiratory pathogens. 
+These results identify a mechanism by which shared molecular structures enable 
+microbial enzymes to subvert host lipid signaling, suppress inflammation, and 
+ensure bacterial persistence at the mucosa.
+
+DOI: 10.1172/JCI81888
+PMCID: PMC4607119
+PMID: 26426079 [Indexed for MEDLINE]
+
+
+11. Expert Rev Respir Med. 2015 Aug;9(4):473-85. doi: 10.1586/17476348.2015.1070673.
+
+Platelet activating factor receptor: gateway for bacterial chronic airway 
+infection in chronic obstructive pulmonary disease and potential therapeutic 
+target.
+
+Shukla SD(1), Sohal SS, O'Toole RF, Eapen MS, Walters EH.
+
+Author information:
+(1)NHMRC Centre of Research Excellence for Chronic Respiratory Disease, School 
+of Medicine, University of Tasmania, Hobart, Tasmania, 7000, Australia.
+
+The authors established that cigarette smoke increases airway epithelial 
+platelet activating factor receptor (PAFr) expression and that PAFr is markedly 
+up-regulated in the lungs of chronic obstructive pulmonary disease (COPD) 
+patients. Crucially, PAFr is used by the two key bacterial species involved in 
+chronic infection and acute exacerbations in COPD, that is, Streptococcus 
+pneumoniae and Haemophilus influenzae, as a receptor for lung epithelial 
+colonization. The cognate adhesin of PAFr, phosphorylcholine (ChoP), in the cell 
+wall of these bacterial species may be a key effector that underpins host 
+colonization. In this review, the authors evaluate the respective roles of PAFr 
+and ChoP in the natural history of COPD and discuss the potential of the airway 
+epithelial PAFr-bacterial ChoP interaction as a selective anti-infective target 
+in COPD therapeutics.
+
+DOI: 10.1586/17476348.2015.1070673
+PMID: 26207607 [Indexed for MEDLINE]
+
+
+12. PLoS Negl Trop Dis. 2015 Feb 3;9(2):e0003459. doi: 10.1371/journal.pntd.0003459. 
+eCollection 2015 Feb.
+
+Platelet activating factor contributes to vascular leak in acute dengue 
+infection.
+
+Jeewandara C(1), Gomes L(2), Wickramasinghe N(2), Gutowska-Owsiak D(3), Waithe 
+D(3), Paranavitane SA(2), Shyamali NL(4), Ogg GS(3), Malavige GN(1).
+
+Author information:
+(1)Centre for Dengue Research, University of Sri Jayawardanapura, Nugegoda, Sri 
+Lanka; MRC Human Immunology Unit, NIHR Biomedical Research Centre, Weatherall 
+Institute of Molecular Medicine, Oxford, United Kingdom.
+(2)Centre for Dengue Research, University of Sri Jayawardanapura, Nugegoda, Sri 
+Lanka.
+(3)MRC Human Immunology Unit, NIHR Biomedical Research Centre, Weatherall 
+Institute of Molecular Medicine, Oxford, United Kingdom.
+(4)Department of Medicine, Faculty of Medical Sciences, University of Sri 
+Jayawardanapura, Nugegoda, Sri Lanka.
+
+BACKGROUND: Although plasma leakage is the hallmark of severe dengue infections, 
+the factors that cause increased vascular permeability have not been identified. 
+As platelet activating factor (PAF) is associated with an increase in vascular 
+permeability in other diseases, we set out to investigate its role in acute 
+dengue infection.
+MATERIALS AND METHODS: PAF levels were initially assessed in 25 patients with 
+acute dengue infection to determine if they were increased in acute dengue. For 
+investigation of the kinetics of PAF, serial PAF values were assessed in 36 
+patients. The effect of dengue serum on tight junction protein ZO-1 was 
+determined by using human endothelial cell lines (HUVECs). The effect of dengue 
+serum on and trans-endothelial resistance (TEER) was also measured on HUVECs.
+RESULTS: PAF levels were significantly higher in patients with acute dengue (n = 
+25; p = 0.001) when compared to healthy individuals (n = 12). In further 
+investigation of the kinetics of PAF in serial blood samples of patients (n = 
+36), PAF levels rose just before the onset of the critical phase. PAF levels 
+were significantly higher in patients with evidence of vascular leak throughout 
+the course of the illness when compared to those with milder disease. Serum from 
+patients with dengue significantly down-regulated expression of tight junction 
+protein, ZO-1 (p = 0.004), HUVECs. This was significantly inhibited (p = 0.004) 
+by use of a PAF receptor (PAFR) blocker. Serum from dengue patients also 
+significantly reduced TEER and this reduction was also significantly (p = 0.02) 
+inhibited by prior incubation with the PAFR blocker.
+CONCLUSION: Our results suggest the PAF is likely to be playing a significant 
+role in inducing vascular leak in acute dengue infection which offers a 
+potential target for therapeutic intervention.
+
+DOI: 10.1371/journal.pntd.0003459
+PMCID: PMC4315531
+PMID: 25646838 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors have declared that no competing 
+interests exist.
+
+
+13. Biol Reprod. 2014 Nov;91(5):119. doi: 10.1095/biolreprod.113.116012. Epub 2014 
+Sep 24.
+
+Platelet-activating factor: a role in preterm delivery and an essential 
+interaction with Toll-like receptor signaling in mice.
+
+Agrawal V(1), Jaiswal MK(2), Ilievski V(3), Beaman KD(2), Jilling T(4), Hirsch 
+E(5).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, NorthShore University HealthSystem, 
+Evanston, Illinois varkhaagrawal@gmail.com.
+(2)Department of Microbiology and Immunology, Rosalind Franklin University of 
+Medicine and Science, North Chicago, Illinois.
+(3)Department of Obstetrics and Gynecology, NorthShore University HealthSystem, 
+Evanston, Illinois.
+(4)Department of Pediatrics, Division of Neonatology, University of Alabama at 
+Birmingham, Birmingham, Alabama.
+(5)Department of Obstetrics and Gynecology, NorthShore University HealthSystem, 
+Evanston, Illinois Pritzker School of Medicine, University of Chicago, Chicago, 
+Illinois.
+
+Platelet-activating factor (PAF), a potent phospholipid activator of 
+inflammation that signals through its cognate receptor (platelet-activating 
+factor receptor, PTAFR), has been shown to induce preterm delivery in mice. 
+Toll-like receptors (TLRs) are transmembrane receptors that mediate innate 
+immunity. We have shown previously that Escherichia coli-induced preterm 
+delivery in mice requires TLR signaling via the adaptor protein myeloid 
+differentiation primary response gene 88 (MyD88), but not an alternative 
+adaptor, Toll/IL-1 receptor domain-containing adapter protein-inducing 
+interferon-beta (TRIF). In the present work, we analyzed the role of 
+endogenously produced PAF in labor using mice lacking (knockout [KO]) PAF 
+acetylhydrolase (PAF-AH; the key degrading enzyme for PAF). PAF-AH KO mice are 
+more susceptible to E. coli-induced preterm delivery and inflammation than 
+controls. In peritoneal macrophages, the PTAFR agonist carbamyl PAF induces 
+production of inflammatory markers previously demonstrated to be upregulated 
+during bacterially induced labor, including: inducible nitric oxide synthase 
+(Nos2), the chemokine Ccl5 (RANTES), tumor necrosis factor (Tnf), and level of 
+their end-products (NO, CCL5, TNF) in a process dependent upon both IkappaB 
+kinase and calcium/calmodulin-dependent protein kinase II. Interestingly, this 
+induced expression was completely eliminated not only in macrophages deficient 
+in PTAFR, but also in those lacking either TLR4, MyD88, or TRIF. The dependence 
+of PAF effects upon TLR pathways appears to be related to production of PTAFR 
+itself: PAF-induced expression of Ptafr mRNA was eliminated completely in TLR4 
+KO and partially in MyD88 and TRIF KO macrophages. We conclude that PAF 
+signaling plays an important role in bacterially induced preterm delivery. 
+Furthermore, in addition to its cognate receptor, PAF signaling in peritoneal 
+macrophages requires TLR4, MyD88, and TRIF.
+
+© 2014 by the Society for the Study of Reproduction, Inc.
+
+DOI: 10.1095/biolreprod.113.116012
+PMCID: PMC4434927
+PMID: 25253732 [Indexed for MEDLINE]
+
+
+14. Int J Chron Obstruct Pulmon Dis. 2014 Aug 13;9:853-61. doi: 10.2147/COPD.S67044. 
+eCollection 2014.
+
+Airway epithelial platelet-activating factor receptor expression is markedly 
+upregulated in chronic obstructive pulmonary disease.
+
+Shukla SD(1), Sohal SS(1), Mahmood MQ(1), Reid D(2), Muller HK(1), Walters 
+EH(1).
+
+Author information:
+(1)NHMRC Centre for Research Excellence for Chronic Respiratory Disease and Lung 
+Ageing, School of Medicine, University of Tasmania, Hobart, Tasmania, Australia.
+(2)Queensland Institute of Medical Research, Iron Metabolism Laboratory, 
+Brisbane, Queensland, Australia.
+
+BACKGROUND: We recently published that platelet-activating factor receptor 
+(PAFr) is upregulated on the epithelium of the proximal airways of current 
+smokers and also in bronchial epithelial cells exposed to cigarette smoke 
+extract. These treated cells also showed upregulation of Streptococcus 
+pneumoniae adhesion. Bacterial wall phosphorylcholine specifically binds to PAFr 
+expressed on airway epithelium, thus facilitating adherence and tissue invasion, 
+which may be relevant to chronic obstructive pulmonary disease (COPD). Moreover, 
+the use of inhaled corticosteroids (ICS) in COPD patients is associated with an 
+increased risk of invasive respiratory pneumococcal infections.
+OBJECTIVE: In this study, we have investigated whether PAFr expression is 
+especially upregulated in airway epithelium in COPD patients and whether this 
+expression may be modulated by ICS therapy.
+METHODS: We cross-sectionally evaluated PAFr expression in bronchial biopsies 
+from 15 COPD patients who were current smokers (COPD-smokers) and 12 
+COPD-ex-smokers, and we compared these to biopsies from 16 smokers with normal 
+lung function. We assessed immunostaining with anti-PAFr monoclonal antibody. We 
+also used material from a previous double-blinded randomized placebo-controlled 
+6-month ICS intervention study in COPD patients to explore the effect of ICS on 
+PAFr expression. We employed computer-aided image analysis to quantify the 
+percentage of epithelium stained for PAFr.
+RESULTS: Markedly enhanced expression of PAFr was found in both COPD-smokers 
+(P<0.005) and COPD-ex-smokers (P<0.002) compared to smokers with normal lung 
+function. There was little evidence that PAFr expression was affected by ICS 
+therapy over 6 months.
+CONCLUSION: Epithelial PAFr expression is upregulated in smokers, especially in 
+those with COPD, and is not obviously affected by ICS therapy.
+
+DOI: 10.2147/COPD.S67044
+PMCID: PMC4137917
+PMID: 25143722 [Indexed for MEDLINE]
+
+
+15. PLoS Pathog. 2013;9(11):e1003727. doi: 10.1371/journal.ppat.1003727. Epub 2013 
+Nov 7.
+
+Type I interferon protects against pneumococcal invasive disease by inhibiting 
+bacterial transmigration across the lung.
+
+LeMessurier KS(1), Häcker H, Chi L, Tuomanen E, Redecke V.
+
+Author information:
+(1)Department of Infectious Diseases, St. Jude Children's Research Hospital, 
+Memphis, Tennessee, United States of America.
+
+Streptococcus pneumoniae infection is a leading cause of bacterial pneumonia, 
+sepsis and meningitis and is associated with high morbidity and mortality. Type 
+I interferon (IFN-I), whose contribution to antiviral and intracellular 
+bacterial immunity is well established, is also elicited during pneumococcal 
+infection, yet its functional significance is not well defined. Here, we show 
+that IFN-I plays an important role in the host defense against pneumococci by 
+counteracting the transmigration of bacteria from the lung to the blood. Mice 
+that lack the type I interferon receptor (Ifnar1 (-/-)) or mice that were 
+treated with a neutralizing antibody against the type I interferon receptor, 
+exhibited enhanced development of bacteremia following intranasal pneumococcal 
+infection, while maintaining comparable bacterial numbers in the lung. In turn, 
+treatment of mice with IFNβ or IFN-I-inducing synthetic double stranded RNA 
+(poly(I:C)), dramatically reduced the development of bacteremia following 
+intranasal infection with S. pneumoniae. IFNβ treatment led to upregulation of 
+tight junction proteins and downregulation of the pneumococcal uptake receptor, 
+platelet activating factor receptor (PAF receptor). In accordance with these 
+findings, IFN-I reduced pneumococcal cell invasion and transmigration across 
+epithelial and endothelial layers, and Ifnar1 (-/-) mice showed overall enhanced 
+lung permeability. As such, our data identify IFN-I as an important component of 
+the host immune defense that regulates two possible mechanisms involved in 
+pneumococcal invasion, i.e. PAF receptor-mediated transcytosis and tight 
+junction-dependent pericellular migration, ultimately limiting progression from 
+a site-restricted lung infection to invasive, lethal disease.
+
+DOI: 10.1371/journal.ppat.1003727
+PMCID: PMC3820719
+PMID: 24244159 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+16. Am J Physiol Heart Circ Physiol. 2011 Dec;301(6):H2395-401. doi: 
+10.1152/ajpheart.00607.2011. Epub 2011 Sep 23.
+
+Platelet-activating factor stimulates sodium-hydrogen exchange in ventricular 
+myocytes.
+
+Ajiro Y(1), Saegusa N, Giles WR, Stafforini DM, Spitzer KW.
+
+Author information:
+(1)Nora Eccles Harrison Cardiovascular Research and Training Institute, Salt 
+Lake City, Utah, USA.
+
+Sodium-hydrogen exchanger (NHE), the principal sarcolemmal acid extruder in 
+ventricular myocytes, is stimulated by a variety of autocrine/paracrine factors 
+and contributes to myocardial injury and arrhythmias during 
+ischemia-reperfusion. Platelet-activating factor (PAF; 
+1-o-alkyl-2-acetyl-sn-glycero-3-phosphocholine) is a potent proinflammatory 
+phospholipid that is released in the heart in response to oxidative stress and 
+promotes myocardial ischemia-reperfusion injury. PAF stimulates NHE in 
+neutrophils and platelets, but its effect on cardiac NHE (NHE1) is unresolved. 
+We utilized quiescent guinea pig ventricular myocytes bathed in bicarbonate-free 
+solutions and epifluorescence to measure intracellular pH (pH(i)). 
+Methylcarbamyl-PAF (C-PAF; 200 nM), a metabolically stable analog of PAF, 
+significantly increased steady-state pH(i). The alkalosis was completely blocked 
+by the NHE inhibitor, cariporide, and by sodium-free bathing solutions, 
+indicating it was mediated by NHE activation. C-PAF also significantly increased 
+the rate of acid extrusion induced by intracellular acidosis. The ability of 
+C-PAF to increase steady-state pH(i) was completely blocked by the PAF receptor 
+inhibitor WEB 2086 (10 μM), indicating the PAF receptor is required. A MEK 
+inhibitor (PD98059; 25 μM) also completely blocked the rise in pH(i) induced by 
+C-PAF, suggesting participation of the MAP kinase signaling cascade downstream 
+of the PAF receptor. Inhibition of PKC with GF109203X (1 μM) and chelerythrine 
+(2 μM) did not significantly affect the alkalosis induced by C-PAF. In summary, 
+these results provide evidence that PAF stimulates cardiac NHE1, the effect 
+occurs via the PAF receptor, and signal relay requires participation of the MAP 
+kinase cascade.
+
+DOI: 10.1152/ajpheart.00607.2011
+PMCID: PMC3233817
+PMID: 21949111 [Indexed for MEDLINE]
+
+
+17. Brain Res. 2011 Apr 18;1385:298-306. doi: 10.1016/j.brainres.2011.02.036. Epub 
+2011 Feb 19.
+
+Absence of PAF receptor alters cellular infiltrate but not rolling and adhesion 
+of leukocytes in experimental autoimmune encephalomyelitis.
+
+Rodrigues DH(1), Lacerda-Queiroz N, de Miranda AS, Fagundes CT, Campos RD, 
+Arantes RE, Vilela Mde C, Rachid MA, Teixeira MM, Teixeira AL.
+
+Author information:
+(1)Laboratory of Immunopharmacology, Federal University of Minas Gerais, Belo 
+Horizonte, Brazil. dhenrodrigues@gmail.com
+
+Experimental autoimmune encephalomyelitis (EAE) is a condition induced in some 
+susceptible species to the study of multiple sclerosis (MS). The platelet 
+activating factor (PAF) is an important mediator of immune responses and seems 
+to be involved in MS. However, the participation of PAF in EAE and MS remains 
+controversial. Thus, in this study, we aimed to evaluate the role of PAF 
+receptor in the pathogenesis of EAE. EAE was induced using an emulsion 
+containing MOG(35-55). EAE-induced PAF receptor knock out (PAFR(-/-)) mice 
+presented milder disease when compared to C57BL/6 wild type (WT) animals. 
+PAFR(-/-) animals had lower inflammatory infiltrates in central nervous system 
+(CNS) tissue when compared to WT mice. However, intravital microscopy in 
+cerebral microvasculature revealed similar levels of rolling and adhering 
+leukocytes in both WT and PAFR(-/-) mice. Interleukine (IL)-17 and chemokines 
+C-C motif legends (CCL)2 and CCL5 were significantly lower in PAFR(-/-) mice 
+when compared to WT mice. Brain infiltrating cluster of differentiation (CD)4(+) 
+leukocytes and IL-17(+) leukocytes was diminished in PAFR(-/-) when compared to 
+WT mice. Taken together, our results suggest that PAF receptor is important in 
+the induction and development of EAE, although it has no influence in rolling 
+and adhesion steps of cell recruitment. The absence of PAF receptor results in 
+milder disease by altering the type of inflammatory mediators and cells that are 
+present in CNS tissue.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.brainres.2011.02.036
+PMID: 21338585 [Indexed for MEDLINE]
+
+
+18. J Gen Virol. 2011 Jun;92(Pt 6):1358-1368. doi: 10.1099/vir.0.028381-0. Epub 2011 
+Feb 16.
+
+Infection with human coronavirus NL63 enhances streptococcal adherence to 
+epithelial cells.
+
+Golda A(1), Malek N(1), Dudek B(1), Zeglen S(2), Wojarski J(2), Ochman M(2), 
+Kucewicz E(2), Zembala M(2), Potempa J(3)(1), Pyrc K(1).
+
+Author information:
+(1)Microbiology Department, Faculty of Biochemistry Biophysics and 
+Biotechnology, Jagiellonian University, Gronostajowa 7, 30-387 Krakow, Poland.
+(2)Department of Cardiac Surgery and Transplantology, Silesian Center for Heart 
+Diseases, Szpitalna 2, 41-800 Zabrze, Poland.
+(3)University of Louisville School of Dentistry, Department of Oral Health and 
+Rehabilitation, 501 South Preston St, Louisville, KY 40202, USA.
+
+Understanding the mechanisms of augmented bacterial pathogenicity in post-viral 
+infections is the first step in the development of an effective therapy. This 
+study assessed the effect of human coronavirus NL63 (HCoV-NL63) on the adherence 
+of bacterial pathogens associated with respiratory tract illnesses. It was shown 
+that HCoV-NL63 infection resulted in an increased adherence of Streptococcus 
+pneumoniae to virus-infected cell lines and fully differentiated primary human 
+airway epithelium cultures. The enhanced binding of bacteria correlated with an 
+increased expression level of the platelet-activating factor receptor (PAF-R), 
+but detailed evaluation of the bacterium-PAF-R interaction revealed a limited 
+relevance of this process.
+
+DOI: 10.1099/vir.0.028381-0
+PMCID: PMC3168281
+PMID: 21325482 [Indexed for MEDLINE]
+
+
+19. Mol Biol Cell. 2010 Feb 15;21(4):538-46. doi: 10.1091/mbc.e09-07-0573. Epub 2009 
+Dec 23.
+
+Hypoxia-inducible factor-dependent regulation of platelet-activating factor 
+receptor as a route for gram-positive bacterial translocation across epithelia.
+
+Keely S(1), Glover LE, Weissmueller T, MacManus CF, Fillon S, Fennimore B, 
+Colgan SP.
+
+Author information:
+(1)Mucosal Inflammation Program, Department of Medicine, University of Colorado 
+Denver, Aurora, CO 80045, USA. simon.keely@ucdenver.edu
+
+Mucosal surfaces, such as the lung and intestine, are lined by a monolayer of 
+epithelia that provides tissue barrier and transport function. It is recently 
+appreciated that a common feature of inflammatory processes within the mucosa is 
+hypoxia (so-called inflammatory hypoxia). Given the strong association between 
+bacterial translocation and mucosal inflammatory disease, we hypothesized that 
+intestinal epithelial hypoxia influences bacterial translocation. Initial 
+studies revealed that exposure of cultured intestinal epithelia to hypoxia 
+(pO(2), 20 torr; 24-48 h) resulted in a increase of up to 40-fold in the 
+translocation of some strains of Gram-positive bacteria, independently of 
+epithelial barrier function. A screen of relevant pathway inhibitors identified 
+a prominent role for the platelet-activating factor receptor (PAFr) in 
+hypoxia-associated bacterial translocation, wherein pharmacologic antagonists of 
+PAFr blocked bacterial translocation by as much as 80 +/- 6%. Extensions of 
+these studies revealed that hypoxia prominently induces PAFr through a 
+hypoxia-inducible factor (HIF)-dependent mechanism. Indeed, HIF and PAFr loss of 
+function studies (short hairpin RNA) revealed that apically expressed PAFr is 
+central to the induction of translocation for the Gram-positive bacteria 
+Enterococcus faecalis. Together, these findings reveal that some strains of 
+Gram-positive bacteria exploit HIF-regulated PAFr as a means for translocation 
+through intestinal epithelial cells.
+
+DOI: 10.1091/mbc.e09-07-0573
+PMCID: PMC2820419
+PMID: 20032301 [Indexed for MEDLINE]
+
+
+20. J Immunol. 2008 Jun 15;180(12):8192-203. doi: 10.4049/jimmunol.180.12.8192.
+
+Platelet-activating factor-mediated endosome formation causes membrane 
+translocation of p67phox and p40phox that requires recruitment and activation of 
+p38 MAPK, Rab5a, and phosphatidylinositol 3-kinase in human neutrophils.
+
+McLaughlin NJ(1), Banerjee A, Khan SY, Lieber JL, Kelher MR, Gamboni-Robertson 
+F, Sheppard FR, Moore EE, Mierau GW, Elzi DJ, Silliman CC.
+
+Author information:
+(1)Bonfils Blood Center, University of Colorado Denver School of Medicine, 
+Children's Hospital, Denver, CO 80230, USA.
+
+Neutrophils (polymorphonuclear leukocytes, PMNs) are vital to innate immunity 
+and receive proinflammatory signals that activate G protein-coupled receptors 
+(GPCRs). Because GPCRs transduce signals through clathrin-mediated endocytosis 
+(CME), we hypothesized that platelet-activating factor (PAF), an effective 
+chemoattractant that primes the PMN oxidase, would signal through CME, 
+specifically via dynamin-2 activation and endosomal formation resulting in 
+membrane translocation of cytosolic phagocyte oxidase (phox) proteins. PMNs were 
+incubated with buffer or 2 muM PAF for 1-3 min, and in some cases activated with 
+PMA, and O(2)(-) was measured, whole-cell lysates and subcellular fractions were 
+prepared, or the PMNs were fixed onto slides for digital or electron microscopy. 
+PAF caused activation of dynamin-2, resulting in endosomal formation that 
+required PI3K and contained early endosomal Ag-1 (EEA-1) and Rab5a. The 
+apoptosis signal-regulating kinase-1/MAPK kinase-3/p38 MAPK signalosome 
+assembled on Rab5a and phosphorylated EEA-1 and Rab GDP dissociation inhibitor, 
+with the latter causing Rab5a activation. Electron microscopy demonstrated that 
+PAF caused two distinct sites for activation of p38 MAPK. EEA-1 provided a 
+scaffold for recruitment of the p40(phox)-p67(phox) complex and PI3K-dependent 
+Akt1 phosphorylation of these two phox proteins. PAF induced membrane 
+translocation of p40(phox)-p67(phox) localizing to gp91(phox), which was PI3K-, 
+but not p47(phox)-, dependent. In conclusion, PAF transduces signals through 
+CME, and such GPCR signaling may allow for pharmacological manipulation of these 
+cells to decrease PMN-mediated acute organ injury.
+
+DOI: 10.4049/jimmunol.180.12.8192
+PMCID: PMC3065328
+PMID: 18523285 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures The authors have no financial 
+conflicts of interest.
+
+
+21. Zhongguo Wei Zhong Bing Ji Jiu Yi Xue. 2007 Aug;19(8):477-80.
+
+[Effect of platelet activating factor receptor antagonist on the tight junction 
+associated protein between the epithelial cells of intestinal mucosa during 
+endotoxemia in young rats].
+
+[Article in Chinese]
+
+Wang LJ(1), Sun M.
+
+Author information:
+(1)Department of Pediatrics, Shengjing Hospital of China Medical University, 
+Shenyang 110004, Liaoning, China. wlj682002@yahoo.com.cn
+
+OBJECTIVE: To investigate the effect of platelet activating factor (PAF) on the 
+beta-catenin between the epithelial cells of intestinal mucosa during 
+endotoxemia in rats, and to explore the mechanism of prospective effect of PAF 
+receptor antagonist on intestinal epithelial barrier integrity.
+METHODS: Rat model of endotoxemia was reproduced by intraperitoneal injection of 
+lipopolysaccharide (LPS). Rats receiving PAF receptor antagonist BN52021 5 mg/kg 
+before and 30 minutes after LPS injection were taken as pretreatment group and 
+treatment group, respectively. In control group, rats received normal saline 
+instead of LPS. The ileum tissue was harvested at 1.5, 3, 6, 24, 48 and 72 hours 
+after LPS injection. Immunohistochemistry and reverse transcription-polymerase 
+chain reaction (RT-PCR) were used to determine beta-catenin protein and 
+beta-catenin mRNA expression in intestinal mucosa.
+RESULTS: beta-catenin immunohistochemical labeling was evidently observed in the 
+control rats, where beta-catenin labeling appeared mainly in the shape of lines 
+defining the pericellular spaces between cells. This was in contrast to what was 
+observed in rats after LPS challenge, where beta-catenin labeling was 
+substantially reduced or irregularly distributed around many cells. The 
+beta-catenin contents of optical density average and beta-catenin mRNA were 
+obviously decreased in the LPS challenge group compared with that in the control 
+group (P<0.01). The content of beta-catenin mRNA significantly decreased at 3 to 
+24 hours(all P<0.01). The levels of beta-catenin protein and beta-catenin mRNA 
+in pretreatment group and treatment group were higher than those in the LPS 
+group at each time point but without statistically significant difference.
+CONCLUSION: PAF plays a role in the injury to intestinal mechanical barrier 
+function during endotoxemia. Preventive and remedial use of PAF receptor 
+antagonist BN52021 may alleviate intestinal injury.
+
+PMID: 17708844 [Indexed for MEDLINE]
+
+
+22. J Immunol. 2006 Jul 15;177(2):1264-71. doi: 10.4049/jimmunol.177.2.1264.
+
+Signaling via platelet-activating factor receptors accounts for the impairment 
+of neutrophil migration in polymicrobial sepsis.
+
+Moreno SE(1), Alves-Filho JC, Rios-Santos F, Silva JS, Ferreira SH, Cunha FQ, 
+Teixeira MM.
+
+Author information:
+(1)Departamento de Farmacologia, Faculdade de Medicina de Ribeirão Preto, 
+Universidade de São Paulo, São Paulo, Brazil.
+
+Sepsis is a systemic inflammatory response that results from the inability of 
+the immune system to limit bacterial spread during an ongoing infection. 
+Recently, we have documented an impaired neutrophil migration toward the 
+infectious focus in severe sepsis. This impairment seems to be mediated by 
+circulating cytokines, chemokines, and NO. Platelet-activating factor (PAF) 
+plays an important role in the orchestration of different inflammatory 
+reactions, including the release of cytokines, chemokines, and free radicals. 
+Using a PAFR antagonist, PCA-4248, and PAFR-deficient mice, we investigated 
+whether signaling via PAFR was relevant for the failure of neutrophils to 
+migrate to the site of infection after lethal sepsis caused by cecum ligation 
+and puncture in mice. In PAFR-deficient mice or mice pretreated with PCA-4248 (5 
+mg/kg) and subjected to lethal sepsis, neutrophil migration failure was 
+prevented, and bacterial clearance was more efficient. There was also reduced 
+systemic inflammation (low serum cytokine levels), lower nitrate levels in 
+plasma, and higher survival rate. Altogether, the results firmly establish a 
+role for PAFR in mediating the early impairment of neutrophil migration toward 
+the infectious focus. Blockade of PAFR may prevent the establishment of severe 
+sepsis.
+
+DOI: 10.4049/jimmunol.177.2.1264
+PMID: 16818786 [Indexed for MEDLINE]
+
+
+23. J Virol. 2006 Feb;80(4):1629-36. doi: 10.1128/JVI.80.4.1629-1636.2006.
+
+Respiratory viruses augment the adhesion of bacterial pathogens to respiratory 
+epithelium in a viral species- and cell type-dependent manner.
+
+Avadhanula V(1), Rodriguez CA, Devincenzo JP, Wang Y, Webby RJ, Ulett GC, 
+Adderson EE.
+
+Author information:
+(1)Department of Infectious Diseases, St. Jude Children's Research Hospital, 
+Mailstop 320, 332 N. Lauderdale St., Memphis, TN 38105, USA.
+
+Secondary bacterial infections often complicate respiratory viral infections, 
+but the mechanisms whereby viruses predispose to bacterial disease are not 
+completely understood. We determined the effects of infection with respiratory 
+syncytial virus (RSV), human parainfluenza virus 3 (HPIV-3), and influenza virus 
+on the abilities of nontypeable Haemophilus influenzae and Streptococcus 
+pneumoniae to adhere to respiratory epithelial cells and how these viruses alter 
+the expression of known receptors for these bacteria. All viruses enhanced 
+bacterial adhesion to primary and immortalized cell lines. RSV and HPIV-3 
+infection increased the expression of several known receptors for pathogenic 
+bacteria by primary bronchial epithelial cells and A549 cells but not by primary 
+small airway epithelial cells. Influenza virus infection did not alter receptor 
+expression. Paramyxoviruses augmented bacterial adherence to primary bronchial 
+epithelial cells and immortalized cell lines by up-regulating eukaryotic cell 
+receptors for these pathogens, whereas this mechanism was less significant in 
+primary small airway epithelial cells and in influenza virus infections. 
+Respiratory viruses promote bacterial adhesion to respiratory epithelial cells, 
+a process that may increase bacterial colonization and contribute to disease. 
+These studies highlight the distinct responses of different cell types to viral 
+infection and the need to consider this variation when interpreting studies of 
+the interactions between respiratory cells and viral pathogens.
+
+DOI: 10.1128/JVI.80.4.1629-1636.2006
+PMCID: PMC1367158
+PMID: 16439519 [Indexed for MEDLINE]
+
+
+24. Int J Parasitol. 2006 Feb;36(2):165-73. doi: 10.1016/j.ijpara.2005.09.016. Epub 
+2005 Oct 26.
+
+Platelet-activating factor-like activity isolated from Trypanosoma cruzi.
+
+Gomes MT(1), Monteiro RQ, Grillo LA, Leite-Lopes F, Stroeder H, Ferreira-Pereira 
+A, Alviano CS, Barreto-Bergter E, Neto HC, Cunha E Silva NL, Almeida IC, Soares 
+RM, Lopes AH.
+
+Author information:
+(1)Instituto de Microbiologia, Prof. Paulo de Góes, Universidade Federal do Rio 
+de Janeiro, Cidade Universitária, CCS, Bloco I, Ilha do Fundão, 21941-590 Rio de 
+Janeiro, RJ, Brazil.
+
+Platelet-activating factor is a phospholipid mediator that exhibits a wide 
+variety of physiological and pathophysiological effects, including induction of 
+inflammatory response, chemotaxis and cellular differentiation. Trypanosoma 
+cruzi, the etiological agent of Chagas' disease, is transmitted by triatomine 
+insects and while in the triatomine midgut the parasite differentiates from a 
+non-infective epimastigote stage into the pathogenic trypomastigote metacyclic 
+form. We have previously demonstrated that platelet activating factor triggers 
+in vitro cell differentiation of T. cruzi. Here we show a platelet activating 
+factor-like activity isolated from lipid extract of T. cruzi epimastigotes 
+incubated in the presence of [14C]acetate. Trypanosoma cruzi-platelet activating 
+factor-like lipid induced the aggregation of rabbit platelets, which was 
+prevented by platelet activating factor-acetylhydrolase. Mouse macrophage 
+infection by T. cruzi was stimulated when epimastigotes were kept for 5 days in 
+the presence of T. cruzi-platelet activating factor, before interacting with the 
+macrophages. The differentiation of epimastigotes into metacyclic 
+trypomastigotes was also triggered by T. cruzi-platelet activating factor. These 
+effects were abrogated by a platelet activating factor antagonist, WEB 2086. 
+Polyclonal antibody raised against mouse platelet activating factor receptor 
+showed labelling for T. cruzi epimastigotes using immunoblotting and 
+immunofluorescence assays. These data suggest that T. cruzi contain the 
+components of an autocrine platelet activating factor-like ligand-receptor 
+system that modulates cell differentiation towards the infectious stage.
+
+DOI: 10.1016/j.ijpara.2005.09.016
+PMID: 16337632 [Indexed for MEDLINE]
+
+
+25. Am J Physiol Lung Cell Mol Physiol. 2006 Jan;290(1):L194-9. doi: 
+10.1152/ajplung.00050.2005. Epub 2005 Aug 12.
+
+Involvement of the platelet-activating factor receptor in host defense against 
+Streptococcus pneumoniae during postinfluenza pneumonia.
+
+van der Sluijs KF(1), van Elden LJ, Nijhuis M, Schuurman R, Florquin S, Shimizu 
+T, Ishii S, Jansen HM, Lutter R, van der Poll T.
+
+Author information:
+(1)Laboratory of Experimental Immunology, Academic Medical Center, University of 
+Amsterdam, Amsterdam, The Netherlands. kvandersluijs@amc.uva.nl
+
+Although influenza infection alone may lead to pneumonia, secondary bacterial 
+infections are a much more common cause of pneumonia. Streptococcus pneumoniae 
+is the most frequently isolated causative pathogen during postinfluenza 
+pneumonia. Considering that S. pneumoniae utilizes the platelet-activating 
+factor receptor (PAFR) to invade the respiratory epithelium and that the PAFR is 
+upregulated during viral infection, we here used PAFR gene-deficient (PAFR-/-) 
+mice to determine the role of this receptor during postinfluenza pneumococcal 
+pneumonia. Viral clearance was similar in wild-type and PAFR-/- mice, and 
+influenza virus was completely removed from the lungs at the time mice were 
+inoculated with S. pneumoniae (day 14 after influenza infection). PAFR-/- mice 
+displayed a significantly reduced bacterial outgrowth in their lungs, a 
+diminished dissemination of the infection, and a prolonged survival. Pulmonary 
+levels of IL-10 and KC were significantly lower in PAFR-/- mice, whereas IL-6 
+and TNF-alpha were only trendwise lower. These data indicate that the 
+pneumococcus uses the PAFR leading to severe pneumonia in a host previously 
+exposed to influenza A.
+
+DOI: 10.1152/ajplung.00050.2005
+PMID: 16100290 [Indexed for MEDLINE]
+
+
+26. J Cataract Refract Surg. 2004 Apr;30(4):884-91. doi: 10.1016/j.jcrs.2003.09.069.
+
+Prevention of experimental diffuse lamellar keratitis using a novel 
+platelet-activating factor receptor antagonist.
+
+Esquenazi S(1), He J, Bazan HE, Bazan NG.
+
+Author information:
+(1)Department of Ophthalmology and Neuroscience Center of Excellence, LSU Health 
+Science Center, Louisiana State University School of Medicine, 2020 Gravier 
+Street 3rd Floor, Suite B, New Orleans, LA 70112, USA.
+
+PURPOSE: To determine whether a novel platelet-activating factor (PAF) 
+antagonist prevents experimentally induced diffuse lamellar keratitis (DLK) 
+after laser in situ keratomileusis (LASIK).
+SETTINGS: Department of Ophthalmology and Neuroscience Center of Excellence, 
+Louisiana State University Health Science Center, New Orleans, Louisiana, USA.
+METHODS: Twenty eyes of 10 New Zealand albino rabbits were used. The left eyes 
+were treated with a peribulbar injection of 0.5 mL of PAF receptor antagonist 
+LAU 0901 (2,4,6-trimethyl-1,4-dihydropyridine-3,5-dicarboxylic acid ester) 
+dissolved in 20 hydroxypropyl B cyclodextrin (30 microg /mL). Two rabbits were 
+treated with a peribulbar injection of 0.5 mL of vehicle (cyclodextrin) alone 
+and served as controls. A corneal flap was cut in all eyes, and the interface 
+was exposed to Pseudomonas aeruginosa endotoxin. The left eyes were additionally 
+treated with 1 drop of LAU 0901 4 times a day. Rabbits were killed on 
+postoperative days 1, 2, 3, 5, and 8. The eyes were enucleated and processed for 
+histopathology and immunohistochemical examination.
+RESULTS: Corneas not treated with LAU 0901 and controls showed a severe 
+inflammatory response in the flap margin and stromal interface, characterized by 
+loss of keratocytes, activation of adjacent keratocytes and transformation to 
+myofibroblasts, infiltration of polymorphonuclear leukocytes and monocytes, and 
+presence of epithelial cells with necrosis and melting of adjacent stroma. 
+Corneas of rabbits treated with LAU 0901 showed minimal loss of keratocytes and 
+myofibroblast transformation, minimal inflammatory cell infiltration, and 
+minimal presence of epithelial cells in the interface.
+CONCLUSION: Induction of DLK was blocked by a PAF receptor antagonist in rabbit 
+eyes. The histopathological evaluation and immunohistochemical studies showed 
+that treatment with LAU 0901 blocked keratocyte apoptosis, transformation of 
+fibroblasts to myofibroblasts and migration to the wound site, and chemotaxis of 
+inflammatory cells, inhibiting the inflammatory response and promoting adequate 
+healing of the flap interface and adjacent stroma.
+
+DOI: 10.1016/j.jcrs.2003.09.069
+PMID: 15093656 [Indexed for MEDLINE]
+
+
+27. Eur J Neurosci. 2002 Dec;16(12):2405-15. doi: 10.1046/j.1460-9568.2002.02416.x.
+
+Environmental conditions influence hippocampus-dependent behaviours and brain 
+levels of amyloid precursor protein in rats.
+
+Teather LA(1), Magnusson JE, Chow CM, Wurtman RJ.
+
+Author information:
+(1)Department of Brain and Cognitive Sciences, Massachusetts Institute of 
+Technology, 45 Carleton Street, Cambridge, MA 02139, USA. lteather@mit.edu
+
+Sprague-Dawley rats were reared in enriched (EC; group housing, exposure to 
+stimulating objects, frequent handling) or restricted (RC; individual housing, 
+no exposure to stimulating objects, minimal handling) environments starting on 
+day 23 of life. At six months of age, they underwent behavioural tests to assess 
+'cognitive' and 'stimulus-response' memory, selective attention, and 
+inflammatory pain processing. Alterations in synapses and cell survival may 
+occur as a result of environment differences; therefore we assessed the brain 
+levels of several proteins implicated in neurite outgrowth, synaptogenesis, and 
+cell survival. Brains were dissected and analysed for amyloid precursor protein 
+(APP) and other synaptic and cytoskeletal proteins using Western blotting. The 
+performance of EC animals in a hidden platform water maze task, and in a test of 
+selective attention (both of which are thought to involve the hippocampus) was 
+superior to that of RC animals. In contrast, performance of RC animals on two 
+stimulus-response tasks, the visible platform water maze test and simple visual 
+discrimination (both of which are thought to be hippocampal independent) was 
+indistinguishable from that of EC animals. Male EC rats displayed a different 
+behavioural response to formalin during the inflammatory phase of 
+nociception--the phase affected by hippocampal processing; a similar trend was 
+observed in females. Female but not male RC rats exhibited elevated plasma 
+corticosterone levels; adrenal weights were unaffected by environmental 
+conditions. Region-specific increases in brain levels of APP, neurofilament-70 
+(NF-70), and platelet-activating factor receptor (PAF-R) were found in EC rats. 
+These data suggest that enriched animals manifest enhanced functioning of 
+certain hippocampus-mediated behaviours when compared with that of their 
+restricted counterparts; and that brain levels of various synaptic and 
+structural proteins involved in neurite outgrowth, cell survival, and 
+synaptogenesis, are affected by environmental factors.
+
+DOI: 10.1046/j.1460-9568.2002.02416.x
+PMID: 12492435 [Indexed for MEDLINE]
+
+
+28. J Immunol. 2002 Dec 1;169(11):6498-506. doi: 10.4049/jimmunol.169.11.6498.
+
+Lipopolysaccharide-induced leukocyte lipid body formation in vivo: innate 
+immunity elicited intracellular Loci involved in eicosanoid metabolism.
+
+Pacheco P(1), Bozza FA, Gomes RN, Bozza M, Weller PF, Castro-Faria-Neto HC, 
+Bozza PT.
+
+Author information:
+(1)Laboratório de Imunofarmacologia, Departamento de Fisiologia e 
+Farmacodinâmica, Instituto Oswaldo Cruz, Fundação Oswaldo Cruz, Rio de Janeiro, 
+Brazil.
+
+Lipid bodies are rapidly inducible, specialized cytoplasmic domains for 
+eicosanoid-forming enzyme localization, which we hypothesize to have specific 
+roles in enhanced inflammatory mediator production during pathological 
+conditions, including sepsis. However, little is known about the origins, 
+composition, or functions of lipid bodies in vivo. We show that lipid body 
+numbers were increased in leukocytes from septic patients in comparison with 
+healthy subjects. Analogously, the intrathoracic administration of LPS into mice 
+induced a dose- and time-dependent increase in lipid body numbers. Pretreatment 
+with anti-CD14 or anti-CD11b/CD18 mAb drastically inhibited LPS-induced lipid 
+body formation. Moreover, LPS failed to form lipid bodies in C3H/HeJ (TLR4 
+mutated) mice, demonstrating a requisite role for LPS receptors in lipid body 
+formation. LPS-induced lipid body formation was also inhibited by the 
+platelet-activating factor-receptor antagonists, suggesting a role for 
+endogenous platelet-activating factor. The eicosanoid-forming enzymes, 
+5-lipoxygenase and cyclooxygenase-2, were immunolocalized within experimentally 
+induced (LPS in mice) or naturally occurring (septic patients) lipid bodies. The 
+proinflammatory cytokine involved in the pathogenesis of sepsis, TNF-alpha, was 
+also shown to colocalize within lipid bodies. Prior stimulation of leukocytes to 
+form lipid bodies enhanced the capacity of leukocytes to produce leukotriene 
+B(4) and PGE(2). In conclusion, our studies indicate that lipid bodies formed 
+after LPS stimulation and sepsis are sites for eicosanoid-forming enzymes and 
+cytokine localization and may develop and function as structurally distinct, 
+intracellular sites for paracrine eicosanoid synthesis during inflammatory 
+conditions.
+
+DOI: 10.4049/jimmunol.169.11.6498
+PMID: 12444160 [Indexed for MEDLINE]
+
+
+29. Surgery. 2002 Aug;132(2):157-66. doi: 10.1067/msy.2002.125170.
+
+Platelet-activating factor priming of inflammatory cell activity requires 
+cellular adherence.
+
+Cuschieri J(1), Gourlay D, Bulger E, Garcia I, Jelacic S, Maier RV.
+
+Author information:
+(1)Department of Surgery, University of Cincinnati, Ohio 45267-0558, USA.
+
+BACKGROUND: Platelet-activating factor (PAF) primes tissue-fixed inflammatory 
+cells, but has no effect on circulating cells. Adherence of inflammatory cells 
+leads to cytoskeletal reorganization, which is essential for optimal 
+inflammatory function. The purpose of this study was to investigate whether 
+cellular adherence plays a role in PAF priming of inflammatory cells.
+METHODS: Differentiated THP-1 cells were maintained under adherent and 
+nonadherent conditions. Selected cells were pretreated with PAF, followed by 
+endotoxin stimulation. Cellular and nuclear proteins were analyzed by Western 
+blot for components of the Toll-like receptor-mediated signaling cascade. 
+Cytokine analysis was performed by enzyme-linked immunosorbent assay.
+RESULTS: Endotoxin led to activation of interleukin (IL)-1-associated kinase, 
+extracellular signal-regulated kinase 1/2 and p38, and nuclear translocation of 
+nuclear factor-kappaB, all of which were significantly enhanced by previous 
+cellular adherence. PAF led to priming only under adherent conditions, 
+demonstrated by increased IL-1-associated kinase and extracellular 
+signal-regulated kinase 1/2 activity; nuclear factor-kappaB translocation; and 
+IL-6, IL-8, and tumor necrosis factor-alpha production over non-PAF-treated 
+cells. PAF had no significant effect on p38 activity or IL-10 production under 
+any condition.
+CONCLUSIONS: PAF primes mononuclear cells by increasing Toll-mediated signaling 
+only under adherent conditions. This, therefore, would limit PAF-induced priming 
+in vivo to foci of stimulated adherent inflammatory cells with little effect 
+systemically on circulating cells.
+
+DOI: 10.1067/msy.2002.125170
+PMID: 12219006 [Indexed for MEDLINE]
+
+
+30. Oncogene. 2002 Jun 6;21(25):4020-31. doi: 10.1038/sj.onc.1205498.
+
+G-protein alpha(olf) subunit promotes cellular invasion, survival, and 
+neuroendocrine differentiation in digestive and urogenital epithelial cells.
+
+Régnauld K(1), Nguyen QD, Vakaet L, Bruyneel E, Launay JM, Endo T, Mareel M, 
+Gespach C, Emami S.
+
+Author information:
+(1)INSERM U482, Signal transduction and cellular functions in Diabetes and 
+Digestive Cancers, Hôpital Saint-Antoine, 75571 Paris Cedex 12, France.
+
+The heterotrimeric G-protein subunits Galpha and Gbetagamma are involved in 
+cellular transformation and tumor development. Here, we report the expression of 
+Galpha(olf) in human digestive and urogenital epithelial cells using RT-PCR and 
+Western blot. When the constitutively activated form of Galpha(olf)Q214L 
+(AGalpha(olf)) was stably transfected in canine kidney MDCKts.src and human 
+colonic HCT-8/S11 epithelial cells, it induced cellular invasion in collagen 
+gels. AGalpha(olf)-mediated invasion was abrogated by agonists of platelet 
+activating factor receptors (PAF-R) and protease-activated receptors -1 (PAR-1), 
+pharmacological inhibitors of PI3'-Kinase (wortmannin), protein kinase C (Gö6976 
+and GF109203X), Rho GTPase (C3T exoenzyme), but was independent of protein 
+kinase A. Accordingly, the invasive phenotype induced by AGalpha(olf) in 
+HCT-8/S11 cells was reversed by the RhoA antagonist RhoD (G26V). Although 
+AGalpha(olf) protected MDCKts.src cells against serum starvation-mediated 
+apoptosis via a Rho-independent pathway, both AGalpha(olf) and Rho inhibition by 
+C3T induced neuroendocrine-like differentiation linked to extensive neurite 
+outgrowth and parathyroid hormone-related protein expression in human prostatic 
+LNCaP-AGalpha(olf) cells. Since prostate tumors with a larger neuroendocrine 
+cell population display increased invasiveness, persistent activation of the 
+G-protein alpha(olf) may exert convergent adverse effects on cellular invasion 
+and survival in solid tumors during the neoplastic progression towards 
+metastasis. doi:10.1038/sj.onc.1205498
+
+DOI: 10.1038/sj.onc.1205498
+PMID: 12037684 [Indexed for MEDLINE]
+
+
+31. Infect Immun. 1999 Jun;67(6):2810-4. doi: 10.1128/IAI.67.6.2810-2814.1999.
+
+Platelet-activating factor induces nitric oxide synthesis in Trypanosoma 
+cruzi-infected macrophages and mediates resistance to parasite infection in 
+mice.
+
+Aliberti JC(1), Machado FS, Gazzinelli RT, Teixeira MM, Silva JS.
+
+Author information:
+(1)Department of Immunology, School of Medicine of Ribeirão Preto, University of 
+São Paulo, Ribeirão Preto, São Paulo, ICB, UFMG, Belo Horizonte, Minas Gerais, 
+Brazil.
+
+Trypanosoma cruzi replicates in nucleated cells and is susceptible to being 
+killed by gamma interferon-activated macrophages through a mechanism dependent 
+upon NO biosynthesis. In the present study, the role of platelet-activating 
+factor (PAF) in the induction of NO synthesis and in the activation of the 
+trypanocidal activity of macrophages was investigated. In vitro, PAF induced NO 
+secretion by T. cruzi-infected macrophages and the secreted NO inhibited 
+intracellular parasite growth. The addition of a PAF antagonist, WEB 2170, 
+inhibited both NO biosynthesis and trypanocidal activity. The inducible NO 
+synthase/L-arginine pathway mediated trypanocidal activity, since it was 
+inhibited by treatment with L-N-monomethyl arginine (L-NMMA), an L-arginine 
+analog. PAF-mediated NO production in infected macrophages appears to be 
+dependent on tumor necrosis alpha (TNF-alpha) production, since the addition of 
+a neutralizing anti-TNF-alpha monoclonal antibody mAb inhibited NO synthesis. To 
+test the role of PAF in mediating resistance or susceptibility to T. cruzi 
+infection, infected mice were treated with WEB 2170, a PAF antagonist. These 
+animals had higher parasitemia and earlier mortality than did vehicle-treated 
+mice. Taken together, our results suggest that PAF belongs to a group of 
+mediators that coordinate the mechanisms of resistance to infections with 
+intracellular parasites.
+
+DOI: 10.1128/IAI.67.6.2810-2814.1999
+PMCID: PMC96586
+PMID: 10338485 [Indexed for MEDLINE]
+
+
+32. Am J Physiol. 1998 Sep;275(3):E479-86. doi: 10.1152/ajpendo.1998.275.3.E479.
+
+Endotoxin-induced migration of monocytes and PECAM-1 phosphorylation are 
+abrogated by PAF receptor antagonists.
+
+Shen Y(1), Sultana C, Arditi M, Kim KS, Kalra VK.
+
+Author information:
+(1)Department of Biochemistry, Childrens Hospital Los Angeles, University of 
+Southern California School of Medicine, Los Angeles, California 90033, USA.
+
+The trafficking of monocytes across the endothelial lining of the blood vessel 
+increases in response to bacterial infection at sites of inflammation. However, 
+the molecular events involved in the diapedesis of monocytes in response to 
+endotoxin are not completely understood. Our studies revealed that signaling by 
+lipopolysaccharide (LPS) in human umbilical vein endothelial cells (HUVEC) 
+resulted in a threefold increase in the transendothelial migration of 
+monocyte-like HL-60 cells and a sevenfold increase in the phosphorylation of 
+platelet endothelial cell adhesion molecule-1 (PECAM-1). The transmigration 
+induced by LPS was inhibited by an antibody to PECAM-1. Both the phosphorylation 
+of PECAM-1 and transendothelial migration of monocytes were inhibited by a 
+platelet-activating factor (PAF) receptor antagonist, indicating the autocrine 
+effect of PAF in these events. Treatment of HUVEC with LPS caused a fourfold 
+increase in PAF receptor mRNA expression that was completely blocked by the PAF 
+receptor antagonist. We conclude that PAF, generated by HUVEC in response to LPS 
+or gram-negative bacterial infection, acts in an autocrine manner, causing 
+PECAM-1 phosphorylation and thus the transendothelial migration of monocytes.
+
+DOI: 10.1152/ajpendo.1998.275.3.E479
+PMID: 9725815 [Indexed for MEDLINE]
+
+
+33. Br J Pharmacol. 1998 Jan;123(2):231-6. doi: 10.1038/sj.bjp.0701602.
+
+Investigation of the effects of platelet-activating factor (PAF) on ion 
+transport and prostaglandin synthesis in human colonic mucosa in vitro.
+
+Borman RA(1), Jewell R, Hillier K.
+
+Author information:
+(1)Clinical Pharmacology Group, School of Medicine, University of Southampton.
+
+1 We have investigated the effects of platelet-activating factor (PAF), an 
+endogenous mediator of inflammation, on ion transport and prostaglandin 
+synthesis in the human isolated colon. 2 Application of PAF to the serosal 
+surface of human colonic mucosa induced a marked, concentration-dependent 
+increase in ion transport. Mucosal application was without effect. 3 The 
+secretory response to PAF was significantly inhibited by prior application of a 
+specific PAF receptor antagonist WEB 2170, indicating that the response is 
+dependent on PAF receptor activation. 4 The response to PAF was attenuated by 
+prior application of indomethacin or piroxicam, implicating products of the 
+cyclo-oxygenase pathway in the response. 5 The response to PAF was attenuated by 
+the loop diuretic bumetanide, indicating an involvement of chloride ion 
+secretion in the response. 6 Addition of PAF to the serosal surface induced a 
+significant increase in serosal prostaglandin E2 (PGE2), but not 6-oxo-PGF1alpha 
+release. There was no effect on mucosal application of PAF. 7 In summary, we 
+have shown that PAF is a potent secretagogue in isolated preparations of human 
+colon and that the response is dependent on a specific PAF receptor, 
+cyclo-oxygenase products and bumetanide-sensitive chloride ion transport.
+
+DOI: 10.1038/sj.bjp.0701602
+PMCID: PMC1565160
+PMID: 9489610 [Indexed for MEDLINE]
+
+
+34. Biochem J. 1995 Feb 1;305 ( Pt 3)(Pt 3):829-35. doi: 10.1042/bj3050829.
+
+Expression of human platelet-activating factor receptor gene in EoL-1 cells 
+following butyrate-induced differentiation.
+
+Izumi T(1), Kishimoto S, Takano T, Nakamura M, Miyabe Y, Nakata M, Sakanaka C, 
+Shimizu T.
+
+Author information:
+(1)Department of Biochemistry, Faculty of Medicine, University of Tokyo, Japan.
+
+Platelet-activating factor (PAF) is a potent lipid mediator of allergic 
+inflammation through its interaction with eosinophils. Expression of the PAF 
+receptor is modulated by many agents, including those responsible for cell 
+differentiation. We report here that differentiation of a human eosinophilic 
+leukaemia cell line, EoL-1, by sodium n-butyrate is associated with induction of 
+PAF receptor gene expression, as indicated by: PAF receptor mRNA accumulation; 
+increases in the binding of [3H]WEB 2086, a PAF antagonist; analysis of 
+cell-surface expression of PAF receptor protein using a monoclonal anti-(PAF 
+receptor) antibody; and augmentation of PAF-induced increase in the 
+intracellular concentration of calcium. Using cDNA cloning, the receptor 
+expressed in EoL-1 cells was identified as 'Transcript 1', one of two 
+transcripts which was previously reported from human genomic analysis (Mutoh, 
+Bito, Minami, Nakamura, Honda, Izumi, Nakata, Kurachi, Terano and Shimizu (1993) 
+FEBS Lett. 322, 129-134). The PAF-induced calcium response and phosphoinositide 
+turnover were decreased by pertussis toxin (PTX) treatment, suggesting that 
+these signals are coupled largely with PTX-sensitive G-protein(s) in EoL-1 
+cells. These systems may provide a useful experimental model with which to 
+investigate the relationship between eosinophilic differentiation and PAF 
+receptor induction, and the role of eosinophils in allergic responses.
+
+DOI: 10.1042/bj3050829
+PMCID: PMC1136334
+PMID: 7848283 [Indexed for MEDLINE]
+
+
+35. Eur J Immunol. 1993 Apr;23(4):852-9. doi: 10.1002/eji.1830230413.
+
+Tumor necrosis factor induces enhanced responses to platelet-activating factor 
+and differentiation in human monocytic Mono Mac 6 cells.
+
+Weber C(1), Aepfelbacher M, Haag H, Ziegler-Heitbrock HW, Weber PC.
+
+Author information:
+(1)Institut für Prophylaxe und Epidemiologie der Kreislaufkrankheiten, 
+University of Munich, FRG.
+
+Human Mono Mac 6 cells exhibit characteristics of mature blood monocytes. 
+Treatment of these cells with human recombinant human tumor necrosis factor 
+(TNF) resulted in an increase in phagocytosis and phorbol myristate 
+acetate-stimulated superoxide anion production at 12 h and growth retardation 
+occurring at 24 h. Moreover, TNF induced a moderate increase of CD14 surface 
+antigen expression, used as a phenotypic marker of monocyte/macrophage 
+differentiation. Platelet-activating factor (PAF) stimulated a rapid rise in 
+cytosolic free Ca++ ([Ca++]i) of 308 +/- 93 nM in TNF-treated cells compared to 
+untreated cells (33 +/- 8 nM, n = 4). The effect of TNF was dose and time 
+dependent, evident after 12 h and maximal at 48 h. The enhanced PAF-induced 
+[Ca++]i rise was inhibited by the PAF receptor antagonist L-659,989 and EGTA, 
+indicating receptor-dependent Ca++ influx. Furthermore, L-659,989 and PAF 
+inhibited specific 3H-labeled PAF binding in TNF-treated, but not in untreated 
+cells. Consistently, PAF stimulated arachidonic acid release only in TNF-treated 
+cells. Preincubation of cells with anti-TNF monoclonal antibodies abolished 
+TNF-induced effects, but failed to block lipopolysaccharide (LPS) effects. 
+Distinct mechanisms of action by LPS were reflected by the different ability to 
+induce surface antigen expression. In conclusion, the enhancement of PAF 
+responses by TNF, associated with functional characteristics of differentiation 
+in Mono Mac 6 cells, may represent a specific mechanism of cooperative 
+interaction between PAF and TNF in inflammation, sepsis, immunoregulation and 
+atherogenesis.
+
+DOI: 10.1002/eji.1830230413
+PMID: 7681399 [Indexed for MEDLINE]
+
+
+36. Biochem Biophys Res Commun. 1991 Dec 31;181(3):1580-6. doi: 
+10.1016/0006-291x(91)92119-5.
+
+Human PAF receptor gene expression: induction during HL-60 cell differentiation.
+
+Müller E(1), Dupuis G, Turcotte S, Rola-Pleszczynski M.
+
+Author information:
+(1)Immunology Division, Faculty of Medicine, University of Sherbrooke, QC, 
+Canada.
+
+Platelet-activating factor is a potent lipid mediator of inflammation and immune 
+regulation. Its numerous biological activities are mediated through specific 
+receptors on the plasma membranes of responsive cells. The expression of such 
+receptors may be modulated by various agents, including those responsible for 
+cell differentiation. Here, we demonstrate that differentiation of the human 
+promyelocytic leukemia cell line HL-60 by 1 alpha,25(OH)2 vitamin D3 towards the 
+macrophage phenotype is associated with induction of PAF receptor gene 
+expression: PAF receptor mRNA accumulation correlates with the induction and 
+development of specific PAF responsiveness as assayed by [Ca2+]i fluxes. Our 
+studies suggest that PAF responsiveness parallels macrophage differentiation and 
+that PAF receptor expression can be regulated at the transcriptional level.
+
+DOI: 10.1016/0006-291x(91)92119-5
+PMID: 1722407 [Indexed for MEDLINE]
+
+
+37. J Biol Chem. 1990 Mar 15;265(8):4261-5.
+
+Development of specific functionally active receptors for platelet-activating 
+factor in HL-60 cells following granulocytic differentiation.
+
+Vallari DS(1), Austinhirst R, Snyder F.
+
+Author information:
+(1)Medical Sciences Division, Oak Ridge Associated Universities, Tennessee 
+37831-0117.
+
+A human promyelocytic leukemia cell line (undifferentiated HL-60 cells) as well 
+as a granulocyte form of HL-60 cells induced in vitro by exposure to dimethyl 
+sulfoxide were examined for binding, metabolism, and biological responses to 
+platelet-activating factor (PAF). Undifferentiated and differentiated HL-60 
+cells each exhibit a high capacity to incorporate and metabolize [3H]PAF at 37 
+degrees C; however, the amount of [3H]PAF that is assimilated by both cell 
+populations is greatly reduced and its metabolism abolished at less than or 
+equal to 4 degrees C. At 0 degrees C HL-60 granulocytes bind more [3H]PAF than 
+their undifferentiated counterparts. Binding to differentiated cells reaches 
+equilibrium within 80 min and is saturable, reversible and specific; PAF 
+receptor antagonists WEB 2086, L-659,989, BN 52021, and kadsurenone abolish this 
+specific [3H]PAF binding. In contrast, [3H]PAF uptake by undifferentiated HL-60 
+cells is neither saturable nor sensitive to specific receptor antagonists. 
+Scatchard analyses reveal 5850 +/- 850 binding sites per differentiated HL-60 
+cell with a dissociation constant of 0.66 +/- 0.15 nM. In the presence of 
+cytochalasin B, PAF (200 nM) induces degranulation only in differentiated cells 
+and this response also is blocked by PAF receptor antagonists. Our results 
+demonstrate that HL-60 cells develop specific and functionally active PAF 
+receptors only after chemically induced differentiation into granulocytes.
+
+PMID: 2155218 [Indexed for MEDLINE]
+
+
+38. Am Rev Respir Dis. 1990 Mar;141(3 Pt 2):S151-6. doi: 
+10.1164/ajrccm/141.3_Pt_2.S151.
+
+Receptors in asthmatic airways.
+
+Goldie RG(1).
+
+Author information:
+(1)Department of Pharmacology, University of Western Australia, Nedlands.
+
+Airway tissue obtained postmortem from nondiseased and severely asthmatic human 
+lung was used in functional, radioligand binding and autoradiographic studies to 
+investigate aspects of various receptor systems for putative mediators of 
+asthma. Results indicate that asthma does not involve an intrinsic abnormality 
+of smooth muscle contractility to spasmogens. Nor was there any evidence for 
+up-regulation of histamine H1-receptor, muscarinic cholinoceptor, or alpha 
+1-adrenoceptor function. Conversely, severe asthma involving intense airway 
+inflammation resulted in significant beta-adrenoceptor dysfunction, probably 
+caused by receptor uncoupling from adenylate cyclase. Evidence was also obtained 
+for histamine and methacholine-induced release of a nonprostanoid, airway 
+epithelium-derived inhibitory factor (EpDIF), which may have a significant 
+dilator effect in the adjacent bronchial circulation. The activity of this 
+potentially protective inhibitory autacoid system would be expected to be 
+reduced in asthma, which commonly involves epithelium damage. The 
+autoradiographic distribution of specific binding sites for 125I-labeled 
+substance P (I-SP) was also determined in bronchi from healthy humans and 
+asthmatics. In sharp contrast to guinea pig airways where high levels of binding 
+were detected over smooth muscle, specific I-SP binding was sparse over human 
+airway smooth muscle from both sources, while dense binding was associated with 
+structures immediately beneath the epithelium and with deep submucosal glands. 
+These data suggest a more significant role for SP in secretory processes than in 
+spasmogenic processes in human bronchi and highlight the potential for drawing 
+invalid conclusions concerning human airway function from studies using animal 
+models.
+
+DOI: 10.1164/ajrccm/141.3_Pt_2.S151
+PMID: 2155564 [Indexed for MEDLINE]

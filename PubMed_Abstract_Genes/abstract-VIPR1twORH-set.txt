@@ -1,0 +1,79 @@
+1. Invest Ophthalmol Vis Sci. 2011 Jul 29;52(8):5632-40. doi: 10.1167/iovs.10-5983.
+
+Corneal endothelial autocrine VIP enhances its integrity in stored human donor 
+corneoscleral explant.
+
+Koh SW(1), Gloria D, Molloy J.
+
+Author information:
+(1)Department of Ophthalmology and Visual Sciences, University of Maryland 
+School of Medicine, 10 S. Pine Street, Baltimore, MD 21201, USA. 
+skoh@umaryland.edu
+
+PURPOSE: To demonstrate corneal endothelial (CE) integrity enhanced during eye 
+banking by a brief treatment of human donor corneoscleral explant (explant) with 
+CE autocrine trophic factor vasoactive intestinal peptide (VIP).
+METHODS: Paired explants were used as control versus VIP (10 nM)-treated before 
+storage in corneal storage medium (4°C). CE ciliary neurotrophic factor receptor 
+(CNTFRα) and CNTF (0.83 nM) responsiveness in connexin 43 upregulation were 
+monitored (Western blot analysis). CE damage in CNTF-modulated explants and 
+corneal buttons from explants was quantified by analysis of panoramic and 
+microscopic images of the alizarin red-stained corneal endothelium. CE cells 
+scraped from the Descemet's membrane were counted. CE VIP receptor was 
+demonstrated (Western blot analysis).
+RESULTS: CE cells in every VIP-treated, freshly dissected explant demonstrated 
+higher CNTFRα levels than controls (100% vs. 142% ± 15%; P = 0.014; 7 pairs 
+stored for 4 to 25 days). Nine days after VIP treatment of previously preserved 
+explants, CNTF responsiveness was 174% ± 23% (P = 0.023; 4 pairs) of controls. 
+Panoramic images of explants and corneal buttons revealed that VIP treatment 
+reduced CE damage to 75% ± 6% (P = 0.023; 4 pairs) and 71% ± 11% (P = 0.016; 9 
+pairs) of controls, respectively, whereas CE damage to 39% (2 pairs) and 23% ± 
+4% (P < 0.001; 7 pairs), respectively, was revealed in microscopic images. 
+Twenty-one days after VIP treatment of previously preserved explants, CE cell 
+retention was 206% ± 38% (P = 0.008; 14 pairs) of the control. CE cells from 
+human donor corneas expressed VIP receptor VPAC1 (not VPAC2).
+CONCLUSIONS: CE integrity during eye banking was enhanced by a brief treatment 
+of the explant with the CE autocrine VIP.
+
+DOI: 10.1167/iovs.10-5983
+PMCID: PMC3176069
+PMID: 21482640 [Indexed for MEDLINE]
+
+
+2. Lab Invest. 2001 May;81(5):749-55. doi: 10.1038/labinvest.3780283.
+
+Expression and distribution of vasoactive intestinal polypeptide receptor 
+VPAC(2) mRNA in human airways.
+
+Groneberg DA(1), Hartmann P, Dinh QT, Fischer A.
+
+Author information:
+(1)Research Division of Allergy, Department of Pediatrics, Charité, 
+Humboldt-University, Berlin, Germany.
+
+Vasoactive intestinal polypeptide (VIP) is a putative neurotransmitter of the 
+inhibitory non-adrenergic non-cholinergic nervous system and influences many 
+aspects of mammalian airway function. VIP binds to two G-protein-coupled VPAC 
+receptors that are highly homologous structurally but distinguished by their 
+different affinities for peptide analogues of VIP. As VIP binding sites in the 
+respiratory tract have only been examined by ligand binding and cytochemical 
+techniques, we studied the distribution of the mRNA that encodes the inducible 
+receptor subtype VPAC(2) in the human respiratory tract. Northern blots 
+demonstrated the expression of VPAC(2) mRNA in human airways and other tissues. 
+A human-specific VPAC(2) cRNA probe was used to detect VPAC(2) mRNA expression 
+in human lung by nonradioactive in situ hybridization. In larger airways, 
+positive VPAC(2) mRNA signals were localized to tracheal and bronchial ciliated 
+epithelial cells. There was also marked staining of mucous and serous cells of 
+submucosal glands. No signals were obtained in airway and vascular smooth muscle 
+myocytes and endothelial cells. In peripheral lung tissues, VPAC(2) mRNA 
+expression was localized to epithelial cells of the bronchioles. Specific 
+staining was detected in immune cells and alveolar macrophages. In summary, 
+VPAC(2) is localized in airway epithelial, glandular, and immune cells of the 
+lung but not in airway and vascular smooth muscle. The absence of VPAC(2) mRNA 
+in vascular and airway smooth muscle myocytes may indicate that the effects of 
+VIP on vasodilation and bronchodilation are mediated by VPAC(1) or undefined 
+receptors. However, a paracrine modulation of the two most prominent effects of 
+VIP in the respiratory tract by VPAC(2) cannot be excluded.
+
+DOI: 10.1038/labinvest.3780283
+PMID: 11351046 [Indexed for MEDLINE]

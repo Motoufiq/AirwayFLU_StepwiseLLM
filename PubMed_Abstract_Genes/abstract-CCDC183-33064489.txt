@@ -1,0 +1,40 @@
+1. J Proteome Res. 2020 Dec 4;19(12):4782-4794. doi: 10.1021/acs.jproteome.0c00516. 
+Epub 2020 Oct 16.
+
+The Functionally Unannotated Proteome of Human Male Tissues: A Shared Resource 
+to Uncover New Protein Functions Associated with Reproductive Biology.
+
+Vandenbrouck Y(1), Pineau C(2), Lane L(3).
+
+Author information:
+(1)Univ. Grenoble Alpes, INSERM, CEA, IRIG-BGE, U1038, F-38000 Grenoble, France.
+(2)Univ. Rennes, Inserm, EHESP, Irset (Institut de Recherche en Santé, 
+Environnement et Travail) - UMR_S 1085, F-35042 Rennes cedex, France.
+(3)SIB Swiss Institute of Bioinformatics and Department of Microbiology and 
+Molecular Medicine, Faculty of Medicine, University of Geneva, CMU, Michel 
+Servet 1, 1211 Geneva 4, Switzerland.
+
+In the context of the Human Proteome Project, we built an inventory of 412 
+functionally unannotated human proteins for which experimental evidence at the 
+protein level exists (uPE1) and which are highly expressed in tissues involved 
+in human male reproduction. We implemented a strategy combining literature 
+mining, bioinformatics tools to collate annotation and experimental information 
+from specific molecular public resources, and efficient visualization tools to 
+put these unknown proteins into their biological context (protein complexes, 
+tissue and subcellular location, expression pattern). The gathered knowledge 
+allowed pinpointing five uPE1 for which a function has recently been proposed 
+and which should be updated in protein knowledge bases. Furthermore, this 
+bioinformatics strategy allowed to build new functional hypotheses for five 
+other uPE1s in link with phenotypic traits that are specific to male 
+reproductive function such as ciliogenesis/flagellum formation in germ cells 
+(CCDC112 and TEX9), chromatin remodeling (C3orf62) and spermatozoon maturation 
+(CCDC183). We also discussed the enigmatic case of MAGEB proteins, a poorly 
+documented cancer/testis antigen subtype. Tools used and computational outputs 
+produced during this study are freely accessible via ProteoRE 
+(http://www.proteore.org), a Galaxy-based instance, for reuse purposes. We 
+propose these five uPE1s should be investigated in priority by expert 
+laboratories and hope that this inventory and shared resources will stimulate 
+the interest of the community of reproductive biology.
+
+DOI: 10.1021/acs.jproteome.0c00516
+PMID: 33064489 [Indexed for MEDLINE]

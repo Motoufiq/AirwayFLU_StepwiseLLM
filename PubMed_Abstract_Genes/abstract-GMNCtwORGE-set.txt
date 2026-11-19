@@ -1,0 +1,1089 @@
+1. Cell Death Dis. 2023 Mar 17;14(3):201. doi: 10.1038/s41419-023-05720-4.
+
+GEMC1 and MCIDAS interactions with SWI/SNF complexes regulate the multiciliated 
+cell-specific transcriptional program.
+
+Lewis M(1), Terré B(#)(1)(2), Knobel PA(#)(1)(3), Cheng T(4), Lu H(5), Attolini 
+CS(1), Smak J(6), Coyaud E(7)(8)(9), Garcia-Cao I(1), Sharma S(6), 
+Vineethakumari C(1), Querol J(10), Gil-Gómez G(11), Piergiovanni G(12)(13), 
+Costanzo V(12)(13), Peiró S(10), Raught B(7)(8), Zhao H(14), Salvatella 
+X(1)(15), Roy S(5)(16)(17), Mahjoub MR(4), Stracker TH(18)(19).
+
+Author information:
+(1)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, C/ Baldiri Reixac 10, Barcelona, 08028, 
+Spain.
+(2)MRC Clinical Trials Unit at UCL, London, UK.
+(3)CDR-Life AG, Zurich, 8592, Switzerland.
+(4)Washington University in St Louis, Departments of Medicine (Nephrology), Cell 
+Biology and Physiology, St. Louis, MO, 20814, USA.
+(5)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore, 138673, Singapore.
+(6)National Cancer Institute, Radiation Oncology Branch, Bethesda, MD, 20892, 
+USA.
+(7)Princess Margaret Cancer Centre, University Health Network, Toronto, Canada.
+(8)Department of Medical Biophysics, University of Toronto, Toronto, ON, M5G 
+1L7, Canada.
+(9)Univ. Lille, Inserm, CHU Lille, U1192 - Protéomique Réponse Inflammatoire 
+Spectrométrie de Masse - PRISM, F-59000, Lille, France.
+(10)Vall d'Hebron Institute of Oncology (VHIO), Barcelona, 08035, Spain.
+(11)Apoptosis Signalling Group, IMIM (Institut Hospital del Mar d'Investigacions 
+Mediques), Barcelona, 08003, Spain.
+(12)IFOM ETS, The AIRC Institute of Molecular Oncology, Milan, 20139, Italy.
+(13)Department of Oncology and Haematology-Oncology, University of Milan, Milan, 
+20139, Italy.
+(14)Department of Biomedical Sciences, New York Institute of Technology College 
+of Osteopathic Medicine, Old Westbury, New York, NY, 11568, USA.
+(15)ICREA, Passeig Lluís Companys 23, 08010, Barcelona, Spain.
+(16)Department of Biological Sciences, National University of Singapore, 117543, 
+Singapore, Singapore.
+(17)Department of Pediatrics, National University of Singapore, 119288, 
+Singapore, Singapore.
+(18)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, C/ Baldiri Reixac 10, Barcelona, 08028, 
+Spain. travis.stracker@nih.gov.
+(19)National Cancer Institute, Radiation Oncology Branch, Bethesda, MD, 20892, 
+USA. travis.stracker@nih.gov.
+(#)Contributed equally
+
+Multiciliated cells (MCCs) project dozens to hundreds of motile cilia from their 
+apical surface to promote the movement of fluids or gametes in the mammalian 
+brain, airway or reproductive organs. Differentiation of MCCs requires the 
+sequential action of the Geminin family transcriptional activators, GEMC1 and 
+MCIDAS, that both interact with E2F4/5-DP1. How these factors activate 
+transcription and the extent to which they play redundant functions remains 
+poorly understood. Here, we demonstrate that the transcriptional targets and 
+proximal proteomes of GEMC1 and MCIDAS are highly similar. However, we 
+identified distinct interactions with SWI/SNF subcomplexes; GEMC1 interacts 
+primarily with the ARID1A containing BAF complex while MCIDAS interacts 
+primarily with BRD9 containing ncBAF complexes. Treatment with a BRD9 inhibitor 
+impaired MCIDAS-mediated activation of several target genes and compromised the 
+MCC differentiation program in multiple cell based models. Our data suggest that 
+the differential engagement of distinct SWI/SNF subcomplexes by GEMC1 and MCIDAS 
+is required for MCC-specific transcriptional regulation and mediated by their 
+distinct C-terminal domains.
+
+© 2023. This is a U.S. Government work and not under copyright protection in the 
+US; foreign copyright protection may apply.
+
+DOI: 10.1038/s41419-023-05720-4
+PMCID: PMC10023806
+PMID: 36932059 [Indexed for MEDLINE]
+
+Conflict of interest statement: XS is a founder and scientific advisor of Nuage 
+Therapeutics. All other authors declare no conflicts of interest.
+
+
+2. Cell Rep. 2022 Dec 13;41(11):111810. doi: 10.1016/j.celrep.2022.111810.
+
+p53/p21 pathway activation contributes to the ependymal fate decision downstream 
+of GemC1.
+
+Ortiz-Álvarez G(1), Fortoul A(1), Srivastava A(1), Moreau MX(2), Bouloudi B(1), 
+Mailhes-Hamon C(1), Delgehyr N(1), Faucourt M(1), Bahin M(1), Blugeon C(3), 
+Breau M(4), Géli V(4), Causeret F(2), Meunier A(1), Spassky N(5).
+
+Author information:
+(1)Institut de Biologie de l'Ecole Normale Supérieure (IBENS), Département de 
+Biologie, Ecole Normale Supérieure, CNRS UMR8197, INSERM U1024, Université PSL, 
+75005 Paris, France.
+(2)Université de Paris, Imagine Institute, Team Genetics and Development of the 
+Cerebral Cortex, 75015 Paris, France; Université de Paris, Institute of 
+Psychiatry and Neuroscience of Paris, INSERM U1266, 75014 Paris, France.
+(3)Genomics Core Facility, Institut de Biologie de l'ENS (IBENS), Département de 
+Biologie, Ecole Normale Supérieure, CNRS UMR8197, INSERM U1024, Université PSL, 
+75005 Paris, France.
+(4)Marseille Cancer Research Centre (CRCM), U1068 INSERM, UMR7258 CNRS, UM105 
+Aix-Marseille University, Institut Paoli-Calmettes, Ligue Nationale Contre le 
+Cancer (Équipe Labellisée) Marseille, 13009 Marseille, France.
+(5)Institut de Biologie de l'Ecole Normale Supérieure (IBENS), Département de 
+Biologie, Ecole Normale Supérieure, CNRS UMR8197, INSERM U1024, Université PSL, 
+75005 Paris, France. Electronic address: nathalie.spassky@bio.ens.psl.eu.
+
+Multiciliated ependymal cells and adult neural stem cells are components of the 
+adult neurogenic niche, essential for brain homeostasis. These cells share a 
+common glial cell lineage regulated by the Geminin family members Geminin and 
+GemC1/Mcidas. Ependymal precursors require GemC1/Mcidas expression to massively 
+amplify centrioles and become multiciliated cells. Here, we show that 
+GemC1-dependent differentiation is initiated in actively cycling radial glial 
+cells, in which a DNA damage response, including DNA replication-associated 
+damage and dysfunctional telomeres, is induced, without affecting cell survival. 
+Genotoxic stress is not sufficient by itself to induce ependymal cell 
+differentiation, although the absence of p53 or p21 in progenitors hinders 
+differentiation by maintaining cell division. Activation of the p53-p21 pathway 
+downstream of GemC1 leads to cell-cycle slowdown/arrest, which permits timely 
+onset of ependymal cell differentiation in progenitor cells.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2022.111810
+PMID: 36516767 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.
+
+
+3. Cell Death Differ. 2022 Aug;29(8):1596-1610. doi: 10.1038/s41418-022-00950-z. 
+Epub 2022 Mar 23.
+
+Disruption of GMNC-MCIDAS multiciliogenesis program is critical in choroid 
+plexus carcinoma development.
+
+Li Q(#)(1)(2), Han Z(#)(3), Singh N(3), Terré B(4)(5), Fame RM(6), Arif U(3), 
+Page TD(3), Zahran T(3), Abdeltawab A(3), Huang Y(3), Cao P(3), Wang J(7)(8), Lu 
+H(9), Lidov HGW(6), Surendran K(10), Wu L(11), Virga JQ(3), Zhao YT(3), Schüller 
+U(12)(13)(14), Wechsler-Reya RJ(7), Lehtinen MK(6), Roy S(9)(15)(16), Liu 
+Z(17)(18), Stracker TH(19)(20), Zhao H(21).
+
+Author information:
+(1)Department of Oncology, Shanghai East Hospital, Tongji University School of 
+Medicine, Shanghai, 200123, PR China.
+(2)Massachusetts General Hospital, Harvard Medical School, Boston, MA, 02114, 
+USA.
+(3)Department of Biomedical Sciences, New York Institute of Technology College 
+of Osteopathic Medicine, Old Westbury, New York, NY, 11568, USA.
+(4)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, C/ Baldiri Reixac 10, Barcelona, 08028, 
+Spain.
+(5)The Francis Crick Institute, 1 Midland Road, London, NW1 1AT, UK.
+(6)Department of Pathology, Boston Children's Hospital, Boston, MA, 02115, USA.
+(7)Tumor Initiation and Maintenance Program, Sanford Burnham Prebys Medical 
+Discovery Institute, 10901 North Torrey Pines Road, La Jolla, CA, 92037, USA.
+(8)Explora Biolabs, 11175 Flintkote Avenue, Suite B, San Diego, CA, 92121, USA.
+(9)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore, 138673, Singapore.
+(10)Pediatrics and Rare Diseases Group, Sanford Research, 2301 E 60th Street 
+North, Sioux Falls, SD, 57104, USA.
+(11)Department of Pathophysiology, College of Basic Medical Sciences, China 
+Medical University, Shenyang, 110122, PR China.
+(12)Research Institute Children's Cancer Center, University Medical Center 
+Hamburg-Eppendorf, 20246, Hamburg, Germany.
+(13)Institute of Neuropathology, University Medical Center Hamburg-Eppendorf, 
+20246, Hamburg, Germany.
+(14)Department of Pediatric Hematology and Oncology, University Medical Center 
+Hamburg-Eppendorf, 20246, Hamburg, Germany.
+(15)Department of Pediatrics, Yong Loo Lin School of Medicine, National 
+University of Singapore, 1E Kent Ridge Road, Singapore, 119288, Singapore.
+(16)Department of Biological Sciences, National University of Singapore, 14 
+Science Drive 4, Singapore, 117543, Singapore.
+(17)Department of Cardio-vascular Surgery, Shanghai East Hospital, Tongji 
+University School of Medicine, Shanghai, 200123, PR China. 
+liu.zhongmin@tongji.edu.cn.
+(18)The Institute of Biomedical Engineering & Nanoscience, Shanghai East 
+Hospital, Tongji University School of Medicine, Shanghai, 200120, PR China. 
+liu.zhongmin@tongji.edu.cn.
+(19)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, C/ Baldiri Reixac 10, Barcelona, 08028, 
+Spain. travis.stracker@nih.gov.
+(20)Radiation Oncology Branch, Center for Cancer Research, National Cancer 
+Institute, NIH, 9000 Rockville Pike, Building 10, Bethesda, MD, 20892, USA. 
+travis.stracker@nih.gov.
+(21)Department of Biomedical Sciences, New York Institute of Technology College 
+of Osteopathic Medicine, Old Westbury, New York, NY, 11568, USA. 
+hzhao10@nyit.edu.
+(#)Contributed equally
+
+Multiciliated cells (MCCs) in the brain reside in the ependyma and the choroid 
+plexus (CP) epithelia. The CP secretes cerebrospinal fluid that circulates 
+within the ventricular system, driven by ependymal cilia movement. Tumors of the 
+CP are rare primary brain neoplasms mostly found in children. CP tumors exist in 
+three forms: CP papilloma (CPP), atypical CPP, and CP carcinoma (CPC). Though 
+CPP and atypical CPP are generally benign and can be resolved by surgery, CPC is 
+a particularly aggressive and little understood cancer with a poor survival rate 
+and a tendency for recurrence and metastasis. In contrast to MCCs in the CP 
+epithelia, CPCs in humans are characterized by solitary cilia, frequent TP53 
+mutations, and disturbances to multiciliogenesis program directed by the 
+GMNC-MCIDAS transcriptional network. GMNC and MCIDAS are early transcriptional 
+regulators of MCC fate differentiation in diverse tissues. Consistently, 
+components of the GMNC-MCIDAS transcriptional program are expressed during CP 
+development and required for multiciliation in the CP, while CPC driven by 
+deletion of Trp53 and Rb1 in mice exhibits multiciliation defects consequent to 
+deficiencies in the GMNC-MCIDAS program. Previous studies revealed that abnormal 
+NOTCH pathway activation leads to CPP. Here we show that combined defects in 
+NOTCH and Sonic Hedgehog signaling in mice generates tumors that are similar to 
+CPC in humans. NOTCH-driven CP tumors are monociliated, and disruption of the 
+NOTCH complex restores multiciliation and decreases tumor growth. NOTCH 
+suppresses multiciliation in tumor cells by inhibiting the expression of GMNC 
+and MCIDAS, while Gmnc-Mcidas overexpression rescues multiciliation defects and 
+suppresses tumor cell proliferation. Taken together, these findings indicate 
+that reactivation of the GMNC-MCIDAS multiciliogenesis program is critical for 
+inhibiting tumorigenesis in the CP, and it may have therapeutic implications for 
+the treatment of CPC.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41418-022-00950-z
+PMCID: PMC9345885
+PMID: 35322202 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+4. Int Arch Allergy Immunol. 2022;183(4):361-374. doi: 10.1159/000519702. Epub 2021 
+Nov 4.
+
+PM2.5 Upregulates the Expression of MUC5AC via the EGFR-PI3K Pathway in Human 
+Sinonasal Epithelial Cells.
+
+Jiao J(1)(2), Hu P(1)(2)(3), Li Y(1)(2), Cai C(3), Wang X(1)(2), Zhang L(1)(2).
+
+Author information:
+(1)Department of Otolaryngology Head and Neck Surgery, Beijing TongRen Hospital, 
+Capital Medical University, Beijing, China.
+(2)Beijing Key Laboratory of Nasal Diseases, Beijing Institute of 
+Otolaryngology, Beijing, China.
+(3)Department of Otolaryngology, Beijing You'an Hospital, Capital Medical 
+University, Beijing, China.
+
+BACKGROUND: Fine particulate matter (PM) (PM with an aerodynamic diameter <2.5 
+μm, PM2.5) exposure contributes to respiratory disease development and 
+exacerbation.
+OBJECTIVE: We sought to investigate the effect of PM2.5 exposure on mucociliary 
+function in primary human nasal epithelial cells (HNECs) and the underlying 
+mechanism.
+METHODS: HNECs derived from control subjects and patients with chronic 
+rhinosinusitis with nasal polyps were established as air-liquid interface 
+cultures. Confluent cultures were exposed to 100 or 200 μg/mL PM2.5 for 24 h and 
+assessed for expression of specific mucociliary-associated factors, the 
+percentage of β-tubulin IV-positive and MUC5AC-positive cells, expression of 
+epidermal growth factor receptor (EGFR) ligand and activation of 
+phosphoinositide 3-kinase (PI3K)-AKT/ERK. In addition, cultures pretreated for 
+30 min with AG1478 (an EGFR inhibitor) or LY294002 (a PI3K inhibitor) following 
+PM2.5 exposure were assessed for MUC5AC mRNA and protein expression.
+RESULTS: PM2.5 exposure at 100 or 200 μg/mL for 24 h did not affect geminin 
+coiled-coil domain containing, multiciliate differentiation and DNA synthesis 
+associated cell cycle protein, FOXJ1, or DNAI2 mRNA expression or the percentage 
+of β-tubulin IV-positive cells. However, 200 μg/mL PM2.5 exposure significantly 
+increased mRNA expression of SAM-pointed domain-containing ETS transcription 
+factor and MUC5AC and the percentage of MUC5AC-positive cells. PM2.5 also 
+increased expression of EGFR ligands, including heparin-binding EGF-like growth 
+factor and amphiregulin. Furthermore, PM2.5induced activation of PI3K, AKT, and 
+ERK, and pretreatment of HNECs with AG1478 or LY294002 attenuated PM2.5-induced 
+MUC5AC mRNA and protein expression.
+CONCLUSIONS AND CLINICAL RELEVANCE: This study demonstrates that short-term 
+PM2.5 exposure increases MUC5AC expression in HNECs. Furthermore, this study 
+shows that PM2.5-induced MUC5AC expression is likely mediated through the 
+EGFR-PI3K pathway.
+
+© 2021 S. Karger AG, Basel.
+
+DOI: 10.1159/000519702
+PMID: 34736257 [Indexed for MEDLINE]
+
+
+5. Cell Rep. 2021 Oct 5;37(1):109775. doi: 10.1016/j.celrep.2021.109775.
+
+Diversity and function of motile ciliated cell types within ependymal lineages 
+of the zebrafish brain.
+
+D'Gama PP(1), Qiu T(2), Cosacak MI(3), Rayamajhi D(4), Konac A(5), Hansen JN(6), 
+Ringers C(1), Acuña-Hinrichsen F(5), Hui SP(7), Olstad EW(5), Chong YL(2), Lim 
+CKA(2), Gupta A(8), Ng CP(9), Nilges BS(8), Kashikar ND(8), Wachten D(6), Liebl 
+D(9), Kikuchi K(10), Kizil C(11), Yaksi E(5), Roy S(12), Jurisch-Yaksi N(13).
+
+Author information:
+(1)Department of Clinical and Molecular Medicine, Norwegian University of 
+Science and Technology, Erling Skjalgsons Gate 1, 7491 Trondheim, Norway; Kavli 
+Institute for Systems Neuroscience and Centre for Neural Computation, Norwegian 
+University of Science and Technology, Olav Kyrres Gate 9, 7030 Trondheim, 
+Norway.
+(2)Institute of Molecular and Cell Biology, Agency for Science, Technology and 
+Research, 61 Biopolis Drive, Singapore 138673, Singapore.
+(3)German Center for Neurodegenerative Diseases (DZNE), Helmholtz Association, 
+Tatzberg 41, 01307 Dresden, Germany.
+(4)Institute of Molecular and Cell Biology, Agency for Science, Technology and 
+Research, 61 Biopolis Drive, Singapore 138673, Singapore; Department of 
+Biological Sciences, National University of Singapore, 14 Science Drive 4, 
+Singapore 117543, Singapore.
+(5)Kavli Institute for Systems Neuroscience and Centre for Neural Computation, 
+Norwegian University of Science and Technology, Olav Kyrres Gate 9, 7030 
+Trondheim, Norway.
+(6)Institute of Innate Immunity, Biophysical Imaging, Medical Faculty, 
+University of Bonn, 53127 Bonn, Germany.
+(7)S. N. Pradhan Centre for Neurosciences, University of Calcutta, 35 Ballygunge 
+Circular Road, Kolkata 700 019, India.
+(8)Resolve Biosciences GmbH, Creative Campus Monheim, Gebäude A03, 
+Alfred-Nobel-Str.10, 40789 Monheim am Rhein, Germany.
+(9)A(∗)STAR Microscopy Platform, Research Support Center, Agency for Science, 
+Technology and Research, 61 Biopolis Drive, Singapore 138673, Singapore.
+(10)Department of Regenerative Medicine and Tissue Engineering, National 
+Cerebral and Cardiovascular Center Research Institute, 6-1 Kishibe-Shimmachi, 
+Suita, Osaka 564-8565, Japan.
+(11)German Center for Neurodegenerative Diseases (DZNE), Helmholtz Association, 
+Tatzberg 41, 01307 Dresden, Germany; Department of Neurology and The Taub 
+Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos 
+College of Physicians and Surgeons, Columbia University Irving Medical Center, 
+650 W 168th St, New York, NY 10032, USA.
+(12)Institute of Molecular and Cell Biology, Agency for Science, Technology and 
+Research, 61 Biopolis Drive, Singapore 138673, Singapore; Department of 
+Biological Sciences, National University of Singapore, 14 Science Drive 4, 
+Singapore 117543, Singapore; Department of Pediatrics, Yong Loo Lin School of 
+Medicine, National University of Singapore, 1E Kent Ridge Road, Singapore 
+119288, Singapore. Electronic address: sudipto@imcb.a-star.edu.sg.
+(13)Department of Clinical and Molecular Medicine, Norwegian University of 
+Science and Technology, Erling Skjalgsons Gate 1, 7491 Trondheim, Norway; Kavli 
+Institute for Systems Neuroscience and Centre for Neural Computation, Norwegian 
+University of Science and Technology, Olav Kyrres Gate 9, 7030 Trondheim, 
+Norway. Electronic address: nathalie.jurisch-yaksi@ntnu.no.
+
+Motile cilia defects impair cerebrospinal fluid (CSF) flow and can cause brain 
+and spine disorders. The development of ciliated cells, their impact on CSF 
+flow, and their function in brain and axial morphogenesis are not fully 
+understood. We have characterized motile ciliated cells within the zebrafish 
+brain ventricles. We show that the ventricles undergo restructuring through 
+development, involving a transition from mono- to multiciliated cells (MCCs) 
+driven by gmnc. MCCs co-exist with monociliated cells and generate directional 
+flow patterns. These ciliated cells have different developmental origins and are 
+genetically heterogenous with respect to expression of the Foxj1 family of 
+ciliary master regulators. Finally, we show that cilia loss from the tela 
+choroida and choroid plexus or global perturbation of multiciliation does not 
+affect overall brain or spine morphogenesis but results in enlarged ventricles. 
+Our findings establish that motile ciliated cells are generated by complementary 
+and sequential transcriptional programs to support ventricular development.
+
+Copyright © 2021 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2021.109775
+PMCID: PMC8524669
+PMID: 34610312 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests N.K., A.G., and B.S.N. 
+are full-time employees of Resolve Biosciences GmbH.
+
+
+6. Sci Rep. 2021 Jan 12;11(1):613. doi: 10.1038/s41598-020-79610-6.
+
+BMP signaling suppresses Gemc1 expression and ependymal differentiation of mouse 
+telencephalic progenitors.
+
+Omiya H(1), Yamaguchi S(1), Watanabe T(1), Kuniya T(1), Harada Y(1), Kawaguchi 
+D(2), Gotoh Y(3)(4).
+
+Author information:
+(1)Graduate School of Pharmaceutical Sciences, The University of Tokyo, 7-3-1 
+Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan.
+(2)Graduate School of Pharmaceutical Sciences, The University of Tokyo, 7-3-1 
+Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan. dkawaguchi@mol.f.u-tokyo.ac.jp.
+(3)Graduate School of Pharmaceutical Sciences, The University of Tokyo, 7-3-1 
+Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan. ygotoh@mol.f.u-tokyo.ac.jp.
+(4)International Research Center for Neurointelligence (WPI-IRCN), The 
+University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan. 
+ygotoh@mol.f.u-tokyo.ac.jp.
+
+The lateral ventricles of the adult mammalian brain are lined by a single layer 
+of multiciliated ependymal cells, which generate a flow of cerebrospinal fluid 
+through directional beating of their cilia as well as regulate neurogenesis 
+through interaction with adult neural stem cells. Ependymal cells are derived 
+from a subset of embryonic neural stem-progenitor cells (NPCs, also known as 
+radial glial cells) that becomes postmitotic during the late embryonic stage of 
+development. Members of the Geminin family of transcriptional regulators 
+including GemC1 and Mcidas play key roles in the differentiation of ependymal 
+cells, but it remains largely unclear what extracellular signals regulate these 
+factors and ependymal differentiation during embryonic and early-postnatal 
+development. We now show that the levels of Smad1/5/8 phosphorylation and Id1/4 
+protein expression-both of which are downstream events of bone morphogenetic 
+protein (BMP) signaling-decline in cells of the ventricular-subventricular zone 
+in the mouse lateral ganglionic eminence in association with ependymal 
+differentiation. Exposure of postnatal NPC cultures to BMP ligands or to a BMP 
+receptor inhibitor suppressed and promoted the emergence of multiciliated 
+ependymal cells, respectively. Moreover, treatment of embryonic NPC cultures 
+with BMP ligands reduced the expression level of the ependymal marker Foxj1 and 
+suppressed the emergence of ependymal-like cells. Finally, BMP ligands reduced 
+the expression levels of Gemc1 and Mcidas in postnatal NPC cultures, whereas the 
+BMP receptor inhibitor increased them. Our results thus implicate BMP signaling 
+in suppression of ependymal differentiation from NPCs through regulation of 
+Gemc1 and Mcidas expression during embryonic and early-postnatal stages of mouse 
+telencephalic development.
+
+DOI: 10.1038/s41598-020-79610-6
+PMCID: PMC7804439
+PMID: 33436697 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+7. Development. 2020 Nov 30;147(22):dev190173. doi: 10.1242/dev.190173.
+
+ZFP423 regulates early patterning and multiciliogenesis in the hindbrain choroid 
+plexus.
+
+Casoni F(1)(2), Croci L(2), Vincenti F(3), Podini P(2), Riba M(4), Massimino 
+L(2), Cremona O(3)(2), Consalez GG(3)(2).
+
+Author information:
+(1)Università Vita-Salute San Raffaele, Milan, Italy filippo.casoni@unisr.it.
+(2)Division of Neuroscience, San Raffaele Scientific Institute, Milan 20132, 
+Italy.
+(3)Università Vita-Salute San Raffaele, Milan, Italy.
+(4)Center for Omics Sciences, IRCCS, San Raffaele Hospital, Milan 20132, Italy.
+
+The choroid plexus (ChP) is a secretory tissue that produces cerebrospinal fluid 
+(CSF) secreted into the ventricular system. It is a monolayer of secretory, 
+multiciliated epithelial cells derived from neuroepithelial progenitors and 
+overlying a stroma of mesenchymal cells of mesodermal origin. Zfp423, which 
+encodes a Kruppel-type zinc-finger transcription factor essential for cerebellar 
+development and mutated in rare cases of cerebellar vermis hypoplasia/Joubert 
+syndrome and other ciliopathies, is expressed in the hindbrain roof plate, from 
+which the IV ventricle ChP arises, and, later, in mesenchymal cells, which give 
+rise to the stroma and leptomeninges. Mouse Zfp423 mutants display a marked 
+reduction of the hindbrain ChP (hChP), which: (1) fails to express established 
+markers of its secretory function and genes implicated in its development and 
+maintenance (Lmx1a and Otx2); (2) shows a perturbed expression of signaling 
+pathways previously unexplored in hChP patterning (Wnt3); and (3) displays a 
+lack of multiciliated epithelial cells and a profound dysregulation of master 
+genes of multiciliogenesis (Gmnc). Our results propose that Zfp423 is a master 
+gene and one of the earliest known determinants of hChP development.
+
+© 2020. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.190173
+PMCID: PMC7725605
+PMID: 33046507 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+8. Dev Biol. 2020 Sep 15;465(2):168-177. doi: 10.1016/j.ydbio.2020.07.005. Epub 
+2020 Jul 28.
+
+Conservation as well as divergence in Mcidas function underlies the 
+differentiation of multiciliated cells in vertebrates.
+
+Zhou F(1), Rayamajhi D(2), Ravi V(1), Narasimhan V(1), Chong YL(1), Lu H(1), 
+Venkatesh B(3), Roy S(4).
+
+Author information:
+(1)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore, 138673, Singapore.
+(2)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore, 138673, Singapore; Department of Biological Sciences, National 
+University of Singapore, 14 Science Drive 4, Singapore, 117543, Singapore.
+(3)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore, 138673, Singapore; Department of Paediatrics, National University of 
+Singapore, 1E Kent Ridge Road, Singapore, 119228, Singapore.
+(4)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore, 138673, Singapore; Department of Biological Sciences, National 
+University of Singapore, 14 Science Drive 4, Singapore, 117543, Singapore; 
+Department of Paediatrics, National University of Singapore, 1E Kent Ridge Road, 
+Singapore, 119228, Singapore. Electronic address: sudipto@imcb.a-star.edu.sg.
+
+Multiciliated cells (MCCs) differentiate hundreds of motile cilia that beat to 
+drive fluid movement over various kinds of epithelia. In Xenopus, mice and 
+human, the coiled-coil containing protein Mcidas (Mci) has been shown to be a 
+key transcriptional regulator of MCC differentiation. We have examined Mci 
+function in the zebrafish, another model organism that is widely used to study 
+ciliary biology. We show that zebrafish mci is expressed specifically in the 
+developing MCCs of the kidney tubules, but surprisingly, not in those of the 
+nasal placodes. Mci proteins lack a DNA binding domain and associate with the 
+cell-cycle transcription factors E2f4/5 for regulating MCC-specific gene 
+expression. We found that while the zebrafish Mci protein can complex with the 
+E2f family members, its sequence as well as the requirement and sufficiency for 
+MCC differentiation has diverged significantly from Mci homologues of the 
+tetrapods. We also provide evidence that compared to Gmnc, another related 
+coiled-coil protein that has recently been shown to regulate MCC development 
+upstream of Mci, the Mci protein originated later within the vertebrate lineage. 
+Based on these data, we argue that in contrast to Gmnc, which has a vital role 
+in the genetic circuitry that drives MCC formation, the requirement of Mci, at 
+least in the zebrafish, is not obligatory.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ydbio.2020.07.005
+PMID: 32735790 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare they have no competing interests.
+
+
+9. Semin Cell Dev Biol. 2021 Feb;110:51-60. doi: 10.1016/j.semcdb.2020.04.007. Epub 
+2020 Apr 30.
+
+Transcriptional regulation of multiciliated cell differentiation.
+
+Lewis M(1), Stracker TH(2).
+
+Author information:
+(1)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, C/ Baldiri Reixac 10, Barcelona 08028, 
+Spain.
+(2)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, C/ Baldiri Reixac 10, Barcelona 08028, 
+Spain. Electronic address: travis.stracker@irbbarcelona.org.
+
+Multiciliated cells (MCC) project dozens to hundreds of motile cilia from the 
+cell surface to generate fluid flow across epithelial surfaces or turbulence to 
+promote the transport of gametes. The MCC differentiation program is initiated 
+by GEMC1 and MCIDAS, members of the geminin family, that activate key 
+transcription factors, including p73 and FOXJ1, to control the multiciliogenesis 
+program. To support the generation of multiple motile cilia, MCCs must undergo 
+massive centriole amplification to generate a sufficient number of basal bodies 
+(modified centrioles). This transcriptional program involves the generation of 
+deuterosomes, unique structures that act as platforms to regulate centriole 
+amplification, the reactivation of cell cycle programs to control centriole 
+amplification and release, and extensive remodeling of the cytoskeleton. This 
+review will focus on providing an overview of the transcriptional regulation of 
+MCCs and its connection to key processes, in addition to highlighting exciting 
+recent developments and open questions in the field.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.semcdb.2020.04.007
+PMID: 32362381 [Indexed for MEDLINE]
+
+
+10. J Cell Sci. 2019 Jun 3;132(11):jcs228684. doi: 10.1242/jcs.228684.
+
+GemC1 governs multiciliogenesis through direct interaction with and 
+transcriptional regulation of p73.
+
+Lalioti ME(1), Arbi M(2), Loukas I(2), Kaplani K(1), Kalogeropoulou A(1), Lokka 
+G(1), Kyrousi C(1), Mizi A(3)(4), Georgomanolis T(3), Josipovic N(3)(4), Gkikas 
+D(5), Benes V(6), Politis PK(5), Papantonis A(3)(4), Lygerou Z(2), Taraviras 
+S(7).
+
+Author information:
+(1)Department of Physiology, School of Medicine, University of Patras, 26504 
+Patras, Greece.
+(2)Department of General Biology, School of Medicine, University of Patras, 
+Patras 26504, Greece.
+(3)Center for Molecular Medicine Cologne, University of Cologne, 
+Robert-Koch-Str. 21, 50931 Cologne, Germany.
+(4)Department of Pathology, University Medical Center Göttingen, 
+Robert-Koch-Str. 40, 37075 Göttingen, Germany.
+(5)Department of Center for Basic Research, Biomedical Research Foundation of 
+the Academy of Athens, 4 Soranou Efesiou Street, 115 27 Athens, Greece.
+(6)European Molecular Biology Laboratory (EMBL), Core Facilities and Services, 
+Meyerhofstraße 1, Heidelberg 69117, Germany.
+(7)Department of Physiology, School of Medicine, University of Patras, 26504 
+Patras, Greece taraviras@med.upatras.gr.
+
+A distinct combination of transcription factors elicits the acquisition of a 
+specific fate and the initiation of a differentiation program. Multiciliated 
+cells (MCCs) are a specialized type of epithelial cells that possess dozens of 
+motile cilia on their apical surface. Defects in cilia function have been 
+associated with ciliopathies that affect many organs, including brain and airway 
+epithelium. Here we show that the geminin coiled-coil domain-containing protein 
+1 GemC1 (also known as Lynkeas) regulates the transcriptional activation of p73, 
+a transcription factor central to multiciliogenesis. Moreover, we show that 
+GemC1 acts in a trimeric complex with transcription factor E2F5 and tumor 
+protein p73 (officially known as TP73), and that this complex is important for 
+the activation of the p73 promoter. We also provide in vivo evidence that GemC1 
+is necessary for p73 expression in different multiciliated epithelia. We further 
+show that GemC1 regulates multiciliogenesis through the control of chromatin 
+organization, and the epigenetic marks/tags of p73 and Foxj1. Our results 
+highlight novel signaling cues involved in the commitment program of MCCs across 
+species and tissues.This article has an associated First Person interview with 
+the first author of the paper.
+
+© 2019. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jcs.228684
+PMID: 31028178 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+11. Development. 2019 Apr 23;146(8):dev162628. doi: 10.1242/dev.162628.
+
+Defects in efferent duct multiciliogenesis underlie male infertility in GEMC1-, 
+MCIDAS- or CCNO-deficient mice.
+
+Terré B(1), Lewis M(1), Gil-Gómez G(2), Han Z(3), Lu H(4), Aguilera M(1), Prats 
+N(1), Roy S(4)(5)(6), Zhao H(3), Stracker TH(7).
+
+Author information:
+(1)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, Barcelona 08028, Spain.
+(2)Apoptosis Signalling Group, IMIM (Institut Hospital del Mar d'Investigacions 
+Mèdiques), Barcelona 08003, Spain.
+(3)Department of Biomedical Sciences, New York Institute of Technology College 
+of Osteopathic Medicine, Old Westbury, New York, NY 11568, USA.
+(4)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore 138673, Singapore.
+(5)Department of Pediatrics, Yong Loo Lin School of Medicine, National 
+University of Singapore, 1E Kent Ridge Road, Singapore 119288, Singapore.
+(6)Department of Biological Sciences, National University of Singapore, 14 
+Science Drive 4, Singapore 117543, Singapore.
+(7)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, Barcelona 08028, Spain 
+travis.stracker@irbbarcelona.org.
+
+GEMC1 and MCIDAS are geminin family proteins that transcriptionally activate 
+E2F4/5-target genes during multiciliogenesis, including Foxj1 and Ccno Male mice 
+that lacked Gemc1, Mcidas or Ccno were found to be infertile, but the origin of 
+this defect has remained unclear. Here, we show that all three genes are 
+necessary for the generation of functional multiciliated cells in the efferent 
+ducts that are required for spermatozoa to enter the epididymis. In mice that 
+are mutant for Gemc1, Mcidas or Ccno, we observed a similar spectrum of 
+phenotypes, including thinning of the seminiferous tubule epithelia, dilation of 
+the rete testes, sperm agglutinations in the efferent ducts and lack of 
+spermatozoa in the epididymis (azoospermia). These data suggest that defective 
+efferent duct development is the dominant cause of male infertility in these 
+mouse models, and this likely extends to individuals with the ciliopathy reduced 
+generation of multiple motile cilia with mutations in MCIDAS and CCNO.
+
+© 2019. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.162628
+PMCID: PMC6503982
+PMID: 30936178 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+12. Development. 2019 Mar 15;146(6):dev172643. doi: 10.1242/dev.172643.
+
+Mcidas mutant mice reveal a two-step process for the specification and 
+differentiation of multiciliated cells in mammals.
+
+Lu H(1), Anujan P(1)(2), Zhou F(1), Zhang Y(1), Chong YL(1), Bingle CD(2), Roy 
+S(3)(4)(5).
+
+Author information:
+(1)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore 138673.
+(2)Academic Unit of Respiratory Medicine, Department of Infection, Immunity and 
+Cardiovascular Disease, University of Sheffield, Sheffield S10 2JF, UK.
+(3)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore 138673 sudipto@imcb.a-star.edu.sg.
+(4)Department of Pediatrics, Yong Loo Lin School of Medicine, National 
+University of Singapore, 1E Kent Ridge Road, Singapore 119288.
+(5)Department of Biological Sciences, National University of Singapore, 14 
+Science Drive 4, Singapore 117543.
+
+Motile cilia on multiciliated cells (MCCs) function in fluid clearance over 
+epithelia. Studies with Xenopus embryos and individuals with the congenital 
+respiratory disorder reduced generation of multiple motile cilia (RGMC), have 
+implicated the nuclear protein MCIDAS (MCI), in the transcriptional regulation 
+of MCC specification and differentiation. Recently, a paralogous protein, 
+geminin coiled-coil domain containing (GMNC), was also shown to be required for 
+MCC formation. Surprisingly, in contrast to the presently held view, we find 
+that Mci mutant mice can specify MCC precursors. However, these precursors 
+cannot produce multiple basal bodies, and mature into single ciliated cells. We 
+identify an essential role for MCI in inducing deuterosome pathway components 
+for the production of multiple basal bodies. Moreover, GMNC and MCI associate 
+differentially with the cell-cycle regulators E2F4 and E2F5, which enables them 
+to activate distinct sets of target genes (ciliary transcription factor genes 
+versus basal body amplification genes). Our data establish a previously 
+unrecognized two-step model for MCC development: GMNC functions in the initial 
+step for MCC precursor specification. GMNC induces Mci expression that drives 
+the second step of basal body production for multiciliation.
+
+© 2019. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.172643
+PMID: 30877126 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+13. Dev Biol. 2019 Feb 1;446(1):20-21. doi: 10.1016/j.ydbio.2018.12.007. Epub 2018 
+Dec 8.
+
+E2F4/5-mediated transcriptional control of multiciliated cell differentiation: 
+redundancy or fine-tuning?
+
+Stracker TH(1).
+
+Author information:
+(1)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, Barcelona, Spain. Electronic address: 
+travis.stracker@irbbarcelona.org.
+
+DOI: 10.1016/j.ydbio.2018.12.007
+PMID: 30537487 [Indexed for MEDLINE]
+
+
+14. Dev Biol. 2018 Nov 15;443(2):165-172. doi: 10.1016/j.ydbio.2018.09.013. Epub 
+2018 Sep 12.
+
+Distinct requirements of E2f4 versus E2f5 activity for multiciliated cell 
+development in the zebrafish embryo.
+
+Chong YL(1), Zhang Y(1), Zhou F(1), Roy S(2).
+
+Author information:
+(1)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore 138673, Singapore.
+(2)Institute of Molecular and Cell Biology, Proteos, 61 Biopolis Drive, 
+Singapore 138673, Singapore; Department of Pediatrics, Yong Loo Lin School of 
+Medicine, National University of Singapore, 1E Kent Ridge Road, Singapore 
+119288, Singapore; Department of Biological Sciences, National University of 
+Singapore, 14 Science Drive 4, Singapore 117543, Singapore. Electronic address: 
+sudipto@imcb.a-star.edu.sg.
+
+Multiciliated cells (MCCs) differentiate arrays of motile cilia that beat to 
+drive fluid flow over epithelia. Recent studies have established two Geminin 
+family coiled-coil containing nuclear regulatory proteins, Gmnc and Multicilin 
+(Mci), in the specification and differentiation of the MCCs. Both Gmnc and Mci 
+are devoid of a DNA binding domain: they regulate transcription by associating 
+with E2f family transcription factors, notably E2f4 and E2f5. Here, we have 
+studied the relative contribution of these two E2f factors in MCC development 
+using the zebrafish embryo, which differentiates MCCs within kidney tubules and 
+the nose. We found that while E2f4 is fully dispensable, E2f5 is essential for 
+MCCs to form in the kidney tubules. Moreover, using a variety of double mutant 
+combinations we show that E2f5 has a more prominent role in MCC development in 
+the zebrafish than E2f4. This contrasts with current evidence from the mouse, 
+where E2f4 seems to be more important. Thus, distinct combinatorial activities 
+of the E2f4 and E2f5 proteins regulate the specification and differentiation of 
+MCCs in zebrafish and mice.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ydbio.2018.09.013
+PMID: 30218642 [Indexed for MEDLINE]
+
+
+15. Chromosoma. 2018 Jun;127(2):151-174. doi: 10.1007/s00412-017-0652-7. Epub 2017 
+Dec 14.
+
+Controlling centriole numbers: Geminin family members as master regulators of 
+centriole amplification and multiciliogenesis.
+
+Arbi M(1), Pefani DE(1)(2), Taraviras S(3), Lygerou Z(4).
+
+Author information:
+(1)Laboratory of Biology, School of Medicine, University of Patras, 26504 Rio, 
+Patras, Greece.
+(2)CRUK/MRC Oxford Institute, Department of Oncology, University of Oxford, 
+Oxford, OX3 7DQ, UK.
+(3)Laboratory of Physiology, School of Medicine, University of Patras, 26504 
+Rio, Patras, Greece.
+(4)Laboratory of Biology, School of Medicine, University of Patras, 26504 Rio, 
+Patras, Greece. lygerou@med.upatras.gr.
+
+To ensure that the genetic material is accurately passed down to daughter cells 
+during mitosis, dividing cells must duplicate their chromosomes and centrosomes 
+once and only once per cell cycle. The same key steps-licensing, duplication, 
+and segregation-control both the chromosome and the centrosome cycle, which must 
+occur in concert to safeguard genome integrity. Aberrations in genome content or 
+centrosome numbers lead to genomic instability and are linked to tumorigenesis. 
+Such aberrations, however, can also be part of the normal life cycle of specific 
+cell types. Multiciliated cells best exemplify the deviation from a normal 
+centrosome cycle. They are post-mitotic cells which massively amplify their 
+centrioles, bypassing the rule for once-per-cell-cycle centriole duplication. 
+Hundreds of centrioles dock to the apical cell surface and generate motile 
+cilia, whose concerted movement ensures fluid flow across epithelia. The early 
+steps that control the generation of multiciliated cells have lately started to 
+be elucidated. Geminin and the vertebrate-specific GemC1 and McIdas are 
+distantly related coiled-coil proteins, initially identified as cell cycle 
+regulators associated with the chromosome cycle. Geminin is required to ensure 
+once-per-cell-cycle genome replication, while McIdas and GemC1 bind to Geminin 
+and are implicated in DNA replication control. Recent findings highlight Geminin 
+family members as early regulators of multiciliogenesis. GemC1 and McIdas 
+specify the multiciliate cell fate by forming complexes with the E2F4/5 
+transcription factors to switch on a gene expression program leading to 
+centriole amplification and cilia formation. Positive and negative interactions 
+among Geminin family members may link cell cycle control to centriole 
+amplification and multiciliogenesis, acting close to the point of transition 
+from proliferation to differentiation. We review key steps of centrosome 
+duplication and amplification, present the role of Geminin family members in the 
+centrosome and chromosome cycle, and discuss links with disease.
+
+DOI: 10.1007/s00412-017-0652-7
+PMID: 29243212 [Indexed for MEDLINE]
+
+
+16. Development. 2016 Dec 15;143(24):4654-4664. doi: 10.1242/dev.143859. Epub 2016 
+Nov 18.
+
+Foxn4 promotes gene expression required for the formation of multiple motile 
+cilia.
+
+Campbell EP(1), Quigley IK(1), Kintner C(2).
+
+Author information:
+(1)Molecular Neurobiology Laboratory, The Salk Institute for Biological Studies, 
+La Jolla, CA 92037, USA.
+(2)Molecular Neurobiology Laboratory, The Salk Institute for Biological Studies, 
+La Jolla, CA 92037, USA kintner@salk.edu.
+
+Erratum in
+    Development. 2017 Feb 15;144(4):731. doi: 10.1242/dev.149567.
+
+Multiciliated cell (MCC) differentiation involves extensive organelle biogenesis 
+required to extend hundreds of motile cilia. Key transcriptional regulators 
+known to drive the gene expression required for this organelle biogenesis are 
+activated by the related coiled-coil proteins Multicilin and Gemc1. Here we 
+identify foxn4 as a new downstream target of Multicilin required for MCC 
+differentiation in Xenopus skin. When Foxn4 activity is inhibited in Xenopus 
+embryos, MCCs show transient ciliogenesis defects similar to those seen in 
+mutants of Foxj1, a known key regulator of genes required for motile ciliation. 
+RNAseq analysis indicates that Foxn4 co-activates some Foxj1 target genes 
+strongly and many Foxj1 targets weakly. ChIPseq suggests that whereas Foxn4 and 
+Foxj1 frequently bind to different targets at distal enhancers, they largely 
+bind together at MCC gene promoters. Consistent with this co-regulation, cilia 
+extension by MCCs is more severely compromised in foxn4 and foxj1 double mutants 
+than in single mutants. In contrast to Foxj1, Foxn4 is not required to extend a 
+single motile cilium by cells involved in left-right patterning. These results 
+indicate that Foxn4 complements Foxj1 transcriptionally during MCC 
+differentiation, thereby shaping the levels of gene expression required for the 
+timely and complete biogenesis of multiple motile cilia.
+
+© 2016. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.143859
+PMCID: PMC5201034
+PMID: 27864379 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing or financial 
+interests.
+
+
+17. Neurogenesis (Austin). 2016 Apr 27;3(1):e1172747. doi: 
+10.1080/23262133.2016.1172747. eCollection 2016.
+
+Mcidas and GemC1/Lynkeas specify embryonic radial glial cells.
+
+Kyrousi C(1), Lalioti ME(1), Skavatsou E(1), Lygerou Z(2), Taraviras S(1).
+
+Author information:
+(1)Department of Physiology, School of Medicine, University of Patras , Patras, 
+Greece.
+(2)Department of General Biology, School of Medicine, University of Patras , 
+Patras, Greece.
+
+Ependymal cells are multiciliated cells located in the wall of the lateral 
+ventricles of the adult mammalian brain and are key components of the 
+subependymal zone niche, where adult neural stem cells reside. Through the 
+movement of their motile cilia, ependymal cells control the cerebrospinal fluid 
+flow within the ventricular system from which they receive secreted molecules 
+and morphogens controlling self-renewal and differentiation decisions of adult 
+neural stem cells. Multiciliated ependymal cells become fully differentiated at 
+postnatal stages however they are specified during mid to late embryogenesis 
+from a population of radial glial cells. Here we discuss recent findings 
+suggesting that 2 novel molecules, Mcidas and GemC1/Lynkeas are key players on 
+radial glial specification to ependymal cells. Both proteins were initially 
+described as cell cycle regulators revealing sequence similarity to Geminin. 
+They are expressed in radial glial cells committed to the ependymal cell lineage 
+during embryogenesis, while overexpression and knock down experiments showed 
+that are sufficient and necessary for ependymal cell generation. We propose that 
+Mcidas and GemC1/Lynkeas are key components of the molecular cascade that 
+promotes radial glial cells fate commitment toward multiciliated ependymal cell 
+lineage operating upstream of c-Myb and FoxJ1.
+
+DOI: 10.1080/23262133.2016.1172747
+PMCID: PMC4973585
+PMID: 27606337
+
+
+18. EMBO J. 2016 May 2;35(9):904-6. doi: 10.15252/embj.201694206. Epub 2016 Mar 22.
+
+It's a family act: the geminin triplets take center stage in motile 
+ciliogenesis.
+
+Vladar EK(1), Mitchell BJ(2).
+
+Author information:
+(1)Department of Pathology, Stanford University School of Medicine, Stanford, 
+CA, USA.
+(2)Department of Cell and Molecular Biology, Feinberg School of Medicine, 
+Northwestern University, Chicago, IL, USA.
+
+Comment on
+    EMBO Rep. 2016 Mar;17(3):400-13. doi: 10.15252/embr.201540882.
+    EMBO J. 2016 May 2;35(9):942-60. doi: 10.15252/embj.201592821.
+
+The balance between proliferation and differentiation is a fundamental aspect of 
+multicellular life. Perhaps nowhere is this delicate balance more palpable than 
+in the multiciliated cells (MCCs) that line the respiratory tract, the ependyma, 
+and the oviduct. These cells contain dozens to hundreds of motile cilia that 
+beat in a concerted fashion to generate directed fluid flow over the tissue 
+surface. Although MCCs have exited the cell cycle, remarkably, they retain the 
+ability to duplicate their centrioles and to mature those centrioles into 
+ciliary basal bodies—two features, which are known to be normally under strict 
+cell cycle control (Firat‐Karalar & Stearns, 2014). How post‐mitotic MCCs retain 
+this ability, remains unclear. In the past several months, four research 
+articles, including one from Terré et al in this issue of The EMBO Journal, have 
+described a vital role for the geminin coiled‐coil domain‐containing protein 
+(Gemc1) in the MCC gene expression program in multiple tissues and organisms, 
+that bring us closer to understanding this question (Kyrousi et al, 2015; Zhou 
+et al, 2015; Arbi et al, 2016; Terré et al, 2016).
+
+DOI: 10.15252/embj.201694206
+PMCID: PMC5207325
+PMID: 27006276 [Indexed for MEDLINE]
+
+
+19. EMBO J. 2016 May 2;35(9):942-60. doi: 10.15252/embj.201592821. Epub 2016 Mar 1.
+
+GEMC1 is a critical regulator of multiciliated cell differentiation.
+
+Terré B(1), Piergiovanni G(2), Segura-Bayona S(1), Gil-Gómez G(3), Youssef 
+SA(4), Attolini CS(1), Wilsch-Bräuninger M(5), Jung C(6), Rojas AM(7), 
+Marjanović M(8), Knobel PA(1), Palenzuela L(1), López-Rovira T(1), Forrow S(1), 
+Huttner WB(5), Valverde MA(6), de Bruin A(9), Costanzo V(10), Stracker TH(11).
+
+Author information:
+(1)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, Barcelona, Spain.
+(2)FIRC Institute of Molecular Oncology, Milan, Italy.
+(3)IMIM (Institut Hospital del Mar d'Investigacions Mèdiques), Barcelona, Spain.
+(4)Dutch Molecular Pathology Center, Department of Pathobiology, Faculty of 
+Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.
+(5)Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, 
+Germany.
+(6)Department of Experimental and Health Sciences, Universitat Pompeu Fabra, 
+Barcelona, Spain.
+(7)Computational Biology and Bioinformatics Group, Institute of Biomedicine of 
+Seville, Campus Hospital Universitario Virgen del Rocio, Seville, Spain.
+(8)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, Barcelona, Spain Division of Molecular 
+Medicine, Ruđer Bošković Institute, Zagreb, Croatia.
+(9)Dutch Molecular Pathology Center, Department of Pathobiology, Faculty of 
+Veterinary Medicine, Utrecht University, Utrecht, The Netherlands Department of 
+Pediatrics, University Medical Center Groningen, University of Groningen, 
+Groningen, The Netherlands.
+(10)FIRC Institute of Molecular Oncology, Milan, Italy vincenzo.costanzo@ifom.eu 
+travis.stracker@irbbarcelona.org.
+(11)Institute for Research in Biomedicine (IRB Barcelona), The Barcelona 
+Institute of Science and Technology, Barcelona, Spain vincenzo.costanzo@ifom.eu 
+travis.stracker@irbbarcelona.org.
+
+Comment in
+    EMBO J. 2016 May 2;35(9):904-6. doi: 10.15252/embj.201694206.
+
+The generation of multiciliated cells (MCCs) is required for the proper function 
+of many tissues, including the respiratory tract, brain, and germline. Defects 
+in MCC development have been demonstrated to cause a subclass of mucociliary 
+clearance disorders termed reduced generation of multiple motile cilia (RGMC). 
+To date, only two genes, Multicilin (MCIDAS) and cyclin O (CCNO) have been 
+identified in this disorder in humans. Here, we describe mice lacking GEMC1 
+(GMNC), a protein with a similar domain organization as Multicilin that has been 
+implicated in DNA replication control. We have found that GEMC1-deficient mice 
+are growth impaired, develop hydrocephaly with a high penetrance, and are 
+infertile, due to defects in the formation of MCCs in the brain, respiratory 
+tract, and germline. Our data demonstrate that GEMC1 is a critical regulator of 
+MCC differentiation and a candidate gene for human RGMC or related disorders.
+
+© 2016 The Authors.
+
+DOI: 10.15252/embj.201592821
+PMCID: PMC5207319
+PMID: 26933123 [Indexed for MEDLINE]
+
+
+20. EMBO Rep. 2016 Mar;17(3):400-13. doi: 10.15252/embr.201540882. Epub 2016 Feb 4.
+
+GemC1 controls multiciliogenesis in the airway epithelium.
+
+Arbi M(1), Pefani DE(1), Kyrousi C(2), Lalioti ME(2), Kalogeropoulou A(2), 
+Papanastasiou AD(1), Taraviras S(2), Lygerou Z(3).
+
+Author information:
+(1)Laboratory of Biology, School of Medicine, University of Patras, Patras, 
+Greece.
+(2)Laboratory of Physiology, School of Medicine University of Patras, Patras, 
+Greece.
+(3)Laboratory of Biology, School of Medicine, University of Patras, Patras, 
+Greece lygerou@med.upatras.gr.
+
+Comment in
+    EMBO J. 2016 May 2;35(9):904-6. doi: 10.15252/embj.201694206.
+
+Multiciliated cells are terminally differentiated, post-mitotic cells that form 
+hundreds of motile cilia on their apical surface. Defects in multiciliated cells 
+lead to disease, including mucociliary clearance disorders that result from 
+ciliated cell disfunction in airways. The pathway controlling multiciliogenesis, 
+however, remains poorly characterized. We showed that GemC1, previously 
+implicated in cell cycle control, is a central regulator of ciliogenesis. GemC1 
+is specifically expressed in ciliated epithelia. Ectopic expression of GemC1 is 
+sufficient to induce early steps of multiciliogenesis in airway epithelial cells 
+ex vivo, upregulating McIdas and FoxJ1, key transcriptional regulators of 
+multiciliogenesis. GemC1 directly transactivates the McIdas and FoxJ1 upstream 
+regulatory sequences, and its activity is enhanced by E2F5 and inhibited by 
+Geminin. GemC1-knockout mice are born with airway epithelia devoid of 
+multiciliated cells. Our results identify GemC1 as an essential regulator of 
+ciliogenesis in the airway epithelium and a candidate gene for mucociliary 
+disorders.
+
+© 2016 The Authors.
+
+DOI: 10.15252/embr.201540882
+PMCID: PMC4772991
+PMID: 26882546 [Indexed for MEDLINE]
+
+
+21. Curr Biol. 2015 Dec 21;25(24):3267-73. doi: 10.1016/j.cub.2015.10.062.
+
+Gmnc Is a Master Regulator of the Multiciliated Cell Differentiation Program.
+
+Zhou F, Narasimhan V, Shboul M, Chong YL, Reversade B, Roy S.
+
+Erratum in
+    Curr Biol. 2017 Jan 23;27(2):305-307. doi: 10.1016/j.cub.2016.12.051.
+
+Multiciliated cells (MCCs) differentiate hundreds of motile cilia that generate 
+mechanical force required to drive fluid movement over epithelia [1, 2]. For 
+example, metachronal beating of MCC cilia in the mammalian airways clears mucus 
+that traps inhaled pathogens and pollutants. Consequently, abnormalities in MCC 
+differentiation or ciliary motility have been linked to an expanding spectrum of 
+human airway diseases [3–6]. The current view posits that MCC precursors are 
+singled out by the inhibition of Notch signaling. MCC precursors then support an 
+explosive production of basal bodies, which migrate to the apical surface, dock 
+with the plasma membrane, and seed the growth of multiple motile cilia. At the 
+center of this elaborate differentiation program resides the 
+coiled-coil-containing protein Multicilin, which transcriptionally activates 
+genes for basal body production and the gene for FoxJ1, the master regulator for 
+basal body docking, cilia formation, and motility [7, 8]. Here, using genetic 
+analysis in the zebrafish embryo, we discovered that Gmnc is a novel determinant 
+of the MCC fate. Like Multicilin, Gmnc is a coiled-coil-containing protein of 
+the Geminin family. We show that Gmnc functions downstream of Notch signaling, 
+but upstream of Multicilin in the developmental pathway controlling MCC 
+specification. Moreover, we find that loss of Gmnc in Xenopus embryos also 
+causes loss of MCC differentiation and that overexpression of the protein is 
+sufficient to induce supernumerary MCCs. Together, our data identify Gmnc as an 
+evolutionarily conserved master regulator functioning at the top of the 
+hierarchy of transcription factors involved in MCC differentiation.
+
+DOI: 10.1016/j.cub.2015.10.062
+PMID: 26778655 [Indexed for MEDLINE]
+
+
+22. Development. 2015 Nov 1;142(21):3661-74. doi: 10.1242/dev.126342. Epub 2015 Sep 
+22.
+
+Mcidas and GemC1 are key regulators for the generation of multiciliated 
+ependymal cells in the adult neurogenic niche.
+
+Kyrousi C(1), Arbi M(2), Pilz GA(3), Pefani DE(2), Lalioti ME(1), Ninkovic J(4), 
+Götz M(4), Lygerou Z(2), Taraviras S(5).
+
+Author information:
+(1)Department of Physiology, School of Medicine, University of Patras, Patras 
+26504, Greece.
+(2)Department of General Biology, School of Medicine, University of Patras, 
+Patras 26504, Greece.
+(3)Institute of Stem Cell Research, German Research Center for Environmental 
+Health, Helmholtz Center Munich, Neuherberg 85764, Germany.
+(4)Institute of Stem Cell Research, German Research Center for Environmental 
+Health, Helmholtz Center Munich, Neuherberg 85764, Germany Physiological 
+Genomics, Ludwig Maximilians University, Munich 80336, Germany.
+(5)Department of Physiology, School of Medicine, University of Patras, Patras 
+26504, Greece taraviras@med.upatras.gr.
+
+Multiciliated cells are abundant in the epithelial surface of different tissues, 
+including cells lining the walls of the lateral ventricles in the brain and the 
+airway epithelium. Their main role is to control fluid flow and defects in their 
+differentiation are implicated in many human disorders, such as hydrocephalus, 
+accompanied by defects in adult neurogenesis and mucociliary disorder in the 
+airway system. Here we show that Mcidas, which is mutated in human mucociliary 
+clearance disorder, and GemC1 (Gmnc or Lynkeas), previously implicated in cell 
+cycle progression, are key regulators of multiciliated ependymal cell generation 
+in the mouse brain. Overexpression and knockdown experiments show that Mcidas 
+and GemC1 are sufficient and necessary for cell fate commitment and 
+differentiation of radial glial cells to multiciliated ependymal cells. 
+Furthermore, we show that GemC1 and Mcidas operate in hierarchical order, 
+upstream of Foxj1 and c-Myb transcription factors, which are known regulators of 
+ependymal cell generation, and that Notch signaling inhibits GemC1 and Mcidas 
+function. Our results suggest that Mcidas and GemC1 are key players in the 
+generation of multiciliated ependymal cells of the adult neurogenic niche.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.126342
+PMID: 26395491 [Indexed for MEDLINE]

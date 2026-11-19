@@ -1,0 +1,117 @@
+1. Am J Physiol Cell Physiol. 2021 Nov 1;321(5):C798-C811. doi: 
+10.1152/ajpcell.00295.2021. Epub 2021 Sep 15.
+
+Mouse organoid culture is a suitable model to study esophageal ion transport 
+mechanisms.
+
+Korsós MM(1), Bellák T(2)(3), Becskeházi E(1), Gál E(1), Veréb Z(4), Hegyi 
+P(5)(6)(7), Venglovecz V(1).
+
+Author information:
+(1)Department of Pharmacology and Pharmacotherapy, University of Szeged, Szeged, 
+Hungary.
+(2)Department of Anatomy, Histology and Embryology, University of Szeged, 
+Szeged, Hungary.
+(3)BioTalentum Ltd., Gödöllő, Hungary.
+(4)Regenerative Medicine and Cellular Pharmacology Research Laboratory, 
+Department of Dermatology and Allergology, University of Szeged, Szeged, 
+Hungary.
+(5)First Department of Medicine, University of Szeged, Szeged, Hungary.
+(6)Szentágothai Research Centre, Institute for Translational Medicine, Medical 
+School, University of Pécs, Pécs, Hungary.
+(7)Division of Gastroenterology, First Department of Medicine, Medical School, 
+University of Pécs, Pécs, Hungary.
+
+Altered esophageal ion transport mechanisms play a key role in inflammatory and 
+cancerous diseases of the esophagus, but epithelial ion processes have been less 
+studied in the esophagus because of the lack of a suitable experimental model. 
+In this study, we generated three-dimensional (3D) esophageal organoids (EOs) 
+from two different mouse strains and characterized the ion transport processes 
+of the EOs. EOs form a cell-filled structure with a diameter of 250-300 µm and 
+were generated from epithelial stem cells as shown by FACS analysis. Using 
+conventional PCR and immunostaining, the presence of Slc26a6 Cl-/HCO3- anion 
+exchanger (AE), Na+/H+ exchanger (NHE), Na+/HCO3- cotransporter (NBC), cystic 
+fibrosis transmembrane conductance regulator (CFTR), and anoctamin 1 Cl- 
+channels was detected in EOs. Microfluorimetric techniques revealed high NHE, 
+AE, and NBC activities, whereas that of CFTR was relatively low. In addition, 
+inhibition of CFTR led to functional interactions between the major acid-base 
+transporters and CFTR. We conclude that EOs provide a relevant and suitable 
+model system for studying the ion transport mechanisms of esophageal epithelial 
+cells, and they can be also used as preclinical tools to assess the 
+effectiveness of novel therapeutic compounds in esophageal diseases associated 
+with altered ion transport processes.
+
+DOI: 10.1152/ajpcell.00295.2021
+PMID: 34524930 [Indexed for MEDLINE]
+
+
+2. Cell Mol Gastroenterol Hepatol. 2018 Mar 5;6(1):33-45. doi: 
+10.1016/j.jcmgh.2018.02.009. eCollection 2018.
+
+The Role of Ion Transporters in the Pathophysiology of Infectious Diarrhea.
+
+Das S(1), Jayaratne R(2), Barrett KE(2).
+
+Author information:
+(1)Department of Pathology, University of California San Diego School of 
+Medicine, La Jolla, California.
+(2)Department of Medicine, University of California San Diego School of 
+Medicine, La Jolla, California.
+
+Every year, enteric infections and associated diarrhea kill millions of people. 
+The situation is compounded by increases in the number of enteric pathogens that 
+are acquiring resistance to antibiotics, as well as (hitherto) a relative 
+paucity of information on host molecular targets that may contribute to 
+diarrhea. Many forms of diarrheal disease depend on the dysregulation of 
+intestinal ion transporters, and an associated imbalance between secretory and 
+absorptive functions of the intestinal epithelium. A number of major 
+transporters have been implicated in the pathogenesis of diarrheal diseases and 
+thus an understanding of their expression, localization, and regulation after 
+infection with various bacteria, viruses, and protozoa likely will prove 
+critical in designing new therapies. This article surveys our understanding of 
+transporters that are modulated by specific pathogens and the mechanism(s) 
+involved, thereby illuminating targets that might be exploited for new 
+therapeutic approaches.
+
+DOI: 10.1016/j.jcmgh.2018.02.009
+PMCID: PMC6007821
+PMID: 29928670
+
+
+3. Am J Physiol Renal Physiol. 2000 Jun;278(6):F925-39. doi: 
+10.1152/ajprenal.2000.278.6.F925.
+
+Decreased abundance of major Na(+) transporters in kidneys of rats with 
+ischemia-induced acute renal failure.
+
+Kwon TH(1), Frøkiaer J, Han JS, Knepper MA, Nielsen S.
+
+Author information:
+(1)Department of Cell Biology, Institute of Anatomy, University of Aarhus, 
+Denmark.
+
+Ischemia-induced acute renal failure (ARF) is known to be associated with 
+significant impairment of tubular Na reabsorption. We examined whether temporary 
+bilateral renal ischemia (30, 40, or 60 min) and reperfusion (1-5 days) affect 
+the abundance of several renal Na transporters and urinary Na excretion (U(Na)V) 
+in rats. In rats with mild ARF (30 min), immunoblotting revealed that proximal 
+tubule type 3 Na(+)/H(+) exchanger (NHE-3) and type II Na-P(i) cotransporter 
+(NaPi-II) were significantly decreased to 28 +/- 6 and 14 +/- 6% of sham levels, 
+respectively, at day 1. Moreover, Na(+)-K(+)-ATPase levels were also 
+significantly decreased (51 +/- 11%), whereas there was no significant decrease 
+in type 1 bumetanide-sensitive cotransporter (BSC-1) and thiazide-sensitive 
+cotransporter (TSC) levels. Consistent with reduced Na transporter abundance, 
+fractional urinary Na excretion (FE(Na)) was significantly increased in mild ARF 
+(30 min) and U(Na)V was unchanged, despite a marked reduction in glomerular 
+filtration rate. Na transporter levels and renal Na handling were normalized 
+within 5 days. Severe ischemic injury (60 min) resulted in a marked decrease in 
+the abundance of Na(+)-K(+)-ATPase, NHE-3, NaPi-II, BSC-1, and TSC at both days 
+1 and 5. Consistent with this, FE(Na) was significantly increased at days 1 and 
+5. Intravenous K-melanocyte-stimulated hormone treatment partially prevented the 
+ischemia-induced downregulation of renal Na transporters and reduced the high 
+FE(Na) to control levels. We conclude that reduced levels of Na transporters 
+along the nephron may play a critical role in the impairment of tubular Na 
+reabsorption, and hence increased Na excretion, in ischemia-induced ARF.
+
+DOI: 10.1152/ajprenal.2000.278.6.F925
+PMID: 10836980 [Indexed for MEDLINE]

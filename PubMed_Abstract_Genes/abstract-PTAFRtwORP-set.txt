@@ -1,0 +1,239 @@
+1. Int J Mol Sci. 2024 Mar 7;25(6):3084. doi: 10.3390/ijms25063084.
+
+Platelet-Activating Factor Receptor (PAFR) Regulates Retinal Progenitor/Stem 
+Cells Profile in Ciliary Epithelium Cells.
+
+Dalmaso B(1), Silva-Junior IAD(2), Jancar S(2), Del Debbio CB(1).
+
+Author information:
+(1)Department of Cell and Developmental Biology, Biomedical Sciences Institute, 
+University of Sao Paulo, Sao Paulo 05508-000, Brazil.
+(2)Department of Immunology, Biomedical Sciences Institute, University of Sao 
+Paulo, Sao Paulo 05508-000, Brazil.
+
+The retina is a central nervous tissue essential to visual perception and highly 
+susceptible to environmental damage. Lower vertebrate retinas activate intrinsic 
+regeneration mechanisms in response to retinal injury regulated by a specialized 
+population of progenitor cells. The mammalian retina does not have populations 
+of progenitor/stem cells available to activate regeneration, but contains a 
+subpopulation of differentiated cells that can be reprogrammed into retinal stem 
+cells, the ciliary epithelium (CE) cells. Despite the regenerative potential, 
+stem cells derived from CE exhibit limited reprogramming capacity probably 
+associated with the expression of intrinsic regulatory mechanisms. 
+Platelet-activating factor (PAF) is a lipid mediator widely expressed in many 
+cells and plays an important role in stem cell proliferation and 
+differentiation. During mammalian development, PAF receptor signaling showed 
+important effects on retinal progenitors' cell cycle regulation and neuronal 
+differentiation that need to be further investigated. In this study, our 
+findings suggested a dynamic role for PAF receptor signaling in CE cells, 
+impacting stem cell characteristics and neurosphere formation. We showed that 
+PAF receptors and PAF-related enzymes are downregulated in retinal 
+progenitor/stem cells derived from PE cells. Blocking PAFR activity using 
+antagonists increased the expression of specific progenitor markers, revealing 
+potential implications for retinal tissue development and maintenance.
+
+DOI: 10.3390/ijms25063084
+PMCID: PMC10970094
+PMID: 38542059 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Am J Chin Med. 2022;50(6):1565-1597. doi: 10.1142/S0192415X22500665. Epub 2022 
+Jul 29.
+
+Multiple Mechanistic Models Reveal the Neuroprotective Effects of Diterpene 
+Ginkgolides against Astrocyte-Mediated Demyelination via the PAF-PAFR Pathway.
+
+Wang TJ(1)(2), Wu ZY(2), Yang CH(3)(4), Cao L(1)(2), Wang ZZ(2), Cao ZY(2), Yu 
+MY(5), Zhao MR(5), Zhang CF(2), Liu WJ(2), Zhao BJ(2), Shang XQ(3)(4), Feng 
+Y(3)(4), Wang H(3)(4), Deng LL(3)(4), Xiao BG(6), Guo HY(3)(4), Xiao W(1)(2).
+
+Author information:
+(1)Nanjing University of Chinese Medicine, 138 Xianlin Road, Nanjing, Jiangsu 
+210023, P. R. China.
+(2)State Key Laboratory of New-tech for Chinese Medicine Pharmaceutical Process, 
+Jiangsu Kanion Pharmaceutical Co., Ltd., Lianyungang, Jiangsu 222001, P. R. 
+China.
+(3)National Engineering Research Center for Beijing Biochip Technology, Beijing 
+102206, P. R. China.
+(4)CapitalBio Corporation, Beijing 102206, P. R. China.
+(5)Key Laboratory of Standardization of Chinese Medicines, Ministry of Education 
+Institute of Chinese Materia Medica of Shanghai, University of Traditional 
+Chinese Medicine, Shanghai 201203, P. R. China.
+(6)Department of Neurology and National Research Center for Aging and Medicine 
+Huashan Hospital, Fudan University, Shanghai, P. R. China.
+
+Currently, therapies for ischemic stroke are limited. Ginkgolides, unique Folium 
+Ginkgo components, have potential benefits for ischemic stroke patients, but 
+there is little evidence that ginkgolides improve neurological function in these 
+patients. Clinical studies have confirmed the neurological improvement efficacy 
+of diterpene ginkgolides meglumine injection (DGMI), an extract of Ginkgo biloba 
+containing ginkgolides A (GA), B (GB), and K (GK), in ischemic stroke patients. 
+In the present study, we performed transcriptome analyses using RNA-seq and 
+explored the potential mechanism of ginkgolides in seven in vitro cell models 
+that mimic pathological stroke processes. Transcriptome analyses revealed that 
+the ginkgolides had potential antiplatelet properties and neuroprotective 
+activities in the nervous system. Specifically, human umbilical vein endothelial 
+cells (HUVEC-T1 cells) showed the strongest response to DGMI and U251 human 
+glioma cells ranked next. The results of pathway enrichment analysis via gene 
+set enrichment analysis (GSEA) showed that the neuroprotective activities of 
+DGMI and its monomers in the U251 cell model were related to their regulation of 
+the sphingolipid and neurotrophin signaling pathways. We next verified these in 
+vitro findings in an in vivo cuprizone (CPZ, 
+bis(cyclohexanone)oxaldihydrazone)-induced model. GB and GK protected against 
+demyelination in the corpus callosum (CC) and promoted oligodendrocyte 
+regeneration in CPZ-fed mice. Moreover, GB and GK antagonized 
+platelet-activating factor (PAF) receptor (PAFR) expression in astrocytes, 
+inhibited PAF-induced inflammatory responses, and promoted brain-derived 
+neurotrophic factor (BDNF) and ciliary neurotrophic factor (CNTF) secretion, 
+supporting remyelination. These findings are critical for developing therapies 
+that promote remyelination and prevent stroke progression.
+
+DOI: 10.1142/S0192415X22500665
+PMID: 35902245 [Indexed for MEDLINE]
+
+
+3. Prostaglandins Other Lipid Mediat. 2021 Apr;153:106522. doi: 
+10.1016/j.prostaglandins.2020.106522. Epub 2020 Dec 21.
+
+Platelet activating factor in the eye: Physiological roles, diseases and future 
+perspectives.
+
+Dalmaso B(1), da Silva-Junior IA(2), Fragel-Madeira L(3), Jancar S(2), Del 
+Debbio CB(4).
+
+Author information:
+(1)Department of Cell and Developmental Biology, Biomedical Sciences Institute, 
+University of Sao Paulo, São Paulo, Brazil.
+(2)Department of Immunology, Biomedical Sciences Institute, University of Sao 
+Paulo, São Paulo, Brazil.
+(3)Department of Neurobiology, Institute of Biology, Fluminense Federal 
+University, Rio de Janeiro, Brazil.
+(4)Department of Cell and Developmental Biology, Biomedical Sciences Institute, 
+University of Sao Paulo, São Paulo, Brazil. Electronic address: 
+carol.deldebbio@usp.br.
+
+Platelet Activating Factor (PAF) is a known phospholipid mediator of 
+inflammation. Since its first description in 1972, it has emerged as a key 
+regulator of vital cellular signaling functions, as proliferation, cell 
+adhesion, and apoptosis. Evidence suggests that interactions between PAF and its 
+receptor (PAFR) play a critical role in nervous system tissues, including the 
+retina. The retina is a very important constituent of the visual system, along 
+with the cornea, sclera, choroid, iris, and ciliary body, that acts 
+synergistically to provide vision and to maintain optical homeostasis. There is 
+evidence that PAF may regulate a wide range of physiological functions in the 
+visual system tissues, such as eye development, inflammation, epithelial wound 
+healing, and synapsis. Due to their multiple functions, PAF and PAFR also have 
+important pathological and clinical implications in ocular disorders such as 
+Choroidal Neovascularization (CNV), Age Macular Degeneration, (AMD), Diabetic 
+Retinopathy (DR), transplant responses, and pharmacological interactions. 
+Studies with PAFR antagonists have shown promising results such as inhibition of 
+neovascularization and chloroquine-induced retinopathies, as well as reducing 
+inflammation and retinal cell death. Due to the importance of PAFR signaling in 
+the visual system and ophthalmology research, this review aims to provide a 
+general overview of current and future perspectives about PAF in eye biology.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.prostaglandins.2020.106522
+PMID: 33358892 [Indexed for MEDLINE]
+
+
+4. Invest Ophthalmol Vis Sci. 1997 Nov;38(12):2672-8.
+
+Localization of platelet-activating factor receptor messenger RNA in the rat 
+eye.
+
+Mori M(1), Aihara M, Shimizu T.
+
+Author information:
+(1)Department of Ophthalmology, Faculty of Medicine, University of Tokyo, Japan. 
+mmori-tky@umin.ac.jp
+
+PURPOSE: To determine the distribution of platelet-activating factor (PAF) 
+receptor in the rat eye.
+METHODS: Platelet-activating factor receptor messenger RNA (mRNA) expression was 
+evaluated with reverse transcription-polymerase chain reaction (RT-PCR) in RNAs 
+from several rat ocular tissues. Distribution of the expression was determined 
+with in situ hybridization in adult rat eye sections and a 35S-labeled 
+complementary RNA probe synthesized from the rat PAF receptor complementary DNA. 
+In situ hybridization was also done with sections immunostained with OX-42, a 
+microglia marker.
+RESULTS: RT-PCR revealed that levels of PAF receptor expression were similar 
+among the ocular tissues studied. The in situ hybridization signals were found 
+in the corneal epithelium, iris and ciliary body, and ganglion and microglial 
+cells in the retina.
+CONCLUSIONS: Platelet-activating factor receptor mRNA was ubiquitously expressed 
+in the rat eye with relative concentration in the corneal epithelium, iris and 
+ciliary body, and retinal ganglion and microglial cells.
+
+PMID: 9375587 [Indexed for MEDLINE]
+
+
+5. Methods Enzymol. 1990;187:433-46. doi: 10.1016/0076-6879(90)87050-d.
+
+Ginkgolides and platelet-activating factor binding sites.
+
+Hosford DJ, Domingo MT, Chabrier PE, Braquet P.
+
+DOI: 10.1016/0076-6879(90)87050-d
+PMID: 2172741 [Indexed for MEDLINE]
+
+
+6. Biochem Biophys Res Commun. 1989 Apr 14;160(1):250-6. doi: 
+10.1016/0006-291x(89)91648-3.
+
+Characterization of specific binding sites for PAF in the iris and ciliary body 
+of rabbit.
+
+Domingo MT(1), Chabrier PE, Van Delft JL, Verbeij NL, Van Haeringen NJ, Braquet 
+P.
+
+Author information:
+(1)Institut Henri Beaufour LES ULIS, France.
+
+The protective effect exerted by BN 52021 a specific PAF-receptor antagonist in 
+experimentally induced ocular inflammatory disorders led us to investigate the 
+possible presence of specific receptors for PAF in rabbit iris and ciliary body. 
+Two classes of PAF binding sites were found in isolated iris and ciliary process 
+of pigmented rabbit eyes: a high affinity site Kd1 congruent to 4.9 +/- 0.47 nM, 
+Bmax1 congruent to 3.17 +/- 0.50 pmoles/mg protein, a low affinity sites Kd2 
+congruent to 11.6 +/- 0.33 nM, Bmax2 congruent to 12.46 +/- 2.3 pmoles/mg 
+protein for iris. The specific binding was not affected by lyso-PAF the 
+biologically inactive precursor and metabolite of PAF, up to 10(-6) M; 
+inhibition by unlabelled PAF demonstrated a biphasic curve partially antagonized 
+by BN 52021. The present results demonstrate the presence of specific binding 
+sites for PAF in rabbit eyes which could mediate the action of this mediator in 
+eye inflammatory processes and explain the protective effect observed with BN 
+52021.
+
+DOI: 10.1016/0006-291x(89)91648-3
+PMID: 2540746 [Indexed for MEDLINE]
+
+
+7. Curr Eye Res. 1988 Nov;7(11):1063-8. doi: 10.3109/02713688809001876.
+
+Specific receptor sites for PAF in iris and ciliary body of the rabbit eye.
+
+van Delft JL(1), van Haeringen NJ, Verbeij NL, Domingo MT, Chabrier PE, Braquet 
+P.
+
+Author information:
+(1)Laboratory of the Department of Ophthalmology, University Hospital, Leiden, 
+The Netherlands.
+
+The existence of specific binding sites by using tritiated 
+1-O-alkyl-2-O-acetyl-sn-glycero-3-phosphocholine (3H-PAF) was investigated on 
+iris and ciliary body tissue of pigmented rabbit eyes. The binding was 
+saturable, specific, time-dependent and reversible. Scatchard's analysis 
+indicated the presence of two types of binding sites with a Kd1 4.90 +/- 0.47 
+nM, a Kd2 11.60 +/- 0.33 nM, a Bmax1 3.17 +/- 0.50 pmol/mg protein and a Bmax2 
+12.45 +/- 2.30 pmol/mg protein for iris tissue, and a Kd1 5.71 +/- 0.09 nM, a 
+K2d 24.40 +/- 0.91 nM, a Bmax1 3.41 +/- 1.00 pmol/mg protein and a Bmax2 16.60 
++/- 0.51 pmol/mg protein for ciliary body. The binding was fully displaced by 
+unlabelled PAF in both iris and ciliary body preparations, and partially 
+inhibited by the PAF antagonist BN 52021 in iris tissue.
+
+DOI: 10.3109/02713688809001876
+PMID: 2854038 [Indexed for MEDLINE]

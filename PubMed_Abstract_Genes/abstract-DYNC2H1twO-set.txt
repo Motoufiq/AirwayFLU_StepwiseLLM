@@ -1,0 +1,3574 @@
+1. Ann Hum Genet. 2024 Oct 3. doi: 10.1111/ahg.12581. Online ahead of print.
+
+DYNC2H1 splicing variants causing severe prenatal short-rib polydactyly syndrome 
+and postnatal orofaciodigital syndrome.
+
+Porto Vasconcelos A(1), Quental S(2)(3), Freixo JP(3)(4), Pacheco JM(5), 
+Rodrigues S(6), Magalhães M(6), Oliveira R(1), Braga AC(5)(7), Quental R(1).
+
+Author information:
+(1)Genetics Service, São João Universitary Hospital Center, Porto, Portugal.
+(2)Institute of Molecular Pathology and Immunology of the University of Porto 
+(IPATIMUP), Porto, Portugal.
+(3)i3S - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, 
+Porto, Portugal.
+(4)CGPP-IBMC, Universidade do Porto, Porto, Portugal.
+(5)Pathology Department, São João Universitary Hospital Center, Porto, Portugal.
+(6)Obstetrics and Gynaecology Department, São João Universitary Hospital Center, 
+Porto, Portugal.
+(7)Faculty of Medicine, University of Porto, Porto, Portugal.
+
+The DYNC2H1 gene has been associated with short-rib polydactyly syndrome (SRPS), 
+among other skeletal ciliopathies. Two cases are presented of distinctive 
+phenotypes resulting from splicing variants in DYNC2H1. The first is a 
+14-week-old fetus with enlarged nuchal translucency, oral hamartoma, malformed 
+uvula, bifid epiglottis, short ribs, micromelia, long bone agenesis, 
+polysyndactyly, heart defect, pancreatic cysts, multicystic dysplastic kidney, 
+megabladder and trident acetabulum. A ciliopathies NGS panel revealed two 
+compound heterozygous variants in DYNC2H1: c.7840-18T>G r.7841_7964del 
+p.Gly2614Aspfs*5 and c.11070G>A r.11044_11116del p.Ile3682Aspfs*2. Both variants 
+were initially classified as variants of uncertain significance but were 
+reclassified as likely pathogenic after PCR-based RNA testing. The second is an 
+11-year-old overweight male with multiple accessory oral frenula, median cleft 
+lip and alveolar ridge, polysyndactyly, brachydactyly, normal rib length, and 
+hypogonadism. Exome sequencing revealed two compound heterozygous variants in 
+DYNC2H1: c.6315del p.(Thr2106Glnfs*7), classified as likely pathogenic, and 
+c.3303-16A>G p.(?), classified as a variant of uncertain significance. PCR-based 
+RNA testing suggested that c.3303-16A>G induces an in-frame deletion: 
+r.3303_3458del p.Asp1102_Arg1153del, although the normal transcript is still 
+produced. These results are consistent with both SRPS type I/III in the first 
+case and orofaciodigital syndrome in the second, an unprecedented description. 
+This work thus improves the clinical and molecular knowledge of the phenotypes 
+associated with splicing variants in the DYNC2H1 gene.
+
+© 2024 University College London (UCL) and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ahg.12581
+PMID: 39361243
+
+
+2. Biol Open. 2024 Sep 15;13(9):bio061690. doi: 10.1242/bio.061690. Epub 2024 Sep 
+12.
+
+The role of cilia in the development, survival, and regeneration of hair cells.
+
+Boldizar H(1), Friedman A(1), Stanley T(1), Padilla M(2), Galdieri J(1), Sclar 
+A(1), Stawicki TM(1).
+
+Author information:
+(1)Neuroscience Program, Lafayette College, Easton, PA 18042, USA.
+(2)Biology Department, Lafayette College, Easton, PA 18042, USA.
+
+Mutations impacting cilia genes lead to a class of human diseases known as 
+ciliopathies. This is due to the role of cilia in the development, survival, and 
+regeneration of many cell types. We investigated the extent to which disrupting 
+cilia impacted these processes in lateral line hair cells of zebrafish. We found 
+that mutations in two intraflagellar transport (IFT) genes, ift88 and dync2h1, 
+which lead to the loss of kinocilia, caused increased hair cell apoptosis. IFT 
+gene mutants also have a decreased mitochondrial membrane potential, and 
+blocking the mitochondrial uniporter causes a loss of hair cells in wild-type 
+zebrafish but not mutants, suggesting mitochondria dysfunction may contribute to 
+the apoptosis seen in these mutants. These mutants also showed decreased 
+proliferation during hair cell regeneration but did not show consistent changes 
+in support cell number or proliferation during hair cell development. These 
+results show that the loss of hair cells seen following disruption of cilia 
+through either mutations in anterograde or retrograde IFT genes appears to be 
+due to impacts on hair cell survival but not necessarily development in the 
+zebrafish lateral line.
+
+© 2024. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/bio.061690
+PMCID: PMC11413933
+PMID: 39263863 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing or financial interests.
+
+
+3. Int J Mol Sci. 2024 May 30;25(11):6040. doi: 10.3390/ijms25116040.
+
+SMYD3 Controls Ciliogenesis by Regulating Distinct Centrosomal Proteins and 
+Intraflagellar Transport Trafficking.
+
+Agborbesong E(1)(2), Zhou JX(1)(2), Zhang H(3), Li LX(1)(2), Harris PC(1)(2), 
+Calvet JP(3), Li X(1)(2).
+
+Author information:
+(1)Department of Internal Medicine, Mayo Clinic, Rochester, MN 55905, USA.
+(2)Department of Biochemistry and Molecular Biology, Mayo Clinic, Rochester, MN 
+55905, USA.
+(3)Department of Biochemistry and Molecular Biology, University of Kansas 
+Medical Center, Kansas City, KS 66160, USA.
+
+The primary cilium is a microtubule-based sensory organelle that plays a 
+critical role in signaling pathways and cell cycle progression. Defects in the 
+structure and/or function of the primary cilium result in developmental diseases 
+collectively known as ciliopathies. However, the constituents and regulatory 
+mechanisms of the primary cilium are not fully understood. In recent years, the 
+activity of the epigenetic modifier SMYD3 has been shown to play a key role in 
+the regulation of cell cycle progression. However, whether SMYD3, a 
+histone/lysine methyltransferase, contributes to the regulation of ciliogenesis 
+remains unknown. Here, we report that SMYD3 drives ciliogenesis via the direct 
+and indirect regulation of cilia-associated components. We show that SMYD3 is a 
+novel component of the distal appendage and is required for centriolar appendage 
+assembly. The loss of SMYD3 decreased the percentage of ciliated cells and 
+resulted in the formation of stumpy cilia. We demonstrated that SMYD3 modulated 
+the recruitment of centrosome proteins (Cep164, Fbf1, Ninein, Ttbk2 and Cp110) 
+and the trafficking of intraflagellar transport proteins (Ift54 and Ift140) 
+important for cilia formation and maintenance, respectively. In addition, we 
+showed that SMYD3 regulated the transcription of cilia genes and bound to the 
+promoter regions of C2cd3, Cep164, Ttbk2, Dync2h1 and Cp110. This study provides 
+insights into the role of SMYD3 in cilia biology and suggests that 
+SMYD3-mediated cilia formation/function may be relevant for cilia-dependent 
+signaling in ciliopathies.
+
+DOI: 10.3390/ijms25116040
+PMCID: PMC11172885
+PMID: 38892227 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+4. Mol Syndromol. 2024 Mar;15(2):119-124. doi: 10.1159/000534031. Epub 2023 Nov 3.
+
+Reanalysis of Whole-Exome Sequencing Data of an Infant with Suspected Diagnosis 
+of Jeune Syndrome Revealed a Likely Pathogenic Variant in GRK2: A Newly 
+Associated Gene for Jeune Syndrome Phenotype.
+
+Topcu V(1), Yildirim SF(1), Turan HM(1).
+
+Author information:
+(1)Department of Medical Genetics, Ankara City Hospital, Ankara, Turkey.
+
+INTRODUCTION: Ciliopathies with major skeletal involvement embrace a group of 
+heterogeneous disorders caused by pathogenic variants in a group of diverse 
+genes. A narrow thorax with shortening of long bones inspires a clinical entity 
+underlined by dysfunction of primary cilia. Currently, more than 23 genes are 
+listed in the OMIM database corresponding to this clinical entity: 
+WDR19/34/35/60, IFT43/52/80/81/140/172, DYNC2LI1, TTC21B, DYNLT2B, EVC2, EVC, 
+INTU, NEK1, CEP120, DYNC2H1, KIAA0586, SRTD1, KIAA0753, and SRTD12. Recently, 
+individuals with biallelic loss-of-function variants in GRK2 are shown to 
+demonstrate a phenotype compatible with Jeune syndrome. Experimental evidence 
+has shown that impaired function of GRK2 compromises cilia-based signaling of 
+Hedgehog pathway as well as Wnt signaling, while cilia morphology remains 
+intact. Hence, GRK2 is now considered an essential protein in regulation of the 
+skeletogenesis.
+CASE PRESENTATION: We presented a female infant born to a consanguineous 
+marriage who was found to have a biallelic p.R474* alteration in GRK2 in 
+reanalysis of the whole-exome sequencing (WES) data. The patient was exhibiting 
+major clinical features of Jeune syndrome, such as shortened long bones, ribs, 
+and narrow thorax.
+DISCUSSION: Our reanalysis of WES data revealed a likely pathogenic biallelic 
+variant in the GRK2 which is probably responsible for the Jeune syndrome 
+phenotype in the patient. Hence, our report supports the recently discovered 
+association of GRK2 loss-of-function variants with Jeune syndrome phenotype and 
+emphasizes the significance of reanalysis of WES data, notably in patients with 
+phenotypes suggestive of a such discernible Mendelian disorder.
+
+© 2023 S. Karger AG, Basel.
+
+DOI: 10.1159/000534031
+PMCID: PMC10996335
+PMID: 38585547
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+5. BMC Med Genomics. 2023 Dec 7;16(1):318. doi: 10.1186/s12920-023-01753-y.
+
+Clinical features and genetic analysis of a case series of skeletal ciliopathies 
+in a prenatal setting.
+
+Peng Y(1), Zhou L(2), Chen J(2), Huang X(2), Pang J(2), Liu J(2), Tang W(2), 
+Yang S(2), Liang C(2), Xie W(3).
+
+Author information:
+(1)Prenatal Diagnosis Center, National Health Commission Key Laboratory of Birth 
+Defects for Research and Prevention, Hunan Provincial Maternal and Child Health 
+Care Hospital, Changsha, 410008, Hunan, China, No. 53 Xiangchun Road. 
+pengyingpy@hotmail.com.
+(2)Prenatal Diagnosis Center, National Health Commission Key Laboratory of Birth 
+Defects for Research and Prevention, Hunan Provincial Maternal and Child Health 
+Care Hospital, Changsha, 410008, Hunan, China, No. 53 Xiangchun Road.
+(3)Prenatal Diagnosis Center, National Health Commission Key Laboratory of Birth 
+Defects for Research and Prevention, Hunan Provincial Maternal and Child Health 
+Care Hospital, Changsha, 410008, Hunan, China, No. 53 Xiangchun Road. 
+wanqinxie@126.com.
+
+BACKGROUND: Short-rib polydactyly syndrome (SRPS) refers to a group of lethal 
+skeletal dysplasias that can be difficult to differentiate between subtypes or 
+from other non-lethal skeletal dysplasias such as Ellis-van Creveld syndrome and 
+Jeune syndrome in a prenatal setting. We report the ultrasound and genetic 
+findings of four unrelated fetuses with skeletal dysplasias.
+METHODS: Systemic prenatal ultrasound examination was performed in the second or 
+third trimester. Genetic tests including GTG-banding, single nucleotide 
+polymorphism (SNP) array and exome sequencing were performed with amniocytes or 
+aborted fetal tissues.
+RESULTS: The major and common ultrasound anomalies for the four unrelated 
+fetuses included short long bones of the limbs and narrow thorax. No chromosomal 
+abnormalities and pathogenic copy number variations were detected. Exome 
+sequencing revealed three novel variants in the DYNC2H1 gene, namely 
+NM_001080463.2:c.6809G > A p.(Arg2270Gln), NM_001080463.2:3133C > T 
+p.(Gln1045Ter), and NM_001080463.2:c.337C > T p.(Arg113Trp); one novel variant 
+in the IFT172 gene, NM_015662.3:4540-5 T > A; and one novel variant in the WDR19 
+gene, NM_025132.4:c.2596G > C p.(Gly866Arg). The genotypes of DYNC2H1, IFT172 
+and WDR19 and the phenotypes of the fetuses give hints for the diagnosis of 
+short-rib thoracic dysplasia (SRTD) with or without polydactyly 3, 10, and 5, 
+respectively.
+CONCLUSION: Our findings expand the mutation spectrum of DYNC2H1, IFT172 and 
+WDR19 associated with skeletal ciliopathies, and provide useful information for 
+prenatal diagnosis and genetic counseling on rare skeletal disorders.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12920-023-01753-y
+PMCID: PMC10704717
+PMID: 38062428 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare that they have no commercial 
+or other conflicting interests.
+
+
+6. Eur J Hum Genet. 2024 Oct;32(10):1257-1266. doi: 10.1038/s41431-023-01488-5. 
+Epub 2023 Nov 6.
+
+Molecular investigation in individuals with orofacial clefts and 
+microphthalmia-anophthalmia-coloboma spectrum.
+
+Atique Tacla M(#)(1), de Mello Copelli M(#)(1), Pairet E(#)(2), Monlleó IL(3), 
+Ribeiro EM(4), Lustosa Mendes E(5), Helaers R(2), Vieira TP(1), Vikkula M(2), 
+Gil-da-Silva-Lopes VL(6).
+
+Author information:
+(1)Department of Translational Medicine, Area of Medical Genetics and Genomic 
+Medicine, University of Campinas (UNICAMP), Campinas, SP, Brazil.
+(2)Human Molecular Genetics, de Duve Institute, Université Catholique de 
+Louvain, Brussels, Belgium.
+(3)Clinical Genetics Service, University Hospital, Medical Genetics Sector, 
+Faculty of Medicine, Federal University of Alagoas - UFAL, Maceió, AL, Brazil.
+(4)Medical Genetics Service, Hospital Infantil Albert Sabin - HIAS, Fortaleza, 
+CE, Brazil.
+(5)Assistance Center for Cleft Lip and Palate - CAIF-HT, Curitiba, PR, Brazil.
+(6)Department of Translational Medicine, Area of Medical Genetics and Genomic 
+Medicine, University of Campinas (UNICAMP), Campinas, SP, Brazil. 
+vgslopes@unicamp.br.
+(#)Contributed equally
+
+This study describes genomic findings among individuals with both orofacial 
+clefts (OC) and microphthalmia/anophthalmia/coloboma (MAC) recorded in the 
+Brazilian Database on Craniofacial Anomalies (BDCA). Chromosomal microarray 
+analysis (CMA) and Whole Exome Sequencing (WES) were performed in 17 individuals 
+with OC-MAC. Clinical interpretation of molecular findings was based on data 
+available at the BDCA and on re-examination. No copy number variants (CNVs) 
+classified as likely pathogenic or pathogenic were detected by CMA. WES allowed 
+a conclusive diagnosis in six individuals (35.29%), two of them with variants in 
+the CHD7 gene, and the others with variants in the TFAP2A, POMT1, PTPN11, and 
+TP63 genes with the following syndromes: CHARGE, CHD7-spectrum, 
+Branchiooculofacial, POMT1-spectrum, LEOPARD, and ADULT. Variants of uncertain 
+significance (VUS) possibly associated to the phenotypes were found in six other 
+individuals. Among the individuals with VUSes, three individuals presented 
+variants in genes associated to defects of cilia structure and/or function, 
+including DYNC2H1, KIAA0586, WDR34, INTU, RPGRIP1L, KIF7, and LMNA. These 
+results show that WES was the most effective molecular approach for OC-MAC in 
+this cohort. This study also reinforces the genetic heterogeneity of OC-MAC, and 
+the importance of genes related to ciliopathies in this phenotype.
+
+© 2023. The Author(s), under exclusive licence to European Society of Human 
+Genetics.
+
+DOI: 10.1038/s41431-023-01488-5
+PMCID: PMC11499658
+PMID: 37932364 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+7. Front Mol Neurosci. 2023 Sep 22;16:1263411. doi: 10.3389/fnmol.2023.1263411. 
+eCollection 2023.
+
+The retrograde IFT dynein is required for normal function of diverse 
+mechanosensory cilia in Drosophila.
+
+Sharma Y(1), Jacobs JS(1), Sivan-Loukianova E(1), Lee E(2), Kernan MJ(2), Eberl 
+DF(1).
+
+Author information:
+(1)Department of Biology, The University of Iowa, Iowa City, IA, United States.
+(2)Department of Neurobiology and Behavior, State University of New York, Stony 
+Brook, NY, United States.
+
+INTRODUCTION: Cilia biogenesis relies on intraflagellar transport (IFT), a 
+conserved transport mechanism which functions bi-directionally to bring protein 
+complexes to the growing ciliary tip and recycle signaling and transport 
+proteins between the cilium and cell body. In Drosophila, anterograde IFT is 
+critical for assembly of sensory cilia in the neurons of both chordotonal (ch) 
+organs, which have relatively long ciliary axonemes, and external sensory (es) 
+organs, which have short axonemal segments with microtubules in distal sensory 
+segments forming non-axonemal bundles. We previously isolated the beethoven 
+(btv) mutant in a mutagenesis screen for auditory mutants. Although many btv 
+mutant flies are deaf, some retain a small residual auditory function as 
+determined both by behavior and by auditory electrophysiology.
+RESULTS: Here we molecularly characterize the btv gene and demonstrate that it 
+encodes the IFT-associated dynein-2 heavy chain Dync2h1. We also describe 
+morphological changes in Johnston's organ as flies age to 30 days, and we find 
+that morphological and electrophysiological phenotypes in this ch organ of btv 
+mutants become more severe with age. We show that NompB protein, encoding the 
+conserved IFT88 protein, an IFT complex B component, fails to be cleared from 
+chordotonal cilia in btv mutants, instead accumulating in the distorted cilia. 
+In macrochaete bristles, a class of es organ, btv mutants show a 50% reduction 
+in mechanoreceptor potentials.
+DISCUSSION: Thus, the btv-encoded Dync2h1 functions as the retrograde IFT motor 
+in the assembly of long ciliary axonemes in ch organs and is also important for 
+normal function of the short ciliary axonemes in es organs.
+
+Copyright © 2023 Sharma, Jacobs, Sivan-Loukianova, Lee, Kernan and Eberl.
+
+DOI: 10.3389/fnmol.2023.1263411
+PMCID: PMC10556659
+PMID: 37808471
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+8. Biol Open. 2023 Jul 15;12(7):bio059976. doi: 10.1242/bio.059976. Epub 2023 Jun 
+28.
+
+Dynein-2-driven intraciliary retrograde trafficking indirectly requires multiple 
+interactions of IFT54 in the IFT-B complex with the dynein-2 complex.
+
+Hiyamizu S(1), Qiu H(1), Tsurumi Y(1), Hamada Y(1), Katoh Y(1), Nakayama K(1).
+
+Author information:
+(1)Department of Physiological Chemistry, Graduate School of Pharmaceutical 
+Sciences, Kyoto University, Sakyo-ku, Kyoto 606-8501, Japan.
+
+Within cilia, the dynein-2 complex needs to be transported as an anterograde 
+cargo to achieve its role as a motor to drive retrograde trafficking of the 
+intraflagellar transport (IFT) machinery containing IFT-A and IFT-B complexes. 
+We previously showed that interactions of WDR60 and the DYNC2H1-DYNC2LI1 dimer 
+of dynein-2 with multiple IFT-B subunits, including IFT54, are required for the 
+trafficking of dynein-2 as an IFT cargo. However, specific deletion of the 
+IFT54-binding site from WDR60 demonstrated only a minor effect on dynein-2 
+trafficking and function. We here show that the C-terminal coiled-coil region of 
+IFT54, which participates in its interaction with the DYNC2H1-DYNC2LI1 dimer of 
+dynein-2 and with IFT20 of the IFT-B complex, is essential for IFT-B function, 
+and suggest that the IFT54 middle linker region between the N-terminal 
+WDR60-binding region and the C-terminal coiled-coil is required for ciliary 
+retrograde trafficking, probably by mediating the effective binding of IFT-B to 
+the dynein-2 complex, and thereby ensuring dynein-2 loading onto the anterograde 
+IFT trains. The results presented here agree with the notion predicted from the 
+previous structural models that the dynein-2 loading onto the anterograde IFT 
+train relies on intricate, multivalent interactions between the dynein-2 and 
+IFT-B complexes.
+
+© 2023. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/bio.059976
+PMCID: PMC10320715
+PMID: 37309605 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing or financial interests.
+
+
+9. J Cell Sci. 2023 Mar 1;136(5):jcs260462. doi: 10.1242/jcs.260462. Epub 2023 Feb 
+7.
+
+Multiple interactions of the dynein-2 complex with the IFT-B complex are 
+required for effective intraflagellar transport.
+
+Hiyamizu S(1), Qiu H(1), Vuolo L(2), Stevenson NL(2), Shak C(2), Heesom KJ(3), 
+Hamada Y(1), Tsurumi Y(1), Chiba S(4), Katoh Y(1), Stephens DJ(2), Nakayama 
+K(1).
+
+Author information:
+(1)Department of Physiological Chemistry, Graduate School of Pharmaceutical 
+Sciences, Kyoto University, Sakyo-ku, Kyoto 606-8501, Japan.
+(2)Cell Biology Laboratories, School of Biochemistry, Faculty of Life Sciences, 
+University of Bristol, Bristol BS8 1TD, UK.
+(3)Proteomics Facility, Faculty of Life Sciences, University of Bristol, Bristol 
+BS8 1TD, UK.
+(4)Department of Genetic Disease Research, Graduate School of Medicine, Osaka 
+City University, Abeno-ku, Osaka 545-8585, Japan.
+
+The dynein-2 complex must be transported anterogradely within cilia to then 
+drive retrograde trafficking of the intraflagellar transport (IFT) machinery 
+containing IFT-A and IFT-B complexes. Here, we screened for potential 
+interactions between the dynein-2 and IFT-B complexes and found multiple 
+interactions among the dynein-2 and IFT-B subunits. In particular, WDR60 (also 
+known as DYNC2I1) and the DYNC2H1-DYNC2LI1 dimer from dynein-2, and IFT54 (also 
+known as TRAF3IP1) and IFT57 from IFT-B contribute to the dynein-2-IFT-B 
+interactions. WDR60 interacts with IFT54 via a conserved region N-terminal to 
+its light chain-binding regions. Expression of the WDR60 constructs in 
+WDR60-knockout (KO) cells revealed that N-terminal truncation mutants lacking 
+the IFT54-binding site fail to rescue abnormal phenotypes of WDR60-KO cells, 
+such as aberrant accumulation of the IFT machinery around the ciliary tip and on 
+the distal side of the transition zone. However, a WDR60 construct specifically 
+lacking just the IFT54-binding site substantially restored the ciliary defects. 
+In line with the current docking model of dynein-2 with the anterograde IFT 
+trains, these results indicate that extensive interactions involving multiple 
+subunits from the dynein-2 and IFT-B complexes participate in their connection.
+
+© 2023. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jcs.260462
+PMCID: PMC10110421
+PMID: 36632779 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests D.J.S. is an Editor for 
+Journal of Cell Science and played no role in the editorial handling of this 
+paper. The authors declare no other competing or financial interests.
+
+
+10. Eur J Hum Genet. 2023 Apr;31(4):479-484. doi: 10.1038/s41431-022-01276-7. Epub 
+2023 Jan 4.
+
+Clinical variability in DYNC2H1-related skeletal ciliopathies includes Ellis-van 
+Creveld syndrome.
+
+Piceci-Sparascio F(1)(2), Micale L(1), Torres B(1), Guida V(1), Consoli F(1), 
+Torrente I(1), Onori A(1), Frustaci E(1), D'Asdia MC(1), Petrizzelli F(3), 
+Bernardini L(1), Mancini C(4), Soli F(5), Cocciadiferro D(6), Guadagnolo D(2), 
+Mastromoro G(2), Putotto C(7), Fontana F(8), Brunetti-Pierri N(9)(10), Novelli 
+A(6), Pizzuti A(2), Marino B(7), Digilio MC(4), Mazza T(3), Dallapiccola B(4), 
+Ruiz-Perez VL(11)(12)(13), Tartaglia M(4), Castori M(1), De Luca A(14).
+
+Author information:
+(1)Division of Medical Genetics, Fondazione IRCCS-Casa Sollievo della 
+Sofferenza, San Giovanni Rotondo, Italy.
+(2)Department of Experimental Medicine, Sapienza University of Rome, Rome, 
+Italy.
+(3)Laboratory of Bioinformatics, Fondazione IRCCS-Casa Sollievo della 
+Sofferenza, San Giovanni Rotondo, Italy.
+(4)Genetics and Rare Diseases Research Division, Ospedale Pediatrico Bambino 
+Gesù, Rome, Italy.
+(5)Medical Genetic Unit, Santa Chiara Hospital APSS, Trento, Italy.
+(6)Laboratory of Medical Genetics, Translational Cytogenomics Research Unit, 
+Bambino Gesù Children Hospital and Research Institute, IRCCS, Rome, Italy.
+(7)Department of Pediatrics, Obstetrics and Gynecology, "Sapienza" University of 
+Rome, Rome, Italy.
+(8)Pediatric Hospital, Tortona, Italy.
+(9)Department of Translational Medicine, Section of Pediatrics, Federico II 
+University, Naples, Italy.
+(10)Telethon Institute of Genetics and Medicine, Pozzuoli, Naples, Italy.
+(11)Instituto de Investigaciones Biomédicas 'Alberto Sols', CSIC-UAM, Madrid, 
+Spain.
+(12)CIBERER, Centro de Investigación Biomédica en Red de Enfermedades Raras, 
+Madrid, Spain.
+(13)Instituto de Genética Médica y Molecular (INGEMM), Hospital Universitario La 
+Paz-IdiPaz-UAM, Madrid, Spain.
+(14)Division of Medical Genetics, Fondazione IRCCS-Casa Sollievo della 
+Sofferenza, San Giovanni Rotondo, Italy. a.deluca@css-mendel.it.
+
+Deleterious variants of DYNC2H1 gene are associated with a wide spectrum of 
+skeletal ciliopathies (SC). We used targeted parallel sequencing to analyze 25 
+molecularly unsolved families with different SCs. Deleterious DYNC2H1 variants 
+were found in six sporadic patients and two monozygotic (MZ) twins. Clinical 
+diagnoses included short rib-polydactyly type 3 in two cases, and asphyxiating 
+thoracic dystrophy (ATD) in one case. Remarkably, clinical diagnosis fitted with 
+EvC, mixed ATD/EvC and short rib-polydactyly/EvC phenotypes in three sporadic 
+patients and the MZ twins. EvC/EvC-like features always occurred in compound 
+heterozygotes sharing a previously unreported splice site change (c.6140-5A>G) 
+or compound heterozygotes for two missense variants. These results expand the 
+DYNC2H1 mutational repertoire and its clinical spectrum, suggesting that EvC may 
+be occasionally caused by DYNC2H1 variants presumably acting as hypomorphic 
+alleles.
+
+© 2023. The Author(s), under exclusive licence to European Society of Human 
+Genetics.
+
+DOI: 10.1038/s41431-022-01276-7
+PMCID: PMC10133340
+PMID: 36599940 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+11. Cold Spring Harb Mol Case Stud. 2022 Dec 28;8(7):a006254. doi: 
+10.1101/mcs.a006254. Print 2022 Dec.
+
+Characterization of a novel deep-intronic variant in DYNC2H1 identified by 
+whole-exome sequencing in a patient with a lethal form of a short-rib thoracic 
+dysplasia type III.
+
+Buchh M(#)(1), Gillespie PJ(#)(1), Treat K(1)(2)(3), Abreu MA(1), Schwantes-An 
+TL(1)(2)(3), Helm BM(1)(2)(3), Fang F(1), Xuei X(1), Mantcheva L(1), Suhrie 
+KR(1), Graham BH(1), Conboy E(#)(1)(2)(3), Vetrini F(#)(1)(2)(3).
+
+Author information:
+(1)Indiana University School of Medicine, Indianapolis, Indiana 46202, USA.
+(2)Department of Medical and Molecular Genetics, Indiana University School of 
+Medicine, Indianapolis, Indiana 46202, USA.
+(3)Undiagnosed Rare Disease Clinic (URDC), Indiana University School of 
+Medicine. Indianapolis, Indiana 46202, USA.
+(#)Contributed equally
+
+Biallelic pathogenic variants in DYNC2H1 are the cause of short-rib thoracic 
+dysplasia type III with or without polydactyly (OMIM #613091), a skeletal 
+ciliopathy characterized by thoracic hypoplasia due to short ribs. In this 
+report, we review the case of a patient who was admitted to the Neonatal 
+Intensive Care Unit (NICU) of Indiana University Health (IUH) for respiratory 
+support after experiencing respiratory distress secondary to a small, narrow 
+chest causing restrictive lung disease. Additional phenotypic features include 
+postaxial polydactyly, short proximal long bones, and ambiguous genitalia were 
+noted. Exome sequencing (ES) revealed a maternally inherited likely pathogenic 
+variant c.10322C > T p.(Leu3448Pro) in the DYNC2H1 gene. However, there was no 
+variant found on the paternal allele. Microarray analysis to detect deletion or 
+duplication in DYNC2H1 was normal. Therefore, there was insufficient evidence to 
+establish a molecular diagnosis. To further explore the data and perform 
+additional investigations, the patient was subsequently enrolled in the 
+Undiagnosed Rare Disease Clinic (URDC) at Indiana University School of Medicine 
+(IUSM). The investigators at the URDC performed a reanalysis of the ES raw data, 
+which revealed a paternally inherited DYNC2H1 deep-intronic variant c.10606-14A 
+> G predicted to create a strong cryptic acceptor splice site. Additionally, the 
+RNA sequencing of fibroblasts demonstrated partial intron retention predicted to 
+cause a premature stop codon and nonsense-mediated mRNA decay (NMD). Droplet 
+digital RT-PCR (RT-ddPCR) showed a drastic reduction by 74% of DYNCH2H1 mRNA 
+levels. As a result, the intronic variant was subsequently reclassified as 
+likely pathogenic resulting in a definitive clinical and genetic diagnosis for 
+this patient. Reanalysis of ES and fibroblast mRNA experiments confirmed the 
+pathogenicity of the splicing variants to supplement critical information not 
+revealed in original ES or CMA reports. The NICU and URDC collaboration ended 
+the diagnostic odyssey for this family; furthermore, its importance is 
+emphasized by the possibility of prenatally diagnosing the mother's current 
+pregnancy.
+
+© 2022 Buchh et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/mcs.a006254
+PMCID: PMC9808550
+PMID: 36442996 [Indexed for MEDLINE]
+
+
+12. J Oral Pathol Med. 2022 Sep;51(8):755-761. doi: 10.1111/jop.13339. Epub 2022 Aug 
+18.
+
+Pathogenic variant of DYNC2H1 associated with lingual hamartoma in a Chinese 
+pedigree.
+
+Zhao W(1), Ye G(2), Li Q(2), Zhou Y(2), Yu X(2), Li Y(2), Yu M(2), Wang H(1)(2).
+
+Author information:
+(1)Department of Oral and Maxillofacial Surgery, The First Affiliated Hospital 
+of Zhejiang University School of Medicine, School of Stomatology, and Key 
+Laboratory of Oral Biomedical Research of Zhejiang Province, Hangzhou, China.
+(2)Stomatology Hospital, School of Stomatology, Zhejiang University School of 
+Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key 
+Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of 
+Zhejiang University, Hangzhou, China.
+
+BACKGROUND: Molecular etiology of lingual hamartoma is poorly understood. This 
+study aims to identify potentially deleterious mutations for lingual hamartoma 
+and analyze its molecular profile by a combination of whole-exome sequencing and 
+RNA-sequencing.
+METHODS: Whole-exome sequencing was conducted on the proband presenting lingual 
+hamartoma and patient's unaffected family members. Potentially pathogenic 
+mutations were identified after filtration. The pathogenicity of the identified 
+variants was predicted by in silico algorithms and conservative analysis. 
+RNA-sequencing was performed to further explore the molecular profile of lingual 
+hamartoma.
+RESULTS: Whole-exome sequencing of the proband and patients' unaffected brother 
+and parents identified a de novo mutation c.931C>T_p.Pro311Ser in the DYNC2H1 
+gene (NM_001080463.2). The DYNC2H1 mutation was predicted to be disease-causing 
+for affecting highly conserved amino acid by PolyPhen2 and Mutation Taster. 
+RNA-sequencing analysis showed that the DYNC2H1 gene was significantly 
+down-regulated in lingual hamartoma. Gene set enrichment analysis revealed 
+cilium assembly and Hedgehog signaling pathway were significantly affected.
+CONCLUSION: The study expanded our knowledge on the clinical and genetic 
+spectrum of lingual hamartoma by identifying causal variants in a Chinese 
+pedigree. DYNC2H1 is likely to participate in tongue development and its 
+pathologic mutation may underlie the etiology of lingual hamartoma.
+
+© 2022 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.13339
+PMID: 36087272 [Indexed for MEDLINE]
+
+
+13. J Med Genet. 2023 Apr;60(4):337-345. doi: 10.1136/jmg-2022-108435. Epub 2022 Aug 
+4.
+
+Ellis-Van Creveld Syndrome: Clinical and Molecular Analysis of 50 Individuals.
+
+Aubert-Mucca M(1), Huber C(2), Baujat G(1)(2), Michot C(1)(2), Zarhrate M(3), 
+Bras M(4), Boutaud L(2)(5), Malan V(2)(5), Attie-Bitach T(2)(5); Clinical 
+Contributors; Cormier-Daire V(6)(2).
+
+Collaborators: Alembik Y, Alex-Cordier MP, Aziza J, Capri Y, Caeymaen L, Carles 
+D, Devillard F, Devriendt K, Dieux A, Dubucs C, Chehadeh SE, Faivre L, 
+Francannet C, Gaillard D, Gérard M, Ginglinger E, Gonzales M, Isidor B, Jobic F, 
+Julia S, Layet V, Lambert L, Manouvrier S, Martin-Coignard D, Mathieu M, 
+Megarbané A, Melki J, Mortier G, Ormieres C, Pelluard F, Putoux A, Quélin C, 
+Sigaudy S, Spaccini L, Verloes A, Zaafrane K.
+
+Author information:
+(1)Centre de Référence des Maladies Osseuses Constitutionnelles, Service de 
+Médecine Génomique des Maladies Rares, Hôpital Universitaire Necker-Enfants 
+Malades, Paris, France.
+(2)Université Paris Cité, INSERM UMR 1163, Imagine Institute, Paris, France.
+(3)Genomics Core Facility, Institut Imagine-Structure Fédérative de Recherche 
+Necker, INSERM U1163 et INSERM US24/CNRS UMS3633, Imagine Institute, Paris, 
+France.
+(4)Bioinformatics Platform, Imagine Institute, Paris, France.
+(5)Service de Médecine Génomique des Maladies Rares, Hopital Universitaire 
+Necker-Enfants Malades, Paris, France.
+(6)Centre de Référence des Maladies Osseuses Constitutionnelles, Service de 
+Médecine Génomique des Maladies Rares, Hôpital Universitaire Necker-Enfants 
+Malades, Paris, France valerie.cormier-daire@inserm.fr.
+
+BACKGROUND: Ellis-Van Creveld (EVC) syndrome is one of the entities belonging to 
+the skeletal ciliopathies short rib-polydactyly subgroup. Major signs are 
+ectodermal dysplasia, chondrodysplasia, polydactyly and congenital cardiopathy, 
+with a high degree of variability in phenotypes ranging from lethal to mild 
+clinical presentations. The EVC and EVC2 genes are the major genes causative of 
+EVC syndrome. However, an increased number of genes involved in the ciliopathy 
+complex have been identified in EVC syndrome, leading to a better understanding 
+of its physiopathology, namely, WDR35, GLI1, DYNC2LI1, PRKACA, PRKACB and SMO. 
+They all code for proteins located in the primary cilia, playing a key role in 
+signal transduction of the Hedgehog pathways.
+METHODS: The aim of this study was the analysis of 50 clinically identified EVC 
+cases from 45 families to further define the phenotype and molecular bases of 
+EVC.
+RESULTS: Our detection rate in the cohort of 45 families was of 91.11%, with 
+variants identified in EVC/EVC2 (77.8%), DYNC2H1 (6.7%), DYNC2LI1 (2.2%), SMO 
+(2.2%) or PRKACB (2.2%). No distinctive feature was remarkable of a specific 
+genotype-phenotype correlation. Interestingly, we identified a high proportion 
+of heterozygous deletions in EVC/EVC2 of variable sizes (26.92%), mostly 
+inherited from the mother, and probably resulting from recombinations involving 
+Alu sequences.
+CONCLUSION: We confirmed that EVC and EVC2 are the major genes involved in the 
+EVC phenotype and highlighted the high prevalence of previously unreported CNVs 
+(Copy Number Variation).
+
+© Author(s) (or their employer(s)) 2023. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/jmg-2022-108435
+PMID: 35927022 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+14. Genes (Basel). 2022 Jul 27;13(8):1339. doi: 10.3390/genes13081339.
+
+Prenatal Diagnosis of Jeune Syndrome Caused by Compound Heterozygous Variants in 
+DYNC2H1 Gene-Case Report with Rapid WES Procedure and Differential Diagnosis of 
+Lethal Skeletal Dysplasias.
+
+Stembalska A(1), Rydzanicz M(2), Klaniewska M(3), Dudarewicz L(4), Pollak A(2), 
+Biela M(3), Stawinski P(2), Ploski R(2), Smigiel R(3).
+
+Author information:
+(1)Department of Genetics, Medical University, Marcinkowskiego 1, 50-368 
+Wroclaw, Poland.
+(2)Department of Medical Genetics, Medical University of Warsaw, Adolfa 
+Pawińskiego 3c, 02-106 Warsaw, Poland.
+(3)Department of Family and Pediatric Nursing, Medical University, Bartla 5, 
+51-618 Wroclaw, Poland.
+(4)Department of Genetics, Polish Mother's Memorial Hospital-Research Institute, 
+Rzgowska 281/289, 93-338 Lodz, Poland.
+
+Skeletal dysplasias (SDs) are a large, heterogeneous group of mostly genetic 
+disorders that affect the bones and cartilage, resulting in abnormal growth and 
+development of skeletal structures. The high clinical and genetic diversity in 
+SDs cause difficulties in prenatal diagnosis. To establish a correct prognosis 
+and better management, it is very important to distinguish SDs with poor 
+life-limiting prognosis or lethal SDs from other ones. Bad prognosis in foetuses 
+is assessed on the basis of the size of the thorax, lung volumes, long bones’ 
+length, bones’ echogenicity, bones’ angulation or presented fractures, and the 
+concomitant presence of non-immune hydrops or visceral abnormalities. To confirm 
+SD diagnosis and perform family genetic consultation, rapid molecular 
+diagnostics are needed; therefore, the NGS method using a panel of genes 
+corresponding to SD or whole-exome sequencing (WES) is commonly used. We report 
+a case of a foetus showing long bones’ shortening and a narrow chest with short 
+ribs, diagnosed prenatally with asphyxiating thoracic dystrophy, also known as 
+Jeune syndrome (ATD; OMIM 208500), caused by compound heterozygous variants in 
+the DYNC2H1 gene, identified by prenatally performed rapid-WES analysis. The 
+missense variants in the DYNC2H1 gene were inherited from the mother (c.7289T>C; 
+p.Ile2430Thr) and from the father (c.12716T>G; p.Leu4239Arg). The DYNC2H1 gene 
+is one of at least 17 ATD-associated genes. This disorder belongs to the ninth 
+group of SD, ciliopathies with major skeletal involvement. An extremely narrow, 
+bell-shaped chest, and abnormalities of the kidneys, liver, and retinas were 
+observed in most cases of ATD. Next to lethal and severe forms, clinically mild 
+forms have also been reported. A diagnosis of ATD is important to establish the 
+prognosis and management for the patient, as well as the recurrence risk for the 
+family.
+
+DOI: 10.3390/genes13081339
+PMCID: PMC9332837
+PMID: 35893076 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+15. J Med Genet. 2022 Dec;59(12):1151-1164. doi: 10.1136/jmedgenet-2022-108476. Epub 
+2022 Jun 28.
+
+Uncovering the burden of hidden ciliopathies in the 100 000 Genomes Project: a 
+reverse phenotyping approach.
+
+Best S(1)(2), Yu J(3), Lord J(4)(5), Roche M(6), Watson CM(1)(7), Bevers RPJ(8), 
+Stuckey A(8), Madhusudhan S(9), Jewell R(2), Sisodiya SM(10)(11), Lin S(12)(13), 
+Turner S(12), Robinson H(13), Leslie JS(14), Baple E(14)(15); Genomics England 
+Research Consortium; Toomes C(1), Inglehearn C(1), Wheway G(4)(5), Johnson 
+CA(16).
+
+Collaborators: Ambrose JC, Arumugam P, Bevers R, Bleda M, Boardman-Pretty F, 
+Boustred CR, Brittain H, Brown MA, Caulfield MJ, Chan GC, Fowler T, Giess A, 
+Hamblin A, Henderson S, Hubbard T, Jackson R, Jones LJ, Kasperaviciute D, 
+Kayikci M, Kousathanas A, Lahnstein L, Leigh S, Leong I, Lopez FJ, Maleady-Crowe 
+F, McEntagart M, Minneci F, Moutsianas L, Mueller M, Murugaesu N, Need AC, 
+O'Donovan P, Odhams CA, Patch C, Perez-Gil D, Pereira MB, Pullinger J, Rahim T, 
+Rendon A, Rogers T, Savage K, Sawant K, Scott RH, Siddiq A, Sieghart A, Smith 
+SC, Sosinsky A, Stuckey A, Tanguy M, Taylor Tavares AL, Thomas E, Thompson SR, 
+Tucci A, Welland MJ, Williams E, Witkowska K, Wood SM.
+
+Author information:
+(1)Division of Molecular Medicine, Leeds Institute of Medical Research, 
+University of Leeds, Leeds, UK.
+(2)Yorkshire Regional Genetics Service, Leeds Teaching Hospitals NHS Trust, 
+Leeds, UK.
+(3)Nuffield Department of Clinical Neurosciences, John Radcliffe Hospital, 
+University of Oxford, Oxford, UK.
+(4)University Hospital Southampton NHS Foundation Trust, Southampton, UK.
+(5)Faculty of Medicine, Human Development and Health, University of Southampton, 
+Southampton, UK.
+(6)Windsor House Group Practice, Mid Yorkshire Hospitals NHS Trust, Leeds, UK.
+(7)North East and Yorkshire Genomic Laboratory Hub, Central Lab, Leeds Teaching 
+Hospitals NHS Trust, Leeds, UK.
+(8)Genomics England, Queen Mary University of London, London, UK.
+(9)St. Paul's Eye Unit, Royal Liverpool University Hospital, Liverpool, UK.
+(10)University College London (UCL) Queen Square Institute of Neurology, London, 
+UK.
+(11)Chalfont Centre for Epilepsy, Chalfont, UK.
+(12)Department of Ophthalmology, Torbay and South Devon NHS Foundation Trust, 
+Torquay, UK.
+(13)Exeter Genomics Laboratory, Royal Devon and Exeter NHS Foundation Trust, 
+Exeter, UK.
+(14)RILD Wellcome Wolfson Centre, University of Exeter Medical School, Exeter, 
+UK.
+(15)Peninsula Clinical Genetics Service, Royal Devon and Exeter NHS Foundation 
+Trust, Exeter, UK.
+(16)Division of Molecular Medicine, Leeds Institute of Medical Research, 
+University of Leeds, Leeds, UK c.johnson@leeds.ac.uk.
+
+BACKGROUND: The 100 000 Genomes Project (100K) recruited National Health Service 
+patients with eligible rare diseases and cancer between 2016 and 2018. PanelApp 
+virtual gene panels were applied to whole genome sequencing data according to 
+Human Phenotyping Ontology (HPO) terms entered by recruiting clinicians to guide 
+focused analysis.
+METHODS: We developed a reverse phenotyping strategy to identify 100K 
+participants with pathogenic variants in nine prioritised disease genes (BBS1, 
+BBS10, ALMS1, OFD1, DYNC2H1, WDR34, NPHP1, TMEM67, CEP290), representative of 
+the full phenotypic spectrum of multisystemic primary ciliopathies. We mapped 
+genotype data 'backwards' onto available clinical data to assess potential 
+matches against phenotypes. Participants with novel molecular diagnoses and key 
+clinical features compatible with the identified disease gene were reported to 
+recruiting clinicians.
+RESULTS: We identified 62 reportable molecular diagnoses with variants in these 
+nine ciliopathy genes. Forty-four have been reported by 100K, 5 were previously 
+unreported and 13 are new diagnoses. We identified 11 participants with 
+unreportable, novel molecular diagnoses, who lacked key clinical features to 
+justify reporting to recruiting clinicians. Two participants had likely 
+pathogenic structural variants and one a deep intronic predicted splice variant. 
+These variants would not be prioritised for review by standard 100K diagnostic 
+pipelines.
+CONCLUSION: Reverse phenotyping improves the rate of successful molecular 
+diagnosis for unsolved 100K participants with primary ciliopathies. Previous 
+analyses likely missed these diagnoses because incomplete HPO term entry led to 
+incorrect gene panel choice, meaning that pathogenic variants were not 
+prioritised. Better phenotyping data are therefore essential for accurate 
+variant interpretation and improved patient benefit.
+
+© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/jmedgenet-2022-108476
+PMCID: PMC9691823
+PMID: 35764379 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: RPJB and AS are employed by 
+Genomics England Ltd, UK. GW is employed by Illumina. The other authors declare 
+no conflict of interest.
+
+
+16. J Hum Genet. 2022 Jul;67(7):427-440. doi: 10.1038/s10038-022-01020-5. Epub 2022 
+Feb 9.
+
+Comprehensive genetic analysis using next-generation sequencing for the 
+diagnosis of nephronophthisis-related ciliopathies in the Japanese population.
+
+Sakakibara N(1), Nozu K(1), Yamamura T(1), Horinouchi T(1), Nagano C(1), Ye 
+MJ(1), Ishiko S(1), Aoto Y(1), Rossanti R(1), Hamada R(2), Okamoto N(3), Shima 
+Y(4), Nakanishi K(5), Matsuo M(6), Iijima K(1)(7), Morisada N(8)(9).
+
+Author information:
+(1)Department of Pediatrics, Kobe University Graduate School of Medicine, Kobe, 
+Japan.
+(2)Department of Nephrology, Tokyo Metropolitan Children's Medical Center, 
+Tokyo, Japan.
+(3)Department of Medical Genetics, Osaka Women's and Children's Hospital, Osaka, 
+Japan.
+(4)Department of Pediatrics, Wakayama Medical University, Wakayama, Japan.
+(5)Department of Child Health and Welfare (Pediatrics), Graduate School of 
+Medicine, University of the Ryukyus, Nishihara, Japan.
+(6)KNC Department of Nucleic Acid Drug Discovery, Faculty of Rehabilitation, 
+Kobe Gakuin University, Kobe, Japan.
+(7)Hospital Director, Hyogo Prefectural Kobe Children's Hospital, Kobe, Japan.
+(8)Department of Pediatrics, Kobe University Graduate School of Medicine, Kobe, 
+Japan. morisada@med.kobe-u.ac.jp.
+(9)Department of Clinical Genetics, Hyogo Prefectural Kobe Children's Hospital, 
+Kobe, Japan. morisada@med.kobe-u.ac.jp.
+
+Nephronophthisis is an autosomal-recessive kidney disease that is caused by 
+abnormalities in primary cilia. Nephronophthisis-related ciliopathies (NPHP-RCs) 
+are a common cause of end-stage kidney disease (ESKD) in children and 
+adolescents. NPHP-RCs are often accompanied by extrarenal manifestations, 
+including intellectual disability, retinitis pigmentosa, or polydactyly. 
+Although more than 100 causative genes have been identified, its diagnosis is 
+difficult because the clinical features of each mutation often overlap. From 
+September 2010 to August 2021, we performed genetic analysis, including 
+next-generation sequencing (NGS), in 574 probands with kidney dysfunction and 
+retrospectively studied cases genetically diagnosed with NPHP-RCs. RESULTS: We 
+detected mutations related to NPHP-RCs in 93 patients from 83 families. Members 
+of 60 families were diagnosed using NGS, and the mutations and the corresponding 
+number of families are as follows: NPHP1 (24), NPHP3 (10), OFD1 (7), WDR35 (5), 
+SDCCAG8 (4), BBS10 (3), TMEM67 (3), WDR19 (3), BBS1 (2), BBS2 (2), IFT122 (2), 
+IFT140 (2), IQCB1 (2), MKKS (2), SCLT1 (2), TTC21B (2), ALMS1 (1), ANKS6 (1), 
+BBS4 (1), BBS12 (1), CC2D2A (1), DYNC2H1 (1), IFT172 (1), and MAPKBP1 (1). A 
+total of 39 cases (41.9%) progressed to ESKD at the time of genetic analysis, 
+whereas 58 cases (62.3%) showed extrarenal manifestations, the most common being 
+developmental delay, intellectual disability, and autism spectrum disorder in 44 
+patients. Comprehensive genetic analysis using NGS is useful for diagnosing 
+patients with NPHP-RCs.
+
+© 2022. The Author(s), under exclusive licence to The Japan Society of Human 
+Genetics.
+
+DOI: 10.1038/s10038-022-01020-5
+PMID: 35140360 [Indexed for MEDLINE]
+
+
+17. Hum Mol Genet. 2022 Jul 21;31(14):2307-2316. doi: 10.1093/hmg/ddab366.
+
+Sporadic hypothalamic hamartoma is a ciliopathy with somatic and bi-allelic 
+contributions.
+
+Green TE(1), Motelow JE(2), Bennett MF(1)(3)(4), Ye Z(1), Bennett CA(1), Griffin 
+NG(2), Damiano JA(1), Leventer RJ(5)(6)(7), Freeman JL(5)(7), Harvey 
+AS(5)(6)(7), Lockhart PJ(6)(7), Sadleir LG(8), Boys A(9), Scheffer 
+IE(1)(5)(7)(10), Major H(11), Darbro BW(11), Bahlo M(3)(4), Goldstein DB(2)(12), 
+Kerrigan JF(13), Heinzen EL(14), Berkovic SF(1), Hildebrand MS(1)(7).
+
+Author information:
+(1)Epilepsy Research Centre, Department of Medicine, The University of 
+Melbourne, Austin Health, Heidelberg, VIC 3084, Australia.
+(2)Institute for Genomic Medicine, Columbia University, New York, NY 10032, USA.
+(3)Population Health and Immunity Division, The Walter and Eliza Hall Institute 
+of Medical Research, Melbourne, Victoria 3052, Australia.
+(4)Department of Medical Biology, University of Melbourne, Melbourne, Victoria 
+3052, Australia.
+(5)Department of Neurology, The Royal Children's Hospital, Parkville, VIC 3052, 
+Australia.
+(6)Department of Paediatrics, University of Melbourne, Royal Children's 
+Hospital, Parkville, VIC 3052, Australia.
+(7)Murdoch Children's Research Institute, The Royal Children's Hospital, 
+Parkville, VIC 3052, Australia.
+(8)Department of Paediatrics and Child Health, University of Otago, Wellington 
+6242, New Zealand.
+(9)Victorian Clinical Genetics Services, Parkville, VIC 3052, Australia.
+(10)The Florey Institute of Neuroscience and Mental Health, Parkville, VIC 3052, 
+Australia.
+(11)Department of Pediatrics, The University of Iowa, Iowa City, IA 52246, USA.
+(12)Department of Genetics and Development, Columbia University, New York, NY 
+10032, USA.
+(13)Division of Pediatric Neurology, Barrow Neurological Institute, Phoenix 
+Children's Hospital, Phoenix, AZ 85013, USA.
+(14)Eshelman School of Pharmacy, Division of Pharmacotherapy and Experimental 
+Therapeutics, and Department of Genetics, University of North Carolina, Chapel 
+Hill, NC 27599, USA.
+
+Hypothalamic hamartoma with gelastic seizures is a well-established cause of 
+drug-resistant epilepsy in early life. The development of novel surgical 
+techniques has permitted the genomic interrogation of hypothalamic hamartoma 
+tissue. This has revealed causative mosaic variants within GLI3, OFD1 and other 
+key regulators of the sonic-hedgehog pathway in a minority of cases. 
+Sonic-hedgehog signalling proteins localize to the cellular organelle primary 
+cilia. We therefore explored the hypothesis that cilia gene variants may 
+underlie hitherto unsolved cases of sporadic hypothalamic hamartoma. We 
+performed high-depth exome sequencing and chromosomal microarray on surgically 
+resected hypothalamic hamartoma tissue and paired leukocyte-derived DNA from 27 
+patients. We searched for both germline and somatic variants under both dominant 
+and bi-allelic genetic models. In hamartoma-derived DNA of seven patients we 
+identified bi-allelic (one germline, one somatic) variants within one of four 
+cilia genes-DYNC2I1, DYNC2H1, IFT140 or SMO. In eight patients, we identified 
+single somatic variants in the previously established hypothalamic hamartoma 
+disease genes GLI3 or OFD1. Overall, we established a plausible molecular cause 
+for 15/27 (56%) patients. Here, we expand the genetic architecture beyond single 
+variants within dominant disease genes that cause sporadic hypothalamic 
+hamartoma to bi-allelic (one germline/one somatic) variants, implicate three 
+novel cilia genes and reconceptualize the disorder as a ciliopathy.
+
+© The Author(s) 2022. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/hmg/ddab366
+PMCID: PMC9307310
+PMID: 35137044 [Indexed for MEDLINE]
+
+
+18. J Reprod Immunol. 2022 Mar;150:103486. doi: 10.1016/j.jri.2022.103486. Epub 2022 
+Jan 19.
+
+Abnormal ciliogenesis in decidual stromal cells in recurrent miscarriage.
+
+Hassan E(1), Kojima R(1), Ozawa F(1), Yoshihara H(1), Goto S(1), Kitaori T(1), 
+Inagaki H(2), Kato Y(3), Sugiura-Ogasawara M(4).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Japan.
+(2)Department of Pathology and Molecular Diagnostics, Japan.
+(3)Department of Cell Biology Nagoya City University Graduate School of Medical 
+Sciences, Nagoya 467-8601, Japan. Electronic address: 
+kato.41@med.nagoya-cu.ac.jp.
+(4)Department of Obstetrics and Gynecology, Japan. Electronic address: 
+og.mym@med.nagoya-cu.ac.jp.
+
+Primary cilia regulate cellular signaling and are involved in both sensing and 
+transducing extracellular stimuli. A recent study of patients with recurrent 
+miscarriage (RM) identified mutations affecting DYNC2H1, which were involved in 
+ciliary biogenesis. However, there has been no study concerning primary cilia in 
+the decidua. We compared the number and the length of primary cilia in the 
+decidua of 15 patients with unexplained RM with those of 7 pregnant controls who 
+underwent an artificial termination of pregnancy. Immunohistochemistry was 
+performed using antibodies against primary cilia, extravillous trophoblasts 
+(EVTs), macrophages, uterine Natural Killer (uNK) cells, decidual stromal cells, 
+and the activation of TGF-β and CREB signaling in the decidua of early pregnancy 
+was studied. The density of decidual stromal cells, but not EVTs, macrophages or 
+uNK cells, was found to be significantly higher in the decidua of patients 
+compared to controls. The percentage of ciliated decidual stromal cells was 
+significantly decreased in patients. There was no difference in the primary 
+ciliary length. Regarding TGF-β signaling, p-Smad2 in these cells was diminished 
+significantly in patients, and most of the TGF-β-activated decidual stromal 
+cells of both patients and controls had primary cilia. No difference in the 
+activation of CREB was found. Abnormal primary cilia on decidual stromal cells 
+may be one of the explanatory factors for unknown RM. The inactivation of TGF-β 
+signaling may lead to abnormal ciliogenesis in the decidua.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jri.2022.103486
+PMID: 35085989 [Indexed for MEDLINE]
+
+
+19. Sci Rep. 2022 Jan 7;12(1):31. doi: 10.1038/s41598-021-03950-0.
+
+Combinations of deletion and missense variations of the dynein-2 DYNC2LI1 
+subunit found in skeletal ciliopathies cause ciliary defects.
+
+Qiu H(#)(1), Tsurumi Y(#)(1)(2), Katoh Y(1), Nakayama K(3).
+
+Author information:
+(1)Department of Physiological Chemistry, Graduate School of Pharmaceutical 
+Sciences, Kyoto University, Sakyo-ku, Kyoto, 606-8501, Japan.
+(2)General Research Institute, Hoyu Co., Ltd., Nagakute, Aichi, 480-1136, Japan.
+(3)Department of Physiological Chemistry, Graduate School of Pharmaceutical 
+Sciences, Kyoto University, Sakyo-ku, Kyoto, 606-8501, Japan. 
+kazunaka@pharm.kyoto-u.ac.jp.
+(#)Contributed equally
+
+Cilia play crucial roles in sensing and transducing extracellular signals. 
+Bidirectional protein trafficking within cilia is mediated by the intraflagellar 
+transport (IFT) machinery containing IFT-A and IFT-B complexes, with the aid of 
+kinesin-2 and dynein-2 motors. The dynein-2 complex drives retrograde 
+trafficking of the IFT machinery after its transportation to the ciliary tip as 
+an IFT cargo. Mutations in genes encoding the dynein-2-specific subunits 
+(DYNC2H1, WDR60, WDR34, DYNC2LI1, and TCTEX1D2) are known to cause skeletal 
+ciliopathies. We here demonstrate that several pathogenic variants of DYNC2LI1 
+are compromised regarding their ability to interact with DYNC2H1 and WDR60. When 
+expressed in DYNC2LI1-knockout cells, deletion variants of DYNC2LI1 were unable 
+to rescue the ciliary defects of these cells, whereas missense variants, as well 
+as wild-type DYNC2LI1, restored the normal phenotype. DYNC2LI1-knockout cells 
+coexpressing one pathogenic deletion variant together with wild-type DYNC2LI1 
+demonstrated a normal phenotype. In striking contrast, DYNC2LI1-knockout cells 
+coexpressing the deletion variant in combination with a missense variant, which 
+mimics the situation of cells of compound heterozygous ciliopathy individuals, 
+demonstrated ciliary defects. Thus, DYNC2LI1 deletion variants found in 
+individuals with skeletal ciliopathies cause ciliary defects when combined with 
+a missense variant, which expressed on its own does not cause substantial 
+defects.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-021-03950-0
+PMCID: PMC8742128
+PMID: 34997029 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+20. Front Genet. 2021 Oct 5;12:705808. doi: 10.3389/fgene.2021.705808. eCollection 
+2021.
+
+Molecular Diagnosis and Prenatal Phenotype Analysis of Eight Fetuses With 
+Ciliopathies.
+
+Liu Y(1), Wang H(2)(3), Jin X(1), Shao Q(2)(3)(4), Pan Q(1).
+
+Author information:
+(1)Department of Clinical Genetics, Huai'an Maternity and Child Clinical College 
+of Xuzhou Medical University, Huai'an, China.
+(2)Reproductive Sciences Institute, Jiangsu University, Zhenjiang, China.
+(3)Department of Immunology, Jiangsu Key Laboratory of Medical Science and 
+Laboratory Medicine, School of Medicine, Zhenjiang, China.
+(4)Jiangsu College of Nursing, School of Medical Science and Laboratory 
+Medicine, Huai'an, China.
+
+Human ciliopathies are hereditary conditions caused by variants in 
+ciliary-associated genes. Ciliopathies are often characterized by multiple 
+system defects. However, it is not easy to make a definite diagnosis in the 
+prenatal period only based on the imageology. In this report, eight new prenatal 
+cases from five unrelated families diagnosed with ciliopathies were 
+systematically examined. The clinical manifestations of these fetuses showed 
+such prenatal diagnostic features as occipital encephalocele, and polydactyly 
+and polycystic kidneys. Situs inversus caused by CPLANE1 variant was first 
+reported. In Family 1 and Family 3, homozygous variants of CPLANE1 and NPHP4 
+caused by consanguineous marriage and uniparental disomy were detected by 
+whole-exome sequencing, respectively. In Family 2, Family 4 and Family 5, 
+compound heterozygotes of TMEM67 and DYNC2H1 including two novel missense 
+variants and one novel nonsense variant were identified. The distribution of 
+pathogenic missense variants along TMEM67 gene mainly clustered in the 
+extracellular cysteine rich region, extracellular area with unknown structure, 
+and the transmembrane regions. Genotype-phenotype relationship between CPLANE1 
+and TMEM67 genes was concluded. This report describes new clinical 
+manifestations and novel variants in CPLANE1, TMEM67, NPHP4, and DYNC2H1.
+
+Copyright © 2021 Liu, Wang, Jin, Shao and Pan.
+
+DOI: 10.3389/fgene.2021.705808
+PMCID: PMC8523853
+PMID: 34675960
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+21. Mol Vis. 2021 Sep 1;27:506-517. eCollection 2021.
+
+Review: Cytoplasmic dynein motors in photoreceptors.
+
+Dahl TM(1), Baehr W(1)(2)(3).
+
+Author information:
+(1)Department of Ophthalmology, University of Utah Health Science Center, Salt 
+Lake City, UT.
+(2)Department of Neurobiology & Anatomy, University of Utah, Salt Lake City, UT.
+(3)Department of Biology, University of Utah, Salt Lake City, UT.
+
+Cytoplasmic dyneins (dynein-1 and dynein-2) transport cargo toward the minus end 
+of microtubules and thus, are termed the "retrograde" cellular motor. Dynein-1 
+cargo may include nuclei, mitochondria, membrane vesicles, lysosomes, 
+phagosomes, and other organelles. For example, dynein-1 works in the cell body 
+of eukaryotes to move cargo toward the microtubule minus end and positions the 
+Golgi complex. Dynein-1 also participates in the movement of chromosomes and the 
+positioning of mitotic spindles during cell division. In contrast, dynein-2 is 
+present almost exclusively within cilia where it participates in retrograde 
+intraflagellar transport (IFT) along the axoneme to return kinesin-2 subunits, 
+BBSome, and IFT particles to the cell body. Cytoplasmic dyneins are hefty 1.5 
+MDa complexes comprised of dimers of heavy, intermediate, light intermediate, 
+and light chains. Missense mutations of human DYNC1H1 are associated with 
+malformations of cortical development (MCD) or spinal muscular atrophy with 
+lower extremity predominance (SMA-LED). Missense mutations in DYNC2H1 are 
+causative of short-rib polydactyly syndrome type III and nonsyndromic retinitis 
+pigmentosa. We review mutations of the two dynein heavy chains and their effect 
+on postnatal retina development and discuss consequences of deletion of DYNC1H1 
+in the mouse retina.
+
+Copyright © 2021 Molecular Vision.
+
+PMCID: PMC8410232
+PMID: 34526758 [Indexed for MEDLINE]
+
+
+22. J Hum Genet. 2021 Oct;66(10):995-1008. doi: 10.1038/s10038-021-00925-x. Epub 
+2021 Apr 20.
+
+High diagnostic yield in skeletal ciliopathies using massively parallel genome 
+sequencing, structural variant screening and RNA analyses.
+
+Hammarsjö A(1), Pettersson M(2), Chitayat D(3)(4), Handa A(5), Anderlid BM(2), 
+Bartocci M(6), Basel D(7), Batkovskyte D(8), Beleza-Meireles A(9), Conner P(10), 
+Eisfeldt J(11), Girisha KM(12), Chung BH(13)(14), Horemuzova E(8)(15), Hyodo 
+H(16), Korņejeva L(17), Lagerstedt-Robinson K(2), Lin AE(18), Magnusson 
+M(19)(20), Moosa S(21), Nayak SS(12), Nilsson D(11), Ohashi H(22), Ohashi-Fukuda 
+N(16), Stranneheim H(19)(23), Taylan F(2), Traberg R(24), Voss U(25), Wirta 
+V(20)(23), Nordgren A(2), Nishimura G(8)(26), Lindstrand A(#)(2), Grigelioniene 
+G(#)(2).
+
+Author information:
+(1)Department of Molecular Medicine and Surgery, Center for Molecular Medicine, 
+Karolinska Institutet, and Department of Clinical Genetics, Karolinska 
+University Laboratory, Karolinska University Hospital, Stockholm, Sweden. 
+anna.hammarsjo@ki.se.
+(2)Department of Molecular Medicine and Surgery, Center for Molecular Medicine, 
+Karolinska Institutet, and Department of Clinical Genetics, Karolinska 
+University Laboratory, Karolinska University Hospital, Stockholm, Sweden.
+(3)Division of Clinical and Metabolic Genetics, The Hospital for Sick Children, 
+and Mt. Sinai Hospital, Toronto, ON, Canada.
+(4)The Prenatal Diagnosis and Medical Genetics Program, Department of Obstetrics 
+and Gynecology, Mount Sinai Hospital, University of Toronto, Toronto, ON, 
+Canada.
+(5)Department of Radiology, University of Iowa Hospitals and Clinics, Iowa City, 
+IA, USA.
+(6)Department of Women's and Children's Health, Neonatology, Karolinska 
+Institutet, Stockholm, Sweden.
+(7)Division of Medical Genetics, Medical College of Wisconsin, Milwaukee, WI, 
+USA.
+(8)Department of Molecular Medicine and Surgery, Center for Molecular Medicine, 
+Karolinska Institutet, Stockholm, Sweden.
+(9)Department of Clinical Genetics, University Hospitals Bristol and Weston NHS 
+Foundation Trust, Bristol, UK.
+(10)Department of Women's and Children's Health, Karolinska Institutet and 
+Center for Fetal Medicine, Karolinska University Hospital, Stockholm, Sweden.
+(11)Science for Life Laboratory, Department of Molecular Medicine and Surgery, 
+Karolinska Institutet, and Department of Clinical Genetics, Karolinska 
+University Laboratory, Karolinska University Hospital, Stockholm, Sweden.
+(12)Department of Medical Genetics, Kasturba Medical College, Manipal Academy of 
+Higher Education, Manipal, India.
+(13)Department of Pediatrics and Adolescent Medicine, The University of Hong 
+Kong and Shenzhen Hospital, Futian District, Shenzhen, China.
+(14)Department of Pediatrics and Adolescent Medicine, Queen Mary Hospital, The 
+University of Hong Kong, Hong Kong, China.
+(15)Department of Women's and Children's Health, Karolinska Institutet and 
+Paediatric Endocrinology Unit, Karolinska University Hospital, Stockholm, 
+Sweden.
+(16)Department of Obstetrics and Gynecology, Tokyo Metropolitan Bokutoh 
+Hospital, Kotobashi, Sumida-ku, Tokyo, Japan.
+(17)Department of Prenatal Diagnostics, Riga Maternity Hospital, Riga, Latvia.
+(18)Medical Genetics, MassGeneral Hospital for Children, Boston, MA, USA.
+(19)Department of Molecular Medicine and Surgery, Karolinska Institutet, and 
+Centre for Inherited Metabolic Diseases, Karolinska University Laboratory, 
+Karolinska University Hospital, Stockholm, Sweden.
+(20)Science for Life Laboratory, School of Engineering Sciences in Chemistry, 
+Biotechnology and Health, KTH Royal Institute of Technology, Stockholm, Sweden.
+(21)Medical Genetics, Tygerberg Hospital and Division of Molecular Biology and 
+Human Genetics, Faculty of Medicine and Health Sciences, Stellenbosch 
+University, Tygerberg, South Africa.
+(22)Division of Medical Genetics, Saitama Children's Medical Center, Saitama, 
+Japan.
+(23)Department of Microbiology, Tumor and Cell biology, Science for Life 
+Laboratory, Karolinska Institutet, Stockholm, Sweden.
+(24)Department of Genetics and Molecular Medicine, Lithuanian University of 
+Health Sciences, Kaunas, Lithuania.
+(25)Department of Pediatric Radiology, Karolinska University Hospital, 
+Stockholm, Sweden.
+(26)Department of Pediatric Imaging, Tokyo Metropolitan Children's Medical 
+Center, Tokyo, Japan.
+(#)Contributed equally
+
+Skeletal ciliopathies are a heterogenous group of disorders with overlapping 
+clinical and radiographic features including bone dysplasia and internal 
+abnormalities. To date, pathogenic variants in at least 30 genes, coding for 
+different structural cilia proteins, are reported to cause skeletal 
+ciliopathies. Here, we summarize genetic and phenotypic features of 34 affected 
+individuals from 29 families with skeletal ciliopathies. Molecular diagnostic 
+testing was performed using massively parallel sequencing (MPS) in combination 
+with copy number variant (CNV) analyses and in silico filtering for variants in 
+known skeletal ciliopathy genes. We identified biallelic disease-causing 
+variants in seven genes: DYNC2H1, KIAA0753, WDR19, C2CD3, TTC21B, EVC, and EVC2. 
+Four variants located in non-canonical splice sites of DYNC2H1, EVC, and 
+KIAA0753 led to aberrant splicing that was shown by sequencing of cDNA. 
+Furthermore, CNV analyses showed an intragenic deletion of DYNC2H1 in one 
+individual and a 6.7 Mb de novo deletion on chromosome 1q24q25 in another. In 
+five unsolved cases, MPS was performed in family setting. In one proband we 
+identified a de novo variant in PRKACA and in another we found a homozygous 
+intragenic deletion of IFT74, removing the first coding exon and leading to 
+expression of a shorter message predicted to result in loss of 40 amino acids at 
+the N-terminus. These findings establish IFT74 as a new skeletal ciliopathy 
+gene. In conclusion, combined single nucleotide variant, CNV and cDNA analyses 
+lead to a high yield of genetic diagnoses (90%) in a cohort of patients with 
+skeletal ciliopathies.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s10038-021-00925-x
+PMCID: PMC8472897
+PMID: 33875766 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+23. Am J Med Genet A. 2021 Mar;185(3):687-694. doi: 10.1002/ajmg.a.62013. Epub 2020 
+Dec 25.
+
+Ciliopathies: Coloring outside of the lines.
+
+Strong A(1)(2), Li D(2), Mentch F(2), Bedoukian E(3), Hartung EA(4)(5), Meyers 
+K(4)(5), Skraban C(1)(4), Wen J(6)(7), Medne L(1)(3), Glessner J(2), Watson 
+D(2)(4), Krantz I(3)(4), Hakonarson H(1)(2)(4)(8).
+
+Author information:
+(1)Division of Human Genetics, Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania, USA.
+(2)The Center for Applied Genomics, Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania, USA.
+(3)Roberts Individualized Medical Genetics Center, Children's Hospital of 
+Philadelphia, Philadelphia, Pennsylvania, USA.
+(4)Department of Pediatrics, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, Pennsylvania, USA.
+(5)Division of Nephrology, Children's Hospital of Philadelphia, Philadelphia, 
+Pennsylvania, USA.
+(6)Division of Gastroenterology, Hepatology and Nutrition, Children's Hospital 
+of Philadelphia, Philadelphia, Pennsylvania, USA.
+(7)Division of Gastroenterology, Hepatology and Nutrition, University of 
+Pennsylvania, Philadelphia, Pennsylvania, USA.
+(8)Division of Pulmonary Medicine, Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania, USA.
+
+Ciliopathy syndromes are a diverse spectrum of disease characterized by a 
+combination of cystic kidney disease, hepatobiliary disease, retinopathy, 
+skeletal dysplasia, developmental delay, and brain malformations. Though 
+generally divided into distinct disease categories based on the pattern of 
+system involvement, ciliopathy syndromes are known to display certain phenotypic 
+overlap. We performed next-generation sequencing panel testing, clinical exome 
+sequencing, and research-based exome sequencing reanalysis on patients with 
+suspected ciliopathy syndromes with additional features. We identified biallelic 
+pathogenic variants in BBS1 in a child with features of cranioectodermal 
+dysplasia, and biallelic variants in BBS12 in a child with the clinical stigmata 
+of Bardet-Biedl syndrome, but also with anal atresia. We additionally identified 
+biallelic pathogenic variants in WDR35 and DYNC2H1 in children with predominant 
+liver disease and ductal plate malformation without skeletal dysplasia. Our 
+study highlights the phenotypic and genetic diversity of ciliopathy syndromes, 
+the importance of considering ciliopathy syndromes as a disease-spectrum and 
+screening for all associated complications in all patients, and describes 
+exclusive extra-skeletal manifestations in two classical skeletal dysplasia 
+syndromes.
+
+© 2020 The Authors. American Journal of Medical Genetics Part A published by 
+Wiley Periodicals LLC.
+
+DOI: 10.1002/ajmg.a.62013
+PMCID: PMC7898607
+PMID: 33369054 [Indexed for MEDLINE]
+
+Conflict of interest statement: Jessica Wen receives research support from 
+Gilead, Abbvie and Alexion.
+
+
+24. PLoS Genet. 2020 Aug 7;16(8):e1008691. doi: 10.1371/journal.pgen.1008691. 
+eCollection 2020 Aug.
+
+Mutation of CFAP57, a protein required for the asymmetric targeting of a subset 
+of inner dynein arms in Chlamydomonas, causes primary ciliary dyskinesia.
+
+Bustamante-Marin XM(1), Horani A(2), Stoyanova M(3), Charng WL(3)(4), Bottier 
+M(5), Sears PR(1), Yin WN(1), Daniels LA(1), Bowen H(2), Conrad DF(3)(6)(7), 
+Knowles MR(1), Ostrowski LE(1), Zariwala MA(8), Dutcher SK(3).
+
+Author information:
+(1)Department of Medicine, Marsico Lung Institute, University of North Carolina, 
+Chapel Hill, North Carolina, United States of America.
+(2)Department of Pediatrics, Washington University School of Medicine, St. 
+Louis, Missouri, United States of America.
+(3)Department of Genetics, Washington University School of Medicine, St. Louis, 
+Missouri, United States of America.
+(4)Department of Neurology, Washington University School of Medicine, St. Louis, 
+Missouri, United States of America.
+(5)Department of Mechanical Engineering, Washington University, St. Louis, 
+Missouri, United States of America.
+(6)Division of Genetics, Oregon National Primate Research Center, Oregon Health 
+& Science University, Beaverton, Oregon, United States of America.
+(7)Department of Molecular and Medical Genetics, Oregon Health & Science 
+University, Portland, Oregon, United States of America.
+(8)Department of Pathology and Laboratory Medicine and the Marsico Lung 
+Institute, University of North Carolina, Chapel Hill, North Carolina, United 
+States of America.
+
+Primary ciliary dyskinesia (PCD) is characterized by chronic airway disease, 
+reduced fertility, and randomization of the left/right body axis. It is caused 
+by defects of motile cilia and sperm flagella. We screened a cohort of affected 
+individuals that lack an obvious axonemal defect for pathogenic variants using 
+whole exome capture, next generation sequencing, and bioinformatic analysis 
+assuming an autosomal recessive trait. We identified one subject with an 
+apparently homozygous nonsense variant [(c.1762C>T), p.(Arg588*)] in the 
+uncharacterized CFAP57 gene. Interestingly, the variant results in the skipping 
+of exon 11 (58 amino acids), which may be due to disruption of an exonic 
+splicing enhancer. In normal human nasal epithelial cells, CFAP57 localizes 
+throughout the ciliary axoneme. Nasal cells from the PCD patient express a 
+shorter, mutant version of CFAP57 and the protein is not incorporated into the 
+axoneme. The missing 58 amino acids include portions of WD repeats that may be 
+important for loading onto the intraflagellar transport (IFT) complexes for 
+transport or docking onto the axoneme. A reduced beat frequency and an 
+alteration in ciliary waveform was observed. Knockdown of CFAP57 in human 
+tracheobronchial epithelial cells (hTECs) recapitulates these findings. 
+Phylogenetic analysis showed that CFAP57 is highly conserved in organisms that 
+assemble motile cilia. CFAP57 is allelic with the BOP2/IDA8/FAP57 gene 
+identified previously in Chlamydomonas reinhardtii. Two independent, insertional 
+fap57 Chlamydomonas mutant strains show reduced swimming velocity and altered 
+waveforms. Tandem mass tag (TMT) mass spectroscopy shows that FAP57 is missing, 
+and the "g" inner dyneins (DHC7 and DHC3) and the "d" inner dynein (DHC2) are 
+reduced, but the FAP57 paralog FBB7 is increased. Together, our data identify a 
+homozygous variant in CFAP57 that causes PCD that is likely due to a defect in 
+the inner dynein arm assembly process.
+
+DOI: 10.1371/journal.pgen.1008691
+PMCID: PMC7444499
+PMID: 32764743 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+25. Genet Med. 2020 Dec;22(12):2041-2051. doi: 10.1038/s41436-020-0915-1. Epub 2020 
+Aug 5.
+
+DYNC2H1 hypomorphic or retina-predominant variants cause nonsyndromic retinal 
+degeneration.
+
+Vig A(#)(1)(2), Poulter JA(#)(3), Ottaviani D(4), Tavares E(1), Toropova K(5), 
+Tracewska AM(6)(7), Mollica A(1), Kang J(1), Kehelwathugoda O(1), Paton T(1)(8), 
+Maynes JT(9), Wheway G(10), Arno G(4)(11); Genomics England Research Consortium; 
+Khan KN(3), McKibbin M(3), Toomes C(3), Ali M(3), Di Scipio M(1), Li S(1), 
+Ellingford J(12)(13), Black G(12)(14), Webster A(4)(11), Rydzanicz M(7), 
+Stawiński P(7), Płoski R(7), Vincent A(1)(2)(15), Cheetham ME(4), Inglehearn 
+CF(3), Roberts A(16), Heon E(17)(18)(19).
+
+Collaborators: Ambrose JC, Arumugam P, Baple EL, Bleda M, Boardman-Pretty F, 
+Boissiere JM, Boustred CR, Brittain H, Caulfield MJ, Chan GC, Craig CEH, 
+Daugherty LC, de Burca A, Devereau A, Elgar G, Foulger RE, Fowler T, Furió-Tarí 
+P, Hackett JM, Halai D, Hamblin A, Henderson S, Holman JE, Hubbard TJP, Ibáñez 
+K, Jackson R, Jones LJ, Kasperaviciute D, Kayikci M, Lahnstein L, Lawson K, 
+Leigh SEA, Leong IUS, Lopez FJ, Maleady-Crowe F, Mason J, McDonagh EM, 
+Moutsianas L, Mueller M, Murugaesu N, Need AC, Odhams CA, Patch C, Perez-Gil D, 
+Polychronopoulos D, Pullinger J, Rahim T, Rendon A, Riesgo-Ferreiro P, Rogers T, 
+Ryten M, Savage K, Sawant K, Scott RH, Siddiq A, Sieghart A, Smedley D, Smith 
+KR, Sosinsky A, Spooner W, Stevens HE, Stuckey A, Sultana R, Thomas ERA, 
+Thompson SR, Tregidgo C, Tucci A, Walsh E, Watters SA, Welland MJ, Williams E, 
+Witkowska K, Wood SM, Zarowiecki M.
+
+Author information:
+(1)Genetics and Genome Biology, The Hospital for Sick Children, Toronto, Canada.
+(2)Institute of Medical Science, The University of Toronto, Toronto, Canada.
+(3)Department of Ophthalmology, St James' University Hospital, Leeds, UK.
+(4)UCL Institute of Ophthalmology, London, UK.
+(5)Department of Biological Sciences, Birbeck, University of London, London, UK.
+(6)DNA Analysis Unit, ŁUKASIEWICZ Research Network-PORT Polish Center for 
+Technology Development, Wrocław, Poland.
+(7)Department of Medical Genetics, Medical University of Warsaw, Warsaw, Poland.
+(8)The Centre for Applied Genomics, The Hospital for Sick Children, Toronto, 
+Canada.
+(9)Department of Anesthesia and Pain Medicine, The Hospital for Sick Children, 
+Toronto, Canada.
+(10)Faculty of Medicine, University of Southampton, Southampton, UK.
+(11)Moorfields Eye Hospital, London, UK.
+(12)Division of Evolution and Genomic Sciences, Faculty of Biology, Medicines 
+and health, The University of Manchester, Manchester, UK.
+(13)Manchester Academic Health Science Centre (MAHSC), University of Manchester, 
+Manchester, UK.
+(14)Manchester Centre for Genomic Medicine, Saint Mary's Hospital, Manchester 
+University NHS Foundation Trust, Manchester, UK.
+(15)Department of Ophthalmology and Vision Sciences, The Hospital for Sick 
+Children, Toronto, Canada.
+(16)Department of Biological Sciences, Birbeck, University of London, London, 
+UK. a.roberts@mail.cryst.bbk.ac.uk.
+(17)Genetics and Genome Biology, The Hospital for Sick Children, Toronto, 
+Canada. elise.heon@sickkids.ca.
+(18)Institute of Medical Science, The University of Toronto, Toronto, Canada. 
+elise.heon@sickkids.ca.
+(19)Department of Ophthalmology and Vision Sciences, The Hospital for Sick 
+Children, Toronto, Canada. elise.heon@sickkids.ca.
+(#)Contributed equally
+
+PURPOSE: Determining the role of DYNC2H1 variants in nonsyndromic inherited 
+retinal disease (IRD).
+METHODS: Genome and exome sequencing were performed for five unrelated cases of 
+IRD with no identified variant. In vitro assays were developed to validate the 
+variants identified (fibroblast assay, induced pluripotent stem cell [iPSC] 
+derived retinal organoids, and a dynein motility assay).
+RESULTS: Four novel DYNC2H1 variants (V1, g.103327020_103327021dup; V2, 
+g.103055779A>T; V3, g.103112272C>G; V4, g.103070104A>C) and one previously 
+reported variant (V5, g.103339363T>G) were identified. In proband 1 (V1/V2), V1 
+was predicted to introduce a premature termination codon (PTC), whereas V2 
+disrupted the exon 41 splice donor site causing incomplete skipping of exon 41. 
+V1 and V2 impaired dynein-2 motility in vitro and perturbed IFT88 distribution 
+within cilia. V3, homozygous in probands 2-4, is predicted to cause a PTC in a 
+retina-predominant transcript. Analysis of retinal organoids showed that this 
+new transcript expression increased with organoid differentiation. V4, a novel 
+missense variant, was in trans with V5, previously associated with Jeune 
+asphyxiating thoracic dystrophy (JATD).
+CONCLUSION: The DYNC2H1 variants discussed herein were either hypomorphic or 
+affecting a retina-predominant transcript and caused nonsyndromic IRD. Dynein 
+variants, specifically DYNC2H1 variants are reported as a cause of non syndromic 
+IRD.
+
+DOI: 10.1038/s41436-020-0915-1
+PMCID: PMC7708302
+PMID: 32753734 [Indexed for MEDLINE]
+
+Conflict of interest statement: G.W. received a Wellcome Trust Seed Award in 
+Science 204378/Z/16/Z. K.N.K. reports advisory board fees from MeiraGTx and 
+Roche. M.M. reports educational travel grants from Novartis, Bayer, and 
+Allergan; lecture or advisory board fees from Novartis and Bayer; and personal 
+research funding from Alcon and Roche. A. Vincent is a consultant for Adverum 
+Technologies. (Novartis E.H.) is a consultant for Sanofi (DSMB) and Deep 
+Genomics. The other authors declare no conflicts of interest.
+
+
+26. Neuroscience. 2020 Dec 1;450:3-14. doi: 10.1016/j.neuroscience.2020.07.015. Epub 
+2020 Jul 16.
+
+Mutations in Ciliary Trafficking Genes affect Sonic Hedgehog-dependent Neural 
+Tube Patterning Differentially along the Anterior-Posterior Axis.
+
+Legué E(1), Liem KF Jr(2).
+
+Author information:
+(1)Vertebrate Developmental Biology Program, Department of Pediatrics, Yale 
+School of Medicine, 333 Cedar Street, New Haven, CT 06520, United States.
+(2)Vertebrate Developmental Biology Program, Department of Pediatrics, Yale 
+School of Medicine, 333 Cedar Street, New Haven, CT 06520, United States. 
+Electronic address: Karel.Liem@yale.edu.
+
+Cell specification in the ventral spinal cord is a well-studied model system to 
+understand how tissue pattern develops in response to a morphogen gradient. 
+Ventral cell types including motor neurons (MNs) are induced in the neural tube 
+in response to graded Sonic Hedgehog (Shh) signaling. We performed a forward 
+genetic screen in the mouse that incorporated a GFP-expressing transgene to 
+visualize MNs to identify genes regulating ventral patterning. Here we contrast 
+the neural patterning phenotypes of two mouse lines carrying induced mutations 
+in ciliary trafficking genes. We show that a hypomorphic mutation in the gene 
+Tubby-like protein 3 (Tulp3) resulted in a dorsal expansion of MNs consistent 
+with an up-regulation of Shh signaling. Interestingly, patterning defects in 
+Tulp3 mutants were restricted to posterior regions of the spinal cord as 
+patterning was similar to WT in the anterior spinal cord. In contrast, a 
+mutation in the ciliary trafficking gene cytoplasmic dynein 2 heavy chain 1 
+(Dync2h1), led to a complete loss of MNs in anterior regions of the spinal cord, 
+indicating a strong down-regulation of Shh signaling. However, this severe 
+phenotype was restricted to the cervical region as MNs developed posteriorly. 
+Mutations in cilia trafficking genes affect Shh-dependent signaling in the 
+neural tube differentially along the anterior-posterior (A-P) axis in a process 
+that is not understood.
+
+Copyright © 2020 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2020.07.015
+PMCID: PMC7688495
+PMID: 32682825 [Indexed for MEDLINE]
+
+
+27. Spec Care Dentist. 2020 Sep;40(5):493-497. doi: 10.1111/scd.12493. Epub 2020 Jul 
+3.
+
+Oral rehabilitation in a patient with Jeune syndrome presenting with multiple 
+teeth agenesis.
+
+Mira PCDS(1), Arid J(1), Paula-Silva FWG(1), de Queiroz AM(1), de Carvalho 
+FK(1), Pagnano VO(2).
+
+Author information:
+(1)Department of Pediatric Clinics, School of Dentistry of Ribeirão Preto, 
+University of São Paulo (USP), Ribeirão Preto, São Paulo, Brazil.
+(2)Department of Dental Materials and Prosthodontics, School of Dentistry of 
+Ribeirão Preto, University of São Paulo (USP), Ribeirão Preto, São Paulo, 
+Brazil.
+
+Jeune syndrome (JS) is a rare disease, with systemic manifestations, such as 
+renal and hepatic insufficiency, retinal pigmentation, and respiratory 
+insufficiency. Etiological factors have not been completely elucidated, but the 
+molecular biology has contributed to the diagnosis and understanding of JS with 
+DNA sequencing, showing the association among polymorphisms in different genes 
+DYNC2H1 (MIM 603297) and TCTEX1D2 (MIM617353), which are the main genes 
+associated with JS. There are a few reports on buccal findings in these 
+patients; here, we present dental anomalies and clinical oral findings in a 
+patient with JS, focusing on a multidisciplinary approach for rehabilitation. A 
+15-year-old boy with JS was referred to our dental clinic. Clinical and 
+radiographic examination revealed the presence of dental agenesis, taurodontism, 
+and geographic tongue with lobulations. The treatment plan consisted of 
+preventive, restorative, surgical, and oral rehabilitation. We observed that the 
+treatment improved the patient's quality of life owing to improved functions, 
+maintenance of oral health, and above all, self-esteem. Clinical findings in 
+this case may contribute to a better characterization of JS and other 
+ciliopathies.
+
+© 2020 Special Care Dentistry Association and Wiley Periodicals, Inc.
+
+DOI: 10.1111/scd.12493
+PMID: 32620036 [Indexed for MEDLINE]
+
+
+28. Eur J Med Genet. 2020 Apr;63(4):103823. doi: 10.1016/j.ejmg.2019.103823. Epub 
+2019 Dec 7.
+
+A new case of KIAA0753-related variant of Jeune asphyxiating thoracic dystrophy.
+
+Faudi E(1), Brischoux-Boucher E(1), Huber C(2), Dabudyk T(3), Lenoir M(4), 
+Baujat G(2), Michot C(2), Van Maldergem L(5), Cormier-Daire V(2), Piard J(6).
+
+Author information:
+(1)Centre de Génétique Humaine, Centre Hospitalier Régional Universitaire, 
+Université de Franche-Comté, Besançon, France.
+(2)Service de génétique clinique, CRMR maladies osseuses constitutionnelles, 
+INSERM UMR 1163, Université Paris-Descartes-Sorbonne Paris Cité, Institut 
+Imagine, Hôpital Necker Enfants Malades, Paris, France.
+(3)Service de Réanimation Infantile, Centre Hospitalier Régional Universitaire 
+de Besançon, Besançon, France.
+(4)Service de Radiologie, Centre Hospitalier Régional Universitaire de Besançon, 
+Besançon, France.
+(5)Centre de Génétique Humaine, Centre Hospitalier Régional Universitaire, 
+Université de Franche-Comté, Besançon, France; Unité de recherche en 
+neurosciences intégratives et cognitives EA481, Université de Franche-Comté, 
+Besançon, France; Centre d'investigation clinique 1431, INSERM, Besançon, 
+France.
+(6)Centre de Génétique Humaine, Centre Hospitalier Régional Universitaire, 
+Université de Franche-Comté, Besançon, France; Unité de recherche en 
+neurosciences intégratives et cognitives EA481, Université de Franche-Comté, 
+Besançon, France. Electronic address: jpiard@chu-besancon.fr.
+
+A narrow thorax with shortening of long bones is usually pointing to dysfunction 
+of the primary cilia corresponding clinically to ciliopathies with major 
+skeletal involvement. Mutations in at least 23 genes are likely to correspond to 
+this clinical presentation: IFT43/52/80/81/122/140/172, WDR19/34/35/60, DYNC2H1, 
+DYNC2LI1, CEP120, NEK1, TTC21B, TCTEX1D2, INTU, TCTN3, EVC 1/2 and KIAA0586. In 
+addition to these, KIAA0753 variants were recently described in seven patients 
+with Jeune asphyxiating thoracic dystrophy (ATD) (two first cousins, one 
+unrelated patient and one fetus), Joubert syndrome (two siblings) and 
+orofaciodigital syndrome type 6 (one patient). We present the clinical 
+characteristics of a eighth such patient. This 4 year-old boy with narrow 
+thorax, short limbs, severe respiratory and feeding difficulties from birth on 
+had a history of hypotonia and developmental delay. On skeletal survey, short 
+tubular bones (height - 5,5 SD) and a trident appearance of the pelvis were 
+seen. Brain MRI showed cervical canal stenosis. Renal function was normal and 
+moderate hepatomegaly was noted. A homozygous c.943C > T mutation in KIAA0753 
+was identified on whole exome sequencing, resulting in Gln315Ter premature 
+termination of the corresponding protein. This case provides confirmation of an 
+additional molecular basis for skeletal dysplasia and illustrates how 
+ciliopathies due to mutations in a single gene may present as apparently 
+distinct syndromes.
+
+Copyright © 2019 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ejmg.2019.103823
+PMID: 31816441 [Indexed for MEDLINE]
+
+
+29. Clin Chim Acta. 2020 Feb;501:207-215. doi: 10.1016/j.cca.2019.10.040. Epub 2019 
+Nov 13.
+
+28 novel mutations identified from 33 Chinese patients with cilia-related kidney 
+disorders.
+
+Liang N(1), Jiang X(1), Zeng L(1), Li Z(1), Liang D(2), Wu L(3).
+
+Author information:
+(1)Center for Medical Genetics & Hunan Key Laboratory of Medical Genetics, 
+School of Life Sciences, Central South University, 110 Xiangya Road, Changsha, 
+Hunan 410078, China.
+(2)Center for Medical Genetics & Hunan Key Laboratory of Medical Genetics, 
+School of Life Sciences, Central South University, 110 Xiangya Road, Changsha, 
+Hunan 410078, China. Electronic address: liangdesheng@sklmg.edu.cn.
+(3)Center for Medical Genetics & Hunan Key Laboratory of Medical Genetics, 
+School of Life Sciences, Central South University, 110 Xiangya Road, Changsha, 
+Hunan 410078, China. Electronic address: wulingqian@sklmg.edu.cn.
+
+BACKGROUND: Cilia play an important role in cellular signaling pathways. 
+Defective ciliary function causes a variety of disorders involve retina, 
+skeleton, liver, kidney or others. Cilia-related kidney disorders are 
+characterized by cystic renal disease, nephronophthisis and renal failure in 
+general.
+METHODS: In this study, we collected 33 families clinically suspected of 
+cilia-related kidney disorders. Capture-based next-generation sequencing (NGS) 
+of 88 related genes, Sanger sequencing, pedigree analysis and functional study 
+were performed to analyze their genetic cause.
+RESULTS: 40 mutations in PKD1, PKD2, PKHD1, DYNC2H1 and TMEM67 genes were 
+identified from 27 of 33 affected families. 70% (28/40) of the mutations were 
+first found in patients. We reported a very early-onset autosomal dominant 
+polycystic kidney disease (ADPKD) family caused by a novel heterozygous PKD1 
+mutation; another fetus with DYNC2H1 compound heterozygous missense mutations 
+showed mainly kidney dysplasia instead of skeletal abnormalities; and a novel 
+PKD1 mutation, c.12445-3C > G, was confirmed to cause two wrong splicing modes. 
+As for previously reported mutations, such as PKD1, c.6395 T > G (p.F2132C) and 
+c.6868G > T (p.D2290Y), we had new and different findings.
+CONCLUSION: The findings provided new references for genotype-phenotype analyses 
+and broadened the mutation spectrum of detected genes, which were significantly 
+valuable for prenatal diagnosis and genetic counseling.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cca.2019.10.040
+PMID: 31730820 [Indexed for MEDLINE]
+
+
+30. Neurology. 2019 Jul 16;93(3):e237-e251. doi: 10.1212/WNL.0000000000007774. Epub 
+2019 Jun 13.
+
+Pathogenic variants of DYNC2H1, KIAA0556, and PTPN11 associated with 
+hypothalamic hamartoma.
+
+Fujita A(1), Higashijima T(1), Shirozu H(1), Masuda H(1), Sonoda M(1), Tohyama 
+J(1), Kato M(1), Nakashima M(1), Tsurusaki Y(1), Mitsuhashi S(1), Mizuguchi 
+T(1), Takata A(1), Miyatake S(1), Miyake N(1), Fukuda M(1), Kameyama S(1), 
+Saitsu H(1), Matsumoto N(2).
+
+Author information:
+(1)From the Departments of Human Genetics (A.F., S. Mitsuhashi, T.M., A.T., S. 
+Miyatake, N. Miyake, N. Matsumoto) and Neurosurgery (M.S.), Yokohama City 
+University Graduate School of Medicine; Departments of Functional Neurosurgery 
+(T.H., H. Shirozu, H.M., M.F., S.K.) and Child Neurology (J.T.), Epilepsy 
+Center, National Hospital Organization Nishiniigata Chuo Hospital Niigata, 
+Japan; Department of Pediatrics and Neurology (M.S.), Wayne State University, 
+Children's Hospital of Michigan, Detroit Medical Center; Department of 
+Pediatrics (M.K.), Showa University School of Medicine, Tokyo; Department of 
+Biochemistry (M.N., H. Saitsu), Hamamatsu University School of Medicine; and 
+Clinical Research Institute (Y.T.), Kanagawa Children's Medical Center, 
+Yokohama, Japan.
+(2)From the Departments of Human Genetics (A.F., S. Mitsuhashi, T.M., A.T., S. 
+Miyatake, N. Miyake, N. Matsumoto) and Neurosurgery (M.S.), Yokohama City 
+University Graduate School of Medicine; Departments of Functional Neurosurgery 
+(T.H., H. Shirozu, H.M., M.F., S.K.) and Child Neurology (J.T.), Epilepsy 
+Center, National Hospital Organization Nishiniigata Chuo Hospital Niigata, 
+Japan; Department of Pediatrics and Neurology (M.S.), Wayne State University, 
+Children's Hospital of Michigan, Detroit Medical Center; Department of 
+Pediatrics (M.K.), Showa University School of Medicine, Tokyo; Department of 
+Biochemistry (M.N., H. Saitsu), Hamamatsu University School of Medicine; and 
+Clinical Research Institute (Y.T.), Kanagawa Children's Medical Center, 
+Yokohama, Japan. naomat@yokohama-cu.ac.jp.
+
+OBJECTIVE: Intensive genetic analysis was performed to reveal comprehensive 
+molecular insights into hypothalamic hamartoma (HH).
+METHODS: Thirty-eight individuals with HH were investigated by whole exome 
+sequencing, target capture-based deep sequencing, or single nucleotide 
+polymorphism (SNP) array using DNA extracted from blood leukocytes or HH 
+samples.
+RESULTS: We identified a germline variant of KIAA0556, which encodes a ciliary 
+protein, and 2 somatic variants of PTPN11, which forms part of the 
+RAS/mitogen-activated protein kinase (MAPK) pathway, as well as variants in 
+known genes associated with HH. An SNP array identified (among 3 patients) one 
+germline copy-neutral loss of heterozygosity (cnLOH) at 6p22.3-p21.31 and 2 
+somatic cnLOH; one at 11q12.2-q25 that included DYNC2H1, which encodes a ciliary 
+motor protein, and the other at 17p13.3-p11.2. A germline heterozygous variant 
+and an identical somatic variant of DYNC2H1 arising from cnLOH at 11q12.2-q25 
+were confirmed in one patient (whose HH tissue, therefore, contains biallelic 
+variants of DYNC2H1). Furthermore, a combination of a germline and a somatic 
+DYNC2H1 variant was detected in another patient.
+CONCLUSIONS: Overall, our cohort identified germline/somatic alterations in 34% 
+(13/38) of patients with HH. Disruption of the Shh signaling pathway associated 
+with cilia or the RAS/MAPK pathway may lead to the development of HH.
+
+© 2019 American Academy of Neurology.
+
+DOI: 10.1212/WNL.0000000000007774
+PMID: 31197031 [Indexed for MEDLINE]
+
+
+31. Lipids Health Dis. 2019 May 1;18(1):107. doi: 10.1186/s12944-019-1056-x.
+
+Identification of biomarkers in macrophages of atherosclerosis by microarray 
+analysis.
+
+Huang HM(1), Jiang X(1), Hao ML(2), Shan MJ(3), Qiu Y(4), Hu GF(5), Wang Q(5), 
+Yu ZQ(6), Meng LB(7), Zou YY(8).
+
+Author information:
+(1)Geriatric Department, Shenzhen People's Hospital, The Second Clinical Medical 
+College of Jinan University, The First Affiliated Hospital of Southern 
+University of Science and Technology, Shenzhen, 518020, People's Republic of 
+China.
+(2)Department of Geriatric Medicine, Qinghai University, Xining, Qinghai, 
+810016, People's Republic of China.
+(3)MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen 
+Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, 100730, People's Republic of China.
+(4)Anesthesiology Department, Beijing Hospital, National Center of Gerontology, 
+No.1 Dahua Road, Dong Dan, Beijing, 100730, People's Republic of China.
+(5)Department of Cardiology, Beijing Hospital, National Center of Gerontology, 
+No.1 Dahua Road, Dong Dan, Beijing, 100730, People's Republic of China.
+(6)Pneumology Department, Beijing Hospital, National Center of Gerontology, No.1 
+Dahua Road, Dong Dan, Beijing, 100730, People's Republic of China.
+(7)Neurology Department, Beijing Hospital, National Center of Gerontology, No.1 
+Dahua Road, Dong Dan, Beijing, 100730, People's Republic of China. 
+314597690@qq.com.
+(8)The Fifth Ward of Ophthalmology Department, Shenzhen Eye Hospital, Shenzhen, 
+518040, People's Republic of China. 1048482456@qq.com.
+
+BACKGROUND: Atherosclerotic cardiovascular disease (ASCVD) refers to a series of 
+diseases caused by atherosclerosis (AS). It is one of the most important causes 
+of death worldwide. According to the inflammatory response theory, macrophages 
+play a critical role in AS. However, the potential targets associated with 
+macrophages in the development of AS are still obscure. This study aimed to use 
+bioinformatics tools for screening and identifying molecular targets in AS 
+macrophages.
+METHODS: Two expression profiling datasets (GSE7074 and GSE9874) were obtained 
+from the Gene Expression Omnibus dataset, and differentially expressed genes 
+(DEGs) between non-AS macrophages and AS macrophages were identified. Functional 
+annotation of the DEGs was performed by analyzing the Gene Ontology and Kyoto 
+Encyclopedia of Genes and Genomes databases. STRING and Cytoscape were employed 
+for constructing a protein-protein interaction network and analyzing hub genes.
+RESULTS: A total of 98 DEGs were distinguished between non-AS macrophages and AS 
+macrophages. The functional variations in DEGs were mainly enriched in response 
+to hypoxia, respiratory gaseous exchange, protein binding, and intracellular, 
+ciliary tip, early endosome membrane, and Lys63-specific deubiquitinase 
+activities. Three genes were identified as hub genes, including KDELR3, CD55, 
+and DYNC2H1.
+CONCLUSION: Hub genes and DEGs identified by using microarray techniques can be 
+used as diagnostic and therapeutic biomarkers for AS.
+
+DOI: 10.1186/s12944-019-1056-x
+PMCID: PMC6495566
+PMID: 31043156 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+
+
+32. Eur J Med Genet. 2020 Feb;63(2):103644. doi: 10.1016/j.ejmg.2019.04.001. Epub 
+2019 Apr 13.
+
+Next generation sequencing in recurrent pregnancy loss-approaches and outcomes.
+
+Rajcan-Separovic E(1).
+
+Author information:
+(1)Department of Pathology and Laboratory Medicine, University of British 
+Columbia and, Child and Family Research Institute, 950 West 28th, Vancouver BC, 
+Canada. Electronic address: eseparovic@cw.bc.ca.
+
+Next generation sequencing (NGS) has revolutionized the diagnosis of postnatal 
+genetic diseases, but so far has been used less frequently to study reproductive 
+disorders. Here we provide an overview of approaches and outcomes of genome 
+sequencing for identifying causes of recurrent pregnancy loss (RPL). This 
+includes exome sequencing to look for pathogenic sequence changes in the whole 
+exome or in a preselected list of genes considered important for early embryonic 
+development and pregnancy maintenance, as well as low coverage whole genome 
+sequencing useful for identifying cryptic balanced chromosome rearrangements and 
+copy number variants (CNVs) in couples with RPL and miscarriages. For the 
+purpose of this review only studies with at least 2 pregnancy losses were 
+included with NGS performed on complete families, or only on miscarriages, 
+couples or females with RPL. Overall, mutations in candidate genes responsible 
+for recurrent embryonic/fetal loss were found in up to 60% of cases, opening the 
+door for possible identification of affected future pregnancies at the 
+preimplantation stage. Recurrence of specific mutations or affected genes in 
+different studies was rare (e.g.DYNC2H1, KIF14, RYR1 and GLE1) however genes 
+involved in cell division, cilia function or fetal movement were frequently 
+identified as candidates, the later possibly reflecting the fact that a large 
+number of studied cases had features of fetal akinesia deformation sequence 
+(FADS). Genome sequencing of the couple and miscarriages is most informative, as 
+it allows analysis of the individual mutations as well as their collective 
+burden on the genome and biological processes. However genome sequencing of the 
+couple with RPL with follow up of candidate parental mutations in miscarriages 
+appears to be a promising avenue when miscarriage DNA amounts or quality are 
+suboptimal for whole genome studies. In the future, increasing the number of 
+studied families, establishment of a database cataloguing CNVs and mutations 
+found in early pregnancy loss as well as their functional assessment in 
+miscarriage cells and parental reproductive tissues is needed for improved 
+understanding of their role in adverse pregnancy outcome.
+
+Copyright © 2019 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ejmg.2019.04.001
+PMID: 30991114 [Indexed for MEDLINE]
+
+
+33. Mol Biol Cell. 2019 Mar 1;30(5):658-670. doi: 10.1091/mbc.E18-10-0678. Epub 2019 
+Jan 16.
+
+Interactions of the dynein-2 intermediate chain WDR34 with the light chains are 
+required for ciliary retrograde protein trafficking.
+
+Tsurumi Y(1), Hamada Y(1), Katoh Y(1), Nakayama K(1).
+
+Author information:
+(1)Graduate School of Pharmaceutical Sciences, Kyoto University, Sakyo-ku, Kyoto 
+606-8501, Japan.
+
+The dynein-2 complex drives retrograde ciliary protein trafficking by 
+associating with the intraflagellar transport (IFT) machinery, containing IFT-A 
+and IFT-B complexes. We recently showed that the dynein-2 complex, which 
+comprises 11 subunits, can be divided into three subcomplexes: DYNC2H1-DYNC2LI1, 
+WDR34-DYNLL1/DYNLL2-DYNLRB1/DYNLRB2, and WDR60-TCTEX1D2-DYNLT1/DYNLT3. In this 
+study, we demonstrated that the WDR34 intermediate chain interacts with the two 
+light chains, DYNLL1/DYNLL2 and DYNLRB1/DYNLRB2, via its distinct sites. 
+Phenotypic analyses of WDR34-knockout cells exogenously expressing various WDR34 
+constructs showed that the interactions of the WDR34 intermediate chain with the 
+light chains are crucial for ciliary retrograde protein trafficking. 
+Furthermore, we found that expression of the WDR34 N-terminal construct 
+encompassing the light chain-binding sites but lacking the WD40 repeat domain 
+inhibits ciliary biogenesis and retrograde trafficking in a dominant-negative 
+manner, probably by sequestering WDR60 or the light chains. Taken together with 
+phenotypic differences of several WDR34-knockout cell lines, these results 
+indicate that incorporation of DYNLL1/DYNLL2 and DYNLRB1/DYNLRB2 into the 
+dynein-2 complex via interactions with the WDR34 intermediate chain is crucial 
+for dynein-2 function in retrograde ciliary protein trafficking.
+
+DOI: 10.1091/mbc.E18-10-0678
+PMCID: PMC6589695
+PMID: 30649997 [Indexed for MEDLINE]
+
+
+34. EMBO Rep. 2018 Dec;19(12):e45862. doi: 10.15252/embr.201845862. Epub 2018 Nov 
+14.
+
+Role for intraflagellar transport in building a functional transition zone.
+
+Jensen VL(1), Lambacher NJ(1), Li C(1), Mohan S(1), Williams CL(2), Inglis 
+PN(3), Yoder BK(2), Blacque OE(4), Leroux MR(5).
+
+Author information:
+(1)Department of Molecular Biology and Biochemistry, and Centre for Cell 
+Biology, Development and Disease, Simon Fraser University, Burnaby, BC, Canada.
+(2)Department of Cell, Developmental, and Integrative Biology, University of 
+Alabama at Birmingham Medical School, Birmingham, AL, USA.
+(3)Department of Biology, Kwantlen Polytechnic University, Surrey, BC, Canada.
+(4)School of Biomolecular and Biomedical Science, University College Dublin, 
+Belfield, Dublin 4, Ireland.
+(5)Department of Molecular Biology and Biochemistry, and Centre for Cell 
+Biology, Development and Disease, Simon Fraser University, Burnaby, BC, Canada 
+leroux@sfu.ca.
+
+Genetic disorders caused by cilia dysfunction, termed ciliopathies, frequently 
+involve the intraflagellar transport (IFT) system. Mutations in IFT 
+subunits-including IFT-dynein motor DYNC2H1-impair ciliary structures and 
+Hedgehog signalling, typically leading to "skeletal" ciliopathies such as Jeune 
+asphyxiating thoracic dystrophy. Intriguingly, IFT gene mutations also cause 
+eye, kidney and brain ciliopathies often linked to defects in the transition 
+zone (TZ), a ciliary gate implicated in Hedgehog signalling. Here, we identify a 
+C. elegans temperature-sensitive (ts) IFT-dynein mutant (che-3; human DYNC2H1) 
+and use it to show a role for retrograde IFT in anterograde transport and 
+ciliary maintenance. Unexpectedly, correct TZ assembly and gating function for 
+periciliary proteins also require IFT-dynein. Using the reversibility of the 
+novel ts-IFT-dynein, we show that restoring IFT in adults (post-developmentally) 
+reverses defects in ciliary structure, TZ protein localisation and ciliary 
+gating. Notably, this ability to reverse TZ defects declines as animals age. 
+Together, our findings reveal a previously unknown role for IFT in TZ assembly 
+in metazoans, providing new insights into the pathomechanism and potential 
+phenotypic overlap between IFT- and TZ-associated ciliopathies.
+
+© 2018 The Authors.
+
+DOI: 10.15252/embr.201845862
+PMCID: PMC6280794
+PMID: 30429209 [Indexed for MEDLINE]
+
+
+35. Mol Biol Cell. 2018 Jul 1;29(13):1628-1639. doi: 10.1091/mbc.E18-03-0173. Epub 
+2018 May 9.
+
+Interaction of WDR60 intermediate chain with TCTEX1D2 light chain of the 
+dynein-2 complex is crucial for ciliary protein trafficking.
+
+Hamada Y(1), Tsurumi Y(1), Nozaki S(1), Katoh Y(1), Nakayama K(1).
+
+Author information:
+(1)Graduate School of Pharmaceutical Sciences, Kyoto University, Sakyo-ku, Kyoto 
+606-8501, Japan.
+
+The dynein-2 complex mediates trafficking of ciliary proteins by powering the 
+intraflagellar transport (IFT) machinery containing IFT-A and IFT-B complexes. 
+Although 11 subunits are known to constitute the dynein-2 complex, with several 
+light-chain subunits shared by the dynein-1 complex, the overall architecture of 
+the dynein-2 complex has not been fully clarified. Utilizing the visible 
+immunoprecipitation assay, we demonstrated the interaction modes among the 
+dynein-2 subunits, including previously undefined interactions, such as that 
+between WDR60 and the TCTEX1D2-DYNLT1/DYNLT3 dimer. The dynein-2 complex can be 
+divided into three subcomplexes, namely DYNC2H1-DYNC2LI1, 
+WDR34-DYNLL1/DYNLL2-DYNLRB1/DYNLRB2, and WDR60-TCTEX1D2-DYNLT1/DYNLT3. We 
+established cell lines lacking WDR60 or TCTEX1D2, both of which are 
+dynein-2-specific subunits encoded by ciliopathy-causing genes, and found that 
+both WDR60-knockout (KO) and TCTEX1D2-KO cells show defects in retrograde 
+ciliary protein trafficking, with WDR60-KO cells demonstrating more severe 
+defects probably due to failed assembly of the dynein-2 complex. The exogenous 
+expression of a WDR60 mutant lacking TCTEX1D2 binding partially restored 
+retrograde trafficking to a level comparable to that of TCTEX1D2-KO cells. Thus, 
+our results demonstrated that WDR60 plays a major role and TCTEX1D2 plays an 
+auxiliary role in the dynein-2 complex to mediate retrograde ciliary protein 
+trafficking.
+
+DOI: 10.1091/mbc.E18-03-0173
+PMCID: PMC6080652
+PMID: 29742051 [Indexed for MEDLINE]
+
+
+36. Hum Mutat. 2018 Jan;39(1):152-166. doi: 10.1002/humu.23362. Epub 2017 Nov 6.
+
+Expanding the genetic architecture and phenotypic spectrum in the skeletal 
+ciliopathies.
+
+Zhang W(1), Taylor SP(2), Ennis HA(1), Forlenza KN(3), Duran I(3)(4), Li B(1), 
+Sanchez JAO(1), Nevarez L(1), Nickerson DA(5)(6), Bamshad M(5)(6)(7)(8); 
+University of Washington Center for Mendelian Genomics(6); Lachman RS(9), Krakow 
+D(2)(3)(9)(10), Cohn DH(1)(3)(9).
+
+Author information:
+(1)Department of Molecular, Cell, and Developmental Biology, University of 
+California at Los Angeles, Los Angeles, California.
+(2)Department of Human Genetics, David Geffen School of Medicine at the 
+University of California at Los Angeles, Los Angeles, California.
+(3)Department of Orthopaedic Surgery, David Geffen School of Medicine at the 
+University of California at Los Angeles, Los Angeles, California.
+(4)Networking Research Center on Bioengineering, Biomaterials and Nanomedicine 
+(CIBER-BBN), University of Malaga, Malaga, Spain.
+(5)Department of Genome Sciences, University of Washington, Seattle, Washington.
+(6)University of Washington Center for Mendelian Genomics, University of 
+Washington, Seattle, Washington.
+(7)Department of Pediatrics, University of Washington, Seattle, Washington.
+(8)Division of Genetic Medicine, Seattle Children's Hospital, Seattle, 
+Washington.
+(9)International Skeletal Dysplasia Registry at UCLA, Los Angeles, California.
+(10)Department of Obstetrics and Gynecology, David Geffen School of Medicine at 
+the University of California at Los Angeles, Los Angeles, California.
+
+Defects in the biosynthesis and/or function of primary cilia cause a spectrum of 
+disorders collectively referred to as ciliopathies. A subset of these disorders 
+is distinguished by profound abnormalities of the skeleton that include a long 
+narrow chest with markedly short ribs, extremely short limbs, and polydactyly. 
+These include the perinatal lethal short-rib polydactyly syndromes (SRPS) and 
+the less severe asphyxiating thoracic dystrophy (ATD), Ellis-van Creveld (EVC) 
+syndrome, and cranioectodermal dysplasia (CED) phenotypes. To identify new genes 
+and define the spectrum of mutations in the skeletal ciliopathies, we analyzed 
+152 unrelated families with SRPS, ATD, and EVC. Causal variants were discovered 
+in 14 genes in 120 families, including one newly associated gene and two genes 
+previously associated with other ciliopathies. These three genes encode 
+components of three different ciliary complexes; FUZ, which encodes a planar 
+cell polarity complex molecule; TRAF3IP1, which encodes an anterograde ciliary 
+transport protein; and LBR, which encodes a nuclear membrane protein with sterol 
+reductase activity. The results established the molecular basis of SRPS type IV, 
+in which mutations were identified in four different ciliary genes. The data 
+provide systematic insight regarding the genotypes associated with a large 
+cohort of these genetically heterogeneous phenotypes and identified new ciliary 
+components required for normal skeletal development.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/humu.23362
+PMCID: PMC6198324
+PMID: 29068549 [Indexed for MEDLINE]
+
+
+37. Curr Biol. 2017 May 22;27(10):1448-1461.e7. doi: 10.1016/j.cub.2017.04.015. Epub 
+2017 May 4.
+
+Dynein-Driven Retrograde Intraflagellar Transport Is Triphasic in C. elegans 
+Sensory Cilia.
+
+Yi P(1), Li WJ(2), Dong MQ(2), Ou G(3).
+
+Author information:
+(1)Tsinghua-Peking Center for Life Sciences, School of Life Sciences and MOE Key 
+Laboratory for Protein Science, Tsinghua University, Beijing 100084, China.
+(2)National Institute of Biological Science, 7 Science Park Road, ZGC Life 
+Science Park, Beijing 102206, China.
+(3)Tsinghua-Peking Center for Life Sciences, School of Life Sciences and MOE Key 
+Laboratory for Protein Science, Tsinghua University, Beijing 100084, China. 
+Electronic address: guangshuoou@tsinghua.edu.cn.
+
+Cytoplasmic dynein-2 powers retrograde intraflagellar transport that is 
+essential for cilium formation and maintenance. Inactivation of dynein-2 by 
+mutations in DYNC2H1 causes skeletal dysplasias, and it remains unclear how the 
+dynein-2 heavy chain moves in cilia. Here, using the genome-editing technique to 
+produce fluorescent dynein-2 heavy chain in Caenorhabditis elegans, we show by 
+high-resolution live microscopy that dynein-2 moves in a surprising way along 
+distinct ciliary domains. Dynein-2 shows triphasic movement in the retrograde 
+direction: dynein-2 accelerates in the ciliary distal region and then moves at 
+maximum velocity and finally decelerates adjacent to the base, which may 
+represent a physical obstacle due to transition zone barriers. By knocking the 
+conserved ciliopathy-related mutations into the C. elegans dynein-2 heavy chain, 
+we find that these mutations reduce its transport speed and frequency. 
+Disruption of the dynein-2 tail domain, light intermediate chain, or 
+intraflagellar transport (IFT)-B complex abolishes dynein-2's ciliary 
+localization, revealing their important roles in ciliary entry of dynein-2. 
+Furthermore, our affinity purification and genetic analyses show that IFT-A 
+subunits IFT-139 and IFT-43 function redundantly to promote dynein-2 motility. 
+These results reveal the molecular regulation of dynein-2 movement in sensory 
+cilia.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2017.04.015
+PMID: 28479320 [Indexed for MEDLINE]
+
+
+38. PLoS One. 2017 Mar 14;12(3):e0173399. doi: 10.1371/journal.pone.0173399. 
+eCollection 2017.
+
+The Meckel syndrome- associated protein MKS1 functionally interacts with 
+components of the BBSome and IFT complexes to mediate ciliary trafficking and 
+hedgehog signaling.
+
+Goetz SC(1)(2), Bangs F(1), Barrington CL(2), Katsanis N(3), Anderson KV(1).
+
+Author information:
+(1)Program in Developmental Biology, Sloan Kettering Institute, Memorial Sloan 
+Kettering Cancer Center, 1275 York Ave. New York, United States of America.
+(2)Department of Pharmacology and Cancer Biology, Duke University Medical 
+Center, Durham, NC, United States of America.
+(3)Department of Cell Biology and Center for Human Disease Modeling, Duke 
+University Medical Center, Durham, NC, United States of America.
+
+The importance of primary cilia in human health is underscored by the link 
+between ciliary dysfunction and a group of primarily recessive genetic disorders 
+with overlapping clinical features, now known as ciliopathies. Many of the 
+proteins encoded by ciliopathy-associated genes are components of a handful of 
+multi-protein complexes important for the transport of cargo to the basal body 
+and/or into the cilium. A key question is whether different complexes cooperate 
+in cilia formation, and whether they participate in cilium assembly in 
+conjunction with intraflagellar transport (IFT) proteins. To examine how 
+ciliopathy protein complexes might function together, we have analyzed double 
+mutants of an allele of the Meckel syndrome (MKS) complex protein MKS1 and the 
+BBSome protein BBS4. We find that Mks1; Bbs4 double mutant mouse embryos exhibit 
+exacerbated defects in Hedgehog (Hh) dependent patterning compared to either 
+single mutant, and die by E14.5. Cells from double mutant embryos exhibit a 
+defect in the trafficking of ARL13B, a ciliary membrane protein, resulting in 
+disrupted ciliary structure and signaling. We also examined the relationship 
+between the MKS complex and IFT proteins by analyzing double mutant between Mks1 
+and a hypomorphic allele of the IFTB component Ift172. Despite each single 
+mutant surviving until around birth, Mks1; Ift172avc1 double mutants die at 
+mid-gestation, and exhibit a dramatic failure of cilia formation. We also find 
+that Mks1 interacts genetically with an allele of Dync2h1, the IFT retrograde 
+motor. Thus, we have demonstrated that the MKS transition zone complex 
+cooperates with the BBSome to mediate trafficking of specific trans-membrane 
+receptors to the cilium. Moreover, the genetic interaction of Mks1 with 
+components of IFT machinery suggests that the transition zone complex 
+facilitates IFT to promote cilium assembly and structure.
+
+DOI: 10.1371/journal.pone.0173399
+PMCID: PMC5349470
+PMID: 28291807 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+39. Clin Respir J. 2018 Mar;12(3):1017-1020. doi: 10.1111/crj.12620. Epub 2017 Mar 
+12.
+
+DYNC2H1 mutation causes Jeune syndrome and recurrent lung infections associated 
+with ciliopathy.
+
+Emiralioglu N(1), Wallmeier J(2), Olbrich H(2), Omran H(2), Ozcelik U(1).
+
+Author information:
+(1)Department of Pediatric Pulmonology, Hacettepe University School of Medicine, 
+Ankara, Turkey.
+(2)Department of Pediatrics, University Hospital Muenster, Muenster, Germany.
+
+Asphyxiating thoracic dystrophy, also known as Jeune syndrome, is included in a 
+group of syndromic skeletal ciliopathies associated with mutations in genes 
+encoding proteins involved in the formation or function of motile cilia. Herein, 
+we report a 6-mo-old male admitted to hospital with recurrent lung infections, 
+thoracic dystrophy, and respiratory distress that was diagnosed as Jeune 
+syndrome; DYNC2H1 mutation was detected via genetic analysis and ciliary 
+dysfunction was noted via high-speed video microscopy.
+
+© 2017 John Wiley & Sons Ltd.
+
+DOI: 10.1111/crj.12620
+PMID: 28257607 [Indexed for MEDLINE]
+
+
+40. Clin Genet. 2017 Aug;92(2):158-165. doi: 10.1111/cge.12947. Epub 2017 Mar 13.
+
+Mutations in DYNC2H1, the cytoplasmic dynein 2, heavy chain 1 motor protein 
+gene, cause short-rib polydactyly type I, Saldino-Noonan type.
+
+Badiner N(1), Taylor SP(2), Forlenza K(3), Lachman RS(4); University of 
+Washington Center for Mendelian Genomics(5); Bamshad M(5)(6)(7)(8), Nickerson 
+D(5)(6), Cohn DH(3)(4)(9), Krakow D(2)(3)(4)(10).
+
+Author information:
+(1)David Geffen School of Medicine at UCLA, Los Angeles, CA, USA.
+(2)Department of Human Genetics, Los Angeles, CA, USA.
+(3)Department of Orthopaedic Surgery, Los Angeles, CA, USA.
+(4)International Skeletal Dysplasia Registry at UCLA, Los Angeles, CA, USA.
+(5)University of Washington Center for Mendelian Genomics, Seattle, WA, USA.
+(6)Department of Genome Sciences, Seattle, WA, USA.
+(7)Department of Pediatrics, University of Washington, Seattle, WA, USA.
+(8)Division of Genetic Medicine, Seattle Children's Hospital, Seattle, WA, USA.
+(9)Department of Developmental Cell and Molecular Biology, University of 
+California at Los Angeles, Los Angeles, CA, USA.
+(10)Department of Obstetrics and Gynecology, David Geffen School of Medicine at 
+UCLA, Los Angeles, CA, USA.
+
+The short-rib polydactyly syndromes (SRPS) are autosomal recessively inherited, 
+genetically heterogeneous skeletal ciliopathies. SRPS phenotypes were 
+historically categorized as types I-IV, with type I first delineated by Saldino 
+and Noonan in 1972. Characteristic findings among all forms of SRP include short 
+horizontal ribs, short limbs and polydactyly. The SRP type I phenotype is 
+characterized by a very small thorax, extreme micromelia, very short, poorly 
+mineralized long bones, and multiple organ system anomalies. To date, the 
+molecular basis of this most severe type of SRP, also known as Saldino-Noonan 
+syndrome, has not been determined. We identified three SRP cases that fit the 
+original phenotypic description of SRP type I. In all three cases, exome 
+sequence analysis revealed compound heterozygosity for mutations in DYNC2H1, 
+which encodes the main component of the retrograde IFT A motor, cytoplasmic 
+dynein 2 heavy chain 1. Thus SRP type I, II, III and asphyxiating thoracic 
+dystrophy (ATD), which also result from DYNC2H1 mutations. Herein we describe 
+the phenotypic features, radiographic findings, and molecular basis of SRP type 
+I.
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cge.12947
+PMCID: PMC5538819
+PMID: 27925158 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest None of the authors have 
+any conflict of interests.
+
+
+41. G3 (Bethesda). 2016 Jul 7;6(7):2225-35. doi: 10.1534/g3.116.030080.
+
+Cilia-Associated Genes Play Differing Roles in Aminoglycoside-Induced Hair Cell 
+Death in Zebrafish.
+
+Stawicki TM(1), Hernandez L(2), Esterberg R(3), Linbo T(2), Owens KN(4), Shah 
+AN(5), Thapa N(2), Roberts B(2), Moens CB(5), Rubel EW(3), Raible DW(6).
+
+Author information:
+(1)Department of Biological Structure, University of Washington, Seattle, 
+Washington 98195 Virginia Merrill Bloedel Hearing Research Center, University of 
+Washington, Seattle, Washington 98195.
+(2)Department of Biological Structure, University of Washington, Seattle, 
+Washington 98195.
+(3)Virginia Merrill Bloedel Hearing Research Center, University of Washington, 
+Seattle, Washington 98195 Department of Otolaryngology, Head and Neck Surgery, 
+University of Washington, Seattle, Washington, 98195.
+(4)Department of Biological Structure, University of Washington, Seattle, 
+Washington 98195 Virginia Merrill Bloedel Hearing Research Center, University of 
+Washington, Seattle, Washington 98195 Department of Otolaryngology, Head and 
+Neck Surgery, University of Washington, Seattle, Washington, 98195.
+(5)Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle, 
+Washington, 98109.
+(6)Department of Biological Structure, University of Washington, Seattle, 
+Washington 98195 Virginia Merrill Bloedel Hearing Research Center, University of 
+Washington, Seattle, Washington 98195 draible@uw.edu.
+
+Hair cells possess a single primary cilium, called the kinocilium, early in 
+development. While the kinocilium is lost in auditory hair cells of most species 
+it is maintained in vestibular hair cells. It has generally been believed that 
+the primary role of the kinocilium and cilia-associated genes in hair cells is 
+in the establishment of the polarity of actin-based stereocilia, the hair cell 
+mechanotransduction apparatus. Through genetic screening and testing of 
+candidate genes in zebrafish (Danio rerio) we have found that mutations in 
+multiple cilia genes implicated in intraflagellar transport (dync2h1, wdr35, 
+ift88, and traf3ip), and the ciliary transition zone (cc2d2a, mks1, and cep290) 
+lead to resistance to aminoglycoside-induced hair cell death. These genes appear 
+to have differing roles in hair cells, as mutations in intraflagellar transport 
+genes, but not transition zone genes, lead to defects in kinocilia formation and 
+processes dependent upon hair cell mechanotransduction activity. These mutants 
+highlight a novel role of cilia-associated genes in hair cells, and provide 
+powerful tools for further study.
+
+Copyright © 2016 Stawicki et al.
+
+DOI: 10.1534/g3.116.030080
+PMCID: PMC4938675
+PMID: 27207957 [Indexed for MEDLINE]
+
+
+42. Clin Chim Acta. 2016 Apr 1;455:172-80. doi: 10.1016/j.cca.2016.02.006. Epub 2016 
+Feb 11.
+
+New mutations in DYNC2H1 and WDR60 genes revealed by whole-exome sequencing in 
+two unrelated Sardinian families with Jeune asphyxiating thoracic dystrophy.
+
+Cossu C(1), Incani F(2), Serra ML(3), Coiana A(4), Crisponi G(5), Boccone L(6), 
+Rosatelli MC(7).
+
+Author information:
+(1)Dipartimento di Sanità Pubblica, Medicina Clinica e Molecolare, Unità di 
+Ricerca di Scienze Biomediche e Biotecnologie, Università degli Studi di 
+Cagliari, via Edward Jenner s/n, 09121 Cagliari, Italy. Electronic address: 
+carlacossu983@gmail.com.
+(2)Dipartimento di Sanità Pubblica, Medicina Clinica e Molecolare, Unità di 
+Ricerca di Scienze Biomediche e Biotecnologie, Università degli Studi di 
+Cagliari, via Edward Jenner s/n, 09121 Cagliari, Italy. Electronic address: 
+feincani@yahoo.it.
+(3)Dipartimento di Sanità Pubblica, Medicina Clinica e Molecolare, Unità di 
+Ricerca di Scienze Biomediche e Biotecnologie, Università degli Studi di 
+Cagliari, via Edward Jenner s/n, 09121 Cagliari, Italy. Electronic address: 
+luisa.s@inwind.it.
+(4)Dipartimento di Sanità Pubblica, Medicina Clinica e Molecolare, Unità di 
+Ricerca di Scienze Biomediche e Biotecnologie, Università degli Studi di 
+Cagliari, via Edward Jenner s/n, 09121 Cagliari, Italy. Electronic address: 
+acoiana@medicina.unica.it.
+(5)Clinica Sant'Anna, Via la Vega, 9, 09127 Cagliari, Italy. Electronic address: 
+crisponi@gmail.com.
+(6)Clinica pediatrica II, Ospedale Pediatrico Microcitemico A.Cao, AO Brotzu, 
+via Edward Jenner s/n, 09121 Cagliari, Italy. Electronic address: 
+loredana.boccone@aob.it.
+(7)Dipartimento di Sanità Pubblica, Medicina Clinica e Molecolare, Unità di 
+Ricerca di Scienze Biomediche e Biotecnologie, Università degli Studi di 
+Cagliari, via Edward Jenner s/n, 09121 Cagliari, Italy. Electronic address: 
+mariac.rosatelli@aob.it.
+
+Jeune asphyxiating thoracic dystrophy (JATD; Jeune syndrome, MIM 208500) is a 
+rare autosomal recessive chondrodysplasia, phenotypically overlapping with 
+short-rib polydactyly syndromes (SRPS). JATD typical hallmarks include skeletal 
+abnormalities such as narrow chest, shortened ribs, limbs shortened bones, extra 
+fingers and toes (polydactyly), as well as extraskeletal manifestations (renal, 
+liver and retinal disease). To date, disease-causing mutations have been found 
+in several genes, highlighting a marked genetic heterogeneity that prevents a 
+molecular diagnosis of the disease in most families. Here, we report the results 
+of whole-exome sequencing (WES) carried out in four JATD cases, belonging to 
+three unrelated families of Sardinian origin. The exome analysis allowed to 
+identify mutations not previously reported in the DYNC2H1 (MIM 603297) and WDR60 
+(MIM 615462) genes, both codifying for ciliary intraflagellar transport 
+components whose mutations are known to cause Jeune syndrome.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cca.2016.02.006
+PMID: 26874042 [Indexed for MEDLINE]
+
+
+43. Mol Hum Reprod. 2016 May;22(5):364-72. doi: 10.1093/molehr/gaw008. Epub 2016 Jan 
+28.
+
+Whole exome sequencing in recurrent early pregnancy loss.
+
+Qiao Y(1), Wen J(2), Tang F(1), Martell S(1), Shomer N(1), Leung PC(3), 
+Stephenson MD(4), Rajcan-Separovic E(5).
+
+Author information:
+(1)Department of Pathology, BC Child and Family Research Institute (CFRI), 
+University of British Columbia (UBC), Vancouver, BC, Canada.
+(2)University of Texas, Dallas, TX, USA.
+(3)Department of Obstetrics and Gynaecology, University of British Columbia, 
+Vancouver, BC, Canada V6Z 2 K5.
+(4)University of Chicago and University of Illinois at Chicago, Chicago, IL, 
+USA.
+(5)Department of Pathology, BC Child and Family Research Institute (CFRI), 
+University of British Columbia (UBC), Vancouver, BC, Canada eseparovic@cw.bc.ca.
+
+STUDY HYPOTHESIS: Exome sequencing can identify genetic causes of idiopathic 
+recurrent pregnancy loss (RPL).
+STUDY FINDING: We identified compound heterozygous deleterious mutations 
+affecting DYNC2H1 and ALOX15 in two out of four families with RPL. Both genes 
+have a role in early development. Bioinformatics analysis of all genes with rare 
+and putatively pathogenic mutations in miscarriages and couples showed 
+enrichment in pathways relevant to pregnancy loss, including the complement and 
+coagulation cascades pathways.
+WHAT IS KNOWN ALREADY: Next generation sequencing (NGS) is increasingly being 
+used to identify known and novel gene mutations in children with developmental 
+delay and in fetuses with ultrasound-detected anomalies. In contrast, NGS is 
+rarely used to study pregnancy loss. Chromosome microarray analysis detects 
+putatively causative DNA copy number variants (CNVs) in ∼2% of miscarriages and 
+CNVs of unknown significance (predominantly parental in origin) in up to 40% of 
+miscarriages. Therefore, a large number of miscarriages still have an unknown 
+cause.
+STUDY DESIGN, SAMPLES/MATERIALS, METHODS: Whole exome sequencing (WES) was 
+performed using Illumina HiSeq 2000 platform on seven euploid miscarriages from 
+four families with RPL. Golden Helix SVS v8.1.5 was used for data assessment and 
+inheritance analysis for deleterious DNA variants predicted to severely disrupt 
+protein-coding genes by introducing a frameshift, loss of the stop codon, gain 
+of the stop codon, changes in splicing or the initial codon. Webgestalt 
+(http://bioinfo.vanderbilt.edu/webgestalt/) was used for pathway and disease 
+association enrichment analysis of a gene pool containing putatively pathogenic 
+variants in miscarriages and couples in comparison to control gene pools.
+MAIN RESULTS AND THE ROLE OF CHANCE: Compound heterozygous mutations in DYNC2H1 
+and ALOX15 were identified in miscarriages from two families with RPL. DYNC2H1 
+is involved in cilia biogenesis and has been associated with fetal lethality in 
+humans. ALOX15 is expressed in placenta and its dysregulation has been 
+associated with inflammation, placental, dysfunction, abnormal oxidative stress 
+response and angiogenesis. The pool of putatively pathogenic single nucleotide 
+variants (SNVs) and small insertions and deletions (indels) detected in the 
+miscarriages showed enrichment in 'complement and coagulation cascades pathway', 
+and 'ciliary motility disorders'. We conclude that CNVs, individual SNVs and 
+pool of deleterious gene mutations identified by exome sequencing could 
+contribute to RPL.
+LIMITATIONS, REASONS FOR CAUTION: The size of our sample cohort is small. The 
+functional effect of candidate mutations should be evaluated to determine 
+whether the mutations are causative.
+WIDER IMPLICATIONS OF THE FINDINGS: This is the first study to assess whether 
+SNVs may contribute to the pathogenesis of miscarriage. Furthermore, our 
+findings suggest that collective effect of mutations in relevant biological 
+pathways could be implicated in RPL.
+STUDY FUNDING AND COMPETING INTERESTS: The study was funded by Canadian 
+Institutes of Health Research (grant MOP 106467) and Michael Smith Foundation of 
+Health Research Career Scholar salary award to ERS.
+
+© The Author 2016. Published by Oxford University Press on behalf of the 
+European Society of Human Reproduction and Embryology. All rights reserved. For 
+Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/molehr/gaw008
+PMCID: PMC4847612
+PMID: 26826164 [Indexed for MEDLINE]
+
+
+44. Adv Exp Med Biol. 2016;854:627-33. doi: 10.1007/978-3-319-17121-0_83.
+
+The Role of Intraflagellar Transport in the Photoreceptor Sensory Cilium.
+
+Taub DG(1), Liu Q(2).
+
+Author information:
+(1)Ocular Genomics Institute, and Berman-Gund Laboratory for the Study of 
+Retinal Degenerations, Department of Ophthalmology, Massachusetts Eye and Ear 
+Infirmary, Harvard Medical School, 243 Charles St., 5th Floor, 563C, 02114, 
+Boston, MA, USA. dtaub1230@gmail.com.
+(2)Ocular Genomics Institute, and Berman-Gund Laboratory for the Study of 
+Retinal Degenerations, Department of Ophthalmology, Massachusetts Eye and Ear 
+Infirmary, Harvard Medical School, 243 Charles St., 5th Floor, 563C, 02114, 
+Boston, MA, USA. qin_liu@meei.harvard.edu.
+
+The photoreceptor is a complex specialized cell in which a major component 
+responsible for visual transduction is the photoreceptor sensory cilium (PSC). 
+Building and maintenance of the PSC requires the transport of large proteins 
+along microtubules that extend from the inner segments to the outer segments. A 
+key process, termed intraflagellar transport (IFT), has been recognized as an 
+essential phenomenon for photoreceptor development and maintenance, and exciting 
+new studies have highlighted its importance in retinal and cilia related 
+diseases. This review focuses on the important roles of IFT players, including 
+motor proteins, IFT proteins, and photoreceptor-specific cargos in photoreceptor 
+sensory cilium. In addition, specific IFT components that are involved in 
+inherited human diseases are discussed.
+
+DOI: 10.1007/978-3-319-17121-0_83
+PMID: 26427468 [Indexed for MEDLINE]
+
+
+45. Sci Rep. 2015 Jul 1;5:11649. doi: 10.1038/srep11649.
+
+DYNC2LI1 mutations broaden the clinical spectrum of dynein-2 defects.
+
+Kessler K(1), Wunderlich I(1), Uebe S(1), Falk NS(2), Gießl A(2), Brandstätter 
+JH(2), Popp B(1), Klinger P(3), Ekici AB(1), Sticht H(4), Dörr HG(5), Reis A(1), 
+Roepman R(6), Seemanová E(7), Thiel CT(1).
+
+Author information:
+(1)Institute of Human Genetics, Friedrich-Alexander-Universität 
+Erlangen-Nürnberg, Erlangen, Germany.
+(2)Animal Physiology, Friedrich-Alexander-Universität Erlangen-Nürnberg, 
+Erlangen, Germany.
+(3)Department of Orthopaedic Rheumatology, Friedrich-Alexander-Universität 
+Erlangen-Nürnberg, Erlangen, Germany.
+(4)Institute of Biochemistry, Friedrich-Alexander-Universität Erlangen-Nürnberg, 
+Erlangen, Germany.
+(5)Department of Pediatrics and Adolescent Medicine, 
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany.
+(6)Department of Human Genetics, Radboud University Medical Center, Nijmegen, 
+Netherlands.
+(7)Department of Clinical Genetics, Institute of Biology and Medical Genetics, 
+2nd Medical School, Charles University, Prague, Czech Republic.
+
+Skeletal ciliopathies are a heterogeneous group of autosomal recessive 
+osteochondrodysplasias caused by defects in formation, maintenance and function 
+of the primary cilium. Mutations in the underlying genes affect the molecular 
+motors, intraflagellar transport complexes (IFT), or the basal body. The more 
+severe phenotypes are caused by defects of genes of the dynein-2 complex, where 
+mutations in DYNC2H1, WDR34 and WDR60 have been identified. In a patient with a 
+Jeune-like phenotype we performed exome sequencing and identified compound 
+heterozygous missense and nonsense mutations in DYNC2LI1 segregating with the 
+phenotype. DYNC2LI1 is ubiquitously expressed and interacts with DYNC2H1 to form 
+the dynein-2 complex important for retrograde IFT. Using DYNC2LI1 siRNA 
+knockdown in fibroblasts we identified a significantly reduced cilia length 
+proposed to affect cilia function. In addition, depletion of DYNC2LI1 induced 
+altered cilia morphology with broadened ciliary tips and accumulation of IFT-B 
+complex proteins in accordance with retrograde IFT defects. Our results expand 
+the clinical spectrum of ciliopathies caused by defects of the dynein-2 complex.
+
+DOI: 10.1038/srep11649
+PMCID: PMC4486972
+PMID: 26130459 [Indexed for MEDLINE]
+
+
+46. Hum Mol Genet. 2015 Jul 15;24(14):4126-37. doi: 10.1093/hmg/ddv152. Epub 2015 
+Apr 23.
+
+Specific variants in WDR35 cause a distinctive form of Ellis-van Creveld 
+syndrome by disrupting the recruitment of the EvC complex and SMO into the 
+cilium.
+
+Caparrós-Martín JA(1), De Luca A(2), Cartault F(3), Aglan M(4), Temtamy S(4), 
+Otaify GA(4), Mehrez M(4), Valencia M(1), Vázquez L(5), Alessandri JL(3), Nevado 
+J(6), Rueda-Arenas I(7), Heath KE(6), Digilio MC(8), Dallapiccola B(8), Goodship 
+JA(9), Mill P(10), Lapunzina P(6), Ruiz-Perez VL(11).
+
+Author information:
+(1)Instituto de Investigaciones Biomédicas, Consejo Superior de Investigaciones 
+Científicas-Universidad Autónoma de Madrid, Madrid, Spain, CIBER de Enfermedades 
+Raras (CIBERER), Madrid, Spain.
+(2)Casa Sollievo della Sofferenza Hospital, IRCCS, San Giovanni Rotondo, Italy.
+(3)CHU de la Réunion Hôpital Félix Guyon, Saint-Denis, Île de la Réunion, 
+France.
+(4)Human Genetics and Genome Research Division, Centre of Excellence of Human 
+Genetics, National Research Centre, Cairo, Egypt.
+(5)Instituto de Investigaciones Biomédicas, Consejo Superior de Investigaciones 
+Científicas-Universidad Autónoma de Madrid, Madrid, Spain.
+(6)CIBER de Enfermedades Raras (CIBERER), Madrid, Spain, Instituto de Genética 
+Médica y Molecular (INGEMM), Hospital Universitario La Paz-IdiPAZ, Universidad 
+Autónoma de Madrid, Madrid, Spain.
+(7)Instituto de Genética Médica y Molecular (INGEMM), Hospital Universitario La 
+Paz-IdiPAZ, Universidad Autónoma de Madrid, Madrid, Spain.
+(8)Bambino Gesù Children Hospital, IRCCS, Rome, Italy.
+(9)Institute of Genetic Medicine, Newcastle University, Newcastle upon Tyne, UK 
+and.
+(10)MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine, 
+University of Edinburgh, Western General Hospital, Edinburgh, UK.
+(11)Instituto de Investigaciones Biomédicas, Consejo Superior de Investigaciones 
+Científicas-Universidad Autónoma de Madrid, Madrid, Spain, CIBER de Enfermedades 
+Raras (CIBERER), Madrid, Spain, vlruiz@iib.uam.es.
+
+Most patients with Ellis-van Creveld syndrome (EvC) are identified with 
+pathogenic changes in EVC or EVC2, however further genetic heterogeneity has 
+been suggested. In this report we describe pathogenic splicing variants in 
+WDR35, encoding retrograde intraflagellar transport protein 121 (IFT121), in 
+three families with a clinical diagnosis of EvC but having a distinctive 
+phenotype. To understand why WDR35 variants result in EvC, we analysed EVC, EVC2 
+and Smoothened (SMO) in IFT-A deficient cells. We found that the three proteins 
+failed to localize to Wdr35(-/-) cilia, but not to the cilium of the IFT 
+retrograde motor mutant Dync2h1(-/-), indicating that IFT121 is specifically 
+required for their entry into the ciliary compartment. Furthermore expression of 
+Wdr35 disease cDNAs in Wdr35(-/-) fibroblasts revealed that the newly identified 
+variants lead to Hedgehog signalling defects resembling those of Evc(-/-) and 
+Evc2(-/-) mutants. Together our data indicate that splicing variants in WDR35, 
+and possibly in other IFT-A components, underlie a number of EvC cases by 
+disrupting targeting of both the EvC complex and SMO to cilia.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/hmg/ddv152
+PMCID: PMC4560068
+PMID: 25908617 [Indexed for MEDLINE]
+
+
+47. BMC Dev Biol. 2015 Feb 3;15:9. doi: 10.1186/s12861-015-0057-x.
+
+The medaka dhc2 mutant reveals conserved and distinct mechanisms of Hedgehog 
+signaling in teleosts.
+
+Yamamoto T(1), Tsukahara T(2), Ishiguro T(3)(4), Hagiwara H(5), Taira M(6), 
+Takeda H(7).
+
+Author information:
+(1)Department of Biological Sciences, Graduate School of Science, University of 
+Tokyo, 7-3-1 Hongo, Bunkyo, Tokyo, 113-0033, Japan. 
+tyamamoto@bs.s.u-tokyo.ac.jp.
+(2)Department of Biological Sciences, Graduate School of Science, University of 
+Tokyo, 7-3-1 Hongo, Bunkyo, Tokyo, 113-0033, Japan. ttsuka@bs.s.u-tokyo.ac.jp.
+(3)Department of Biological Sciences, Graduate School of Science, University of 
+Tokyo, 7-3-1 Hongo, Bunkyo, Tokyo, 113-0033, Japan. tishiguro@iam.u-tokyo.ac.jp.
+(4)Present address: Institute of Molecular and Cellular Biosciences, University 
+of Tokyo, 1-1-1 Yayoi, Tokyo, 113-0032, Japan. tishiguro@iam.u-tokyo.ac.jp.
+(5)Department of Anatomy and Cell Biology, Teikyo University School of Medicine, 
+2-11-1 Kaga, Itabashi, Tokyo, 173-8605, Japan. hhagiwar@med.teikyo-u.ac.jp.
+(6)Department of Biological Sciences, Graduate School of Science, University of 
+Tokyo, 7-3-1 Hongo, Bunkyo, Tokyo, 113-0033, Japan. m_taira@bs.s.u-tokyo.ac.jp.
+(7)Department of Biological Sciences, Graduate School of Science, University of 
+Tokyo, 7-3-1 Hongo, Bunkyo, Tokyo, 113-0033, Japan. htakeda@bs.s.u-tokyo.ac.jp.
+
+BACKGROUND: Primary cilia are essential for Hedgehog (Hh) signal transduction in 
+vertebrates. Although the core components of the Hh pathway are highly 
+conserved, the dependency on cilia in Hh signaling is considered to be lower in 
+fish than in mice, suggesting the presence of species-specific mechanisms for Hh 
+signal transduction.
+RESULTS: To precisely understand the role of cilia in Hh signaling in fish and 
+explore the evolution of Hh signaling, we have generated a maternal-zygotic 
+medaka (Oryzias latipes) mutant that lacks cytoplasmic dynein heavy chain 2 
+(dhc2; MZdhc2), a component required for retrograde intraflagellar transport. We 
+found that MZdhc2 exhibited the shortened cilia and partial defects in Hh 
+signaling, although the Hh defects were milder than zebrafish mutants which 
+completely lack cilia. This result suggests that Hh activity in fish depends on 
+the length of cilium. However, the activity of Hh signaling in MZdhc2 appeared 
+to be higher than that in mouse Dnchc2 mutants, suggesting a lower requirement 
+for cilia in Hh signaling in fish. We confirmed that Ptch1 receptor is 
+exclusively localized on the cilium in fish as in mammals. Subsequent analyses 
+revealed that Fused, an essential mediator for Hh signaling in Drosophila and 
+fish but not in mammals, augments the activity of Hh signaling in fish as a 
+transcriptional target of Hh signaling.
+CONCLUSIONS: Ciliary requirement for Hh signaling in fish is lower than that in 
+mammals, possibly due to fused-mediated positive feedback in Hh signaling. The 
+finding of this fish-specific augmentation provides a novel insight into the 
+evolution of Hh signaling.
+
+DOI: 10.1186/s12861-015-0057-x
+PMCID: PMC4320493
+PMID: 25645819 [Indexed for MEDLINE]
+
+
+48. Clin Genet. 2015 Dec;88(6):550-7. doi: 10.1111/cge.12550. Epub 2015 Feb 17.
+
+Whole exome sequencing is an efficient, sensitive and specific method for 
+determining the genetic cause of short-rib thoracic dystrophies.
+
+McInerney-Leo AM(1), Harris JE(1), Leo PJ(1), Marshall MS(1), Gardiner B(1), 
+Kinning E(2), Leong HY(3), McKenzie F(4)(5), Ong WP(3), Vodopiutz J(6), Wicking 
+C(7), Brown MA(1), Zankl A(8)(9), Duncan EL(1)(10)(11).
+
+Author information:
+(1)The University of Queensland Diamantina Institute, Translational Research 
+Institute, Princess Alexandra Hospital, Woolloongabba, QLD 4102, Australia.
+(2)West of Scotland Genetics Service, Southern General Hospital, Glasgow, G51 
+4TF, UK.
+(3)Genetics Department, Hospital Kuala Lumpur, Kuala Lumpur, Malaysia.
+(4)Genetic Services of Western Australia, Subiaco, WA 6008, Australia.
+(5)School of Paediatrics and Child Health, The University of Western Australia, 
+Crawley, WA 6009, Australia.
+(6)Department of Pediatrics and Adolescent Medicine Medical University of 
+Vienna, A-1090 Vienna Waehringerguertel 18-20, Vienna, Austria.
+(7)Institute for Molecular Bioscience, The University of Queensland, St Lucia, 
+QLD 4072, Australia.
+(8)Discipline of Genetic Medicine, The University of Sydney, Sydney, Australia.
+(9)Academic Department of Medical Genetics, Sydney Children's Hospital Network 
+(Westmead), Sydney, Australia.
+(10)Department of Endocrinology, James Mayne Building, Royal Brisbane and 
+Women's Hospital, Butterfield Road, Herston, QLD 4029, Australia.
+(11)The University of Queensland, University of Queensland Centre for Clinical 
+Research, Herston, QLD 4029, Australia.
+
+Short-rib thoracic dystrophies (SRTDs) are congenital disorders due to defects 
+in primary cilium function. SRTDs are recessively inherited with mutations 
+identified in 14 genes to date (comprising 398 exons). Conventional mutation 
+detection (usually by iterative Sanger sequencing) is inefficient and expensive, 
+and often not undertaken. Whole exome massive parallel sequencing has been used 
+to identify new genes for SRTD (WDR34, WDR60 and IFT172); however, the clinical 
+utility of whole exome sequencing (WES) has not been established. WES was 
+performed in 11 individuals with SRTDs. Compound heterozygous or homozygous 
+mutations were identified in six confirmed SRTD genes in 10 individuals (IFT172, 
+DYNC2H1, TTC21B, WDR60, WDR34 and NEK1), giving overall sensitivity of 90.9%. 
+WES data from 993 unaffected individuals sequenced using similar technology 
+showed two individuals with rare (minor allele frequency <0.005) compound 
+heterozygous variants of unknown significance in SRTD genes (specificity >99%). 
+Costs for consumables, laboratory processing and bioinformatic analysis were 
+<AU$850 per sample. WES is sensitive, specific, efficient and cost-effective for 
+mutation screening as well as gene discovery in SRTDs and can be considered a 
+first-line methodology for mutation identification in affected individuals.
+
+© 2014 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cge.12550
+PMID: 25492405 [Indexed for MEDLINE]
+
+
+49. Congenit Anom (Kyoto). 2015 Aug;55(3):155-7. doi: 10.1111/cga.12098.
+
+Novel compound heterozygous mutations in DYNC2H1 in a patient with severe 
+short-rib polydactyly syndrome type III phenotype.
+
+Okamoto T(1), Nagaya K(1), Kawata Y(1), Asai H(1), Tsuchida E(1), Nohara F(1), 
+Okajima K(1), Azuma H(1).
+
+Author information:
+(1)Department of Pediatrics, Asahikawa Medical University, Hokkaido, Japan.
+
+Short-rib polydactyly syndrome type III is an autosomal recessive lethal 
+skeletal ciliopathy, which is phenotypically similar to nonlethal asphyxiating 
+thoracic dystrophy. Mutations in DYNC2H1 have been identified in both of these 
+disorders, indicating that they are variants of a single disorder. However, 
+short-rib polydactyly syndrome type III is the more severe variant. Here, we 
+report novel compound heterozygous mutations in DYNC2H1 (p.E1894fsX10 and 
+p.R3004C) in a patient with typical short-rib polydactyly syndrome type III 
+phenotype. R3004 is located within the microtubule-binding domain of DYNC2H1, 
+and its substitution is predicted to disrupt the interaction with microtubules. 
+Considering the severe phenotype of our patient, our findings suggest that R3004 
+may be a key residue for the microtubule-binding affinity of dynein.
+
+© 2014 Japanese Teratology Society.
+
+DOI: 10.1111/cga.12098
+PMID: 25410398 [Indexed for MEDLINE]
+
+
+50. Development. 2014 Oct;141(20):3966-77. doi: 10.1242/dev.107755.
+
+ATMIN is a transcriptional regulator of both lung morphogenesis and 
+ciliogenesis.
+
+Goggolidou P(1), Stevens JL(1), Agueci F(1), Keynton J(1), Wheway G(2), Grimes 
+DT(1), Patel SH(1), Hilton H(1), Morthorst SK(3), DiPaolo A(1), Williams DJ(1), 
+Sanderson J(1), Khoronenkova SV(4), Powles-Glover N(1), Ermakov A(1), Esapa 
+CT(1), Romero R(1), Dianov GL(5), Briscoe J(6), Johnson CA(2), Pedersen LB(3), 
+Norris DP(7).
+
+Author information:
+(1)Mammalian Genetics Unit, MRC Harwell, Harwell Science and Innovation Campus, 
+Oxfordshire OX11 0RD, UK.
+(2)Section of Ophthalmology and Neurosciences, Wellcome Trust Brenner Building, 
+Leeds Institute of Molecular Medicine, St James's University Hospital, Beckett 
+Street, Leeds LS9 7TF, UK.
+(3)Department of Biology, University of Copenhagen, Universitetsparken 13, 
+Copenhagen, OE DK-2100, Denmark.
+(4)Cancer Research UK and Medical Research Council Oxford Institute for 
+Radiation Oncology, Department of Oncology, University of Oxford, Oxford OX3 
+7DQ, UK Department of Chemistry, Lomonosov Moscow State University, Leninskie 
+Gory 1-11, Moscow 119991, Russia.
+(5)Cancer Research UK and Medical Research Council Oxford Institute for 
+Radiation Oncology, Department of Oncology, University of Oxford, Oxford OX3 
+7DQ, UK.
+(6)MRC National Institute for Medical Research, Mill Hill, London NW7 1AA, UK.
+(7)Mammalian Genetics Unit, MRC Harwell, Harwell Science and Innovation Campus, 
+Oxfordshire OX11 0RD, UK d.norris@har.mrc.ac.uk.
+
+Initially identified in DNA damage repair, ATM-interactor (ATMIN) further 
+functions as a transcriptional regulator of lung morphogenesis. Here we analyse 
+three mouse mutants, Atmin(gpg6/gpg6), Atmin(H210Q/H210Q) and Dynll1(GT/GT), 
+revealing how ATMIN and its transcriptional target dynein light chain LC8-type 1 
+(DYNLL1) are required for normal lung morphogenesis and ciliogenesis. Expression 
+screening of ciliogenic genes confirmed Dynll1 to be controlled by ATMIN and 
+further revealed moderately altered expression of known intraflagellar transport 
+(IFT) protein-encoding loci in Atmin mutant embryos. Significantly, 
+Dynll1(GT/GT) embryonic cilia exhibited shortening and bulging, highly similar 
+to the characterised retrograde IFT phenotype of Dync2h1. Depletion of ATMIN or 
+DYNLL1 in cultured cells recapitulated the in vivo ciliogenesis phenotypes and 
+expression of DYNLL1 or the related DYNLL2 rescued the effects of loss of ATMIN, 
+demonstrating that ATMIN primarily promotes ciliogenesis by regulating Dynll1 
+expression. Furthermore, DYNLL1 as well as DYNLL2 localised to cilia in puncta, 
+consistent with IFT particles, and physically interacted with WDR34, a mammalian 
+homologue of the Chlamydomonas cytoplasmic dynein 2 intermediate chain that also 
+localised to the cilium. This study extends the established Atmin-Dynll1 
+relationship into a developmental and a ciliary context, uncovering a novel 
+series of interactions between DYNLL1, WDR34 and ATMIN. This identifies 
+potential novel components of cytoplasmic dynein 2 and furthermore provides 
+fresh insights into the molecular pathogenesis of human skeletal ciliopathies.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.107755
+PMCID: PMC4197704
+PMID: 25294941 [Indexed for MEDLINE]
+
+
+51. Mol Biol Cell. 2014 Sep 1;25(17):2620-33. doi: 10.1091/mbc.E14-05-0961. Epub 
+2014 Jul 2.
+
+The intraflagellar transport dynein complex of trypanosomes is made of a 
+heterodimer of dynein heavy chains and of light and intermediate chains of 
+distinct functions.
+
+Blisnick T(1), Buisson J(1), Absalon S(1), Marie A(1), Cayet N(2), Bastin P(3).
+
+Author information:
+(1)Trypanosome Cell Biology Unit, Institut Pasteur, and Centre National de la 
+Recherche Scientifique URA 2581, 75015 Paris, France.
+(2)Imagopole Platform, Institut Pasteur, 75015 Paris, France.
+(3)Trypanosome Cell Biology Unit, Institut Pasteur, and Centre National de la 
+Recherche Scientifique URA 2581, 75015 Paris, France pbastin@pasteur.fr.
+
+Cilia and flagella are assembled by intraflagellar transport (IFT) of protein 
+complexes that bring tubulin and other precursors to the incorporation site at 
+their distal tip. Anterograde transport is driven by kinesin, whereas retrograde 
+transport is ensured by a specific dynein. In the protist Trypanosoma brucei, 
+two distinct genes encode fairly different dynein heavy chains (DHCs; ∼40% 
+identity) termed DHC2.1 and DHC2.2, which form a heterodimer and are both 
+essential for retrograde IFT. The stability of each heavy chain relies on the 
+presence of a dynein light intermediate chain (DLI1; also known as 
+XBX-1/D1bLIC). The presence of both heavy chains and of DLI1 at the base of the 
+flagellum depends on the intermediate dynein chain DIC5 (FAP133/WDR34). In the 
+IFT140(RNAi) mutant, an IFT-A protein essential for retrograde transport, the 
+IFT dynein components are found at high concentration at the flagellar base but 
+fail to penetrate the flagellar compartment. We propose a model by which the IFT 
+dynein particle is assembled in the cytoplasm, reaches the base of the 
+flagellum, and associates with the IFT machinery in a manner dependent on the 
+IFT-A complex.
+
+© 2014 Blisnick et al. This article is distributed by The American Society for 
+Cell Biology under license from the author(s). Two months after publication it 
+is available to the public under an Attribution–Noncommercial–Share Alike 3.0 
+Unported Creative Commons License 
+(http://creativecommons.org/licenses/by-nc-sa/3.0).
+
+DOI: 10.1091/mbc.E14-05-0961
+PMCID: PMC4148251
+PMID: 24989795 [Indexed for MEDLINE]
+
+
+52. Cilia. 2013 Oct 30;2(1):14. doi: 10.1186/2046-2530-2-14.
+
+New mutations in flagellar motors identified by whole genome sequencing in 
+Chlamydomonas.
+
+Lin H(1), Nauman NP, Albee AJ, Hsu S, Dutcher SK.
+
+Author information:
+(1)Department of Genetics, Washington University, 660 South Euclid Avenue, St 
+Louis, MO 63110, USA. dutcher@genetics.wustl.edu.
+
+BACKGROUND: The building of a cilium or flagellum requires molecular motors and 
+associated proteins that allow the relocation of proteins from the cell body to 
+the distal end and the return of proteins to the cell body in a process termed 
+intraflagellar transport (IFT). IFT trains are carried out by kinesin and back 
+to the cell body by dynein.
+METHODS: We used whole genome sequencing to identify the causative mutations for 
+two temperature-sensitive flagellar assembly mutants in Chlamydomonas and 
+validated the changes using reversion analysis. We examined the effect of these 
+mutations on the localization of IFT81, an IFT complex B protein, the 
+cytoplasmic dynein heavy chain (DHC1b), and the dynein light intermediate chain 
+(D1bLIC).
+RESULTS: The strains, fla18 and fla24, have mutations in kinesin-2 and 
+cytoplasmic dynein, respectively. The fla18 mutation alters the same glutamic 
+acid (E24G) mutated in the fla10-14 allele (E24K). The fla18 strain loses 
+flagella at 32?C more rapidly than the E24K allele but less rapidly than the 
+fla10-1 allele. The fla18 mutant loses its flagella by detachment rather than by 
+shortening. The fla24 mutation falls in cytoplasmic dynein and changes a 
+completely conserved amino acid (L3243P) in an alpha helix in the AAA5 domain. 
+The fla24 mutant loses its flagella by shortening within 6 hours at 32?C. DHC1b 
+protein is reduced by 18-fold and D1bLIC is reduced by 16-fold at 21?C compared 
+to wild-type cells. We identified two pseudorevertants (L3243S and L3243R), 
+which remain flagellated at 32?C. Although fla24 cells assemble full-length 
+flagella at 21?C, IFT81 protein localization is dramatically altered. Instead of 
+localizing at the basal body and along the flagella, IFT81 is concentrated at 
+the proximal end of the flagella. The pseudorevertants show wild-type IFT81 
+localization at 21?C, but proximal end localization of IFT81 at 32?C.
+CONCLUSIONS: The change in the AAA5 domain of the cytoplasmic dynein in fla24 
+may block the recycling of IFT trains after retrograde transport. It is clear 
+that different alleles in the flagellar motors reveal different functions and 
+roles. Multiple alleles will be important for understanding structure-function 
+relationships.
+
+DOI: 10.1186/2046-2530-2-14
+PMCID: PMC4132587
+PMID: 24229452
+
+
+53. Am J Hum Genet. 2013 Nov 7;93(5):932-44. doi: 10.1016/j.ajhg.2013.10.003. Epub 
+2013 Oct 31.
+
+Mutations in the gene encoding IFT dynein complex component WDR34 cause Jeune 
+asphyxiating thoracic dystrophy.
+
+Schmidts M(1), Vodopiutz J, Christou-Savina S, Cortés CR, McInerney-Leo AM, Emes 
+RD, Arts HH, Tüysüz B, D'Silva J, Leo PJ, Giles TC, Oud MM, Harris JA, Koopmans 
+M, Marshall M, Elçioglu N, Kuechler A, Bockenhauer D, Moore AT, Wilson LC, 
+Janecke AR, Hurles ME, Emmet W, Gardiner B, Streubel B, Dopita B, Zankl A, 
+Kayserili H, Scambler PJ, Brown MA, Beales PL, Wicking C; UK10K; Duncan EL, 
+Mitchison HM.
+
+Author information:
+(1)Molecular Medicine Unit and Birth Defect Research Centre, Institute of Child 
+Health, University College London (UCL), London WC1N 1EH, UK. Electronic 
+address: miriam.schmidts.10@ucl.ac.uk.
+
+Bidirectional (anterograde and retrograde) motor-based intraflagellar transport 
+(IFT) governs cargo transport and delivery processes that are essential for 
+primary cilia growth and maintenance and for hedgehog signaling functions. The 
+IFT dynein-2 motor complex that regulates ciliary retrograde protein transport 
+contains a heavy chain dynein ATPase/motor subunit, DYNC2H1, along with other 
+less well functionally defined subunits. Deficiency of IFT proteins, including 
+DYNC2H1, underlies a spectrum of skeletal ciliopathies. Here, by using exome 
+sequencing and a targeted next-generation sequencing panel, we identified a 
+total of 11 mutations in WDR34 in 9 families with the clinical diagnosis of 
+Jeune syndrome (asphyxiating thoracic dystrophy). WDR34 encodes a WD40 
+repeat-containing protein orthologous to Chlamydomonas FAP133, a dynein 
+intermediate chain associated with the retrograde intraflagellar transport 
+motor. Three-dimensional protein modeling suggests that the identified mutations 
+all affect residues critical for WDR34 protein-protein interactions. We find 
+that WDR34 concentrates around the centrioles and basal bodies in mammalian 
+cells, also showing axonemal staining. WDR34 coimmunoprecipitates with the 
+dynein-1 light chain DYNLL1 in vitro, and mining of proteomics data suggests 
+that WDR34 could represent a previously unrecognized link between the 
+cytoplasmic dynein-1 and IFT dynein-2 motors. Together, these data show that 
+WDR34 is critical for ciliary functions essential to normal development and 
+survival, most probably as a previously unrecognized component of the mammalian 
+dynein-IFT machinery.
+
+Copyright © 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2013.10.003
+PMCID: PMC3824113
+PMID: 24183451 [Indexed for MEDLINE]
+
+
+54. Am J Hum Genet. 2013 Nov 7;93(5):926-31. doi: 10.1016/j.ajhg.2013.10.007. Epub 
+2013 Oct 31.
+
+WDR34 mutations that cause short-rib polydactyly syndrome type III/severe 
+asphyxiating thoracic dysplasia reveal a role for the NF-κB pathway in cilia.
+
+Huber C(1), Wu S, Kim AS, Sigaudy S, Sarukhanov A, Serre V, Baujat G, Le Quan 
+Sang KH, Rimoin DL, Cohn DH, Munnich A, Krakow D, Cormier-Daire V.
+
+Author information:
+(1)Department of Genetics, INSERM U781, Université Paris Descartes-Sorbonne 
+Paris Cité, Institut Imagine, Hôpital Necker Enfants Malades (AP-HP), Paris 
+75015, France.
+
+Short-rib polydactyly (SRP) syndrome type III, or Verma-Naumoff syndrome, is an 
+autosomal-recessive chondrodysplasia characterized by short ribs, a narrow 
+thorax, short long bones, an abnormal acetabulum, and numerous extraskeletal 
+malformations and is lethal in the perinatal period. Presently, mutations in two 
+genes, IFT80 and DYNC2H1, have been identified as being responsible for SRP type 
+III. Via homozygosity mapping in three affected siblings, a locus for the 
+disease was identified on chromosome 9q34.11, and homozygosity for three 
+missense mutations in WDR34 were found in three independent families, as well as 
+compound heterozygosity for mutations in one family. WDR34 encodes a member of 
+the WD repeat protein family with five WD40 domains, which acts as a 
+TAK1-associated suppressor of the IL-1R/TLR3/TLR4-induced NF-κB activation 
+pathway. We showed, through structural modeling, that two of the three mutations 
+altered specific structural domains of WDR34. We found that primary cilia in 
+WDR34 mutant fibroblasts were significantly shorter than normal and had a 
+bulbous tip. This report expands on the pathogenesis of SRP type III and 
+demonstrates that a regulator of the NF-κB activation pathway is involved in the 
+pathogenesis of the skeletal ciliopathies.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2013.10.007
+PMCID: PMC3824112
+PMID: 24183449 [Indexed for MEDLINE]
+
+
+55. Am J Hum Genet. 2013 Nov 7;93(5):915-25. doi: 10.1016/j.ajhg.2013.09.012. Epub 
+2013 Oct 17.
+
+Defects in the IFT-B component IFT172 cause Jeune and Mainzer-Saldino syndromes 
+in humans.
+
+Halbritter J(1), Bizet AA, Schmidts M, Porath JD, Braun DA, Gee HY, 
+McInerney-Leo AM, Krug P, Filhol E, Davis EE, Airik R, Czarnecki PG, Lehman AM, 
+Trnka P, Nitschké P, Bole-Feysot C, Schueler M, Knebelmann B, Burtey S, Szabó 
+AJ, Tory K, Leo PJ, Gardiner B, McKenzie FA, Zankl A, Brown MA, Hartley JL, 
+Maher ER, Li C, Leroux MR, Scambler PJ, Zhan SH, Jones SJ, Kayserili H, Tuysuz 
+B, Moorani KN, Constantinescu A, Krantz ID, Kaplan BS, Shah JV; UK10K 
+Consortium; Hurd TW, Doherty D, Katsanis N, Duncan EL, Otto EA, Beales PL, 
+Mitchison HM, Saunier S, Hildebrandt F.
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, Boston Children's Hospital 
+and Harvard Medical School, Boston, MA 02115, USA.
+
+Intraflagellar transport (IFT) depends on two evolutionarily conserved modules, 
+subcomplexes A (IFT-A) and B (IFT-B), to drive ciliary assembly and maintenance. 
+All six IFT-A components and their motor protein, DYNC2H1, have been linked to 
+human skeletal ciliopathies, including asphyxiating thoracic dystrophy (ATD; 
+also known as Jeune syndrome), Sensenbrenner syndrome, and Mainzer-Saldino 
+syndrome (MZSDS). Conversely, the 14 subunits in the IFT-B module, with the 
+exception of IFT80, have unknown roles in human disease. To identify additional 
+IFT-B components defective in ciliopathies, we independently performed different 
+mutation analyses: candidate-based sequencing of all IFT-B-encoding genes in 
+1,467 individuals with a nephronophthisis-related ciliopathy or whole-exome 
+resequencing in 63 individuals with ATD. We thereby detected biallelic mutations 
+in the IFT-B-encoding gene IFT172 in 12 families. All affected individuals 
+displayed abnormalities of the thorax and/or long bones, as well as renal, 
+hepatic, or retinal involvement, consistent with the diagnosis of ATD or MZSDS. 
+Additionally, cerebellar aplasia or hypoplasia characteristic of Joubert 
+syndrome was present in 2 out of 12 families. Fibroblasts from affected 
+individuals showed disturbed ciliary composition, suggesting alteration of 
+ciliary transport and signaling. Knockdown of ift172 in zebrafish recapitulated 
+the human phenotype and demonstrated a genetic interaction between ift172 and 
+ift80. In summary, we have identified defects in IFT172 as a cause of complex 
+ATD and MZSDS. Our findings link the group of skeletal ciliopathies to an 
+additional IFT-B component, IFT172, similar to what has been shown for IFT-A.
+
+Copyright © 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2013.09.012
+PMCID: PMC3824130
+PMID: 24140113 [Indexed for MEDLINE]
+
+
+56. J Med Genet. 2013 May;50(5):309-23. doi: 10.1136/jmedgenet-2012-101284. Epub 
+2013 Mar 1.
+
+Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating 
+thoracic dystrophy (Jeune syndrome) without major polydactyly, renal or retinal 
+involvement.
+
+Schmidts M(1), Arts HH, Bongers EM, Yap Z, Oud MM, Antony D, Duijkers L, Emes 
+RD, Stalker J, Yntema JB, Plagnol V, Hoischen A, Gilissen C, Forsythe E, Lausch 
+E, Veltman JA, Roeleveld N, Superti-Furga A, Kutkowska-Kazmierczak A, Kamsteeg 
+EJ, Elçioğlu N, van Maarle MC, Graul-Neumann LM, Devriendt K, Smithson SF, 
+Wellesley D, Verbeek NE, Hennekam RC, Kayserili H, Scambler PJ, Beales PL; 
+UK10K; Knoers NV, Roepman R, Mitchison HM.
+
+Collaborators: Al-Turki S, Anderson C, Antony D, Barroso I, Beales P, Bentham J, 
+Bhattacharya S, Carss K, Chatterjee K, Cirak S, Cosgrove C, Danecek P, Durbin R, 
+Fitzpatrick D, Floyd J, Foley RA, Franklin C, Futema M, Humphries SE, Hurles M, 
+Joyce C, McCarthy S, Mitchison HM, Muddyman D, Muntoni F, O'Rahilly S, 
+Onoufriadis A, Payne F, Plagnol V, Raymond L, Savage DB, Scambler PJ, Schmidts 
+M, Schoenmakers N, Semple R, Serra E, Stalker J, van Kogelenberg M, 
+Vijayarangakannan P, Walter K, Whittall R, Williamson K.
+
+Author information:
+(1)Molecular Medicine Unit, Birth Defects Research Centre, University College 
+London UCL Institute of Child Health, 30 Guilford Street, London WC1N 1EH, UK.
+
+Comment in
+    doi: 10.1136/jmedgenet-2012-101282.
+
+BACKGROUND: Jeune asphyxiating thoracic dystrophy (JATD) is a rare, often 
+lethal, recessively inherited chondrodysplasia characterised by shortened ribs 
+and long bones, sometimes accompanied by polydactyly, and renal, liver and 
+retinal disease. Mutations in intraflagellar transport (IFT) genes cause JATD, 
+including the IFT dynein-2 motor subunit gene DYNC2H1. Genetic heterogeneity and 
+the large DYNC2H1 gene size have hindered JATD genetic diagnosis.
+AIMS AND METHODS: To determine the contribution to JATD we screened DYNC2H1 in 
+71 JATD patients JATD patients combining SNP mapping, Sanger sequencing and 
+exome sequencing.
+RESULTS AND CONCLUSIONS: We detected 34 DYNC2H1 mutations in 29/71 (41%) 
+patients from 19/57 families (33%), showing it as a major cause of JATD 
+especially in Northern European patients. This included 13 early protein 
+termination mutations (nonsense/frameshift, deletion, splice site) but no 
+patients carried these in combination, suggesting the human phenotype is at 
+least partly hypomorphic. In addition, 21 missense mutations were distributed 
+across DYNC2H1 and these showed some clustering to functional domains, 
+especially the ATP motor domain. DYNC2H1 patients largely lacked significant 
+extra-skeletal involvement, demonstrating an important genotype-phenotype 
+correlation in JATD. Significant variability exists in the course and severity 
+of the thoracic phenotype, both between affected siblings with identical DYNC2H1 
+alleles and among individuals with different alleles, which suggests the DYNC2H1 
+phenotype might be subject to modifier alleles, non-genetic or epigenetic 
+factors. Assessment of fibroblasts from patients showed accumulation of 
+anterograde IFT proteins in the ciliary tips, confirming defects similar to 
+patients with other retrograde IFT machinery mutations, which may be of 
+undervalued potential for diagnostic purposes.
+
+DOI: 10.1136/jmedgenet-2012-101284
+PMCID: PMC3627132
+PMID: 23456818 [Indexed for MEDLINE]
+
+
+57. J Med Genet. 2013 Feb;50(2):91-8. doi: 10.1136/jmedgenet-2012-101282.
+
+Asphyxiating thoracic dysplasia: clinical and molecular review of 39 families.
+
+Baujat G(1), Huber C, El Hokayem J, Caumes R, Do Ngoc Thanh C, David A, 
+Delezoide AL, Dieux-Coeslier A, Estournet B, Francannet C, Kayirangwa H, 
+Lacaille F, Le Bourgeois M, Martinovic J, Salomon R, Sigaudy S, Malan V, Munnich 
+A, Le Merrer M, Le Quan Sang KH, Cormier-Daire V.
+
+Author information:
+(1)Département de Génétique et INSERM U781, Université Paris Descartes-Sorbonne 
+Paris Cité, Fondation Imagine, Hôpital Necker-Enfants malades, AP-HP, Paris, 
+France.
+
+BACKGROUND: Asphyxiating Thoracic Dysplasia (ATD) belongs to the short rib 
+polydactyly group and is characterized by a narrow thorax, short long bones and 
+trident acetabular roof. Other reported features include polydactyly, renal, 
+liver and retinal involvement. To date, mutations in IFT80, DYNC2H1, TTC21B and 
+WDR19 have been reported in ATD. The clinical and molecular heterogeneity leads 
+to difficulties in the evaluation of the long-term prognosis.
+METHODS: We investigated 53 ATD cases (23 living cases and 30 fetuses) from 39 
+families. They benefited from a combined approach of deep phenotyping and IFT80 
+and DYNC2H1 molecular screening.
+RESULTS: Among the 23 postnatal cases, pulmonary insufficiency was noted in 60% 
+of cases, with tracheotomy requirement in five cases. Renal and liver diseases 
+occurred respectively in 17% and 22% of cases, whereas retinal alteration was 
+present in 50% of cases aged more than 5 years. We identified DYNC2H1 mutations 
+in 23 families (59%) and IFT80 mutations in two families (5%). However, in six 
+families, only one heterozygote mutation in either IFT80 or DYNC2H1 was 
+identified. Finally, the two genes were excluded in 14 families (36%).
+CONCLUSIONS: We conclude that DYNC2H1 is a major gene responsible for ATD, while 
+IFT80 is rarely involved. The presence of only one mutation in six families and 
+the exclusion of the two genes in 14 families support the involvement of other 
+causal cilia genes. The long-term follow up emphasizes that the pulmonary 
+prognosis is probably less pejorative and retinal involvement more frequent than 
+previously thought.
+
+DOI: 10.1136/jmedgenet-2012-101282
+PMID: 23339108 [Indexed for MEDLINE]
+
+
+58. J Cell Sci. 2013 Jan 1;126(Pt 1):327-38. doi: 10.1242/jcs.117069. Epub 2012 Sep 
+19.
+
+Intraflagellar transport proteins cycle between the flagellum and its base.
+
+Buisson J(1), Chenouard N, Lagache T, Blisnick T, Olivo-Marin JC, Bastin P.
+
+Author information:
+(1)Trypanosome Cell Biology Unit, Institut Pasteur and CNRS URA2581, 25 rue du 
+Docteur Roux, 75015 Paris, France.
+
+Intraflagellar transport (IFT) is necessary for the construction of cilia and 
+flagella. IFT proteins are concentrated at the base of the flagellum but little 
+is known about the actual role of this pool of proteins. Here, IFT was 
+investigated in Trypanosoma brucei, an attractive model for flagellum studies, 
+using GFP fusions with IFT52 or the IFT dynein heavy chain DHC2.1. Tracking 
+analysis by a curvelet method allowing automated separation of forward and 
+return transport demonstrated a uniform speed for retrograde IFT (5 µm s(-1)) 
+but two distinct populations for anterograde movement that are sensitive to 
+temperature. When they reach the distal tip, anterograde trains are split into 
+three and converted to retrograde trains. When a fast anterograde train catches 
+up with a slow one, it is almost twice as likely to fuse with it rather than to 
+overtake it, implying that these trains travel on a restricted set of 
+microtubules. Using photobleaching experiments, we show for the first time that 
+IFT proteins coming back from the flagellum are mixed with those present at the 
+flagellum base and can reiterate a full IFT cycle in the flagellum. This 
+recycling is dependent on flagellum length and IFT velocities. Mathematical 
+modelling integrating all parameters actually reveals the existence of two pools 
+of IFT proteins at the flagellum base, but only one is actively engaged in IFT.
+
+DOI: 10.1242/jcs.117069
+PMID: 22992454 [Indexed for MEDLINE]
+
+
+59. Am J Med Genet C Semin Med Genet. 2012 Aug 15;160C(3):165-74. doi: 
+10.1002/ajmg.c.31336. Epub 2012 Jul 12.
+
+Ciliary disorder of the skeleton.
+
+Huber C(1), Cormier-Daire V.
+
+Author information:
+(1)Département de génétique, INSERM U 781, Université Paris Descartes-Sorbonne 
+Paris Cité, Institut Imagine, Hôpital Necker Enfants Malades (AP-HP), 75015 
+Paris, France.
+
+In the last 10 years, the primary cilia machinery has been implicated in more 
+than a dozen disorders united as ciliopathies, including skeletal dysplasias, 
+such as Jeune syndrome and short rib-polydactyly type III. Indeed, primary cilia 
+play a vital role in transduction of signals in the hedgehog pathway that is 
+especially important in skeletal development. In this review, we focus on 
+skeletal conditions belonging to the ciliopathy group: the short rib-polydactyly 
+group (SRPs) that includes Verma-Naumoff syndrome (SRP type III), Majewski 
+syndrome (SRP type II), Jeune syndrome (ATD), as well as Ellis-van Creveld 
+syndrome (EVC), the Sensenbrenner syndrome, and, finally, Weyers acrofacial 
+dysostosis. Today, 10 different genes have been identified as responsible for 
+seven "skeletal" ciliopathies. Mutations have been identified in dynein motor 
+(DYNC2H1), in intraflagellar transport (IFT) complexes (IFT80, IFT122, IFT43, 
+WDR35, WDR19, and TTC21B) as well as in genes responsible for the basal body 
+(NEK1, EVC, and EVC2). The wide clinical variability observed for an individual 
+ciliopathy gene supports the development of exome strategy specifically 
+dedicated to cilia genes to identify mutations in this particularly 
+heterogeneous group of disorders.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajmg.c.31336
+PMID: 22791528 [Indexed for MEDLINE]
+
+
+60. Eur J Cell Biol. 2011 Oct;90(10):865-71. doi: 10.1016/j.ejcb.2011.05.003. Epub 
+2011 Jun 22.
+
+A role for Tctex-1 (DYNLT1) in controlling primary cilium length.
+
+Palmer KJ(1), MacCarthy-Morrogh L, Smyllie N, Stephens DJ.
+
+Author information:
+(1)Cell Biology Laboratories, School of Biochemistry, Medical Sciences Building, 
+University of Bristol, University Walk, Bristol BS8 1TD, UK.
+
+The microtubule motor complex cytoplasmic dynein is known to be involved in 
+multiple processes including endomembrane organization and trafficking, mitosis, 
+and microtubule organization. The majority of studies of cytoplasmic dynein have 
+focused on the form of the motor that is built around the dynein-1 heavy chain. 
+A second isoform, dynein heavy chain-2, and its specifically associated light 
+intermediate chain, LIC3 (D2LIC), are known to be involved in the formation and 
+function of primary cilia. We have used RNAi in human epithelial cells to define 
+the cytoplasmic dynein subunits that function with dynein heavy chain 2 in 
+primary cilia. We identify the dynein light chain Tctex-1 as a key modulator of 
+cilia length control; depletion of Tctex-1 results in longer cilia as defined by 
+both acetylated tubulin labeling of the axoneme and Rab8a labeling of the cilia 
+membrane. Suppression of dynein heavy chain-2 causes concomitant loss of Tctex-1 
+and this correlates with an increase in cilia length. Compared to individual 
+depletions, double siRNA depletion of DHC2 and Tctex-1 causes an even greater 
+increase in cilia length. Our data show that Tctex-1 is a key regulator of cilia 
+length and most likely functions as part of dynein-2.
+
+Copyright © 2011 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.ejcb.2011.05.003
+PMCID: PMC3566477
+PMID: 21700358 [Indexed for MEDLINE]
+
+
+61. Nat Genet. 2011 Jun;43(6):547-53. doi: 10.1038/ng.832. Epub 2011 May 8.
+
+Complex interactions between genes controlling trafficking in primary cilia.
+
+Ocbina PJ(1), Eggenschwiler JT, Moskowitz I, Anderson KV.
+
+Author information:
+(1)Developmental Biology Program, Sloan-Kettering Institute, New York, New York, 
+USA.
+
+Cilia-associated human genetic disorders are striking in the diversity of their 
+abnormalities and their complex inheritance. Inactivation of the retrograde 
+ciliary motor by mutations in DYNC2H1 causes skeletal dysplasias that have 
+strongly variable expressivity. Here we define previously unknown genetic 
+relationships between Dync2h1 and other genes required for ciliary trafficking. 
+Mutations in mouse Dync2h1 disrupt cilia structure, block Sonic hedgehog 
+signaling and cause midgestation lethality. Heterozygosity for Ift172, a gene 
+required for anterograde ciliary trafficking, suppresses cilia phenotypes, Sonic 
+hedgehog signaling defects and early lethality of Dync2h1 homozygotes. Ift122, 
+like Dync2h1, is required for retrograde ciliary trafficking, but reduction of 
+Ift122 gene dosage also suppresses the Dync2h1 phenotype. These genetic 
+interactions illustrate the cell biology underlying ciliopathies and argue that 
+mutations in intraflagellar transport genes cause their phenotypes because of 
+their roles in cilia architecture rather than direct roles in signaling.
+
+DOI: 10.1038/ng.832
+PMCID: PMC3132150
+PMID: 21552265 [Indexed for MEDLINE]
+
+
+62. Am J Hum Genet. 2011 Jan 7;88(1):106-14. doi: 10.1016/j.ajhg.2010.12.004.
+
+NEK1 mutations cause short-rib polydactyly syndrome type majewski.
+
+Thiel C(1), Kessler K, Giessl A, Dimmler A, Shalev SA, von der Haar S, Zenker M, 
+Zahnleiter D, Stöss H, Beinder E, Abou Jamra R, Ekici AB, Schröder-Kress N, 
+Aigner T, Kirchner T, Reis A, Brandstätter JH, Rauch A.
+
+Author information:
+(1)Institute of Human Genetics, University Hospital Erlangen, 
+Friedrich-Alexander University Erlangen-Nuremberg, 91054 Erlangen, Germany. 
+christian.thiel@uk-erlangen.de
+
+Defects of ciliogenesis have been implicated in a wide range of human phenotypes 
+and play a crucial role in signal transduction and cell-cycle coordination. We 
+used homozygosity mapping in two families with autosomal-recessive short-rib 
+polydactyly syndrome Majewski type to identify mutations in NEK1 as an 
+underlying cause of this lethal osteochondrodysplasia. NEK1 encodes a 
+serine/threonine kinase with proposed function in DNA double-strand repair, 
+neuronal development, and coordination of cell-cycle-associated ciliogenesis. We 
+found that absence of functional full-length NEK1 severely reduces cilia number 
+and alters ciliar morphology in vivo. We further substantiate a proposed digenic 
+diallelic inheritance of ciliopathies by the identification of heterozygous 
+mutations in NEK1 and DYNC2H1 in an additional family. Notably, these findings 
+not only increase the broad spectrum of ciliar disorders, but suggest a 
+correlation between the degree of defective microtubule or centriole elongation 
+and organization and the severity of the resulting phenotype.
+
+DOI: 10.1016/j.ajhg.2010.12.004
+PMCID: PMC3014367
+PMID: 21211617 [Indexed for MEDLINE]
+
+
+63. PLoS One. 2009 Aug 31;4(8):e6839. doi: 10.1371/journal.pone.0006839.
+
+Primary cilia are not required for normal canonical Wnt signaling in the mouse 
+embryo.
+
+Ocbina PJ(1), Tuson M, Anderson KV.
+
+Author information:
+(1)Developmental Biology Program, Sloan-Kettering Institute, New York, New York, 
+United States of America.
+
+BACKGROUND: Sonic hedgehog (Shh) signaling in the mouse requires the 
+microtubule-based organelle, the primary cilium. The primary cilium is assembled 
+and maintained through the process of intraflagellar transport (IFT) and the 
+response to Shh is blocked in mouse mutants that lack proteins required for IFT. 
+Although the phenotypes of mouse IFT mutants do not overlap with phenotypes of 
+known Wnt pathway mutants, recent studies report data suggesting that the 
+primary cilium modulates responses to Wnt signals.
+METHODOLOGY/PRINCIPAL FINDINGS: We therefore carried out a systematic analysis 
+of canonical Wnt signaling in mutant embryos and cells that lack primary cilia 
+because of loss of the anterograde IFT kinesin-II motor (Kif3a) or IFT complex B 
+proteins (Ift172 or Ift88). We also analyzed mutant embryos with abnormal 
+primary cilia due to defects in retrograde IFT (Dync2h1). The mouse IFT mutants 
+express the canonical Wnt target Axin2 and activate a transgenic canonical Wnt 
+reporter, BAT-gal, in the normal spatial pattern and to the same quantitative 
+level as wild type littermates. Similarly, mouse embryonic fibroblasts (MEFs) 
+derived from IFT mutants respond normally to added Wnt3a. The switch from 
+canonical to non-canonical Wnt also appears normal in IFT mutant MEFs, as both 
+wild-type and mutant cells do not activate the canonical Wnt reporter in the 
+presence of both Wnt3a and Wnt5a.
+CONCLUSIONS: We conclude that loss of primary cilia or defects in retrograde IFT 
+do not affect the response of the midgestation embryo or embryo-derived 
+fibroblasts to Wnt ligands.
+
+DOI: 10.1371/journal.pone.0006839
+PMCID: PMC2729396
+PMID: 19718259 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+64. Invest Ophthalmol Vis Sci. 2009 Nov;50(11):5463-71. doi: 10.1167/iovs.09-3828. 
+Epub 2009 May 27.
+
+Retrograde intraflagellar transport by cytoplasmic dynein-2 is required for 
+outer segment extension in vertebrate photoreceptors but not arrestin 
+translocation.
+
+Krock BL(1), Mills-Henry I, Perkins BD.
+
+Author information:
+(1)Department of Biology, Texas A&M University, College Station, Texas 77843, 
+USA.
+
+PURPOSE: Anterograde intraflagellar transport (IFT) is essential for 
+photoreceptor outer segment formation and maintenance, as well as for opsin 
+trafficking. However, the role of retrograde IFT in vertebrate photoreceptors 
+remains unclear. The purpose of this study was to evaluate zebrafish 
+photoreceptors lacking the retrograde IFT motor, cytoplasmic dynein-2.
+METHODS: Morpholino oligonucleotides against the heavy chain (dync2-h1), light 
+intermediate chain (dync2-li1), and intermediate chain (dync2-i1) subunits of 
+cytoplasmic dynein-2 were injected into zebrafish embryos. Retinas and ciliated 
+cells of these zebrafish morphants were analyzed by immunohistochemistry and 
+transmission electron microscopy. Whole-field electroretinograms (ERGs) were 
+performed on dynein morphants at 5 to 6 days after fertilization (dpf).
+RESULTS: Zebrafish lacking cytoplasmic dynein-2 function exhibited small eyes, 
+kidney cysts, and short photoreceptor outer segments, some of which were 
+disorganized with accumulated vesicles. Morphant photoreceptor connecting cilia 
+were swollen, but neither opsin nor arrestin was mislocalized, although IFT88 
+accumulated in the distal region of the connecting cilium. Nasal cilia were 
+shortened and displayed cytoplasmic swelling along the axoneme. Loss of 
+cytoplasmic dynein-2 function resulted in a significant reduction in the 
+amplitude of ERG a-, b-, and d-waves but no change in threshold response.
+CONCLUSIONS: Retrograde IFT is essential for outer segment extension and IFT 
+protein recycling in vertebrate photoreceptors. The results show, for the first 
+time, that the dync2-i1 subunit of cytoplasmic dynein-2 is necessary for 
+retrograde IFT. In addition, arrestin translocation does not require retrograde 
+IFT. Finally, the ERG results indicate that loss of cytoplasmic dynein-2 reduces 
+the photoreceptor light response.
+
+DOI: 10.1167/iovs.09-3828
+PMCID: PMC2777535
+PMID: 19474410 [Indexed for MEDLINE]
+
+
+65. Am J Hum Genet. 2009 May;84(5):706-11. doi: 10.1016/j.ajhg.2009.04.016.
+
+DYNC2H1 mutations cause asphyxiating thoracic dystrophy and short 
+rib-polydactyly syndrome, type III.
+
+Dagoneau N(1), Goulet M, Geneviève D, Sznajer Y, Martinovic J, Smithson S, Huber 
+C, Baujat G, Flori E, Tecco L, Cavalcanti D, Delezoide AL, Serre V, Le Merrer M, 
+Munnich A, Cormier-Daire V.
+
+Author information:
+(1)Département de Génétique, Unité INSERM U781, Université Paris Descartes, 
+Assistance Publique-Hôpitaux de Paris, Hôpital Necker-Enfants Malades, 75015 
+Paris, France.
+
+Jeune asphyxiating thoracic dystrophy (ATD) is an autosomal-recessive 
+chondrodysplasia characterized by short ribs and a narrow thorax, short long 
+bones, inconstant polydactyly, and trident acetabular roof. ATD is closely 
+related to the short rib polydactyly syndrome (SRP) type III, which is a more 
+severe condition characterized by early prenatal expression and lethality and 
+variable malformations. We first excluded IFT80 in a series of 26 fetuses and 
+children belonging to 14 families diagnosed with either ATD or SRP type III. 
+Studying a consanguineous family from Morocco, we mapped an ATD gene to 
+chromosome 11q14.3-q23.1 in a 20.4 Mb region and identified homozygous mutations 
+in the cytoplasmic dynein 2 heavy chain 1 (DYNC2H1) gene in the affected 
+children. Compound heterozygosity for DYNC2H1 mutations was also identified in 
+four additional families. Among the five families, 3/5 were diagnosed with ATD 
+and 2/5 included pregnancies terminated for SRP type III. DYNC2H1 is a component 
+of a cytoplasmic dynein complex and is directly involved in the generation and 
+maintenance of cilia. From this study, we conclude that ATD and SRP type III are 
+variants of a single disorder belonging to the ciliopathy group.
+
+DOI: 10.1016/j.ajhg.2009.04.016
+PMCID: PMC2681009
+PMID: 19442771 [Indexed for MEDLINE]
+
+
+66. Am J Hum Genet. 2009 Apr;84(4):542-9. doi: 10.1016/j.ajhg.2009.03.015.
+
+Ciliary abnormalities due to defects in the retrograde transport protein DYNC2H1 
+in short-rib polydactyly syndrome.
+
+Merrill AE(1), Merriman B, Farrington-Rock C, Camacho N, Sebald ET, Funari VA, 
+Schibler MJ, Firestein MH, Cohn ZA, Priore MA, Thompson AK, Rimoin DL, Nelson 
+SF, Cohn DH, Krakow D.
+
+Author information:
+(1)Medical Genetics Research Institute, Cedars-Sinai Medical Center, Los 
+Angeles, CA 90048, USA.
+
+The short-rib polydactyly (SRP) syndromes are a heterogeneous group of perinatal 
+lethal skeletal disorders with polydactyly and multisystem organ abnormalities. 
+Homozygosity by descent mapping in a consanguineous SRP family identified a 
+genomic region that contained DYNC2H1, a cytoplasmic dynein involved in 
+retrograde transport in the cilium. Affected individuals in the family were 
+homozygous for an exon 12 missense mutation that predicted the amino acid 
+substitution R587C. Compound heterozygosity for one missense and one null 
+mutation was identified in two additional nonconsanguineous SRP families. 
+Cultured chondrocytes from affected individuals showed morphologically abnormal, 
+shortened cilia. In addition, the chondrocytes showed abnormal cytoskeletal 
+microtubule architecture, implicating an altered microtubule network as part of 
+the disease process. These findings establish SRP as a cilia disorder and 
+demonstrate that DYNC2H1 is essential for skeletogenesis and growth.
+
+DOI: 10.1016/j.ajhg.2009.03.015
+PMCID: PMC2667993
+PMID: 19361615 [Indexed for MEDLINE]
+
+
+67. Dev Dyn. 2008 Aug;237(8):2030-8. doi: 10.1002/dvdy.21551.
+
+Intraflagellar transport, cilia, and mammalian Hedgehog signaling: analysis in 
+mouse embryonic fibroblasts.
+
+Ocbina PJ(1), Anderson KV.
+
+Author information:
+(1)Developmental Biology Program, Sloan-Kettering Institute, New York, New York 
+10065, USA.
+
+Genetic studies in the mouse have shown that Intraflagellar Transport (IFT) is 
+essential for mammalian Hedgehog (Hh) signal transduction. In this study, we 
+take advantage of wild type and IFT mutant mouse embryonic fibroblasts (MEFs) to 
+characterize additional aspects of the relationship between IFT and Hh 
+signaling. Exposure to Sonic hedgehog (Shh) ligand or expression of an activated 
+allele of Smo, SmoA1, activates an Hh reporter in wild-type MEFs, but not in 
+MEFs derived from embryos that lack IFT172 or the Dync2h1 subunit of the 
+retrograde IFT motor. Similarly, decreased activity of either Sufu or PKA, two 
+negative regulators of Hh signal transduction, activates the pathway in 
+wild-type, but not IFT mutant, MEFs. In contrast to wild-type MEFs, Smo is 
+constitutively present in the cilia of Dync2h1 mutant MEFs. This finding 
+suggests that IFT-dependent trafficking of Hh pathway components through the 
+cilium is essential for their function.
+
+Copyright (c) 2008 Wiley-Liss, Inc.
+
+DOI: 10.1002/dvdy.21551
+PMCID: PMC2702862
+PMID: 18488998 [Indexed for MEDLINE]
+
+
+68. J Cell Sci. 2007 Oct 15;120(Pt 20):3653-65. doi: 10.1242/jcs.012773. Epub 2007 
+Sep 25.
+
+Chlamydomonas FAP133 is a dynein intermediate chain associated with the 
+retrograde intraflagellar transport motor.
+
+Rompolas P(1), Pedersen LB, Patel-King RS, King SM.
+
+Author information:
+(1)Department of Molecular, Microbial and Structural Biology, University of 
+Connecticut Health Center, Farmington, CT 06030, USA.
+
+Intraflagellar transport (IFT) is the bi-directional movement of particles along 
+the length of axonemal outer doublet microtubules and is needed for the assembly 
+and maintenance of eukaryotic cilia and flagella. Retrograde IFT requires 
+cytoplasmic dynein 1b, a motor complex whose organization, structural 
+composition and regulation is poorly understood. We have characterized the 
+product of the Chlamydomonas FAP133 gene that encodes a new WD-repeat protein 
+similar to dynein intermediate chains and homologous to the uncharacterized 
+vertebrate protein WD34. FAP133 is located at the peri-basal body region as well 
+as in punctate structures along the flagella. This protein is associated with 
+the IFT machinery because it is specifically depleted from the flagella of cells 
+with defects in anterograde IFT. Fractionation of flagellar matrix proteins 
+indicates that FAP133 associates with both the LC8 dynein light chain and the 
+IFT dynein heavy chain and light intermediate chain (DHC1b-D1bLIC) motor 
+complex. In the absence of DHC1b or D1bLIC, FAP133 fails to localize at the 
+peri-basal body region but, rather, is concentrated in a region of the cytoplasm 
+near the cell center. Furthermore, we found that FAP133, LC8, DHC1b, D1bLIC, the 
+FLA10 kinesin-2 necessary for anterograde IFT and other IFT scaffold components 
+associate to form a large macromolecular assembly.
+
+DOI: 10.1242/jcs.012773
+PMID: 17895364 [Indexed for MEDLINE]
+
+
+69. Mol Biol Cell. 2003 May;14(5):2041-56. doi: 10.1091/mbc.e02-10-0682. Epub 2003 
+Jan 26.
+
+A novel dynein light intermediate chain colocalizes with the retrograde motor 
+for intraflagellar transport at sites of axoneme assembly in chlamydomonas and 
+Mammalian cells.
+
+Perrone CA(1), Tritschler D, Taulman P, Bower R, Yoder BK, Porter ME.
+
+Author information:
+(1)Department of Genetics, Cell Biology, and Development, University of 
+Minnesota, Minneapolis 55455, USA.
+
+The assembly of cilia and flagella depends on bidirectional intraflagellar 
+transport (IFT). Anterograde IFT is driven by kinesin II, whereas retrograde IFT 
+requires cytoplasmic dynein 1b (cDHC1b). Little is known about how cDHC1b 
+interacts with its cargoes or how it is regulated. Recent work identified a 
+novel dynein light intermediate chain (D2LIC) that colocalized with the 
+mammalian cDHC1b homolog DHC2 in the centrosomal region of cultured cells. To 
+see whether the LIC might play a role in IFT, we characterized the gene encoding 
+the Chlamydomonas homolog of D2LIC and found its expression is up-regulated in 
+response to deflagellation. We show that the LIC subunit copurifies with cDHC1b 
+during flagellar isolation, dynein extraction, sucrose density centrifugation, 
+and immunoprecipitation. Immunocytochemistry reveals that the LIC colocalizes 
+with cDHC1b in the basal body region and along the length of flagella in 
+wild-type cells. Localization of the complex is altered in a collection of 
+retrograde IFT and length control mutants, which suggests that the affected gene 
+products directly or indirectly regulate cDHC1b activity. The mammalian DHC2 and 
+D2LIC also colocalize in the apical cytoplasm and axonemes of ciliated epithelia 
+in the lung, brain, and efferent duct. These studies, together with the 
+identification of an LIC mutation, xbx-1(ok279), which disrupts retrograde IFT 
+in Caenorhabditis elegans, indicate that the novel LIC is a component of the 
+cDHC1b/DHC2 retrograde IFT motor in a variety of organisms.
+
+DOI: 10.1091/mbc.e02-10-0682
+PMCID: PMC165096
+PMID: 12802074 [Indexed for MEDLINE]
+
+
+70. J Cell Biol. 1999 Nov 1;147(3):519-30. doi: 10.1083/jcb.147.3.519.
+
+Role of a class DHC1b dynein in retrograde transport of IFT motors and IFT raft 
+particles along cilia, but not dendrites, in chemosensory neurons of living 
+Caenorhabditis elegans.
+
+Signor D(1), Wedaman KP, Orozco JT, Dwyer ND, Bargmann CI, Rose LS, Scholey JM.
+
+Author information:
+(1)Section of Molecular and Cellular Biology, University of California Davis, 
+Davis, California 95616, USA.
+
+The heterotrimeric motor protein, kinesin-II, and its presumptive cargo, can be 
+observed moving anterogradely at 0.7 microm/s by intraflagellar transport (IFT) 
+within sensory cilia of chemosensory neurons of living Caenorhabditis elegans, 
+using a fluorescence microscope-based transport assay (Orozco, J.T., K.P. 
+Wedaman, D. Signor, H. Brown, L. Rose, and J.M. Scholey. 1999. Nature. 398:674). 
+Here, we report that kinesin-II, and two of its presumptive cargo molecules, 
+OSM-1 and OSM-6, all move at approximately 1.1 microm/s in the retrograde 
+direction along cilia and dendrites, which is consistent with the hypothesis 
+that these proteins are retrieved from the distal endings of the cilia by a 
+retrograde transport pathway that moves them along cilia and then dendrites, 
+back to the neuronal cell body. To test the hypothesis that the minus 
+end-directed microtubule motor protein, cytoplasmic dynein, drives this 
+retrograde transport pathway, we visualized movement of kinesin-II and its cargo 
+along dendrites and cilia in a che-3 cytoplasmic dynein mutant background, and 
+observed an inhibition of retrograde transport in cilia but not in dendrites. In 
+contrast, anterograde IFT proceeds normally in che-3 mutants. Thus, we propose 
+that the class DHC1b cytoplasmic dynein, CHE-3, is specifically responsible for 
+the retrograde transport of the anterograde motor, kinesin-II, and its cargo 
+within sensory cilia, but not within dendrites.
+
+DOI: 10.1083/jcb.147.3.519
+PMCID: PMC2151193
+PMID: 10545497 [Indexed for MEDLINE]
+
+
+71. Mol Biol Cell. 1998 Feb;9(2):237-47. doi: 10.1091/mbc.9.2.237.
+
+Evidence for four cytoplasmic dynein heavy chain isoforms in rat testis.
+
+Criswell PS(1), Asai DJ.
+
+Author information:
+(1)Department of Biological Sciences, Purdue University, West Lafayette, Indiana 
+47907-1392, USA.
+
+Recent studies have revealed the expression of multiple putative cytoplasmic 
+dynein heavy chain (DHC) genes in several organisms, with each gene encoding a 
+separate protein isoform. This finding is consistent with the hypothesis that 
+different isoforms do different things, as is the case for the axonemal dyneins. 
+Furthermore, the large number of tasks ascribed to cytoplasmic dynein suggests 
+that there may be additional isoforms not yet identified. Two of the mammalian 
+cytoplasmic dynein heavy chains are DHC1a and DHC1b. DHC1a is conventional 
+cytoplasmic dynein and is found in all organisms examined. DHC1b is expressed in 
+organisms that have multiple dyneins, and has been implicated in the 
+intracellular trafficking of molecules in unciliated and ciliated cells. In the 
+present study, we examined the DHC1b protein from rat testis. Testis cytoplasmic 
+dynein contains a large amount of dynein heavy chain reactive with an antibody 
+raised against a peptide sequence of rat DHC1b. The testis anti-DHC1b 
+immunoreactive protein is slightly smaller than testis DHC1a, as assessed by 
+SDS-PAGE. In Northern blots, the DHC1b mRNA is smaller than the DHC1a mRNA. In 
+sucrose gradients made in low ionic strength, DHC1a sedimented at approximately 
+20S, and the anti-1b immunoreactive heavy chains sedimented in a broad band 
+centered at approximately 14S. The V1-photolysis reaction of individual sucrose 
+gradient fractions revealed three distinct patterns of photolysis, suggesting 
+that there are at least three separate 1b-like heavy chain isoforms in testis. 
+Using a high-stringency Western blotting protocol, the anti-1b antibody and the 
+anti-DHC2 antibody recognized the same heavy chain and specifically bound to one 
+of the three 1b-like heavy chains. We conclude that rat testis contains three 
+1b-like dynein heavy chains, and one of these is the product of the DHC1b/DHC2 
+gene previously identified.
+
+DOI: 10.1091/mbc.9.2.237
+PMCID: PMC25246
+PMID: 9450951 [Indexed for MEDLINE]
+
+
+72. J Cell Sci. 1996 Jul;109 ( Pt 7):1891-8. doi: 10.1242/jcs.109.7.1891.
+
+A novel cytoplasmic dynein heavy chain: expression of DHC1b in mammalian 
+ciliated epithelial cells.
+
+Criswell PS(1), Ostrowski LE, Asai DJ.
+
+Author information:
+(1)Department of Biological Sciences, Purdue University, West Lafayette, Indiana 
+47907-1392, USA.
+
+Organisms that have cilia or flagella express over a dozen dynein heavy chain 
+genes. Of these heavy chain genes, most appear to encode axonemal dyneins, one 
+encodes conventional cytoplasmic dynein (MAP1C or DHC1a), and one, here referred 
+to as DHC1b, encodes an unclassified heavy chain. Previous analysis of sea 
+urchin DHC1b (Gibbons et al. (1994) Mol. Biol. Cell 5, 57-70) indicated that 
+this isoform is either an axonemal dynein with an unusual protein sequence or a 
+cytoplasmic dynein whose expression increases during ciliogenesis. In the 
+present study, we examined the expression of DHC1b in rat tissues. The DHC1b 
+gene is expressed in all tissues examined, including unciliated liver and heart 
+cells. In contrast, rat axonemal dyneins are only expressed in tissues that 
+produce cilia or flagella. In cultured rat tracheal epithelial (RTE) cells, 
+DHC1b is expressed in undifferentiated cells and increases in expression during 
+ciliogenesis. In contrast, the expression of conventional cytoplasmic dynein, 
+DHC1a, does not change during RTE differentiation and axonemal dynein is not 
+expressed until after differentiation commences. In order to examine the 
+expression of DHC1b protein, we produced an isoform-specific antibody to a 
+synthetic peptide derived from the rat DHC1b sequence. The antibody demonstrated 
+that DHC1b is a relatively minor component of partially purified cytoplasmic 
+dynein. Indirect immunofluorescence microscopy revealed that DHC1b is not 
+detected in cilia and remains in the cytoplasm of ciliated RTE cells, often 
+accumulating at the apical ends of the cells. These results suggest that DHC1b 
+is a cytoplasmic dynein that may participate in intracellular trafficking in 
+polarized cells.
+
+DOI: 10.1242/jcs.109.7.1891
+PMID: 8832411 [Indexed for MEDLINE]
+
+
+73. J Cell Biol. 1996 May;133(4):831-42. doi: 10.1083/jcb.133.4.831.
+
+Mammalian cells express three distinct dynein heavy chains that are localized to 
+different cytoplasmic organelles.
+
+Vaisberg EA(1), Grissom PM, McIntosh JR.
+
+Author information:
+(1)Department of Molecular, Cellular, and Developmental Biology, University of 
+Colorado, Boulder 80309-0347, USA. vaisberg@beagle.colorado.edu.
+
+We describe two dynein heavy chain (DHC)-like polypeptides (DHCs 2 and 3) that 
+are distinct from the heavy chain of conventional cytoplasmic dynein (DHC1) but 
+are expressed in a variety of mammalian cells that lack axonemes. DHC2 is a 
+distant member of the "cytoplasmic" branch of the dynein phylogenetic tree, 
+while DHC3 shares more sequence similarity with dynein-like polypeptides that 
+have been thought to be axonemal. Each cytoplasmic dynein is associated with 
+distinct cellular organelles. DHC2 is localized predominantly to the Golgi 
+apparatus. Moreover, the Golgi disperses upon microinjection of antibodies to 
+DHC2, suggesting that this motor is involved in establishing proper Golgi 
+organization. DCH3 is associated with as yet unidentified structures that may 
+represent transport intermediates between two or more cytoplasmic compartments. 
+Apparently, specific cytoplasmic dyneins, like individual members of the kinesin 
+superfamily, play unique roles in the traffic of cytomembranes.
+
+DOI: 10.1083/jcb.133.4.831
+PMCID: PMC2120833
+PMID: 8666668 [Indexed for MEDLINE]
+
+
+74. Cell Motil Cytoskeleton. 1995;32(2):136-44. doi: 10.1002/cm.970320214.
+
+Dynein family of motor proteins: present status and future questions.
+
+Gibbons IR(1).
+
+Author information:
+(1)Pacific Biomedical Research Center, University of Hawaii, Honolulu, USA.
+
+Analysis of sequence relationships in dynein heavy chains shows that dynein 
+motor proteins comprise a single homologous family with three main branches, 
+cytoplasmic dynein, axonemal dynein, and a third branch represented by DYH1B 
+that lies between the other two. In all branches of the family the dynein heavy 
+chain has four copies of the P-loop motif for a nucleotide-binding site spaced 
+approximately 300 residues apart in its midregion, with the amino acid sequence 
+GPAGTGKT in the P-loop of the hydrolytic ATP-binding site. Cytoplasmic dyneins 
+appear more primitive in that the heavy chain usually occurs as a homodimer, 
+with traces of the early evolution of its four P-loop motifs by gene duplication 
+being recognizable. In the axonemal subfamily the heavy chain occurs as 
+heterodimers or heterotrimers encoded by multiple genes, and their 
+non-hydrolytic P-loop motifs are much more divergent with little trace of their 
+origin by gene duplication. The DYH1B subfamily is more closely related to the 
+cytoplasmic dyneins in sequence, but appears related to axonemal dyneins in 
+function since it becomes upregulated during reciliation and has not been found 
+in organisms, such as yeast and Dictyostelium, that are totally without cilia or 
+flagella.
+
+DOI: 10.1002/cm.970320214
+PMID: 8681396 [Indexed for MEDLINE]

@@ -1,0 +1,104 @@
+1. Nat Commun. 2017 Feb 8;8:14279. doi: 10.1038/ncomms14279.
+
+X-linked primary ciliary dyskinesia due to mutations in the cytoplasmic axonemal 
+dynein assembly factor PIH1D3.
+
+Olcese C(1)(2), Patel MP(3), Shoemark A(4), Kiviluoto S(5), Legendre M(6), 
+Williams HJ(7), Vaughan CK(8), Hayward J(3), Goldenberg A(9), Emes RD(10)(11), 
+Munye MM(3), Dyer L(3), Cahill T(4), Bevillard J(1), Gehrig C(1), Guipponi 
+M(1)(12), Chantot S(6), Duquesnoy P(6), Thomas L(6), Jeanson L(6), Copin B(6), 
+Tamalet A(13), Thauvin-Robinet C(14), Papon JF(15), Garin A(15), Pin I(16), Vera 
+G(9), Aurora P(17)(18), Fassad MR(3)(19), Jenkins L(20), Boustred C(20), Cullup 
+T(20), Dixon M(4), Onoufriadis A(21), Bush A(4)(22), Chung EM(23), Antonarakis 
+SE(1)(12)(24), Loebinger MR(25), Wilson R(25), Armengot M(26), Escudier E(6), 
+Hogg C(4); UK10K Rare Group; Amselem S(6), Sun Z(5), Bartoloni L(1)(27), Blouin 
+JL(1)(12), Mitchison HM(3).
+
+Collaborators: Al-Turki S, Anderson C, Antony D, Barroso I, Beales PL, Bentham 
+J, Bhattacharya S, Carss K, Chatterjee K, Cirak S, Cosgrove C, Allan D, Durbin 
+R, Fitzpatrick D, Floyd J, Foley AR, Franklin C, Futema M, Humphries SE, Hurles 
+M, McCarthy S, Muddyman D, Muntoni F, Parker V, Payne F, Plagnol V, Raymond L, 
+Savage DB, Scambler PJ, Schmidts M, Semple R, Serra E, Stalker J, van 
+Kogelenberg M, Vijayarangakannan P, Walter K.
+
+Author information:
+(1)Department of Genetic Medicine and Development, University of Geneva School 
+of Medicine, CH-1211 Geneva, Switzerland.
+(2)Department of Life Sciences and Biotechnologies, University of Ferrara, 
+46-44121 Ferrara, Italy.
+(3)Genetics and Genomic Medicine, University College London (UCL) Great Ormond 
+Street Institute of Child Health, Guilford Street, London WC1N 1EH, UK.
+(4)Paediatric Department, Royal Brompton Hospital, Sydney Street, London SW3 
+6NP, UK.
+(5)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, Connecticut 06520, USA.
+(6)Sorbonne Universités, UPMC Univ Paris 06, INSERM UMR_S933 and Service de 
+Génétique et Embryologie Médicales, Hôpital Armand-Trousseau, AP-HP, Paris 
+75012, France.
+(7)GOSgene, Genetics and Genomic Medicine Programme, University College London 
+(UCL) Great Ormond Street Institute of Child Health, 30 Guilford Street, London 
+WC1N 1EH, UK.
+(8)Institute of Structural and Molecular Biology, University College London and 
+Birkbeck College, Biological Sciences, Malet Street, London, WC1E 7HX, UK.
+(9)Service de Génétique, CHU de Rouen, INSERM U1079, Université de Rouen, Centre 
+Normand de Génomique Médicale et Médecine Personnalisée, Rouen, France.
+(10)School of Veterinary Medicine and Science, University of Nottingham, Sutton 
+Bonington Campus, Leicestershire LE12 5RD, UK.
+(11)Advanced Data Analysis Centre, University of Nottingham, Sutton Bonington 
+Campus, Leicestershire LE12 5RD, UK.
+(12)Department of Genetic Medicine and Laboratory, University Hospitals of 
+Geneva, CH-1211 Geneva, Switzerland.
+(13)Service de Pneumologie Pédiatrique, Centre National de Référence des 
+Maladies Respiratoires Rares, Hôpital Armand-Trousseau, AP-HP, Paris 75012, 
+France.
+(14)Centre de génétique, CHU Dijon Bourgogne, Équipe EA4271 GAD, Université de 
+Bourgogne, Hôpital François Mitterrand, 21000 Dijon, France.
+(15)Service d'Oto-Rhino-Laryngologie et de Chirurgie Cervico-Maxillo-Faciale, 
+Hôpital Bicêtre, AP-HP, Le Kremlin-Bicêtre 94275, France.
+(16)Pédiatrie, CHU Grenoble Alpes, INSERM U 1209, Institut for Advanced 
+Biosciences, Université Grenoble Alpes, Grenoble, France.
+(17)Department of Paediatric Respiratory Medicine, Great Ormond Street Hospital 
+for Children, London WC1N 3JH, UK.
+(18)Department of Respiratory, Critical Care and Anaesthesia Unit, University 
+College London (UCL) Great Ormond Street Institute of Child Health, Guilford 
+Street, London WC1N 1EH, UK.
+(19)Human Genetics Department, Medical Research Institute, Alexandria 
+University, El-Hadra Alexandria 21561, Egypt.
+(20)North East Thames Regional Genetics Laboratory, Great Ormond Street Hospital 
+for Children NHS Foundation Trust, Queen Square, London WC1N 3BH, UK.
+(21)Department of Medical and Molecular Genetics, Division of Genetics and 
+Molecular Medicine, King's College London School of Medicine, Guy's Hospital, 
+London SE1 9RT, UK.
+(22)Department of Paediatric Respiratory Medicine, National Heart and Lung 
+Institute, Imperial College London, London SW3 6LR, UK.
+(23)Population, Policy and Practice, University College London (UCL) Great 
+Ormond Street Institute of Child Health, Guilford Street, London WC1N 1EH, UK.
+(24)Institute of Genetics and Genomics in Geneva, iGE3, CH-1211 Geneva, 
+Switzerland.
+(25)Host Defence Unit, Respiratory Medicine, Royal Brompton Hospital, London SW3 
+6NP, UK.
+(26)Rhinology and Primary Ciliary Dyskinesia Unit, General and University 
+Hospital, Medical School, Valencia University, Valencia E-46014, Spain.
+(27)UOSD Laboratorio Analisi Venezia, ULSS12 Veneziana, 30121 Venezia, Italy.
+
+By moving essential body fluids and molecules, motile cilia and flagella govern 
+respiratory mucociliary clearance, laterality determination and the transport of 
+gametes and cerebrospinal fluid. Primary ciliary dyskinesia (PCD) is an 
+autosomal recessive disorder frequently caused by non-assembly of dynein arm 
+motors into cilia and flagella axonemes. Before their import into cilia and 
+flagella, multi-subunit axonemal dynein arms are thought to be stabilized and 
+pre-assembled in the cytoplasm through a DNAAF2-DNAAF4-HSP90 complex akin to the 
+HSP90 co-chaperone R2TP complex. Here, we demonstrate that large genomic 
+deletions as well as point mutations involving PIH1D3 are responsible for an 
+X-linked form of PCD causing disruption of early axonemal dynein assembly. We 
+propose that PIH1D3, a protein that emerges as a new player of the cytoplasmic 
+pre-assembly pathway, is part of a complementary conserved R2TP-like HSP90 
+co-chaperone complex, the loss of which affects assembly of a subset of inner 
+arm dyneins.
+
+DOI: 10.1038/ncomms14279
+PMCID: PMC5309803
+PMID: 28176794 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.

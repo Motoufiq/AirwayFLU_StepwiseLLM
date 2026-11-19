@@ -1,0 +1,1560 @@
+1. Biochem Biophys Res Commun. 2024 Apr 9;703:149685. doi: 
+10.1016/j.bbrc.2024.149685. Epub 2024 Feb 13.
+
+Inhibition of ezrin phosphorylation by NSC305787 attenuates 
+procaterol-stimulated ciliary beating in airway cilia.
+
+Kawaguchi K(1), Yokoyama S(2), Wang H(3), Asano S(2).
+
+Author information:
+(1)Department of Molecular Physiology, College of Pharmaceutical Sciences, 
+Ritsumeikan University, 1-1-1 Noji-Higashi, Kusatsu, 525-8577, Japan. Electronic 
+address: k-kawagu@fc.ritsumei.ac.jp.
+(2)Department of Molecular Physiology, College of Pharmaceutical Sciences, 
+Ritsumeikan University, 1-1-1 Noji-Higashi, Kusatsu, 525-8577, Japan.
+(3)Department of Molecular Physiology, College of Pharmaceutical Sciences, 
+Ritsumeikan University, 1-1-1 Noji-Higashi, Kusatsu, 525-8577, Japan; Graduate 
+School of Pharmaceutical Sciences, Osaka University, Suita, Osaka, 565-0871, 
+Japan.
+
+Ciliary beating in the airway epithelium plays an important role in preventing 
+infection by eliminating small particles and pathogens. Stimulation of β2 
+adrenergic receptor (β2AR) increases [cAMP]i levels and strongly activates this 
+ciliary beating. β2AR is localized to the apical membrane of the airways by 
+indirectly binding to ezrin, an actin-binding protein. Ezrin takes active 
+phosphorylated and inactive dephosphorylated states at Thr-567. Previously we 
+showed that procaterol-stimulated ciliary beating was impaired in the 
+ezrin-knockdown mice. In this study, we examined the roles of ezrin and its 
+phosphorylation in regulating ciliary beating by using NSC305787, an ezrin 
+inhibitor, in normal human airway epithelial cells (NHBE). We found that 
+NSC305787 inhibits the phosphorylation of ezrin with an IC50 of 50 μM in NHBE. 
+Treatment with NSC305787 for 4 h or more decreased the expression of β2AR in the 
+cell membrane and induced vesicle- or dot-like expression of ezrin and β2AR 
+inside the cell. As a result, inhibition of ezrin phosphorylation by NSC305787 
+attenuated the effect of procaterol-induced activation of ciliary beating in 
+both frequency and distance indices.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2024.149685
+PMID: 38373381 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. JCI Insight. 2022 Nov 22;7(22):e164944. doi: 10.1172/jci.insight.164944.
+
+Airway surface hyperviscosity and defective mucociliary transport by IL-17/TNF-α 
+are corrected by β-adrenergic stimulus.
+
+Guidone D(1), Buccirossi M(1), Scudieri P(2)(3), Genovese M(1), Sarnataro S(1), 
+De Cegli R(1), Cresta F(4), Terlizzi V(5), Planelles G(6)(7), Crambert G(6)(7), 
+Sermet I(8), Galietta LJ(1)(9).
+
+Author information:
+(1)Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, Italy.
+(2)U.O.C. Genetica Medica, IRCCS Istituto Giannina Gaslini, Genova, Italy.
+(3)Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health (DINOGMI), University of Genova, Genova, Italy.
+(4)Centro Fibrosi Cistica, IRCCS Istituto Giannina Gaslini, Genova, Italy.
+(5)Meyer Children's Hospital, Cystic Fibrosis Regional Reference Center, 
+Department of Paediatric Medicine, Firenze, Italy.
+(6)Centre de Recherche des Cordeliers, INSERM UMRS 1138, Sorbonne Université, 
+Université Paris Cité, Paris, France.
+(7)CNRS EMR 8228, Paris, France.
+(8)Institut Necker Enfants Malades/INSERM U1151, Paris, France.
+(9)Department of Translational Medical Sciences (DISMET), University of Napoli 
+"Federico II", Napoli, Italy.
+
+The fluid covering the surface of airway epithelia represents a first barrier 
+against pathogens. The chemical and physical properties of the airway surface 
+fluid are controlled by the activity of ion channels and transporters. In cystic 
+fibrosis (CF), loss of CFTR chloride channel function causes airway surface 
+dehydration, bacterial infection, and inflammation. We investigated the effects 
+of IL-17A plus TNF-α, 2 cytokines with relevant roles in CF and other chronic 
+lung diseases. Transcriptome analysis revealed a profound change with 
+upregulation of several genes involved in ion transport, antibacterial defense, 
+and neutrophil recruitment. At the functional level, bronchial epithelia treated 
+in vitro with the cytokine combination showed upregulation of ENaC channel, 
+ATP12A proton pump, ADRB2 β-adrenergic receptor, and SLC26A4 anion exchanger. 
+The overall result of IL-17A/TNF-α treatment was hyperviscosity of the airway 
+surface, as demonstrated by fluorescence recovery after photobleaching (FRAP) 
+experiments. Importantly, stimulation with a β-adrenergic agonist switched 
+airway surface to a low-viscosity state in non-CF but not in CF epithelia. Our 
+study suggests that CF lung disease is sustained by a vicious cycle in which 
+epithelia cannot exit from the hyperviscous state, thus perpetuating the 
+proinflammatory airway surface condition.
+
+DOI: 10.1172/jci.insight.164944
+PMCID: PMC9746827
+PMID: 36219481 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have declared 
+that no conflict of interest exists.
+
+
+3. Genes Dev. 2021 Sep 1;35(17-18):1243-1255. doi: 10.1101/gad.348261.121. Epub 
+2021 Aug 12.
+
+Discovery of ciliary G protein-coupled receptors regulating pancreatic islet 
+insulin and glucagon secretion.
+
+Wu CT(1), Hilgendorf KI(1)(2), Bevacqua RJ(3), Hang Y(3)(4), Demeter J(1), Kim 
+SK(#)(3)(4)(5), Jackson PK(#)(1)(4)(5).
+
+Author information:
+(1)Baxter Laboratory, Department of Microbiology and Immunology, Stanford 
+University School of Medicine, Stanford, California 94305, USA.
+(2)Department of Biochemistry, University of Utah School of Medicine, Salt Lake 
+City, Utah 84112, USA.
+(3)Department of Developmental Biology, Stanford University School of Medicine, 
+Stanford, California 94305, USA.
+(4)Stanford Diabetes Research Center, Stanford University School of Medicine, 
+Stanford, California 94305, USA.
+(5)Department of Medicine, Stanford University, Stanford, California 94305, USA.
+(#)Contributed equally
+
+Multiple G protein-coupled receptors (GPCRs) are expressed in pancreatic islet 
+cells, but the majority have unknown functions. We observed specific GPCRs 
+localized to primary cilia, a prominent signaling organelle, in pancreatic α and 
+β cells. Loss of cilia disrupts β-cell endocrine function, but the molecular 
+drivers are unknown. Using functional expression, we identified multiple GPCRs 
+localized to cilia in mouse and human islet α and β cells, including FFAR4, 
+PTGER4, ADRB2, KISS1R, and P2RY14. Free fatty acid receptor 4 (FFAR4) and 
+prostaglandin E receptor 4 (PTGER4) agonists stimulate ciliary cAMP signaling 
+and promote glucagon and insulin secretion by α- and β-cell lines and by mouse 
+and human islets. Transport of GPCRs to primary cilia requires TULP3, whose 
+knockdown in primary human and mouse islets relocalized ciliary FFAR4 and PTGER4 
+and impaired regulated glucagon or insulin secretion, without affecting ciliary 
+structure. Our findings provide index evidence that regulated hormone secretion 
+by islet α and β cells is controlled by ciliary GPCRs providing new targets for 
+diabetes.
+
+© 2021 Wu et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gad.348261.121
+PMCID: PMC8415323
+PMID: 34385262 [Indexed for MEDLINE]
+
+
+4. JCI Insight. 2018 Feb 22;3(4):e93029. doi: 10.1172/jci.insight.93029. 
+eCollection 2018 Feb 22.
+
+Chronic β2AR stimulation limits CFTR activation in human airway epithelia.
+
+Brewington JJ(1), Backstrom J(1), Feldman A(1), Kramer EL(1), Moncivaiz JD(1), 
+Ostmann AJ(1), Zhu X(2), Lu LJ(2), Clancy JP(1).
+
+Author information:
+(1)Division of Pulmonary Medicine, Department of Pediatrics, and.
+(2)Division of Biomedical Informatics, Department of Pediatrics, Cincinnati 
+Children's Hospital Medical Center, Cincinnati, Ohio, USA.
+
+Traditional pulmonary therapies for cystic fibrosis (CF) target the downstream 
+effects of CF transmembrane conductance regulator (CFTR) dysfunction (the cause 
+of CF). Use of one such therapy, β-adrenergic bronchodilators (such as 
+albuterol), is nearly universal for airway clearance. Conversely, novel 
+modulator therapies restore function to select mutant CFTR proteins, offering a 
+disease-modifying treatment. Recent trials of modulators targeting F508del-CFTR, 
+the most common CFTR mutation, suggest that chronic β-agonist use may undermine 
+clinical modulator benefits. We therefore sought to understand the impact of 
+chronic or excess β-agonist exposure on CFTR activation in human airway 
+epithelium. The present studies demonstrate a greater than 60% reduction in both 
+wild-type and modulator-corrected F508del-CFTR activation following chronic 
+exposure to short- and long-acting β-agonists. This reduction was due to reduced 
+cellular generation of cAMP downstream of the β-2 adrenergic receptor-G protein 
+complex. Our results point towards a posttranscriptional reduction in adenylyl 
+cyclase function as the mechanism of impaired CFTR activation produced by 
+prolonged β-agonist exposure. β-Agonist-induced CFTR dysfunction was sufficient 
+to abrogate VX809/VX770 modulation of F508del-CFTR in vitro. Understanding the 
+clinical relevance of our observations is critical for CF patients using these 
+drugs, and for investigators to inform future CFTR modulator drug trials.
+
+DOI: 10.1172/jci.insight.93029
+PMCID: PMC5916247
+PMID: 29467332 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have declared 
+that no conflict of interest exists.
+
+
+5. Curr Eye Res. 2014 Nov;39(11):1076-80. doi: 10.3109/02713683.2014.900807. Epub 
+2014 Apr 21.
+
+ADRB1 and ADBR2 gene polymorphisms and the ocular hypotensive response to 
+topical betaxolol in healthy Mexican subjects.
+
+Messina Baas O(1), Pacheco Cuellar G, Toral-López J, Lara Huerta SF, 
+Gonzalez-Huerta LM, Urueta-Cuellar H, Rivera-Vega MR, Babayan-Mena I, 
+Cuevas-Covarrubias SA.
+
+Author information:
+(1)Department of Ophtalmology .
+
+BACKGROUND: The β adrenergic receptors (ADRB) are expressed in the ciliary body 
+and trabecular meshwork, structures involved in aqueous humor production and 
+outflow, respectively. ADRB are members of the adrenergic family of 
+G-protein-coupled receptors. Topic β blockers have a good local and systemic 
+tolerance; they reduce the aqueous humor production and eye strain blocking the 
+ADRB of the ciliary body and interfering with adenylate cyclase. However, the 
+ocular hypotensive response is not the same in all patients and could be 
+mediated by the polymorphisms of the ADRB genes.
+MATERIALS AND METHODS: Seventy-two healthy subjects were studied after treatment 
+with topical betaxolol in both eyes. We analyzed ADRB1 and ADRB2 gene 
+polymorphisms by PCR and automated DNA sequencing.
+RESULTS: There was statistically significant difference between baseline 
+intraocular pressure (IOP) and final IOP of both eyes (baseline IOP 16.2 ± 1.2 - 
+follow-up IOP 13.6 ± 2.0 (mean difference-2.5 ± 1.3, p < 0.001). Gly389 had a 
+higher baseline IOP than Arg389 (17.0 ± 1.2 mmHg versus 16.0 ± 1.2 mmHg; 
+p = 0.02), and conversely Arg389 had a greater magnitude of response than Gly389 
+to betaxolol therapy (-2.9 ± 1.1 mmHg versus -0.7 ± 0.4 mmHg; p < 0.001). Gln27 
+had a higher response than Glu27 (-2.7 ± 1.3 mmHg versus -1.9 ± 1.0; p = 0.02).
+CONCLUSION: Arg389 polymorphism of the ADRB1 gene and Gln27 polymorphism of the 
+ADRB2 gene were associated with the hypotensive response to topic betaxolol in 
+healthy Mexican volunteers.
+
+DOI: 10.3109/02713683.2014.900807
+PMID: 24749907 [Indexed for MEDLINE]
+
+
+6. Mol Ther. 2014 Jan;22(1):81-91. doi: 10.1038/mt.2013.216. Epub 2013 Sep 12.
+
+In vitro and in vivo efficacy of SYL040012, a novel siRNA compound for treatment 
+of glaucoma.
+
+Martínez T(1), González MV(1), Roehl I(2), Wright N(1), Pañeda C(1), Jiménez 
+AI(1).
+
+Author information:
+(1)Department of R&D, Sylentis, Madrid, Spain.
+(2)Axolabs GmbH, Kulmbach, Germany.
+
+Glaucoma is a progressive ocular syndrome characterized by degeneration of the 
+optic nerve and irreversible visual field loss. Elevated intraocular pressure 
+(IOP) is the main risk factor for glaucoma. Increased IOP is the result of an 
+imbalance between synthesis and outflow of aqueous humor (AH). Blocking β2 
+adrenergic receptor (ADRB2) has shown to reduce IOP by decreasing production of 
+AH at the ciliary body (CB). SYL040012 is a siRNA designed to specifically 
+silence ADRB2 currently under development for glaucoma treatment. Here, we show 
+that SYL040012 specifically reduces ADRB2 expression in cell cultures and eye 
+tissues. The compound enters the eye shortly after administration in eye drops 
+and is rapidly distributed among structures of the anterior segment of the eye. 
+In addition, SYL040012 is actively taken up by cells of the CB but not by cells 
+of systemic organs such as the lungs, where inhibition of ADRB2 could cause 
+undesirable side effects. Moreover, SYL040012 reduces IOP in normotensive and 
+hypertensive animal models and the effect appears to be long lasting and 
+extremely well tolerated both locally and systemically.
+
+DOI: 10.1038/mt.2013.216
+PMCID: PMC3978804
+PMID: 24025749 [Indexed for MEDLINE]
+
+
+7. PLoS One. 2013 Aug 2;8(8):e70857. doi: 10.1371/journal.pone.0070857. Print 2013.
+
+GPR88 reveals a discrete function of primary cilia as selective insulators of 
+GPCR cross-talk.
+
+Marley A(1), Choy RW, von Zastrow M.
+
+Author information:
+(1)Department of Psychiatry, University of California San Francisco, San 
+Francisco, California, United States of America.
+
+A number of G protein-coupled receptors (GPCRs) localize to primary cilia but 
+the functional significance of cilia to GPCR signaling remains incompletely 
+understood. We investigated this question by focusing on the D1 dopamine 
+receptor (D1R) and beta-2 adrenergic receptor (B2AR), closely related 
+catecholamine receptors that signal by stimulating production of the diffusible 
+second messenger cyclic AMP (cAMP) but differ in localization relative to cilia. 
+D1Rs robustly concentrate on cilia of IMCD3 cells, as shown previously in other 
+ciliated cell types, but disrupting cilia did not affect D1R surface expression 
+or ability to mediate a concentration-dependent cAMP response. By developing a 
+FRET-based biosensor suitable for resolving intra- from extra- ciliary cAMP 
+changes, we found that the D1R-mediated cAMP response is not restricted to cilia 
+and extends into the extra-ciliary cytoplasm. Conversely the B2AR, which we show 
+here is effectively excluded from cilia, also generated a cAMP response in both 
+ciliary and extra-ciliary compartments. We identified a distinct signaling 
+effect of primary cilia through investigating GPR88, an orphan GPCR that is 
+co-expressed with the D1R in brain, and which we show here is targeted to cilia 
+similarly to the D1R. In ciliated cells, mutational activation of GPR88 strongly 
+reduced the D1R-mediated cAMP response but did not affect the B2AR-mediated 
+response. In marked contrast, in non-ciliated cells, GPR88 was distributed 
+throughout the plasma membrane and inhibited the B2AR response. These results 
+identify a discrete 'insulating' function of primary cilia in conferring 
+selectivity on integrated catecholamine signaling through lateral segregation of 
+receptors, and suggest a cellular activity of GPR88 that might underlie its 
+effects on dopamine-dependent behaviors.
+
+DOI: 10.1371/journal.pone.0070857
+PMCID: PMC3732291
+PMID: 23936473 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+8. Pharmacogenet Genomics. 2011 Sep;21(9):587-9. doi: 10.1097/FPC.0b013e32834910d1.
+
+Regulation of ocular adrenoceptor genes expression by 5-MCA-NAT: implications 
+for glaucoma treatment.
+
+Crooke A(1), Huete-Toral F, Martínez-Águila A, Alarma-Estrany P, Pintor J.
+
+Author information:
+(1)Departamento de Bioquímica, E.U. Óptica, Universidad Complutense de Madrid, 
+Madrid, Spain.
+
+We have demonstrated that 5-methoxycarbonylamino-N-acetyltryptamine (5-MCA-NAT), 
+reduces intraocular pressure (IOP) in rabbits. In addition, we have reported a 
+link between hypotensive effect of 5-MCA-NAT and sympathetic nervous system. 
+Moreover, it is known that aqueous humour production is controlled by the 
+activation of adrenoceptors (ADRs) present in the ocular ciliary epithelium. 
+Thus, the aim of this study is to investigate if the hypotensive effect of 
+5-MCA-NAT is due to a regulation of ciliary ADR genes expression. To confirm 
+this we followed the effect of 5-MCA-NAT on rabbit IOP for 144 consecutive 
+hours. A sustained IOP reduction for up to 72 h (P<0.01) was seen. In addition, 
+changes in ADRB2 and ADRA2A mRNA were measured in cultured rabbit nonpigmented 
+ciliary epithelial cells. After 5-MCA-NAT treatment, a significant 
+downregulation of ADRB2 and upregulation of ADRA2A was observed. These results 
+provide the regulation of ADRs mRNA by 5-MCA-NAT.
+
+DOI: 10.1097/FPC.0b013e32834910d1
+PMID: 21705965 [Indexed for MEDLINE]
+
+
+9. Pulm Pharmacol Ther. 2011 Oct;24(5):610-6. doi: 10.1016/j.pupt.2011.06.001. Epub 
+2011 Jun 15.
+
+Influence of genetic variation of the β2-adrenergic receptor on lung diffusion 
+in patients with cystic fibrosis.
+
+Traylor BR(1), Wheatley CM, Skrentny TT Jr, Foxx-Lupo WT, Phan H, Patanwala AE, 
+Morgan WJ, Daines CL, Sprissler R, Snyder EM.
+
+Author information:
+(1)Department of Pharmacy Practice and Science, University of Arizona, 1703 E. 
+Mabel, Tucson, AZ 85721, United States.
+
+RATIONALE: Cystic fibrosis (CF) is a disease that adversely affects the lung 
+resulting in a reduction in lung diffusion. Stimulation of the β(2)-adrenergic 
+receptors mediates mucociliary clearance and bronchodilation. We sought to 
+determine the influence of an inhaled β-agonist on the diffusing capacity of the 
+lungs for carbon monoxide (DLCO), alveolar-capillary membrane conductance 
+(D(M)), pulmonary capillary blood volume (Vc), and peripheral oxygen saturation 
+(SaO(2)) in subjects with CF, when compared to matched healthy subjects, 
+according to genetic variation of the β(2)-adrenergic receptor (ADRB2).
+METHODS: To determine this we recruited 18 subjects with CF and 20 healthy 
+subjects (age = 23 ± 7 vs. 24±4years; ht = 168 ± 8 vs. 174 ± 12 cm; wt = 64 ± 16 
+vs. 70 ± 13 kg; BMI = 23 ± 4 vs. 23±3 kg/m(2); FEV(1) = 72 ± 27 vs. 
+92 ± 12%pred; VO(2peak) = 45 ± 25 vs. 99 ± 24%pred, p < 0.05 for FEV(1) and 
+VO(2peak), mean ± SD, for CF and healthy, respectively). The study involved 
+measurement of DLCO, D(M), V(C) and SaO(2) before and 30, 60, and 90 min 
+following the administration of inhaled albuterol. Subjects were stratified 
+according to genetic variation of ADRB2, Gln(27)Gln vs. Glu(27)Glu/Gln(27)Glu.
+RESULTS: Within the healthy group, there were no differences in DLCO, D(M), 
+V(C), D(M)/V(C) at baseline or in response to albuterol according to genetic 
+variation of the ADRB2 at amino acid 27. Within the CF group, the 
+Glu(27)Glu/Gln(27)Glu group had higher D(M)/V(C) and SaO(2) when compared to the 
+Gln(27)Gln group at baseline (p < 0.05). Both genotype groups demonstrated a 
+significant decline in V(C) and an improvement in D(M)/V(C) and SaO(2) in 
+response to albuterol. Subjects with the Glu(27) genotype experienced a greater 
+improvement in D(M)/V(C) with albuterol when compared to subjects homozygous for 
+Gln at amino acid 27.
+CONCLUSION: These results suggest that there are differences in lung diffusion 
+and peripheral SaO(2) according to genetic variation of the ADRB2 at position 27 
+which could play a potential role in dosing options or adjustments that may be 
+required according to genotype.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.pupt.2011.06.001
+PMID: 21703359 [Indexed for MEDLINE]
+
+
+10. Pflugers Arch. 2011 Aug;462(2):267-79. doi: 10.1007/s00424-011-0971-0. Epub 2011 
+May 11.
+
+Alveolar epithelial CNGA1 channels mediate cGMP-stimulated, 
+amiloride-insensitive, lung liquid absorption.
+
+Wilkinson WJ(1), Benjamin AR, De Proost I, Orogo-Wenn MC, Yamazaki Y, Staub O, 
+Morita T, Adriaensen D, Riccardi D, Walters DV, Kemp PJ.
+
+Author information:
+(1)Division of Pathophysiology and Repair, School of Biosciences, Cardiff 
+University, Museum Avenue, Cardiff, UK.
+
+Impairment of lung liquid absorption can lead to severe respiratory symptoms, 
+such as those observed in pulmonary oedema. In the adult lung, liquid absorption 
+is driven by cation transport through two pathways: a well-established 
+amiloride-sensitive Na(+) channel (ENaC) and, more controversially, an 
+amiloride-insensitive channel that may belong to the cyclic nucleotide-gated 
+(CNG) channel family. Here, we show robust CNGA1 (but not CNGA2 or CNGA3) 
+channel expression principally in rat alveolar type I cells; CNGA3 was expressed 
+in ciliated airway epithelial cells. Using a rat in situ lung liquid clearance 
+assay, CNG channel activation with 1 mM 8Br-cGMP resulted in an approximate 
+1.8-fold stimulation of lung liquid absorption. There was no stimulation by 
+8Br-cGMP when applied in the presence of either 100 μM L: -cis-diltiazem or 
+100 nM pseudechetoxin (PsTx), a specific inhibitor of CNGA1 channels. Channel 
+specificity of PsTx and amiloride was confirmed by patch clamp experiments 
+showing that CNGA1 channels in HEK 293 cells were not inhibited by 100 μM 
+amiloride and that recombinant αβγ-ENaC were not inhibited by 100 nM PsTx. 
+Importantly, 8Br-cGMP stimulated lung liquid absorption in situ, even in the 
+presence of 50 μM amiloride. Furthermore, neither L: -cis-diltiazem nor PsTx 
+affected the β(2)-adrenoceptor agonist-stimulated lung liquid absorption, but, 
+as expected, amiloride completely ablated it. Thus, transport through alveolar 
+CNGA1 channels, located in type I cells, underlies the amiloride-insensitive 
+component of lung liquid reabsorption. Furthermore, our in situ data highlight 
+the potential of CNGA1 as a novel therapeutic target for the treatment of 
+diseases characterised by lung liquid overload.
+
+DOI: 10.1007/s00424-011-0971-0
+PMID: 21559843 [Indexed for MEDLINE]
+
+
+11. Eur J Pharmacol. 2010 Jun 10;635(1-3):177-83. doi: 10.1016/j.ejphar.2010.03.005. 
+Epub 2010 Mar 19.
+
+Effect of cyclic AMP-elevating agents on airway ciliary beat frequency in 
+central and lateral airways in rat precision-cut lung slices.
+
+Wohlsen A(1), Hirrle A, Tenor H, Marx D, Beume R.
+
+Author information:
+(1)Formerly Department of Preclinical Pharmacology, Nycomed GmbH, Konstanz, 
+Germany.
+
+In patients with chronic obstructive pulmonary disease (COPD), mucociliary 
+clearance of the respiratory tract is impaired due to enhanced mucus secretion 
+and deterioration of normal ciliary activity. We investigated the effects of 
+cyclic AMP-elevating agents with a different mode of action on ciliary beat 
+frequency (CBF) in rat large central and small lateral airways by comparing the 
+phosphodiesterase-4 (PDE4) inhibitors rolipram and roflumilast to the 
+beta(2)-adrenoceptor agonist terbutaline and the adenylyl cyclase activator 
+forskolin. Rat precision-cut lung slices were prepared and effects of cyclic 
+AMP-elevating agents on CBF were assessed for up to 4h. In central airways a 
+time- and concentration-dependent increase in CBF was seen for roflumilast 
+(59+/-4%, 1microM, 60min), rolipram (55+/-4%, 1microM, 60min), terbutaline 
+(64+/-8%, 10microM, 60min) and forskolin (55+/-8%, 100microM, 60min). Only 
+roflumilast and rolipram increased CBF in lateral airways, with a similar time 
+course and maximum efficacy (roflumilast 48+/-5%, rolipram 54+/-2%). Incubation 
+of lateral airways with terbutaline (10microM, +11%) or forskolin (100microM, 
++1%) had negligible effects. As a major novel finding this study reveals that 
+PDE4 inhibitors increased CBF in central as well as in lateral airways, while 
+terbutaline and forskolin affected CBF in proximal airways only.
+
+DOI: 10.1016/j.ejphar.2010.03.005
+PMID: 20303939 [Indexed for MEDLINE]
+
+
+12. J Clin Pharm Ther. 2009 Dec;34(6):631-43. doi: 10.1111/j.1365-2710.2009.01066.x.
+
+Beta-2 adrenergic receptor genetic polymorphisms and asthma.
+
+Hizawa N(1).
+
+Author information:
+(1)Department of Pulmonary Medicine, Institute of Clinical Medicine, University 
+of Tsukuba, Tsukuba 305 8575, Japan. nhizawa@md.tsukuba.ac.jp
+
+Beta-2-Adrenergic receptors (beta(2)AR) participate in the physiologic responses 
+of the lung, including bronchodilation and bronchoprotection, through mechanisms 
+such as mucociliary clearance, fluid accumulation and mediator release from mast 
+cells and basophils. Thus, these receptors may also play an important role in 
+the pathophysiology of asthma. The gene encoding beta(2)AR (ADRB2) is extremely 
+polymorphic, and studies of this gene improves our understanding of asthma and 
+possibly lead to new methods to prevent, diagnose and treat it. This review 
+summarizes results from various studies on the possible relationship of ADRB2 
+polymorphisms to asthma and asthma-related phenotypes, including bronchodilator 
+responses to inhaled beta(2)-agonists. At present, it appears that, for asthma, 
+ADRB2 polymorphisms are not aetiologically involved. However, they might affect 
+disease severity and clinical response to both acute and chronic administration 
+of beta(2)-agonists. The development is that by assessing the ADRB2 genotype, it 
+might be possible to predict the clinical course of asthma as well as 
+responsiveness to chronic administration of beta(2)-agonists. Carefully, 
+performed and adequately powered clinical trials continue to be important for 
+achieving those goals.
+
+DOI: 10.1111/j.1365-2710.2009.01066.x
+PMID: 20175796 [Indexed for MEDLINE]
+
+
+13. Life Sci. 2009 Jan 30;84(5-6):181-7. doi: 10.1016/j.lfs.2008.11.016. Epub 2008 
+Dec 3.
+
+Pharmacological evaluation of ocular beta-adrenoceptors in rabbit by tissue 
+segment binding method.
+
+Horinouchi T(1), Morishima S, Tanaka Y, Koike K, Miwa S, Muramatsu I.
+
+Author information:
+(1)Division of Pharmacology, Department of Biochemistry and Bioinformative 
+Sciences, School of Medicine, University of Fukui, Eiheiji, Fukui 910-1193, 
+Japan.
+
+AIMS: This study evaluates ocular (iris, ciliary body and ciliary process) and 
+nonocular (atria and lung) beta-adrenoceptors in rabbit to characterize the 
+plasma membrane beta-adrenoceptors and binding affinities of beta-adrenoceptor 
+antagonists.
+MAIN METHODS: The tissue segment binding method with a hydrophilic radioligand 
+(-)-4-[3-t-butylamino-2-hydroxypropoxy]-[5,7-(3)H]benzimidazol-2-one 
+([(3)H]-CGP12177) was employed.
+KEY FINDINGS: Specific and saturable binding of [(3)H]-CGP12177 to intact tissue 
+segments was detected by using (+/-)-propranolol to define nonspecific binding, 
+showing a single population of plasma membrane binding sites with high affinity. 
+Competition experiments with selective beta(1)- and beta(2)-adrenoceptor 
+antagonists revealed a single population of beta(2)-adrenoceptors in ocular 
+tissues and of beta(1)-adrenoceptors in atria, but mixed populations of beta(1)- 
+and beta(2)-adrenoceptors in 70% and 30%, respectively, in lung. A competition 
+curve for timolol was biphasic in lung and its binding affinity for 
+beta(2)-adrenoceptors was approximately 158-fold higher than for 
+beta(1)-adrenoceptors, indicating the beta(2)-selectivity of timolol. In 
+contrast, competition curves for stereoisomers of befunolol, carteolol, and 
+propranolol were monophasic in all tissues. The (-)-enantiomers of these 
+antagonists were more potent than corresponding (+)-enantiomers in displacing 
+from [(3)H]-CGP12177 binding, and the isomeric potency ratios of befunolol and 
+carteolol were less than those of propranolol.
+SIGNIFICANCE: This study with tissue segment binding method suggests that the 
+binding affinity of (-)-enantiomers of beta-adrenoceptor antagonists for plasma 
+membrane beta-adrenoceptors (beta(1)-adrenoceptors of atria, 
+beta(2)-adrenoceptors of ocular tissues, and mixed 
+beta(1)-/beta(2)-adrenoceptors of lung) is higher than that of corresponding 
+(+)-enantiomers and their stereoselectivity is different between 
+beta-adrenoceptor antagonists.
+
+DOI: 10.1016/j.lfs.2008.11.016
+PMID: 19087880 [Indexed for MEDLINE]
+
+
+14. Am J Respir Cell Mol Biol. 2009 Apr;40(4):388-97. doi: 10.1165/rcmb.2008-0037OC. 
+Epub 2008 Oct 17.
+
+Salmeterol restores secretory functions in cystic fibrosis airway submucosal 
+gland serous cells.
+
+Delavoie F(1), Molinari M, Milliot M, Zahm JM, Coraux C, Michel J, Balossier G.
+
+Author information:
+(1)INSERM UMRS 926, Laboratoire de Microscopie Electronique Analytique, 21 rue 
+Clément Ader, B.P. 138, 51685 Reims Cedex 2, France. 
+franck.delavoie@univ-reims.fr
+
+The activity of the cystic fibrosis (CF) transmembrane conductance regulator 
+(CFTR) can be mediated by surface G protein-coupled receptors such as the 
+beta(2)-adrenergic receptor. In this study, we explored the effect of a 
+long-acting beta(2)-adrenergic agonist, salmeterol, on the CFTR-dependent 
+secretory capacity of a human CF tracheal gland serous cell line (CF-KM4), 
+homozygous for the delF508 mutation. We showed that, compared with the untreated 
+CF serous cells, a 24-hour pre-incubation period with 200 nM salmeterol induced 
+an 83% increase in delF508-CFTR-mediated chloride efflux. The restoration of the 
+bioelectric properties is associated with increased apical surface pool of 
+delF508-CFTR. Salmeterol induced a decrease in ion concentration and an increase 
+in the level of hydration of the mucus packaged inside the CF secretory 
+granules. The effects of salmeterol are not associated with a persistent 
+production of cAMP. Western blotting on isolated secretory granules demonstrated 
+immunoreactivity for CFTR and lysozyme. In parallel, we measured by atomic force 
+microscopy an increased size of secretory granules isolated from CF serous cells 
+compared with non-CF serous cells (MM39 cell line) and showed that salmeterol 
+was able to restore a CF cell granule size similar to that of non-CF cells. To 
+demonstrate that the salmeterol effect was a CFTR-dependent mechanism, we showed 
+that the incubation of salmeterol-treated CF serous cells with CFTR-inh172 
+suppressed the restoration of normal secretory functions. The capacity of 
+salmeterol to restore the secretory capacity of glandular serous cells suggests 
+that it could also improve the airway mucociliary clearance in patients with CF.
+
+DOI: 10.1165/rcmb.2008-0037OC
+PMCID: PMC4749671
+PMID: 18931328 [Indexed for MEDLINE]
+
+
+15. Pulm Pharmacol Ther. 2008;21(1):105-11. doi: 10.1016/j.pupt.2007.01.002. Epub 
+2007 Jan 25.
+
+Chronic inhalation of nebulized levalbuterol does not increase mucociliary 
+clearance in healthy subjects.
+
+Cleary JC(1), Karmazyn Y, Mogayzel PJ Jr, Laube BL.
+
+Author information:
+(1)Eudowood Division of Pediatric Respiratory Sciences, The Johns Hopkins 
+Medical Institutions, Park 316, Baltimore, MD 21287-2533, USA.
+
+Acute inhalations of beta 2-adrenergic receptor agonists increase mucociliary 
+clearance (MCC). Less is known about the effect of long-term inhalations of 
+these agents on MCC, or cough clearance (CC). We hypothesized that chronic 
+inhalations of nebulized levalbuterol, the R-isomer of albuterol, would enhance 
+MCC and/or CC in healthy subjects, compared to albuterol or placebo. This was a 
+randomized, double-blind, placebo-controlled trial in ten healthy, adult 
+subjects who inhaled nebulized levalbuterol (1.25mg), albuterol (2.5mg), or 
+placebo for 7 days, three times daily. MCC and CC were measured 6-7h after the 
+last dose of drug on the 7th day of treatment. These were quantified from gamma 
+camera images of the lungs following inhalation of an aerosol containing the 
+isotope (99m)technetium. Levalbuterol did not improve MCC or CC. MCC averaged 
+(+/-SD) 12.3+/-8.3%, 9.2+/-4.7% and 10.0+/-9.6% with placebo, albuterol and 
+levalbuterol, respectively. CC averaged 3.9+/-6.8%, 4.9+/-4.3% and 3.8+/-6.4% 
+with placebo, albuterol and levalbuterol, respectively. These results indicate 
+that chronic inhalations of nebulized levalbuterol for 1 week do not increase 
+MCC or CC in healthy subjects, compared to albuterol or placebo.
+
+DOI: 10.1016/j.pupt.2007.01.002
+PMID: 17360209 [Indexed for MEDLINE]
+
+
+16. J Heart Lung Transplant. 2007 Feb;26(2):138-44. doi: 
+10.1016/j.healun.2006.11.005.
+
+Albuterol improves impaired mucociliary clearance after lung transplantation.
+
+Laube BL(1), Karmazyn YJ, Orens JB, Mogayzel PJ Jr.
+
+Author information:
+(1)Eudowood Division of Pediatric Respiratory Sciences, The Johns Hopkins 
+Medical Institutions, Baltimore, Maryland 21287-2533, USA.
+
+BACKGROUND: Previous studies have shown that mucociliary clearance (MCC) is 
+diminished after lung transplantation. However, it is unknown how early this 
+deficit occurs after transplantation, or whether the abnormality can be improved 
+by pharmacologic means. We hypothesized that impairment of MCC is evident soon 
+after lung transplantation and that the defect in MCC can be improved by inhaled 
+beta(2)-adrenergic receptor agonists.
+METHODS: MCC and cough clearance (CC) were quantified in seven patients at 76 
++/- 48 days (mean +/- standard deviation) after lung transplantation (baseline 
+visit) and again 1 week later after an acute inhalation of albuterol. MCC was 
+also determined once in four healthy subjects. To measure MCC, volunteers 
+inhaled 99m-technetium-sulfur colloid aerosol, followed by gamma-camera imaging 
+of their lungs for 76 minutes.
+RESULTS: Baseline MCC was significantly reduced in transplant patients, compared 
+with healthy subjects, averaging 8.9 +/- 7.3% and 20.9 +/- 15.1%, respectively 
+(p = 0.05). CC was not affected by transplantation. Acute inhalation of 
+albuterol significantly improved MCC in transplant patients (31.9 +/- 21.9%) 
+compared with baseline values (p < 0.05).
+CONCLUSIONS: MCC is diminished within a few months after transplantation. 
+However, the response to albuterol suggests that the deficit is not static and 
+can be improved with inhalation of a beta(2)-adrenergic receptor agonist.
+
+DOI: 10.1016/j.healun.2006.11.005
+PMID: 17258147 [Indexed for MEDLINE]
+
+
+17. Mol Vis. 2006 Jun 12;12:673-80.
+
+Polymorphism of beta-adrenergic receptors and susceptibility to open-angle 
+glaucoma.
+
+Inagaki Y(1), Mashima Y, Fuse N, Funayama T, Ohtake Y, Yasuda N, Murakami A, 
+Hotta Y, Fukuchi T, Tsubota K.
+
+Author information:
+(1)Department of Ophthalmology, Keio University School of Medicine, 
+Shinanomachi, Tokyo, Japan.
+
+PURPOSE: The human trabecular meshwork and ciliary body, which express 
+beta-adrenergic receptors (ADRB1 and ADRB2), control aqueous humor dynamics. We 
+investigated associations of ADRB polymorphisms with open-angle glaucoma (OAG), 
+because ADRB gene polymorphisms alter receptor function.
+METHODS: We studied 240 Japanese controls and 505 Japanese OAG patients 
+including 211 with primary open-angle glaucoma (POAG), and 294 with 
+normal-tension glaucoma (NTG). Associations of four polymorphisms (Ser49Gly and 
+Arg389Gly in the ADRB1 gene; Arg16Gly and Gln27Glu in the ADRB2 gene) were 
+compared between patients and controls. Age, intraocular pressure (IOP), and 
+visual field defects at diagnosis were examined for associations with 
+polymorphisms.
+RESULTS: The Arg389Gly polymorphism in the ADRB1 gene showed significantly 
+different allele and genotype frequencies in patients with NTG than in controls 
+(p = 0.004 and 0.006, respectively). Other polymorphisms did not show a 
+significant frequency difference. In POAG patients, carriers of Gly16 in the 
+ADRB2 gene were significantly younger at diagnosis than noncarriers (p<0.001). 
+The IOP at diagnosis was significantly higher in OAG patients carrying 27Glu in 
+the ADRB2 gene than in patients without this allele (p<0.001). Clinical 
+characteristics of OAG patients did not differ significantly in relation to 
+other polymorphisms.
+CONCLUSIONS: Certain polymorphisms of the ADRB1 and ADRB2 genes influence the 
+pathophysiology of OAG in Japanese patients.
+
+PMID: 16785856 [Indexed for MEDLINE]
+
+
+18. Pulm Pharmacol Ther. 2005;18(1):1-8. doi: 10.1016/j.pupt.2004.08.001.
+
+Mucociliary dysfunction in COPD: effect of current pharmacotherapeutic options.
+
+Rogers DF(1).
+
+Author information:
+(1)Thoracic Medicine, National Heart and Lung Institute, Imperial College 
+London, Dovehouse Street, London SW3 6LY, UK. duncan.rogers@imperial.ac.uk
+
+Chronic obstructive pulmonary disease (COPD) is a major cause of morbidity and 
+mortality worldwide. COPD comprises multiple components which, as well as a 
+systemic component, include pulmonary inflammation, airway remodelling and 
+mucociliary dysfunction. The latter features contribute to the development of 
+chronic, progressive airflow limitation. The mucociliary dysfunction component 
+of COPD is due to mucus hypersecretion coupled with a decrease in mucus 
+transport, and represents an important pathophysiological feature requiring 
+appropriate treatment. Current international guidelines do not recommend the use 
+of mucolytics in the treatment of stable COPD. In contrast, bronchodilators are 
+central to symptomatic management of COPD, and include beta(2)-adrenoceptor 
+agonists, anti-cholinergics and methylxanthines. Interestingly, long-acting 
+beta(2)-agonists (LABAs), rather than short-acting beta(2)-agonists, have the 
+potential to improve the mucociliary component of COPD, in addition to providing 
+symptomatic treatment by their bronchodilator action. Combination therapy with a 
+LABA and an inhaled corticosteroid has the potential to more fully address the 
+multicomponent nature of COPD by providing important anti-inflammatory activity, 
+which may indirectly further improve mucociliary clearance. Theoretically, 
+anti-cholinergics are likely to have mixed effects on mucociliary function, but 
+clinically these effects have been difficult to demonstrate. Finally, a number 
+of novel targets for the treatment of airway mucociliary dysfunction have been 
+identified, and targeting agents are currently in development.
+
+DOI: 10.1016/j.pupt.2004.08.001
+PMID: 15607121 [Indexed for MEDLINE]
+
+
+19. Eur J Clin Pharmacol. 2003 Oct;59(7):527-31. doi: 10.1007/s00228-003-0658-3. 
+Epub 2003 Sep 12.
+
+Beta 2-adrenergic receptor polymorphism and susceptibility to primary congenital 
+and primary open angle glaucoma.
+
+Güngör K(1), Ozkur M, Cascorbi I, Brockmöller J, Bekir N, Roots I, Aynacioglu 
+AS.
+
+Author information:
+(1)Department of Ophthalmology, Medical Faculty, University of Gaziantep, 
+Gaziantep, Turkey.
+
+OBJECTIVE: It has been shown that arginine to glycine (Arg16Gly), glutamine to 
+glutamic acid (Gln27Glu) and threonine to isoleucine (Thr164Ile) exchanges in 
+codons 16, 27 and 164, respectively, of the beta 2-adrenergic receptor (B2AR) 
+gene significantly alter receptor function. As B2ARs are located on the afferent 
+blood vessels supplying the ciliary body and trabecular meshwork cells, which 
+control aqueous humour dynamics, polymorphisms of B2AR may be involved in the 
+pathophysiology of certain eye diseases, such as glaucoma. Therefore, the aim of 
+the present study was to investigate the distribution of B2AR polymorphisms in 
+patients with primary congenital and primary open angle glaucoma.
+METHODS: A group of 30 patients with primary congenital glaucoma, 105 with 
+primary open angle glaucoma and 92 control patients were analysed for the 
+Arg16Gly, Gln27Glu, and Thr164IIe polymorphisms of the B2AR by polymerase chain 
+reaction-restriction fragment length polymorphism.
+RESULTS: The allelic frequencies of Gly16, Glu27 and IIe164 variant alleles were 
+66.7, 38.3 and 3.3% in patients with congenital glaucoma, 59.5, 31.0 and 1.0% 
+with glaucoma, and 54.9, 26.6 and 0.5% in controls, respectively. Although 
+statistically non-significant, the frequencies of variant alleles were slightly 
+higher in both groups of the glaucoma patients.
+CONCLUSIONS: These results suggest no evidence of an association between the 
+Arg16Gly, Glu27Gln and Thr164Ile polymorphisms of the B2AR gene and risk of 
+developing primary open angle glaucoma or primary congenital glaucoma. However, 
+further studies are needed to understand the role of B2AR polymorphisms in 
+patients with eye disease.
+
+DOI: 10.1007/s00228-003-0658-3
+PMID: 13680034 [Indexed for MEDLINE]
+
+
+20. Curr Eye Res. 2002 Mar;24(3):173-81. doi: 10.1076/ceyr.24.3.173.8300.
+
+(-)-Isoproterenol modulation of maxi-K(+) channel in nonpigmented ciliary 
+epithelial cells through a G-protein gated pathway.
+
+Bhattacharyya BJ(1), Lee E, Krupin D, Hockberger P, Krupin T.
+
+Author information:
+(1)Department of Ophthalmology, Northwestern University Medical School, Chicago, 
+IL 60611, USA. b-bhattacharyya@northwestern.edu
+
+PURPOSE: Adrenergic agents decrease intraocular pressure by reducing aqueous 
+humor secretion from ciliary epithelial cells. Since the ionic concentration of 
+aqueous humor contributes to intraocular pressure, we have investigated the 
+effect of (-)-isoproterenol, a beta-adrenergic agonist on the maxi-K( +) channel 
+in rabbit nonpigmented ciliary epithelial (NPE) cells.
+METHODS: Single-channel currents were recorded from the basolateral surface of 
+acutely isolated NPE cells using patch clamp techniques.
+RESULTS: A calcium dependent maxi-K(+) channel was identified in 31% of 
+cell-attached patches. In the excised condition the channel was activated in 
+presence of calcium. In symmetrical K(+) solution a linear current-voltage 
+relationship and unitary conductance of 158 +/- 15 pS was observed. Replacing 
+K(+) with Na(+) the current-voltage curve shifted to the right and approached a 
+reversal potential for K( +) ( approximately -80 mV). Barium (2 mM) from the 
+intracellular side or iberiotoxin (50 nM) from the extracellular side blocked 
+the channel activity. In cell-attached patches, the beta-receptor agonist 
+(-)-isoproterenol (2.5 microM) increased channel open probability (P(o)) only 
+when applied directly through the patch pipette. beta(2)-adrenoceptor 
+antagonists (ICI-118, 551, l-timolol) blocked the channel activity more 
+efficiently than the beta(1)-adrenoceptor antagonist betaxolol. In excised 
+patches, (-)-isoproterenol increased baseline P(o) 5-fold (0.5 +/- 0.13) when 
+GTP (100 microM) and GTPgammaS (100 microM) were present at the cytosolic 
+surface of the pipette (control; P(o), 0.12 +/- 0.006). GTP augmented baseline 
+channel activity (0.1 +/- 0.004) 7-fold (0.7 +/- 0.03) when (-)-isoproterenol 
+was included in patch pipette.
+CONCLUSIONS: Rabbit NPE cells expressed maxi-K(+) channels on their basolateral 
+surface. The adrenergic agonist (-)-isoproterenol activated these channels via a 
+beta(2)-adrenoceptor that was modulated by a direct G-protein gated pathway.
+
+DOI: 10.1076/ceyr.24.3.173.8300
+PMID: 12221524 [Indexed for MEDLINE]
+
+
+21. Circ Res. 2001 Nov 9;89(10):907-14. doi: 10.1161/hh2201.100204.
+
+beta(2)-adrenergic receptor overexpression increases alveolar fluid clearance 
+and responsiveness to endogenous catecholamines in rats.
+
+Dumasius V(1), Sznajder JI, Azzam ZS, Boja J, Mutlu GM, Maron MB, Factor P.
+
+Author information:
+(1)Pulmonary and Critical Care Medicine, Evanston Northwestern Healthcare, 
+Evanston, Illinois, USA.
+
+beta-Adrenergic agonists accelerate the clearance of alveolar fluid by 
+increasing the expression and activity of epithelial solute transport proteins 
+such as amiloride-sensitive epithelial Na(+) channels (ENaC) and Na,K-ATPases. 
+Here we report that adenoviral-mediated overexpression of a human 
+beta(2)-adrenergic receptor (beta(2)AR) cDNA increases beta(2)AR mRNA, 
+membrane-bound receptor protein expression, and receptor function 
+(procaterol-induced cAMP production) in human lung epithelial cells (A549). 
+Receptor overexpression was associated with increased catecholamine 
+(procaterol)-responsive active Na(+) transport and increased abundance of 
+Na,K-ATPases in the basolateral cell membrane. beta(2)AR gene transfer to the 
+alveolar epithelium of normal rats improved membrane-bound beta(2)AR expression 
+and function and increased levels of ENaC (alpha subunit) abundance and 
+Na,K-ATPases activity in apical and basolateral cell membrane fractions isolated 
+from the peripheral lung, respectively. Alveolar fluid clearance (AFC), an index 
+of active Na(+) transport, in beta(2)AR overexpressing rats was up to 100% 
+greater than sham-infected controls and rats infected with an adenovirus that 
+expresses no cDNA. The addition of the beta(2)AR-specific agonist procaterol to 
+beta(2)AR overexpressing lungs did not increase AFC further. AFC in beta(2)AR 
+overexpressing lungs from adrenalectomized or propranolol-treated rats revealed 
+clearance rates that were the same or less than normal, untreated, sham-infected 
+controls. These experiments indicate that alveolar beta(2)AR overexpression 
+improves beta(2)AR function and maximally upregulates beta-agonist-responsive 
+active Na(+) transport by improving responsiveness to endogenous catecholamines. 
+These studies suggest that upregulation of beta(2)AR function may someday prove 
+useful for the treatment of pulmonary edema.
+
+DOI: 10.1161/hh2201.100204
+PMID: 11701618 [Indexed for MEDLINE]
+
+
+22. J Assist Reprod Genet. 1999 Aug;16(7):373-9. doi: 10.1023/a:1020546014437.
+
+Fimbrial capture of the ovum and tubal transport of the ovum in the rabbit, with 
+emphasis on the effects of beta 2-adrenoreceptor stimulant and prostaglandin F2 
+alpha on the intraluminal pressures of the tubal ampullae.
+
+Osada H(1), Fujii TK, Tsunoda I, Takagi K, Satoh K, Kanayama K, Endo T.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Nihon University School of Medicine, 
+Nihon University Surugadai Hospital, Tokyo, Japan.
+
+PURPOSE: Our purpose was to elucidate the roles of the ampullar and isthmic 
+portions of the oviduct and the effects of drugs on oviductal contractility.
+METHODS: Prostaglandin F2 alpha (PGF2 alpha; Ono Pharmaceuticals, Osaka) and 
+oxytocin (Atonin-O; Teikoku Hormone Manufacturing Co. Ltd., Tokyo) were used to 
+stimulate oviductal contractility, and ritodrine hydrochloride (Utemerin; 
+Solvay-Duphar Corp., Denmark) to inhibit the contractility.
+RESULTS: Both PGF2 alpha and Atonin-O were involved in ovum capture by the 
+ampullar oviduct by stimulating contractility, thus altering the intraductal 
+pressures. Utemerin is effective in inhibiting the enhanced contractility 
+induced by PGF2 alpha and Atonin-O.
+CONCLUSIONS: Variations in pressure of the ampullar portion of the oviduct seem 
+necessary for the capture of ova expelled from the ovary. Once in the isthmic 
+portion of the oviduct, transport appears to be under the influence of ciliary 
+activity rather than variations in contractility.
+
+DOI: 10.1023/a:1020546014437
+PMCID: PMC3455771
+PMID: 10459521 [Indexed for MEDLINE]
+
+
+23. Am J Physiol. 1996 May;270(5 Pt 1):L745-51. doi: 
+10.1152/ajplung.1996.270.5.L745.
+
+Dual signal transduction mechanisms modulate ciliary beat frequency in upper 
+airway epithelium.
+
+Yang B(1), Schlosser RJ, McCaffrey TV.
+
+Author information:
+(1)Department of Otorhinolaryngology, Mayo Clinic, Rochester, Minnesota 55905, 
+USA.
+
+This study investigated the effects of methacholine and terbutaline on the 
+ciliary beat frequency (CBF) of upper airway epithelium. The CBF of cultured 
+human adenoid explants was measured using microphotometry. Methacholine (10(-6) 
+M) and terbutaline (10(-6)M) increased CBF a maximum of 23.0 +/- 1.8% (P < 
+0.001) and 16.5 +/- 2.3% (P < 0.001). Inhibition of endogenous nitric oxide (NO) 
+production by nitro-L-arginine methyl ester (L-NAME) (10(-6) M) abolished the 
+effects of methacholine in L-arginine-free medium (P < 0.008). This inhibition 
+was reversed by addition of L-arginine. There was no inhibition of 
+terbutaline-induced ciliostimulation by L-NAME (P < 0.5). KT-5823 (10(-6)M), a 
+guanosine 3',5'-cyclic monophosphate (cGMP) kinase inhibitor, significantly 
+inhibited the effects of methacholine (P < 0.0001), but not terbutaline (P > 
+0.15). H-89 (10(-6) M), a cAMP kinase inhibitor, significantly inhibited 
+terbutaline-induced ciliostimulation (P < 0.0001), but not methacholine-induced 
+ciliostimulation (P > 0.05). Diclofenac (10(-6) M), a cyclooxygenase inhibitor, 
+significantly inhibited the effects of methacholine (P < 0.0007) but had no 
+effect on terbutaline-induced ciliostimulation (P > 0.05). These findings 
+suggest that the CBF of upper airway epithelium is modulated through at least 
+two distinct pathways. The beta 2-adrenoceptor produces ciliary stimulation by a 
+pathway involving increased intracellular cAMP levels, while the muscarinic 
+receptor increases CBF by a mechanism involving production of prostaglandins, 
+NO, and cGMP.
+
+DOI: 10.1152/ajplung.1996.270.5.L745
+PMID: 8967508 [Indexed for MEDLINE]
+
+
+24. Invest Ophthalmol Vis Sci. 1996 May;37(6):1047-57.
+
+Beta-adrenergic stimulation of Na+, K+, Cl- cotransport in fetal nonpigmented 
+ciliary epithelial cells.
+
+Crook RB(1), Riese K.
+
+Author information:
+(1)Department of Opthalmology, University of California, San Francisco 94143, 
+USA.
+
+PURPOSE: The effects of adrenergic agonists and antagonists on Na+, K+, Cl- 
+cotransport in fetal human nonpigmented ciliary epithelial (NPE) cells were 
+investigated.
+METHODS: 86Rb+ as a marker for K+ was used to study ouabain-insensitive, 
+bumetanide-sensitive 86Rb+ uptake in cultured NPE monolayers. Cyclic adenosine 
+monophosphate (cAMP) formation in NPE cells was determined by radioimmunoassay.
+RESULTS: 1 microM isoproterenol caused a 1.65-fold stimulation in Na+,K+,Cl 
+cotransport measured as bumetanide-sensitive, ouabain-insensitive 86Rb+ uptake. 
+The half-maximal concentration for this effect was 6.4 nM, with maximal 
+stimulation at 100 nM isoproterenol. Epinephrine stimulated Na+, K+, Cl- 
+cotransport similarly to isoproterenol, whereas norepinephrine stimulated at 
+much higher concentrations (half-maximal effective concentration = 1.4 microM). 
+Stimulation of Na+, K+, Cl- cotransport by 1 microM isoproterenol was inhibited 
+completely by the beta 2-adrenergic antagonist ICI-118,551 at 100 nM, with a 
+half-maximal inhibitory concentration of 5 nM. Neither atenolol, a beta 
+1-specific adrenergic antagonist, prazosin, an alpha 1-adrenergic antagonist, 
+nor yohimbine, an alpha 2-specific antagonist, was as effective. These four 
+antagonists inhibited isoproterenol-stimulated cAMP formation with potencies 
+similar to those observed against stimulated Na+, K+, Cl- cotransport. The 
+hypotensive adrenergic antagonist timolol, propranolol, and betaxolol also 
+inhibited Na+, K+, Cl- cotransport stimulated by isoproterenol in the order 
+timolol > propranolol > betaxolol. Na+, K+, Cl- cotransport could be maintained 
+in a stimulated state for at least 2 hours in the presence of agonist, but 
+activity returned to basal levels within 20 minutes of isoproterenol removal. 
+Adrenergic stimulation of Na+, K+, Cl- cotransport was blocked 80% to 85% by 70 
+microM H-89, a protein kinase A inhibitor.
+CONCLUSIONS: These data suggest that beta 2-adrenergic receptor activation 
+results in increased cAMP formation and sustained stimulation of Na+, K+, Cl- 
+cotransport in fetal human NPE cells. Protein kinase A activation is required 
+for maximal stimulation of Na+, K+, Cl- cotransport by adrenergic agonists.
+
+PMID: 8631620 [Indexed for MEDLINE]
+
+
+25. Eur J Pharmacol. 1995 Oct 24;285(3):275-80. doi: 10.1016/0014-2999(95)00416-i.
+
+The effects of formoterol, a long-acting beta 2-adrenoceptor agonist, on 
+mucociliary activity.
+
+Lindberg S(1), Khan R, Runer T.
+
+Author information:
+(1)Department of Oto-Rhino-Laryngology, Head and Neck Surgery, University 
+Hospital, Lund, Sweden.
+
+The effect on mucociliary function of formoterol, a beta 2-adrenoceptor agonist 
+bronchodilator with a prolonged duration of action (as compared with salbutamol 
+or terbutaline), was investigated both in vitro and in vivo with a photoelectric 
+technique. Formoterol, and its (R,R)-enantiomer, increased ciliary beat 
+frequency in vitro in guinea pig trachea preparations (peak increase 17.2 +/- 
+2.0% at a concentration of 10(-7) M) and in vivo in the rabbit maxillary sinus 
+(peak increase 23.0 +/- 4.0% at a dosage of 1 nmol/kg). Formoterol was 
+approximately 100 times more potent than terbutaline in vitro, as judged from 
+the dose-response curve. The main difference between their effect in vivo was 
+the 2-fold longer duration of the mucociliary acceleration after formoterol at 1 
+nmol/kg than after terbutaline at the equi-effective dosage of 10 nmol/kg 
+terbutaline (20 vs. 10 min, respectively). The findings indicate formoterol to 
+be a powerful, long-acting ciliostimulant, a property which may be of clinical 
+advantage in the treatment of airway disease.
+
+DOI: 10.1016/0014-2999(95)00416-i
+PMID: 8575514 [Indexed for MEDLINE]
+
+
+26. Br J Pharmacol. 1994 Jun;112(2):493-8. doi: 10.1111/j.1476-5381.1994.tb13100.x.
+
+Effect of salmeterol on human nasal epithelial cell ciliary beating: inhibition 
+of the ciliotoxin, pyocyanin.
+
+Kanthakumar K(1), Cundell DR, Johnson M, Wills PJ, Taylor GW, Cole PJ, Wilson R.
+
+Author information:
+(1)Department of Thoracic Medicine, Royal Brompton National Heart and Lung 
+Institute, London.
+
+1. Patients with airway infection by Pseudomonas aeruginosa have impaired 
+mucociliary clearance. Pyocyanin is a phenazine pigment produced by P. 
+aeruginosa which is present in the sputum of colonized patients, slows human 
+ciliary beat frequency (CBF) in vitro and slows mucociliary transport in vivo in 
+the guinea-pig. 2. We have investigated the effect of salmeterol, a long-acting 
+beta 2-adrenoceptor agonist, on pyocyanin-induced slowing of human CBF in vitro. 
+Salmeterol (2 x 10(-7) M) was found to reduce pyocycanin (20 micrograms 
+ml-1)-induced slowing of CBF by 53% and the fall in intracellular adenosine 
+3':5'-cyclic monophosphate (cyclic AMP) by 26% and ATP by 29%. 3. Another beta 
+2-adrenoceptor agonist, isoprenaline (2 x 10(-7) M), also inhibited 
+pyocyanin-induced slowing of CBF by 39%. 4. The effects of salmeterol (30 min 
+preincubation) persisted after washing the cells. 5. Propranolol (10(-7) M) and 
+the beta 2-specific antagonist, ICI 118551 (10(-6) M) blocked the protective 
+effects of salmeterol completely, but atenolol (10(-6) M) was less effective. 
+These results suggested that the effects of salmeterol on pyocyanin-induced 
+effects were mediated primarily via the stimulation of beta 2-adrenoceptors. 6. 
+Pyocyanin-induced ciliary slowing is associated with a substantial fall in 
+intracellular cyclic AMP and ATP. Salmeterol reversed the effects of pyocyanin 
+on cyclic AMP and ATP. 7. Mucociliary clearance is an important defence 
+mechanism of the airways against bacterial infection. Salmeterol may benefit 
+patients colonized by P. aeruginosa, not only by its bronchodilator action, but 
+also by protecting epithelial cells from pyocyanin-induced slowing of CBF.
+
+DOI: 10.1111/j.1476-5381.1994.tb13100.x
+PMCID: PMC1910368
+PMID: 7915610 [Indexed for MEDLINE]
+
+
+27. Life Sci. 1993;52(26):2131-43. doi: 10.1016/0024-3205(93)90728-l.
+
+The pharmacology of salmeterol.
+
+Johnson M(1), Butchers PR, Coleman RA, Nials AT, Strong P, Sumner MJ, Vardey CJ, 
+Whelan CJ.
+
+Author information:
+(1)Department of Cardiovascular and Respiratory Pharmacology, Glaxo Group 
+Research Ltd., Ware, Hertfordshire, England.
+
+Salmeterol was developed to provide prolonged bronchodilatation to control 
+nocturnal symptoms and improve maintenance therapy in asthmatic patients. 
+Salmeterol is > 10,000 times more lipophilic than salbutamol and has greater 
+affinity for the beta 2-adrenoceptor. Membrane binding is non-competitive and 
+dissociation is slow so that its effects last for many hours. Despite this, 
+salmeterol does not accumulate in tissues. Its mechanism of action can be 
+explained by binding to a specific exo-site domain of the beta 2-receptor 
+protein to produce continuous stimulation of the active site of the receptor, 
+which gives salmeterol a profile of pharmacological activity unlike that of 
+other beta 2-agonists. Due to its potent and prolonged activation of beta 
+2-adrenoceptors in airway smooth muscle cells, endothelial cells, mast cells and 
+epithelial cells, salmeterol induces prolonged bronchodilatation, reduced 
+vascular permeability, inhibition of inflammatory mediators, stimulation of 
+ciliary function and modulation of ion and water transport across the bronchial 
+mucosa.
+
+DOI: 10.1016/0024-3205(93)90728-l
+PMID: 8099695 [Indexed for MEDLINE]
+
+
+28. Lung. 1992;170(3):125-41. doi: 10.1007/BF00174316.
+
+Beta 2 adrenergic receptors in asthma: a current perspective.
+
+Bai TR(1).
+
+Author information:
+(1)Pulmonary Research Laboratory, St. Paul's Hospital, University of British 
+Columbia, Vancouver.
+
+The role of the beta 2-adrenergic receptor in both the pathogenesis and 
+treatment of asthma has been a subject of intense speculation and investigation 
+for 25 years. The physiological effects of endogenous circulating catecholamines 
+and exogenous adrenergic agonists in the lung are mediated by the beta 
+2-adrenergic receptor, which is present on a variety of cell types. Documented 
+effects of beta 2-adrenergic receptor activation in the human lung include 
+smooth muscle relaxation, inhibition of acetylcholine release from cholinergic 
+nerve terminals, stimulation of serous and mucous cell secretion, increases in 
+ciliary beat frequency, promotion of water movement into the airway lumen by 
+stimulation of ion secretion across the apical membrane of epithelial cells, 
+increase in bronchial blood flow, reduction in venular permeability, and 
+inhibition of mediator release from some, but not all, inflammatory cells. Beta 
+2-Adrenergic receptors are present in normal or increased numbers on asthmatic 
+airway smooth muscle but are uncoupled in severe asthma, leading to functional 
+hyporesponsiveness, probably due to the effects of inflammatory mediators. There 
+is also evidence for dysfunction of beta 2-adrenergic receptors on circulating 
+inflammatory cells following mediator release. However, dysfunction of the 
+receptors on airway smooth muscle and inflammatory cells is unlikely to be of 
+primary importance in the pathogenesis of asthma. There is increasing concern 
+that regular beta 2-adrenergic receptor agonist use in the therapy of asthma is 
+deleterious. Although a number of theories have been advanced to explain such an 
+effect, none is well established and further research is urgently required.
+
+DOI: 10.1007/BF00174316
+PMID: 1351969 [Indexed for MEDLINE]
+
+
+29. Pediatr Res. 1991 Jul;30(1):75-82. doi: 10.1203/00006450-199107000-00016.
+
+Receptor-mediated cAMP production in adult and infant ferret tracheal 
+epithelium.
+
+Kercsmar CM(1), Chung Y, Davis PB.
+
+Author information:
+(1)Department of Pediatrics, Case Western Reserve University, Rainbow Babies and 
+Childrens Hospital, Cleveland, Ohio 44106.
+
+Tracheal epithelial cells obtained from adult and infant ferrets were grown in 
+primary culture in vitro. Cells from adult animals grew readily, and many 
+ciliated cells were observed in the cultures. Successful cultures were derived 
+from infant animals, but cell number in infant and adult cultures began to 
+decrease after 6 d. Receptor-mediated activation of adenylate cyclase was 
+determined by incubating monolayers of adult or neonatal cells with 
+beta-adrenergic agonists, prostaglandin E2 (PGE2) and vasoactive intestinal 
+peptide and measuring cAMP production. beta-adrenergic agonists and PGE2, but 
+not vasoactive intestinal peptide, stimulated production of cAMP in both cell 
+types. The 50% effective concentration for isoproterenol and PGE2 in neonatal 
+ferret tracheal epithelial (NFTE) cells was nearly 10-fold more than for adult 
+ferret tracheal epithelial (FTE) cells, but maximal agonist-stimulated cAMP 
+production was significantly different between the cell types only for PGE2. 
+Radioligand binding studies were performed using the beta-adrenergic antagonist 
+[125I]iodocyanopindolol on membrane particulates from confluent monolayers and 
+freshly isolated FTE cells. Binding of iodocyanopindolol was saturable, 
+stereoselective, and of high affinity (binding affinity = 26.1 +/- 6.6 pmol/L, 
+adult; 16.5 +/- 5.7 pmol/L, NFTE). Competition studies with the specific beta 
+2-adrenergic receptor antagonist, ICI 118 551 revealed a predominance of beta 
+2-adrenergic receptors on both adult FTE and NFTE cells. Receptor density was 
+significantly higher in adult FTE compared with NFTE cells (48.2 +/- 9.1, 18.1 
++/- 1.5 fmol/mg, respectively). Basal adenylate cyclase activity was 
+significantly lower in neonatal cells.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1203/00006450-199107000-00016
+PMID: 1679920 [Indexed for MEDLINE]
+
+
+30. Exp Eye Res. 1990 Nov;51(5):503-7. doi: 10.1016/0014-4835(90)90080-e.
+
+Quantitative autoradiography of beta-adrenergic receptors in rabbit eyes.
+
+Kahle G(1), Kaulen P, Wollensak J.
+
+Author information:
+(1)Universitäts-Augenklinik im Klinikum Charlottenburg, Freie Universität 
+Berlin, F.R.G.
+
+Beta-adrenergic receptors were localized and quantified with autoradiographic 
+methods in frozen sections of eyes of albino rabbits using [125I]cyanopindolol 
+and [3H]dihydroalprenolol. Quantification in albino rabbits revealed highest 
+beta 2-adrenoceptor densities in the ciliary body, the corneal epithelium and 
+the corneal endothelium. Moreover, the iris showed significant amounts of 
+specific binding, whereas the retina and sclera are nearly free of these 
+receptors.
+
+DOI: 10.1016/0014-4835(90)90080-e
+PMID: 1979034 [Indexed for MEDLINE]
+
+
+31. Fortschr Ophthalmol. 1990;87(1):105-9.
+
+[Quantitative autoradiography with (125I)cyanopindolol of ocular tissues].
+
+[Article in German]
+
+Kahle G(1), Kaulen P, Wollensak J.
+
+Author information:
+(1)Universitätsklinikum Rudolf Virchow, Standort Charlottenburg, Berlin.
+
+In the present study beta-adrenergic receptors were identified and localized by 
+autoradiographic methods using [125I]cyanopindolol in human eyes, as well as in 
+the eyes of marmosets and albino rabbits. Quantification revealed that the 
+highest binding-site densities are in the ciliary body and the corneal 
+epithelium and endothelium. Moreover, the iris and conjunctiva showed 
+significant amounts of specific [125I]cyanopindolol binding. In pigmented human 
+and marmoset eyes, binding to the ciliary epithelium and iris was not inhibited 
+by 10 microM propranolol, thus representing nonspecific binding sites. In 
+nonpigmented rabbit eyes, binding to all parts of the eye was reduced to the 
+level of background by 10 microM propranolol and 100 nM ICI 118-551, which is a 
+highly selective beta 2-adrenergic ligand. Being selective for serotonin1B 
+receptors, 100 nM ICI 89-406 which blocks more than 95% of the beta 1-adrenergic 
+receptors, and RU 24,969 have no effect on [125I]cyanopindolol binding, which 
+suggests that there is binding to beta 2-adrenergic receptors. The anatomical 
+location and quantification of beta 2-receptors in the mammalian eye may 
+contribute to better understanding of beta 2-adrenoceptor function and the 
+action of beta-adrenoceptor blocking agents in glaucoma therapy.
+
+PMID: 2157652 [Indexed for MEDLINE]
+
+
+32. Methods Find Exp Clin Pharmacol. 1989 May;11(5):315-21.
+
+Beta-adrenoceptor binding potencies of new aliphatic and alicyclic oxime ethers 
+and their relevance to intraocular pressure control.
+
+Himber J(1), Velly J, Kintz P, de Burlet G, Andermann G, Leclerc G.
+
+Author information:
+(1)Alcon Research and Development, Kaysersberg, France.
+
+The selectivity and binding potency of a series of alkyliminoxypropanolamines 
+characterized by the lack of an aromatic nucleus are studied using a new 
+non-selective radioligand, (-)-(125I)-Iodocyanopindolol. The relationship 
+between the effectiveness in lowering the intraocular pressure (IOP) in 
+experimental hypertensive rabbit eyes and their capacity to bind to ciliary 
+processes beta 2-adrenoceptors is discussed. The inhibition constant (Ki) and 
+beta 2/beta 1 ratios indicate a beta 2-selectivity for the tested drugs. 
+Cyclopropyl, dicyclopropyl, cyclopentyl and cyclohexyl derivatives displayed a 
+potent binding to ciliary processes beta 2-adrenoceptors and lowered the IOP 
+about -18%. These compounds induced a lowering in IOP equal to that produced by 
+timolol and appear to be effective and safe beta-adrenergic antagonists in 
+open-angle glaucoma therapy. Decreasing the size of the alkyl group of the 
+oxime, removing the oxime function or modifying the beta-hydroxyl group from the 
+side chain led to a significant decrease in beta 2-adrenoceptor binding and 
+induced weak hypotensive ocular activity. Since the tested 
+alkyliminoxypropanolamine series has very similar physicochemical 
+characteristics and therefore, ruled out the differences in their ability to 
+reach, through the cornea, the targeted ciliary processes, it was demonstrated 
+that contrary to generally held views, the action of the new beta-antagonist 
+series on IOP is related to their ability to antagonize ocular beta 
+2-adrenoceptors.
+
+PMID: 2547127 [Indexed for MEDLINE]
+
+
+33. Curr Eye Res. 1989 Jan;8(1):47-54. doi: 10.3109/02713688909013893.
+
+Alpha 2-adrenergic and VIP receptors in rabbit ciliary processes interact.
+
+Bausher LP(1), Gregory DS, Sears ML.
+
+Author information:
+(1)Department of Ophthalmology and Visual Science, Yale University School of 
+Medicine, New Haven, CT 06510.
+
+The interaction between alpha 2-adrenergic and VIP receptors has been studied by 
+examining inhibition of VIP-stimulated cyclic AMP production by adrenergic 
+agonists in intact, excised rabbit ciliary processes. Epinephrine, 
+norepinephrine, isoproterenol, dopamine, and the specific alpha 2-adrenergic 
+agonists clonidine and p-aminoclonidine exhibit dose-dependent inhibition of 
+VIP-stimulated cyclic AMP production. I50s, clonidine (0.05 microM) = 
+p-aminoclonidine (0.05 microM) congruent to epinephrine (0.1 microM) less than 
+norepinephrine (2.0 microM) less than isoproterenol (15 microM) = dopamine (15 
+microM), are consistent with the characteristic binding affinities of these 
+adrenergic agonists for alpha 2-adrenergic receptors. Inhibition of 
+VIP-stimulated cyclic AMP production by clonidine, epinephrine, isoproterenol, 
+and dopamine is blocked by yohimbine but not by prazosin. These data establish 
+the alpha 2-adrenergic specificity of the inhibitory effects observed. We have 
+previously shown that beta 2-adrenergic receptor-mediated stimulation of cyclic 
+AMP production in rabbit ciliary processes is also inhibited by postjunctional 
+alpha 2-adrenergic receptors. These studies support the idea that the 
+catecholamines may regulate aqueous humor formation by inhibiting stimulation of 
+cyclic AMP production via postjunctional alpha 2-adrenergic receptors in ciliary 
+processes.
+
+DOI: 10.3109/02713688909013893
+PMID: 2565196 [Indexed for MEDLINE]
+
+
+34. J Pharm Pharmacol. 1988 Nov;40(11):803-5. doi: 
+10.1111/j.2042-7158.1988.tb05177.x.
+
+Selective beta 2-adrenoceptor antagonists: derivatives of ICI 118,551 and a 
+binary aryloxypropanolamine.
+
+Nathanson JA(1), Hunnicutt EJ.
+
+Author information:
+(1)Department of Neurology, Harvard Medical School, Boston, Massachusetts 02114.
+
+Recent studies indicate that selective beta 2-adrenoceptor antagonists may be of 
+use in the treatment of glaucoma. ICI 118,551, its desmethyl-, didesmethyl-, and 
+ethyl- analogues, and a putative highly beta 2-selective binary 
+aryloxypropanolamine (4d) have been evaluated for their ability to inhibit 
+beta-adrenergic-stimulated adenylate cyclase activity in rabbit ciliary process 
+and heart. Potency ratios (Ki heart/Ki ciliary process) were 440 for ICI 
+118,551; 9.3 for the desmethyl analogue; 8.2 for the didesmethyl analogue; 720 
+for the ethyl analogue; and 11 for the binary aryloxypropanolamine. The values 
+for the ethyl derivative of ICI 118,551 indicate that it is the most 
+oculoselective beta-adrenoceptor antagonist yet reported.
+
+DOI: 10.1111/j.2042-7158.1988.tb05177.x
+PMID: 2907563 [Indexed for MEDLINE]
+
+
+35. Laryngol Rhinol Otol (Stuttg). 1988 Oct;67(10):518-22.
+
+[Pharmacologic studies of cultivated human ciliated cells of the upper 
+respiratory tract].
+
+[Article in German]
+
+Wolf G(1), Saria A, Koidl B.
+
+Author information:
+(1)Univ.-Hals-Nasen-Ohren-Klinik, Graz.
+
+The ciliary frequency was measured in cultivated ciliated human cells of the 
+upper respiratory tract. An attempt was made to influence this isolated system 
+pharmacologically. Previously, contradictory results have been published 
+regarding the effects of parasympathomimetic and sympathomimetic drugs. We 
+investigated the muscarinic agonist carbachol and the beta 2-adrenoreceptor 
+stimulating drug clenbuterol. Carbachol (10(-3) M) did not modify the ciliary 
+frequency in 6 experiments neither at 37 degrees C nor at 24 degrees C, where 
+the basal frequency was reduced. Spiropent (10(-5) M), a pharmaceutical 
+preparation of clenbuterol and lactose, increased the ciliary frequency in 3 
+experiments. Clenbuterol, tested in the same concentration in 1 experiment, also 
+caused an increase. Lactose was without effect. The secretolytic drug ambroxol 
+did not influence the ciliary frequency. The neuropeptide substance P which 
+causes an increase in ciliary frequency in the respiratory tract of rabbits in 
+vivo, had no effect on isolated human ciliated cells indicating an indirect 
+effect of this peptide. Calcitonin gene-related peptide which co-exists with 
+substance P in sensory neurons of the airways, increased the ciliary frequency 
+in 1 out of 6 experiments. In conclusion, our results indicate that ciliary 
+activity can be directly modified via beta 2-adrenoreceptors. Other putative 
+neuronal mediators did not reveal clearcut direct activity.
+
+PMID: 2467152 [Indexed for MEDLINE]
+
+
+36. Exp Eye Res. 1988 Mar;46(3):421-30. doi: 10.1016/s0014-4835(88)80030-7.
+
+Pharmacological characterization of human ciliary muscle adrenoceptors in vitro.
+
+Zetterström C(1), Hahnenberger R.
+
+Author information:
+(1)Department of Ophthalmology, University Hospital of Uppsala, Sweden.
+
+The in vitro pharmacological characteristics of adrenoceptors of the human 
+ciliary muscle were investigated. Tissue was obtained from 30 eyes used 
+previously for corneal transplantations which had been enucleated 6-24 hr after 
+death. Experiments were performed within 2 days of enucleation. Strips of the 
+meridional and circular portion of the ciliary muscle were attached to a tension 
+gauge in an organ bath and the effect of drugs added to the perfusion medium was 
+monitored isometrically. The muscle was precontracted with physostigmine (10(-5) 
+M) and acetylcholine (10(-5) M). The non-selective beta adrenoceptor agonist 
+isoproterenol (10(-6)-10(-3) M) caused a dose-related relaxation of the ciliary 
+muscle, an effect which was completely inhibited by the non-selective beta 
+adrenoceptor antagonist timolol (10(-5) M), while the beta 1 adrenoceptor 
+antagonist betaxolol (10(-5) M) had no effect. The beta 2 adrenoceptor agonist 
+salbutamol (10(-6)-10(-3) M) produced a dose-related relaxation of the ciliary 
+muscle, an effect which was completely blocked by the beta 2 adrenoceptor 
+antagonist L1 32-468 (10(-5) M). The non-selective alpha adrenoceptor agonist 
+noradrenaline (10(-6)-10(-3) M) also caused a dose-related relaxation of the 
+ciliary muscle. The non-selective alpha adrenoceptor antagonists phentolamine 
+(10(-5) M) and thymoxamine (10(-5) M) and the alpha 1 adrenoceptor antagonist 
+prazosin (10(-5) M) partially blocked the response to noradrenaline, while the 
+alpha 2 adrenoceptor antagonist idazoxan (10(-5) M) and timolol (10(-5) M) had 
+no effect. The alpha 1 adrenoceptor agonist phenylephrine (5 X 10(-6)-5 X 10(-3) 
+M) caused a dose-dependent relaxation in five out of 12 isoproterenol-sensitive 
+muscle strips. Further, it was not possible to block the phenylephrine-induced 
+relaxation with thymoxamine (10(-5) M). The alpha 2 adrenoceptor agonist 
+clonidine (10(-6)-10(-3) M) had no effect. No qualitative difference between 
+drug effects on the meridional and circular ciliary muscles was observed. We 
+conclude from these data that beta 2, and most probably alpha 1, adrenoceptors 
+are present on both the meridional and circular portions of the ciliary muscle 
+of the human eye.
+
+DOI: 10.1016/s0014-4835(88)80030-7
+PMID: 3350077 [Indexed for MEDLINE]
+
+
+37. Eur J Nucl Med. 1988;14(11):533-7. doi: 10.1007/BF00286771.
+
+Investigation into the effect of Fenoterol on mucociliary clearance in patients 
+with chronic bronchitis.
+
+Weich DJ(1), Viljoen H, Sweetlove MA, Pretorius PH, van Rensburg AJ, Lötter MG, 
+Minnaar PC, Otto AC.
+
+Author information:
+(1)Department of Internal Medicine, University of the Orange Free State, 
+Bloemfontein, South Africa.
+
+We investigated the effect of Fenoterol, a selective beta 2 adrenoceptor 
+stimulant, on mucociliary clearance in 12 patients with chronic bronchitis. 
+Mucociliary clearance was measured with a scintillation camera after inhalation 
+of a 99mTc labelled aerosol. Fenoterol was administered one h after acquisition 
+commenced and imaging was maintained for a further two h. Three regions of 
+interest (ROI) were selected over each lung to generate time activity curves. 
+Corrections for decay, alveolar deposition (using 24 h image), cough and 
+movement of activity through each ROI were carried out. An exponential function 
+was fitted to the clearance curves to determine clearance rates. The increase in 
+percentage clearance after Fenoterol administration for the left and right whole 
+lung ROI was 35% and 36% per h respectively (P = 0.006 and 0.020). Fenoterol 
+enhances cilial clearance in chronic bronchitis patients.
+
+DOI: 10.1007/BF00286771
+PMID: 3208783 [Indexed for MEDLINE]
+
+
+38. J Ocul Pharmacol. 1988 Spring;4(1):37-42. doi: 10.1089/jop.1988.4.37.
+
+The ocular distribution of bunolol in the eyes of albino and pigmented rabbits.
+
+Chen CC(1), Koda RT, Shackleton M.
+
+Author information:
+(1)Research and Development, Allergan, Inc., Irvine, California.
+
+The ocular administration of a 50 microL instillation of bunolol hydrochloride, 
+a beta 1- and beta 2- adrenoceptor blocking agent, resulted in significantly 
+higher drug levels in the choroid/retina, iris, and ciliary body of pigmented 
+rabbits compared with albino rabbits following topical administration. The 
+concentrations in these tissues also persisted longer in the pigmented rabbits' 
+eyes. However, no statistically significant differences in tissue levels were 
+observed in the cornea or conjunctiva. The results of this study support the 
+previously reported finding with timolol which showed longer retention of the 
+drug in the iris, ciliary, choroid, and retina of pigmented rabbits than 
+albinos.
+
+DOI: 10.1089/jop.1988.4.37
+PMID: 3049859 [Indexed for MEDLINE]
+
+
+39. J Ocul Pharmacol. 1987 Summer;3(2):149-57. doi: 10.1089/jop.1987.3.149.
+
+The disposition of bunolol in the rabbit eye.
+
+Chen CC(1), Anderson J, Shackleton M, Attard J.
+
+Author information:
+(1)Research and Development, Allergan Inc., Irvine, California.
+
+Following topical administration to albino rabbits, bunolol hydrochloride, a 
+beta 1- and beta 2-adrenoceptor antagonist, was rapidly absorbed and distributed 
+in ocular tissues, and transformed intraocularly to a single metabolite, 
+dihydrobunolol. The half-life of bunolol was approximately 1.26 hours in the 
+aqueous humor and 1.63 hours in the ciliary body. There was no significant 
+accumulation of bunolol during a four-day period of twice-daily dosing. Most of 
+the drug was excreted in the urine following ocular or intravenous 
+administration.
+
+DOI: 10.1089/jop.1987.3.149
+PMID: 3332677 [Indexed for MEDLINE]
+
+
+40. Exp Eye Res. 1986 Jul;43(1):61-75. doi: 10.1016/s0014-4835(86)80046-x.
+
+Pharmacological characterization of beta-adrenoceptor subtype involvement in the 
+ocular hypotensive response to beta-adrenergic stimulation.
+
+Woodward DF, Chen J, Padillo E, Ruiz G.
+
+The decrease in intraocular pressure elicited by isoproterenol in ocular 
+normotensive animals is widely recognized. The participation of the 
+beta-adrenoceptor subtypes in mediating this ocular hypotensive response has, 
+however, remained unclear, because previous studies have been limited to 
+monitoring the activity of single, supramaximal doses of relatively selective 
+beta 2-adrenoceptor agonists. The studies herein report a relatively extensive 
+pharmacological characterization of beta 1- and beta 2-adrenoceptor involvement 
+in ocular hypotension associated with beta-adrenergic stimulation in the 
+pigmented rabbit. A beta 2-adrenoceptor mechanism was indicated by the following 
+evidence: isoproterenol and relatively selective beta 2-adrenoceptor agonists 
+produced ocular hypotension over a similar dose range (0.001-0.1%; beta 
+1-adrenoceptor agonists, at doses likely to confer beta 1-adrenoceptor 
+specificity, did not cause a similar decrease in intraocular pressure; the 
+ocular hypotensive response to isoproterenol was abolished by topical timolol 
+and pindolol and the relatively selective beta 2-adrenoceptor antagonist ICI 
+118551, whereas the relatively selective beta 1-adrenoceptor antagonists 
+metoprolol and betaxolol were topically inactive; intravenous injection of beta 
+1-adrenoceptor-specific doses of metoprolol and betaxolol had little effect on 
+isoproterenol-induced ocular hypotension, whereas the response was antagonized 
+by a beta 2-adrenoceptor-specific i.v. dose of ICI 118551. These pharmacological 
+results are consistent with radioligand binding and beta-adrenoceptor-linked 
+adenylate cyclase studies which indicate a predominantly beta 2-adrenoceptor 
+population associated with the ocular ciliary processes. None of the 
+beta-blockers themselves altered normal intraocular pressure in the pigmented 
+rabbit.
+
+DOI: 10.1016/s0014-4835(86)80046-x
+PMID: 2874044 [Indexed for MEDLINE]
+
+
+41. Br J Pharmacol. 1984 Nov;83(3):821-9. doi: 10.1111/j.1476-5381.1984.tb16238.x.
+
+ICI 118,551: an effective ocular hypotensive agent with selectivity for the 
+ciliary process beta 2-adrenoceptor and with minimal cardiac side effects.
+
+Nathanson JA.
+
+Prior biochemical studies have shown that the ciliary process epithelium, which 
+is involved in the secretion of aqueous humour, is rich in beta-adrenoceptors 
+with pharmacological characteristics similar to those of the beta 2 subclass. 
+The present experiments demonstrate that the beta-adrenoceptor antagonist, ICI 
+118,551, is a potent inhibitor of isoprenaline-stimulated adenylate cyclase 
+activity measured in broken cell preparations of rabbit ciliary process. In 
+rabbit cardiac muscle, however, ICI 118,551 is a relatively weak antagonist of 
+isoprenaline-stimulated adenylate cyclase, being approximately 100 fold less 
+potent than the non-selective beta-adrenoceptor antagonist, timolol. ICI 118,551 
+is also less potent than timolol in inhibiting isoprenaline-sensitive adenylate 
+cyclase of rabbit lung. ICI 118,551 applied topically to eyes of unanaesthetized 
+rabbits causes a dose-dependent decrease in intraocular pressure. Furthermore, 
+in a blind crossover study in rabbits, topically applied ICI 118,551 decreased 
+intraocular pressure for more than 6 h and was more effective than an identical 
+dose of the clinically effective anti-glaucoma agent, timolol. Systemic 
+absorption from topically-applied timolol, but not ICI 118,551, is sufficient to 
+alter cardiac response to subcutaneous administration of isoprenaline. 
+Furthermore, dose-response studies, using direct systemic administration of the 
+two beta-adrenoceptor antagonists, revealed that ICI 118,551 is about 60 times 
+less potent than timolol in blocking isoprenaline-induced cardio-acceleration. 
+ICI 118,551, applied to one eye, causes a decrease in intraocular pressure in 
+the contralateral eye, and systemic administration of ICI 118,551 results in 
+decreased intraocular pressure in both eyes, data indicating that at least part 
+of the ocular hypotensive effect of topical ICI 118,551 is mediated through 
+systemic absorption. 8 These findings provide biochemical and physiological 
+evidence that selective beta 2-adrenoceptor blockers such as ICI 118,551, used 
+topically or systemically, may be useful as ocular hypotensive agents with 
+decreased cardiac side-effects.
+
+DOI: 10.1111/j.1476-5381.1984.tb16238.x
+PMCID: PMC1987085
+PMID: 6150744 [Indexed for MEDLINE]
+
+
+42. Rhinology. 1982 Dec;20(4):201-4.
+
+Parasympathetic and sympathetic influences on mucociliary activity in vivo.
+
+Mercke U, Hybbinette JC, Lindberg S.
+
+An in vivo test model has been developed to measure the influence of 
+pharmacological substances on mucociliary activity in the rabbit maxillary 
+sinus. Test solutions are administered via the feeding vessel to the 
+investigated mucous membrane. The model permits administration of test 
+substances and simultaneous recording of the obtained effects under conditions 
+that closely mimic the normal situation. The parasympathomimetic agonist 
+methacholine accelerates the mucociliary wave frequency dose-dependently. 
+Atropine has no influence on the resting mucociliary activity but reduces or 
+abolishes the effect of methacholine. The sympathomimetic beta 2-adrenoceptor 
+agonist salbutamol accelerates the mucociliary activity dose-dependently whereas 
+beta 1-adrenoceptor stimulation with prenalterol is without effect. Agonists 
+acting on alpha 1- and alpha 2-adrenoceptors, phenylephrine and oxymetazoline, 
+retard the mucociliary activity dose-dependently. beta- and alpha-adrenoceptor 
+antagonists (propranolol and phentolamine, respectively) have no influence on 
+the resting mucociliary activity but reduce the effect of beta- and 
+alpha-adrenoceptor agonists, respectively. It is concluded that the resting 
+mucociliary activity during anesthesia functions independently of 
+parasympathetic and sympathetic nervous activity, and that the role of the 
+parasympathetic and sympathetic innervation is to increase the mucociliary 
+activity.
+
+PMID: 7163739 [Indexed for MEDLINE]
+
+
+43. Br J Pharmacol. 1981 May;73(1):97-100. doi: 10.1111/j.1476-5381.1981.tb16776.x.
+
+Effects of a potent and specific beta 2-adrenoceptor antagonist on intraocular 
+pressure.
+
+Nathanson JA.
+
+1 Physiological studies support the possibility of adrenergic regulation of 
+aqueous humor secretion from the ciliary process, a tissue which has recently 
+been shown to contain a predominance of beta 2-adrenoceptors. 2 The present 
+experiments examine the effects of a potent and highly specific beta 
+2-antagonist (IPS 339) on intraocular pressure in the normal rabbit eye. 3 The 
+observed decrease in pressure caused by IPS 339 suggests that highly specific 
+beta 2-antagonists may be useful in decreasing elevated intraocular pressure.
+
+DOI: 10.1111/j.1476-5381.1981.tb16776.x
+PMCID: PMC2071848
+PMID: 6116512 [Indexed for MEDLINE]

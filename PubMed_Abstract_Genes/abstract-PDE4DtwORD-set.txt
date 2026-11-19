@@ -1,0 +1,125 @@
+1. Molecules. 2022 Oct 5;27(19):6622. doi: 10.3390/molecules27196622.
+
+Effects of Extracts and Flavonoids from Drosera rotundifolia L. on Ciliary Beat 
+Frequency and Murine Airway Smooth Muscle.
+
+Hake A(1)(2), Begrow F(1), Spiegler V(2), Symma N(2), Hensel A(2), Düfer M(1).
+
+Author information:
+(1)Institute of Pharmaceutical and Medicinal Chemistry-Pharmacology, University 
+of Münster, 48149 Münster, Germany.
+(2)Institute of Pharmaceutical Biology and Phytochemistry, University of 
+Münster, 48149 Münster, Germany.
+
+Extracts from Drosera rotundifolia are traditionally used to treat cough 
+symptoms during a common cold. The present study aimed to investigate the impact 
+of extracts from D. rotundifolia and active compounds on the respiratory tract. 
+Tracheal slices of C57BL/6N mice were used ex vivo to examine effects on airway 
+smooth muscle (ASM) and ciliary beat frequency (CBF). Phosphodiesterase (PDE) 
+inhibition assays were carried out to test whether PDE1 or PDE4 are targeted by 
+the active compounds. An ethanol-water extract, as well as an aqueous fraction 
+of this extract, exerted antispasmodic properties against acetylcholine-induced 
+contractions. In addition, contractions induced by 60 mM K+ were abrogated by 
+the aqueous fraction. Effects on ASM could be attributed to the flavonoids 
+quercetin, 2″-O-galloylhyperoside and hyperoside. Moreover, the Drosera extract 
+and the aqueous fraction increased the CBF of murine tracheal slices. Quercetin 
+and 2″-O-galloylhyperoside were identified as active compounds involved in the 
+elevation of CBF. Both compounds inhibited PDE1A and PDE4D. The elevation of CBF 
+was mimicked by the subtype-selective PDE inhibitor rolipram (PDE4) and by 
+8-methoxymethyl-IBMX. In summary, our study shows, for the first time, that a 
+Drosera extract and its flavonoid compounds increase the CBF of murine airways 
+while antispasmodic effects were transferred to ASM.
+
+DOI: 10.3390/molecules27196622
+PMCID: PMC9572773
+PMID: 36235159 [Indexed for MEDLINE]
+
+Conflict of interest statement: The research was financially supported by 
+Klosterfrau Vertriebsgesellschaft mbH.
+
+
+2. Biochim Biophys Acta. 2011 Oct;1813(10):1883-92. doi: 
+10.1016/j.bbamcr.2011.05.015. Epub 2011 Jul 13.
+
+Direct interaction of the Usher syndrome 1G protein SANS and myomegalin in the 
+retina.
+
+Overlack N(1), Kilic D, Bauss K, Märker T, Kremer H, van Wijk E, Wolfrum U.
+
+Author information:
+(1)Institute of Zoology, Cell and Matrix Biology, Johannes Gutenberg University 
+of Mainz, Mainz, Germany.
+
+The human Usher syndrome (USH) is the most frequent cause of combined hereditary 
+deaf-blindness. USH is genetically heterogeneous with at least 11 chromosomal 
+loci assigned to 3 clinical types, USH1-3. We have previously demonstrated that 
+all USH1 and 2 proteins in the eye and the inner ear are organized into protein 
+networks by scaffold proteins. This has contributed essentially to our current 
+understanding of the function of USH proteins and explains why defects in 
+proteins of different families cause very similar phenotypes. We have previously 
+shown that the USH1G protein SANS (scaffold protein containing ankyrin repeats 
+and SAM domain) contributes to the periciliary protein network in retinal 
+photoreceptor cells. This study aimed to further elucidate the role of SANS by 
+identifying novel interaction partners. In yeast two-hybrid screens of retinal 
+cDNA libraries we identified 30 novel putative interacting proteins binding to 
+the central domain of SANS (CENT). We confirmed the direct binding of the 
+phosphodiesterase 4D interacting protein (PDE4DIP), a Golgi associated protein 
+synonymously named myomegalin, to the CENT domain of SANS by independent assays. 
+Correlative immunohistochemical and electron microscopic analyses showed a 
+co-localization of SANS and myomegalin in mammalian photoreceptor cells in close 
+association with microtubules. Based on the present results we propose a role of 
+the SANS-myomegalin complex in microtubule-dependent inner segment cargo 
+transport towards the ciliary base of photoreceptor cells.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbamcr.2011.05.015
+PMID: 21767579 [Indexed for MEDLINE]
+
+
+3. J Pharmacol Exp Ther. 2005 Aug;314(2):846-54. doi: 10.1124/jpet.105.083519. Epub 
+2005 May 18.
+
+Dynamic activation of cystic fibrosis transmembrane conductance regulator by 
+type 3 and type 4D phosphodiesterase inhibitors.
+
+Liu S(1), Veilleux A, Zhang L, Young A, Kwok E, Laliberté F, Chung C, Tota MR, 
+Dubé D, Friesen RW, Huang Z.
+
+Author information:
+(1)Merck Frosst Center for Therapeutic Research, P.O. Box 1005, Pointe 
+Claire-Dorval, Quebec H9R 4P8, Canada.
+
+The diseases of cystic fibrosis, chronic obstructive pulmonary disease (COPD), 
+and chronic bronchitis are characterized by mucus-congested and inflamed 
+airways. Anti-inflammatory agents that can simultaneously restore or enhance 
+mucociliary clearance through cystic fibrosis transmembrane conductance 
+regulator (CFTR) activation may represent new therapeutics in their treatment. 
+Herein, we report the activation of CFTR-mediated chloride secretion by 
+phosphodiesterase (PDE) 4 inhibitors in T84 monolayer using (125)I anion as 
+tracer. In the absence of forskolin, the iodide secretion was insensitive to 
+PDE4 inhibitor L-826,141 
+[4-[2-(3,4-bis-difluoromethoxyphenyl)-2-[4-(1,1,1,3,3,3-hexafluoro-2-hydroxypropan-2-yl)phenyl]-ethyl]-3-methylpyridine-1-oxide], 
+roflumilast, or to PDE3 inhibitor trequinsin. However, these inhibitors potently 
+augmented iodide secretion after forskolin stimulation, with efficacy coupled to 
+the activation states of adenylyl cyclase. The iodide secretion from PDE3 or 
+PDE4 inhibition was characterized at first by a prolonged efflux duration, 
+followed by progressively elevated peak efflux rates at higher inhibitor 
+concentrations. Paralleled with an increased phosphor-cAMP response 
+element-binding protein formation, the CFTR activation dissociated from a global 
+cAMP elevation and was blocked by H89 
+[N-[2-((p-bromocinnamyl)amino)ethyl]-5-isoquinolinesulfonamide]. 
+2-(4-Fluorophenoxy)-N-[(1S)-1-(4-methoxyphenyl)ethyl]nicotinamide, a 
+stereoselective PDE4D inhibitor, augmented iodide efflux more efficiently than 
+its less potent (R)-isomer. The peak efflux from maximal PDE4 and PDE3 
+inhibition matched that from full adenylyl cyclase activation. These data 
+suggest that PDE3 and PDE4 (mainly PDE4D) form the major cAMP diffusion barrier 
+in T84 cells to ensure a compartmentalized CFTR signaling. Together with their 
+potent anti-inflammatory properties, the potentially enhanced airway mucociliary 
+clearance from CFTR activation may have contributed to the efficacy of PDE4 
+inhibitors in COPD and asthmatic patients. PDE4 inhibitors may represent new 
+opportunities to combat cystic fibrosis and other respiratory diseases in 
+future.
+
+DOI: 10.1124/jpet.105.083519
+PMID: 15901792 [Indexed for MEDLINE]

@@ -1,0 +1,764 @@
+1. Heliyon. 2024 Sep 14;10(18):e37290. doi: 10.1016/j.heliyon.2024.e37290. 
+eCollection 2024 Sep 30.
+
+Prognostic signature and immune landscape of 5-methylcytosine-related long 
+non-coding RNAs in gastric cancer.
+
+Song Q(1), Wu J(2), Wan H(3), Fan D(4).
+
+Author information:
+(1)Department of General Surgery, The Second Affiliated Hospital of Nanjing 
+Medical University, Nanjing, China.
+(2)Department of General Surgery, The First Affiliated Hospital of Nanjing 
+Medical University, Nanjing, China.
+(3)Department of Environmental Genomics, Jiangsu Key Laboratory of Cancer 
+Biomarkers, Prevention and Treatment, Collaborative Innovation Center for Cancer 
+Personalized Medicine, School of Public Health, Nanjing Medical University, 
+Nanjing, 211166, China.
+(4)The Affiliated Jiangning Hospital with Nanjing Medical University, Nanjing, 
+Jiangsu, 211100, China.
+
+BACKGROUND: Long non-coding RNAs (lncRNAs) have been demonstrated to be useful 
+in assessing the prognosis of cancer patients. However, few studies have focused 
+on 5-methylcytosine-related lncRNAs (m5C-lncRNAs) in gastric cancer (GC). In 
+this study, we aimed to establish a m5C-lncRNAs prognostic signature (m5C-LPS) 
+and explore its potential impact on guiding clinical practice for GC.
+METHODS: RNA-sequence and clinicopathological data were retrieved from The 
+Cancer Genome Atlas (TCGA) database, while the coexpression of long non-coding 
+RNAs (lncRNAs) was determined using Pearson's correlation analysis. A m5C-LPS 
+model was constructed using univariate and Lasso Cox regression, and its 
+prognostic value and accuracy were subsequently validated. Subsequently, the 
+expression of 11 m5C-lncRNAs was verified via quantitative real-time PCR 
+(qRT-PCR) in gastric cancer (GC) cell lines. The potential biological mechanism 
+of this signature was elucidated using Gene Set Enrichment Analysis (GSEA). 
+Based on the GSEA findings, CIBERSORT and ESTIMATE algorithms were utilized to 
+conduct a comprehensive investigation of the tumor immune microenvironment 
+(TIME) in GC. Additionally, pRRophetic and TIDE algorithms were employed to 
+predict drug sensitivity and the efficacy of immunotherapy for GC patients.
+RESULTS: 280 lncRNAs were identified as m5C-lncRNAs, including RHPN1-AS1, 
+AC093752.3, TSC22D1-AS1, AL391152.1, MAGI2-AS3, AC048382.2, AL033527.3, 
+AC007405.2, AC036103.1, CCDC183-AS1, and ADORA2A-AS1. Their prognostic value was 
+validated, and the expression of these 11 lncRNAs was confirmed in four gastric 
+cancer cell lines using quantitative reverse transcription PCR (qRT-PCR). A 
+nomogram incorporating a risk score was developed to provide more precise 
+clinical decision-making. Gene Set Enrichment Analysis (GSEA) showed that many 
+classical signaling pathways related to tumor progression were enriched in this 
+signature. Analyses related to immunity and drug sensitivity demonstrated 
+distinct differences in features between high-risk and low-risk subgroups.
+CONCLUSION: The m5C-LPS can predict the survival of gastric cancer (GC) 
+patients, provide novel therapeutic targets, and thus offer more thoughtful 
+perspectives for future clinical decisions regarding GC.
+
+© 2024 The Authors.
+
+DOI: 10.1016/j.heliyon.2024.e37290
+PMCID: PMC11422048
+PMID: 39323814
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+2. Sci China Life Sci. 2024 May;67(5):1035-1050. doi: 10.1007/s11427-023-2408-2. 
+Epub 2024 Feb 7.
+
+Gene-knockout by iSTOP enables rapid reproductive disease modeling and 
+phenotyping in germ cells of the founder generation.
+
+Wang Y(#)(1), Chen J(#)(1)(2)(3), Huang X(#)(4), Wu B(1)(2)(3), Dai P(4), Zhang 
+F(1)(2), Li J(5), Wang L(6)(7).
+
+Author information:
+(1)State Key Laboratory of Genetic Engineering, Shanghai Key Laboratory of 
+Metabolic Remodeling and Health, Institute of Metabolism and Integrative 
+Biology, Fudan University, Shanghai, 200438, China.
+(2)Institute of Reproduction and Development, Obstetrics and Gynecology 
+Hospital, Fudan University, Shanghai, 200011, China.
+(3)NHC Key Lab of Reproduction Regulation (Shanghai Institute for Biomedical and 
+Pharmaceutical Technologies), School of Pharmacy, Fudan University, Shanghai, 
+200433, China.
+(4)Shanghai Key Laboratory of Maternal and Fetal Medicine, Clinical and 
+Translational Research Center of Shanghai First Maternity and Infant Hospital, 
+Frontier Science Center for Stem Cell Research, School of Life Sciences and 
+Technology, Tongji University, Shanghai, 200092, China.
+(5)State Key Laboratory of Cell Biology, CAS Center for Excellence in Molecular 
+Cell Science, Shanghai Institute of Biochemistry and Cell Biology, Chinese 
+Academy of Sciences, Shanghai, 200031, China.
+(6)State Key Laboratory of Genetic Engineering, Shanghai Key Laboratory of 
+Metabolic Remodeling and Health, Institute of Metabolism and Integrative 
+Biology, Fudan University, Shanghai, 200438, China. wanglingbo@fudan.edu.cn.
+(7)Institute of Reproduction and Development, Obstetrics and Gynecology 
+Hospital, Fudan University, Shanghai, 200011, China. wanglingbo@fudan.edu.cn.
+(#)Contributed equally
+
+Cytosine base editing achieves C•G-to-T•A substitutions and can convert four 
+codons (CAA/CAG/CGA/TGG) into STOP-codons (induction of STOP-codons, iSTOP) to 
+knock out genes with reduced mosaicism. iSTOP enables direct phenotyping in 
+founders' somatic cells, but it remains unknown whether this works in founders' 
+germ cells so as to rapidly reveal novel genes for fertility. Here, we initially 
+establish that iSTOP in mouse zygotes enables functional characterization of 
+known genes in founders' germ cells: Cfap43-iSTOP male founders manifest 
+expected sperm features resembling human "multiple morphological abnormalities 
+of the flagella" syndrome (i.e., MMAF-like features), while oocytes of Zp3-iSTOP 
+female founders have no zona pellucida. We further illustrate iSTOP's utility 
+for dissecting the functions of unknown genes with Ccdc183, observing MMAF-like 
+features and male infertility in Ccdc183-iSTOP founders, phenotypes concordant 
+with those of Ccdc183-KO offspring. We ultimately establish that CCDC183 is 
+essential for sperm morphogenesis through regulating the assembly of outer 
+dynein arms and participating in the intra-flagellar transport. Our study 
+demonstrates iSTOP as an efficient tool for direct reproductive disease modeling 
+and phenotyping in germ cells of the founder generation, and rapidly reveals the 
+essentiality of Ccdc183 in fertility, thus providing a time-saving approach for 
+validating genetic defects (like nonsense mutations) for human infertility.
+
+© 2024. Science China Press.
+
+DOI: 10.1007/s11427-023-2408-2
+PMID: 38332217 [Indexed for MEDLINE]
+
+
+3. Development. 2023 Nov 1;150(21):dev201724. doi: 10.1242/dev.201724. Epub 2023 
+Oct 30.
+
+CCDC183 is essential for cytoplasmic invagination around the flagellum during 
+spermiogenesis and male fertility.
+
+Shimada K(1), Ikawa M(1)(2)(3).
+
+Author information:
+(1)Department of Experimental Genome Research, Research Institute for Microbial 
+Diseases, Osaka University, Osaka 5650871, Japan.
+(2)Regulation of Host Defense Team, Center for Infectious Disease Education and 
+Research, Osaka University, Osaka 5650871, Japan.
+(3)Laboratory of Reproductive Systems Biology, The Institute of Medical Science, 
+The University of Tokyo, Tokyo 108-8639, Japan.
+
+Sperm flagellum plays a crucial role in male fertility. Here, we generated 
+Ccdc183 knockout mice using the CRISPR/Cas9 system to reveal the protein 
+function of the testis-specific protein CCDC183 in spermiogenesis. We 
+demonstrated that the absence of CCDC183 causes male infertility with 
+morphological and motility defects in spermatozoa. Owing to the lack of CCDC183, 
+centrioles after elongation of axonemal microtubules do not connect the cell 
+surface and nucleus during spermiogenesis, which causes subsequent loss of 
+cytoplasmic invagination around the flagellum. As a result, the flagellar 
+compartment does not form properly and cytosol-exposed axonemal microtubules 
+collapse during spermiogenesis. In addition, ectopic localization of accessory 
+structures, such as the fibrous sheath and outer dense fibers, and abnormal head 
+shape as a result of abnormal sculpting by the manchette are observed in Ccdc183 
+knockout spermatids. Our results indicate that CCDC183 plays an essential role 
+in cytoplasmic invagination around the flagellum to form functional spermatozoa 
+during spermiogenesis.
+
+© 2023. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.201724
+PMCID: PMC10629680
+PMID: 37882665 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing or financial interests.
+
+
+4. Oncol Res. 2022 Aug 1;29(3):189-200. doi: 10.32604/or.2022.03573. eCollection 
+2021.
+
+Long noncoding RNA CCDC183-AS1 depletion represses breast cancer cell 
+proliferation, colony formation, and motility by sponging microRNA-3918.
+
+Liu T(1), Zhou L(1), Zhang L(2), Guan X(3), Dong YI(1).
+
+Author information:
+(1)Department of Second Breast Surgery, Jilin Cancer Hospital, Changchun, 
+130012, China.
+(2)Medical Insurance Guarantee Office, Jilin Cancer Hospital, Changchun, 130012, 
+China.
+(3)Department of Breast Surgery, The First Hospital of Jilin University, 
+Changchun, 130061, China.
+
+Many studies have illustrated the significance of long noncoding RNAs in 
+oncogenesis and promotion of breast cancer (BC). However, the biological roles 
+of CCDC183 antisense RNA 1 (CCDC183-AS1) in BC have rarely been characterized. 
+Thus, we explored whether CCDC183-AS1 is involved in the malignancy of BC and 
+elucidated the possible underlying mechanisms. Our data confirmed elevated 
+CCDC183-AS1 expression in BC, which was associated with poor clinical outcomes. 
+Functionally, knocking down CCDC183-AS1 hampered cell proliferation, colony 
+formation, migration, and invasion in BC. Additionally, the absence of 
+CCDC183-AS1 restrained tumor growth in vivo. Mechanistically, CCDC183-AS1 
+executed as a competitive endogenous RNA in BC cells by decoying microRNA-3918 
+(miR-3918) and consequently overexpressing fibroblast growth factor receptor 1 
+(FGFR1). Furthermore, functional rescue experiments confirmed that inactivation 
+of the miR-3918/FGFR1 regulatory axis by inhibiting miR-3918 or increasing FGFR1 
+expression could abrogate the CCDC183-AS1 ablation-mediated repressive effects 
+in BC cells. In summary, CCDC183-AS1 deteriorates the malignancy of BC cells by 
+controlling miR-3918/FGFR1 regulatory axis. We believe that our study can deepen 
+our understanding of BC etiology and contribute to an improvement in treatment 
+choices.
+
+© 2022 Liu et al.
+
+DOI: 10.32604/or.2022.03573
+PMCID: PMC10208052
+PMID: 37304675 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest to report regarding the present study.
+
+
+5. Nat Cancer. 2023 Apr;4(4):502-515. doi: 10.1038/s43018-023-00534-x. Epub 2023 
+Apr 10.
+
+Multimodal immunogenomic biomarker analysis of tumors from pediatric patients 
+enrolled to a phase 1-2 study of single-agent atezolizumab.
+
+Nabbi A(1), Danesh A(1), Espin-Garcia O(1)(2)(3), Pedersen S(1), Wellum J(1), Fu 
+LH(4), Paulson JN(5), Geoerger B(6), Marshall LV(7), Trippett T(8), Rossato 
+G(9), Pugh TJ(#)(10)(11)(12), Hutchinson KE(#)(13).
+
+Author information:
+(1)Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, 
+Canada.
+(2)Department of Epidemiology and Biostatistics, Western University, London, 
+Ontario, Canada.
+(3)Dalla Lana School of Public Health and Department of Statistical Sciences, 
+University of Toronto, Toronto, Ontario, Canada.
+(4)Clinical Biomarker Operations, Product Development Oncology, Genentech, South 
+San Francisco, CA, USA.
+(5)Department of Biostatistics, Product Development, Genentech, South San 
+Francisco, CA, USA.
+(6)Gustave Roussy Cancer Centre, Department of Pediatric and Adolescent 
+Oncology, INSERM U1015, Université Paris-Saclay, Villejuif, France.
+(7)The Royal Marsden NHS Foundation Trust and the Institute of Cancer Research, 
+London, UK.
+(8)Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+(9)Product Development Clinical Oncology, F. Hoffmann-La Roche, Basel, 
+Switzerland.
+(10)Princess Margaret Cancer Centre, University Health Network, Toronto, 
+Ontario, Canada. trevor.pugh@utoronto.ca.
+(11)Department of Medical Biophysics, University of Toronto, Toronto, Ontario, 
+Canada. trevor.pugh@utoronto.ca.
+(12)Ontario Institute for Cancer Research, Toronto, Ontario, Canada. 
+trevor.pugh@utoronto.ca.
+(13)Oncology Biomarker Development, Genentech, South San Francisco, CA, USA. 
+hutchinson.katherine@gene.com.
+(#)Contributed equally
+
+Comment in
+    Nat Cancer. 2023 Apr;4(4):444-446. doi: 10.1038/s43018-023-00540-z.
+
+We report herein an exploratory biomarker analysis of refractory tumors 
+collected from pediatric patients before atezolizumab therapy 
+(iMATRIX-atezolizumab, NCT02541604 ). Elevated levels of CD8+ T cells and PD-L1 
+were associated with progression-free survival and a diverse baseline 
+infiltrating T-cell receptor repertoire was prognostic. Differential gene 
+expression analysis revealed elevated expression of CALCA (preprocalcitonin) and 
+CCDC183 (highly expressed in testes) in patients who experienced clinical 
+activity, suggesting that tumor neoantigens from these genes may contribute to 
+immune response. In patients who experienced partial response or stable disease, 
+elevated Igα2 expression correlated with T- and B-cell infiltration, suggesting 
+that tertiary lymphoid structures existed in these patients' tumors. Consensus 
+gene co-expression network analysis identified core cellular pathways that may 
+play a role in antitumor immunity. Our study uncovers features associated with 
+response to immune-checkpoint inhibition in pediatric patients with cancer and 
+provides biological and translational insights to guide prospective biomarker 
+profiling in future clinical trials.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s43018-023-00534-x
+PMCID: PMC10132976
+PMID: 37038005 [Indexed for MEDLINE]
+
+Conflict of interest statement: K.E.H., G.R., L.H.F. and J.N.P. are employees 
+and stockholders of Roche/Genentech. T.J.P. has consulted for Illumina, Merck, 
+AstraZeneca, PACT Pharma, Chrysalis Biomedical Advisors and the Canadian Pension 
+Plan Investment Board (compensated); and receives research support 
+(institutional) from Roche/Genentech. B.G. reports travel and accommodation 
+expenses for attendance at a Roche-sponsored advisory board for atezolizumab. 
+L.V.M. has provided consultation for Bayer, BMS, Tesaro and Illumina. T.T. 
+reports consultancy fees from Roche/Genentech for advisory board attendance and 
+previous protocol management activities from POETIC Data and Coordinating Center 
+outside of the submitted work. All other authors have no competing interests.
+
+
+6. Cell Mol Biol Lett. 2023 Jan 6;28(1):1. doi: 10.1186/s11658-022-00409-6.
+
+Three-dimensional genome landscape comprehensively reveals patterns of spatial 
+gene regulation in papillary and anaplastic thyroid cancers: a study using 
+representative cell lines for each cancer type.
+
+Zhang L(#)(1), Xu M(#)(1), Zhang W(#)(2), Zhu C(3), Cui Z(4), Fu H(1), Ma Y(1), 
+Huang S(1), Cui J(5), Liang S(6), Huang L(7)(8), Wang H(9).
+
+Author information:
+(1)Department of Nuclear Medicine, Xinhua Hospital Affiliated to Shanghai Jiao 
+Tong University School of Medicine, Shanghai, 200092, China.
+(2)Department of Nuclear Medicine, Shanxi Bethune Hospital (Shanxi Academy of 
+Medical Sciences), Taiyuan, 03003, China.
+(3)Department of Oncology, Xin Hua Hospital Affiliated to Shanghai Jiaotong 
+University School of Medicine, Shanghai, 200092, China.
+(4)Department of Respiratory Medicine, XinHua Hospital Affiliated to Shanghai 
+Jiao Tong University School of Medicine, Shanghai, 200092, China.
+(5)BioGenius Bioinformatics Institute, Shanghai, 200050, People's Republic of 
+China. michael@biogenius.cn.
+(6)Department of Nuclear Medicine, Xinhua Hospital Affiliated to Shanghai Jiao 
+Tong University School of Medicine, Shanghai, 200092, China. 
+liangsheng364214@163.com.
+(7)Department of Oncology, Ruijin Hospital, Shanghai Jiao Tong University School 
+of Medicine, Shanghai, 200025, China. lei.huang@alumni.dkfz.de.
+(8)Medical Center on Aging of Ruijin Hospital, Shanghai Jiao Tong University 
+School of Medicine, Shanghai, 200025, China. lei.huang@alumni.dkfz.de.
+(9)Department of Nuclear Medicine, Xinhua Hospital Affiliated to Shanghai Jiao 
+Tong University School of Medicine, Shanghai, 200092, China. 
+huiwangshanghai@163.com.
+(#)Contributed equally
+
+BACKGROUND: Spatial chromatin structure is intricately linked with somatic 
+aberrations, and somatic mutations of various cancer-related genes, termed 
+co-mutations (CoMuts), occur in certain patterns during cancer initiation and 
+progression. The functional mechanisms underlying these genetic events remain 
+largely unclear in thyroid cancer (TC). With discrepant differentiation, 
+papillary thyroid cancer (PTC) and anaplastic thyroid cancer (ATC) differ 
+greatly in characteristics and prognosis. We aimed to reveal the spatial gene 
+alterations and regulations between the two TC subtypes.
+METHODS: We systematically investigated and compared the spatial co-mutations 
+between ATC (8305C), PTC (BCPAP and TPC-1), and normal thyroid cells 
+(Nthy-ori-3-1). We constructed a framework integrating whole-genome sequencing 
+(WGS), high-throughput chromosome conformation capture (Hi-C), and transcriptome 
+sequencing, to systematically detect the associations between the somatic 
+co-mutations of cancer-related genes, structural variations (SVs), copy number 
+variations (CNVs), and high-order chromatin conformation.
+RESULTS: Spatial co-mutation hotspots were enriched around topologically 
+associating domains (TADs) in TC. A common set of 227 boundaries were identified 
+in both ATC and PTC, with significant overlaps between them. The spatial 
+proximities of the co-mutated gene pairs in the two TC types were significantly 
+greater than in the gene-level and overall backgrounds, and ATC cells had higher 
+TAD contact frequency with CoMuts > 10 compared with PTC cells. Compared with 
+normal thyroid cells, in ATC the number of the created novel three-dimensional 
+chromatin structural domains increased by 10%, and the number of shifted TADs 
+decreased by 7%. We found five TAD blocks with CoMut genes/events specific to 
+ATC with certain mutations in genes including MAST-NSUN4, AM129B/TRUB2, 
+COL5A1/PPP1R26, PPP1R26/GPSM1/CCDC183, and PRAC2/DLX4. For the majority of ATC 
+and PTC cells, the HOXA10 and HIF2α signals close to the transcription start 
+sites of CoMut genes within TADs were significantly stronger than those at the 
+background. CNV breakpoints significantly overlapped with TAD boundaries in both 
+TC subtypes. ATCs had more CNV losses overlapping with TAD boundaries, and 
+noncoding SVs involved in intrachromosomal SVs, amplified inversions, and tandem 
+duplication differed between ATC and PTC. TADs with short range were more 
+abundant in ATC than PTC. More switches of A/B compartment types existed in ATC 
+cells compared with PTC. Gene expression was significantly synchronized, and 
+orchestrated by complex epigenetics and regulatory elements.
+CONCLUSION: Chromatin interactions and gene alterations and regulations are 
+largely heterogeneous in TC. CNVs and complex SVs may function in the TC genome 
+by interplaying with TADs, and are largely different between ATC and PTC. 
+Complexity of TC genomes, which are highly organized by 3D genome-wide 
+interactions mediating mutational and structural variations and gene activation, 
+may have been largely underappreciated. Our comprehensive analysis may provide 
+key evidence and targets for more customized diagnosis and treatment of TC.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s11658-022-00409-6
+PMCID: PMC9825046
+PMID: 36609218 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
+
+
+7. Life Sci Alliance. 2022 Nov 29;6(2):e202201633. doi: 10.26508/lsa.202201633. 
+Print 2023 Feb.
+
+Transcriptome analyses in infertile men reveal germ cell-specific expression and 
+splicing patterns.
+
+Siebert-Kuss LM(1), Krenz H(2), Tekath T(2), Wöste M(2), Di Persio S(1), Terwort 
+N(1), Wyrwoll MJ(3), Cremers JF(4), Wistuba J(1), Dugas M(2)(5), Kliesch S(4), 
+Schlatt S(1), Tüttelmann F(3), Gromoll J(1), Neuhaus N(1), Laurentino S(6).
+
+Author information:
+(1)Centre of Reproductive Medicine and Andrology, Institute of Reproductive and 
+Regenerative Biology, University of Münster, Münster, Germany.
+(2)Institute of Medical Informatics, University of Münster, Münster, Germany.
+(3)Institute of Reproductive Genetics, University of Münster, Münster, Germany.
+(4)Department of Clinical and Surgical Andrology, Centre of Reproductive 
+Medicine and Andrology, University Hospital of Münster, Münster, Germany.
+(5)Institute of Medical Informatics, Heidelberg University Hospital, Heidelberg, 
+Germany.
+(6)Centre of Reproductive Medicine and Andrology, Institute of Reproductive and 
+Regenerative Biology, University of Münster, Münster, Germany 
+Sandra.Laurentino@ukmuenster.de.
+
+The process of spermatogenesis-when germ cells differentiate into sperm-is 
+tightly regulated, and misregulation in gene expression is likely to be involved 
+in the physiopathology of male infertility. The testis is one of the most 
+transcriptionally rich tissues; nevertheless, the specific gene expression 
+changes occurring during spermatogenesis are not fully understood. To better 
+understand gene expression during spermatogenesis, we generated germ 
+cell-specific whole transcriptome profiles by systematically comparing 
+testicular transcriptomes from tissues in which spermatogenesis is arrested at 
+successive steps of germ cell differentiation. In these comparisons, we found 
+thousands of differentially expressed genes between successive germ cell types 
+of infertility patients. We demonstrate our analyses' potential to identify 
+novel highly germ cell-specific markers (TSPY4 and LUZP4 for spermatogonia; 
+HMGB4 for round spermatids) and identified putatively misregulated genes in male 
+infertility (RWDD2A, CCDC183, CNNM1, SERF1B). Apart from these, we found 
+thousands of genes showing germ cell-specific isoforms (including SOX15, SPATA4, 
+SYCP3, MKI67). Our approach and dataset can help elucidate genetic and 
+transcriptional causes for male infertility.
+
+© 2022 Siebert-Kuss et al.
+
+DOI: 10.26508/lsa.202201633
+PMCID: PMC9713473
+PMID: 36446526 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+8. J Oncol. 2022 Jul 31;2022:6785956. doi: 10.1155/2022/6785956. eCollection 2022.
+
+MITF-Mediated lncRNA CCDC183-As1 Promotes the Tumorigenic Properties and Aerobic 
+Glycolysis of Bladder Cancer via Upregulating TCF7L2.
+
+Cai W(1), Wei M(2), Su Z(2).
+
+Author information:
+(1)Department of Orthopedics, The Affiliated Huai'an No. 1 People's Hospital of 
+Nanjing Medical University, Huai'an, Jiangsu, China.
+(2)Department of Anesthesiology, The Affiliated Huai'an No. 1 People's Hospital 
+of Nanjing Medical University, Huai'an, Jiangsu, China.
+
+As a primary malignancy tumor of the urology system, bladder cancer (BC) is 
+characterized by its high recurrence and metastasis characteristics. Despite the 
+great improvement in clinical interventions over the past decades, the outcomes 
+of BC patients are still unsatisfactory. Novel molecular mechanisms for 
+developing effective diagnostic and therapeutic strategies are urgently needed; 
+therefore, we screened the lncRNA expression profile in four pairs of BC 
+tissues, showing that CCDC183-AS1 was the most upregulated lncRNA. Subsequently, 
+results of CCK-8, EdU, Transwell, and aerobic glycolysis detection showed that 
+CCDC183-AS1 plays an oncogene role in BC progression. Furthermore, an 
+investigation of the downstream and upstream factors of CCDC183-AS1 identified a 
+novel MITF/CCDC183-AS1/miR-4731-5p/TCF7L2 axis in BC progression, which might 
+furnish novel insights for developing effective diagnostic and therapeutic 
+strategies for BC.
+
+Copyright © 2022 Wei Cai et al.
+
+DOI: 10.1155/2022/6785956
+PMCID: PMC9357683
+PMID: 35957803
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+9. RETRACTED ARTICLE
+
+Mol Med Rep. 2022 Apr;25(4):112. doi: 10.3892/mmr.2022.12628. Epub 2022 Feb 4.
+
+Molecular mechanism of atractylon in the invasion and migration of hepatic 
+cancer cells based on high‑throughput sequencing.
+
+Cheng Y(1), Ping J(1), Chen J(2), Fu Y(2), Zhao H(2), Xue J(2).
+
+Author information:
+(1)Institute of Liver Disease, Shuguang Hospital Affiliated to Shanghai 
+University of Traditional Chinese Medicine, Shanghai 201203, P.R. China.
+(2)Department of Liver Disease, Hospital for Infectious Diseases of Pudong 
+District, Shanghai 201299, P.R. China.
+
+Retraction in
+    Mol Med Rep. 2025 Jan;31(1):8. doi: 10.3892/mmr.2024.13373.
+
+The aim of the present study was to investigate the molecular mechanisms of 
+atractylon in the inhibition of invasion and migration of hepatic cancer cells. 
+High‑throughput sequencing was used to compare the expression of long non‑coding 
+(lnc)RNAs between hepatic carcinoma and healthy controls. A competing endogenous 
+RNA network was constructed. The top significantly differentially expressed 
+lncRNAs were screened and verified by reverse transcription‑quantitative PCR 
+in vitro and in vivo. Small interfering (si)RNA against thymopoietin‑antisense 1 
+(TMPO‑AS1) or coiled‑coil domain‑containing 183‑antisense 1 (CCDC183‑AS1) 
+overexpression (oe) vectors were transfected into cells following atractylon 
+treatment. Wound healing and Matrigel assays were used to determine the effects 
+of migration and invasion, respectively. Western blot analysis was used to 
+detect the expression levels of invasion‑ and migration‑related proteins, 
+including N‑cadherin, E‑cadherin and MMP‑2. Flow cytometry analysis was used to 
+detect apoptosis. Based on transcriptome sequencing and analysis, the top seven 
+upregulated [(FAM201A, RP11‑640M9.2, AL589743.1, TMEM51‑AS1, clathrin heavy 
+chain‑like 1 (CLTCL1), TMPO‑AS1 and LINC00652] and top six downregulated lncRNAs 
+(RP11‑465B22.5, CCDC183‑AS1, TCONS_00072529, RP11‑401F2.3, RP11‑290F20.1 and 
+TCONS_00070568) were identified. Only TMPO‑AS1 and CCDC183‑AS1 were differently 
+regulated by atractylon in vivo. The proliferative ability of HepG2 liver cancer 
+cells decreased, whereas the apoptotic rate improved after atractylon treatment. 
+Notably, the invasive and migratory ability of HepG2 cells significantly 
+declined. In addition, siTMPO‑AS1 and oeCCDC183‑AS1 reduced the effect of 
+atractylon in vitro. Atractylon was demonstrated to regulate the expression of 
+TMPO‑AS1 and CCDC183‑AS1 and inhibited the invasion and migration of liver 
+cancer cells. Thus, TMPO‑AS1 and CCDC183‑AS1 may be potential targets for 
+diagnosis and treatment of hepatic carcinoma.
+
+DOI: 10.3892/mmr.2022.12628
+PMCID: PMC8845028
+PMID: 35119084 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+10. Pharmaceuticals (Basel). 2021 May 27;14(6):516. doi: 10.3390/ph14060516.
+
+Genomic Markers for Essential Tremor.
+
+Jiménez-Jiménez FJ(1), Alonso-Navarro H(1), García-Martín E(2), Álvarez I(3), 
+Pastor P(3), Agúndez JAG(2).
+
+Author information:
+(1)Section of Neurology, Hospital Universitario del Sureste, E28500 Arganda del 
+Rey, Spain.
+(2)ARADyAL Instituto de Salud Carlos III, University Institute of Molecular 
+Pathology Biomarkers, University of Extremadura, E10071 Caceres, Spain.
+(3)Movement Disorders Unit, Department of Neurology, University Hospital Mútua 
+de Terrassa, Fundació Docencia i Recerça Mútua de Terrassa, E08221 Terrassa, 
+Spain.
+
+There are many reports suggesting an important role of genetic factors in the 
+etiopathogenesis of essential tremor (ET), encouraging continuing the research 
+for possible genetic markers. Linkage studies in families with ET have 
+identified 4 genes/loci for familial ET, although the responsible gene(s) have 
+not been identified. Genome-wide association studies (GWAS) described several 
+variants in LINGO1, SLC1A2, STK32B, PPARGC1A, and CTNNA3, related with ET, but 
+none of them have been confirmed in replication studies. In addition, the 
+case-control association studies performed for candidate variants have not 
+convincingly linked any gene with the risk for ET. Exome studies described the 
+association of several genes with familial ET (FUS, HTRA2, TENM4, SORT1, SCN11A, 
+NOTCH2NLC, NOS3, KCNS2, HAPLN4, USP46, CACNA1G, SLIT3, CCDC183, MMP10, and 
+GPR151), but they were found only in singular families and, again, not found in 
+other families or other populations, suggesting that some can be private 
+polymorphisms. The search for responsible genes for ET is still ongoing.
+
+DOI: 10.3390/ph14060516
+PMCID: PMC8226734
+PMID: 34072005
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+11. J Exp Clin Cancer Res. 2021 Feb 4;40(1):57. doi: 10.1186/s13046-021-01861-6.
+
+Long non-coding RNA CCDC183-AS1 acts AS a miR-589-5p sponge to promote the 
+progression of hepatocellular carcinoma through regulating SKP1 expression.
+
+Zhu H(#)(1)(2), Zhang H(#)(1)(2), Pei Y(#)(3), Liao Z(1)(2), Liu F(1)(2), Su 
+C(1)(2), Liu Y(1)(2), Dong R(1)(2), Song J(1)(2), Zhang X(1)(2), Fan Y(1)(2), 
+Liang H(4)(5), Zhang B(6)(7)(8), Chen X(9)(10)(11)(12).
+
+Author information:
+(1)Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, Hubei, P.R. China.
+(2)Hubei Key Laboratory of Hepato-Pancreato-Biliary Diseases, Wuhan, Hubei, P.R. 
+China.
+(3)Department of surgery, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, Hubei, P.R. China.
+(4)Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, Hubei, P.R. China. 
+lianghuifang1997@126.com.
+(5)Hubei Key Laboratory of Hepato-Pancreato-Biliary Diseases, Wuhan, Hubei, P.R. 
+China. lianghuifang1997@126.com.
+(6)Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, Hubei, P.R. China. 
+bixiangzhang@163.com.
+(7)Hubei Key Laboratory of Hepato-Pancreato-Biliary Diseases, Wuhan, Hubei, P.R. 
+China. bixiangzhang@163.com.
+(8)Key Laboratory of Organ Transplantation, Ministry of Education, Wuhan, Hubei, 
+P.R. China. bixiangzhang@163.com.
+(9)Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, Hubei, P.R. China. 
+chenxpchenxp@163.com.
+(10)Hubei Key Laboratory of Hepato-Pancreato-Biliary Diseases, Wuhan, Hubei, 
+P.R. China. chenxpchenxp@163.com.
+(11)Department of surgery, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, Hubei, P.R. China. 
+chenxpchenxp@163.com.
+(12)Key Laboratory of Organ Transplantation, Ministry of Education, Wuhan, 
+Hubei, P.R. China. chenxpchenxp@163.com.
+(#)Contributed equally
+
+BACKGROUND: Hepatocellular carcinoma (HCC) is a common type of malignant human 
+cancer with high morbidity and poor prognosis, causing numerous deaths per year 
+worldwide. Growing evidence has been demonstrated that long non-coding RNAs 
+(lncRNAs) are closely associated with hepatocarcinogenesis and metastasis. 
+However, the roles, functions, and working mechanisms of most lncRNAs in HCC 
+remain poorly defined.
+METHODS: Real-time quantitative polymerase chain reaction (qRT-PCR) was used to 
+detect the expression level of CCDC183-AS1 in HCC tissues and cell lines. Cell 
+proliferation, migration and invasion ability were evaluated by CCK-8 and 
+transwell assay, respectively. Animal experiments were used to explore the role 
+of CCDC183-AS1 and miR-589-5p in vivo. Bioinformatic analysis, dual-luciferase 
+reporter assay and RNA immunoprecipitation (RIP) assay were performed to confirm 
+the regulatory relationship between CCDC183-AS1, miR-589-5p and SKP1.
+RESULTS: Significantly upregulated expression of CCDC183-AS1 was observed in 
+both HCC tissues and cell lines. HCC patients with higher expression of 
+CCDC183-AS1 had a poorer overall survival rate. Functionally, overexpression of 
+CCDC183-AS1 markedly promoted HCC cell proliferation, migration and invasion in 
+vitro and tumor growth and metastasis in vivo, whereas the downregulation of 
+CCDC183-AS1 exerted opposite effects. MiR-589-5p inhibitor counteracted the 
+proliferation, migration and invasion inhibitory effects induced by CCDC183-AS1 
+silencing. Mechanistically, CCDC183-AS1 acted as a ceRNA through sponging 
+miR-589-5p to offset its inhibitory effect on the target gene SKP1, then 
+promoted the tumorigenesis of HCC.
+CONCLUSIONS: CCDC183-AS1 functions as an oncogene to promote HCC progression 
+through the CCDC183-AS1/miR-589-5p/SKP1 axis. Our study provided a novel 
+potential therapeutic target for HCC patients.
+
+DOI: 10.1186/s13046-021-01861-6
+PMCID: PMC7863448
+PMID: 33541391 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+12. Parkinsonism Relat Disord. 2021 Jan;82:109-116. doi: 
+10.1016/j.parkreldis.2020.11.021. Epub 2020 Nov 24.
+
+Exome-wide rare variant analysis in familial essential tremor.
+
+Diez-Fairen M(1), Houle G(2), Ortega-Cubero S(3), Bandres-Ciga S(4), Alvarez 
+I(1), Carcel M(1), Ibañez L(5), Fernandez MV(5), Budde JP(5), Trotta JR(6), 
+Tonda R(6), Chong JX(7), Bamshad MJ(8), Nickerson DA(9); University of 
+Washington Center for Mendelian Genomics (UWCMG); Aguilar M(1), Tartari JP(1), 
+Gironell A(10), García-Martín E(11), Agundez JA(11), Alonso-Navarro H(12), 
+Jimenez-Jimenez FJ(12), Fernandez M(13), Valldeoriola F(14), Marti MJ(14), 
+Tolosa E(14), Coria F(15), Pastor MA(16), Vilariño-Güell C(17), Rajput A(18), 
+Dion PA(19), Cruchaga C(5), Rouleau GA(20), Pastor P(21).
+
+Author information:
+(1)Fundació Docència i Recerca MútuaTerrassa, Movement Disorders Unit, 
+Department of Neurology, University Hospital Mútua Terrassa, Terrassa, 
+Barcelona, Spain.
+(2)Department of Human Genetics, McGill University, Montréal, Quebec, Canada; 
+Montreal Neurological Institute, McGill University, Montréal, Quebec, Canada.
+(3)Department of Neurology and Neurosurgery, Hospital Universitario de Burgos, 
+Burgos, Spain.
+(4)Molecular Genetics Section, Laboratory of Neurogenetics, National Institute 
+on Aging, National Institutes of Health, Bethesda, MD, USA; Instituto de 
+Investigación Biosanitaria de Granada (ibs. GRANADA), Granada, Spain.
+(5)NeuroGenomics and Informatics, Department of Psychiatry, Washington 
+University School of Medicine, St. Louis, MO, USA.
+(6)Centre Nacional d'Anàlisis Genòmic (CNAG-CRG), Center for Genomic Regulation, 
+Barcelona Institute of Science and Technology (BIST), Barcelona, Spain & 
+Universitat Pompeu Fabra (UPF), Barcelona, Spain.
+(7)Division of Genetic Medicine, Department of Pediatrics, University of 
+Washington, Seattle, WA, USA.
+(8)Division of Genetic Medicine, Department of Pediatrics, University of 
+Washington, Seattle, WA, USA; Seattle Children's Hospital, Seattle, WA, 98105, 
+USA; Department of Genome Sciences, University of Washington, Seattle, WA, USA.
+(9)Department of Genome Sciences, University of Washington, Seattle, WA, USA.
+(10)Movement Disorders Unit, Neurology Department, Hospital de Sant Pau and Sant 
+Pau Biomedical Research Institute, Barcelona, 08026, Spain.
+(11)University Institute of Molecular Pathology Biomarkers, UNEx. ARADyAL 
+Instituto de Salud Carlos III, Cáceres, Spain.
+(12)Section of Neurology, Hospital Universitario del Sureste, Arganda del Rey, 
+Madrid, Spain.
+(13)María de Maeztu Unit of Excellence, Institute of Neurosciences, University 
+of Barcelona, MDM-2017-0729, Ministry of Science, Innovation and Universities, 
+Spain; Parkinson's Disease & Movement Disorders Unit, Department of Neurology, 
+Hospital Clínic, IDIBAPS, Barcelona, Spain.
+(14)Parkinson's Disease & Movement Disorders Unit, Department of Neurology, 
+Hospital Clínic, IDIBAPS, Barcelona, Spain; Centro de Investigación Biomédica en 
+Red sobre Enfermedades Neurodegenerativas (CIBERNED), Hospital Clínic de 
+Barcelona, Barcelona, Spain.
+(15)Clinic for Nervous Disorders, Service of Neurology, Son Espases University 
+Hospital, Palma de Mallorca, Spain.
+(16)Department of Neurology, Clínica Universidad de Navarra, Pamplona, Spain.
+(17)Department of Medical Genetics, University of British Columbia, Vancouver, 
+BC, Canada.
+(18)Saskatchewan Movement Disorders Program, University of 
+Saskatchewan/Saskatchewan Health Authority, Saskatoon, Saskatchewan, Canada.
+(19)Department of Human Genetics, McGill University, Montréal, Quebec, Canada; 
+Department of Neurology and Neurosurgery, McGill University, Montréal, H3A 2B4, 
+Quebec, Canada.
+(20)Montreal Neurological Institute, McGill University, Montréal, Quebec, 
+Canada; Department of Neurology and Neurosurgery, McGill University, Montréal, 
+H3A 2B4, Quebec, Canada.
+(21)Fundació Docència i Recerca MútuaTerrassa, Movement Disorders Unit, 
+Department of Neurology, University Hospital Mútua Terrassa, Terrassa, 
+Barcelona, Spain. Electronic address: pastorpau@gmail.com.
+
+INTRODUCTION: Essential tremor (ET) is one of the most common movement 
+disorders. Despite its high prevalence and heritability, its genetic etiology 
+remains elusive with only a few susceptibility genes identified and poorly 
+replicated. Our aim was to find novel candidate genes involved in ET 
+predisposition through whole exome sequencing.
+METHODS: We studied eight multigenerational families (N = 40 individuals) with 
+an autosomal-dominant inheritance using a comprehensive strategy combining whole 
+exome sequencing followed by case-control association testing of prioritized 
+variants in a separate cohort comprising 521 ET cases and 596 controls. We 
+further performed gene-based burden analyses in an additional dataset comprising 
+789 ET patients and 770 healthy individuals to investigate whether there was an 
+enrichment of rare deleterious variants within our candidate genes.
+RESULTS: Fifteen variants co-segregated with disease status in at least one of 
+the families, among which rs749875462 in CCDC183, rs535864157 in MMP10 and 
+rs114285050 in GPR151 showed a nominal association with ET. However, we found no 
+significant enrichment of rare variants within these genes in cases compared 
+with controls. Interestingly, MMP10 protein is involved in the inflammatory 
+response to neuronal damage and has been previously associated with other 
+neurological disorders.
+CONCLUSIONS: We prioritized a set of promising genes, especially MMP10, for 
+further genetic and functional studies in ET. Our study suggests that rare 
+deleterious coding variants that markedly increase susceptibility to ET are 
+likely to be found in many genes. Future studies are needed to replicate and 
+further infer biological mechanisms and potential disease causality for our 
+identified genes.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.parkreldis.2020.11.021
+PMCID: PMC7856267
+PMID: 33279834 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare that 
+they have no conflict of interest.
+
+
+13. J Proteome Res. 2020 Dec 4;19(12):4782-4794. doi: 10.1021/acs.jproteome.0c00516. 
+Epub 2020 Oct 16.
+
+The Functionally Unannotated Proteome of Human Male Tissues: A Shared Resource 
+to Uncover New Protein Functions Associated with Reproductive Biology.
+
+Vandenbrouck Y(1), Pineau C(2), Lane L(3).
+
+Author information:
+(1)Univ. Grenoble Alpes, INSERM, CEA, IRIG-BGE, U1038, F-38000 Grenoble, France.
+(2)Univ. Rennes, Inserm, EHESP, Irset (Institut de Recherche en Santé, 
+Environnement et Travail) - UMR_S 1085, F-35042 Rennes cedex, France.
+(3)SIB Swiss Institute of Bioinformatics and Department of Microbiology and 
+Molecular Medicine, Faculty of Medicine, University of Geneva, CMU, Michel 
+Servet 1, 1211 Geneva 4, Switzerland.
+
+In the context of the Human Proteome Project, we built an inventory of 412 
+functionally unannotated human proteins for which experimental evidence at the 
+protein level exists (uPE1) and which are highly expressed in tissues involved 
+in human male reproduction. We implemented a strategy combining literature 
+mining, bioinformatics tools to collate annotation and experimental information 
+from specific molecular public resources, and efficient visualization tools to 
+put these unknown proteins into their biological context (protein complexes, 
+tissue and subcellular location, expression pattern). The gathered knowledge 
+allowed pinpointing five uPE1 for which a function has recently been proposed 
+and which should be updated in protein knowledge bases. Furthermore, this 
+bioinformatics strategy allowed to build new functional hypotheses for five 
+other uPE1s in link with phenotypic traits that are specific to male 
+reproductive function such as ciliogenesis/flagellum formation in germ cells 
+(CCDC112 and TEX9), chromatin remodeling (C3orf62) and spermatozoon maturation 
+(CCDC183). We also discussed the enigmatic case of MAGEB proteins, a poorly 
+documented cancer/testis antigen subtype. Tools used and computational outputs 
+produced during this study are freely accessible via ProteoRE 
+(http://www.proteore.org), a Galaxy-based instance, for reuse purposes. We 
+propose these five uPE1s should be investigated in priority by expert 
+laboratories and hope that this inventory and shared resources will stimulate 
+the interest of the community of reproductive biology.
+
+DOI: 10.1021/acs.jproteome.0c00516
+PMID: 33064489 [Indexed for MEDLINE]

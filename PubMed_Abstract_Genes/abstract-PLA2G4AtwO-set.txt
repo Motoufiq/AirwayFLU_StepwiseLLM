@@ -1,0 +1,311 @@
+1. Zhen Ci Yan Jiu. 2023 Aug 25;48(8):782-90. doi: 10.13702/j.1000-0607.20220513.
+
+[Electroacupuncture improves limb motor function by down-regulating cytosolic 
+phospholi-pase A2 and reducing apoptosis of nerve cells in rats with spinal cord 
+injury].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Yao HH(1), Min YJ(2), Hong DY(3), Wang L(2), Lu XY(2), Yang YH(2).
+
+Author information:
+(1)Xuhui Branch of Shanghai Sixth People's Hospital, Shanghai Eighth People's 
+Hospital, Shanghai 200235, China.
+(2)School of Traditional Chinese Medicine, Nanchang Medical College, Nanchang 
+300052.
+(3)Shunchang Hospital of Huangpu District, Shanghai 200025.
+
+OBJECTIVE: To observe the effect of electroacupuncture（EA） on the expression of 
+cytosolic phospholipase A2 （cPLA2） and apoptosis of nerve cells in rats with 
+spinal cord injury （SCI）, so as to explore its mechanisms underlying improvement 
+of SCI.
+METHODS: Seventy-two female SD rats were randomly divided into model, EA, 
+antagonist and EA+antagonist groups, with 18 rats in each group and other 18 
+rats were used as the sham operation （sham） group. The SCI model was established 
+by referring to modified Allen's method with a weight impactor. The hindlimb 
+motor function was assessed by using Basso-Beattie-Bresnahan （BBB） score. Rats 
+of the EA group were subjected to EA stimulation at "Dazhui"（GV14）, 
+"Yaoyangguan"（GV3）, bilateral "Ciliao"（BL32） and "Zusanli"（ST36） for 20 min, 
+once a day for 14 days. Rats of the antagonist group received intravenous 
+injection followed by intraperitoneal injection of arachidonyl trifluoromethyl 
+ketone （AACOCF3, antagonist of cPLA2）, once every other day. Rats of the 
+EA+antagonist group received EA treatment combined with antagonist injection. 
+After the treatment, the rats were sacrificed and the spinal cord tissue was 
+collected for detecting the protein expression of cPLA2, p-cPLA2, Bcl-2, Bax and 
+Caspase-3 by Western blot, and the mRNA expression of cPLA2, Bcl-2, Bax and 
+Caspase-3 using qRT-PCR. The morphological changes of the spinal cord were 
+detected by Nissl staining.
+RESULTS: In comparison with the sham group, the BBB score, expression of Bcl-2 
+protein and mRNA were significantly down-regulated （P<0.01）, whereas the 
+expression levels of Bax, Caspase-3 and p-cPLA2 proteins and mRNAs were 
+considerably up-regulated in the model group （P<0.01）. Compared with the model 
+group, the BBB score, expression levels of Bcl-2 protein and mRNA were 
+significantly up-regulated （P<0.01, P<0.05）, while the expression levels of Bax, 
+Caspase-3 and p-cPLA2 proteins in the EA, antagonist and EA+antagonist groups, 
+Bax and cPLA2 mRNAs in both antagonist and EA+antagonist groups, and Caspase-3 
+mRNA in the EA+antagonist group were obviously down-regulated （P<0.01, P<0.05）. 
+The effect of EA+antagonist was significantly superior to EA in increasing BBB 
+score and in lowering expression of Bax and cPLA2 mRNAs （P<0.01, P<0.05）. Nissl 
+staining showed reduced number of nerve cells and Nissl bodies, and striped dark 
+blue cells in the model group, which was milder in the EA and antagonist groups, 
+particularly in the EA+antagonist group.
+CONCLUSION: EA may improve the limb motor function of SCI rats, which may be 
+related to its functions in down-regulating the expression of p-cPLA2, Bax and 
+Caspase-3 and up-regulating Bcl-2 to reduce the apoptosis of nerve cells in the 
+regional spinal cord.
+
+Publisher: 目的：观察电针对脊髓损伤（SCI）大鼠胞质型磷脂酶A2 
+（cPLA2）的表达和神经细胞凋亡的影响，探讨电针治疗SCI的部分机制。方法：SD大鼠随机分为假手术组、模型组、电针组、阻断剂组和电针+阻断剂组，每组18只。采用改良Allen重物打击法制备SCI模型。电针组取“大椎”“腰阳关”及双侧“次髎”“足三里”进行电针治疗，每次20 
+min，每日1次，共14次；阻断剂组予以花生甙三氟甲基酮隔日1次腹腔注射。治疗结束对各组大鼠进行BBB评分；Western 
+blot法检测各组大鼠脊髓组织cPLA2、磷酸化（p）-cPLA2、B淋巴细胞瘤-2（Bcl-2）、Bcl-2相关X蛋白（Bax）、半胱氨酸天冬氨酸蛋白酶3（Caspase-3）蛋白的表达；荧光定量PCR法检测各组大鼠脊髓组织cPLA2、Bcl-2、Bax、Caspase-3 
+mRNA的表达；尼氏染色观察脊髓组织形态变化。结果：与假手术组比较，模型组大鼠BBB评分明显降低（P<0.01），脊髓组织形态明显受损；与模型组比较，各治疗组大鼠BBB评分升高（P<0.01），脊髓组织形态都有所改善；电针+阻断剂组BBB评分高于电针组、阻断剂组（P<0.01，P<0.05），且脊髓组织形态改善优于电针组、阻断剂组。与假手术组比较，模型组大鼠脊髓组织Bcl-2蛋白及mRNA表达水平降低（P<0.01），Bax、Caspase-3蛋白及 
+mRNA表达水平升高（P<0.01）；与模型组比较，各治疗组大鼠脊髓组织Bcl-2蛋白及 
+mRNA表达水平升高（P<0.05，P<0.01），治疗各组Bax、Caspase-3蛋白表达水平降低（P<0.01，P<0.05），阻断剂组、电针+阻断剂组大鼠脊髓组织Bax 
+mRNA表达降低（P<0.05，P<0.01），电针+阻断剂组Caspase-3 mRNA表达水平降低（P<0.05）；电针+阻断剂组Bax 
+mRNA表达水平明显低于电针组（P<0.05）。与假手术组比较，模型组大鼠脊髓组织p-cPLA2蛋白及cPLA2 
+mRNA表达水平升高（P<0.01）；与模型组比较，除电针组cPLA2 mRNA外，各治疗组大鼠脊髓组织p-cPLA2蛋白及cPLA2 
+mRNA表达水平都明显低于模型组（P<0.01）；电针+阻断剂组cPLA2 
+mRNA表达水平低于电针组（P<0.01）。结论：电针通过抑制cPLA2的活性，进而升高Bcl-2、降低Bax及Caspase-3表达，减少神经细胞的凋亡，达到改善SCI大鼠神经功能的作用。.
+
+DOI: 10.13702/j.1000-0607.20220513
+PMID: 37614136 [Indexed for MEDLINE]
+
+
+2. Development. 2012 Dec 1;139(23):4439-48. doi: 10.1242/dev.081745. Epub 2012 Oct 
+24.
+
+Autotaxin/Lpar3 signaling regulates Kupffer's vesicle formation and left-right 
+asymmetry in zebrafish.
+
+Lai SL(1), Yao WL, Tsao KC, Houben AJ, Albers HM, Ovaa H, Moolenaar WH, Lee SJ.
+
+Author information:
+(1)Institute of Zoology, National Taiwan University, 1 Roosevelt Road, Sec. 4, 
+Taipei 10617, Taiwan, Republic of China.
+
+Left-right (L-R) patterning is essential for proper organ morphogenesis and 
+function. Calcium fluxes in dorsal forerunner cells (DFCs) are known to regulate 
+the formation of Kupffer's vesicle (KV), a central organ for establishing L-R 
+asymmetry in zebrafish. Here, we identify the lipid mediator lysophosphatidic 
+acid (LPA) as a regulator of L-R asymmetry in zebrafish embryos. LPA is produced 
+by Autotaxin (Atx), a secreted lysophospholipase D, and triggers various 
+cellular responses through activation of specific G protein-coupled receptors 
+(Lpar1-6). Knockdown of Atx or LPA receptor 3 (Lpar3) by morpholino 
+oligonucleotides perturbed asymmetric gene expression in lateral plate mesoderm 
+and disrupted organ L-R asymmetries, whereas overexpression of lpar3 partially 
+rescued those defects in both atx and lpar3 morphants. Similar defects were 
+observed in embryos treated with the Atx inhibitor HA130 and the Lpar1-3 
+inhibitor Ki16425. Knockdown of either Atx or Lpar3 impaired calcium fluxes in 
+DFCs during mid-epiboly stage and compromised DFC cohesive migration, KV 
+formation and ciliogenesis. Application of LPA to DFCs rescued the calcium 
+signal and laterality defects in atx morphants. This LPA-dependent L-R asymmetry 
+is mediated via Wnt signaling, as shown by the accumulation of β-catenin in 
+nuclei at the dorsal side of both atx and lpar3 morphants. Our results suggest a 
+major role for the Atx/Lpar3 signaling axis in regulating KV formation, 
+ciliogenesis and L-R asymmetry via a Wnt-dependent pathway.
+
+DOI: 10.1242/dev.081745
+PMID: 23095890 [Indexed for MEDLINE]
+
+
+3. Prostaglandins Other Lipid Mediat. 2012 Mar;97(3-4):83-9. doi: 
+10.1016/j.prostaglandins.2012.01.003. Epub 2012 Jan 18.
+
+Lysophospholipids and lysophospholipase D in rabbit aqueous humor following 
+corneal injury.
+
+Tokumura A(1), Taira S, Kikuchi M, Tsutsumi T, Shimizu Y, Watsky MA.
+
+Author information:
+(1)Department of Pharmaceutical Health Chemistry, Institute of Health 
+Biosciences, University of Tokushima Graduate School, Tokushima, Japan. 
+tokumura@ph.tokushima-u.ac.jp
+
+We previously found that lysophosphatidic acid (LPA)-like activity eliciting 
+Cl(-) currents in Xenopus oocytes is increased in rabbit aqueous humor (AH) 
+following corneal freeze wounds. The purpose of this study was to examine 
+whether actual levels of LPA in AH from wounded eyes are higher than those from 
+control eyes, and to determine the sources and enzymatic pathways of AH LPA in 
+control and wounded conditions. Lysophospholipase D (lysoPLD) activity was 
+measured by the enzymatic determination of choline following incubation of AH 
+samples with exogenous lysophosphatidylcholines (LPCs). The molecular species 
+compositions of LPA and LPC in fresh and incubated AH were determined by liquid 
+chromatography-tandem mass spectrometry. A high, but similar activity of lysoPLD 
+in the samples from both control and freeze-wounded eyes was detected. Its 
+enzymatic properties resemble those of plasma lysoPLD, identified as autotaxin. 
+Levels of LPCs, predominant substrates of lysoPLD in AH, were several times 
+higher in the AH samples from injured eyes than those from the control eyes. Our 
+results suggest that lysoPLD is constitutively released from corneal tissues 
+and/or ciliary body into the AH, with no injury-induced increase in release 
+following freeze-wounding. They also suggest that wound-induced increases in 
+LPA-like biological activity are due to linoleoyl species-rich molecular 
+composition in AH from wounded eyes. A possible mechanism of the altered 
+molecular composition is an increase in the AH concentrations of LPCs, linoleoyl 
+species of which are preferentially converted to corresponding unsaturated LPA 
+by the constitutively active lysoPLD.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.prostaglandins.2012.01.003
+PMID: 22281604 [Indexed for MEDLINE]
+
+
+4. J Neurochem. 2000 Mar;74(3):1026-33. doi: 10.1046/j.1471-4159.2000.0741026.x.
+
+Fatty acid-activated K+ channels in autonomic neurons: activation by an 
+endogenous source of free fatty acids.
+
+Casavant RH(1), Xu Z, Dryer SE.
+
+Author information:
+(1)Department of Biology and Biochemistry, University of Houston, Texas 
+77205-5513, USA.
+
+Application of arachidonic acid evoked robust activation of large-conductance K+ 
+channels in cell-attached and excised inside-out patches from acutely isolated 
+chick ciliary ganglion neurons. A similar effect was produced by 
+5,8,11,14-eicosatetraynoic acid, a nonmetabolizable analogue of arachidonic 
+acid. The unitary conductance of fatty acid-activated channels was 35-40 pS at 
++20 mV with physiological gradients of K+ and 165 pS at +20 mV with an 
+extracellular K+ concentration of 37.5 mM and an intracellular K+ concentration 
+of 150 mM. Gating of these channels in cell-attached patches was potentiated by 
+membrane stretch. Channel gating evoked by both lipids was 
+concentration-dependent, with detectable activation apparent at 4 microM in the 
+majority of patches and maximal activation occurring between 32 and 64 microM. 
+Gating was relatively voltage-independent. Large-conductance K+ channels were 
+also activated in inside-out patches by the monounsaturated fatty acid 
+11-cis-eicosenoic acid but not by the fully saturated fatty acid arachidic acid. 
+Application of 100 microM H2O2, an agent that activates cytosolic phospholipase 
+A2, also caused activation of large-conductance K+ channels in intact neurons. 
+The stimulatory effects of H2O2 were blocked by pretreatment with 20 microM 
+4-bromophenacyl bromide, an irreversible inhibitor of phospholipase A2. 
+Therefore, mobilization of endogenous fatty acids can cause activation of 
+large-conductance K+ channels in autonomic neurons.
+
+DOI: 10.1046/j.1471-4159.2000.0741026.x
+PMID: 10693933 [Indexed for MEDLINE]
+
+
+5. Am J Respir Cell Mol Biol. 1998 May;18(5):662-9. doi: 10.1165/ajrcmb.18.5.2985.
+
+Changes in expression of 15-lipoxygenase and prostaglandin-H synthase during 
+differentiation of human tracheobronchial epithelial cells.
+
+Hill EM(1), Eling T, Nettesheim P.
+
+Author information:
+(1)Laboratories of Molecular Carcinogenesis and Pulmonary Pathobiology, National 
+Institute of Environmental Health Sciences, Research Triangle Park, North 
+Carolina, USA.
+
+The purpose of our studies was to examine differentiation-dependent expression 
+of 15-lipoxygenase (15-LO) and prostaglandin H synthase (PGHS) isoforms in 
+cultured normal human tracheobronchial epithelial cells. In the presence of 
+retinoic acid (RA) the cultures differentiated into a mucociliary epithelium. 
+When cultured in RA-depleted media, the cultures differentiated into a squamous 
+epithelium. In the absence of RA the cultures did not express 15-LO or either of 
+the PGHS isoforms. The PGHS-1 isoform was not expressed in RA-sufficient 
+cultures, but both PGHS-2 messenger RNA (mRNA) and protein were strongly 
+expressed, and prostaglandin E2 (PGE2) was produced during the 
+predifferentiation phase. No PGHS-2 expression or PGE2 could be detected in 
+fully differentiated mucociliary cultures. 15-LO showed the opposite expression 
+pattern: neither mRNA nor protein were detected during the predifferentiation 
+stage, but both were strongly expressed once mucous differentiation had 
+occurred. Cytosolic phospholipase A2 protein was expressed throughout all stages 
+of growth and differentiation. The cultures generated no 15-LO metabolites when 
+incubated with 10 microM to 50 microM arachidonic acid (AA) and stimulated with 
+ionophore. However, lysates prepared from such cultures generated 
+15-hydroxyeicosatetraenoic acid (15-HETE) and 12-HETE from AA, indicating that 
+the cells contained active enzyme. When cultures expressing 15-LO protein were 
+incubated with 10 microM linoleic acid (LA) instead of AA, and were stimulated 
+with ionophore, they generated 13-hydroxy-9,11-octadecadienoic acid. LA rather 
+than AA appeared to be the preferred substrate for the 15-LO enzyme. Our studies 
+indicated that the expression of 15-LO and PGHS-2 is differentiation dependent 
+in airway epithelial cells.
+
+DOI: 10.1165/ajrcmb.18.5.2985
+PMID: 9569236 [Indexed for MEDLINE]
+
+
+6. Environ Health Perspect. 1997 Sep;105 Suppl 5(Suppl 5):1301-7. doi: 
+10.1289/ehp.97105s51301.
+
+The role of reactive oxygen and nitrogen species in the response of airway 
+epithelium to particulates.
+
+Martin LD(1), Krunkosky TM, Dye JA, Fischer BM, Jiang NF, Rochelle LG, Akley NJ, 
+Dreher KL, Adler KB.
+
+Author information:
+(1)Department of Anatomy, North Carolina State University, College of Veterinary 
+Medicine, Raleigh 27606, USA.
+
+Epidemiologic and occupational studies indicate adverse health effects due to 
+inhalation of particulate air pollutants, but precise biologic mechanisms 
+responsible have yet to be fully established. The tracheobronchial epithelium 
+forms the body's first physiologic barrier to such airborne pollutants, where 
+ciliary movement functions to remove the offending substances caught in the 
+overlying mucus layer. Resident and infiltrating phagocytic cells also function 
+in this removal process. In this paper, we examine the role of reactive oxygen 
+and nitrogen species (ROS/RNS) in the response of airway epithelium to 
+particulates. Some particulates themselves can generate ROS, as can the 
+epithelial cells, in response to appropriate stimulation. In addition, resident 
+macrophages in the airways and the alveolar spaces can release ROS/RNS after 
+phagocytosis of inhaled particles. These macrophages also release large amounts 
+of tumor necrosis factor alpha (TNF-alpha), a cytokine that can generate 
+responses within the airway epithelium dependent upon intracellular generation 
+of ROS/RNS. As a result, signal transduction pathways are set in motion that may 
+contribute to inflammation and other pathobiology in the airway. Such effects 
+include increased expression of intercellular adhesion molecule 1, 
+interleukin-6, cytosolic and inducible nitric oxide synthase, manganese 
+superoxide dismutase, cytosolic phospholipase A2, and hypersecretion of mucus. 
+Ultimately, ROS/RNS may play a role in the global response of the airway 
+epithelium to particulate pollutants via activation of kinases and transcription 
+factors common to many response genes. Thus, defense mechanisms involved in 
+responding to offending particulates may result in a complex cascade of events 
+that can contribute to airway pathology.
+
+DOI: 10.1289/ehp.97105s51301
+PMCID: PMC1470132
+PMID: 9400742 [Indexed for MEDLINE]
+
+
+7. Am J Physiol. 1996 May;270(5 Pt 1):L854-62. doi: 
+10.1152/ajplung.1996.270.5.L854.
+
+Retinoid-induced differentiation regulates prostaglandin H synthase and cPLA2 
+expression in tracheal epithelium.
+
+Hill EM(1), Bader T, Nettesheim P, Eling TE.
+
+Author information:
+(1)Laboratory of Molecular Biophysics, National Institute of Environmental 
+Health Sciences, Research Triangle Park, North Carolina 27709, USA.
+
+Rat tracheal epithelial cells cultured in vitro at an air-liquid interface can 
+differentiate into a mucociliary or squamous phenotype depending on the presence 
+or absence of retinoic acid (RA). The airway epithelium is known to produce a 
+number of eicosanoids. We propose that eicosanoid biosynthesis is dependent on 
+the differentiation status of the epithelium. Therefore, prostaglandin 
+production and the expression of cytosolic phospholipase A2 (cPLA2) and the 
+prostaglandin H synthase (PGHS) isoforms were investigated during 
+differentiation to these two phenotypes. The major eicosanoid produced by both 
+phenotypes was prostaglandin E2 (PGE2). Proliferating undifferentiated cultures 
+produced low levels of PGE2 regardless of retinoid status. Differentiated 
+mucociliary cultures produced high levels of PGE2 (50 ng/10(6) cells), whereas 
+differentiated squamous cultures produced low levels of PGE2 (< 5 ng/10(6) 
+cells). Mucociliary cultures expressed high levels of cPLA2 and PGHS-2 isoform 
+mRNA and protein. In contrast squamous cultures expressed very low levels of 
+cPLA2 and PGHS-2 transcript and protein. The PGHS-1 isoform was expressed in 
+squamous but not in mucociliary cultures. We investigated changes in expression 
+of these enzymes during retinoid treatment of established squamous cultures. 
+Treatment with RA resulted in a rapid (24 h) downregulation of PGHS-1 mRNA 
+expression. However, the cPLA2 and PGHS-2 genes were expressed in squamous 
+cultures only after 3 days of RA treatment coincident with redifferentiation of 
+the culture to a mucociliary phenotype. These studies reveal that 
+retinoid-induced differentiation of airway epithelium into either a mucociliary 
+or squamous phenotype results in profound changes in the expression of cPLA2 and 
+PGHS isozymes that regulate prostaglandin formation.
+
+DOI: 10.1152/ajplung.1996.270.5.L854
+PMID: 8967521 [Indexed for MEDLINE]

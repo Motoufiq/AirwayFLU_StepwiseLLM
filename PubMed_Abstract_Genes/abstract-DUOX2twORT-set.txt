@@ -1,0 +1,393 @@
+1. Chest. 2016 Jun;149(6):1445-59. doi: 10.1016/j.chest.2016.01.024. Epub 2016 Feb 
+2.
+
+NADPH Oxidase-4 Overexpression Is Associated With Epithelial Ciliary Dysfunction 
+in Neutrophilic Asthma.
+
+Wan WY(1), Hollins F(1), Haste L(2), Woodman L(1), Hirst RA(3), Bolton S(1), 
+Gomez E(1), Sutcliffe A(1), Desai D(1), Chachi L(1), Mistry V(1), Szyndralewiez 
+C(4), Wardlaw A(1), Saunders R(1), O'Callaghan C(2), Andrew PW(2), Brightling 
+CE(5).
+
+Author information:
+(1)Institute for Lung Health, Department of Infection, Immunity & Inflammation, 
+Glenfield Hospital, University of Leicester, Leicester.
+(2)Department of Infection, Immunity and Inflammation, University of Leicester, 
+Leicester.
+(3)Centre for PCD Diagnosis and Research, Department of Infection, Immunity and 
+Inflammation, RK Clinical Sciences Building, University of Leicester, Leicester.
+(4)Genkyotex, Geneva, Switzerland.
+(5)Institute for Lung Health, Department of Infection, Immunity & Inflammation, 
+Glenfield Hospital, University of Leicester, Leicester. Electronic address: 
+ceb17@le.ac.uk.
+
+BACKGROUND: Bronchial epithelial ciliary dysfunction is an important feature of 
+asthma. We sought to determine the role in asthma of neutrophilic inflammation 
+and nicotinamide adenine dinucleotide phosphate (NADPH) oxidases in ciliary 
+dysfunction.
+METHODS: Bronchial epithelial ciliary function was assessed by using video 
+microscopy in fresh ex vivo epithelial strips from patients with asthma 
+stratified according to their sputum cell differentials and in culture specimens 
+from healthy control subjects and patients with asthma. Bronchial epithelial 
+oxidative damage was determined by 8-oxo-dG expression. Nicotinamide adenine 
+dinucleotide phosphate oxidase (NOX)/dual oxidase (DUOX) expression was assessed 
+in bronchial epithelial cells by using microarrays, with NOX4 and DUOX1/2 
+expression assessed in bronchial biopsy specimens. Ciliary dysfunction following 
+NADPH oxidase inhibition, using GKT137831, was evaluated in fresh epithelial 
+strips from patients with asthma and a murine model of ovalbumin sensitization 
+and challenge.
+RESULTS: Ciliary beat frequency was impaired in patients with asthma with sputum 
+neutrophilia (n = 11) vs those without (n = 10) (5.8 [0.6] Hz vs 8.8 [0.5] Hz; 
+P = .003) and was correlated with sputum neutrophil count (r = -0.70; P < .001). 
+Primary bronchial epithelial cells expressed DUOX1/2 and NOX4. Levels of 
+8-oxo-dG and NOX4 were elevated in patients with neutrophilic vs nonneutrophilic 
+asthma, DUOX1 was elevated in both, and DUOX2 was elevated in nonneutrophilic 
+asthma in vivo. In primary epithelial cultures, ciliary dysfunction did not 
+persist, although NOX4 expression and reactive oxygen species generation was 
+increased from patients with neutrophilic asthma. GKT137831 both improved 
+ciliary function in ex vivo epithelial strips (n = 13), relative to the 
+intensity of neutrophilic inflammation, and abolished ciliary dysfunction in the 
+murine asthma model with no reduction in inflammation.
+CONCLUSIONS: Ciliary dysfunction is increased in neutrophilic asthma associated 
+with increased NOX4 expression and is attenuated by NADPH oxidase inhibition.
+
+Copyright © 2016 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chest.2016.01.024
+PMCID: PMC4893823
+PMID: 26836936 [Indexed for MEDLINE]
+
+
+2. J Biol Chem. 2016 Mar 18;291(12):6423-32. doi: 10.1074/jbc.M115.664854. Epub 
+2016 Jan 28.
+
+Dual Oxidase 2 (Duox2) Regulates Pannexin 1-mediated ATP Release in Primary 
+Human Airway Epithelial Cells via Changes in Intracellular pH and Not H2O2 
+Production.
+
+Krick S(1), Wang J(2), St-Pierre M(1), Gonzalez C(3), Dahl G(2), Salathe M(4).
+
+Author information:
+(1)From the Division of Pulmonary, Allergy, Critical Care, and Sleep Medicine 
+and.
+(2)Department of Physiology and Biophysics, University of Miami, Miami, Florida 
+33136 and.
+(3)the Interdisciplinary Center for Neuroscience of Valparaíso, Universidad de 
+Valparaíso, Valparaíso, 2362735, Chile.
+(4)From the Division of Pulmonary, Allergy, Critical Care, and Sleep Medicine 
+and msalathe@med.miami.edu.
+
+Human airway epithelial cells express pannexin 1 (Panx1) channels to release 
+ATP, which regulates mucociliary clearance. Airway inflammation causes 
+mucociliary dysfunction. Exposure of primary human airway epithelial cell 
+cultures to IFN-γ for 48 h did not alter Panx1 protein expression but 
+significantly decreased ATP release in response to hypotonic stress. The 
+IFN-γ-induced functional down-regulation of Panx1 was due to the up-regulation 
+of dual oxidase 2 (Duox2). Duox2 suppression by siRNA led to an increase in ATP 
+release in control cells and restoration of ATP release in cells treated with 
+IFN-γ. Both effects were reduced by the pannexin inhibitor probenecid. Duox2 
+up-regulation stoichiometrically increases H2O2 and proton production. H2O2 
+inhibited Panx1 function temporarily by formation of disulfide bonds at the 
+thiol group of its terminal cysteine. Long-term exposure to H2O2, however, had 
+no inhibitory effect. To assess the role of cellular acidification upon IFN-γ 
+treatment, fully differentiated airway epithelial cells were exposed to ammonium 
+chloride to alkalinize the cytosol. This led to a 2-fold increase in ATP release 
+in cells treated with IFN-γ that was also inhibited by probenecid. Duox2 
+knockdown also partially corrected IFN-γ-mediated acidification. The direct 
+correlation between intracellular pH and Panx1 open probability was shown in 
+oocytes. Therefore, airway epithelial cells release less ATP in response to 
+hypotonic stress in an inflammatory environment (IFN-γ exposure). Decreased 
+Panx1 function is a response to cell acidification mediated by IFN-γ-induced 
+up-regulation of Duox2, representing a novel mechanism for mucociliary 
+dysfunction in inflammatory airway diseases.
+
+© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M115.664854
+PMCID: PMC4813552
+PMID: 26823467 [Indexed for MEDLINE]
+
+
+3. Am J Physiol Lung Cell Mol Physiol. 2014 Mar 1;306(5):L453-62. doi: 
+10.1152/ajplung.00247.2013. Epub 2014 Jan 10.
+
+IFN-γ-mediated reduction of large-conductance, Ca2+-activated, voltage-dependent 
+K+ (BK) channel activity in airway epithelial cells leads to mucociliary 
+dysfunction.
+
+Manzanares D(1), Srinivasan M, Salathe ST, Ivonnet P, Baumlin N, Dennis JS, 
+Conner GE, Salathe M.
+
+Author information:
+(1)1600 NW 10 Ave., RMSB 7063, Miami, FL 33136,. msalathe@med.miami.edu.
+
+Effective mucociliary clearance (MCC) depends in part on adequate airway surface 
+liquid (ASL) volume to maintain an appropriate periciliary fluid height that 
+allows normal ciliary activity. Apically expressed large-conductance, 
+Ca(2+)-activated, and voltage-dependent K(+) (BK) channels provide an 
+electrochemical gradient for Cl(-) secretion and thus play an important role for 
+adequate airway hydration. Here we show that IFN-γ decreases ATP-mediated apical 
+BK activation in normal human airway epithelial cells cultured at the air-liquid 
+interface. IFN-γ decreased mRNA levels of KCNMA1 but did not affect total 
+protein levels. Because IFN-γ upregulates dual oxidase (DUOX)2 and therefore 
+H2O2 production, we hypothesized that BK inactivation could be mediated by BK 
+oxidation. However, DUOX2 knockdown did not affect the IFN-γ effect on BK 
+activity. IFN-γ changed mRNA levels of the BK β-modulatory proteins KCNMB2 
+(increased) and KCNMB4 (decreased) as well as leucine-rich repeat-containing 
+protein (LRRC)26 (decreased). Mallotoxin, a BK opener only in the absence of 
+LRRC26, showed that BK channels lost their association with LRRC26 after IFN-γ 
+treatment. Finally, IFN-γ caused a decrease in ciliary beating frequency that 
+was immediately rescued by apical fluid addition, suggesting that it was due to 
+ASL volume depletion. These data were confirmed with direct ASL measurements 
+using meniscus scanning. Overexpression of KCNMA1, the pore-forming subunit of 
+BK, overcame the reduction of ASL volume induced by IFN-γ. Key experiments were 
+repeated in cystic fibrosis cells and showed the same results. Therefore, IFN-γ 
+induces mucociliary dysfunction through BK inactivation.
+
+DOI: 10.1152/ajplung.00247.2013
+PMCID: PMC3949055
+PMID: 24414257 [Indexed for MEDLINE]
+
+
+4. Free Radic Biol Med. 2013 Dec;65:38-46. doi: 
+10.1016/j.freeradbiomed.2013.06.012. Epub 2013 Jun 11.
+
+Dual oxidase regulates neutrophil recruitment in allergic airways.
+
+Chang S(1), Linderholm A(1), Franzi L(1), Kenyon N(1), Grasberger H(2), Harper 
+R(3).
+
+Author information:
+(1)Department of Internal Medicine, Division of Pulmonary and Critical Care 
+Medicine, School of Medicine, University of California at Davis, Davis, CA 
+95616, USA.
+(2)Department of Medicine, University of Michigan, Ann Arbor, MI 48109, USA.
+(3)Department of Internal Medicine, Division of Pulmonary and Critical Care 
+Medicine, School of Medicine, University of California at Davis, Davis, CA 
+95616, USA. Electronic address: rwharper@ucdavis.edu.
+
+Enhanced reactive oxygen species production in allergic airways is well 
+described and correlates with increased airway contractions, inflammatory cell 
+infiltration, goblet cell metaplasia, and mucus hypersecretion. There is also an 
+abundance of interleukin-4/interleukin-13 (IL-4/IL-13)- or 
+interleukin-5-secreting cells that are thought to be central to the pathogenesis 
+of allergic asthma. We postulated that the dual oxidases (DUOX1 and DUOX2), 
+members of the nicotinamide adenine dinucleotide phosphate oxidase family that 
+release hydrogen peroxide (H2O2) in the respiratory tract, are critical proteins 
+in the pathogenesis of allergic airways. DUOX activity is regulated by 
+cytokines, including IL-4 and IL-13, and DUOX-mediated H2O2 influences several 
+important features of allergic asthma: mucin production, IL-8 secretion, and 
+wound healing. The objective of this study was to establish the contribution of 
+DUOXs to the development of allergic asthma in a murine model. To accomplish 
+this goal, we utilized a DUOXA-deficient mouse model (Duoxa(-/-)) that lacked 
+maturation factors for both DUOX1 and DUOX2. Our results are the first to 
+demonstrate evidence of DUOX protein and DUOX functional activity in murine 
+airway epithelium. We also demonstrate that DUOXA maturation factors are 
+required for airway-specific H2O2 production and localization of DUOX to cilia 
+of fully differentiated airway epithelial cells. We compared wild-type and 
+Duoxa(-/-) mice in an ovalbumin exposure model to determine the role of DUOX in 
+allergic asthma. In comparison to DUOX-intact mice, Duoxa(-/-) mice had reduced 
+mucous cell metaplasia and lower levels of TH2 cytokine levels in 
+bronchoalveolar fluid. In addition, increased airway resistance in response to 
+methacholine was observed in Duoxa(+/+) mice, as expected, but was absent in 
+Duoxa(-/-) mice. Surprisingly, Duoxa(-/-) mice had decreased influx of 
+neutrophils in bronchoalveolar fluid and lung tissue sections associated with a 
+lower level of the chemotactic cytokine IL-6. These findings suggest that 
+DUOX-derived H2O2 has an important role in signaling neutrophils into allergic 
+airways.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.freeradbiomed.2013.06.012
+PMCID: PMC3859817
+PMID: 23770197 [Indexed for MEDLINE]
+
+
+5. Thorax. 2011 Apr;66(4):333-9. doi: 10.1136/thx.2010.151431. Epub 2011 Feb 2.
+
+Rhinovirus infection liberates planktonic bacteria from biofilm and increases 
+chemokine responses in cystic fibrosis airway epithelial cells.
+
+Chattoraj SS(1), Ganesan S, Jones AM, Helm JM, Comstock AT, Bright-Thomas R, 
+LiPuma JJ, Hershenson MB, Sajjan US.
+
+Author information:
+(1)Department of Pediatrics, University of Michigan, Ann Arbor, MI, USA.
+
+BACKGROUND: Intermittent viral exacerbations in patients with cystic fibrosis 
+(CF) with chronic Pseudomonas aeruginosa (PA) infection are associated with 
+increased bacterial load. A few clinical studies suggest that rhinoviruses (RV) 
+are associated with the majority of viral-related exacerbations in CF and 
+require prolonged intravenous antibiotic treatment. These observations imply 
+that acute RV infection may increase lower respiratory symptoms by increasing 
+planktonic bacterial load. However, the underlying mechanisms are not known.
+METHODS: Primary CF airway epithelial cells differentiated into mucociliary 
+phenotype were infected with mucoid PA (MPA) followed by RV and examined for 
+bacterial density, biofilm mass, levels of chemokines and hydrogen peroxide 
+(H2O2). The need for dual oxidase 2, a component of NADPH oxidase, in RV-induced 
+generation of H2O2 in CF cells was assessed using gene-specific siRNA.
+RESULTS: Superinfection with RV increased chemokine responses in CF 
+mucociliary-differentiated airway epithelial cells with pre-existing MPA 
+infection in the form of biofilm. This was associated with the presence of 
+planktonic bacteria at both the apical and basolateral epithelial cell surfaces. 
+Further, RV-induced generation of H2O2 via dual oxidase 2 in CF cells was 
+sufficient for dispersal of planktonic bacteria from the biofilm. Inhibition of 
+NADPH oxidase reduced bacterial transmigration across mucociliary-differentiated 
+CF cells and the interleukin-8 response in MPA- and RV-infected cells.
+CONCLUSION: This study shows that acute infection with RV liberates planktonic 
+bacteria from biofilm. Planktonic bacteria, which are more proinflammatory than 
+their biofilm counterparts, stimulate increased chemokine responses in CF airway 
+epithelial cells which, in turn, may contribute to the pathogenesis of CF 
+exacerbations.
+
+DOI: 10.1136/thx.2010.151431
+PMCID: PMC3208236
+PMID: 21289024 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.
+
+
+6. Antioxid Redox Signal. 2009 Oct;11(10):2453-65. doi: 10.1089/ars.2009.2558.
+
+Mechanisms and function of DUOX in epithelia of the lung.
+
+Fischer H(1).
+
+Author information:
+(1)Children's Hospital Oakland Research Institute, Oakland, California 94609, 
+USA. hfischer@chori.org
+
+The human lung produces considerable amounts of H(2)O(2). In the normal 
+uninflamed epithelium of both the airways and the alveoli, mucosal release of 
+H(2)O(2) is readily detected both in cell cultures in vitro and in the exhaled 
+breath of humans. The dual oxidases DUOX1 and DUOX2 are the H(2)O(2)-producing 
+isoforms of the NADPH oxidase family found in epithelial cells. The DUOXs are 
+prominently expressed at the apical cell pole of ciliated cells in the airways 
+and in type II cells of the alveoli. Recent studies focused on the functional 
+consequences of H(2)O(2) release by DUOX into the lung lining fluid. In the 
+airways, a major function of DUOX is to support lactoperoxidase (LPO) to 
+generate bactericidal OSCN(-), and there are indications that the DUOX/LPO 
+defense system is critically dependent on the function of the CFTR Cl(-) 
+channel, which provides both SCN(-) (for LPO function) and HCO(3)(-) (for pH 
+adjustment) to the airway surface liquid. Although DUOX is also functional in 
+the alveolar epithelium, no comparable heme peroxidase is present in the 
+alveolus, and thus DUOX-mediated H(2)O(2) release by alveolar cells may have 
+other functions, such as cellular signaling.
+
+DOI: 10.1089/ars.2009.2558
+PMCID: PMC2823369
+PMID: 19358684 [Indexed for MEDLINE]
+
+
+7. J Cell Sci. 2009 Apr 15;122(Pt 8):1238-47. doi: 10.1242/jcs.044123.
+
+Heterodimerization controls localization of Duox-DuoxA NADPH oxidases in airway 
+cells.
+
+Luxen S(1), Noack D, Frausto M, Davanture S, Torbett BE, Knaus UG.
+
+Author information:
+(1)Department of Immunology and Microbial Science, The Scripps Research 
+Institute, La Jolla, CA 92037, USA.
+
+Duox NADPH oxidases generate hydrogen peroxide at the air-liquid interface of 
+the respiratory tract and at apical membranes of thyroid follicular cells. 
+Inactivating mutations of Duox2 have been linked to congenital hypothyroidism, 
+and epigenetic silencing of Duox is frequently observed in lung cancer. To study 
+Duox regulation by maturation factors in detail, its association with these 
+factors, differential use of subunits and localization was analyzed in a lung 
+cancer cell line and undifferentiated or polarized lung epithelial cells. We 
+show here that Duox proteins form functional heterodimers with their respective 
+DuoxA subunits, in close analogy to the phagocyte NADPH oxidase. 
+Characterization of novel DuoxA1 isoforms and mispaired Duox-DuoxA complexes 
+revealed that heterodimerization is a prerequisite for reactive oxygen species 
+production. Functional Duox1 and Duox2 localize to the leading edge of migrating 
+cells, augmenting motility and wound healing. DuoxA subunits are responsible for 
+targeting functional oxidases to distinct cellular compartments in lung 
+epithelial cells, including Duox2 expression in ciliated cells in an ex vivo 
+differentiated lung epithelium. As these locations probably define signaling 
+specificity of Duox1 versus Duox2, these findings will facilitate monitoring 
+Duox isoform expression in lung disease, a first step for early screening 
+procedures and rational drug development.
+
+DOI: 10.1242/jcs.044123
+PMCID: PMC2714442
+PMID: 19339556 [Indexed for MEDLINE]
+
+
+8. Cancer Res. 2008 Feb 15;68(4):1037-45. doi: 10.1158/0008-5472.CAN-07-5782.
+
+Silencing of DUOX NADPH oxidases by promoter hypermethylation in lung cancer.
+
+Luxen S(1), Belinsky SA, Knaus UG.
+
+Author information:
+(1)Department of Immunology, The Scripps Research Institute, La Jolla, 
+California 92037, USA.
+
+The development of lung cancer is associated with aberrant promoter methylation 
+and thus transcriptional silencing of many tumor suppressor genes or genes 
+critical for cellular maintenance. Here we report that the NADPH oxidases DUOX1 
+and DUOX2, which are one of the main sources for reactive oxygen species 
+production in the airway, are frequently silenced in human lung cancer. 
+Screening of lung cancer cell lines revealed loss of DUOX1 and DUOX2 expression, 
+which was restored after treatment with 5-aza 2'-deoxycytidine. Two genes, 
+DUOXA1 and DUOXA2, which are transcriptionally and functionally linked to DUOX, 
+also showed coordinated down-regulation in lung cancer cells and lung cancer 
+specimen. Bisulfite sequencing and methylation-specific PCR revealed that 
+CpG-rich promoter regions in both DUOX genes are hypermethylated. Epigenetic 
+modification of at least one DUOX gene was detected in 50% of primary 
+adenocarcinomas. Immunohistochemical analysis of airway sections derived from 
+cancerous and matched healthy tissues confirmed down-regulation of Duox in the 
+ciliated epithelial cells lining the respiratory tract. Reintroduction of 
+functional Duox1 into lung cancer cell lines increased cell migration and wound 
+repair without affecting cell growth. Our results suggest that an area on 
+chromosome 15 that includes DUOX1, DUOX2, and their maturation factors is a 
+frequent target for epigenetic silencing in lung cancer.
+
+DOI: 10.1158/0008-5472.CAN-07-5782
+PMID: 18281478 [Indexed for MEDLINE]
+
+
+9. Am J Respir Crit Care Med. 2007 Jan 15;175(2):174-83. doi: 
+10.1164/rccm.200607-1029OC. Epub 2006 Nov 2.
+
+A novel host defense system of airways is defective in cystic fibrosis.
+
+Moskwa P(1), Lorentzen D, Excoffon KJ, Zabner J, McCray PB Jr, Nauseef WM, Dupuy 
+C, Bánfi B.
+
+Author information:
+(1)Department of Anatomy, University of Iowa, Coralville, IA 52241, USA.
+
+Comment in
+    Am J Respir Crit Care Med. 2007 May 1;175(9):967. doi: 
+10.1164/ajrccm.175.9.967.
+
+RATIONALE: The respiratory tract is constantly exposed to airborne 
+microorganisms. Nevertheless, normal airways remain sterile without recruiting 
+phagocytes. This innate immune activity has been attributed to mucociliary 
+clearance and antimicrobial polypeptides of airway surface liquid. Defective 
+airway immunity characterizes cystic fibrosis (CF), a disease caused by 
+mutations in the CF transmembrane conductance regulator, a chloride channel. The 
+pathophysiology of defective immunity in CF remains to be elucidated.
+OBJECTIVE: We investigated the ability of non-CF and CF airway epithelia to kill 
+bacteria through the generation of reactive oxygen species (ROS).
+METHODS: ROS production and ROS-mediated bactericidal activity were determined 
+on the apical surfaces of human and rat airway epithelia and on cow tracheal 
+explants.
+MEASUREMENTS AND MAIN RESULTS: Dual oxidase enzyme of airway epithelial cells 
+generated sufficient H(2)O(2) to support production of bactericidal 
+hypothiocyanite (OSCN(-)) in the presence of airway surface liquid components 
+lactoperoxidase and thiocyanate (SCN(-)). This OSCN(-) formation eliminated 
+Staphylococcus aureus and Pseudomonas aeruginosa on airway mucosal surfaces, 
+whereas it was nontoxic to the host. In contrast to normal epithelia, CF 
+epithelia failed to secrete SCN(-), thereby rendering the oxidative 
+antimicrobial system inactive.
+CONCLUSIONS: These data indicate a novel innate defense mechanism of airways 
+that kills bacteria via ROS and suggest a new cellular and molecular basis for 
+defective airway immunity in CF.
+
+DOI: 10.1164/rccm.200607-1029OC
+PMCID: PMC2720149
+PMID: 17082494 [Indexed for MEDLINE]

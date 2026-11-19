@@ -1,0 +1,106 @@
+1. Alcohol Clin Exp Res. 2018 Dec;42(12):2360-2368. doi: 10.1111/acer.13905. Epub 
+2018 Nov 11.
+
+A Whole Methylome Study of Ethanol Exposure in Brain and Blood: An Exploration 
+of the Utility of Peripheral Blood as Proxy Tissue for Brain in Alcohol 
+Methylation Studies.
+
+Clark SL(1)(2), Costin BN(3), Chan RF(2), Johnson AW(1), Xie L(2), Jurmain 
+JL(3), Kumar G(2), Shabalin AA(2), Pandey AK(4), Aberg KA(2), Miles MF(3), van 
+den Oord E(2).
+
+Author information:
+(1)Department of Psychology , Michigan State University, East Lansing, Michigan.
+(2)Center for Biomarker Research and Precision Medicine , Virginia Commonwealth 
+University, Richmond, Virginia.
+(3)Department of Pharmacology and Toxicology , Virginia Commonwealth University, 
+Richmond, Virginia.
+(4)Department of Anatomy and Neurobiology , Center for Integrative and 
+Translational Genomics, University of Tennessee Health Science Center, Memphis, 
+Tennessee.
+
+BACKGROUND: Recent reviews have highlighted the potential use of blood-based 
+methylation biomarkers as diagnostic and prognostic tools of current and future 
+alcohol use and addiction. Due to the substantial overlap that often exists 
+between methylation patterns across different tissues, including blood and 
+brain, blood-based methylation may track methylation changes in brain; however, 
+little work has explored the overlap in alcohol-related methylation in these 
+tissues.
+METHODS: To study the effects of alcohol on the brain methylome and identify 
+possible biomarkers of these changes in blood, we performed a methylome-wide 
+association study in brain and blood from 40 male DBA/2J mice that received 
+either an acute ethanol (EtOH) or saline intraperitoneal injection. To 
+investigate all 22 million CpGs in the mouse genome, we enriched for the 
+methylated genomic fraction using methyl-CpG binding domain (MBD) protein 
+capture followed by next-generation sequencing (MBD-seq). We performed 
+association tests in blood and brain separately followed by enrichment testing 
+to determine whether there was overlapping alcohol-related methylation in the 2 
+tissues.
+RESULTS: The top result for brain was a CpG located in an intron of Ttc39b 
+(p = 5.65 × 10-08 ), and for blood, the top result was located in Espnl 
+(p = 5.11 × 10-08 ). Analyses implicated pathways involved in inflammation and 
+neuronal differentiation, such as CXCR4, IL-7, and Wnt signaling. Enrichment 
+tests indicated significant overlap among the top results in brain and blood. 
+Pathway analyses of the overlapping genes converge on MAPKinase signaling 
+(p = 5.6 × 10-05 ) which plays a central role in acute and chronic responses to 
+alcohol and glutamate receptor pathways, which can regulate neuroplastic changes 
+underlying addictive behavior.
+CONCLUSIONS: Overall, we have shown some methylation changes in brain and blood 
+after acute EtOH administration and that the changes in blood partly mirror the 
+changes in brain suggesting the potential for DNA methylation in blood to be 
+biomarkers of alcohol use.
+
+© 2018 by the Research Society on Alcoholism.
+
+DOI: 10.1111/acer.13905
+PMCID: PMC6286207
+PMID: 30320886 [Indexed for MEDLINE]
+
+
+2. Int J Biochem Cell Biol. 2015 Mar;60:99-111. doi: 10.1016/j.biocel.2014.12.024. 
+Epub 2015 Jan 10.
+
+Identification of stage-specific markers during differentiation of hair cells 
+from mouse inner ear stem cells or progenitor cells in vitro.
+
+Liu Q(1), Chen J(1), Gao X(2), Ding J(1), Tang Z(1), Zhang C(1), Chen J(1), Li 
+L(1), Chen P(3), Wang J(4).
+
+Author information:
+(1)Institute of Cell and Development, College of Life Sciences, Zhejiang 
+University, Hangzhou 310058, PR China.
+(2)Laboratory of Bone Marrow, The First Hospital, Zhejiang University, Hangzhou, 
+Zhejiang 310006, PR China.
+(3)Institute of Cell and Development, College of Life Sciences, Zhejiang 
+University, Hangzhou 310058, PR China; Departments of Cell Biology and 
+Otolaryngology, Emory University School of Medicine, Atlanta, GA 30322, United 
+States.
+(4)Institute of Cell and Development, College of Life Sciences, Zhejiang 
+University, Hangzhou 310058, PR China. Electronic address: wjfu@zju.edu.cn.
+
+The induction of inner ear hair cells from stem cells or progenitor cells in the 
+inner ear proceeds through a committed inner ear sensory progenitor cell stage 
+prior to hair cell differentiation. To increase the efficacy of inducing inner 
+ear hair cell differentiation from the stem cells or progenitor cells, it is 
+essential to identify comprehensive markers for the stem cells/progenitor cells 
+from the inner ear, the committed inner ear sensory progenitor cells and the 
+differentiating hair cells to optimize induction conditions. Here, we report 
+that we efficiently isolated and expanded the stem cells or progenitor cells 
+from postnatal mouse cochleae, and induced the generation of inner ear 
+progenitor cells and subsequent differentiation of hair cells. We profiled the 
+gene expression of the stem cells or progenitor cells, the inner ear progenitor 
+cells, and hair cells using aRNA microarray analysis. The pathway and gene 
+ontology (GO) analysis of differentially expressed genes was performed. Analysis 
+of genes exclusively detected in one particular cellular population revealed 30, 
+38, and 31 genes specific for inner ear stem cells, inner ear progenitor cells, 
+and hair cells, respectively. We further examined the expression of these genes 
+in vivo and determined that Gdf10+Ccdc121, Tmprss9+Orm1, and Chrna9+Espnl are 
+marker genes specific for inner ear stem cells, inner ear progenitor cells, and 
+differentiating hair cells, respectively. The identification of these marker 
+genes will likely help the effort to increase the efficacy of hair cell 
+induction from the stem cells or progenitor cells.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biocel.2014.12.024
+PMID: 25582750 [Indexed for MEDLINE]

@@ -1,0 +1,68 @@
+1. J Cell Sci. 2009 Apr 15;122(Pt 8):1238-47. doi: 10.1242/jcs.044123.
+
+Heterodimerization controls localization of Duox-DuoxA NADPH oxidases in airway 
+cells.
+
+Luxen S(1), Noack D, Frausto M, Davanture S, Torbett BE, Knaus UG.
+
+Author information:
+(1)Department of Immunology and Microbial Science, The Scripps Research 
+Institute, La Jolla, CA 92037, USA.
+
+Duox NADPH oxidases generate hydrogen peroxide at the air-liquid interface of 
+the respiratory tract and at apical membranes of thyroid follicular cells. 
+Inactivating mutations of Duox2 have been linked to congenital hypothyroidism, 
+and epigenetic silencing of Duox is frequently observed in lung cancer. To study 
+Duox regulation by maturation factors in detail, its association with these 
+factors, differential use of subunits and localization was analyzed in a lung 
+cancer cell line and undifferentiated or polarized lung epithelial cells. We 
+show here that Duox proteins form functional heterodimers with their respective 
+DuoxA subunits, in close analogy to the phagocyte NADPH oxidase. 
+Characterization of novel DuoxA1 isoforms and mispaired Duox-DuoxA complexes 
+revealed that heterodimerization is a prerequisite for reactive oxygen species 
+production. Functional Duox1 and Duox2 localize to the leading edge of migrating 
+cells, augmenting motility and wound healing. DuoxA subunits are responsible for 
+targeting functional oxidases to distinct cellular compartments in lung 
+epithelial cells, including Duox2 expression in ciliated cells in an ex vivo 
+differentiated lung epithelium. As these locations probably define signaling 
+specificity of Duox1 versus Duox2, these findings will facilitate monitoring 
+Duox isoform expression in lung disease, a first step for early screening 
+procedures and rational drug development.
+
+DOI: 10.1242/jcs.044123
+PMCID: PMC2714442
+PMID: 19339556 [Indexed for MEDLINE]
+
+
+2. Cancer Res. 2008 Feb 15;68(4):1037-45. doi: 10.1158/0008-5472.CAN-07-5782.
+
+Silencing of DUOX NADPH oxidases by promoter hypermethylation in lung cancer.
+
+Luxen S(1), Belinsky SA, Knaus UG.
+
+Author information:
+(1)Department of Immunology, The Scripps Research Institute, La Jolla, 
+California 92037, USA.
+
+The development of lung cancer is associated with aberrant promoter methylation 
+and thus transcriptional silencing of many tumor suppressor genes or genes 
+critical for cellular maintenance. Here we report that the NADPH oxidases DUOX1 
+and DUOX2, which are one of the main sources for reactive oxygen species 
+production in the airway, are frequently silenced in human lung cancer. 
+Screening of lung cancer cell lines revealed loss of DUOX1 and DUOX2 expression, 
+which was restored after treatment with 5-aza 2'-deoxycytidine. Two genes, 
+DUOXA1 and DUOXA2, which are transcriptionally and functionally linked to DUOX, 
+also showed coordinated down-regulation in lung cancer cells and lung cancer 
+specimen. Bisulfite sequencing and methylation-specific PCR revealed that 
+CpG-rich promoter regions in both DUOX genes are hypermethylated. Epigenetic 
+modification of at least one DUOX gene was detected in 50% of primary 
+adenocarcinomas. Immunohistochemical analysis of airway sections derived from 
+cancerous and matched healthy tissues confirmed down-regulation of Duox in the 
+ciliated epithelial cells lining the respiratory tract. Reintroduction of 
+functional Duox1 into lung cancer cell lines increased cell migration and wound 
+repair without affecting cell growth. Our results suggest that an area on 
+chromosome 15 that includes DUOX1, DUOX2, and their maturation factors is a 
+frequent target for epigenetic silencing in lung cancer.
+
+DOI: 10.1158/0008-5472.CAN-07-5782
+PMID: 18281478 [Indexed for MEDLINE]

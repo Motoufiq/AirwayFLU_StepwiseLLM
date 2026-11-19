@@ -1,0 +1,2698 @@
+1. Front Immunol. 2024 Oct 9;15:1446424. doi: 10.3389/fimmu.2024.1446424. 
+eCollection 2024.
+
+The β(2)-adrenergic biased agonist nebivolol inhibits the development of Th17 
+and the response of memory Th17 cells in an NF-κB-dependent manner.
+
+Hajiaghayi M(1), Gholizadeh F(1), Han E(2), Little SR(3), Rahbari N(3), Ardila 
+I(1), Lopez Naranjo C(1), Tehranimeh K(2), Shih SCC(3), Darlington PJ(1)(2).
+
+Author information:
+(1)Department of Biology, Concordia University, Montréal, QC, Canada.
+(2)Department of Health, Kinesiology and Applied Physiology, Concordia 
+University, Montréal QC, Canada.
+(3)Department of Electrical and Computer Engineering, Concordia University, 
+Center of Applied Synthetic Biology, Montréal, QC, Canada.
+
+INTRODUCTION: Adrenergic receptors regulate metabolic, cardiovascular, and 
+immunological functions in response to the sympathetic nervous system. The 
+effect of β2-adrenergic receptor (AR) as a high expression receptor on different 
+subpopulations of T cells is complex and varies depending on the type of ligand 
+and context. While traditional β2-AR agonists generally suppress T cells, they 
+potentially enhance IL-17A production by Th17 cells. The effects of 
+pharmacological drugs that count as biased agonists of AR like nebivolol are not 
+completely understood. We investigated the impact of nebivolol on human memory 
+CD4+ T (Th1, Th2, Th17) cells and polarized naive Th17 cells, highlighting its 
+potential for IL-17A suppression via a non-canonical β2-AR cell signaling 
+pathway.
+METHODS: The effects of nebivolol were tested on healthy human peripheral blood 
+mononuclear cells, purified memory Th cells, and polarized naive Th17 cells 
+activated with anti-CD3/anti-CD28/anti-CD2 ImmunoCult reagent. IFN-γ, IL-4, and 
+IL-17A, which are primarily derived from Th1, Th2, and Th17 cells, respectively, 
+were quantified by ELISA and flow cytometry. IL-10 was measured by ELISA. Gene 
+expression of RORC, ADRB1, ADRB2, and ADRB3 was evaluated by qPCR. The ADRB2 
+gene was knocked out in memory Th cells using CRISPR/Cas9. Protein expression of 
+phosphorylated serine133-CREB and phosphorylated NF-κB p65 was assessed by 
+Western blot. Proliferation was assessed by fluorescent dye loading and flow 
+cytometry.
+RESULTS: Nebivolol treatment decreased IL-17A and IFN-γ secretion by activated 
+memory Th cells and elevated IL-4 levels. Nebivolol reduced the proportion of 
+IL-17A+ Th cells and downregulated RORC expression. Unlike the β2-AR agonist 
+terbutaline, nebivolol inhibited the shift of naive CD4+ T cells toward the Th17 
+phenotype. IL-10 and the proliferation index remained unchanged. 
+Nebivolol-treated β2-knockout memory Th cells showed significant inhibition of 
+β2-AR-mediated signaling, evidenced by the absence of IL-17A suppression 
+compared to controls. Phosphorylation of the NF-κB p65 subunit was inhibited by 
+nebivolol, but CREB phosphorylation was not changed, suggesting a selective 
+transcriptional control.
+CONCLUSIONS: The findings demonstrate that nebivolol acts through a 
+β2-AR-mediated signaling pathway, as a distinctive anti-inflammatory agent 
+capable of selectively shifting Th17 cells and suppressing the phosphorylation 
+of NF-κB. This highlights nebivolol's potential for therapeutic interventions in 
+chronic autoimmune conditions with elevated IL-17A levels.
+
+Copyright © 2024 Hajiaghayi, Gholizadeh, Han, Little, Rahbari, Ardila, Lopez 
+Naranjo, Tehranimeh, Shih and Darlington.
+
+DOI: 10.3389/fimmu.2024.1446424
+PMCID: PMC11496295
+PMID: 39445009 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Cancer Discov. 2024 Aug 13. doi: 10.1158/2159-8290.CD-24-0287. Online ahead of 
+print.
+
+Neuro-mesenchymal interaction mediated by a β2 adrenergic-nerve growth factor 
+feedforward loop promotes colorectal cancer progression.
+
+Kobayashi H(1), Iida T(2), Ochiai Y(1), Malagola E(1), Zhi X(1), White RA(3), 
+Qian J(1), Wu F(1), Waterbury QT(1), Tu R(4), Zheng B(1), LaBella JS(1), 
+Zamechek LB(5), Ogura A(6), Woods SL(7), Worthley DL(8), Enomoto A(9), Wang 
+TC(1).
+
+Author information:
+(1)Columbia University Medical Center, New York, NY, United States.
+(2)Nagoya University Graduate School of Medicine, Nagoya, Japan.
+(3)NYU Langone's Laura and Isaac Perlmutter Cancer Center, New York, NY, United 
+States.
+(4)Union Hospital, Fuzhou, Fujian, China.
+(5)Columbia University, New York, New York, United States.
+(6)Nagoya University Graduate School of Medicine, Nagoya, Aichi, Japan.
+(7)University of Adelaide and South Australian Health and Medical Research 
+Institute, Adelaide, South Australia, Australia.
+(8)Colonoscopy Clinic, Brisbane, QLD, Australia.
+(9)Nagoya University, Nagoya, Japan.
+
+Cancer-associated fibroblasts (CAFs) and nerves, components of the tumor 
+microenvironment, have each been shown to directly promote gastrointestinal 
+cancers. However, it remains unknown whether these cells interact with each 
+other to regulate cancer progression. We found that in colorectal cancer (CRC) 
+norepinephrine induces ADRB2-dependent nerve growth factor (NGF) secretion from 
+CAFs, which in turn increases intra-tumor sympathetic innervation and 
+norepinephrine accumulation. Adrenergic stimulation accelerates CRC growth 
+through ADRA2A/Gi-mediated activation of Yes-Associated Protein (YAP). NGF from 
+CAFs directly enhances CRC cell growth via the PI3K/AKT pathway. Treatment with 
+a tropomyosin receptor kinase (Trk) inhibitor decreased YAP and AKT activation 
+and CRC progression in mice. In human CRC, high NGF expression is associated 
+with the mesenchymal-like tumor subtype and poor patient survival. These 
+findings suggest a central role for reciprocal CAF-nerve crosstalk in promoting 
+CRC progression. Blocking this feedforward loop with a Trk inhibitor may 
+represent a potential therapeutic approach for CRC.
+
+DOI: 10.1158/2159-8290.CD-24-0287
+PMID: 39137067
+
+
+3. J Oral Biosci. 2024 Sep;66(3):519-524. doi: 10.1016/j.job.2024.06.008. Epub 2024 
+Jun 24.
+
+Diurnal variation in asthma symptoms: Exploring the role of melatonin.
+
+Sasaki H(1), Mizuta K(2).
+
+Author information:
+(1)Division of Dento-oral Anesthesiology, Tohoku University Graduate School of 
+Dentistry, 4-1 Seiryo-machi, Aoba, Sendai, Miyagi, 9808575, Japan. Electronic 
+address: haruka.sasaki.e1@tohoku.ac.jp.
+(2)Division of Dento-oral Anesthesiology, Tohoku University Graduate School of 
+Dentistry, 4-1 Seiryo-machi, Aoba, Sendai, Miyagi, 9808575, Japan. Electronic 
+address: kentaro.mizuta.e6@tohoku.ac.jp.
+
+BACKGROUND: Asthma is a common chronic inflammatory disease affecting more than 
+260 million people worldwide. Nocturnal exacerbations of asthma symptoms 
+significantly affect sleep quality and contribute to the most serious asthma 
+exacerbations, which can lead to respiratory failure or death. Although 
+β2-adrenoceptor agonists are the standard of care for asthma, their 
+bronchodilatory effect for nocturnal asthma is limited, and medications that 
+specifically target symptoms of nocturnal asthma are lacking.
+HIGHLIGHT: Melatonin, which is secreted by the pineal gland, plays a crucial 
+role in regulating circadian rhythms. Peak serum melatonin concentrations, which 
+are inversely correlated with diurnal changes in pulmonary function, are higher 
+in patients with nocturnal asthma than in healthy individuals. Melatonin 
+potentiates bronchoconstriction through the melatonin MT2 receptor expressed in 
+the smooth muscles of the airway and attenuates the bronchodilatory effects of 
+β2-adrenoceptor agonists, thereby exacerbating asthma symptoms. Melatonin 
+inhibits mucus secretion and airway inflammation, potentially ameliorating 
+asthma symptoms.
+CONCLUSION: Melatonin may exacerbate or ameliorate various pathophysiological 
+conditions associated with asthma. As a potential therapeutic agent for asthma, 
+the balance between its detrimental effects on airway smooth muscles and its 
+beneficial effects on mucus production and inflammation remains unclear. Further 
+studies are needed to elucidate whether melatonin worsens or improves asthma 
+symptoms.
+
+Copyright © 2024 Japanese Association for Oral Biology. Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.job.2024.06.008
+PMID: 38925352 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. Cell Death Discov. 2023 Nov 4;9(1):407. doi: 10.1038/s41420-023-01702-9.
+
+ADRB2 inhibition combined with antioxidant treatment alleviates lung fibrosis by 
+attenuating TGFβ/SMAD signaling in lung fibroblasts.
+
+Wan R(1), Wang L(1), Duan Y(1), Zhu M(1), Li W(1), Zhao M(1), Yuan H(1), Xu 
+K(1), Li Z(1), Zhang X(2), Yu G(3).
+
+Author information:
+(1)State Key Laboratory Cell Differentiation and Regulation, Henan International 
+Joint Laboratory of Pulmonary Fibrosis, Henan center for outstanding overseas 
+scientists of pulmonary fibrosis, College of Life Science, Institute of 
+Biomedical Science, Henan Normal University, Xinxiang, Henan, 453007, China.
+(2)Zhengzhou 101 Middle School, Zhengzhou, Henan, 450000, China.
+(3)State Key Laboratory Cell Differentiation and Regulation, Henan International 
+Joint Laboratory of Pulmonary Fibrosis, Henan center for outstanding overseas 
+scientists of pulmonary fibrosis, College of Life Science, Institute of 
+Biomedical Science, Henan Normal University, Xinxiang, Henan, 453007, China. 
+guoyingyu@htu.edu.cn.
+
+Idiopathic pulmonary fibrosis is a progressive and fatal interstitial lung 
+disease with a poor prognosis and limited therapeutic options, which is 
+characterized by aberrant myofibroblast activation and pathological remodeling 
+of the extracellular matrix, while the mechanism remains elusive. In the present 
+investigation, we observed a reduction in ADRB2 expression within both IPF and 
+bleomycin-induced fibrotic lung samples, as well as in fibroblasts treated with 
+TGF-β1. ADRB2 inhibition blunted bleomycin-induced lung fibrosis. Blockage of 
+the ADRB2 suppressed proliferation, migration, and invasion and attenuated 
+TGF-β1-induced fibroblast activation. Conversely, the enhancement of ADRB2 
+expression or functionality proved capable of inducing 
+fibroblast-to-myofibroblast differentiation. Subsequent mechanistic 
+investigation revealed that inhibition of ADRB2 suppressed the activation of 
+SMAD2/3 in lung fibroblasts and increased phos-SMAD2/3 proteasome degradation, 
+and vice versa. Finally, ADRB2 inhibition combined with antioxidants showed 
+increased efficacy in the therapy of bleomycin-induced lung fibrosis. In short, 
+these data indicate that ADRB2 is involved in lung fibroblast differentiation, 
+and targeting ADRB2 could emerge as a promising and innovative therapeutic 
+approach for pulmonary fibrosis.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41420-023-01702-9
+PMCID: PMC10624856
+PMID: 37923730
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+5. Biochem Pharmacol. 2023 Sep;215:115750. doi: 10.1016/j.bcp.2023.115750. Epub 
+2023 Aug 16.
+
+RNA methylations in depression, from pathological mechanism to therapeutic 
+potential.
+
+Li C(1), Xu P(2), Huang Y(1), Wang Y(1), Wu Y(1), Li H(1), Peng Y(1), Wang X(3), 
+Li G(4), He J(5), Miao C(6).
+
+Author information:
+(1)Department of Pharmacology, School of Integrated Chinese and Western 
+Medicine, Anhui University of Chinese Medicine, Hefei, Anhui, China.
+(2)Department of Orthopedics, the First Affiliated Hospital, Anhui Medical 
+University, Hefei, Anhui, China.
+(3)Department of Clinical Nursing, Anhui University of Chinese Medicine, Hefei, 
+Anhui, China. Electronic address: wangxiao@ahtcm.edu.cn.
+(4)Department of Pharmacology, School of Integrated Chinese and Western 
+Medicine, Anhui University of Chinese Medicine, Hefei, Anhui, China. Electronic 
+address: 2017201223009@stu.ahtcm.edu.cn.
+(5)Department of Gynecology, Anhui Maternal and Child Health Hospital, Hefei, 
+Anhui, China. Electronic address: hejuanhf@163.com.
+(6)Department of Pharmacology, School of Integrated Chinese and Western 
+Medicine, Anhui University of Chinese Medicine, Hefei, Anhui, China; Institute 
+of Traditional Chinese Medicine for the Prevention and Treatment of 
+Rheumatology, Anhui University of Chinese Medicine, Hefei, Anhui, China. 
+Electronic address: miaocg@ahtcm.edu.cn.
+
+Depression is caused by a variety of factors such as genetic factors, biological 
+factors, and psychosocial factors, and the pathogenesis is complex. RNA 
+methylations and related downstream signaling pathways influence a variety of 
+biological mechanisms, including cell differentiation, tumorigenesis, sex 
+determination, and stress response. In this work, we searched the PubMed, Web of 
+Science, National Library of Science and Technology (NSTL), and ScienceDirect 
+Online (SDOL) databases to summarize the biological roles of RNA methylations 
+and their impact on the pathological mechanisms of depression. RNA methylations 
+play a key role in the development of many diseases, and current research shows 
+that RNA methylations are also closely linked to depression. RNA methylations in 
+depression mainly involve "writers" (mediating the methylation modification 
+process of RNAs), "erasers" (mediating the demethylation modification process of 
+RNA methylation). Fat Mass and Obesity Associated (FTO) influences the 
+development of depression by increasing body mass index (BMI), decreases the 
+dopamine level, inhibits the adrenoceptor beta 2 (ADRB2)-c-Myc-sirt1 pathway, 
+results in the m6A/m6Am dysregulation in brain, and may be involved in the 
+pathogenesis of depression. The study of RNA methylations in depression has 
+further deepened our understanding of the pathogenesis and development process 
+of depression, provides new perspectives for the study of the pathological 
+mechanism of depression, and provides new targets for the prevention and 
+treatment of this disease.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2023.115750
+PMID: 37595670 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Eur J Pharmacol. 2023 Jun 15;949:175718. doi: 10.1016/j.ejphar.2023.175718. Epub 
+2023 Apr 11.
+
+Beta-adrenergic receptor blocker propranolol triggers anti-tumor immunity and 
+enhances irinotecan therapy in mice colorectal cancer.
+
+Lin Y(1), Liu Y(1), Gao Z(2), Jing D(1), Bi R(1), Cui X(1), Cao Q(1), Zhao Q(1), 
+Gao R(1), Su Y(1), Liu S(1), Zhao M(1), Yang Y(1), Chen A(3), Dai B(4), Gao 
+X(5).
+
+Author information:
+(1)Center for New Drug Safety Evaluation and Research, State Key Laboratory of 
+Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, 211198, PR 
+China.
+(2)Shandong University Cancer Center, Jinan, Shandong, China; Department of 
+Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First 
+Medical University and Shandong Academy of Medical Sciences, Jinan, Shandong, 
+China.
+(3)Faculty of Chinese Medicine, Macau University of Science and Technology, 
+China.
+(4)Center for New Drug Safety Evaluation and Research, State Key Laboratory of 
+Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, 211198, PR 
+China. Electronic address: 1620184503@cpu.edu.cn.
+(5)Center for New Drug Safety Evaluation and Research, State Key Laboratory of 
+Natural Medicines, China Pharmaceutical University, Nanjing, Jiangsu, 211198, PR 
+China. Electronic address: gaoxinghua@cpu.edu.cn.
+
+Colorectal cancer (CRC) stands as the second leading cause of cancer-related 
+deaths worldwide with limited available medicines. While drug repurposing comes 
+as a promising strategy for cancer treatment, we discovered that propranolol 
+(Prop), a non-selective β1 and β2 adrenergic receptor blocker, significantly 
+inhibited the development of subcutaneous CT26 CRC and AOM/DSS-induced CRC 
+models. The RNA-seq analysis highlighted the activated immune pathways after 
+Prop treatment, with KEGG analysis enriched in T-cell differentiation. Routine 
+analyses of blood revealed a decrease in neutrophil to lymphocyte ratio, a 
+biomarker of systemic inflammation, and a prognostic indicator in the 
+Prop-treated groups in both CRC models. Analysis of the tumor-infiltrating 
+immune cells exhibited that Prop regressed the exhaustion of CD4+ and CD8+ T 
+cells in the CT26-derived graft models, which was further corroborated in the 
+AOM/DSS-induced models. Furthermore, bioinformatic analysis fitted well with the 
+experimental data, showing that β2 adrenergic receptor (ADRB2) was positively 
+correlated with T-cell exhaustion signature in various tumors. The in vitro 
+experiment showed no direct effect of Prop on CT26 cell viability, while T cells 
+were activated with significantly-upregulated production of IFN-γ and Granzyme 
+B. Consistently, Prop was unable to restrain CT26 tumor growth in nude mice. At 
+last, the combination of Prop and the chemotherapeutic drug Irinotecan acted out 
+the strongest inhibition in CT26 tumor progress. Collectively, we repurpose Prop 
+as a promising and economical therapeutic drug for CRC treatment and highlight 
+T-cell as its target.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2023.175718
+PMID: 37054937 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have declared no conflict of interest.
+
+
+7. Front Allergy. 2023 Jan 10;3:1094259. doi: 10.3389/falgy.2022.1094259. 
+eCollection 2022.
+
+Neural regulation of ILC2s in allergic airway inflammation.
+
+Thomas CM(1), Peebles RS Jr(1)(2)(3).
+
+Author information:
+(1)Division of Allergy, Pulmonary, and Critical Care Medicine, Vanderbilt 
+University Medical Center, Nashville, TN, United States.
+(2)Department of Pathology, Microbiology, and Immunology, Vanderbilt University 
+School of Medicine, Nashville, TN, United States.
+(3)Research Service, Tennessee Valley Healthcare System, United States 
+Department of Veterans Affairs, Nashville, TN, United States.
+
+The sympathetic nervous system (SNS) and parasympathetic nervous system (PNS) 
+regulate the effector functions of group 2 innate lymphoid cells (ILC2s) through 
+β2 adrenergic receptor (ADRB2) and nicotinic/muscarinic cholinergic receptor 
+signaling, respectively. To further maintain the critical balance between 
+host-protective and pathogenic type 2 inflammation in the lungs, neuropeptides 
+neuromedin B (NMB) and neuromedin U (NMU) function to suppress or promote ILC2 
+responses in synergy with IL-33/IL-25, respectively. Additionally, the release 
+of ATP into the extracellular environment in response to cell death caused by 
+challenge to the airway epithelial barrier quickly becomes converted into 
+adenosine, which helps keep the inflammatory response in check by suppressing 
+ILC2 responses. Besides neurotransmitter and neuropeptides derived from other 
+cells, ILC2s further regulate allergic airway inflammation through the 
+production of acetylcholine (ACh) and calcitonin gene-related peptide (CGRP). In 
+this article we review the neuromodulation of ILC2s through cholinergic and 
+adrenergic signaling, neuropeptides, and adenosine and its role in allergic 
+airway inflammation. Furthermore, we discuss the potential clinical utility of 
+targeting these pathways for therapeutic goals and address directions for future 
+research.
+
+© 2023 Thomas and Peebles.
+
+DOI: 10.3389/falgy.2022.1094259
+PMCID: PMC9872007
+PMID: 36704754
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+8. Cell Mol Immunol. 2023 Feb;20(2):175-188. doi: 10.1038/s41423-022-00967-x. Epub 
+2023 Jan 5.
+
+β-adrenoreceptor-triggered PKA activation negatively regulates the innate 
+antiviral response.
+
+Guo Y(1), Zhang XN(1), Su S(1), Ruan ZL(1), Hu MM(2), Shu HB(3).
+
+Author information:
+(1)Department of Infectious Diseases, Frontier Science Center for Immunology and 
+Metabolism, Medical Research Institute, Zhongnan Hospital of Wuhan University, 
+Wuhan University; College of Life Sciences, Taikang Center for Life and Medical 
+Sciences, Wuhan University; Research Unit of Innate Immune and Inflammatory 
+Diseases, Chinese Academy of Medical Sciences, Wuhan, China.
+(2)Department of Infectious Diseases, Frontier Science Center for Immunology and 
+Metabolism, Medical Research Institute, Zhongnan Hospital of Wuhan University, 
+Wuhan University; College of Life Sciences, Taikang Center for Life and Medical 
+Sciences, Wuhan University; Research Unit of Innate Immune and Inflammatory 
+Diseases, Chinese Academy of Medical Sciences, Wuhan, China. mmhu@whu.edu.cn.
+(3)Department of Infectious Diseases, Frontier Science Center for Immunology and 
+Metabolism, Medical Research Institute, Zhongnan Hospital of Wuhan University, 
+Wuhan University; College of Life Sciences, Taikang Center for Life and Medical 
+Sciences, Wuhan University; Research Unit of Innate Immune and Inflammatory 
+Diseases, Chinese Academy of Medical Sciences, Wuhan, China. shuh@whu.edu.cn.
+
+Upon viral infection, cytoplasmic pattern recognition receptors detect viral 
+nucleic acids and activate the adaptor protein VISA/MAVS- or MITA/STING-mediated 
+innate antiviral response. Whether and how the innate antiviral response is 
+regulated by neuronal endocrine functions is unclear. Here, we show that viral 
+infection reduced the serum levels of the β-adrenergic hormones epinephrine and 
+norepinephrine as well as the cellular levels of their receptors ADRB1 and 
+ADRB2. We further show that an increase in epinephrine/norepinephrine level 
+inhibited the innate antiviral response in an ADRB1-/2-dependent manner. 
+Mechanistically, epinephrine/norepinephrine stimulation activated the downstream 
+kinase PKA, which catalyzed the phosphorylation of MITA at S241, S243 and T263, 
+inhibiting MITA activation and suppressing the innate immune response to DNA 
+virus. In addition, phosphorylation of VISA at T54 by PKA antagonized the innate 
+immune response to RNA virus. These findings reveal the regulatory mechanisms of 
+innate antiviral responses by epinephrine/norepinephrine and provide a possible 
+explanation for increased host susceptibility to viral infection in stressful 
+and anxiety-promoting situations.
+
+© 2022. The Author(s), under exclusive licence to CSI and USTC.
+
+DOI: 10.1038/s41423-022-00967-x
+PMCID: PMC9886936
+PMID: 36600052 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+9. JCI Insight. 2022 Nov 22;7(22):e164944. doi: 10.1172/jci.insight.164944.
+
+Airway surface hyperviscosity and defective mucociliary transport by IL-17/TNF-α 
+are corrected by β-adrenergic stimulus.
+
+Guidone D(1), Buccirossi M(1), Scudieri P(2)(3), Genovese M(1), Sarnataro S(1), 
+De Cegli R(1), Cresta F(4), Terlizzi V(5), Planelles G(6)(7), Crambert G(6)(7), 
+Sermet I(8), Galietta LJ(1)(9).
+
+Author information:
+(1)Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, Italy.
+(2)U.O.C. Genetica Medica, IRCCS Istituto Giannina Gaslini, Genova, Italy.
+(3)Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health (DINOGMI), University of Genova, Genova, Italy.
+(4)Centro Fibrosi Cistica, IRCCS Istituto Giannina Gaslini, Genova, Italy.
+(5)Meyer Children's Hospital, Cystic Fibrosis Regional Reference Center, 
+Department of Paediatric Medicine, Firenze, Italy.
+(6)Centre de Recherche des Cordeliers, INSERM UMRS 1138, Sorbonne Université, 
+Université Paris Cité, Paris, France.
+(7)CNRS EMR 8228, Paris, France.
+(8)Institut Necker Enfants Malades/INSERM U1151, Paris, France.
+(9)Department of Translational Medical Sciences (DISMET), University of Napoli 
+"Federico II", Napoli, Italy.
+
+The fluid covering the surface of airway epithelia represents a first barrier 
+against pathogens. The chemical and physical properties of the airway surface 
+fluid are controlled by the activity of ion channels and transporters. In cystic 
+fibrosis (CF), loss of CFTR chloride channel function causes airway surface 
+dehydration, bacterial infection, and inflammation. We investigated the effects 
+of IL-17A plus TNF-α, 2 cytokines with relevant roles in CF and other chronic 
+lung diseases. Transcriptome analysis revealed a profound change with 
+upregulation of several genes involved in ion transport, antibacterial defense, 
+and neutrophil recruitment. At the functional level, bronchial epithelia treated 
+in vitro with the cytokine combination showed upregulation of ENaC channel, 
+ATP12A proton pump, ADRB2 β-adrenergic receptor, and SLC26A4 anion exchanger. 
+The overall result of IL-17A/TNF-α treatment was hyperviscosity of the airway 
+surface, as demonstrated by fluorescence recovery after photobleaching (FRAP) 
+experiments. Importantly, stimulation with a β-adrenergic agonist switched 
+airway surface to a low-viscosity state in non-CF but not in CF epithelia. Our 
+study suggests that CF lung disease is sustained by a vicious cycle in which 
+epithelia cannot exit from the hyperviscous state, thus perpetuating the 
+proinflammatory airway surface condition.
+
+DOI: 10.1172/jci.insight.164944
+PMCID: PMC9746827
+PMID: 36219481 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have declared 
+that no conflict of interest exists.
+
+
+10. Int J Mol Sci. 2022 Sep 6;23(18):10257. doi: 10.3390/ijms231810257.
+
+Psychostimulants Modafinil, Atomoxetine and Guanfacine Impair Bone Cell 
+Differentiation and MSC Migration.
+
+Wagener N(1), Lehmann W(1), Weiser L(1), Jäckle K(1), Di Fazio P(2), Schilling 
+AF(1), Böker KO(1).
+
+Author information:
+(1)Department of Trauma Surgery, Orthopedics and Plastic Surgery, University 
+Medical Center Goettingen, Robert-Koch-Str. 40, 37099 Göttingen, Germany.
+(2)Department of Visceral Thoracic and Vascular Surgery, Philipps University 
+Marburg, Baldingerstraße, 35043 Marburg, Germany.
+
+Attention deficit hyperactivity disorder (ADHD) is one of the most common 
+worldwide mental disorders in children, young and adults. If left untreated, the 
+disorder can continue into adulthood. The abuse of ADHD-related drugs to improve 
+mental performance for studying, working and everyday life is also rising. The 
+potentially high number of subjects with controlled or uncontrolled use of such 
+substances increases the impact of possible side effects. It has been shown 
+before that the early ADHD drug methylphenidate influences bone metabolism 
+negatively. This study focused on the influence of three more recent cognitive 
+enhancers, modafinil, atomoxetine and guanfacine, on the differentiation of 
+mesenchymal stem cells to osteoblasts and on their cell functions, including 
+migration. Human mesenchymal stem cells (hMSCs) were incubated with a 
+therapeutic plasma dosage of modafinil, atomoxetine and guanfacine. Gene 
+expression analyses revealed a high beta-2 adrenoreceptor expression in hMSC, 
+suggesting it as a possible pathway to stimulate action. In bone formation 
+assays, all three cognitive enhancers caused a significant decrease in the 
+mineralized matrix and an early slight reduction of cell viability without 
+triggering apoptosis or necrosis. While there was no effect of the three 
+substances on early differentiation, they showed differing effects on the 
+expression of osterix (OSX), receptor activator of NF-κB ligand (RANKL) and 
+osteoprotegerin (OPG) in the later stages of osteoblast development, suggesting 
+alternative modes of action. All three substances significantly inhibited hMSC 
+migration. This effect could be rescued by a selective beta-blocker (Imperial 
+Chemical Industries ICI-118,551) in modafinil and atomoxetine, suggesting 
+mediation via beta-2 receptor stimulation. In conclusion, modafinil, atomoxetine 
+and guanfacine negatively influence hMSC differentiation to bone-forming 
+osteoblasts and cell migration through different intracellular pathways.
+
+DOI: 10.3390/ijms231810257
+PMCID: PMC9499654
+PMID: 36142172 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. All 
+authors have read and agreed to the published version of the manuscript.
+
+
+11. Bull Exp Biol Med. 2022 Aug;173(4):486-489. doi: 10.1007/s10517-022-05566-4. 
+Epub 2022 Sep 5.
+
+Airway Smooth Muscles Contractions in Metabolic Syndrome.
+
+Birulina YG(1), Ivanov VV(2), Buiko EE(2), Dzyuman AN(2), Nosarev AV(2), 
+Voronkova OV(2), Vol'khina MO(2), Gusakova SV(2).
+
+Author information:
+(1)Siberian State Medical University, Ministry of Health of the Russian 
+Federation, Tomsk, Russia. birulina20@yandex.ru.
+(2)Siberian State Medical University, Ministry of Health of the Russian 
+Federation, Tomsk, Russia.
+
+We studied contractile responses of isolated airway smooth muscle segments from 
+rats with metabolic syndrome. Metabolic syndrome was induced in rats by high-fat 
+and high-carbohydrate diet. It was shown that metabolic syndrome was associated 
+with an increase of bronchoconstrictor action of cholinergic receptor activator 
+carbacholine (0.1-100 μM) and a decrease of the dilatory effect of 
+β2-adrenoreceptor activator salbutamol (0.1-100 μM). The observed effects of 
+agonists are epithelium-dependent. Disorders in contractile activity in the 
+airway smooth muscles were accompanied by bronchial epithelium destruction, 
+immune inflammation in the bronchial wall, muscular and peribronchial adipose 
+tissue hypertrophy.
+
+© 2022. Springer Science+Business Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10517-022-05566-4
+PMID: 36058975 [Indexed for MEDLINE]
+
+
+12. Eur J Pharmacol. 2021 Nov 15;911:174515. doi: 10.1016/j.ejphar.2021.174515. Epub 
+2021 Sep 20.
+
+β1-adrenergic receptor but not β2 mediates osteogenic differentiation of bone 
+marrow mesenchymal stem cells in normotensive and hypertensive rats.
+
+Alves Barreto AE(1), Balera Brito VG(1), Patrocinio MS(2), Ballassoni BB(2), 
+Tfaile Frasnelli SC(2), Penha Oliveira SH(3).
+
+Author information:
+(1)Department of Basic Sciences, School of Dentistry of Araçatuba, São Paulo 
+State University (UNESP), São Paulo, Brazil; Programa Multicêntrico de 
+Pós-Graduação em Ciências Fisiológicas - SBFis/UNESP, Brazil; Department of 
+Basic Sciences, São Paulo State University (UNESP), School of Dentistry of 
+Araçatuba, São Paulo, Brazil.
+(2)Department of Basic Sciences, School of Dentistry of Araçatuba, São Paulo 
+State University (UNESP), São Paulo, Brazil.
+(3)Department of Basic Sciences, School of Dentistry of Araçatuba, São Paulo 
+State University (UNESP), São Paulo, Brazil; Programa Multicêntrico de 
+Pós-Graduação em Ciências Fisiológicas - SBFis/UNESP, Brazil; Department of 
+Basic Sciences, São Paulo State University (UNESP), School of Dentistry of 
+Araçatuba, São Paulo, Brazil. Electronic address: sandra.hp.oliveira@unesp.br.
+
+The sympathetic nervous system regulates bone remodeling via adrenergic 
+receptors on the surface of bone cells. Herein, we evaluated the role of 
+beta-adrenergic receptors (ADRBs) in osteoblastic differentiation of bone marrow 
+mesenchymal stem cells (BMSCs) derived from normotensive (Wistar) and 
+spontaneously hypertensive rats (SHRs). BMSCs were cultured in a proliferation 
+medium or osteogenic medium (OM). Cells cultured in OM were treated with 
+carvedilol (Cv) or nebivolol (Nb).In OM, cell proliferation was decreased in 
+both strains. In Wistar rats, Cv increased BMSC proliferation and increased 
+alkaline phosphatase (ALP) activity in OM. Both Cv and Nb decreased ALP 
+activity. In addition, Cv and Nb reduced mineral deposition in Wistar rats. 
+Moreover, NB decreased mineralization in SHRs, exhibiting superior efficacy. In 
+OM, cells from Wistar rats and SHRs showed Adrb1 and Adrb2 expression. On day 7, 
+Nb, but not Cv, reduced Adrb1 levels in BMSCs from Wistar rats. Nb inhibited 
+Adrb2 in both strains, and Cv demonstrated superior efficacy. In BMSCs from 
+Wistar rats, both antagonists inhibited Runx2, osterix, and β-catenin; in SHRs, 
+Cv and Nb inhibited only osterix. Cv decreased osteopontin (Opn), osteocalcin 
+(Ocn), and bone morphogenetic protein (Bmp2) in BMSCs from Wistar rats, 
+inhibiting only Opn in SHRs. Nb effectively inhibited Ocn, bone sialoprotein, 
+and Bmp2, but not Ocn, in BMSCs from Wistar rats, while suppressing Opn in BMSCs 
+from SHRs. In addition, Nb inhibited p-p38 in BMSCs from Wistar rats; Cv 
+inhibited p-p38 in BMSCs from SHRs. In Wistar rats, both antagonists inhibited 
+p-ERK and reduced p-JNK; Cv reduced these expressions only in SHRs. In 
+conclusion, ADRB1, but not ADRB2, could be involved in the osteogenic 
+differentiation of BMSCs from Wistar rats and SHRs. The high ADRB1 expression 
+might suppress the effect of ADRB2 on BMSCs.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ejphar.2021.174515
+PMID: 34555397 [Indexed for MEDLINE]
+
+
+13. J Leukoc Biol. 2022 Jan;111(1):209-221. doi: 10.1002/JLB.3RU0121-023R. Epub 2021 
+Apr 15.
+
+Neuroimmune regulatory networks of the airway mucosa in allergic inflammatory 
+disease.
+
+Jean EE(1), Good O(1), Rico JMI(1), Rossi HL(1), Herbert DR(1).
+
+Author information:
+(1)Department of Pathobiology, University of Pennsylvania School of Veterinary 
+Medicine, Philadelphia, Pennsylvania, USA.
+
+Communication between the nervous and immune systems serves a key role in 
+host-protective immunity at mucosal barrier sites including the respiratory 
+tract. In these tissues, neuroimmune interactions operate in bidirectional 
+circuits that can sense and respond to mechanical, chemical, and biologic 
+stimuli. Allergen- or helminth-induced products can produce airway inflammation 
+by direct action on nociceptive afferents and adjacent tissues. The activity of 
+nociceptive afferents can regulate innate and adaptive immune responses via 
+neuropeptides and neurotransmitter signaling. This review will summarize recent 
+work investigating the role of neuropeptides CGRP, VIP, neuromedins, substance 
+P, and neurotransmitters dopamine and the B2-adrenoceptor agonists 
+epinepherine/norepinepherine, each of which influence type 2 immunity by 
+instructing mast cell, innate lymphoid cell type 2, dendritic cell, and T cell 
+responses, both in the airway and the draining lymph node. Afferents in the 
+airway also contain receptors for alarmins and cytokines, allowing their 
+activity to be modulated by immune cell secreted products, particularly those 
+secreted by mast cells. Taken together, we propose that further investigation of 
+how immunoregulatory neuropeptides shape respiratory inflammation in 
+experimental systems may reveal novel therapeutic targets for addressing the 
+increasing prevalence of chronic airway disease in humans.
+
+© 2021 The Authors. Journal of Leukocyte Biology published by Wiley Periodicals 
+LLC on behalf of Society for Leukocyte Biology.
+
+DOI: 10.1002/JLB.3RU0121-023R
+PMCID: PMC8674821
+PMID: 33857344 [Indexed for MEDLINE]
+
+
+14. Respir Res. 2021 Feb 23;22(1):65. doi: 10.1186/s12931-021-01659-2.
+
+Olodaterol exerts anti-inflammatory effects on COPD airway epithelial cells.
+
+Yang N(#)(1), Singhera GK(#)(1), Yan YX(1), Pieper MP(2), Leung JM(1), Sin 
+DD(1), Dorscheid DR(3).
+
+Author information:
+(1)Center for Heart Lung Innovation, St. Paul's Hospital, University of British 
+Columbia, Vancouver, BC, Canada.
+(2)Boehringer Ingelheim Pharma GmbH & Co. KG, Ingelheim am Rhein, Germany.
+(3)Center for Heart Lung Innovation, St. Paul's Hospital, University of British 
+Columbia, Vancouver, BC, Canada. del.dorscheid@hli.ubc.ca.
+(#)Contributed equally
+
+BACKGROUND: Airway inflammation is a key feature of chronic obstructive 
+pulmonary disease (COPD) and inhaled corticosteroids (ICS) remain the main 
+treatment for airway inflammation. Studies have noted the increased efficacy of 
+ICS and long-acting beta 2 agonist (LABA) combination therapy in controlling 
+exacerbations and improving airway inflammation than either monotherapy. Further 
+studies have suggested that LABAs may have inherent anti-inflammatory potential, 
+but this has not been well-studied.
+OBJECTIVE: We hypothesize that the LABA olodaterol can inhibit airway 
+inflammation resulting from exposure to respiratory syncytial virus (RSV) via 
+its binding receptor, the β2-adrenergic receptor.
+METHODS: Human bronchial epithelial brushing from patients with and without COPD 
+were cultured into air-liquid interface (ALI) cultures and treated with or 
+without olodaterol and RSV infection to examine the effect on markers of 
+inflammation including interleukin-8 (IL-8) and mucus secretion. The cell line 
+NCI-H292 was utilized for gene silencing of the β2-adrenergic receptor via siRNA 
+as well as receptor blocking via ICI 118,551 and butaxamine.
+RESULTS: At baseline, COPD-ALIs produced greater amounts of IL-8 than control 
+ALIs. Olodaterol reduced RSV-mediated IL-8 secretion in both COPD and control 
+ALIs and also significantly reduced Muc5AC staining in COPD-ALIs infected with 
+RSV. A non-significant reduction was seen in control ALIs. Gene silencing of the 
+β2-adrenergic receptor in NCI-H292 negated the ability of olodaterol to inhibit 
+IL-8 secretion from both RSV infection and lipopolysaccharide stimulus, as did 
+blocking of the receptor with ICI 118,551 and butaxamine.
+CONCLUSIONS: Olodaterol exhibits inherent anti-inflammatory properties on the 
+airway epithelium, in addition to its bronchodilation properties, that is 
+mediated through the β2-adrenergic receptor and independent of ICS usage.
+
+DOI: 10.1186/s12931-021-01659-2
+PMCID: PMC7901009
+PMID: 33622325 [Indexed for MEDLINE]
+
+Conflict of interest statement: MP is an employee of Boehringer Ingelheim, which 
+supported this study. DS has received honoraria for speaking engagements from 
+Astrazeneca, Boehringer Ingelheim and Novartis and received research funding 
+from Astrazeneca, Boehringer Ingelheim and Merck. The other authors declare no 
+relevant conflicts of interest.
+
+
+15. Int J Biochem Cell Biol. 2021 Apr;133:105936. doi: 10.1016/j.biocel.2021.105936. 
+Epub 2021 Jan 30.
+
+Interactions between ABCC4/MRP4 and ABCC7/CFTR in human airway epithelial cells 
+in lung health and disease.
+
+Nguyen JP(1), Kim Y(1), Cao Q(1), Hirota JA(2).
+
+Author information:
+(1)Department of Medicine, McMaster University, Canada; Firestone Institute for 
+Respiratory Health, St. Joseph's Hospital, Canada.
+(2)Department of Medicine, McMaster University, Canada; Firestone Institute for 
+Respiratory Health, St. Joseph's Hospital, Canada; McMaster Immunology Research 
+Centre, McMaster University, Canada; Department of Biology, University of 
+Waterloo, Canada; Department of Medicine, University of British Columbia, 
+Canada. Electronic address: hirotaja@mcmaster.ca.
+
+ATP binding cassette (ABC) transporters are present in all three domains of life 
+- Archaea, Bacteria, and Eukarya. The conserved nature is a testament to the 
+importance of these transporters in regulating endogenous and exogenous 
+substrates required for life to exist. In humans, 49 ABC transporters have been 
+identified to date with broad expression in different lung cell types with 
+multiple transporter family members contributing to lung health and disease. The 
+ABC transporter most commonly known to be linked to lung pathology is ABCC7, 
+also known as cystic fibrosis transmembrane conductance regulator - CFTR. 
+Closely related to the CFTR genomic sequence is ABCC4/multi-drug resistance 
+protein-4. Genomic proximity is shared with physical proximity, with ABCC4 and 
+CFTR physically coupled in cell membrane microenvironments of epithelial cells 
+to orchestrate functional consequences of cyclic-adenosine monophosphate 
+(cAMP)-dependent second messenger signaling and extracellular transport of 
+endogenous and exogenous substrates. The present concise review summarizes the 
+emerging data defining a role of the (ABCC7/CFTR)-ABCC4 macromolecular complex 
+in human airway epithelial cells as a physiologically important pathway capable 
+of impacting endogenous and exogenous mediator transport and ion transport in 
+both lung health and disease.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biocel.2021.105936
+PMID: 33529712 [Indexed for MEDLINE]
+
+
+16. Drug Discov Today. 2021 Mar;26(3):690-703. doi: 10.1016/j.drudis.2020.12.001. 
+Epub 2020 Dec 7.
+
+Allosteric binding sites at the receptor-lipid bilayer interface: novel targets 
+for GPCR drug discovery.
+
+Wang Y(1), Yu Z(2), Xiao W(2), Lu S(3), Zhang J(4).
+
+Author information:
+(1)Department of Pathophysiology, Key Laboratory of Cell Differentiation and 
+Apoptosis of Chinese Ministry of Education, Shanghai Jiao Tong University, 
+School of Medicine, Shanghai, 200025, China.
+(2)Nutshell Biotechnology Co., Ltd., Shanghai, China.
+(3)Department of Pathophysiology, Key Laboratory of Cell Differentiation and 
+Apoptosis of Chinese Ministry of Education, Shanghai Jiao Tong University, 
+School of Medicine, Shanghai, 200025, China; Medicinal Chemistry and 
+Bioinformatics Center, Shanghai Jiao Tong University School of Medicine, 
+Shanghai 200025, China; State Key Laboratory of Oncogenes and Related Genes, 
+Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 
+200127, China. Electronic address: lushaoyong@yeah.net.
+(4)Department of Pathophysiology, Key Laboratory of Cell Differentiation and 
+Apoptosis of Chinese Ministry of Education, Shanghai Jiao Tong University, 
+School of Medicine, Shanghai, 200025, China; Medicinal Chemistry and 
+Bioinformatics Center, Shanghai Jiao Tong University School of Medicine, 
+Shanghai 200025, China; State Key Laboratory of Oncogenes and Related Genes, 
+Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 
+200127, China. Electronic address: jian.zhang@sjtu.edu.cn.
+
+As a superfamily of membrane receptors, G-protein-coupled receptors (GPCRs) have 
+significant roles in human physiological processes, including cell 
+proliferation, metabolism, and neuromodulation. GPCRs are vital targets of 
+therapeutic drugs, and their allosteric regulation represents a novel direction 
+for drug discovery. Given the numerous breakthroughs in structural biology, 
+diverse allosteric sites on GPCRs have been identified within the extracellular 
+and intracellular loops, and the seven core transmembrane helices. However, a 
+unique type of allosteric site has also been discovered at the interface of the 
+receptor-lipid bilayer, similar to the β2-adrenergic receptor. Here, we review 
+recent identifications of these allosteric sites and the detailed 
+modulator-target interactions within the interface for each modulator to 
+highlight the role of lipids in GPCR allosteric drug discovery.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.drudis.2020.12.001
+PMID: 33301977 [Indexed for MEDLINE]
+
+
+17. Front Endocrinol (Lausanne). 2020 Oct 21;11:516213. doi: 
+10.3389/fendo.2020.516213. eCollection 2020.
+
+A Comprehensive Analysis of MicroRNAs in Human Osteoporosis.
+
+Huai Y(1)(2)(3), Zhang W(1)(2)(3), Chen Z(1)(2)(3), Zhao F(1)(2)(3), Wang 
+W(1)(2)(3), Dang K(1)(2)(3), Xue K(1)(2)(3), Gao Y(1)(2)(3), Jiang S(1)(2)(3), 
+Miao Z(1)(2)(3), Li M(4), Hao Q(4), Chen C(5), Qian A(1)(2)(3).
+
+Author information:
+(1)Lab for Bone Metabolism, Key Lab for Space Biosciences and Biotechnology, 
+School of Life Sciences, Northwestern Polytechnical University, Xi'an, China.
+(2)Research Center for Special Medicine and Health Systems Engineering, School 
+of Life Sciences, Northwestern Polytechnical University, Xi'an, China.
+(3)NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, 
+Northwestern Polytechnical University, Xi'an, China.
+(4)State Key Laboratory of Cancer Biology, Biotechnology Center, School of 
+Pharmacy, Fourth Military Medical University, Xi'an, China.
+(5)Clinical Laboratory of Honghui Hospital, Xi'an JiaoTong University College of 
+Medicine, Xi'an, China.
+
+MicroRNAs (miRNAs) are single-stranded RNA molecules that control gene 
+expression in various processes, such as cancers, Alzheimer's disease, and bone 
+metabolic diseases. However, the regulatory roles of miRNAs in osteoporosis have 
+not been systematically analyzed. Here, we performed a comprehensive analysis to 
+identify the differentially expressed miRNAs involved in osteoporosis. MiRNAs 
+associated with osteoporosis were collected through literature retrieval and 
+further screened based on specific inclusion and exclusion criteria. The 
+osteoporosis therapeutic targets of miRNAs were obtained by the integration of 
+miRWalk 3.0 database and five human disease therapeutic target databases. Then, 
+the network analysis and functional enrichment analysis of miRNAs and their 
+targets were performed. As a result, 11 eligible miRNAs were identified highly 
+associated with osteoporosis. MiRNA-mRNA network demonstrated there were the 
+complex mutual interactions between miRNAs and their targets. Besides, ADRB2, 
+AR, ESR1, FGFR1, TRAF6, etc., were identified as the top hub genes in 
+protein-protein interaction (PPI) network. Functional enrichment analysis 
+revealed that miRNAs and their targets were mainly mapped on processes 
+associated with bone and immune system, such as bone remolding, bone 
+mineralization, PI3K/AKt, TNF signaling pathways and Th17 cell differentiation. 
+RT-PCR results showed that the expression of miR-335-3p was significantly 
+down-regulated in hind limb unloading (HLU) mice tibia samples compared with 
+controls, the remaining 10 miRNAs were significantly up-regulated after HLU (P < 
+0.01). In summary, we identified 11 differentially expressed miRNAs and their 
+hub target genes in osteoporosis, which may be novel diagnostic biomarkers for 
+osteoporosis.
+
+Copyright © 2020 Huai, Zhang, Chen, Zhao, Wang, Dang, Xue, Gao, Jiang, Miao, Li, 
+Hao, Chen and Qian.
+
+DOI: 10.3389/fendo.2020.516213
+PMCID: PMC7609919
+PMID: 33193074 [Indexed for MEDLINE]
+
+
+18. Oncol Lett. 2020 Mar;19(3):2115-2122. doi: 10.3892/ol.2020.11318. Epub 2020 Jan 
+17.
+
+HSP90AA1, ADRB2, TBL1XR1 and HSPB1 are chronic obstructive pulmonary 
+disease-related genes that facilitate squamous cell lung cancer progression.
+
+Wang L(1), Zhao H(2), Zhang L(3)(4), Luo H(2), Chen Q(1), Zuo X(2).
+
+Author information:
+(1)Department of Gerontology, Xiangya Hospital, Central South University, 
+Changsha, Hunan 410008, P.R. China.
+(2)Department of Rheumatology and Immunology, Xiangya Hospital, Central South 
+University, Changsha, Hunan 410008, P.R. China.
+(3)Department of Thoracic Oncology, Hunan Cancer Hospital, Central South 
+University, Changsha, Hunan 410008, P.R. China.
+(4)Department of Thoracic Oncology, The Affiliated Cancer Hospital of Xiangya 
+School of Medicine, Central South University, Changsha, Hunan 410008, P.R. 
+China.
+
+Chronic obstructive pulmonary disease (COPD) and squamous cell lung carcinoma 
+(SCC) are smoking-related diseases. However, the connection between the two is 
+poorly understood. Microarray gene expression profiles in bronchial epithelium 
+from patients with SCC with or without COPD were downloaded from the Gene 
+Expression Omnibus repository. Differentially expressed genes associated with 
+COPD and SCC were identified and visualized using the Advanced Network Merger 
+module in Cytoscape. COPD-associated genes in SCC progression were further 
+identified using the BisoGenet plug-in in Cytoscape. The genetic interaction 
+network was predicted using the Network Analysis function. Heat shock protein 90 
+α family class A member 1 (HSP90AA1), adrenoceptor β2 (ADRB2), transducin β like 
+1 X-linked receptor 1 (TBL1XR1) and heat shock protein family B (small) member 1 
+(HSPB1) were identified to be differentially expressed in SCC and COPD cases. 
+The overall survival rate associated with the gene signatures was investigated 
+using clinical samples from patients with SCC and COPD from the PROGgene 
+database. The results suggest that the pathogenesis of SCC caused by COPD is 
+regulated by HSP90AA1, ADRB2, TBL1XR1 and HSPB1. These genes may serve as 
+potential therapeutic targets for the treatment of patients with COPD-related 
+SCC.
+
+Copyright: © Wang et al.
+
+DOI: 10.3892/ol.2020.11318
+PMCID: PMC7039115
+PMID: 32194709
+
+
+19. Clin Respir J. 2020 Jun;14(6):514-520. doi: 10.1111/crj.13160. Epub 2020 Feb 27.
+
+An investigation of the association between ADRB2 gene polymorphisms and asthma 
+in Kazakh population.
+
+Akparova A(1), Aripova A(1), Abishev M(2), Kazhiyakhmetova B(1), Pirmanova A(1), 
+Bersimbaev R(1).
+
+Author information:
+(1)Department of General Biology and Genomics, L.N. Gumilyov Eurasian National 
+University, Nur-Sultan, Kazakhstan.
+(2)Pulmonary Department of the City Hospital №2, Nur-Sultan, Kazakhstan.
+
+INTRODUCTION: Beta-2-adrenergic receptor (ADRB2) is present in the cells of the 
+respiratory tract, including bronchial smooth muscle cells and bronchial 
+epithelium, and is a target for endogenous catecholamines and drugs used to 
+treat the obstructive lung diseases.
+OBJECTIVES: This study aimed to investigate the possible association of the 
+Arg16Gly and Gln27Glu polymorphisms of the ADRB2 gene with asthma and its 
+endophenotypes in the Kazakh population.
+METHODS: A total of 70 asthmatic patients and 80 healthy controls were genotyped 
+for Arg16Gly and Gln27Glu polymorphisms of the ADRB2 gene by using quantitative 
+real-time polymerase chain reaction. Statistical analysis was performed with the 
+Graph Pad InStat 7 Software.
+RESULTS: No associations between the asthma patients and healthy individuals 
+were found when the allele and genotype distribution of Arg16Gly and Gln27Glu 
+single nucleotide polymorphisms were compared. Analysis of the haplotype 
+frequencies showed statistically significant differences between patients with 
+asthma and controls for Arg16Gly/Gln27Gln and Arg16Gly/Gln27Glu haplotypes (odds 
+ratio [OR] = 2.12, 95% confidence interval [CI] = 0.87-5.16 and OR = 2.25, 95% 
+CI = 0.89-5.67 respectively). The Arg16 allele and Arg16Arg genotype frequencies 
+were higher in patients with uncontrolled asthma than in controls (χ2 = 5.17, df 
+= 1, P = 0.02 and χ2 = 5.36, df = 1, P = 0.02 respectively).
+CONCLUSION: The results of this study support the possible involvement of 
+Arg16Gly polymorphism in the development of uncontrolled asthma, and indicate 
+that Arg16Gly/Gln27Gln and Arg16Gly/Gln27Glu haplotypes are more common in 
+asthma patients in the Kazakh population.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/crj.13160
+PMID: 32034992 [Indexed for MEDLINE]
+
+
+20. Front Endocrinol (Lausanne). 2020 Jan 14;10:921. doi: 10.3389/fendo.2019.00921. 
+eCollection 2019.
+
+Role of the End-Point Mediators of Sympathoadrenal and Sympathoneural Stress 
+Axes in the Pathogenesis of Experimental Autoimmune Encephalomyelitis and 
+Multiple Sclerosis.
+
+Pilipović I(1), Stojić-Vukanić Z(2), Prijić I(1), Leposavić G(3).
+
+Author information:
+(1)Branislav Jankovic Immunology Research Centre, Institute of Virology, Torlak 
+Vaccines and Sera, Belgrade, Serbia.
+(2)Department of Microbiology and Immunology, Faculty of Pharmacy, University of 
+Belgrade, Belgrade, Serbia.
+(3)Department of Pathobiology, Faculty of Pharmacy, University of Belgrade, 
+Belgrade, Serbia.
+
+The role of stress effector systems in the initiation and progression of 
+multiple sclerosis (MS) and experimental autoimmune encephalomyelitis (EAE), the 
+most commonly used experimental model of MS, has strongly been suggested. To 
+corroborate this notion, alterations in activity of the sympathoadrenal and 
+sympathoneural axes of sympathoadrenal system (a major communication pathway 
+between the central nervous system and the immune system), mirrored in altered 
+release of their end-point mediators (adrenaline and noradrenaline, 
+respectively), are shown to precede (in MS) and/or occur during development of 
+MS and EAE in response to immune cell activation (in early phase of disease) and 
+disease-related damage of sympathoadrenal system neurons and their projections 
+(in late phase of disease). To add to the complexity, innate immunity cells and 
+T-lymphocytes synthesize noradrenaline that may be implicated in a local 
+autocrine/paracrine self-amplifying feed-forward loop to enhance myeloid-cell 
+synthesis of proinflammatory cytokines and inflammatory injury. Furthermore, 
+experimental manipulations targeting noradrenaline/adrenaline action are shown 
+to influence clinical outcome of EAE, in a disease phase-specific manner. This 
+is partly related to the fact that virtually all types of cells involved in the 
+instigation and progression of autoimmune inflammation and target tissue damage 
+in EAE/MS express functional adrenoceptors. Although catecholamines exert 
+majority of immunomodulatory effects through β2-adrenoceptor, a role for 
+α-adrenoceptors in EAE pathogenesis has also been indicated. In this review, we 
+summarize all aforementioned aspects of immunopathogenetic action of 
+catecholamines in EAE/MS as possibly important for designing new strategies 
+targeting their action to prevent/mitigate autoimmune neuroinflammation and 
+tissue damage.
+
+Copyright © 2020 Pilipović, Stojić-Vukanić, Prijić and Leposavić.
+
+DOI: 10.3389/fendo.2019.00921
+PMCID: PMC6970942
+PMID: 31993021
+
+
+21. Cell Stem Cell. 2019 Sep 5;25(3):407-418.e6. doi: 10.1016/j.stem.2019.06.007. 
+Epub 2019 Jul 11.
+
+Remodeling of Bone Marrow Hematopoietic Stem Cell Niches Promotes Myeloid Cell 
+Expansion during Premature or Physiological Aging.
+
+Ho YH(1), Del Toro R(2), Rivera-Torres J(2), Rak J(1), Korn C(1), García-García 
+A(3), Macías D(4), González-Gómez C(2), Del Monte A(2), Wittner M(5), Waller 
+AK(1), Foster HR(1), López-Otín C(6), Johnson RS(4), Nerlov C(7), Ghevaert C(1), 
+Vainchenker W(8), Louache F(5), Andrés V(2), Méndez-Ferrer S(9).
+
+Author information:
+(1)Wellcome Trust-Medical Research Council Cambridge Stem Cell Institute and 
+Department of Haematology, University of Cambridge, Cambridge CB2 0PT, UK; 
+National Health Service Blood and Transplant, Cambridge Biomedical Campus, 
+Cambridge CB2 0PT, UK.
+(2)Centro Nacional de Investigaciones Cardiovasculares (CNIC), 28029 Madrid, 
+Spain; CIBER de Enfermedades Cardiovasculares (CIBER-CV), Spain.
+(3)Wellcome Trust-Medical Research Council Cambridge Stem Cell Institute and 
+Department of Haematology, University of Cambridge, Cambridge CB2 0PT, UK; 
+National Health Service Blood and Transplant, Cambridge Biomedical Campus, 
+Cambridge CB2 0PT, UK; Centro Nacional de Investigaciones Cardiovasculares 
+(CNIC), 28029 Madrid, Spain.
+(4)Physiological Laboratory, Department of Physiology, Development and 
+Neuroscience, University of Cambridge, Cambridge CB2 3EG, UK.
+(5)INSERM (Institut National de la Santé et de la Recherche Médicale), 
+Université Paris-Saclay, UMR1170, Gustave Roussy, 94805 Villejuif, France; 
+Université Paris-Saclay and CNRS GDR 3697 MicroNiT, Villejuif, France.
+(6)Departamento de Bioquímica y Biología Molecular, Facultad de Medicina, 
+Instituto Universitario de Oncología, Universidad de Oviedo, 33006 Oviedo, 
+Spain; Centro de Investigación Biomédica en Red de Cáncer, CIBERONC, Madrid, 
+Spain.
+(7)MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular 
+Medicine, University of Oxford, John Radcliffe Hospital, Headington, Oxford OX3 
+9DS, UK.
+(8)INSERM (Institut National de la Santé et de la Recherche Médicale), 
+Université Paris-Saclay, UMR1170, Gustave Roussy, 94805 Villejuif, France.
+(9)Wellcome Trust-Medical Research Council Cambridge Stem Cell Institute and 
+Department of Haematology, University of Cambridge, Cambridge CB2 0PT, UK; 
+National Health Service Blood and Transplant, Cambridge Biomedical Campus, 
+Cambridge CB2 0PT, UK; Centro Nacional de Investigaciones Cardiovasculares 
+(CNIC), 28029 Madrid, Spain. Electronic address: sm2116@medschl.cam.ac.uk.
+
+Comment in
+    Cell Stem Cell. 2019 Sep 5;25(3):301-303. doi: 10.1016/j.stem.2019.08.008.
+
+Hematopoietic stem cells (HSCs) residing in the bone marrow (BM) accumulate 
+during aging but are functionally impaired. However, the role of HSC-intrinsic 
+and -extrinsic aging mechanisms remains debated. Megakaryocytes promote 
+quiescence of neighboring HSCs. Nonetheless, whether megakaryocyte-HSC 
+interactions change during pathological/natural aging is unclear. Premature 
+aging in Hutchinson-Gilford progeria syndrome recapitulates physiological aging 
+features, but whether these arise from altered stem or niche cells is unknown. 
+Here, we show that the BM microenvironment promotes myelopoiesis in 
+premature/physiological aging. During physiological aging, HSC-supporting niches 
+decrease near bone but expand further from bone. Increased BM noradrenergic 
+innervation promotes β2-adrenergic-receptor(AR)-interleukin-6-dependent 
+megakaryopoiesis. Reduced β3-AR-Nos1 activity correlates with decreased 
+endosteal niches and megakaryocyte apposition to sinusoids. However, chronic 
+treatment of progeroid mice with β3-AR agonist decreases premature myeloid and 
+HSC expansion and restores the proximal association of HSCs to megakaryocytes. 
+Therefore, normal/premature aging of BM niches promotes myeloid expansion and 
+can be improved by targeting the microenvironment.
+
+Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.stem.2019.06.007
+PMCID: PMC6739444
+PMID: 31303548 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+22. Evid Based Complement Alternat Med. 2019 Jun 4;2019:9241403. doi: 
+10.1155/2019/9241403. eCollection 2019.
+
+The Mechanism of Compound Anshen Essential Oil in the Treatment of Insomnia Was 
+Examined by Network Pharmacology.
+
+Ren G(1), Zhong Y(2), Ke G(3), Liu X(1), Li H(1), Li X(1), Zheng Q(2), Yang 
+M(1)(2).
+
+Author information:
+(1)Key Laboratory Breeding Base of Systematic Research and Utilization on 
+Chinese Material Medical Resources Co-Founded by Sichuan Province and Ministry 
+of Science and Technology, Pharmacy College, Chengdu University of Traditional 
+Chinese Medicine, Chengdu 611137, China.
+(2)Key Laboratory of Modern Preparation of Traditional Chinese Medicine, 
+Ministry of Education, State Key Lab. of Innovation Drug and Effcient 
+Energy-Saving Pharmaceutical Equipment, Jiangxi University of Traditional 
+Chinese Medicine, Nanchang 330004, China.
+(3)Luzhou People's Hospital, Luzhou 646100, China.
+
+The active component-target network and protein-protein interaction network of 
+Compound Anshen essential oil were constructed. The target functions and related 
+pathways were analyzed to explore the mechanism of Compound Anshen essential oil 
+in the treatment of insomnia. GC-MS was used to detect the chemical composition 
+of Compound Anshen essential oil, and the TCMSP, STITCH, TTD, and DrugBank 
+databases were searched to predict and screen the targets of Compound Anshen 
+essential oil in the treatment of insomnia. Cytoscape software was used to 
+construct the network diagrams of the active component-action target and 
+protein-protein interaction networks, ClueGO software was used to analyze the GO 
+enrichment and KEGG pathway of the target, and the systemsDock website database 
+was used for molecular docking. The analysis of the network results showed that 
+the activity of Compound Anshen essential oil mainly involves biological 
+processes such as the phospholipase C-activating G protein-coupled receptor 
+signaling pathway, response to ammonium ions, calcium ion transport into the 
+cytosol, and chloride transport. The results of molecular docking showed that 
+linalool, caryophyllene, dibutyl phthalate, (-)-4-terpineol, and (-)-α-terpineol 
+have good binding activity with ADRB2, DRD2, ESR1, KCNH2, NR1H4, NR1I2, NR1I3, 
+and TRPV1 targets. This study demonstrates the multicomponent, multitarget, and 
+multichannel characteristics of Compound Anshen essential oil and provides a new 
+therapeutic idea and method for further research on the mechanism of Compound 
+Anshen essential oil in the treatment of insomnia.
+
+DOI: 10.1155/2019/9241403
+PMCID: PMC6582871
+PMID: 31275424
+
+
+23. Int J Mol Sci. 2019 Jun 26;20(13):3127. doi: 10.3390/ijms20133127.
+
+Norepinephrine Inhibits Synovial Adipose Stem Cell Chondrogenesis via 
+α2a-Adrenoceptor-Mediated ERK1/2 Activation.
+
+El Bagdadi K(1), Zaucke F(1), Meurer A(1), Straub RH(2), Jenei-Lanzl Z(3).
+
+Author information:
+(1)Dr. Rolf M. Schwiete Research Unit for Osteoarthritis, Orthopedic University 
+Hospital Friedrichsheim gGmbH, 60528 Frankfurt/Main, Germany.
+(2)Laboratory of Experimental Rheumatology and Neuroendocrine Immunology, 
+Department of Internal Medicine, University Hospital Regensburg, 93053 
+Regensburg, Germany.
+(3)Dr. Rolf M. Schwiete Research Unit for Osteoarthritis, Orthopedic University 
+Hospital Friedrichsheim gGmbH, 60528 Frankfurt/Main, Germany. 
+zsuzsa.jenei-lanzl@friedrichsheim.de.
+
+In recent years, first evidences emerged that sympathetic neurotransmitters 
+influence osteoarthritis (OA) manifestation. Joint-resident stem cells might 
+contribute to cartilage repair, however, their chondrogenic function is reduced. 
+The neurotransmitter norepinephrine (NE) was detected in the synovial fluid of 
+trauma and OA patients. Therefore, the aim of this study was to analyse how NE 
+influences the chondrogenesis of synovial adipose tissue-derived stem cells 
+(sASCs). sASCs were isolated from knee-OA patients synovia. After adrenoceptor 
+(AR) expression analysis, proliferation and chondrogenic differentiation in 
+presence of NE and/or α- and β-AR antagonist were investigated. Cell count, 
+viability, chondrogenic and hypertophic gene expression, sulfated 
+glycosaminoglycan (sGAG) and type II collagen content were determined. Key 
+AR-dependent signaling (ERK1/2, PKA) was analyzed via western blot. sASC 
+expressed α1A-, α1B-, α2A-, α2B-, α2C-, and β2-AR in monolayer and pellet 
+culture. NE did not affect proliferation and viability, but 10-7 and 10-6 M NE 
+significantly reduced sGAG and type II collagen content as well as ERK1/2 
+phosphorylation. These effects were fully reversed by yohimbine (α2-AR 
+antagonist). Our study confirms the important role of NE in sASC chondrogenic 
+function and provides new insights in OA pathophysiology. Future studies might 
+help to develop novel therapeutic options targeting neuroendocrine pathways for 
+OA treatment.
+
+DOI: 10.3390/ijms20133127
+PMCID: PMC6651223
+PMID: 31248037 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+24. Chest. 2019 Jul;156(1):141-149. doi: 10.1016/j.chest.2019.04.101. Epub 2019 May 
+10.
+
+Group 2 Innate Lymphoid Cells in Airway Diseases.
+
+Kato A(1).
+
+Author information:
+(1)Division of Allergy and Immunology, Department of Medicine, and the 
+Department of Otolaryngology, Northwestern University Feinberg School of 
+Medicine, Chicago, IL. Electronic address: a-kato@northwestern.edu.
+
+Group 2 innate lymphoid cells (ILC2s) are increasingly recognized as a key 
+controller of type 2 inflammation, and are well known to be highly elevated in 
+human airway type 2 inflammatory diseases including allergic rhinitis, chronic 
+rhinosinusitis with nasal polyps, and asthma. ILC2-mediated production of type 2 
+cytokines initiates and amplifies airway inflammation via activation of 
+eosinophils, B cells, mast cells, macrophages, fibroblasts, and epithelial cells 
+in these diseases. ILC2s require at least three major signals to fully activate 
+and robustly produce type 2 cytokines. IL-1 family cytokines (IL-1β, IL-18, 
+IL-33), IL-25, and TNF superfamilies (TNF, TL1A, GITR-L, RANK-L) activate the 
+NF-κB and AP-1 pathways that initiate production of IL-5 and IL-13. Lipid 
+mediators (LTC4, LTD4, PGD2) and neuropeptide NMU promote production of IL-4 
+through the NFAT pathway. IL-2 and IL-7 family cytokines (IL-2, IL-7, IL-9, 
+TSLP) activate the STAT5 pathway that induces survival of ILC2s and enhances 
+cytokine production. The activation of STAT5 is necessary to potently induce 
+cytokine- and lipid mediator-mediated production of type 2 cytokines. Inhibitory 
+pathways for ILC2s have also become clearer. Type I and II interferons and IL-27 
+inhibit ILC2 functions through the activation of STAT1. Suppression mediated via 
+β2-adrenergic receptor agonists, PGE2, and PGI2 occurs through cAMP and PKA. 
+Glucocorticoid, testosterone, IL-10, and TGF-β are also able to inhibit 
+ILC2-mediated production of type 2 cytokines. Blockage of ILC2 activators, 
+activation of inhibitory pathways of ILC2s, and suppression of ILC2-mediated 
+pathways including type 2 cytokines (IL-5, IL-13, IL-4Ra) may become therapeutic 
+strategies for airway type 2 inflammatory diseases.
+
+Copyright © 2019 American College of Chest Physicians. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.chest.2019.04.101
+PMCID: PMC7118243
+PMID: 31082387 [Indexed for MEDLINE]
+
+
+25. Endocr Metab Immune Disord Drug Targets. 2019;19(8):1089-1099. doi: 
+10.2174/1871530319666190206124520.
+
+Adrenergic Regulation of Macrophage-Mediated Innate/Inflammatory Responses in 
+Obesity and Exercise in this Condition: Role of β2 Adrenergic Receptors.
+
+Ortega E(1), Gálvez I(1), Martín-Cordero L(2).
+
+Author information:
+(1)Department of Physiology (Immunophysiology Research Group), Faculty of 
+Sciences, University of Extremadura, Badajoz, Spain.
+(2)Department of Nursing (Immunophysiology Research Group), University Center of 
+Plasencia, University of Extremadura, Plasencia, Spain.
+
+BACKGROUND: The effects of exercise on the innate/inflammatory immune responses 
+are crucially mediated by catecholamines and adrenoreceptors; and mediations in 
+both stimulatory and anti-inflammatory responses have been attributed to them. 
+Obesity and metabolic syndrome are included among low-grade chronic inflammatory 
+pathologies; particularly because patients have a dysregulation of the 
+inflammatory and stress responses, which can lead to high levels of inflammatory 
+cytokines that induce insulin resistance, contributing to the onset or 
+exacerbation of type 2 diabetes. Macrophages play a crucial role in this 
+obesity-induced inflammation. Although most of the antiinflammatory effects of 
+catecholamines are mediated by β adrenergic receptors (particularly β2), it is 
+not known whether in altered homeostatic conditions, such as obesity and during 
+exercise, innate/ inflammatory responses of macrophages to β2 adrenergic 
+stimulation are similar to those in cells of healthy organisms at baseline.
+OBJECTIVE: This review aims to emphasize that there could be possible different 
+responses to β2 adrenergic stimulation in obesity, and exercise in this 
+condition.
+METHODS: A revision of the literature based on the hypothesis that obesity 
+affects β2 adrenergic regulation of macrophage-mediated innate/inflammatory 
+responses, as well as the effect of exercise in this context.
+CONCLUSION: The inflammatory responses mediated by β2 adrenoreceptors are 
+different in obese individuals with altered inflammatory states at baseline 
+compared to healthy individuals, and exercise can also interfere with these 
+responses. Nevertheless, it is clearly necessary to develop more studies that 
+contribute to widening the knowledge of the neuroimmune regulation process in 
+obesity, particularly in this context.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1871530319666190206124520
+PMCID: PMC7046986
+PMID: 30727934 [Indexed for MEDLINE]
+
+
+26. Mol Neurobiol. 2019 Apr;56(4):2685-2702. doi: 10.1007/s12035-018-1260-0. Epub 
+2018 Jul 27.
+
+Docosahexaenoic Acid (DHA) Induced Morphological Differentiation of Astrocytes 
+Is Associated with Transcriptional Upregulation and Endocytosis of β(2)-AR.
+
+Das M(1), Das S(2).
+
+Author information:
+(1)Neurobiology Division, Cell Biology & Physiology Department, CSIR-Indian 
+Institute of Chemical Biology, 4 Raja S. C. Mullick Road, Jadavpur, Kolkata, 
+700032, India.
+(2)Neurobiology Division, Cell Biology & Physiology Department, CSIR-Indian 
+Institute of Chemical Biology, 4 Raja S. C. Mullick Road, Jadavpur, Kolkata, 
+700032, India. sumantra00@yahoo.com.
+
+Docosahexaenoic acid (DHA), an important ω-3 fatty acid, is abundantly present 
+in the central nervous system and is important in every step of brain 
+development. Much of this knowledge has been based on studies of the role of DHA 
+in the function of the neurons, and reports on its effect on the glial cells are 
+few and far between. We have previously reported that DHA facilitates astrocyte 
+differentiation in primary culture. We have further explored the signaling 
+mechanism associated with this event. It was observed that a sustained 
+activation of the extracellular signal-regulated kinase (ERK) appeared to be 
+critical for DHA-induced differentiation of the cultured astrocytes. Prior 
+exposure to different endocytic inhibitors blocked both ERK activation and 
+differentiation of the astrocytes during DHA treatment suggesting that the 
+observed induction of ERK-2 was purely endosomal. Unlike the β1-adrenergic 
+receptor (β1-AR) antagonist, atenolol, pre-treatment of the cells with the 
+β2-adrenergic receptor (β2-AR) antagonist, ICI-118,551 inhibited the DHA-induced 
+differentiation process, indicating a downstream involvement of β2-AR in the 
+differentiation process. qRT-PCR and western blot analysis demonstrated a 
+significant induction in the mRNA and protein expression of β2-AR at 18-24 h of 
+DHA treatment, suggesting that the induction of β2-AR may be due to 
+transcriptional upregulation. Moreover, DHA caused activation of PKA at 6 h, 
+followed by activation of downstream cAMP response element-binding protein, a 
+known transcription factor for β2-AR. Altogether, the observations suggest that 
+DHA upregulates β2-AR in astrocytes, which undergo endocytosis and signals for 
+sustained endosomal ERK activation to drive the differentiation process.
+
+DOI: 10.1007/s12035-018-1260-0
+PMID: 30054857 [Indexed for MEDLINE]
+
+
+27. Respir Res. 2018 Apr 7;19(1):56. doi: 10.1186/s12931-018-0759-2.
+
+The inhibition of human lung fibroblast proliferation and differentiation by 
+Gs-coupled receptors is not predicted by the magnitude of cAMP response.
+
+Roberts MJ(1), Broome RE(2), Kent TC(2), Charlton SJ(1)(2), Rosethorne EM(3)(4).
+
+Author information:
+(1)School of Life Sciences, University of Nottingham, Nottingham, UK.
+(2)Novartis Institutes for Biomedical Research, Horsham, UK.
+(3)School of Life Sciences, University of Nottingham, Nottingham, UK. 
+elizabeth.rosethorne@nottingham.ac.uk.
+(4)Novartis Institutes for Biomedical Research, Horsham, UK. 
+elizabeth.rosethorne@nottingham.ac.uk.
+
+BACKGROUND: Idiopathic pulmonary fibrosis (IPF) is a chronic and progressive 
+fibrotic lung disease for which there is no cure. Current therapeutics are only 
+able to slow disease progression, therefore there is a need to explore 
+alternative, novel treatment options. There is increasing evidence that the 3', 
+5' cyclic adenosine monophosphate (cAMP) pathway is an important modulator in 
+the development of fibrosis, with increasing levels of cAMP able to inhibit 
+cellular processes associated with IPF. In this study we investigate the 
+expression of Gs-coupled G protein-coupled receptors (GPCR) on human lung 
+fibroblasts (HLF), and explore which can increase cAMP levels, and are most 
+efficacious at inhibiting proliferation and differentiation.
+METHODS: Using TaqMan arrays we determined that fibroblasts express a range of 
+Gs-coupled GPCR. The function of selected agonists at expressed receptors was 
+then tested in a cAMP assay, and for their ability to inhibit fibroblast 
+proliferation and differentiation.
+RESULTS: Expression analysis of GPCR showed that the prostacyclin, prostaglandin 
+E2 (PGE2) receptor 2 and 4, melanocortin-1, β2 adrenoceptor, adenosine 2B, 
+dopamine-1, and adenosine 2A receptors were expressed in HLF. Measuring cAMP 
+accumulation in the presence of selected Gs-coupled receptor ligands as well as 
+an adenylyl cyclase activator and inhibitors of phosphodiesterase showed 
+formoterol, PGE2, treprostinil and forskolin elicited maximal cAMP responses. 
+The agonists that fully inhibited both fibroblast proliferation and 
+differentiation, BAY60-6583 and MRE-269, were partial agonists in the cAMP 
+accumulation assay.
+CONCLUSIONS: In this study we identified a number of ligands that act at a range 
+of GPCR that increase cAMP and inhibit fibroblast proliferation and 
+differentiation, suggesting that they may provide novel targets to develop new 
+IPF treatments. From these results it appears that although the cAMP response is 
+important in driving the anti-fibrotic effects we have observed, the magnitude 
+of the acute cAMP response is not a good predictor of the extent of the 
+inhibitory effect. This highlights the importance of monitoring the kinetics and 
+localisation of intracellular signals, as well as multiple pathways when 
+profiling novel compounds, as population second messenger assays may not always 
+predict phenotypic outcomes.
+
+DOI: 10.1186/s12931-018-0759-2
+PMCID: PMC5889558
+PMID: 29625570 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+human lung fibroblasts used in this study was sourced from PromoCell and were 
+derived from donors who have signed an informed consent form (this being done by 
+the donor himself, an authorized agent, or a legal agent) which outlines in 
+detail the purpose of the donation and the procedure for processing the tissue. 
+When obtaining and using human tissue, PromoCell acts in strict compliance with 
+“The Convention for Protection of Human Rights and Dignity of the Human Being 
+with Regard to the Application of Biology and Medicine: Convention of Human 
+Rights and Biomedicine” published on April 4th, 1997 by the Council of Europe 
+(European Treaty Series – no 164), “The Human Tissue Act” published on November 
+15th, 2004 by the government of the United Kingdom, the “The Declaration of 
+Helsinki” developed by the World Medical Association and the “German Federal 
+Data Protection Act” to protect privacy of donors. CONSENT FOR PUBLICATION: Not 
+applicable COMPETING INTERESTS: The authors declare that they have no competing 
+interests. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+
+
+28. Science. 2018 Mar 2;359(6379):1056-1061. doi: 10.1126/science.aan4829.
+
+β(2)-adrenergic receptor-mediated negative regulation of group 2 innate lymphoid 
+cell responses.
+
+Moriyama S(1), Brestoff JR(1)(2), Flamar AL(1), Moeller JB(1)(3), Klose CSN(1), 
+Rankin LC(1), Yudanin NA(1), Monticelli LA(1), Putzel GG(1), Rodewald HR(4), 
+Artis D(5).
+
+Author information:
+(1)Jill Roberts Institute for Research in Inflammatory Bowel Disease, Joan and 
+Sanford I. Weill Department of Medicine, Department of Microbiology and 
+Immunology, Weill Cornell Medicine, Cornell University, New York, NY 10021, USA.
+(2)Department of Pathology and Immunology, Washington University School of 
+Medicine, St. Louis, MO 63110, USA.
+(3)Department of Molecular Medicine, University of Southern Denmark, Odense, 
+Denmark.
+(4)Division of Cellular Immunology, German Cancer Research Center (DKFZ), 
+Heidelberg, Germany.
+(5)Jill Roberts Institute for Research in Inflammatory Bowel Disease, Joan and 
+Sanford I. Weill Department of Medicine, Department of Microbiology and 
+Immunology, Weill Cornell Medicine, Cornell University, New York, NY 10021, USA. 
+dartis@med.cornell.edu.
+
+The type 2 inflammatory response is induced by various environmental and 
+infectious stimuli. Although recent studies identified group 2 innate lymphoid 
+cells (ILC2s) as potent sources of type 2 cytokines, the molecular pathways 
+controlling ILC2 responses are incompletely defined. Here we demonstrate that 
+murine ILC2s express the β2-adrenergic receptor (β2AR) and colocalize with 
+adrenergic neurons in the intestine. β2AR deficiency resulted in exaggerated 
+ILC2 responses and type 2 inflammation in intestinal and lung tissues. 
+Conversely, β2AR agonist treatment was associated with impaired ILC2 responses 
+and reduced inflammation in vivo. Mechanistically, we demonstrate that the β2AR 
+pathway is a cell-intrinsic negative regulator of ILC2 responses through 
+inhibition of cell proliferation and effector function. Collectively, these data 
+provide the first evidence of a neuronal-derived regulatory circuit that limits 
+ILC2-dependent type 2 inflammation.
+
+Copyright © 2018 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/science.aan4829
+PMID: 29496881 [Indexed for MEDLINE]
+
+
+29. JCI Insight. 2018 Feb 22;3(4):e93029. doi: 10.1172/jci.insight.93029. 
+eCollection 2018 Feb 22.
+
+Chronic β2AR stimulation limits CFTR activation in human airway epithelia.
+
+Brewington JJ(1), Backstrom J(1), Feldman A(1), Kramer EL(1), Moncivaiz JD(1), 
+Ostmann AJ(1), Zhu X(2), Lu LJ(2), Clancy JP(1).
+
+Author information:
+(1)Division of Pulmonary Medicine, Department of Pediatrics, and.
+(2)Division of Biomedical Informatics, Department of Pediatrics, Cincinnati 
+Children's Hospital Medical Center, Cincinnati, Ohio, USA.
+
+Traditional pulmonary therapies for cystic fibrosis (CF) target the downstream 
+effects of CF transmembrane conductance regulator (CFTR) dysfunction (the cause 
+of CF). Use of one such therapy, β-adrenergic bronchodilators (such as 
+albuterol), is nearly universal for airway clearance. Conversely, novel 
+modulator therapies restore function to select mutant CFTR proteins, offering a 
+disease-modifying treatment. Recent trials of modulators targeting F508del-CFTR, 
+the most common CFTR mutation, suggest that chronic β-agonist use may undermine 
+clinical modulator benefits. We therefore sought to understand the impact of 
+chronic or excess β-agonist exposure on CFTR activation in human airway 
+epithelium. The present studies demonstrate a greater than 60% reduction in both 
+wild-type and modulator-corrected F508del-CFTR activation following chronic 
+exposure to short- and long-acting β-agonists. This reduction was due to reduced 
+cellular generation of cAMP downstream of the β-2 adrenergic receptor-G protein 
+complex. Our results point towards a posttranscriptional reduction in adenylyl 
+cyclase function as the mechanism of impaired CFTR activation produced by 
+prolonged β-agonist exposure. β-Agonist-induced CFTR dysfunction was sufficient 
+to abrogate VX809/VX770 modulation of F508del-CFTR in vitro. Understanding the 
+clinical relevance of our observations is critical for CF patients using these 
+drugs, and for investigators to inform future CFTR modulator drug trials.
+
+DOI: 10.1172/jci.insight.93029
+PMCID: PMC5916247
+PMID: 29467332 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have declared 
+that no conflict of interest exists.
+
+
+30. Proc Natl Acad Sci U S A. 2017 Oct 24;114(43):E9163-E9171. doi: 
+10.1073/pnas.1710196114. Epub 2017 Oct 9.
+
+β(2)-Adrenoceptor signaling in airway epithelial cells promotes eosinophilic 
+inflammation, mucous metaplasia, and airway contractility.
+
+Nguyen LP(1), Al-Sawalha NA(2), Parra S(2), Pokkunuri I(2), Omoluabi O(3), 
+Okulate AA(2), Windham Li E(1), Hazen M(1), Gonzalez-Granado JM(4), Daly CJ(4), 
+McGrath JC(4), Tuvim MJ(1), Knoll BJ(2), Dickey BF(1), Bond RA(5).
+
+Author information:
+(1)Department of Pulmonary Medicine, The University of Texas MD Anderson Cancer 
+Center, Houston, TX 77030.
+(2)Department of Pharmacological and Pharmaceutical Sciences, University of 
+Houston, Houston, TX 77004.
+(3)Department of Biology and Biochemistry, University of Houston, Houston, TX 
+77004.
+(4)School of Life Sciences, College of Medical, Veterinary and Life Science, 
+University of Glasgow, Glasgow G12 8QQ, United Kingdom.
+(5)Department of Pharmacological and Pharmaceutical Sciences, University of 
+Houston, Houston, TX 77004; rabond@uh.edu.
+
+The mostly widely used bronchodilators in asthma therapy are β2-adrenoreceptor 
+(β2AR) agonists, but their chronic use causes paradoxical adverse effects. We 
+have previously determined that β2AR activation is required for expression of 
+the asthma phenotype in mice, but the cell types involved are unknown. We now 
+demonstrate that β2AR signaling in the airway epithelium is sufficient to 
+mediate key features of the asthmatic responses to IL-13 in murine models. Our 
+data show that inhibition of β2AR signaling with an aerosolized antagonist 
+attenuates airway hyperresponsiveness (AHR), eosinophilic inflammation, and 
+mucus-production responses to IL-13, whereas treatment with an aerosolized 
+agonist worsens these phenotypes, suggesting that β2AR signaling on resident 
+lung cells modulates the asthma phenotype. Labeling with a fluorescent β2AR 
+ligand shows the receptors are highly expressed in airway epithelium. In β2AR-/- 
+mice, transgenic expression of β2ARs only in airway epithelium is sufficient to 
+rescue IL-13-induced AHR, inflammation, and mucus production, and transgenic 
+overexpression in WT mice exacerbates these phenotypes. Knockout of β-arrestin-2 
+(βarr-2-/-) attenuates the asthma phenotype as in β2AR-/- mice. In contrast to 
+eosinophilic inflammation, neutrophilic inflammation was not promoted by β2AR 
+signaling. Together, these results suggest β2ARs on airway epithelial cells 
+promote the asthma phenotype and that the proinflammatory pathway downstream of 
+the β2AR involves βarr-2. These results identify β2AR signaling in the airway 
+epithelium as capable of controlling integrated responses to IL-13 and affecting 
+the function of other cell types such as airway smooth muscle cells.
+
+Published under the PNAS license.
+
+DOI: 10.1073/pnas.1710196114
+PMCID: PMC5664525
+PMID: 29073113 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+31. Clin Exp Allergy. 2017 Dec;47(12):1534-1545. doi: 10.1111/cea.13015. Epub 2017 
+Sep 26.
+
+Corticosteroid and long-acting ß-agonist therapy reduces epithelial goblet cell 
+metaplasia.
+
+Lachowicz-Scroggins ME(1), Finkbeiner WE(2), Gordon ED(3), Yuan S(4), Zlock 
+L(2), Bhakta NR(3), Woodruff PG(3), Fahy JV(1)(3), Boushey HA(3).
+
+Author information:
+(1)Cardiovascular Research Institute, University of California San Francisco, 
+San Francisco, CA, USA.
+(2)Department of Pathology, San Francisco General Hospital, University of 
+California San Francisco, San Francisco, CA, USA.
+(3)Department of Medicine Division of Pulmonary/Critical Care Medicine 
+University of California San Francisco, San Francisco, CA, USA.
+(4)The David Rockefeller Graduate Program, Laboratory of Mammalian Cell Biology 
+and Development, The Rockefeller University, New York, NY, USA.
+
+BACKGROUND: Bronchial epithelial goblet cell metaplasia (GCM) with hyperplasia 
+is a prominent feature of asthma, but the effects of treatment with 
+corticosteroids alone or in combination with a long-acting β2 -adrenergic 
+receptor agonist (LABA) on GCM in the bronchial epithelium are unknown.
+OBJECTIVES: To determine whether corticosteroid alone or in combination with a 
+LABA alters protein and gene expression pathways associated with IL-13-induced 
+goblet cell metaplasia.
+RESULTS: We evaluated the effects of fluticasone propionate (FP) and of 
+salmeterol (SM), on the response of well-differentiated cultured bronchial 
+epithelial cells to interleukin-13 (IL-13). Outcome measures included gene 
+expression of SPDEF/FOXa2, gene expression and protein production of 
+MUC5AC/MUC5B and morphologic appearance of cultured epithelial cell sheets. We 
+additionally analysed expression of these genes in bronchial epithelial 
+brushings from healthy, steroid-naïve asthmatic and steroid-treated asthmatic 
+subjects. In cultured airway epithelial cells, FP treatment inhibited 
+IL-13-induced suppression of FOXa2 gene expression and up-regulation of SPDEF, 
+alterations in gene and protein measures of MUC5AC and MUC5B and induction of 
+GCM. The addition of SM synergistically modified the effects of FP modestly-only 
+for gel-forming mucin MUC5AC. In bronchial epithelial cells recovered from 
+asthmatic vs healthy human subjects, we found FOXa2 and MUC5B gene expression to 
+be reduced and SPDEF and MUC5AC gene expression to be increased; these 
+alterations were not observed in bronchial epithelial cells recovered after 
+treatment with inhaled corticosteroids.
+CONCLUSION AND CLINICAL RELEVANCE: Corticosteroid treatment inhibits 
+IL-13-induced GCM of the airways in asthma, possibly through its effects on 
+SPDEF and FOXa2 regulation of mucin gene expression. These effects are modestly 
+augmented by the addition of a long-acting ß-agonist. As we found evidence for 
+drug treatment counteracting the effects of IL-13 on the epithelium, we conclude 
+that further exploration into the mechanisms by which corticosteroids and 
+long-acting β2 -adrenergic agonists confer protection against pathologic airway 
+changes is warranted.
+
+© 2017 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cea.13015
+PMID: 28833774 [Indexed for MEDLINE]
+
+
+32. Circulation. 2017 May 9;135(19):1832-1847. doi: 
+10.1161/CIRCULATIONAHA.116.024145. Epub 2017 Feb 6.
+
+Defined Engineered Human Myocardium With Advanced Maturation for Applications in 
+Heart Failure Modeling and Repair.
+
+Tiburcy M(1), Hudson JE(1), Balfanz P(1), Schlick S(1), Meyer T(1), Chang Liao 
+ML(1), Levent E(1), Raad F(1), Zeidler S(1), Wingender E(1), Riegler J(1), Wang 
+M(1), Gold JD(1), Kehat I(1), Wettwer E(1), Ravens U(1), Dierickx P(1), van 
+Laake LW(1), Goumans MJ(1), Khadjeh S(1), Toischer K(1), Hasenfuss G(1), Couture 
+LA(1), Unger A(1), Linke WA(1), Araki T(1), Neel B(1), Keller G(1), Gepstein 
+L(1), Wu JC(1), Zimmermann WH(2).
+
+Author information:
+(1)From Institute of Pharmacology and Toxicology, University Medical Center 
+Göttingen, Germany (M.T., J.E.H., P.B., S.S., T.M., M.-L.C.L., E.L., F.R., S.Z., 
+E. Wettwer, W.-H.Z.); German Center for Cardiovascular Research (DZHK), partner 
+site Göttingen, Germany (M.T., J.E.H., P.B., S.S., T.M., M.-L.C.L., E.L., F.R., 
+S.Z., E. Wingender, W.A.L., W.-H.Z.); Institute of Bioinformatics, University 
+Medical Center Göttingen, Germany (S.Z., E. Wingender); Stanford Cardiovascular 
+Institute (J.R., M.W., J.D.G., J.C.W.) and Department of Radiology (J.D.G., 
+J.C.W.), Molecular Imaging Program, Stanford University School of Medicine, CA; 
+The Sohnis Laboratory for Cardiac Electrophysiology and Regenerative Medicine, 
+Technion-Israel Institute of Technology, Haifa (I.K., L.G.); Institute of 
+Pharmacology and Toxicology, Technical University Dresden, Germany (E. Wettwer, 
+U.R.); University Medical Center Utrecht and Hubrecht Institute, The Netherlands 
+(P.D., L.W.v.L.); Leiden University Medical Center, The Netherlands (M.J.G.); 
+Clinic for Cardiology and Pneumology, University Medical Center Göttingen, 
+Germany (S.K., K.T., G.H., W.A.L.); Center for Applied Technology, Beckman 
+Research Institute, City of Hope, Duarte, CA (L.A.C.); Department of 
+Cardiovascular Physiology, Institute of Physiology, Ruhr University Bochum, 
+Bochum, Germany (A.U., W.A.L.); New Laura and Isaac Perlmutter Cancer Center at 
+New York University Langone (T.A., B.N.); and McEwen Centre for Regenerative 
+Medicine, Toronto, Canada (G.K.). The current address for Dr Hudson is 
+Laboratory for Cardiac Regeneration, School of Biomedical Sciences, The 
+University of Queensland, Australia.
+(2)From Institute of Pharmacology and Toxicology, University Medical Center 
+Göttingen, Germany (M.T., J.E.H., P.B., S.S., T.M., M.-L.C.L., E.L., F.R., S.Z., 
+E. Wettwer, W.-H.Z.); German Center for Cardiovascular Research (DZHK), partner 
+site Göttingen, Germany (M.T., J.E.H., P.B., S.S., T.M., M.-L.C.L., E.L., F.R., 
+S.Z., E. Wingender, W.A.L., W.-H.Z.); Institute of Bioinformatics, University 
+Medical Center Göttingen, Germany (S.Z., E. Wingender); Stanford Cardiovascular 
+Institute (J.R., M.W., J.D.G., J.C.W.) and Department of Radiology (J.D.G., 
+J.C.W.), Molecular Imaging Program, Stanford University School of Medicine, CA; 
+The Sohnis Laboratory for Cardiac Electrophysiology and Regenerative Medicine, 
+Technion-Israel Institute of Technology, Haifa (I.K., L.G.); Institute of 
+Pharmacology and Toxicology, Technical University Dresden, Germany (E. Wettwer, 
+U.R.); University Medical Center Utrecht and Hubrecht Institute, The Netherlands 
+(P.D., L.W.v.L.); Leiden University Medical Center, The Netherlands (M.J.G.); 
+Clinic for Cardiology and Pneumology, University Medical Center Göttingen, 
+Germany (S.K., K.T., G.H., W.A.L.); Center for Applied Technology, Beckman 
+Research Institute, City of Hope, Duarte, CA (L.A.C.); Department of 
+Cardiovascular Physiology, Institute of Physiology, Ruhr University Bochum, 
+Bochum, Germany (A.U., W.A.L.); New Laura and Isaac Perlmutter Cancer Center at 
+New York University Langone (T.A., B.N.); and McEwen Centre for Regenerative 
+Medicine, Toronto, Canada (G.K.). The current address for Dr Hudson is 
+Laboratory for Cardiac Regeneration, School of Biomedical Sciences, The 
+University of Queensland, Australia. w.zimmermann@med.uni-goettingen.de.
+
+Comment in
+    Circulation. 2017 May 9;135(19):1848-1850. doi: 
+10.1161/CIRCULATIONAHA.117.024751.
+
+BACKGROUND: Advancing structural and functional maturation of stem cell-derived 
+cardiomyocytes remains a key challenge for applications in disease modeling, 
+drug screening, and heart repair. Here, we sought to advance cardiomyocyte 
+maturation in engineered human myocardium (EHM) toward an adult phenotype under 
+defined conditions.
+METHODS: We systematically investigated cell composition, matrix, and media 
+conditions to generate EHM from embryonic and induced pluripotent stem 
+cell-derived cardiomyocytes and fibroblasts with organotypic functionality under 
+serum-free conditions. We used morphological, functional, and transcriptome 
+analyses to benchmark maturation of EHM.
+RESULTS: EHM demonstrated important structural and functional properties of 
+postnatal myocardium, including: (1) rod-shaped cardiomyocytes with M bands 
+assembled as a functional syncytium; (2) systolic twitch forces at a similar 
+level as observed in bona fide postnatal myocardium; (3) a positive 
+force-frequency response; (4) inotropic responses to β-adrenergic stimulation 
+mediated via canonical β1- and β2-adrenoceptor signaling pathways; and (5) 
+evidence for advanced molecular maturation by transcriptome profiling. EHM 
+responded to chronic catecholamine toxicity with contractile dysfunction, 
+cardiomyocyte hypertrophy, cardiomyocyte death, and N-terminal pro B-type 
+natriuretic peptide release; all are classical hallmarks of heart failure. In 
+addition, we demonstrate the scalability of EHM according to anticipated 
+clinical demands for cardiac repair.
+CONCLUSIONS: We provide proof-of-concept for a universally applicable technology 
+for the engineering of macroscale human myocardium for disease modeling and 
+heart repair from embryonic and induced pluripotent stem cell-derived 
+cardiomyocytes under defined, serum-free conditions.
+
+© 2017 American Heart Association, Inc.
+
+DOI: 10.1161/CIRCULATIONAHA.116.024145
+PMCID: PMC5501412
+PMID: 28167635 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures A patent 
+concerning serum-free EHM generation for applications in drug screens and heart 
+repair has been filed by the University of Goettingen with M.T., J.H., and 
+W.H.Z. listed as inventors. W.H.Z. is founder and scientific advisor of myriamed 
+GmbH and Repairon GmbH.
+
+
+33. J Neuroimmunol. 2016 Sep 15;298:98-105. doi: 10.1016/j.jneuroim.2016.07.012. 
+Epub 2016 Jul 15.
+
+The contribution of the sympathetic nervous system to the immunopathology of 
+experimental pulmonary tuberculosis.
+
+Barrios-Payán J(1), Revuelta A(2), Mata-Espinosa D(3), Marquina-Castillo B(4), 
+Villanueva EB(5), Gutiérrez ME(6), Pérez-Sánchez G(7), Pavón L(8), 
+Hernandez-Pando R(9).
+
+Author information:
+(1)Experimental Pathology Section, Pathology Department, National Institute of 
+Medical Sciences and Nutrition Salvador Zubiran, Vasco de Quiroga 15, Colonia 
+Belisario Dominguez Seccion XVI, 14080, Deleg. Tlalpan, México City, Mexico. 
+Electronic address: qcjbp77@yahoo.com.mx.
+(2)Experimental Pathology Section, Pathology Department, National Institute of 
+Medical Sciences and Nutrition Salvador Zubiran, Vasco de Quiroga 15, Colonia 
+Belisario Dominguez Seccion XVI, 14080, Deleg. Tlalpan, México City, Mexico. 
+Electronic address: betomedx@hotmail.com.
+(3)Experimental Pathology Section, Pathology Department, National Institute of 
+Medical Sciences and Nutrition Salvador Zubiran, Vasco de Quiroga 15, Colonia 
+Belisario Dominguez Seccion XVI, 14080, Deleg. Tlalpan, México City, Mexico. 
+Electronic address: dulmat@yahoo.com.mx.
+(4)Experimental Pathology Section, Pathology Department, National Institute of 
+Medical Sciences and Nutrition Salvador Zubiran, Vasco de Quiroga 15, Colonia 
+Belisario Dominguez Seccion XVI, 14080, Deleg. Tlalpan, México City, Mexico. 
+Electronic address: b_marquina@yahoo.com.
+(5)Department of Psychoimmunology, National Institute of Psychiatry, "Ramón de 
+la Fuente", Calzada México-Xochimilco 101, Colonia San Lorenzo Huipulco, Deleg. 
+Tlalpan, 14370 México City, Mexico. Electronic address: lusenbeve@yahoo.com.
+(6)Department of Psychoimmunology, National Institute of Psychiatry, "Ramón de 
+la Fuente", Calzada México-Xochimilco 101, Colonia San Lorenzo Huipulco, Deleg. 
+Tlalpan, 14370 México City, Mexico. Electronic address: 
+drosoph2001@yahoo.com.mx.
+(7)Department of Psychoimmunology, National Institute of Psychiatry, "Ramón de 
+la Fuente", Calzada México-Xochimilco 101, Colonia San Lorenzo Huipulco, Deleg. 
+Tlalpan, 14370 México City, Mexico. Electronic address: 
+gipersanchez@hotmail.com.
+(8)Department of Psychoimmunology, National Institute of Psychiatry, "Ramón de 
+la Fuente", Calzada México-Xochimilco 101, Colonia San Lorenzo Huipulco, Deleg. 
+Tlalpan, 14370 México City, Mexico. Electronic address: lkuriaki@imp.edu.mx.
+(9)Experimental Pathology Section, Pathology Department, National Institute of 
+Medical Sciences and Nutrition Salvador Zubiran, Vasco de Quiroga 15, Colonia 
+Belisario Dominguez Seccion XVI, 14080, Deleg. Tlalpan, México City, Mexico. 
+Electronic address: rhdezpando@hotmail.com.
+
+The role of norepinephrine (NE) in the immunopathology of experimental 
+tuberculosis (TB) was studied by measuring pulmonary NE and determining its 
+cellular sources and targets. Functional studies were performed administrating 
+adrenergic and anti-adrenergic drugs at different TB phases. Results showed high 
+production of NE during early infection by adrenergic nerve terminals and 
+lymphocytes located in the lungs and mediastinal lymph nodes, these cells highly 
+expressed β2 adreno-receptors (β2AR) which by an autocrine mechanism promote 
+Th-1 cell differentiation favoring protection. During advanced infection, the 
+production of NE and β2AR sharply decreased, suggesting that adrenergic activity 
+is less important during late TB.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneuroim.2016.07.012
+PMID: 27609282 [Indexed for MEDLINE]
+
+
+34. Exp Cell Res. 2015 Dec 10;339(2):163-73. doi: 10.1016/j.yexcr.2015.10.032. Epub 
+2015 Oct 30.
+
+β2-Agonist clenbuterol hinders human monocyte differentiation into dendritic 
+cells.
+
+Giordani L(1), Cuzziol N(2), Del Pinto T(2), Sanchez M(3), Maccari S(2), Massimi 
+A(2), Pietraforte D(3), Viora M(2).
+
+Author information:
+(1)Department of Therapeutic Research and Medicines Evaluation, Istituto 
+Superiore di Sanità, Viale Regina Elena, 299, 00161 Rome, Italy. Electronic 
+address: luciana.giordani@iss.it.
+(2)Department of Therapeutic Research and Medicines Evaluation, Istituto 
+Superiore di Sanità, Viale Regina Elena, 299, 00161 Rome, Italy.
+(3)Department of Cell Biology and Neurosciences, Istituto Superiore di Sanità, 
+Viale Regina Elena, 299, 00161 Rome, Italy.
+
+Clenbuterol (CLB) is a beta2-adrenergic agonist commonly used in asthma therapy, 
+but is also a non-steroidal anabolic drug often abused in sport doping 
+practices. Here we evaluated the in vitro impact of CLB on the physiology and 
+function of human monocytes and dendritic cells (DCs), instrumental in the 
+development of immune responses. We demonstrate that CLB inhibits the 
+differentiation of monocytes into DCs and this effect is specific and dependent 
+on β2-adrenergic receptor (AR) activation. We found that CLB treatment reduced 
+the percentage of CD1a(+) immature DCs, while increasing the frequency of 
+monocytes retaining CD14 surface expression. Moreover, CLB inhibited tumor 
+necrosis factor-alpha (TNF-alpha) enhanced IL-(interleukin)-10 and IL-6 
+production. In contrast, CLB did not modulate the phenotypic and functional 
+properties of monocytes and DCs, such as the surface expression of HLA-DR, CD83, 
+CD80 and CD86 molecules, cytokine production, immunostimulatory activity and 
+phagocytic activity. Moreover, we found that CLB did not modulate the activation 
+of NF-kB in DCs. Moreover, we found that the differentiation of monocytes into 
+DCs was associated with a significant decrease of β2-ARs mRNA expression. These 
+results provide new insights on the effect of CLB on monocyte differentiation 
+into DCs. Considering the frequent illegal use of CLB in doping, our work 
+suggests that this drug is potentially harmful to immune responses decreasing 
+the supply of DCs, thus subverting immune surveillance.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexcr.2015.10.032
+PMID: 26524508 [Indexed for MEDLINE]
+
+
+35. Front Pharmacol. 2015 Aug 13;6:171. doi: 10.3389/fphar.2015.00171. eCollection 
+2015.
+
+Adrenergic regulation of innate immunity: a review.
+
+Scanzano A(1), Cosentino M(1).
+
+Author information:
+(1)Center for Research in Medical Pharmacology, University of Insubria Varese, 
+Italy.
+
+The sympathetic nervous system has a major role in the brain-immune cross-talk, 
+but few information exist on the sympathoadrenergic regulation of innate immune 
+system. The aim of this review is to summarize available knowledge regarding the 
+sympathetic modulation of the innate immune response, providing a rational 
+background for the possible repurposing of adrenergic drugs as immunomodulating 
+agents. The cells of immune system express adrenoceptors (AR), which represent 
+the target for noradrenaline and adrenaline. In human neutrophils, adrenaline 
+and noradrenaline inhibit migration, CD11b/CD18 expression, and oxidative 
+metabolism, possibly through β-AR, although the role of α1- and α2-AR requires 
+further investigation. Natural Killer express β-AR, which are usually 
+inhibitory. Monocytes express β-AR and their activation is usually 
+antiinflammatory. On murine Dentritic cells (DC), β-AR mediate sympathetic 
+influence on DC-T cells interactions. In human DC β2-AR may affect Th1/2 
+differentiation of CD4+ T cells. In microglia and in astrocytes, β2-AR 
+dysregulation may contribute to neuroinflammation in autoimmune and 
+neurodegenerative disease. In conclusion, extensive evidence supports a critical 
+role for adrenergic mechanisms in the regulation of innate immunity, in 
+peripheral tissues as well as in the CNS. Sympathoadrenergic pathways in the 
+innate immune system may represent novel antiinflammatory and immunomodulating 
+targets with significant therapeutic potential.
+
+DOI: 10.3389/fphar.2015.00171
+PMCID: PMC4534859
+PMID: 26321956
+
+
+36. PLoS One. 2015 Jul 10;10(7):e0132559. doi: 10.1371/journal.pone.0132559. 
+eCollection 2015.
+
+Epinephrine Activation of the β2-Adrenoceptor Is Required for IL-13-Induced 
+Mucin Production in Human Bronchial Epithelial Cells.
+
+Al-Sawalha N(1), Pokkunuri I(1), Omoluabi O(2), Kim H(1), Thanawala VJ(1), 
+Hernandez A(2), Bond RA(3), Knoll BJ(3).
+
+Author information:
+(1)Department of Pharmacological and Pharmaceutical Sciences, University of 
+Houston, 4800 Calhoun Road, Houston, Texas, 77204, United States of America.
+(2)Department of Biology and Biochemistry, University of Houston, 4800 Calhoun 
+Road, Houston, Texas, 77204, United States of America.
+(3)Department of Pharmacological and Pharmaceutical Sciences, University of 
+Houston, 4800 Calhoun Road, Houston, Texas, 77204, United States of America; 
+Department of Biology and Biochemistry, University of Houston, 4800 Calhoun 
+Road, Houston, Texas, 77204, United States of America.
+
+Mucus hypersecretion by airway epithelium is a hallmark of inflammation in 
+allergic asthma and results in airway narrowing and obstruction. Others have 
+shown that administration a TH2 cytokine, IL-13 is sufficient to cause mucus 
+hypersecretion in vivo and in vitro. Asthma therapy often utilizes 
+β2-adrenoceptor (β2AR) agonists, which are effective acutely as bronchodilators, 
+however chronic use may lead to a worsening of asthma symptoms. In this study, 
+we asked whether β2AR signaling in normal human airway epithelial (NHBE) cells 
+affected mucin production in response to IL-13. This cytokine markedly increased 
+mucin production, but only in the presence of epinephrine. Mucin production was 
+blocked by ICI-118,551, a preferential β2AR antagonist, but not by CGP-20712A, a 
+preferential β1AR antagonist. Constitutive β2AR activity was not sufficient for 
+IL-13 induced mucin production and β-agonist-induced signaling is required. A 
+clinically important long-acting β-agonist, formoterol, was as effective as 
+epinephrine in potentiating IL-13 induced MUC5AC transcription. IL-13 induced 
+mucin production in the presence of epinephrine was significantly reduced by 
+treatment with selective inhibitors of ERK1/2 (FR180204), p38 (SB203580) and JNK 
+(SP600125). Replacement of epinephrine with forskolin + IBMX resulted in a 
+marked increase in mucin production in NHBE cells in response to IL-13, and 
+treatment with the inhibitory cAMP analogue Rp-cAMPS decreased mucin levels 
+induced by epinephrine + IL-13. Our findings suggest that β2AR signaling is 
+required for mucin production in response to IL-13, and that mitogen activated 
+protein kinases and cAMP are necessary for this effect. These data lend support 
+to the notion that β2AR-agonists may contribute to asthma exacerbations by 
+increasing mucin production via activation of β2ARs on epithelial cells.
+
+DOI: 10.1371/journal.pone.0132559
+PMCID: PMC4498766
+PMID: 26161982 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: Brian J. Knoll is an 
+Academic Editor for PLOS ONE. RA Bond is a co-inventor on a provisional patent 
+application 2011, joint between MD Anderson and the University of Houston - "The 
+steroid-sparing effects of betaadrenergic inverse agonists." At this point this 
+patent has not been assigned and has no value or license agreement in place or 
+pending issuance. RA Bond is also a minor shareholder in Invion, a company in 
+which he was scientific co-founder. RA Bond sold off almost his entire stock 
+ownership and now owns ~$10,000 worth of stock (as of 12 June 2015). RA Bond has 
+no other role than shareholder with Invion, and is not on any board and has no 
+consulting agreement. This does not alter the authors' adherence to PLOS ONE 
+Editorial policies and criteria.
+
+
+37. J Dent Res. 2014 Nov;93(11):1163-9. doi: 10.1177/0022034514551769. Epub 2014 Sep 
+24.
+
+Force-induced Adrb2 in periodontal ligament cells promotes tooth movement.
+
+Cao H(1), Kou X(1), Yang R(1), Liu D(1), Wang X(1), Song Y(1), Feng L(1), He 
+D(1), Gan Y(2), Zhou Y(3).
+
+Author information:
+(1)Department of Orthodontics Center for Craniofacial Stem Cell Research and 
+Regeneration.
+(2)Center for Temporomandibular Disorders and Orofacial Pain, Peking University 
+School and Hospital of Stomatology, Beijing, China.
+(3)Department of Orthodontics Center for Craniofacial Stem Cell Research and 
+Regeneration yanhengzhou@gmail.com.
+
+The sympathetic nervous system (SNS) regulates bone resorption through β-2 
+adrenergic receptor (Adrb2). In orthodontic tooth movement (OTM), mechanical 
+force induces and regulates alveolar bone remodeling. Compressive 
+force-associated osteoclast differentiation and alveolar bone resorption are the 
+rate-limiting steps of tooth movement. However, whether mechanical force can 
+activate Adrb2 and thus contribute to OTM remains unknown. In this study, 
+orthodontic nickel-titanium springs were applied to the upper first molars of 
+rats and Adrb1/2(-/-) mice to confirm the role of SNS and Adrb2 in OTM. The 
+results showed that blockage of SNS activity in the jawbones of rats by means of 
+superior cervical ganglion ectomy reduced OTM distance from 860 to 540 μm after 
+14 d of force application. In addition, the injection of nonselective Adrb2 
+agonist isoproterenol activated the downstream signaling of SNS to accelerate 
+OTM from 300 to 540 μm after 7 d of force application. Adrb1/2(-/-) mice showed 
+significantly reduced OTM distance (19.5 μm) compared with the wild-type mice 
+(107.6 μm) after 7 d of force application. Histopathologic analysis showed that 
+the number of Adrb2-positive cells increased in the compressive region of 
+periodontal ligament after orthodontic force was applied on rats. 
+Mechanistically, mechanical compressive force upregulated Adrb2 expression in 
+primary-cultured human periodontal ligament cells (PDLCs) through the elevation 
+of intracellular Ca(2+) concentration. Activation of Adrb2 in PDLCs increased 
+the RANKL/OPG ratio and promoted the peripheral blood mononuclear cell 
+differentiation to osteoclasts in the cocultured system. Upregulation of Adrb2 
+in PDLCs promoted osteoclastogenesis, which accelerated OTM through 
+Adrb2-enhanced bone resorption. In summary, this study suggests that mechanical 
+force-induced Adrb2 activation in PDLCs contributes to SNS-regulated OTM.
+
+© International & American Associations for Dental Research.
+
+DOI: 10.1177/0022034514551769
+PMCID: PMC4293769
+PMID: 25252876 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no potential conflicts of 
+interest with respect to the authorship and/or publication of this article.
+
+
+38. PLoS One. 2014 Jul 7;9(7):e101379. doi: 10.1371/journal.pone.0101379. 
+eCollection 2014.
+
+Functional β-adrenoceptors are important for early muscle regeneration in mice 
+through effects on myoblast proliferation and differentiation.
+
+Church JE(1), Trieu J(1), Sheorey R(1), Chee AY(1), Naim T(1), Baum DM(1), Ryall 
+JG(1), Gregorevic P(2), Lynch GS(1).
+
+Author information:
+(1)Basic and Clinical Myology Laboratory, Department of Physiology, The 
+University of Melbourne, Victoria, Australia.
+(2)Laboratory for Muscle Research & Therapeutics Development, Baker IDI Heart 
+and Diabetes Institute, Victoria, Australia.
+
+Muscles can be injured in different ways and the trauma and subsequent loss of 
+function and physical capacity can impact significantly on the lives of patients 
+through physical impairments and compromised quality of life. The relative 
+success of muscle repair after injury will largely determine the extent of 
+functional recovery. Unfortunately, regenerative processes are often slow and 
+incomplete, and so developing novel strategies to enhance muscle regeneration is 
+important. While the capacity to enhance muscle repair by stimulating 
+β2-adrenoceptors (β-ARs) using β2-AR agonists (β2-agonists) has been 
+demonstrated previously, the exact role β-ARs play in regulating the 
+regenerative process remains unclear. To investigate β-AR-mediated signaling in 
+muscle regeneration after myotoxic damage, we examined the regenerative capacity 
+of tibialis anterior and extensor digitorum longus muscles from mice lacking 
+either β1-AR (β1-KO) and/or β2-ARs (β2-KO), testing the hypothesis that muscles 
+from mice lacking the β2-AR would exhibit impaired functional regeneration after 
+damage compared with muscles from β1-KO or β1/β2-AR null (β1/β2-KO) KO mice. At 
+7 days post-injury, regenerating muscles from β1/β2-KO mice produced less force 
+than those of controls but muscles from β1-KO or β2-KO mice did not exhibit any 
+delay in functional restoration. Compared with controls, β1/β2-KO mice exhibited 
+an enhanced inflammatory response to injury, which delayed early muscle 
+regeneration, but an enhanced myoblast proliferation later during regeneration 
+ensured a similar functional recovery (to controls) by 14 days post-injury. This 
+apparent redundancy in the β-AR signaling pathway was unexpected and may have 
+important implications for manipulating β-AR signaling to improve the rate, 
+extent and efficacy of muscle regeneration to enhance functional recovery after 
+injury.
+
+DOI: 10.1371/journal.pone.0101379
+PMCID: PMC4084885
+PMID: 25000590 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist. PG was the recipient of a Senior Research 
+Fellowship sponsored by Pfizer Australia. This award was created to help 
+emerging scientists develop a program of independent, non-commercial research at 
+an Australian university or non-profit research institute. Sponsorship of this 
+award by Pfizer Australia provided PG with salary support and funds to cover 
+establishment costs. Pfizer did not participate in or contribute to the research 
+undertaken by PG, and did not review the findings arising from this research 
+prior to submission for publication. The financial sponsorship of this 
+independent research fellowship by Pfizer Australia does not constitute a 
+competing interest for the authors of this work, and does not alter the authors' 
+adherence to all the PLOS ONE policies on sharing data and materials.
+
+
+39. Handb Exp Pharmacol. 2014;219:387-403. doi: 10.1007/978-3-642-41199-1_20.
+
+GPCRs and arrestins in airways: implications for asthma.
+
+Penn RB(1), Bond RA, Walker JK.
+
+Author information:
+(1)Center for Translational Medicine, Department of Medicine, Jefferson Medical 
+College, Thomas Jefferson University, 1025 Walnut Street, Suite 317, 
+Philadelphia, PA, 19107, USA, Raymond.Penn@jefferson.edu.
+
+The obstructive lung disease asthma is treated by drugs that target, either 
+directly or indirectly, G protein-coupled receptors (GPCRs). GPCRs coupled to Gq 
+are the primary mediators of airway smooth muscle (ASM) contraction and 
+increased airway resistance, whereas the Gs-coupled beta-2-adrenoceptor (β2AR) 
+promotes pro-relaxant signaling in and relaxation of ASM resulting in greater 
+airway patency and reversal of life-threatening bronchoconstriction. In 
+addition, GPCR-mediated functions in other cell types, including airway 
+epithelium and hematopoietic cells, are involved in the control of lung 
+inflammation that causes most asthma. The capacity of arrestins to regulate GPCR 
+signaling, via either control of GPCR desensitization/resensitization or G 
+protein-independent signaling, renders arrestins an intriguing therapeutic 
+target for asthma and other obstructive lung diseases. This review will focus on 
+the potential role of arrestins in those GPCR-mediated airway cell functions 
+that are dysregulated in asthma.
+
+DOI: 10.1007/978-3-642-41199-1_20
+PMCID: PMC4429126
+PMID: 24292841 [Indexed for MEDLINE]
+
+
+40. EMBO Rep. 2012 Sep;13(9):855-60. doi: 10.1038/embor.2012.100. Epub 2012 Jul 13.
+
+Organismal regulation of XBP-1-mediated unfolded protein response during 
+development and immune activation.
+
+Sun J(1), Liu Y, Aballay A.
+
+Author information:
+(1)Department of Molecular Genetics and Microbiology, Duke University Medical 
+Center, Durham, North Carolina 27710, USA.
+
+Comment in
+    EMBO Rep. 2012 Sep;13(9):767-8. doi: 10.1038/embor.2012.117.
+
+The increased demand on protein folding in the endoplasmic reticulum (ER) during 
+bacterial infection activates the unfolded protein response (UPR). OCTR-1--a G 
+protein-coupled catecholamine receptor expressed in neurons--suppresses innate 
+immunity by downregulating a non-canonical UPR pathway and the p38 MAPK pathway. 
+Here, we show that OCTR-1 also regulates the canonical UPR pathway, which is 
+controlled by XBP-1, at the organismal level. Importantly, XBP-1 is not under 
+OCTR-1 control during development, only at the adult stage. Our results indicate 
+that the nervous system temporally controls the UPR pathway to maintain ER 
+homeostasis during development and immune activation.
+
+DOI: 10.1038/embor.2012.100
+PMCID: PMC3432796
+PMID: 22791024 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+41. Biochim Biophys Acta. 2011 Jan;1812(1):23-31. doi: 10.1016/j.bbadis.2010.07.003. 
+Epub 2010 Jul 15.
+
+Beta(2)-adrenergic receptor regulates cardiac fibroblast autophagy and collagen 
+degradation.
+
+Aránguiz-Urroz P(1), Canales J, Copaja M, Troncoso R, Vicencio JM, Carrillo C, 
+Lara H, Lavandero S, Díaz-Araya G.
+
+Author information:
+(1)Centro FONDAP CEMC, Centro de Estudios Moleculares de la Célula, Facultad de 
+Ciencias Químicas y Farmacéuticas, Universidad de Chile, Santiago, Chile.
+
+Autophagy is a physiological degradative process key to cell survival during 
+nutrient deprivation, cell differentiation and development. It plays a major 
+role in the turnover of damaged macromolecules and organelles, and it has been 
+involved in the pathogenesis of different cardiovascular diseases. Activation of 
+the adrenergic system is commonly associated with cardiac fibrosis and 
+remodeling, and cardiac fibroblasts are key players in these processes. Whether 
+adrenergic stimulation modulates cardiac fibroblast autophagy remains 
+unexplored. In the present study, we aimed at this question and evaluated the 
+effects of b(2)-adrenergic stimulation upon autophagy. Cultured adult rat 
+cardiac fibroblasts were treated with agonists or antagonists of beta-adrenergic 
+receptors (b-AR), and autophagy was assessed by electron microscopy, GFP-LC3 
+subcellular distribution, and immunowesternblot of endogenous LC3. The 
+predominant expression of b(2)-ARs was determined and characterized by 
+radioligand binding assays using [(3)H]dihydroalprenolol. Both, isoproterenol 
+and norepinephrine (non-selective b-AR agonists), as well as salbutamol 
+(selective b(2)-AR agonist) increased autophagic flux, and these effects were 
+blocked by propanolol (b-AR antagonist), ICI-118,551 (selective b(2)-AR 
+antagonist), 3-methyladenine but not by atenolol (selective b(1)-AR antagonist). 
+The increase in autophagy was correlated with an enhanced degradation of 
+collagen, and this effect was abrogated by the inhibition of autophagic flux. 
+Overall, our data suggest that b(2)-adrenergic stimulation triggers autophagy in 
+cardiac fibroblasts, and that this response could contribute to reduce the 
+deleterious effects of high adrenergic stimulation upon cardiac fibrosis.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2010.07.003
+PMID: 20637865 [Indexed for MEDLINE]
+
+
+42. Am J Respir Cell Mol Biol. 2011 Jan;44(1):91-8. doi: 10.1165/rcmb.2009-0372OC. 
+Epub 2010 Mar 4.
+
+β1, β2, and β3 adrenoceptors and Na+/H+ exchanger regulatory factor 1 expression 
+in human bronchi and their modifications in cystic fibrosis.
+
+Bossard F(1), Silantieff E, Lavazais-Blancou E, Robay A, Sagan C, Rozec B, 
+Gauthier C.
+
+Author information:
+(1)INSERM, UMR-915, l'Institut du Thorax, IRT-UN, 8 Quai Moncousu, Nantes, 
+France.
+
+To date, three β-adrenoceptor (β-AR) subtypes have been identified, but only 
+β(1)-ARs and β(2)-ARs have been characterized in human lungs. Moreover, β(2)-ARs 
+physically interact with the cystic fibrosis transmembrane conductance regulator 
+(CFTR) through the Na(+)/H(+) Exchanger Regulatory Factor 1 (NHERF1) protein. 
+β(3)-ARs, which stimulate CFTR activity in transfected cells, have not been 
+identified in human lungs. This study aimed (1) to characterize the presence of 
+β-AR subtypes, especially β(3)-AR, in human bronchi, and (2) to compare their 
+expression as well as that of NHERF1 in non-cystic fibrosis (CF) versus advanced 
+CF lung samples. In human non-CF bronchi, β(1)-AR, β(2)-AR, β(3)-AR, and NHERF1 
+transcripts and proteins were expressed mainly in bronchial epithelial cells. 
+Those results were strengthened by the native expression of β(1)-AR, β(2)-AR, 
+and β(3)-AR in a human epithelial cell line, 16HBE14o(-). All β-AR subtypes 
+stimulated CFTR activity. In CF bronchi, we demonstrated β(1)-AR and β(3)-AR 
+overexpression, and NHERF1 and β(2)-AR underexpression. The origin of this 
+protein remodeling (involving the physical or functional absence of CFTR, 
+infection, inflammation, or high adrenergic tone) deserves further 
+investigation. These results evidence for the first time, to the best of our 
+knowledge, the presence of β(3)-ARs in human bronchi, and suggest their 
+usefulness as a putative new pharmacologic target in lung diseases where fluid 
+homeostasis is altered. Furthermore, NHERF1 may be a new therapeutic target in 
+patients with CF, to facilitate the trafficking of mutated CFTR to plasma 
+membrane.
+
+DOI: 10.1165/rcmb.2009-0372OC
+PMID: 20203292 [Indexed for MEDLINE]
+
+
+43. J Clin Pharm Ther. 2009 Dec;34(6):631-43. doi: 10.1111/j.1365-2710.2009.01066.x.
+
+Beta-2 adrenergic receptor genetic polymorphisms and asthma.
+
+Hizawa N(1).
+
+Author information:
+(1)Department of Pulmonary Medicine, Institute of Clinical Medicine, University 
+of Tsukuba, Tsukuba 305 8575, Japan. nhizawa@md.tsukuba.ac.jp
+
+Beta-2-Adrenergic receptors (beta(2)AR) participate in the physiologic responses 
+of the lung, including bronchodilation and bronchoprotection, through mechanisms 
+such as mucociliary clearance, fluid accumulation and mediator release from mast 
+cells and basophils. Thus, these receptors may also play an important role in 
+the pathophysiology of asthma. The gene encoding beta(2)AR (ADRB2) is extremely 
+polymorphic, and studies of this gene improves our understanding of asthma and 
+possibly lead to new methods to prevent, diagnose and treat it. This review 
+summarizes results from various studies on the possible relationship of ADRB2 
+polymorphisms to asthma and asthma-related phenotypes, including bronchodilator 
+responses to inhaled beta(2)-agonists. At present, it appears that, for asthma, 
+ADRB2 polymorphisms are not aetiologically involved. However, they might affect 
+disease severity and clinical response to both acute and chronic administration 
+of beta(2)-agonists. The development is that by assessing the ADRB2 genotype, it 
+might be possible to predict the clinical course of asthma as well as 
+responsiveness to chronic administration of beta(2)-agonists. Carefully, 
+performed and adequately powered clinical trials continue to be important for 
+achieving those goals.
+
+DOI: 10.1111/j.1365-2710.2009.01066.x
+PMID: 20175796 [Indexed for MEDLINE]
+
+
+44. Immunity. 2009 Sep 18;31(3):362-7. doi: 10.1016/j.immuni.2009.08.013.
+
+Rethinking the pathogenesis of asthma.
+
+Holgate ST(1), Davies DE.
+
+Author information:
+(1)III Division, School of Medicine, University of Southampton, Southampton S016 
+61D, UK. s.holgate@soton.ac.uk
+
+Asthma research has focused primarily on allergic pathways on the basis that the 
+majority of asthma is associated with atopy, the recruitment of the Th2-type T 
+cell, the cytokines, and the chemokines that are released on exposure to 
+allergens, and the IgE pathway. However, despite considerable investment by 
+industry, targeting these pathways has not resulted in new treatments being 
+developed beyond blockade of cysteinyl leukotrienes and IgE and improvements in 
+inhaled corticosteroids and beta(2)-adrenoceptor bronchodilators. Increasingly, 
+it is recognized that asthma is a heterogeneous disorder, and while important, 
+allergen sensitization is only one component of the disease, with many other 
+environmental and genetic factors playing a role. In addition, these factors act 
+locally on a susceptible airway epithelium that is both structurally and 
+functionally deficient. It may be worthwhile to focus on increasing the 
+resilience of the airways to environmental insults in addition to improving 
+strategies that modify adaptive immunity or suppress inflammation.
+
+DOI: 10.1016/j.immuni.2009.08.013
+PMID: 19766079 [Indexed for MEDLINE]
+
+
+45. Pharmacol Res. 2010 Feb;61(2):121-8. doi: 10.1016/j.phrs.2009.08.003. Epub 2009 
+Aug 13.
+
+beta2-Agonist modulates epithelial gene expression involved in the T- and B-cell 
+chemotaxis and induces airway sensitization in human isolated bronchi.
+
+Faisy C(1), Pinto FM, Blouquit-Laye S, Danel C, Naline E, Buenestado A, Grassin 
+Delyle S, Burgel PR, Chapelier A, Advenier C, Candenas ML, Devillier P.
+
+Author information:
+(1)Research Unit UPRES EA220, Université Versailles Saint-Quentin, Hôpital Foch, 
+40 rue Worth, 92150 Suresnes, France. christophe.faisy@egp.aphp.fr
+
+Regular use of beta(2)-adrenoceptor agonists may enhance non-specific airway 
+responsiveness and inflammation. In earlier experimental studies, we showed that 
+prolonged in vitro fenoterol exposure induced airway sensitization via perturbed 
+epithelial regulation of bronchoconstriction. The aim of the present work was to 
+examine the involvement of inflammatory mediator genes and proinflammatory cells 
+and to investigate the role of the bronchial epithelium in these untoward 
+effects. Bronchial tissues were surgically removed from 17 ex-smokers. Bronchial 
+rings and primary cultures of bronchial epithelial cells were incubated with 
+0.1microM fenoterol for 15h. Levels of mRNA-expression were analyzed using a 
+real-time quantitative reverse transcription-polymerase chain reaction array. 
+Bronchial rings were contracted with endothelin-1 and immune cell infiltration 
+was assessed by immunohistochemistry. Compared to paired controls, fenoterol 
+up-regulated the mRNAs of cytokines/proteins implicated in the recruitment of T 
+and B cells or the activation and proliferation of bronchial epithelial cells 
+(CCL20/MIP-3alpha, FOXA2, PPAR-gamma) in isolated bronchi and in cultured 
+epithelial cells. Fenoterol exposure significantly enhanced CD8(+)-T and 
+differentiated CD138(+)-B-cells infiltration into the bronchi, especially the 
+subepithelial area. Increase in CD8 or CD138 labeling-intensity strongly 
+correlated with rise in maximal contraction to endothelin-1 induced by fenoterol 
+exposure. In summary, our results show that fenoterol modulates the T and B 
+cells chemotaxis possibly via the epithelial chemokine secretion in isolated 
+bronchi from ex-smokers. They also suggest that the infiltration of resident T 
+and B cells into the subepithelial area is associated with an increase in airway 
+responsiveness due to fenoterol exposure.
+
+Copyright 2009 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.phrs.2009.08.003
+PMID: 19683054 [Indexed for MEDLINE]
+
+
+46. Biochem Biophys Res Commun. 2008 Apr 18;368(4):887-92. doi: 
+10.1016/j.bbrc.2008.02.014. Epub 2008 Feb 13.
+
+Mouse embryonic stem cell-derived cardiomyocytes express functional 
+adrenoceptors.
+
+Yang H(1), Zhang Y, Liu Z, Chen P, Ma K, Zhou C.
+
+Author information:
+(1)Department of Cardiology, Peking University Third Hospital, Beijing 100083, 
+China.
+
+The cardiogenic capacity of embryonic stem (ES) cells has been 
+well-investigated. However, little is known about the development of 
+adrenoceptor (AR) systems during the process of ES cell differentiation, which 
+are critically important in cardiac physiology and pharmacology. In this present 
+study, we investigated the expression profile of adrenoceptor subtypes, 
+beta-adrenergic modulation of muscarinic receptors and adrenoceptor-related 
+signaling in cardiomyocytes derived from ES cells (ESCMs). Reverse 
+transcription-polymerase chain reaction revealed that undifferentiated mouse ES 
+cells expressed alpha(1A)-, alpha(1B)-, alpha(1D)- and beta(2)-AR mRNA. However, 
+beta(1)-AR was only expressed after vitamin C induction. The expressions of 
+alpha(1A)-, alpha(1D)- and beta(1)-ARs increased significantly while alpha(1B)- 
+and beta(2)-ARs showed no significant change during the differentiation process. 
+Furthermore, we detected the expression of tyrosine hydroxylase. Both 
+alpha(1)-AR and beta-AR could activate extracellular responsive kinase in ESCMs. 
+Isoprenaline could inhibit the expression of M(2) muscarinic receptor protein. 
+CGP20712A, a beta(1)-AR antagonist, up-regulated the expression of M(2) 
+muscarinic receptor while ICI118551, a beta(2)-AR antagonist, showed no effect. 
+These results indicated that functional adrenoceptors and tyrosine hydroxylase, 
+a critical enzyme in catecholamine biosynthesis, were differentially expressed 
+in ESCMs. Adrenoceptor-related signaling pathways and beta-adrenergic modulation 
+of muscarinic receptors were established during differentiation.
+
+DOI: 10.1016/j.bbrc.2008.02.014
+PMID: 18279663 [Indexed for MEDLINE]
+
+
+47. Br J Pharmacol. 2008 Feb;153(4):751-9. doi: 10.1038/sj.bjp.0707619. Epub 2008 
+Jan 14.
+
+beta(1)- and beta(2)-adrenoceptor responses in cardiomyocytes derived from human 
+embryonic stem cells: comparison with failing and non-failing adult human heart.
+
+Brito-Martins M(1), Harding SE, Ali NN.
+
+Author information:
+(1)National Heart and Lung Institute, Imperial College, London, UK.
+
+Comment in
+    Br J Pharmacol. 2008 Feb;153(4):625-6. doi: 10.1038/sj.bjp.0707633.
+
+BACKGROUND AND PURPOSE: Characterization of human embryonic stem cell-derived 
+cardiomyocytes (hESC-CM) in relation to adult myocytes is essential for their 
+future use in transplantation or as a model system. The beta-adrenoceptor 
+pathways, which are known to be effective early in hESC-CM development, are of 
+major importance because of their control of rate and force of beating, 
+arrhythmia generation and apoptosis/necrosis. We have therefore performed 
+detailed pharmacological analysis of the beta-adrenoceptor responses in 
+developing hESC-CM.
+EXPERIMENTAL APPROACH: hESC-CMs were differentiated from H7 ESCs and studied up 
+to 79 days of differentiation. Rate of beating and time course of contraction 
+and relaxation were measured in superfused preparations.
+KEY RESULTS: Responses to the mixed beta(1)- and beta(2)-adrenoceptor agonist 
+isoprenaline were evident from day 10 to day 79. Stability of the responses 
+during an application, for repeated applications on the same experimental day 
+and over the time of development, was determined. Concentrations for 
+half-maximal response (12.9 nM) were similar to those from adult human heart, 
+but closer to those obtained from failing rather than normal ventricle. 
+Acceleration of both contraction and relaxation was quantitatively similar to 
+that in adult ventricular myocytes, as was sensitivity to muscarinic inhibition. 
+Use of specific antagonists showed that both beta(1)- and beta(2)-adrenoceptors 
+contributed to contractile responses, as seen with adult myocytes.
+CONCLUSIONS AND IMPLICATIONS: These data show the compatibility of hESC-CM with 
+adult human myocardium in terms of beta-adrenoceptor response. The experiments 
+described here also confirm the utility of the hESC-CM preparation for detailed 
+pharmacological analysis.
+
+DOI: 10.1038/sj.bjp.0707619
+PMCID: PMC2259205
+PMID: 18193079 [Indexed for MEDLINE]
+
+
+48. J Cell Biochem. 2008 May 15;104(2):545-53. doi: 10.1002/jcb.21646.
+
+Beta2-adrenergic receptors expressed on murine chondrocytes stimulate cellular 
+growth and inhibit the expression of Indian hedgehog and collagen type X.
+
+Lai LP(1), Mitchell J.
+
+Author information:
+(1)Department of Pharmacology, University of Toronto, Toronto, Ontario, Canada.
+
+The sympathetic nervous system has been demonstrated to have a role in 
+regulating bone remodeling through beta-adrenergic receptors (beta-AR) expressed 
+on osteoblasts. Studies using beta(2)-adrenergic receptor agonists in vivo have 
+also suggested an effect on endochondral bone development; however, it was not 
+clear if this effect was mediated through osteoblasts or chondrocytes. To more 
+thoroughly examine the role of beta-AR in chondrocytes we characterized the 
+expression and signal transduction systems activated by beta-AR in growth plate 
+chondrocytes prepared from ribs of embryonic E18.5 mice. Using RT-PCR and 
+immunohistochemistry we found that the chondrocytes expressed only beta(2)-AR. 
+The receptors were coupled to stimulation of adenylyl cyclase, phosphorylation 
+of the cyclic AMP response element binding protein (CREB) and extracellular 
+signal-regulated kinase (ERK1/2). Stimulation of ERK1/2 was transient and 
+limited by the concomitant stimulation of the mitogen-activated protein kinase 
+phosphatase (MKP-1). Isoproterenol stimulated the growth of chondrocytes as 
+assessed by increased incorporation of [(3)H]-thymidine into the cells. The 
+cellular expression of two markers of chondrocyte differentiation, Indian 
+hedgehog, expressed in pre-hypertrophic cells and collagen type X, expressed in 
+hypertrophic chondrocytes, were both significantly inhibited after incubation 
+with isoproterenol. Collectively, these findings demonstrate regulation of 
+chondrocytes through beta(2)-AR expressed on the cells that stimulate their 
+growth and inhibit their differentiation, indicating that the sympathetic 
+nervous system may be an important regulator of embryonic cartilage development.
+
+Copyright 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/jcb.21646
+PMID: 18059015 [Indexed for MEDLINE]
+
+
+49. Cell Mol Neurobiol. 2007 Dec;27(8):1007-21. doi: 10.1007/s10571-007-9202-9. Epub 
+2007 Sep 8.
+
+Increased beta(2)-adrenergic receptor activity by thyroid hormone possibly leads 
+to differentiation and maturation of astrocytes in culture.
+
+Ghosh M(1), Das S.
+
+Author information:
+(1)Indian Institute of Chemical Biology, Jadavpur, Kolkata, 700032, India.
+
+(1) Our earlier studies indicate a downsteam regulatory role of the 
+beta-adrenergic receptor (beta-AR) system in thyroid hormone induced 
+differentiation and maturation of astrocytes. In the present study we have 
+investigated the contributions of the subtypes of beta-AR in the above 
+phenomenon. (2) Primary astrocyte cultures were grown under thyroid hormone 
+deficient as well as under euthyroid conditions. [(125)I]Pindolol ([(125)I]PIN) 
+binding studies showed a gradual increase in the specific binding to beta(2)-AR 
+when observed at 5, 10, 15, and 20 days under both cultural conditions. Thyroid 
+hormone caused an increase in binding of [(125)I]PIN to beta(2)-AR compared to 
+thyroid hormone deficient controls at all ages of astrocyte culture. (3) 
+Saturation studies using [(125)I]PIN in astrocyte membranes prepared from 
+20-day-old cultures showed a significant increase in the affinity of the 
+receptors (K (D)) in the thyroid hormone treated cells without any change in 
+receptor number (B (max)). (4) beta(2)-AR mRNA levels were measured by real-time 
+PCR during ontogenic development as well as during exposure of 10-day-old 
+hypothyroid cultures to normal levels of thyroid hormone for 2, 6, 12, and 24 h. 
+None of the conditions caused any significant change in the beta(2)-adrenergic 
+receptor mRNA levels when compared with corresponding hypothyroid controls. (5) 
+Over expression of beta(2)-AR cDNA in hypothyroid astrocytes caused 
+morphological transformation in spite of the absence of thyroid hormone in the 
+medium. (6) Taken together, results suggest thyroid hormone causes a selective 
+increase in [(125)I]PIN binding to beta(2)-AR due to increase in receptor 
+affinity, which may lead to maturation of astrocytes.
+
+DOI: 10.1007/s10571-007-9202-9
+PMID: 17828453 [Indexed for MEDLINE]
+
+
+50. Brain Behav Immun. 2008 Jan;22(1):80-8. doi: 10.1016/j.bbi.2007.06.016. Epub 
+2007 Aug 22.
+
+Sympathetic nervous modulation of the skin innate and adaptive immune response 
+to peptidoglycan but not lipopolysaccharide: involvement of beta-adrenoceptors 
+and relevance in inflammatory diseases.
+
+Manni M(1), Maestroni GJ.
+
+Author information:
+(1)Istituto Cantonale di Patologia, Center for Experimental Pathology, Via in 
+Selva 24, P.O. Box, 6601 Locarno, Switzerland.
+
+Disorders of the skin immune activity are implicated in the pathogenesis of 
+acquired inflammatory skin disorders. Inflammatory diseases including psoriasis, 
+atopic dermatitis, lichen planus and vitiligo have also been associated with 
+local alterations of adrenergic mechanisms and emotional stress. Here we show 
+that the beta-adrenergic receptors antagonist propranolol along with 
+peptidoglycan, but not LPS, combined with intradermal injection of a soluble 
+protein, shifted the recall memory response to the Th1 type. The specific 
+beta2-AR antagonist ICI 118,551 did not reproduce this effect suggesting that 
+inhibition of both beta1- and beta2-AR caused the Th1 polarization. The 
+underlying mechanism included enhanced local expression of IFN-gamma, IL-12 and 
+IL-23 as well as of IFN-beta and CXCR3 ligands during the innate phase of the 
+response which resulted in an increase of antigen-positive plasmacytoid 
+dendritic cells (pDCs) in the draining lymph node. In particular, modulation of 
+inflammatory cytokines, and IFN-beta inducible genes expression appeared to 
+involve also the beta1-AR. Plasmacytoid dendritic cells and IL-23 were recently 
+reported to play a central role in the pathogenesis of Th1-sustained 
+inflammatory skin diseases such as psoriasis. Thus, primary beta-adrenoceptors 
+signaling defects or altered sympathetic nervous activity together with selected 
+pattern recognition receptors activation might serve as initiation and/or 
+persistence factors for numerous Th1-sustained inflammatory skin diseases.
+
+DOI: 10.1016/j.bbi.2007.06.016
+PMID: 17716858 [Indexed for MEDLINE]
+
+
+51. Am J Respir Cell Mol Biol. 2008 Feb;38(2):127-34. doi: 10.1165/rcmb.2007-0198TR. 
+Epub 2007 Aug 20.
+
+Alveolar epithelial beta2-adrenergic receptors.
+
+Mutlu GM(1), Factor P.
+
+Author information:
+(1)Northwestern University Feinberg School of Medicine, Pulmonary and Critical 
+Care Medicine, 240 E. Huron Street, McGaw M-300, Chicago, IL 60611, USA. 
+g-mutlu@northwestern.edu
+
+beta(2)-adrenergic receptors are present throughout the lung, including the 
+alveolar airspace, where they play an important role for regulation of the 
+active Na(+) transport needed for clearance of excess fluid out of alveolar 
+airspace. beta(2)-adrenergic receptor signaling is required for up-regulation of 
+alveolar epithelial active ion transport in the setting of excess alveolar 
+edema. The positive, protective effects of beta(2)-adrenergic receptor signaling 
+on alveolar active Na(+) transport in normal and injured lungs provide 
+substantial support for the use of beta-adrenergic agonists to accelerate 
+alveolar fluid clearance in patients with cardiogenic and noncardiogenic 
+pulmonary edema. In this review, we summarize the role of beta(2)-adrenergic 
+receptors in the alveolar epithelium with emphasis on their role in the 
+regulation of alveolar active Na(+) transport in normal and injured lungs.
+
+DOI: 10.1165/rcmb.2007-0198TR
+PMCID: PMC2214676
+PMID: 17709598 [Indexed for MEDLINE]
+
+
+52. J Heart Lung Transplant. 2007 Feb;26(2):138-44. doi: 
+10.1016/j.healun.2006.11.005.
+
+Albuterol improves impaired mucociliary clearance after lung transplantation.
+
+Laube BL(1), Karmazyn YJ, Orens JB, Mogayzel PJ Jr.
+
+Author information:
+(1)Eudowood Division of Pediatric Respiratory Sciences, The Johns Hopkins 
+Medical Institutions, Baltimore, Maryland 21287-2533, USA.
+
+BACKGROUND: Previous studies have shown that mucociliary clearance (MCC) is 
+diminished after lung transplantation. However, it is unknown how early this 
+deficit occurs after transplantation, or whether the abnormality can be improved 
+by pharmacologic means. We hypothesized that impairment of MCC is evident soon 
+after lung transplantation and that the defect in MCC can be improved by inhaled 
+beta(2)-adrenergic receptor agonists.
+METHODS: MCC and cough clearance (CC) were quantified in seven patients at 76 
++/- 48 days (mean +/- standard deviation) after lung transplantation (baseline 
+visit) and again 1 week later after an acute inhalation of albuterol. MCC was 
+also determined once in four healthy subjects. To measure MCC, volunteers 
+inhaled 99m-technetium-sulfur colloid aerosol, followed by gamma-camera imaging 
+of their lungs for 76 minutes.
+RESULTS: Baseline MCC was significantly reduced in transplant patients, compared 
+with healthy subjects, averaging 8.9 +/- 7.3% and 20.9 +/- 15.1%, respectively 
+(p = 0.05). CC was not affected by transplantation. Acute inhalation of 
+albuterol significantly improved MCC in transplant patients (31.9 +/- 21.9%) 
+compared with baseline values (p < 0.05).
+CONCLUSIONS: MCC is diminished within a few months after transplantation. 
+However, the response to albuterol suggests that the deficit is not static and 
+can be improved with inhalation of a beta(2)-adrenergic receptor agonist.
+
+DOI: 10.1016/j.healun.2006.11.005
+PMID: 17258147 [Indexed for MEDLINE]
+
+
+53. J Neuroimmunol. 2005 Aug;165(1-2):129-38. doi: 10.1016/j.jneuroim.2005.04.015.
+
+Thermal injury and sepsis modulates beta-adrenergic receptors and cAMP responses 
+in monocyte-committed bone marrow cells.
+
+Muthu K(1), Deng J, Romano F, He LK, Gamelli R, Shankar R, Jones SB.
+
+Author information:
+(1)Department of Physiology, Loyola University Medical Center, 2160 South First 
+Ave., Maywood, IL 60153, United States.
+
+We have previously reported that adrenergic stimulation enhances monocytopoiesis 
+following experimental burn injury and sepsis (BI/S). In the present work we 
+measured beta-adrenergic receptor number and affinity in bone marrow committed 
+monocyte progenitor cells (CD59(+)) following BI/S. We find that BI/S treatment 
+significantly decreased monocyte progenitor cell beta-adrenergic receptors but 
+significantly increased receptor binding affinity and isoproterenol-stimulated 
+cAMP production. CD14 expression in macrophages derived in vitro from CD59(+) 
+cells following BI/S was significantly increased by epinephrine and this change 
+was blocked by beta(2)-adrenergic receptor antagonist. PCR analysis suggests the 
+presence of beta(2)- but not beta(1)-adrenergic receptors. Enhanced adrenergic 
+receptor signaling in CD59(+) bone marrow cells following BI/S may be important 
+in macrophage development.
+
+DOI: 10.1016/j.jneuroim.2005.04.015
+PMID: 15955567 [Indexed for MEDLINE]
+
+
+54. Pulm Pharmacol Ther. 2005;18(1):1-8. doi: 10.1016/j.pupt.2004.08.001.
+
+Mucociliary dysfunction in COPD: effect of current pharmacotherapeutic options.
+
+Rogers DF(1).
+
+Author information:
+(1)Thoracic Medicine, National Heart and Lung Institute, Imperial College 
+London, Dovehouse Street, London SW3 6LY, UK. duncan.rogers@imperial.ac.uk
+
+Chronic obstructive pulmonary disease (COPD) is a major cause of morbidity and 
+mortality worldwide. COPD comprises multiple components which, as well as a 
+systemic component, include pulmonary inflammation, airway remodelling and 
+mucociliary dysfunction. The latter features contribute to the development of 
+chronic, progressive airflow limitation. The mucociliary dysfunction component 
+of COPD is due to mucus hypersecretion coupled with a decrease in mucus 
+transport, and represents an important pathophysiological feature requiring 
+appropriate treatment. Current international guidelines do not recommend the use 
+of mucolytics in the treatment of stable COPD. In contrast, bronchodilators are 
+central to symptomatic management of COPD, and include beta(2)-adrenoceptor 
+agonists, anti-cholinergics and methylxanthines. Interestingly, long-acting 
+beta(2)-agonists (LABAs), rather than short-acting beta(2)-agonists, have the 
+potential to improve the mucociliary component of COPD, in addition to providing 
+symptomatic treatment by their bronchodilator action. Combination therapy with a 
+LABA and an inhaled corticosteroid has the potential to more fully address the 
+multicomponent nature of COPD by providing important anti-inflammatory activity, 
+which may indirectly further improve mucociliary clearance. Theoretically, 
+anti-cholinergics are likely to have mixed effects on mucociliary function, but 
+clinically these effects have been difficult to demonstrate. Finally, a number 
+of novel targets for the treatment of airway mucociliary dysfunction have been 
+identified, and targeting agents are currently in development.
+
+DOI: 10.1016/j.pupt.2004.08.001
+PMID: 15607121 [Indexed for MEDLINE]
+
+
+55. J Pharmacol Exp Ther. 2004 Feb;308(2):529-37. doi: 10.1124/jpet.103.060095. Epub 
+2003 Nov 10.
+
+Terbutaline is a developmental neurotoxicant: effects on neuroproteins and 
+morphology in cerebellum, hippocampus, and somatosensory cortex.
+
+Rhodes MC(1), Seidler FJ, Abdel-Rahman A, Tate CA, Nyska A, Rincavage HL, 
+Slotkin TA.
+
+Author information:
+(1)Department of Pharmacology and Cancer Biology, Duke University Medical 
+Center, Durham, NC 27710, USA.
+
+Beta(2)-adrenoceptor agonists, especially terbutaline, are widely used to arrest 
+preterm labor, but they also cross the placenta to stimulate fetal 
+beta-adrenoceptors that control neural cell differentiation. We evaluated the 
+effects of terbutaline administration in neonatal rats, a stage of 
+neurodevelopment corresponding to human fetal development. Terbutaline 
+administered on postnatal days PN2 to 5 elicited neurochemical changes 
+indicative of neuronal injury and reactive gliosis: immediate increases in glial 
+fibrillary acidic protein and subsequent induction of the 68-kDa neurofilament 
+protein. Quantitative morphological evaluations carried out on PN30 indicated 
+structural abnormalities in the cerebellum, hippocampus, and somatosensory 
+cortex. In the cerebellum, PN2 to 5 terbutaline treatment reduced the number of 
+Purkinje cells and elicited thinning of the granular and molecular layers. The 
+hippocampal CA3 region also displayed thinning, along with marked gliosis, 
+effects that were restricted to females. In the somatosensory cortex, 
+terbutaline evoked a reduction in the proportion of pyramidal cells and an 
+increase in smaller, nonpyramidal cells; again, females were affected more than 
+males. Although abnormalities were obtained with later terbutaline treatment 
+(PN11 to 14), in general the effects were smaller than those seen with PN2 to 5 
+exposure. Our results indicate that terbutaline is a neurotoxicant that elicits 
+biochemical alterations and structural damage in the immature brain during a 
+critical period. These effects point to a causal relationship between fetal 
+terbutaline exposure and the higher incidence of cognitive and neuropsychiatric 
+disorders reported for the offspring of women receiving terbutaline therapy for 
+preterm labor.
+
+DOI: 10.1124/jpet.103.060095
+PMID: 14610225 [Indexed for MEDLINE]
+
+
+56. J Allergy Clin Immunol. 2002 Mar;109(3):491-7. doi: 10.1067/mai.2002.122154.
+
+Glucocorticoid effects on the beta-adrenergic receptor-adenylyl cyclase system 
+of human airway epithelium.
+
+Aksoy MO(1), Mardini IA, Yang Y, Bin W, Zhou S, Kelsen SG.
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, Department of Medicine, 
+Temple University School of Medicine, Philadelphia, PA, USA.
+
+BACKGROUND: Activation of the beta(2)-adrenergic receptor (beta(2)AR) system 
+expressed by human airway epithelial cells elicits a variety of cyclic adenosine 
+monophosphate (cAMP)-dependent processes that help determine airway caliber and 
+the intensity of airway inflammation in asthma. Glucocorticoids, mainstays in 
+the treatment of asthma, profoundly affect the expression and function of the 
+beta(2)-adrenergic receptor-adenylyl cyclase (beta(2)AR-AC) system in a variety 
+of cell types. However, the effects of glucocorticoids on the beta(2)AR-AC 
+system expressed by human airway epithelial cells are unstudied.
+OBJECTIVE: We examined the effects of dexamethasone (DEX) on beta(2)AR gene 
+expression and the function of the beta(2)AR-AC system in cultured human airway 
+epithelial cells.
+METHODS: Studies were performed in normal airway epithelial cells and BEAS-2B 
+cells. Beta(2)AR gene expression was assessed from measurements of 
+beta-adrenergic receptor density, beta(2)AR mRNA, and the activity of a 
+full-length beta(2)AR promoter-luciferase reporter construct. The function of 
+the beta(2)AR-AC system was assessed from cAMP production in response to the 
+beta(2)-agonist isoproterenol and the expression of the stimulatory G protein 
+G(alpha)s.
+RESULTS: DEX had no effect on beta-adrenergic receptor density or on the 
+beta(1)/beta(2) ratio over a wide range of concentrations and exposure times. 
+However, DEX significantly but transiently enhanced beta(2)AR mRNA levels 
+(approximately 1.5-fold) and beta(2)AR promoter activity (approximately 
+1.5-fold), indicating increased beta(2)AR gene transcription. DEX also 
+dose-dependently enhanced cAMP responses to isoproterenol but not to forskolin, 
+a direct activator of adenylyl cyclase. DEX-induced changes in cAMP production 
+were associated with small (approximately 15%) increases in G(alpha)s 
+expression.
+CONCLUSIONS: These data indicate that glucocorticoids only transiently enhance 
+beta(2)AR gene transcription and fail to increase steady-state levels of 
+beta(2)AR protein in human airway epithelial cells. Nonetheless, 
+glucocorticoid-induced effects on the beta(2)AR-AC system of human airway 
+epithelial cells contribute to the beneficial effects of corticosteroids in 
+asthma by enhancing the functional response to beta(2)-agonists.
+
+DOI: 10.1067/mai.2002.122154
+PMID: 11897997 [Indexed for MEDLINE]
+
+
+57. Eur J Nucl Med. 1988;14(11):533-7. doi: 10.1007/BF00286771.
+
+Investigation into the effect of Fenoterol on mucociliary clearance in patients 
+with chronic bronchitis.
+
+Weich DJ(1), Viljoen H, Sweetlove MA, Pretorius PH, van Rensburg AJ, Lötter MG, 
+Minnaar PC, Otto AC.
+
+Author information:
+(1)Department of Internal Medicine, University of the Orange Free State, 
+Bloemfontein, South Africa.
+
+We investigated the effect of Fenoterol, a selective beta 2 adrenoceptor 
+stimulant, on mucociliary clearance in 12 patients with chronic bronchitis. 
+Mucociliary clearance was measured with a scintillation camera after inhalation 
+of a 99mTc labelled aerosol. Fenoterol was administered one h after acquisition 
+commenced and imaging was maintained for a further two h. Three regions of 
+interest (ROI) were selected over each lung to generate time activity curves. 
+Corrections for decay, alveolar deposition (using 24 h image), cough and 
+movement of activity through each ROI were carried out. An exponential function 
+was fitted to the clearance curves to determine clearance rates. The increase in 
+percentage clearance after Fenoterol administration for the left and right whole 
+lung ROI was 35% and 36% per h respectively (P = 0.006 and 0.020). Fenoterol 
+enhances cilial clearance in chronic bronchitis patients.
+
+DOI: 10.1007/BF00286771
+PMID: 3208783 [Indexed for MEDLINE]
+
+
+58. Curr Top Dev Biol. 1984;19:65-79. doi: 10.1016/s0070-2153(08)60395-6.
+
+Role of cyclic AMP, prostaglandins, and catecholamines during normal palate 
+development.
+
+Greene RM, Garbarino MP.
+
+The biochemical regulatory mechanisms controlling palatal differentiation are 
+largely unknown. Published data suggest that hormonally regulated levels of 
+cyclic AMP may be important in normal, as well as abnormal, development of the 
+secondary palate. Palatal cAMP, prostaglandins, and catecholamines appear to be 
+integrally involved in cellular differentiation during normal palatal 
+development. Studies such as those outlined in this chapter are fundamental to 
+meaningful investigations probing the etiology of abnormal development. 
+Questions dealing with biochemical mechanisms of action of potential cleft 
+palate teratogens, or with genetically based orofacial malformations, must be 
+grounded on a thorough understanding of biochemical events and regulation of 
+these events during normal craniofacial development. Evidence suggests that 
+cyclic AMP levels, possibly regulated by prostaglandin and/or catecholamine 
+receptor occupancy, may play an important role in normal growth and 
+differentiation of the developing orofacial region and may serve as metabolic 
+foci for teratogenic perturbation resulting in palatal clefting.
+
+DOI: 10.1016/s0070-2153(08)60395-6
+PMID: 6094114 [Indexed for MEDLINE]

@@ -1,0 +1,255 @@
+1. Development. 2011 Aug;138(16):3533-43. doi: 10.1242/dev.063727.
+
+Notch signaling prevents mucous metaplasia in mouse conducting airways during 
+postnatal development.
+
+Tsao PN(1), Wei SC, Wu MF, Huang MT, Lin HY, Lee MC, Lin KM, Wang IJ, Kaartinen 
+V, Yang LT, Cardoso WV.
+
+Author information:
+(1)Department of Pediatrics, National Taiwan University Hospital, Taipei 100, 
+Taiwan. tsaopn@ntu.edu.tw
+
+Goblet cell metaplasia and mucus overproduction contribute to the pathogenesis 
+of chronic lung diseases, including asthma and chronic obstructive pulmonary 
+disease (COPD). Notch signaling regulates cell fate decisions and is crucial in 
+controlling goblet cell differentiation in the gut epithelium. Little is known, 
+however, about how endogenous Notch signaling influences the goblet cell 
+differentiation program that takes place in the postnatal lung. Using a 
+combination of genetic and in vitro approaches here we provide evidence of a 
+novel role for Notch in restricting goblet cell differentiation in the airway 
+epithelium during the postnatal period. Conditional inactivation of the 
+essential Notch pathway component Pofut1 (protein O-fucosyltransferase1) in 
+Tgfb3-Cre-expressing mice resulted in an aberrant postnatal airway phenotype 
+characterized by marked goblet cell metaplasia, decreased Clara cell number and 
+increase in ciliated cells. The presence of the same phenotype in mice in which 
+the Notch transcriptional effector Rbpjk was deleted indicated the involvement 
+of the canonical Notch pathway. Lineage study in vivo suggested that goblet 
+cells originated from a subpopulation of Clara cells largely present in proximal 
+airways in which Notch was disrupted. The phenotype was confirmed by a panel of 
+goblet cell markers, showed no changes in cell proliferation or altered 
+expression of proinflammatory cytokines and was associated with significant 
+downregulation of the bHLH transcriptional repressor Hes5. Luciferase reporter 
+analysis suggested that Notch directly repressed MUC5AC transcription in lung 
+epithelial cells. The data suggested that during postnatal life Notch is 
+required to prevent Clara cells from differentiating into goblet cells.
+
+DOI: 10.1242/dev.063727
+PMCID: PMC3148592
+PMID: 21791528 [Indexed for MEDLINE]
+
+
+2. Neurosci Lett. 2008 Jun 13;438(1):42-7. doi: 10.1016/j.neulet.2008.04.002. Epub 
+2008 Apr 4.
+
+Autocrine TGF-beta signaling is required for the GDNF/CNTF-induced neuronal 
+differentiation of adrenal chromaffin tsAM5D cells expressing 
+temperature-sensitive SV40 T-antigen.
+
+Murata T(1), Koide N, Tsuboi M, Kohno S, Hikita K, Kaneda N.
+
+Author information:
+(1)Department of Analytical Neurobiology, Faculty of Pharmacy, Meijo University, 
+Tempaku, Nagoya 468-8503, Japan.
+
+We recently established adrenal medullary cell line tsAM5D, which was 
+immortalized by use of a temperature-sensitive mutant of the oncogene simian 
+virus 40 large T-antigen. In the present study, when co-treated with glial cell 
+line-derived neurotrophic factor (GDNF) and ciliary neurotrophic factor (CNTF), 
+tsAM5D cells proliferated at the permissive temperature (33 degrees C) for the 
+T-antigen expression and differentiated into neuron-like cells at the 
+nonpermissive temperature (39 degrees C). Interestingly, in GDNF/CNTF-treated 
+cultures, the addition of pan-specific transforming growth factor 
+(TGF)-beta-neutralizing antibody did not affect the cell proliferation at 33 
+degrees C, but significantly reduced the survival of neuronally differentiated 
+cells at 39 degrees C. Using real-time RT-PCR for analysis of GDNF/CNTF-treated 
+cells, we found that the expression of mRNAs for TGF-beta1, TGF-beta2, and 
+TGF-beta3 was up-regulated by the temperature shift. These results suggest that 
+autocrine TGF-beta signaling is necessary for the survival of 
+GDNF/CNTF-differentiated tsAM5D cells upon the temperature shift.
+
+DOI: 10.1016/j.neulet.2008.04.002
+PMID: 18455310 [Indexed for MEDLINE]
+
+
+3. J Neurochem. 2005 Jul;94(2):367-79. doi: 10.1111/j.1471-4159.2005.03201.x.
+
+The p38 mitogen-activated protein kinase pathway negatively regulates 
+Ca2+-activated K+ channel trafficking in developing parasympathetic neurons.
+
+Chae KS(1), Dryer SE.
+
+Author information:
+(1)Department of Biology and Biochemistry, University of Houston, Houston, TX 
+77204-5513, USA.
+
+The trafficking of large-conductance Ca2+-activated K+ channels (K(Ca)) in chick 
+ciliary ganglion neurons is regulated by growth factors. Here we show that a 
+canonical p38 cascade inhibits K(Ca) trafficking in ciliary ganglion neurons. 
+Two different p38 inhibitors (SB202190 or SB203580) or over-expression of 
+dominant-negative forms of several components of the p38 cascade increased K(Ca) 
+in ciliary neurons. Inhibition of protein synthesis or Golgi processing had no 
+effect on this phenomenon, suggesting that p38 is acting at a distal step of the 
+trafficking pathway. Depolymerization of filamentous actin (F-actin) increased 
+functional expression of K(Ca), whereas stabilization of F-actin inhibited the 
+effect of SB202190 on K(Ca) trafficking. SB202190 also caused an 
+immunochemically detectable increase in K(Ca) on the plasma membrane. Inhibition 
+of p38 decreased the extent of cortical F-actin in ciliary neurons. Macroscopic 
+K(Ca) is suppressed by transforming growth factor (TGF) beta3. Application of 
+TGFbeta3 increased the phosphorylation of p38 in ciliary neurons and increased 
+cortical F-actin. Thus, the p38 signaling cascade endogenously suppresses 
+development of functional K(Ca), in part by stabilizing an F-actin barrier that 
+prevents plasma membrane insertion of functional channel complexes. This cascade 
+also appears to mediate inhibitory effects of TGFbeta3 on the expression of 
+K(Ca).
+
+DOI: 10.1111/j.1471-4159.2005.03201.x
+PMID: 15998288 [Indexed for MEDLINE]
+
+
+4. Ophthalmologica. 2005 May-Jun;219(3):171-6. doi: 10.1159/000085250.
+
+Comparison of the proliferation and differentiation ability between adult rat 
+retinal stem cells and cerebral cortex-derived neural stem cells.
+
+Liu IH(1), Chen SJ, Ku HH, Kao CL, Tsai FT, Hsu WM, Lo CW, Kuo YH, Kuo CD, Lee 
+CH, Chiou SH.
+
+Author information:
+(1)Department of Ophthalmology, Taipei Veterans General Hospital and National 
+Yang-Ming University, Taipei, Taiwan, ROC.
+
+Recent studies have demonstrated that retinal stem cells (RSCs) and stem cells 
+of the central nervous system both exhibited the abilities of self-renewal, 
+proliferation and differentiation into multilineage. In the present study, we 
+compared the proliferation and differentiation abilities between RSCs and 
+cerebral corticex-derived neural stem cells (CNSCs) of adult rats. Stem cells 
+isolated from pigmented ciliary margins of eyes and cerebral cortical tissues of 
+adult rats were cultured in 96-well plates that contained serum-free medium with 
+epidermal growth factor (EGF) and basic fibroblast growth factor (bFGF). In 
+contrast to RSCs, which stopped proliferating after the 8th week, the total cell 
+count of neurospheres in CNSCs increased twofold at the 5th week and more than 
+fourfold at the 10th week after in vitro culture. In contrast, RSCs stopped 
+proliferating after 8 weeks of culture. After adding 2% fetal calf serum and 
+withdrawing EGF and bFGF from the culture medium, the percentages of 
+nestin-positive cells(20.6 +/- 2.7%), microtubule-associated-protein-2-positive 
+neurons (33.2 +/- 3.9%) and glial-fibrillary-acidic-protein-positive glial 
+cells(51.3 +/- 6.2%) in the differentiated CNSCs were significantly higher than 
+those in the differentiated RSCs (10.2 +/- 1.9, 22.3 +/- 1.3 and 44.6 +/- 5.1%, 
+respectively; p < 0.05). We also found that the combination of transforming 
+growth factor beta type III with retinoic acid played an important role in the 
+induction of CNSCs to differentiate into opsin-positive cells. Our data 
+demonstrated that CNSCs displayed a higher ability of proliferation and retinal 
+lineage. This report also offers an alternative protocol of cell reproduction 
+for producing retinal cells.
+
+DOI: 10.1159/000085250
+PMID: 15947503 [Indexed for MEDLINE]
+
+
+5. Cytokines Cell Mol Ther. 2002 Mar;7(1):31-6. doi: 10.1080/13684730216400.
+
+Regulation of colony-stimulating factor-induced human myelopoiesis by 
+transforming growth factor-beta isoforms.
+
+Salzman SA(1), Mazza JJ, Burmester JK.
+
+Author information:
+(1)Marshfield Medical Research Foundation, WI 54449, USA.
+
+Transforming growth factor-beta (TGF-beta) proteins are multifunctional 
+regulators of cell growth and differentiation. The three isoforms, TGF-beta1, 
+-beta2, -beta3 share approximately 70% identical amino acid sequence and are 
+coded by three distinct genes. Growth and differentiation functions in which the 
+isoforms have differential activity include: inhibition of colorectal cancer 
+cell growth, migration of aortic endothelial cells, survival of ciliary 
+ganglionic neurons, and binding to cell surface receptors. A previous paper 
+reported that TGF-beta1 and TGF-beta2 had bimodal dose-dependent stimulatory and 
+inhibitory effects on granulocyte-macrophage colony-stimulating factor induced 
+Day 7 granulocyte-macrophage colony-forming units. The effects of TGF-beta3 were 
+only inhibitory. At low concentrations, TGF-beta1 and -beta2 stimulated growth, 
+whereas at higher concentrations both isoforms inhibited growth. We now report 
+that TGF-beta1, TGF-beta2, and TGF-beta3 are similar to each other at low 
+concentrations; at higher concentrations TGF-beta1 and TGF-beta3 inhibit growth, 
+but TGF-beta2 stimulates growth. Our results are consistent with the known 
+affinities of the TGF-beta isoforms with the Type II TGF-beta signaling 
+receptor, which has greater affinity for TGF-beta1 and TGF-beta3 than TGF-beta2.
+
+DOI: 10.1080/13684730216400
+PMID: 12171249 [Indexed for MEDLINE]
+
+
+6. Gastroenterology. 2002 May;122(5):1364-75. doi: 10.1053/gast.2002.32991.
+
+The role of transforming growth factor beta-2, beta-3 in mediating apoptosis in 
+the murine intestinal mucosa.
+
+Dünker N(1), Schmitt K, Schuster N, Krieglstein K.
+
+Author information:
+(1)Anatomy and Cell Biology, University of Saarland, Homburg/Saar, Germany.
+
+BACKGROUND & AIMS: Apoptosis is especially relevant in the gastrointestinal 
+tract because the mammalian intestinal mucosa undergoes continual epithelial 
+regeneration. Most recently, we confirmed the proapoptotic role of endogenous 
+transforming growth factor (TGF)-beta in the developing chick retina as well as 
+in chick ciliary, dorsal root, and spinal motor neurons. In the present study, 
+we determined to establish the role of TGF-beta2 and TGF-beta3 in mediating 
+apoptosis in non-neuronal tissue by analyzing the intestinal mucosa of 
+Tgfbeta2(+/-) and Tgfbeta3(+/-) heterozygous mice.
+METHODS: Intestinal localization of TGF-beta2 and TGF-beta3 isoforms and 
+antiapoptotic molecules Bcl-xL and Bcl-2 was examined immunocytochemically and 
+by Western blot analysis. Apoptosis was detected by enzyme-linked immunosorbent 
+assay and terminal deoxynucleotidyl transferase-mediated deoxyuridine 
+triphosphate nick-end labeling, and proliferation was detected by proliferating 
+cell nuclear antigen stains.
+RESULTS: TGF-beta2 was detected in endocrine cells, whereas TGF-beta3 was 
+predominantly found in goblet cells. Programmed cell death was significantly 
+reduced in the intestinal mucosa of Tgfbeta2(+/-) and Tgfbeta3(+/-) heterozygous 
+mice. This decrease in apoptosis was accompanied by an increase in villus 
+length; proliferation, however, seemed to remain unchanged. The level of Bcl-xL 
+and Bcl-2 was significantly up-regulated in Tgfbeta2(+/-) and Tgfbeta3(+/-) 
+mice.
+CONCLUSIONS: Our data show that TGF-beta2 and TGF-beta3 play an important role 
+in mediating apoptosis in the intestinal mucosa and regulating 
+apoptosis-associated proteins Bcl-xL and Bcl-2 in vivo.
+
+DOI: 10.1053/gast.2002.32991
+PMID: 11984523 [Indexed for MEDLINE]
+
+
+7. J Neurobiol. 1998 Dec;37(4):563-72.
+
+TGF-beta regulates the survival of ciliary ganglionic neurons synergistically 
+with ciliary neurotrophic factor and neurotrophins.
+
+Krieglstein K(1), Farkas L, Unsicker K.
+
+Author information:
+(1)Department of Anatomy and Cell Biology, University of Heidelberg, Germany.
+
+We investigated putative roles of transforming growth factor (TGF)-beta 
+expressed in peripheral ganglia in the regulation of neuronal cell survival 
+during the period of ontogenetic neuron death (OD). The chick ciliary ganglion 
+(CG), where OD occurs between embryonic days (E) 6 and 10, was employed as a 
+model system. We show that CG neurons (E8) are immunoreactive (ir) for TGF-beta2 
+and -beta3 as well as the TGF-beta receptor TbetaR-II, but are not ir for 
+TGF-beta1. Ciliary neurotrophic factor (CNTF) and fibroblast growth factor 
+(FGF)-2, established neurotrophic molecules for CG neurons, up-regulate 
+TGF-beta3 mRNA and TGF-beta biological activity in cultures of E8 CG neurons. 
+None of the TGF-beta isoforms--beta1, beta2, or beta3--has a trophic, 
+survival-promoting effect on cultured CG neurons. However, all isoforms enhance 
+CG neuron survival mediated by CNTF or FGF-2, significantly and over a wide 
+range of concentrations. In combination with the neurotrophins (NT) nerve growth 
+factor (NGF) and NT-3, which are not neurotrophic for CG neurons, TGF-beta 
+significantly promotes CG neuron survival. However, TGF-beta does not act 
+synergistically with the neuropoietic cytokines oncostatin M, leukemia 
+inhibiting factor, or interleukin-6. Immunoneutralization of endogenous TGF-beta 
+released from CG neurons using an antibody to TGF-beta1/-beta2/-beta3 
+significantly reduces the potency of CNTF or FGF-2 to promote CG neuron 
+survival. The blocking effect of the anti-pan-TGF-beta antibody could be rescued 
+by adding exogenous TGF-beta. Together, these data suggest that para-/autocrine 
+TGF-beta signaling has an important effect on the regulation of neuron survival 
+in a model system of peripheral neurons.
+
+PMID: 9858258 [Indexed for MEDLINE]

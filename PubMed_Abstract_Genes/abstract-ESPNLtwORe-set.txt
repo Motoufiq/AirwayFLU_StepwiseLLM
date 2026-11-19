@@ -1,0 +1,139 @@
+1. J Physiol. 2021 Feb;599(4):1173-1198. doi: 10.1113/JP280670. Epub 2020 Nov 26.
+
+Loss of Baiap2l2 destabilizes the transducing stereocilia of cochlear hair cells 
+and leads to deafness.
+
+Carlton AJ(1)(2), Halford J(3), Underhill A(1)(2), Jeng JY(1)(2), Avenarius 
+MR(3)(4), Gilbert ML(3)(5), Ceriani F(1)(2), Ebisine K(6), Brown SDM(6), Bowl 
+MR(6)(7), Barr-Gillespie PG(3)(8), Marcotti W(1)(2).
+
+Author information:
+(1)Department of Biomedical Science, University of Sheffield, Sheffield, UK.
+(2)Neuroscience Institute, University of Sheffield, Sheffield, UK.
+(3)Oregon Hearing Research Center & Vollum Institute, Oregon Health & Science 
+University, Portland, OR, USA.
+(4)Present address: Department of Pathology Wexner Medical Center, The Ohio 
+State University, Columbus, OH, USA.
+(5)Present address: US Army Medical Department Activity-Korea, Camp Humphreys, 
+Republic of Korea.
+(6)Mammalian Genetics Unit, MRC Harwell Institute, Harwell Campus, Oxfordshire, 
+UK.
+(7)Present address: UCL Ear Institute, University College London, London, UK.
+(8)Oregon Hearing Research Center, Oregon Health & Science University, Portland, 
+OR, USA.
+
+KEY POINTS: Mechanoelectrical transduction at auditory hair cells requires 
+highly specialized stereociliary bundles that project from their apical surface, 
+forming a characteristic graded 'staircase' structure. The morphogenesis and 
+maintenance of these stereociliary bundles is a tightly regulated process 
+requiring the involvement of several actin-binding proteins, many of which are 
+still unidentified. We identify a new stereociliary protein, the I-BAR protein 
+BAIAP2L2, which localizes to the tips of the shorter transducing stereocilia in 
+both inner and outer hair cells (IHCs and OHCs). We find that Baiap2l2 deficient 
+mice lose their second and third rows of stereocilia, their mechanoelectrical 
+transducer current, and develop progressive hearing loss, becoming deaf by 
+8 months of age. We demonstrate that BAIAP2L2 localization to stereocilia tips 
+is dependent on the motor protein MYO15A and its cargo EPS8. We propose that 
+BAIAP2L2 is a new key protein required for the maintenance of the transducing 
+stereocilia in mature cochlear hair cells.
+ABSTRACT: The transduction of sound waves into electrical signals depends upon 
+mechanosensitive stereociliary bundles that project from the apical surface of 
+hair cells within the cochlea. The height and width of these actin-based 
+stereocilia is tightly regulated throughout life to establish and maintain their 
+characteristic staircase-like structure, which is essential for normal 
+mechanoelectrical transduction. Here, we show that BAIAP2L2, a member of the 
+I-BAR protein family, is a newly identified hair bundle protein that is 
+localized to the tips of the shorter rows of transducing stereocilia in mouse 
+cochlear hair cells. BAIAP2L2 was detected by immunohistochemistry from 
+postnatal day 2.5 (P2.5) throughout adulthood. In Baiap2l2 deficient mice, outer 
+hair cells (OHCs), but not inner hair cells (IHCs), began to lose their third 
+row of stereocilia and showed a reduction in the size of the mechanoelectrical 
+transducer current from just after P9. Over the following post-hearing weeks, 
+the ordered staircase structure of the bundle progressively deteriorates, such 
+that, by 8 months of age, both OHCs and IHCs of Baiap2l2 deficient mice have 
+lost most of the second and third rows of stereocilia and become deaf. We also 
+found that BAIAP2L2 interacts with other key stereociliary proteins involved in 
+normal hair bundle morphogenesis, such as CDC42, RAC1, EPS8 and ESPNL. 
+Furthermore, we show that BAIAP2L2 localization to the stereocilia tips depends 
+on the motor protein MYO15A and its cargo EPS8. We propose that BAIAP2L2 is key 
+to maintenance of the normal actin structure of the transducing stereocilia in 
+mature mouse cochlear hair cells.
+
+© 2020 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd 
+on behalf of The Physiological Society.
+
+DOI: 10.1113/JP280670
+PMCID: PMC7898316
+PMID: 33151556 [Indexed for MEDLINE]
+
+
+2. Nat Commun. 2017 Aug 14;8:16133. doi: 10.1038/ncomms16133.
+
+Corrigendum: Stereocilia-staircase spacing is influenced by myosin III motors 
+and their cargos espin-1 and espin-like.
+
+Ebrahim S, Avenarius MR, Grati M, Krey JF, Windsor AM, Sousa AD, Ballesteros A, 
+Cui R, Millis BA, Salles FT, Baird MA, Davidson MW, Jones SM, Choi D, Dong L, 
+Raval MH, Yengo CM, Barr-Gillespie PG, Kachar B.
+
+Erratum for
+    Nat Commun. 2016 Mar 01;7:10833. doi: 10.1038/ncomms10833.
+
+This corrects the article DOI: 10.1038/ncomms10833.
+
+DOI: 10.1038/ncomms16133
+PMCID: PMC5561542
+PMID: 28805204
+
+
+3. Nat Commun. 2016 Mar 1;7:10833. doi: 10.1038/ncomms10833.
+
+Stereocilia-staircase spacing is influenced by myosin III motors and their 
+cargos espin-1 and espin-like.
+
+Ebrahim S(1), Avenarius MR(2), Grati M(1), Krey JF(2), Windsor AM(1), Sousa 
+AD(1), Ballesteros A(1), Cui R(1), Millis BA(1), Salles FT(1), Baird MA(3), 
+Davidson MW(3), Jones SM(4), Choi D(5), Dong L(6), Raval MH(7), Yengo CM(7), 
+Barr-Gillespie PG(2), Kachar B(1).
+
+Author information:
+(1)Laboratory of Cell Structure and Dynamics, National Institute on Deafness and 
+Other Communication Disorders, National Institutes of Health, Bethesda, Maryland 
+20892, USA.
+(2)Oregon Hearing Research Center and Vollum Institute, Oregon Health &Science 
+University, Portland, Oregon 97239, USA.
+(3)National High Magnetic Field Laboratory and Department of Biological Science, 
+Florida State University, Tallahassee, Florida 32310, USA.
+(4)Department of Special Education and Communication Disorders, University of 
+Nebraska-Lincoln, Lincoln, Nebraska 68583, USA.
+(5)Department of Public Health and Preventive Medicine, Oregon Health and 
+Science University, Portland, Oregon 97239, USA.
+(6)Genetic Engineering Core, National Eye Institute, National Institutes of 
+Health, Bethesda, Maryland 20892, USA.
+(7)Department of Cellular and Molecular Physiology, Penn State University 
+College of Medicine, Hershey, Pennsylvania 17033, USA.
+
+Erratum in
+    Nat Commun. 2017 Aug 14;8:16133. doi: 10.1038/ncomms16133.
+
+Hair cells tightly control the dimensions of their stereocilia, which are 
+actin-rich protrusions with graded heights that mediate mechanotransduction in 
+the inner ear. Two members of the myosin-III family, MYO3A and MYO3B, are 
+thought to regulate stereocilia length by transporting cargos that control actin 
+polymerization at stereocilia tips. We show that eliminating espin-1 (ESPN-1), 
+an isoform of ESPN and a myosin-III cargo, dramatically alters the slope of the 
+stereocilia staircase in a subset of hair cells. Furthermore, we show that 
+espin-like (ESPNL), primarily present in developing stereocilia, is also a 
+myosin-III cargo and is essential for normal hearing. ESPN-1 and ESPNL each bind 
+MYO3A and MYO3B, but differentially influence how the two motors function. 
+Consequently, functional properties of different motor-cargo combinations 
+differentially affect molecular transport and the length of actin protrusions. 
+This mechanism is used by hair cells to establish the required range of 
+stereocilia lengths within a single cell.
+
+DOI: 10.1038/ncomms10833
+PMCID: PMC4773517
+PMID: 26926603 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.

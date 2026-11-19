@@ -1,0 +1,3001 @@
+1. Adv Exp Med Biol. 2024;1441:705-717. doi: 10.1007/978-3-031-44087-8_42.
+
+Human Genetics of Defects of Situs.
+
+Perrot A(1), Rickert-Sperling S(2).
+
+Author information:
+(1)Experimental and Clinical Research Center, a cooperation between the Max 
+Delbrück Center for Molecular Medicine in the Helmholtz Association and Charité 
+Universitätsmedizin Berlin, Berlin, Germany.
+(2)Cardiovascular Genetics, Charité Universitätsmedizin Berlin, Berlin, Germany. 
+silke.sperling@charite.de.
+
+Defects of situs are associated with complex sets of congenital heart defects in 
+which the normal concordance of asymmetric thoracic and abdominal organs is 
+disturbed. The cellular and molecular mechanisms underlying the formation of the 
+embryonic left-right axis have been investigated extensively in the past decade. 
+This has led to the identification of mutations in at least 33 different genes 
+in humans with heterotaxy and situs defects. Those mutations affect a broad 
+range of molecular components, from transcription factors, signaling molecules, 
+and chromatin modifiers to ciliary proteins. A substantial overlap of these 
+genes is observed with genes associated with other congenital heart diseases 
+such as tetralogy of Fallot and double-outlet right ventricle, d-transposition 
+of the great arteries, and atrioventricular septal defects. In this chapter, we 
+present the broad genetic heterogeneity of situs defects including recent human 
+genomics efforts.
+
+© 2024. The Author(s), under exclusive license to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/978-3-031-44087-8_42
+PMID: 38884744 [Indexed for MEDLINE]
+
+
+2. J Med Genet. 2024 May 21;61(6):595-604. doi: 10.1136/jmg-2023-109700.
+
+Skewed X-chromosome inactivation drives the proportion of DNAAF6-defective 
+airway motile cilia and variable expressivity in primary ciliary dyskinesia.
+
+Thomas L(1), Cuisset L(2), Papon JF(3)(4), Tamalet A(5), Pin I(6), Abou Taam 
+R(7), Faucon C(8), Montantin G(9), Tissier S(9), Duquesnoy P(1), Dastot-Le Moal 
+F(9), Copin B(1)(9), Carion N(2), Louis B(4), Chantot-Bastaraud S(1)(10), 
+Siffroi JP(1)(10), Mitri R(8), Coste A(4)(11), Escudier E(1)(9), Thouvenin G(5), 
+Amselem S(1)(9), Legendre M(12)(9).
+
+Author information:
+(1)Childhood Genetic Diseases, Sorbonne Université, Inserm, Hôpital 
+Armand-Trousseau, Paris, F-75012, France.
+(2)Service de Médecine Génomique, Assistance Publique Hôpitaux de Paris (AP-HP), 
+Université de Paris, Hôpital Cochin, Paris, F-75014, France.
+(3)Service d'Oto-Rhino-Laryngologie et de Chirurgie Cervico-Faciale, AP-HP, 
+Hôpital Bicêtre, Le Kremlin-Bicêtre, F-94270, France.
+(4)Institut Mondor de Recherche Biomédicale, Université Paris-Est Créteil, 
+Inserm U955, CNRS ERL7240, Hôpital Henri-Mondor, Créteil, F-94010, France.
+(5)Département de Pneumologie Pédiatrique, Centre National de Référence des 
+Maladies Respiratoires Rares RespiRare, AP-HP, Sorbonne Université, Hôpital 
+Armand-Trousseau Hospital, Paris, F-75012, France.
+(6)Pédiatrie, CHU Grenoble Alpes, Grenoble, F-38500, France.
+(7)Service de Pneumologie et Allergologie Pédiatriques, AP-HP, Hôpital 
+Necker-Enfants Malades, Paris, F-75015, France.
+(8)Service d'Anatomopathologie, Laboratoire de Microscopie Electronique, Centre 
+Hospitalier Intercommunal de Créteil, Créteil, F-94000, France.
+(9)Génétique moléculaire, AP-HP, Hôpital Armand-Trousseau, Paris, F-75012, 
+Paris.
+(10)Génétique chromosomique, AP-HP, Hôpital Trousseau, Paris, F-75012, France.
+(11)Service d'ORL et de Chirurgie Cervico-Faciale, AP-HP, Hôpital Henri-Mondor, 
+Centre Hospitalier Intercommunal de Créteil, Créteil, F-94000, France.
+(12)Childhood Genetic Diseases, Sorbonne Université, Inserm, Hôpital 
+Armand-Trousseau, Paris, F-75012, France marie.legendre@aphp.fr.
+
+BACKGROUND: Primary ciliary dyskinesia (PCD) is a rare airway disorder caused by 
+defective motile cilia. Only male patients have been reported with pathogenic 
+mutations in X-linked DNAAF6, which result in the absence of ciliary dynein 
+arms, whereas their heterozygous mothers are supposedly healthy. Our objective 
+was to assess the possible clinical and ciliary consequences of X-chromosome 
+inactivation (XCI) in these mothers.
+METHODS: XCI patterns of six mothers of male patients with DNAAF6-related PCD 
+were determined by DNA-methylation studies and compared with their clinical 
+phenotype (6/6 mothers), as well as their ciliary phenotype (4/6 mothers), as 
+assessed by immunofluorescence and high-speed videomicroscopy analyses. The 
+mutated X chromosome was tracked to assess the percentage of cells with a normal 
+inactivated DNAAF6 allele.
+RESULTS: The mothers' phenotypes ranged from absence of symptoms to 
+mild/moderate or severe airway phenotypes, closely reflecting their XCI pattern. 
+Analyses of the symptomatic mothers' airway ciliated cells revealed the 
+coexistence of normal cells and cells with immotile cilia lacking dynein arms, 
+whose ratio closely mirrored their XCI pattern.
+CONCLUSION: This study highlights the importance of searching for heterozygous 
+pathogenic DNAAF6 mutations in all female relatives of male PCD patients with a 
+DNAAF6 defect, as well as in females consulting for mild chronic respiratory 
+symptoms. Our results also demonstrate that about one-third-ranging from 20% to 
+50%-normal ciliated airway cells sufficed to avoid severe PCD, a result paving 
+the way for gene therapy.
+
+© Author(s) (or their employer(s)) 2024. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/jmg-2023-109700
+PMID: 38408845 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+3. Phytomedicine. 2024 Apr;126:155053. doi: 10.1016/j.phymed.2023.155053. Epub 2023 
+Sep 2.
+
+Naringenin attenuated airway cilia structural and functional injury induced by 
+cigarette smoke extract via IL-17 and cAMP pathways.
+
+Zhang J(1), Fan W(1), Wu H(1), Yao Y(1), Jin L(1), Chen R(1), Xu Z(1), Su W(1), 
+Wang Y(1), Li P(2).
+
+Author information:
+(1)Guangdong Engineering and Technology Research Center for Quality and Efficacy 
+Re-evaluation of Post-marketed Traditional Chinese Medicine (TCM), State Key 
+Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant 
+Resources, School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+(2)Guangdong Engineering and Technology Research Center for Quality and Efficacy 
+Re-evaluation of Post-marketed Traditional Chinese Medicine (TCM), State Key 
+Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant 
+Resources, School of Life Sciences, Sun Yat-sen University, Guangzhou, China. 
+Electronic address: lipeibo@mail.sysu.edu.cn.
+
+BACKGROUND: Cigarette smoke impairs mucociliary clearance via mechanisms such as 
+inflammatory response and oxidative injury, which in turn induces various 
+respiratory diseases. Naringenin, a naturally occurring flavonoid in grapes and 
+grapefruit, has exhibited pharmacological properties such as anti-inflammatory, 
+expectorant, and antioxidant properties. However, it is still unclear whether 
+naringenin protects airway cilia from injury caused by cigarette smoke.
+PURPOSE: This study aimed to investigate the effect of naringenin on cigarette 
+smoke extract (CSE)-induced structural and functional abnormalities in airway 
+cilia and highlight the potential regulatory mechanism.
+METHODS: Initially, network pharmacology was used to predict the mechanism of 
+action of naringenin in ciliary disease. Next, HE staining, immunofluorescence, 
+TEM, qRT-PCR, western blot, and ELISA were performed to assess the effects of 
+naringenin on airway cilia in tracheal rings and air-liquid interface (ALI) 
+cultures of Sprague Dawley rats after co-exposure to CSE (10% or 20%) and 
+naringenin (0, 25, 50, 100 μM) for 24 h. Finally, transcriptomics and molecular 
+biotechnology methods were conducted to elucidate the mechanism by which 
+naringenin protected cilia from CSE-induced damage in ALI cultures.
+RESULTS: The targets of ciliary diseases regulated by naringenin were 
+significantly enriched in inflammation and oxidative stress pathways. Also, the 
+CSE decreased the number of cilia in the tracheal rings and ALI cultures and 
+reduced the ciliary beat frequency (CBF). However, naringenin prevented 
+CSE-induced cilia damage via mechanisms such as the downregulation of 
+cilia-related genes (e.g., RFX3, DNAI1, DNAH5, IFT88) and ciliary marker 
+proteins such as DNAI2, FOXJ1, and β-tubulin IV, the upregulation of 
+inflammatory factors (e.g., IL-6, IL-8, IL-13), ROS and MDA. IL-17 signaling 
+pathway might be involved in the protective effect of naringenin on airway 
+cilia. Additionally, the cAMP signaling pathway might also be related to the 
+enhancement of CBF by naringenin.
+CONCLUSION: In this study, we first found that naringenin reduces CSE-induced 
+structural disruption of airway cilia in part via modulation of the IL-17 
+signaling pathway. Furthermore, we also found that naringenin enhances CBF by 
+activating the cAMP signaling pathway. This is the first report to reveal the 
+beneficial effects of naringenin on airway cilia and the potential underlying 
+mechanisms.
+
+Copyright © 2024 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.phymed.2023.155053
+PMID: 38359483 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Authors 
+declare that they have no conflicts of interest.
+
+
+4. Cureus. 2023 Oct 20;15(10):e47375. doi: 10.7759/cureus.47375. eCollection 2023 
+Oct.
+
+A Rare Case of Penoscrotal Webbing and Extensive Hernias: An Anatomical Report 
+With Genetic Insights.
+
+Olson CM(1), Frolov A(1), Tan Y(1), Martin JR 3rd(1), Campbell M(1).
+
+Author information:
+(1)Department of Surgery - Center for Anatomical Science and Education, Saint 
+Louis University School of Medicine, Saint Louis, USA.
+
+During a routine anatomical dissection of an 81-year-old male cadaver received 
+through the Gift Body Program of Saint Louis University School of Medicine (SLU 
+SOM), a massive bulging in the abdominal area was observed that was consistent 
+with numerous hernia repairs noted in the donor's self-reported medical history. 
+Gross anatomical dissection of the cadaveric body revealed extensive herniation 
+of portions of the small intestine and peritoneal sac along the costal margin 
+and extending to the left aspect of the abdomen. Additionally, an uncircumcised 
+phallus was buried within the suprapubic fat pad and demonstrated simple, grade 
+III penoscrotal webbing (PSW), creating an impression of micropenis presence. To 
+gain additional insights into the current case, analysis of the coding regions 
+(exomes) of DNA procured from the body for putative genetic variants was 
+performed using next-generation sequencing (NGS) technology. This analysis 
+revealed 110 rare (minor allele frequency (MAF) ≤ 0.01), pathologic/deleterious 
+genetic mutations. The most relevant variants to this case were the ones 
+associated with male sexual development, BMP1 and BMP4; connective tissue 
+development, COL3A1 and COL5A3; cilia morphogenesis and function, DNAH5 and 
+MAPK15; as well as hormonal homeostasis, ESR1. Direct involvement of BMP1 both 
+in male sexual development and hernia genesis makes it a strong candidate for 
+linking the two pathologies, PSW and multiple hernias, observed in the present 
+case. Yet the presence of a group of mutated genes linked to myopathies (ITGA7, 
+NRAP, POLM, SCN5A, XIRP2) and muscular dystrophy (ITGA7) raises a question about 
+the involvement of these muscular pathologies in hernia genesis and unsuccessful 
+hernia repairs associated with the current case.
+
+Copyright © 2023, Olson et al.
+
+DOI: 10.7759/cureus.47375
+PMCID: PMC10657503
+PMID: 38021525
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+5. J Assist Reprod Genet. 2023 Apr;40(4):765-778. doi: 10.1007/s10815-023-02755-6. 
+Epub 2023 Mar 1.
+
+Characterization of a DRC1 null variant associated with primary ciliary 
+dyskinesia and female infertility.
+
+Pereira R(1)(2), Carvalho V(3)(4), Dias C(5), Barbosa T(6), Oliveira J(7), Alves 
+Â(3)(8), Oliveira E(3)(8), Sá R(3)(8), Sousa M(3)(8).
+
+Author information:
+(1)Laboratory of Cell Biology, Department of Microscopy, ICBAS-School of 
+Medicine and Biomedical Sciences, University of Porto, Rua Jorge Viterbo 
+Ferreira, 228, 4050-313, Porto, Portugal. rrpereira@icbas.up.pt.
+(2)UMIB-Unit for Multidisciplinary Research in Biomedicine, ICBAS-UP/ 
+ITR-Laboratory for Integrative and Translational Research in Population Health, 
+University of Porto, Porto, Portugal. rrpereira@icbas.up.pt.
+(3)Laboratory of Cell Biology, Department of Microscopy, ICBAS-School of 
+Medicine and Biomedical Sciences, University of Porto, Rua Jorge Viterbo 
+Ferreira, 228, 4050-313, Porto, Portugal.
+(4)Department of Biology, Faculty of Sciences, University of Porto (FCUP), 
+Porto, Portugal.
+(5)Department of Pneumology, Hospital de Santo António (HSA), Centro Hospitalar 
+do Porto (CHUPorto), Porto, Portugal.
+(6)Department of Children and Adolescents, Centro Materno-Infantil do Norte 
+(CMIN), Centro Hospitalar Universitário do Porto (CHUPorto), Porto, Portugal.
+(7)Center for Predictive and Preventive Genetics, Institute of Health Research 
+and Innovation (IBMC/i3S), University of Porto, Porto, Portugal.
+(8)UMIB-Unit for Multidisciplinary Research in Biomedicine, ICBAS-UP/ 
+ITR-Laboratory for Integrative and Translational Research in Population Health, 
+University of Porto, Porto, Portugal.
+
+PROPOSE: We here present a female case with primary ciliary dyskinesia (PCD) and 
+infertility. In this report, we also present the evaluation of the patient 
+family, including her twin sister, also with PCD and infertility.
+METHODS: Confirmation of the PCD clinical diagnosis was performed through 
+assessment of cilia motility, by high-speed video microscopy (HSVM), axoneme 
+ultrastructure, by transmission electron microscopy (TEM), and genetic 
+characterization, by whole-exome sequence (WES). Gene expression studies used 
+qPCR for mRNA expression and immunofluorescence to determine cell protein 
+localization.
+RESULTS: We identified a homozygous nonsense variant in the DRC1 gene (NM 
+145038.5:c.352C>T (p.Gln118Ter)) in the female patient with PCD and infertility 
+that fit the model of autosomal recessive genetic transmission. This variant 
+eventually results in a dyskinetic ciliary beat with a lower frequency and a 
+partial lack of both dynein arms as revealed by TEM analysis. Moreover, this 
+variant implies a decrease in the expression of DRC1 mRNA and protein. 
+Additionally, expression analysis suggested that DRC1 may interact with other 
+DRC elements.
+CONCLUSIONS: Our findings suggest that the DRC1 null variant leads to PCD 
+associated with infertility, likely caused by defects in axoneme from Fallopian 
+tube cilia. Overall, our outcomes contribute to a better understanding of the 
+genetic factors involved in the pathophysiology of PCD and infertility, and they 
+highlight the interaction of different genes in the patient phenotype, which 
+should be investigated further because it may explain the high heterogeneity 
+observed in PCD patients.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s10815-023-02755-6
+PMCID: PMC10224902
+PMID: 36856967 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+6. Cells. 2022 Dec 12;11(24):4013. doi: 10.3390/cells11244013.
+
+Multiomics Analysis of a DNAH5-Mutated PCD Organoid Model Revealed the Key Role 
+of the TGF-β/BMP and Notch Pathways in Epithelial Differentiation and the Immune 
+Response in DNAH5-Mutated Patients.
+
+Yang W(1)(2)(3)(4)(5), Chen L(1)(2)(3)(4)(5), Guo J(6), Shi F(2)(3)(4)(5), Yang 
+Q(5), Xie L(2)(3)(4)(5), Lu D(1)(2)(3)(4)(5), Li Y(5), Luo J(1)(2)(3)(4)(5), 
+Wang L(4), Qiu L(1)(2)(3)(4)(5), Chen T(1)(2)(3)(4)(5), Li Y(1)(2)(3)(4)(5), 
+Zhang R(1)(2)(3)(4)(5), Chen L(5), Xu W(6), Liu H(1)(2)(3)(4)(5).
+
+Author information:
+(1)Department of Paediatric Pulmonology and Immunology, West China Second 
+University Hospital, Sichuan University, Chengdu 610000, China.
+(2)Key Laboratory of Birth Defects and Related Diseases of Women and Children 
+(Sichuan University), Ministry of Education, Chengdu 610000, China.
+(3)NHC Key Laboratory of Chronobiology (Sichuan University), Chengdu 610000, 
+China.
+(4)The Joint Laboratory for Lung Development and Related Diseases of West China 
+Second University Hospital, Sichuan University and School of Life Sciences of 
+Fudan University, West China Institute of Women and Children's Health, West 
+China Second University Hospital, Sichuan University, Chengdu 610000, China.
+(5)Sichuan Birth Defects Clinical Research Centre, West China Second University 
+Hospital, Sichuan University, Chengdu 610000, China.
+(6)Department of Obstetrics/Gynaecology, Joint Laboratory of Reproductive 
+Medicine (SCU-CUHK), Key Laboratory of Obstetric, Gynaecologic, and Paediatric 
+Diseases and Birth Defects of Ministry of Education, West China Second 
+University Hospital, Sichuan University, Chengdu 610000, China.
+
+Dynein axonemal heavy chain 5 (DNAH5) is the most mutated gene in primary 
+ciliary dyskinesia (PCD), leading to abnormal cilia ultrastructure and function. 
+Few studies have revealed the genetic characteristics and pathogenetic 
+mechanisms of PCD caused by DNAH5 mutation. Here, we established a child PCD 
+airway organoid directly from the bronchoscopic biopsy of a patient with the 
+DNAH5 mutation. The motile cilia in the organoid were observed and could be 
+stably maintained for an extended time. We further found abnormal ciliary 
+function and a decreased immune response caused by the DNAH5 mutation through 
+single-cell RNA sequencing (scRNA-Seq) and proteomic analyses. Additionally, the 
+directed induction of the ciliated cells, regulated by TGF-β/BMP and the Notch 
+pathway, also increased the expression of inflammatory cytokines. Taken 
+together, these results demonstrated that the combination of multiomics analysis 
+and organoid modelling could reveal the close connection between the immune 
+response and the DNAH5 gene.
+
+DOI: 10.3390/cells11244013
+PMCID: PMC9776854
+PMID: 36552777 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+7. BMC Neurol. 2022 May 30;22(1):198. doi: 10.1186/s12883-022-02724-z.
+
+Key gene network related to primary ciliary dyskinesia in hippocampus of 
+patients with Alzheimer's disease revealed by weighted gene co-expression 
+network analysis.
+
+Xia P(1), Chen J(2), Bai X(1), Li M(3), Wang L(1), Lu Z(4).
+
+Author information:
+(1)Department of Clinical Laboratory Medicine, Shandong Provincial Hospital 
+Affiliated to Shandong First Medical University, Jinan, Shandong, China.
+(2)Discipline of Anatomy and Pathology, Shandong First Medical University, 
+Jinan, Shandong, China.
+(3)School of Medicine, Shandong University, Jinan, Shandong, China.
+(4)Department of Clinical Laboratory Medicine, Shandong Provincial Hospital 
+Affiliated to Shandong First Medical University, Jinan, Shandong, China. 
+luzhiming@sdu.edu.cn.
+
+BACKGROUND: Alzheimer's disease (AD) is closely related to aging, showing an 
+increasing incidence rate for years. As one of the main brain regions involved 
+in AD, hippocampus has been extensively studied due to its association with many 
+human diseases. However, little is known about its association with primary 
+ciliary dyskinesia (PCD).
+MATERIAL AND METHODS: The microarray data of hippocampus on AD were retrieved 
+from the Gene Expression Omnibus (GEO) database to construct the co-expression 
+network by weighted gene co-expression network analysis (WGCNA). The gene 
+network modules associated with AD screened with the common genes were further 
+annotated based on Gene Ontology (GO) database and enriched based on the Kyoto 
+Encyclopedia of Genes and Genomes (KEGG) database. The protein-protein 
+interaction (PPI) network was constructed based on STRING database to identify 
+the hub genes in the network.
+RESULTS: Genes involved in PCD were identified in the hippocampus of AD 
+patients. Functional analysis revealed that these genes were mainly enriched in 
+ciliary tissue, ciliary assembly, axoneme assembly, ciliary movement, 
+microtubule based process, microtubule based movement, organelle assembly, 
+axoneme dynamin complex, cell projection tissue, and microtubule cytoskeleton 
+tissue. A total of 20 central genes, e.g., DYNLRB2, ZMYND10, DRC1, DNAH5, WDR16, 
+TTC25, and ARMC4 were identified as hub genes related to PCD in hippocampus of 
+AD patients.
+CONCLUSION: Our study demonstrated that AD and PCD have common metabolic 
+pathways. These common pathways provide novel evidence for further investigation 
+of the pathophysiological mechanism and the hub genes suggest new therapeutic 
+targets for the diagnosis and treatment of AD and PCD.
+SUBJECTS: Bioinformatics, Cell Biology, Molecular Biology, Neurology.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12883-022-02724-z
+PMCID: PMC9150314
+PMID: 35637434 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+8. BMC Womens Health. 2021 Jun 11;21(1):240. doi: 10.1186/s12905-020-01156-6.
+
+CCDC114, DNAI2 and TOP2A involves in the effects of tibolone treatment on 
+postmenopausal endometrium.
+
+Lv Y(#)(1), Liu Y(#)(2), Wang Y(3), Kong F(1), Pang Q(4), Hu G(5).
+
+Author information:
+(1)Department of Gynecology, Affiliated Hospital of Jining Medical University, 
+Jining, 272000, Shandong, China.
+(2)Department of General Medicine, Jining No. 1 People's Hospital, Jining, 
+272011, Shandong, China.
+(3)Department of Internal Medicine-Cardiovascular, Affiliated Hospital of 
+Taishan Medical University, Taian, 271000, Shandong, China.
+(4)Laboratory of Developmental and Evolutionary Biology, School of Life 
+Sciences, Shandong University of Technology, Zibo, 255049, Shandong, China.
+(5)Department of Obstetrics and Gynecology, People's Hospital of Jiaxiang 
+County, No. 188 Yingfeng Road, Jiaxiang, Jining, 272400, Shandong, China. 
+nwp848pwspzt0@sina.com.
+(#)Contributed equally
+
+BACKGROUND: This study aimed to explore the molecular mechanisms of tibolone 
+treatment in postmenopausal women.
+METHODS: The gene set enrichment profile, GSE12446, which includes 9 human 
+endometrial samples from postmenopausal women treated with tibolone (tibolone 
+group) and 9 control samples (control group), was downloaded from GEO database 
+for analysis. Differentially expressed genes (DEGs) in tibolone vs. control 
+groups were identified and then used for function and pathway enrichment 
+analysis. Protein-protein interaction (PPI) network and module analyses were 
+also performed. Finally, drug-target interaction was predicted for genes in 
+modules, and then were validated in Pubmed.
+RESULTS: A total of 238 up-regulated DEGs and 72 down-regulated DEGs were 
+identified. These DEGs were mainly enriched in various biological processed and 
+pathways, such as cilium movement (e.g., CCDC114 and DNAI2), calcium ion 
+homeostasis, regulation of hormone levels and complement/coagulation cascades. 
+PPI network contained 368 interactions and 166 genes, of which IGF1, DNALI1, 
+CCDC114, TOP2A, DNAH5 and DNAI2 were the hue genes. A total of 96 drug-gene 
+interactions were obtained, including 94 drugs and eight genes. TOP2A and HTR2B 
+were found to be targets of 28 drugs and 38 drugs, respectively. Among the 94 
+obtained drugs, only 12 drugs were reported in studies, of which 7 drugs (e.g., 
+epirubicin) were found to target TOP2A.
+CONCLUSIONS: CCDC114 and DNAI2 might play important roles in tibolone-treated 
+postmenopausal women via cilium movement function. TOP2A might be a crucial 
+target of tibolone in endometrium of postmenopausal women.
+
+DOI: 10.1186/s12905-020-01156-6
+PMCID: PMC8194000
+PMID: 34116668 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+9. Allergy Rhinol (Providence). 2021 Feb 11;12:2152656721989288. doi: 
+10.1177/2152656721989288. eCollection 2021 Jan-Dec.
+
+IFT46 Expression in the Nasal Mucosa of Primary Ciliary Dyskinesia Patients: 
+Preliminary Study.
+
+Mata M(1)(2)(3), Zurriaga J(2), Milian L(1)(2), Reula A(1)(4)(5), Armengot 
+M(3)(4)(6)(7), Ruiz-Sauri A(1)(2), Carda C(1)(2).
+
+Author information:
+(1)Pathology Department, Faculty of Medicine, University of Valencia, Valencia, 
+Spain.
+(2)Research Institute of the University Clinical Hospital of Valencia (INCLIVA), 
+Valencia, Spain.
+(3)Networking Research Center on Respiratory Diseases (CIBERER), Mallorca, Illes 
+Balears, Spain.
+(4)Grupo de Biomedicina Molecular, Celular y Genómica IIS La Fe, Valencia, 
+Spain.
+(5)Biomedical Sciences Department, Faculty of Health Sciences, CEU-Cardenal 
+Herrera University, Valencia, Spain.
+(6)Surgery Department, Faculty of Medicine, University of Valencia, Valencia, 
+Spain.
+(7)ENT Service, University and Polytechnic Hospital La Fe, Valencia, Spain.
+
+BACKGROUND: Primary ciliary dyskinesia (PCD) is characterised by an imbalance in 
+mucociliary clearance leading to chronic respiratory infections. Cilia length is 
+considered to be a contributing factor in cilia movement. Recently, IFT46 
+protein has been related to cilia length. Therefore, this work aims to study 
+IFT46 expression in a PCD patients cohort and analyse its relationship with 
+cilia length and function, as it was not previously described.
+MATERIALS AND METHODS: The expression of one intraflagellar transport (IFT46) 
+and two regulating ciliary architecture (FOXJ1 and DNAI2) genes, as well as 
+cilia length of 27 PCD patients, were measured. PCD patients were diagnosed 
+based on clinical data, and cilia function and ultrastructure. Gene expression 
+was estimated by real-time RT-PCR and cilia length by electron microscopy in 
+nasal epithelium biopsies.Results and conclusions: While IFT46 expression was 
+only diminished in patients with short cilia, FOXJ1, and DNAI2 expression were 
+reduced in all PCD patient groups compared to controls levels. Among the PCD 
+patients, cilia were short in 44% (5.9 ± 0.70 µm); nine of these (33% from the 
+total) patients' cilia also had an abnormal ultrastructure. Cilia length was 
+normal in 33% of patients (6.4 ± 0.39 µm), and only three patients' biopsies 
+indicated decreased expression of dynein.
+
+© The Author(s) 2021.
+
+DOI: 10.1177/2152656721989288
+PMCID: PMC7883161
+PMID: 33628615
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+10. Cold Spring Harb Mol Case Stud. 2021 Feb 19;7(1):a005363. doi: 
+10.1101/mcs.a005363. Print 2021 Feb.
+
+Transcript analysis for variant classification resolution in a child with 
+primary ciliary dyskinesia.
+
+Ing A(1)(2)(3)(4), Wlodaver A(1), Kirschmann D(1), Toledo E(1), McCabe C(1), 
+Kadri S(1)(3), McIntyre MK(2), Salazar J(2), Firestein K(2), Charrow J(1)(3)(4), 
+Sanders V(3)(4), Laguna T(2)(3), Yap KL(1)(3).
+
+Author information:
+(1)Center for Genomics, Department of Pathology and Laboratory Medicine, Ann & 
+Robert H. Lurie Children's Hospital of Chicago, Chicago, Illinois 60611, USA.
+(2)Division of Pulmonary and Sleep Medicine, Ann & Robert H. Lurie Children's 
+Hospital of Chicago, Chicago, Illinois 60611, USA.
+(3)Northwestern University Feinberg School of Medicine, Chicago, Illinois 60611, 
+USA.
+(4)Division of Genetics, Birth Defects and Metabolism, Ann & Robert H. Lurie 
+Children's Hospital of Chicago, Chicago, Illinois 60611, USA.
+
+Transcriptional analysis can be utilized to reconcile variants of uncertain 
+significance, particularly those predicted to impact splicing. Laboratory 
+analysis of the predicted mRNA transcript may allow inference of the in vivo 
+impact of the variant and aid prediction of its clinical significance. We 
+present a patient with classical features of primary ciliary dyskinesia (PCD) 
+who was identified to have compound heterozygous variants in the DNAH11 gene 
+(c.10691 + 2T > C, c.13523_13543dup21) via trio whole-exome sequencing in 2013. 
+These variants were originally classified as Mutation and Likely Mutation. 
+However, these variants were downgraded to variants of uncertain significance 
+(VUSs) during reanalysis in 2016 because of uncertainty that they caused a loss 
+of function of the gene. c.10691 + 2T > C is predicted to abrogate the canonical 
+splice site and lead to the skipping of exon 65, but the adjoining of exon 64 
+and exon 66 in the DNAH11 transcript preserves the reading frame of the 
+resultant protein. c.13523_13543dup21 is located in the last exon of the DNAH11 
+coding sequence, upstream of the canonical stop codon, which suggests a reduced 
+likelihood to trigger nonsense-mediated decay (NMD). Transcriptional analysis 
+was performed to characterize the impact of the variants, resulting in 
+reclassification of c.10691 + 2T > C to Likely Pathogenic by providing evidence 
+that it results in a deleterious effect and subsequent downstream 
+reclassification of c.13523_13543dup21 to Likely Pathogenic as well. Our case 
+illustrates the potential impact of transcriptional analysis on variant 
+resolution, supporting its usage on variants that exert an unpredictable effect 
+on splicing.
+
+© 2021 Ing et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/mcs.a005363
+PMCID: PMC7903884
+PMID: 33608380 [Indexed for MEDLINE]
+
+
+11. Front Cell Dev Biol. 2020 Dec 21;8:581340. doi: 10.3389/fcell.2020.581340. 
+eCollection 2020.
+
+Host Antiviral Response Suppresses Ciliogenesis and Motile Ciliary Functions in 
+the Nasal Epithelium.
+
+Chen Q(1)(2), Tan KS(2), Liu J(2), Ong HH(2), Zhou S(1)(2), Huang H(2)(3), Chen 
+H(1), Ong YK(4), Thong M(4), Chow VT(5), Qiu Q(1), Wang DY(2).
+
+Author information:
+(1)Department of Otolaryngology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China.
+(2)Department of Otolaryngology, Infectious Diseases Translational Research 
+Programme, Yong Loo Lin School of Medicine, National University of Singapore, 
+Singapore, Singapore.
+(3)Department of Otolaryngology, Head and Neck Surgery, Guangdong Provincial 
+People's Hospital, Guangdong Academy of Medical Science, Guangzhou, China.
+(4)Department of Otolaryngology, Head and Neck Surgery, National University 
+Health System, National University Hospital, Singapore, Singapore.
+(5)Infectious Diseases Translational Research Programme, Department of 
+Microbiology and Immunology, Yong Loo Lin School of Medicine, National 
+University Health System, National University of Singapore, Singapore, 
+Singapore.
+
+BACKGROUND: Respiratory viral infections are one of the main drivers of 
+development and exacerbation for chronic airway inflammatory diseases. Increased 
+viral susceptibility and impaired mucociliary clearance are often associated 
+with chronic airway inflammatory diseases and served as risk factors of 
+exacerbations. However, the links between viral susceptibility, viral clearance, 
+and impaired mucociliary functions are unclear. Therefore, the objective of this 
+study is to provide the insights into the effects of improper clearance of 
+respiratory viruses from the epithelium following infection, and their resulting 
+persistent activation of antiviral response, on mucociliary functions.
+METHODS: In order to investigate the effects of persistent antiviral responses 
+triggered by viral components from improper clearance on cilia formation and 
+function, we established an in vitro air-liquid interface (ALI) culture of human 
+nasal epithelial cells (hNECs) and used Poly(I:C) as a surrogate of viral 
+components to simulate their effects toward re-epithelization and mucociliary 
+functions of the nasal epithelium following damages from a viral infection.
+RESULTS: Through previous and current viral infection expression data, we found 
+that respiratory viral infection of hNECs downregulated motile cilia gene 
+expression. We then further tested the effects of antiviral response activation 
+on the differentiation of hNECs using Poly(I:C) stimulation on differentiating 
+human nasal epithelial stem/progenitor cells (hNESPCs). Using this model, we 
+observed reduced ciliated cell differentiation compared to goblet cells, reduced 
+protein and mRNA in ciliogenesis-associated markers, and increased mis-assembly 
+and mis-localization of ciliary protein DNAH5 following treatment with 25 μg/ml 
+Poly(I:C) in differentiating hNECs. Additionally, the cilia length and ciliary 
+beat frequency (CBF) were also decreased, which suggest impairment of ciliary 
+function as well.
+CONCLUSION: Our results suggest that the impairments of ciliogenesis and ciliary 
+function in hNECs may be triggered by specific expression of host antiviral 
+response genes during re-epithelization of the nasal epithelium following viral 
+infection. This event may in turn drive the development and exacerbation of 
+chronic airway inflammatory diseases.
+
+Copyright © 2020 Chen, Tan, Liu, Ong, Zhou, Huang, Chen, Ong, Thong, Chow, Qiu 
+and Wang.
+
+DOI: 10.3389/fcell.2020.581340
+PMCID: PMC7779769
+PMID: 33409274
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+12. Semin Cell Dev Biol. 2021 Feb;110:19-33. doi: 10.1016/j.semcdb.2020.11.007. Epub 
+2020 Dec 2.
+
+Motile cilia and airway disease.
+
+Legendre M(1), Zaragosi LE(2), Mitchison HM(3).
+
+Author information:
+(1)Sorbonne Université, Institut National de la Santé et de la Recherche 
+Médicale, Childhood Genetic Disorders, Département de Génétique Médicale, 
+Hôpital Armand-Trousseau, Assistance Publique-Hôpitaux de Paris, Paris 75012, 
+France.
+(2)Université Côte d'Azur, CNRS, IPMC, Sophia-Antipolis, 06560, France.
+(3)Genetics and Genomic Medicine, University College London, UCL Great Ormond 
+Street Institute of Child Health, London WC1N 1EH, UK; NIHR Biomedical Research 
+Centre at Great Ormond Street Hospital, London, UK. Electronic address: 
+h.mitchison@ucl.ac.uk.
+
+A finely regulated system of airway epithelial development governs the 
+differentiation of motile ciliated cells of the human respiratory tract, 
+conferring the body's mucociliary clearance defence system. Human cilia 
+dysfunction can arise through genetic mutations and this is a cause of 
+debilitating disease morbidities that confer a greatly reduced quality of life. 
+The inherited human motile ciliopathy disorder, primary ciliary dyskinesia 
+(PCD), can arise from mutations in genes affecting various aspects of motile 
+cilia structure and function through deficient production, transport and 
+assembly of cilia motility components or through defective multiciliogenesis. 
+Our understanding about the development of the respiratory epithelium, motile 
+cilia biology and the implications for human pathology has expanded greatly over 
+the past 20 years since isolation of the first PCD gene, rising to now nearly 50 
+genes. Systems level insights about cilia motility in health and disease have 
+been made possible through intensive molecular and omics (genomics, 
+transcriptomics, proteomics) research, applied in ciliate organisms and in 
+animal and human disease modelling. Here, we review ciliated airway development 
+and the genetic stratification that underlies PCD, for which the underlying 
+genotype can increasingly be connected to biological mechanism and disease 
+prognostics. Progress in this field can facilitate clinical translation of 
+research advances, with potential for great medical impact, e.g. through 
+improvements in ciliopathy disease diagnosis, management, family counselling and 
+by enhancing the potential for future genetically tailored approaches to disease 
+therapeutics.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.semcdb.2020.11.007
+PMID: 33279404 [Indexed for MEDLINE]
+
+
+13. BMC Med Genet. 2020 Nov 26;21(1):237. doi: 10.1186/s12881-020-01171-2.
+
+Two novel mutations in the DNAH11 gene in primary ciliary dyskinesia (CILD7) 
+with considerable variety in the clinical and beating cilia phenotype.
+
+Schultz R(1), Elenius V(2), Lukkarinen H(2), Saarela T(3).
+
+Author information:
+(1)Tampere University Hospital, Allergy Centre, PB 2000, 33521, Tampere, 
+Finland. rudiger.schultz58@gmail.com.
+(2)Department of Pediatrics, Turku University Hospital, Kiinanmyllynkatu 4-8, 
+20520, Turku, Finland.
+(3)Department of Clinical Genetics, Kuopio University Hospital, PB 1, 70029, 
+Kuopio, Finland.
+
+BACKGROUND: Diagnosis of primary ciliary dyskinesia (PCD) still remains a 
+challenge, especially with mutations in the Dynein Arm Heavy Chain 11 (DNAH11) 
+gene. Classical diagnostic measures like Transmission Electron Microscopy (TEM) 
+are not applicable for mutations in the DNAH11 gene since ultrastructural 
+defects of the ciliary apparatus are absent. Novel mutations encoding for PCD 
+appear all the time with considerable variation in the clinical picture, making 
+it necessary to update data bases and guidelines for PCD diagnostics.
+METHODS: In this study we examined two unrelated, Finnish families with symptoms 
+of PCD applying the clinical scoring system: Primary ciliary dyskinesia Rule 
+(PICADAR), high speed video microscopy analysis (HSVMA) for ciliary movement, a 
+commercially available gene panel analysis and nasal Nitric Oxide (nNO) 
+measurements if applicable.
+RESULTS: Two, likely pathogenic variants in the DNAH11 gene (c.2341G > A, p. 
+(Glu781Lys) ja c.7645 + 5G > A) were detected. In the first family, compound 
+heterozygous mutations led to disease manifestation in two of 4 children, which 
+showed a similar phenotype of cilia beating pattern but marked differences in 
+disease severity. In the second family, all three children were homozygotes for 
+the c.2341G > A p.(Glu781Lys) mutation and showed a similar degree of disease 
+severity. However, the phenotype of cilia beating pattern was different ranging 
+from stiff, static cilia to a hyperkinetic movement in one of these children.
+CONCLUSIONS: In this study we describe two Finnish families with PCD, revealing 
+two novel mutations in the DNAH11 gene which show considerable variety in the 
+clinical and beating cilia phenotype. The results of this study show the 
+clinician that PCD can be much milder than generally expected and diagnosis 
+demands a combination of measures which are only successful in experienced 
+hands. Chronic and repeatedly treated wet cough should raise suspicion of PCD, 
+referring the patient for further diagnostics to a specialised PCD centre.
+
+DOI: 10.1186/s12881-020-01171-2
+PMCID: PMC7690114
+PMID: 33243178 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors of this article have no conflict of 
+interest concerning this publication.
+
+
+14. BMC Med Genet. 2020 Nov 10;21(1):220. doi: 10.1186/s12881-020-01160-5.
+
+A novel genetic variant in DNAI2 detected by custom gene panel in a newborn with 
+Primary Ciliary Dyskinesia: case report.
+
+Rocca MS(1), Piatti G(2), Michelucci A(3), Guazzo R(4), Bertini V(5), Vinanzi 
+C(1), Caligo MA(3), Valetto A(5), Foresta C(6).
+
+Author information:
+(1)Department of Medicine, University of Padova, Via Giustiniani, 2, 35128, 
+Padova, Italy.
+(2)Unit of Bronchopneumology, Department of Pathophysiology and Transplantation, 
+Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico, University of Milan, 
+Milan, Italy.
+(3)Laboratory of Molecular Genetics, University Hospital of Pisa, Pisa, Italy.
+(4)Unit of Pathological Anatomy, Department of Medical Biotechnology, University 
+of Siena, Siena, Italy.
+(5)Laboratory of Cytogenetics, University Hospital of Pisa, Pisa, Italy.
+(6)Department of Medicine, University of Padova, Via Giustiniani, 2, 35128, 
+Padova, Italy. carlo.foresta@unipd.it.
+
+BACKGROUND: Primary ciliary dyskinesia (PCD) is a highly heterogeneous genetic 
+disorder caused by defects in motile cilia. The hallmark features of PCD are the 
+chronic infections of the respiratory tract, moreover, clinical manifestations 
+include also laterality defects and risk of male infertility. Clinical 
+phenotypes of PCD are the result of mutations in genes encoding components of 
+axonema or factors involved in axonemal assembly. Recent studies have identified 
+over 45 PCD-associated genes, therefore, molecular analysis represents a 
+powerful diagnostic tool to confirm and uncover new genetic causes of this rare 
+disease.
+CASE PRESENTATION: Here, we describe a female infant of Moroccan origin with 
+normal pressure hydrocephalus (NPH) in addition to most common PCD symptoms. 
+Transmission Electron Microscopy (TEM) and molecular tests, such as a Next 
+generation Sequencing panel and a custom array CGH, were performed for diagnosis 
+of PCD. TEM revealed outer dynein arm (ODA) defects, whilst molecular analyses 
+detected a novel 6,9 kb microdeletion in DNAI2 gene.
+CONCLUSIONS: Since DNAI2 mutations are very rare, this case report contributes 
+to better delineate the important role of DNAI2 as causative of PCD phenotype, 
+suggesting, furthermore, that the variations in DNAI2 may be as a new genetic 
+risk factor for NPH. Indeed, although the association of hydrocephalus with PCD 
+has been well documented, however, only a small number of human patients show 
+this defect. Furthermore, this study highlights the importance of 
+high-throughput technologies in advancing our understanding of heterogeneous 
+genetic disorders.
+
+DOI: 10.1186/s12881-020-01160-5
+PMCID: PMC7654168
+PMID: 33167880 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+15. Front Genet. 2020 Aug 28;11:974. doi: 10.3389/fgene.2020.00974. eCollection 
+2020.
+
+Ultrastructural Sperm Flagellum Defects in a Patient With CCDC39 Compound 
+Heterozygous Mutations and Primary Ciliary Dyskinesia/Situs Viscerum Inversus.
+
+Cannarella R(1), Maniscalchi ET(2), Condorelli RA(1), Scalia M(3), Guerri G(2), 
+La Vignera S(1), Bertelli M(2), Calogero AE(1).
+
+Author information:
+(1)Department of Clinical and Experimental Medicine, University of Catania, 
+Catania, Italy.
+(2)MAGI EUREGIO, Bolzano, Italy.
+(3)Department of Biomedical and Biotechnological Sciences, Section of Biology 
+and Genetics, University of Catania, Catania, Italy.
+
+Introduction: Primary ciliary dyskinesia (PCD) is a rare autosomal recessive 
+disease characterized by structural or functional motile cilia abnormalities. Up 
+to 40 different genes seem, at the moment, to be involved in the pathogenesis of 
+PCD. A number of ultrastructural defects have also been reported in sperm 
+flagella, but the sperm mitochondrial membrane potential (MMP) has never been 
+described in these cases. Aim: The aim of this study was to report the sperm MMP 
+and ultrastructural abnormalities of the sperm flagella found in a patient with 
+PCD and situs inversus (Kartagener syndrome) and its characterization from the 
+genetic point of view. Methods: Transmission electronic microscopy (TEM) 
+analysis was used to evaluate flagella ultrastructure. The genetic testing was 
+performed by next-generation sequencing. Sperm DNA fragmentation and MMP were 
+also evaluated by flow cytometry. Results: We report here the case of an 
+18-year-old male patient with PCD and situs inversus and severe 
+oligo-astheno-teratozoospermia. TEM analysis of his spermatozoa showed an 
+abnormal connecting piece. The mid piece appeared abnormally thickened, with 
+cytoplasmic residue, dysplasia of fibrous sheath, loss of the outer dynein arms 
+(ODAs), truncated inner dynein arms, and supernumerary outer fibers. The 
+percentage of spermatozoa with fragmented DNA was normal, whereas a high 
+percentage of spermatozoa had low MMP, suggesting an altered mitochondrial 
+function. The genetic analysis showed the presence of c.610-2A > G, p.Arg811Cys 
+compound heterozygous mutations in the CCDC39 gene. Conclusion: The case herein 
+reported suggests that the high percentage of sperm with low MMP may play a role 
+in the pathogenesis of asthenozoospermia in patients with Kartagener syndrome. 
+In addition, we report, for the first time, the missense variant p.Arg811Cys in 
+the CCDC39 gene in a patient with Kartagener syndrome. Although in silico 
+analysis predicts its damaging potential, its clinical meaning remains unclear.
+
+Copyright © 2020 Cannarella, Maniscalchi, Condorelli, Scalia, Guerri, La 
+Vignera, Bertelli and Calogero.
+
+DOI: 10.3389/fgene.2020.00974
+PMCID: PMC7483550
+PMID: 33005176
+
+
+16. Biomolecules. 2020 Aug 14;10(8):1182. doi: 10.3390/biom10081182.
+
+Rapid Ex-Vivo Ciliogenesis and Dose-Dependent Effect of Notch Inhibition on 
+Ciliogenesis of Respiratory Epithelia.
+
+Zahid M(1), Feinstein TN(1), Oro A(1), Schwartz M(1), Lee AD(1), Lo CW(1).
+
+Author information:
+(1)Department of Developmental Biology, University of Pittsburgh School of 
+Medicine, 530 45th St, Pittsburgh, PA 15201, USA.
+
+Background: Cilia are actin based cellular protrusions conserved from algae to 
+complex multicellular organisms like Homo sapiens. Respiratory motile cilia line 
+epithelial cells of the tracheobronchial tree, beat in a synchronous, 
+metachronal wave, moving inhaled pollutants and pathogens cephalad. Their role 
+in both congenital disorders like primary ciliary dyskinesia (PCD) to acquired 
+disorders like chronic obstructive pulmonary disease (COPD) continues to evolve. 
+In this current body of work we outline a protocol optimized to reciliate human 
+nasal epithelial cells and mouse tracheal cells in vitro. Using this protocol, 
+we knocked down known cilia genes, as well as use a small molecule inhibitor of 
+Notch, N-[N-(3,5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butyl Ester 
+(DAPT), to assess the effect of these on ciliogenesis in order to show the 
+validity of our protocol. Methods: Tracheas were harvested from wild-type, adult 
+C57B6 mice, pronase digested and sloughed off epithelial cells grown to 
+confluence in stationary culture on rat-tail collagen coated wells. Upon 
+reaching confluence, collagen was digested and cells placed suspension culture 
+protocol to reciliate the cells. Using this suspension culture protocol, we 
+employed siRNA gene knockdown to assay gene functions required for airway 
+ciliogenesis. Knock down of Dynein axonemal heavy chain 5 (Dnah5), a ciliary 
+structural protein, was confirmed using immunostaining. Mouse tracheal cells 
+were treated in suspension with varying doses of DAPT, an inhibitor of Notch, 
+with the purpose of evaluating its effect and dose response on ciliogenesis. The 
+optimum dose was then used on reciliating human nasal epithelial cells. Results: 
+siRNA knockdown of Foxj1 prevented ciliation, consistent with its role as a 
+master regulator of motile cilia. Knockdown of Dnai1 and Dnah5 resulted in 
+immotile cilia, and Cand1 knockdown, a centrosome protein known to regulate 
+centrosome amplification, inhibited airway ciliogenesis. Dnah5 knockdown was 
+confirmed with significantly decreased immunostaining of cilia for this protein. 
+Inhibiting Notch signaling by inhibiting gamma secretase with DAPT enhanced the 
+percentage of ciliation, and resulted in longer cilia that beat with higher 
+frequency in both mouse and human airway epithelia. Conclusions: Modifying 
+existing reciliation protocols to suit both human nasal epithelial and mouse 
+tracheal tissue, we have shown that knockdown of known cilia-related genes have 
+the expected effects. Additionally, we have demonstrated the optimal dosage for 
+significantly improving reciliation of airway epithelia using DAPT. Given that 
+cilia length and function are significantly compromised in COPD, these findings 
+open up interesting avenues for further exploration.
+
+DOI: 10.3390/biom10081182
+PMCID: PMC7464104
+PMID: 32823934 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+17. J Assist Reprod Genet. 2020 Apr;37(4):811-820. doi: 10.1007/s10815-020-01735-4. 
+Epub 2020 Mar 13.
+
+Novel DNAAF6 variants identified by whole-exome sequencing cause male 
+infertility and primary ciliary dyskinesia.
+
+Wang Y(1), Tu C(1)(2), Nie H(1)(2), Meng L(2), Li D(1), Wang W(1), Zhang H(2), 
+Lu G(1)(2)(3), Lin G(1)(2)(3), Tan YQ(4)(5), Du J(6)(7).
+
+Author information:
+(1)Institute of Reproductive and Stem Cell Engineering, School of Basic Medical 
+Science, Central South University, Changsha, 410078, Hunan, China.
+(2)Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.
+(3)National Engineering and Research Center of Human Stem Cell, Changsha, China.
+(4)Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. 
+tanyueqiu@csu.edu.cn.
+(5)Institute of Reproduction and Stem Cell Engineering, Central South 
+University, Changsha, 410078, Hunan, China. tanyueqiu@csu.edu.cn.
+(6)Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. 
+tandujuan@csu.edu.cn.
+(7)Institute of Reproduction and Stem Cell Engineering, Central South 
+University, Changsha, 410078, Hunan, China. tandujuan@csu.edu.cn.
+
+PURPOSE: To identify the genetic cause of patients with primary ciliary 
+dyskinesia (PCD) and male infertility from two unrelated Han Chinese families.
+METHODS: We conducted whole-exome sequencing of three individuals with PCD and 
+male infertility from two unrelated Chinese families, and performed a targeted 
+look-up for DNAAF6 variants in our previously reported cohort of 442 individuals 
+(219 with isolated oligoasthenospermia and 223 fertile controls). 
+Ultrastructural and immunostaining analyses of patients' spermatozoa were 
+performed. The pathogenicity of the variants was validated using patient's 
+spermatozoa and HEK293T cells. Intracytoplasmic sperm injection (ICSI) treatment 
+was conducted in two patients.
+RESULTS: We identified one novel hemizygous frameshift variant (NM_173494, 
+c.319_329del: p.R107fs) of DNAAF6 gene (previously named PIH1D3) in family 1 and 
+one novel hemizygous missense variant (c.290G>T: p.G97V) in family 2. No 
+hemizygous deleterious variants in DNAAF6 were detected in the control cohort of 
+442 individuals. Ultrastructural and immunostaining analyses of patients' 
+spermatozoa showed the absence of outer and inner dynein arms in sperm flagella. 
+Both variants were proven to lead to DNAAF6 protein degradation in HEK293T 
+cells. Both patients carrying DNAAF6 variants underwent one ICSI cycle and 
+delivered one healthy child each.
+CONCLUSION: We identified novel DNAAF6 variants causing male infertility and PCD 
+in Han Chinese patients. This finding extended the spectrum of variants in 
+DNAAF6 and revealed new light on the impact of DNAAF6 variants in sperm 
+flagella.
+
+DOI: 10.1007/s10815-020-01735-4
+PMCID: PMC7183028
+PMID: 32170493 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+18. Cells. 2019 Aug 15;8(8):900. doi: 10.3390/cells8080900.
+
+Clinical and Genetic Analysis of Children with Kartagener Syndrome.
+
+Pereira R(1)(2), Barbosa T(3), Gales L(4)(5), Oliveira E(1)(2), Santos R(2)(6), 
+Oliveira J(2)(7)(8), Sousa M(9)(10).
+
+Author information:
+(1)Laboratory of Cell Biology, Department of Microscopy, Institute of Biomedical 
+Sciences Abel Salazar (ICBAS), University of Porto (UP), Rua Jorge Viterbo 
+Ferreira, 228, 4050-313 Porto, Portugal.
+(2)Multidisciplinary Unit for Biomedical Research (UMIB), ICBAS-UP, 4050-313 
+Porto, Portugal.
+(3)Department of Pediatrics, Maternal Child Center of the North (CMIN), 
+University Hospital Center of Porto (CHUP), Largo da Maternidade de Júlio Dinis, 
+4050-651 Porto, Portugal.
+(4)Department of Molecular Biology, Institute of Biomedical Sciences Abel 
+Salazar (ICBAS), University of Porto (UP), Rua Jorge Viterbo Ferreira, 228, 
+4050-313 Porto, Portugal.
+(5)Bioengineering and Synthetic Microbiology Group, Institute of Health Research 
+and Innovation (IBMC/i3S), University of Porto (UP), Rua Alfredo Allen, 208, 
+4200-135 Porto, Portugal.
+(6)Center of Medical Genetics Dr. Jacinto de Magalhães (IGMJM), University 
+Hospital Centre of Porto (CHUP), Praça Pedro Nunes 88, 4050-106 Porto, Portugal.
+(7)Center for Predictive and Preventive Genetics, Institute for Molecular and 
+Cell Biology (IBMC), Institute of Health Research and Innovation (i3S)-UP, Rua 
+Júlio Amaral de Carvalho 45, 4200-135 Porto, Portugal.
+(8)UniGene- IBMC/i3S, UP, Rua Alfredo Allen, 208, 4200-135 Porto, Portugal.
+(9)Laboratory of Cell Biology, Department of Microscopy, Institute of Biomedical 
+Sciences Abel Salazar (ICBAS), University of Porto (UP), Rua Jorge Viterbo 
+Ferreira, 228, 4050-313 Porto, Portugal. msousa@icbas.up.pt.
+(10)Multidisciplinary Unit for Biomedical Research (UMIB), ICBAS-UP, 4050-313 
+Porto, Portugal. msousa@icbas.up.pt.
+
+Primary ciliary dyskinesia (PCD) is a rare autosomal recessive disorder 
+characterized by dysfunction of motile cilia causing ineffective mucus clearance 
+and organ laterality defects. In this study, two unrelated Portuguese children 
+with strong PCD suspicion underwent extensive clinical and genetic assessments 
+by whole-exome sequencing (WES), as well as ultrastructural analysis of cilia by 
+transmission electron microscopy (TEM) to identify their genetic etiology. These 
+analyses confirmed the diagnostic of Kartagener syndrome (KS) (PCD with situs 
+inversus). Patient-1 showed a predominance of the absence of the inner dynein 
+arms with two disease-causing variants in the CCDC40 gene. Patient-2 showed the 
+absence of both dynein arms and WES disclosed two novel high impact variants in 
+the DNAH5 gene and two missense variants in the DNAH7 gene, all possibly 
+deleterious. Moreover, in Patient-2, functional data revealed a reduction of 
+gene expression and protein mislocalization in both genes' products. Our work 
+calls the researcher's attention to the complexity of the PCD and to the 
+possibility of gene interactions modelling the PCD phenotype. Further, it is 
+demonstrated that even for well-known PCD genes, novel pathogenic variants could 
+have importance for a PCD/KS diagnosis, reinforcing the difficulty of providing 
+genetic counselling and prenatal diagnosis to families.
+
+DOI: 10.3390/cells8080900
+PMCID: PMC6721662
+PMID: 31443223 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+19. Dis Model Mech. 2019 Aug 2;12(8):dmm038489. doi: 10.1242/dmm.038489.
+
+Functional loss of Ccdc151 leads to hydrocephalus in a mouse model of primary 
+ciliary dyskinesia.
+
+Chiani F(1)(2), Orsini T(1)(2), Gambadoro A(1)(2), Pasquini M(1)(2), Putti 
+S(1)(2), Cirilli M(2), Ermakova O(3)(2), Tocchini-Valentini GP(1).
+
+Author information:
+(1)European Mouse Mutant Archive (EMMA), INFRAFRONTIER, Monterotondo Mouse 
+Clinic, Department of Biomedical Sciences (DSB), Italian National Research 
+Council (CNR), Adriano Buzzati-Traverso Campus, via Ramarini, 32, 00015, 
+Monterotondo, Rome, Italy.
+(2)Institute of Biochemistry and Cell Biology (IBBC), Department of Biomedical 
+Sciences (DSB), Italian National Research Council (CNR), Adriano 
+Buzzati-Traverso Campus, via Ramarini, 32, 00015, Monterotondo, Rome, Italy.
+(3)European Mouse Mutant Archive (EMMA), INFRAFRONTIER, Monterotondo Mouse 
+Clinic, Department of Biomedical Sciences (DSB), Italian National Research 
+Council (CNR), Adriano Buzzati-Traverso Campus, via Ramarini, 32, 00015, 
+Monterotondo, Rome, Italy olga.ermakova@cnr.it.
+
+Primary ciliary dyskinesia (PCD) is a genetically heterogeneous disorder 
+affecting normal structure and function of motile cilia, phenotypically 
+manifested as chronic respiratory infections, laterality defects and 
+infertility. Autosomal recessive mutations in genes encoding for different 
+components of the ciliary axoneme have been associated with PCD in humans and in 
+model organisms. The CCDC151 gene encodes for a coiled-coil axonemal protein 
+that ensures correct attachment of outer dynein arm (ODA) complexes to 
+microtubules. A correct arrangement of dynein arm complexes is required to 
+provide the proper mechanical force necessary for cilia beat. Loss-of-function 
+mutations in CCDC151 in humans leads to PCD disease with respiratory distress 
+and defective left-right body asymmetry. In mice with the Ccdc151Snbl 
+loss-of-function mutation (Snowball mutant), left-right body asymmetry with 
+heart defects have been observed. Here, we demonstrate that loss of Ccdc151 gene 
+function via targeted gene deletion in mice leads to perinatal lethality and 
+congenital hydrocephalus. Microcomputed tomography (microCT) X-ray imaging of 
+Ccdc151-β-galactosidase reporter expression in whole-mount brain and 
+histological analysis show that Ccdc151 is expressed in ependymal cells lining 
+the ventricular brain system, further confirming the role of Ccdc151 dysfunction 
+in hydrocephalus development. Analyzing the features of hydrocephalus in the 
+Ccdc151-knockout animals by microCT volumetric imaging, we observe continuity of 
+the aqueduct of Sylvius, indicating the communicating nature of hydrocephalus in 
+the Ccdc151-knockout animals. Congenital defects in left-right asymmetry and 
+male infertility have been also observed in Ccdc151-null animals. Ccdc151 gene 
+deletion in adult animals results in abnormal sperm counts and defective sperm 
+motility.This article has an associated First Person interview with the joint 
+first authors of the paper.
+
+© 2019. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dmm.038489
+PMCID: PMC6737950
+PMID: 31383820 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+20. J Assist Reprod Genet. 2019 Aug;36(8):1683-1700. doi: 
+10.1007/s10815-019-01509-7. Epub 2019 Jun 29.
+
+Characterization of CCDC103 expression profiles: further insights in primary 
+ciliary dyskinesia and in human reproduction.
+
+Pereira R(1)(2), Oliveira ME(3)(4), Santos R(3)(4)(5), Oliveira E(6)(3), Barbosa 
+T(7), Santos T(8), Gonçalves P(8), Ferraz L(9), Pinto S(10), Barros A(10)(11), 
+Oliveira J(6)(3)(4), Sousa M(6)(3).
+
+Author information:
+(1)Laboratory of Cell Biology, Department of Microscopy, Institute of Biomedical 
+Sciences Abel Salazar (ICBAS), University of Porto (UP), Rua Jorge Viterbo 
+Ferreira, 228, 4050-313, Porto, Portugal. ruterpereira@gmail.com.
+(2)Multidisciplinary Unit for Biomedical Research (UMIB), ICBAS-UP, Porto, 
+Portugal. ruterpereira@gmail.com.
+(3)Multidisciplinary Unit for Biomedical Research (UMIB), ICBAS-UP, Porto, 
+Portugal.
+(4)Molecular Genetics Unit, Center of Medical Genetics Dr. Jacinto Magalhães 
+(CGMJM), University Hospital Centre of Porto (CHUP), Praça Pedro Nunes, 88, 
+4099-028, Porto, Portugal.
+(5)UCIBIO/REQUIMTE, Department of Biological Sciences, Laboratory of 
+Biochemistry, Faculty of Pharmacy, University of Porto (FFUP), Rua Jorge Viterbo 
+Ferreira, 228, 4050-313, Porto, Portugal.
+(6)Laboratory of Cell Biology, Department of Microscopy, Institute of Biomedical 
+Sciences Abel Salazar (ICBAS), University of Porto (UP), Rua Jorge Viterbo 
+Ferreira, 228, 4050-313, Porto, Portugal.
+(7)Department of Pediatrics, Maternal Child Centre of the North (CMIN), 
+University Hospital Centre of Porto (CHUP), Largo da Maternidade, 4050-371, 
+Porto, Portugal.
+(8)Department of Otorhinolaryngology, S. Sebastião Hospital, Hospital Centre of 
+entre Douro e Vouga, Rua Dr. Cândido Pinho 5, 4520-211, Santa Maria da Feira, 
+Portugal.
+(9)Department of Urology, Hospital Centre of Vila Nova de Gaia/Espinho, Unit 1, 
+Rua Conceição Fernandes 1079, 4434-502, Vila Nova de Gaia, Portugal.
+(10)Centre for Reproductive Genetics Prof. Alberto Barros (CGR), Av. do Bessa, 
+240, 1° Dto. Frente, 4100-012, Porto, Portugal.
+(11)Department of Genetics, Faculty of Medicine, University of Porto (FMUP), 
+Alameda Prof. Hernâni Monteiro, 4200-319, Porto, Portugal.
+
+PROPOSE: To study CCDC103 expression profiles and understand how pathogenic 
+variants in CCDC103 affect its expression profile at mRNA and protein level.
+METHODS: To increase the knowledge about the CCDC103, we attempted 
+genotype-phenotype correlations in two patients carrying novel homozygous 
+(missense and frameshift) CCDC103 variants. Whole-exome sequencing, quantitative 
+PCR, Western blot, electron microscopy, immunohistochemistry, 
+immunocytochemistry, and immunogold labelling were performed to characterize 
+CCDC103 expression profiles in reproductive and somatic cells.
+RESULTS: Our data demonstrate that pathogenic variants in CCDC103 gene 
+negatively affect gene and protein expression in both patients who presented 
+absence of DA on their axonemes. Further, we firstly report that CCDC103 is 
+expressed at different levels in reproductive tissues and somatic cells and 
+described that CCDC103 protein forms oligomers with tissue-specific sizes, which 
+suggests that CCDC103 possibly undergoes post-translational modifications. 
+Moreover, we reported that CCDC103 was restricted to the midpiece of sperm and 
+is present at the cytoplasm of the other cells.
+CONCLUSIONS: Overall, our data support the CCDC103 involvement in PCD and 
+suggest that CCDC103 may have different assemblies and roles in cilia and sperm 
+flagella biology that are still unexplored.
+
+DOI: 10.1007/s10815-019-01509-7
+PMCID: PMC6708006
+PMID: 31273583 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+21. Hum Mol Genet. 2019 Aug 15;28(16):2775-2784. doi: 10.1093/hmg/ddz106.
+
+A null allele of Dnaaf2 displays embryonic lethality and mimics human ciliary 
+dyskinesia.
+
+Cheong A(1), Degani R(1), Tremblay KD(1), Mager J(1).
+
+Author information:
+(1)Department of Veterinary and Animal Sciences, University of Massachusetts, 
+Amherst, MA 01003, USA.
+
+The dynein axonemal assembly factor (Dnaaf) protein family is involved in 
+preassembly and stability of dynein arms before they are transported into the 
+cilia. In humans, mutations in DNAAF genes lead to several diseases related to 
+cilia defects such as primary ciliary dyskinesia (PCD; OMIM: 612518). Patients 
+with PCD experience malfunctions in cilia motility, which can result in 
+inflammation and infection of the respiratory tract among other defects. 
+Previous studies have identified that a mutation in DNAAF2 results in PCD and 
+that 40% of these patients also experience laterality defects. In an outbred 
+genetic background, Dnaaf2 homozygotes die after birth and have left/right 
+defects among other phenotypes. Here we characterize a novel null allele of 
+Dnaaf2 obtained from the International Mouse Phenotyping Consortium. Our data 
+indicate that on a defined C57bl/6NJ genetic background, homozygous Dnaaf2 mouse 
+embryos fail to progress beyond organogenesis stages with many abnormalities 
+including left-right patterning defects. These findings support studies 
+indicating that hypomorphic mutations of human DNAAF2 can result in ciliary 
+dyskinesia and identify Dnaaf2 as an essential component of cilia function in 
+vivo.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/hmg/ddz106
+PMCID: PMC6688062
+PMID: 31107948 [Indexed for MEDLINE]
+
+
+22. Oncol Lett. 2019 May;17(5):4683-4694. doi: 10.3892/ol.2019.10133. Epub 2019 Mar 
+8.
+
+Identification of key pathways and genes in nasopharyngeal carcinoma using 
+bioinformatics analysis.
+
+Zhu HM(1), Fei Q(1), Qian LX(1), Liu BL(1), He X(1), Yin L(1).
+
+Author information:
+(1)Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, Nanjing 
+Medical University Affiliated Cancer Hospital, Nanjing, Jiangsu 210000, P.R. 
+China.
+
+Nasopharyngeal carcinoma (NPC) is one of the most common malignancies in the 
+head and neck. The aim of the current study was to identify the key pathways and 
+genes involved in NPC through bioinformatics analysis and to identify potential 
+molecular mechanisms underlying NPC proliferation and progression. Three gene 
+expression profiles (GSE12452, GSE34573 and GSE64634) were downloaded from the 
+Gene Expression Omnibus database. A total of 76 samples were analyzed, of which 
+59 were NPC samples and 17 were normal samples. Gene ontology (GO) and Kyoto 
+Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses were 
+subsequently conducted. The protein-protein interaction (PPI) network of the 
+differentially expressed genes (DEGs) was constructed using Cytoscape software. 
+Analysis of GSE12452, GSE34573 and GSE64634 datasets identified 1,301 (553 
+upregulated and 748 downregulated), 1,232 (348 upregulated and 884 
+downregulated) and 1,218 (555 upregulated and 663 downregulated) DEGs, 
+respectively. Using Venn diagram analysis, 268 DEGs (59 upregulated and 209 
+downregulated) that intersected all three datasets, were selected for further 
+analysis. The results of GO analysis revealed that upregulated DEGs were 
+significantly enriched in biological processes, including 'cell adhesion', 'cell 
+division', 'mitosis' and 'mitotic cell cycle'. The downregulated DEGs were 
+mainly enriched in 'microtubule-based movement', 'cilium movement', 'cilium 
+axoneme assembly' and 'epithelial cell differentiation'. The KEGG pathway 
+analysis results revealed that the upregulated DEGs were highly associated with 
+several pathways, including 'extracellular matrix-receptor interaction', 'human 
+papillomavirus infection', 'arrhythmogenic right ventricular cardiomyopathy' and 
+'focal adhesion', whereas the downregulated DEGs were enriched in 'metabolic 
+pathways', 'Huntington's disease', 'fluid shear stress and atherosclerosis' and 
+'chemical carcinogenesis'. On the basis of the PPI network of the DEGs, the 
+following top 10 hub genes were identified: Dynein axonemal light intermediate 
+chain 1, dynein axonemal intermediate chain 2, calmodulin 1, coiled-coil domain 
+containing 114, dynein axonemal heavy chain 5, radial spoke head 9 homolog, 
+radial spoke head component 4A, NDC80 kinetochore complex component, thymidylate 
+synthetase and coiled-coil domain containing 39. In conclusion, by performing a 
+comprehensive bioinformatics analysis of DEGs, putative targets that could be 
+used to elucidate the molecular mechanisms underlying NPC were identified.
+
+DOI: 10.3892/ol.2019.10133
+PMCID: PMC6447945
+PMID: 30988824
+
+
+23. PLoS Genet. 2018 Aug 27;14(8):e1007602. doi: 10.1371/journal.pgen.1007602. 
+eCollection 2018 Aug.
+
+Homozygous loss-of-function mutations in MNS1 cause laterality defects and 
+likely male infertility.
+
+Ta-Shma A(1)(2), Hjeij R(3), Perles Z(1), Dougherty GW(3), Abu Zahira I(1), 
+Letteboer SJF(4)(5), Antony D(4)(5)(6), Darwish A(1), Mans DA(4)(5), Spittler 
+S(3), Edelbusch C(3), Cindrić S(3), Nöthe-Menchen T(3), Olbrich H(3), Stuhlmann 
+F(3), Aprea I(3), Pennekamp P(3), Loges NT(3), Breuer O(7), Shaag A(2), Rein 
+AJJT(1), Gulec EY(8), Gezdirici A(8), Abitbul R(9), Elias N(10), Amirav 
+I(11)(12), Schmidts M(4)(5)(6), Roepman R(4)(5), Elpeleg O(2), Omran H(3).
+
+Author information:
+(1)Department of Pediatric Cardiology, Hadassah, Hebrew University Medical 
+Center, Jerusalem, Israel.
+(2)Monique and Jacques Roboh Department of Genetic Research, Hadassah, Hebrew 
+University Medical Center, Jerusalem, Israel.
+(3)Department of General Pediatrics, University Hospital Muenster, Muenster, 
+Germany.
+(4)Department of Human Genetics, Radboud University Medical Center, Nijmegen, 
+the Netherlands.
+(5)Radboud Institute for Molecular Life Sciences, Radboud University Nijmegen, 
+Nijmegen, the Netherlands.
+(6)Pediatric Genetics Division, Center for Pediatrics and Adolescent Medicine, 
+Faculty of Medicine, Freiburg University, Freiburg, Germany.
+(7)Pediatric Pulmonology Unit, Hadassah-Hebrew University Medical Center, 
+Jerusalem, Israel.
+(8)University of Health Sciences, Kanuni Sultan Suleyman, Training and Research 
+Hospital, Department of Medical Genetics, Istanbul, Turkey.
+(9)Pediatric Department, Ziv Medical Center, Faculty of Medicine, Bar Ilan 
+University, Safed, Israel.
+(10)Saint Vincent Hospital, Nazareth, Faculty of Medicine, Bar Ilan University, 
+Israel.
+(11)Department of Pediatrics, University of Alberta, Edmonton, Alberta, Canada.
+(12)Pediatric Pulmonology Unit, Tel Aviv Medical Center, Tel Aviv, Israel.
+
+The clinical spectrum of ciliopathies affecting motile cilia spans impaired 
+mucociliary clearance in the respiratory system, laterality defects including 
+heart malformations, infertility and hydrocephalus. Using linkage analysis and 
+whole exome sequencing, we identified two recessive loss-of-function MNS1 
+mutations in five individuals from four consanguineous families: 1) a homozygous 
+nonsense mutation p.Arg242* in four males with laterality defects and 
+infertility and 2) a homozygous nonsense mutation p.Gln203* in one female with 
+laterality defects and recurrent respiratory infections additionally carrying 
+homozygous mutations in DNAH5. Consistent with the laterality defects observed 
+in these individuals, we found Mns1 to be expressed in mouse embryonic ventral 
+node. Immunofluorescence analysis further revealed that MNS1 localizes to the 
+axonemes of respiratory cilia as well as sperm flagella in human. In-depth 
+ultrastructural analyses confirmed a subtle outer dynein arm (ODA) defect in the 
+axonemes of respiratory epithelial cells resembling findings reported in 
+Mns1-deficient mice. Ultrastructural analyses in the female carrying combined 
+mutations in MNS1 and DNAH5 indicated a role for MNS1 in the process of ODA 
+docking (ODA-DC) in the distal respiratory axonemes. Furthermore, 
+co-immunoprecipitation and yeast two hybrid analyses demonstrated that MNS1 
+dimerizes and interacts with the ODA docking complex component CCDC114. Overall, 
+we demonstrate that MNS1 deficiency in humans causes laterality defects (situs 
+inversus) and likely male infertility and that MNS1 plays a role in the ODA-DC 
+assembly.
+
+DOI: 10.1371/journal.pgen.1007602
+PMCID: PMC6128653
+PMID: 30148830 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+24. Elife. 2018 Jun 19;7:e34389. doi: 10.7554/eLife.34389.
+
+ZMYND10 functions in a chaperone relay during axonemal dynein assembly.
+
+Mali GR(#)(1), Yeyati PL(#)(1), Mizuno S(2), Dodd DO(1), Tennant PA(1), Keighren 
+MA(1), Zur Lage P(3), Shoemark A(4), Garcia-Munoz A(5), Shimada A(6), Takeda 
+H(6), Edlich F(7)(8), Takahashi S(2)(9), von Kreigsheim A(5)(10), Jarman AP(3), 
+Mill P(1).
+
+Author information:
+(1)MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine, 
+University of Edinburgh, Edinburgh, United Kingdom.
+(2)Laboratory Animal Resource Centre, University of Tsukuba, Tsukuba, Japan.
+(3)Centre for Discovery Brain Sciences, University of Edinburgh, Edinburgh, 
+United Kingdom.
+(4)Division of Molecular and Clinical Medicine, University of Dundee, Dundee, 
+United Kingdom.
+(5)Systems Biology Ireland, University College Dublin, Dublin, Ireland.
+(6)Department of Biological Sciences, University of Tokyo, Tokyo, Japan.
+(7)Institute for Biochemistry and Molecular Biology, University of Freiburg, 
+Freiburg, Germany.
+(8)BIOSS, Centre for Biological Signaling Studies, University of Freiburg, 
+Freiburg, Germany.
+(9)Department of Anatomy and Embryology, Faculty of Medicine, University of 
+Tsukuba, Tsukuba, Japan.
+(10)Edinburgh Cancer Research UK Centre, Institute of Genetics and Molecular 
+Medicine, University of Edinburgh, Edinburgh, United Kingdom.
+(#)Contributed equally
+
+Molecular chaperones promote the folding and macromolecular assembly of a 
+diverse set of 'client' proteins. How ubiquitous chaperone machineries direct 
+their activities towards specific sets of substrates is unclear. Through the use 
+of mouse genetics, imaging and quantitative proteomics we uncover that ZMYND10 
+is a novel co-chaperone that confers specificity for the FKBP8-HSP90 chaperone 
+complex towards axonemal dynein clients required for cilia motility. Loss of 
+ZMYND10 perturbs the chaperoning of axonemal dynein heavy chains, triggering 
+broader degradation of dynein motor subunits. We show that pharmacological 
+inhibition of FKBP8 phenocopies dynein motor instability associated with the 
+loss of ZMYND10 in airway cells and that human disease-causing variants of 
+ZMYND10 disrupt its ability to act as an FKBP8-HSP90 co-chaperone. Our study 
+indicates that primary ciliary dyskinesia (PCD), caused by mutations in dynein 
+assembly factors disrupting cytoplasmic pre-assembly of axonemal dynein motors, 
+should be considered a cell-type specific protein-misfolding disease.
+
+© 2018, Mali et al.
+
+DOI: 10.7554/eLife.34389
+PMCID: PMC6044906
+PMID: 29916806 [Indexed for MEDLINE]
+
+Conflict of interest statement: GM, PY, SM, DD, PT, MK, Pz, AS, AG, AS, HT, FE, 
+ST, Av, AJ, PM No competing interests declared
+
+
+25. Am J Respir Cell Mol Biol. 2018 Oct;59(4):511-522. doi: 
+10.1165/rcmb.2017-0436OC.
+
+Quantifying Ciliary Dynamics during Assembly Reveals Stepwise Waveform 
+Maturation in Airway Cells.
+
+Oltean A(1)(2), Schaffer AJ(1), Bayly PV(2), Brody SL(1).
+
+Author information:
+(1)1 Department of Medicine and.
+(2)2 Department of Mechanical Engineering and Materials Science, Washington 
+University in St. Louis, St. Louis, Missouri.
+
+Comment in
+    Am J Respir Cell Mol Biol. 2018 Oct;59(4):415-416. doi: 
+10.1165/rcmb.2018-0208ED.
+
+Motile cilia are essential for clearance of particulates and pathogens from 
+airways. For effective transport, ciliary motor proteins and axonemal structures 
+interact to generate the rhythmic, propulsive bending, but the mechanisms that 
+produce a dynamic waveform remain incompletely understood. Biomechanical 
+measures of human ciliary motion and their relationships to ciliary assembly are 
+needed to illuminate the biophysics of normal ciliary function and to quantify 
+dysfunction in ciliopathies. To these ends, we analyzed ciliary motion by 
+high-speed video microscopy of ciliated cells sampled from human lung airways 
+compared with primary culture cells that undergo ciliogenesis in vitro. 
+Quantitative assessment of waveform parameters showed variations in waveform 
+shape between individual cilia; however, general trends in waveform parameters 
+emerged, associated with progression of cilia length and stage of 
+differentiation. When cilia emerged from cultured cells, beat frequency was 
+initially elevated, then fell and remained stable as cilia lengthened. In 
+contrast, the average bending amplitude and the ability to generate force 
+gradually increased and eventually approached values observed in ex vivo 
+samples. Dynein arm motor proteins DNAH5, DNAH9, DNAH11, and DNAH6 were 
+localized within specific regions of the axoneme in the ex vivo cells; however, 
+distinct stages of in vitro waveform development identified by biomechanical 
+features were associated with the progressive movement of dyneins to the 
+appropriate proximal or distal sections of the cilium. These observations 
+suggest that the stepwise variation in waveform development during ciliogenesis 
+is dependent on cilia length and potentially on outer dynein arm assembly.
+
+DOI: 10.1165/rcmb.2017-0436OC
+PMCID: PMC6178159
+PMID: 29851510 [Indexed for MEDLINE]
+
+
+26. Am J Hum Genet. 2018 May 3;102(5):956-972. doi: 10.1016/j.ajhg.2018.03.024.
+
+C11orf70 Mutations Disrupting the Intraflagellar Transport-Dependent Assembly of 
+Multiple Axonemal Dyneins Cause Primary Ciliary Dyskinesia.
+
+Fassad MR(1), Shoemark A(2), le Borgne P(3), Koll F(3), Patel M(4), Dixon M(5), 
+Hayward J(4), Richardson C(5), Frost E(5), Jenkins L(6), Cullup T(6), Chung 
+EMK(7), Lemullois M(3), Aubusson-Fleury A(3), Hogg C(5), Mitchell DR(8), Tassin 
+AM(3), Mitchison HM(9).
+
+Author information:
+(1)Genetics and Genomic Medicine Programme, University College London, UCL Great 
+Ormond Street Institute of Child Health, London WC1N 1EH, UK; Department of 
+Human Genetics, Medical Research Institute, Alexandria University, 165 
+El-Horreya Avenue, El-Hadra 21561, Alexandria, Egypt.
+(2)PCD Diagnostic Team and Department of Paediatric Respiratory Medicine, Royal 
+Brompton and Harefield NHS Trust, London SW3 6NP, UK; School of Medicine, 
+University of Dundee, Dundee, UK.
+(3)Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Univ. Paris 
+Sud, Université Paris-Saclay, 1 Avenue de la Terrasse, 91198 Gif sur Yvette, 
+France.
+(4)Genetics and Genomic Medicine Programme, University College London, UCL Great 
+Ormond Street Institute of Child Health, London WC1N 1EH, UK.
+(5)PCD Diagnostic Team and Department of Paediatric Respiratory Medicine, Royal 
+Brompton and Harefield NHS Trust, London SW3 6NP, UK.
+(6)Regional Molecular Genetics Laboratory, Great Ormond Street Hospital for 
+Children NHS Foundation Trust, Queen Square, London WC1N 3BH, UK.
+(7)Population, Policy and Practice Programme, University College London, UCL 
+Great Ormond Street Institute of Child Health, London WC1N 1EH, UK.
+(8)Department of Cell and Developmental Biology, SUNY Upstate Medical 
+University, 750 E. Adams St., Syracuse, NY 13210, USA.
+(9)Genetics and Genomic Medicine Programme, University College London, UCL Great 
+Ormond Street Institute of Child Health, London WC1N 1EH, UK. Electronic 
+address: h.mitchison@ucl.ac.uk.
+
+Primary ciliary dyskinesia (PCD) is a genetically and phenotypically 
+heterogeneous disorder characterized by destructive respiratory disease and 
+laterality abnormalities due to randomized left-right body asymmetry. PCD is 
+mostly caused by mutations affecting the core axoneme structure of motile cilia 
+that is essential for movement. Genes that cause PCD when mutated include a 
+group that encode proteins essential for the assembly of the ciliary dynein 
+motors and the active transport process that delivers them from their 
+cytoplasmic assembly site into the axoneme. We screened a cohort of affected 
+individuals for disease-causing mutations using a targeted next generation 
+sequencing panel and identified two unrelated families (three affected children) 
+with mutations in the uncharacterized C11orf70 gene (official gene name 
+CFAP300). The affected children share a consistent PCD phenotype from early life 
+with laterality defects and immotile respiratory cilia displaying combined loss 
+of inner and outer dynein arms (IDA+ODA). Phylogenetic analysis shows C11orf70 
+is highly conserved, distributed across species similarly to proteins involved 
+in the intraflagellar transport (IFT)-dependant assembly of axonemal dyneins. 
+Paramecium C11orf70 RNAi knockdown led to combined loss of ciliary IDA+ODA with 
+reduced cilia beating and swim velocity. Tagged C11orf70 in Paramecium and 
+Chlamydomonas localizes mainly in the cytoplasm with a small amount in the 
+ciliary component. IFT139/TTC21B (IFT-A protein) and FLA10 (IFT kinesin) 
+depletion experiments show that its transport within cilia is IFT dependent. 
+During ciliogenesis, C11orf70 accumulates at the ciliary tips in a similar 
+distribution to the IFT-B protein IFT46. In summary, C11orf70 is essential for 
+assembly of dynein arms and C11orf70 mutations cause defective cilia motility 
+and PCD.
+
+Copyright © 2018 American Society of Human Genetics. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.ajhg.2018.03.024
+PMCID: PMC5986720
+PMID: 29727692 [Indexed for MEDLINE]
+
+
+27. Reprod Biol Endocrinol. 2018 Feb 5;16(1):10. doi: 10.1186/s12958-018-0321-6.
+
+Live birth after Laser Assisted Viability Assessment (LAVA) to detect 
+pentoxifylline resistant ejaculated immotile spermatozoa during ICSI in a couple 
+with male Kartagener's syndrome.
+
+Ozkavukcu S(1), Celik-Ozenci C(2), Konuk E(2), Atabekoglu C(3).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Ankara University School of 
+Medicine, Center for Assisted Reproduction, Ankara Universitesi Tip Fakultesi 
+Cebeci Hastanesi, Kadin Hastaliklari ve Dogum AD, ÜYTE Merkezi, Dikimevi-Ankara, 
+Turkey. sinozk@gmail.com.
+(2)Department of Histology and Embryology, Akdeniz University School of 
+Medicine, Akdeniz Universitesi Tip Fakultesi Histoloji ve Embriyoloji AD, 
+Konyaaltı-Antalya, Turkey.
+(3)Department of Obstetrics and Gynecology, Ankara University School of 
+Medicine, Center for Assisted Reproduction, Ankara Universitesi Tip Fakultesi 
+Cebeci Hastanesi, Kadin Hastaliklari ve Dogum AD, ÜYTE Merkezi, Dikimevi-Ankara, 
+Turkey.
+
+Primary ciliary dyskinesia (PCD) is a rare, autosomal recessive disease with 
+abnormalities in the structure of cilia, causing impairment of muco-ciliary 
+clearance with respiratory tract infections, heterotaxia and abnormal sperm 
+motility with male infertility. Here, with a comprehensive literature review, we 
+report a couple with an infertility history of 9 years and three unsuccessful 
+IVF treatments, where male partner has Kartagener's Syndrome, a subtype of PCD, 
+displaying recurrent respiratory infections, dextrocardia and total 
+asthenozoospermia. His diagnosis was verified with transmission electron 
+microscopy and genetic mutation screening, revealing total absence of dynein 
+arms in sperm tails and homozygous mutation in the ZMYND10, heterozygous 
+mutations in the ARMC4 and DNAH5 genes. Laser assisted viability assay (LAVA) 
+was performed by shooting the sperm tails during sperm retrieval for 
+microinjection, following detection of pentoxifylline resistant immotile sperm. 
+Live births of healthy triplets, one boy and two monozygotic girls, was achieved 
+after double blastocyst transfer.
+
+DOI: 10.1186/s12958-018-0321-6
+PMCID: PMC5800064
+PMID: 29402277 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: 
+Local ethical committee approval and informed consent from all individual 
+participants included in the report was obtained. CONSENT FOR PUBLICATION: 
+Consent for publication from all individual participants included in the report 
+was obtained. COMPETING INTERESTS: The authors declare that they have no 
+competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+regard to jurisdictional claims in published maps and institutional 
+affiliations.
+
+
+28. Front Immunol. 2017 Sep 22;8:1126. doi: 10.3389/fimmu.2017.01126. eCollection 
+2017.
+
+Neutrophils from Patients with Primary Ciliary Dyskinesia Display Reduced 
+Chemotaxis to CXCR2 Ligands.
+
+Cockx M(1), Gouwy M(1), Godding V(2), De Boeck K(3), Van Damme J(1), Boon M(3), 
+Struyf S(1).
+
+Author information:
+(1)Laboratory of Molecular Immunology, Department of Microbiology and 
+Immunology, Rega Institute for Medical Research, University of Leuven, Leuven, 
+Belgium.
+(2)Unité de Pneumologie Pédiatrique et Mucoviscidose, Clinique Universitaire 
+Saint-Luc UCL Brussels, Brussels, Belgium.
+(3)Pediatric Pulmonology and Cystic Fibrosis Unit, Department of Pediatrics, 
+University Hospitals Leuven, Leuven, Belgium.
+
+Primary ciliary dyskinesia (PCD), cystic fibrosis (CF), and chronic obstructive 
+airway disease are characterized by neutrophilic inflammation in the lungs. In 
+CF and chronic obstructive airway disease, improper functioning of neutrophils 
+has been demonstrated. We hypothesized that the pulmonary damage in PCD might be 
+aggravated by abnormal functioning neutrophils either as a primary consequence 
+of the PCD mutation or secondary to chronic inflammation. We analyzed 
+chemotactic responses and chemoattractant receptor expression profiles of 
+peripheral blood neutrophils from 36 patients with PCD, 21 healthy children and 
+19 healthy adults. We stimulated peripheral blood monocytes from patients and 
+healthy controls and measured CXCL8 and IL-1β production with ELISA. PCD 
+neutrophils displayed reduced migration toward CXCR2 ligands (CXCL5 and CXCL8) 
+in the shape change, microchamber and microslide chemotaxis assays, whereas 
+leukotriene B4 and complement component 5a chemotactic responses were not 
+significantly different. The reduced response to CXCL8 was observed in all 
+subgroups of patients with PCD (displaying either normal ultrastructure, dynein 
+abnormalities or central pair deficiencies) and correlated with lung function. 
+CXCR2 was downregulated in about 65% of the PCD patients, suggestive for 
+additional mechanisms causing CXCR2 impairment. After treatment with the TLR 
+ligands lipopolysaccharide and peptidoglycan, PCD monocytes produced more CXCL8 
+and IL-1β compared to controls. Moreover, PCD monocytes also responded stronger 
+to IL-1β stimulation in terms of CXCL8 production. In conclusion, we revealed a 
+potential link between CXCR2 and its ligand CXCL8 and the pathogenesis of PCD.
+
+DOI: 10.3389/fimmu.2017.01126
+PMCID: PMC5614927
+PMID: 29018439
+
+
+29. Dev Biol. 2017 Oct 1;430(1):69-79. doi: 10.1016/j.ydbio.2017.08.016. Epub 2017 
+Aug 16.
+
+Loss of zinc finger MYND-type containing 10 (zmynd10) affects cilia integrity 
+and axonemal localization of dynein arms, resulting in ciliary dysmotility, 
+polycystic kidney and scoliosis in medaka (Oryzias latipes).
+
+Kobayashi D(1), Asano-Hoshino A(2), Nakakura T(3), Nishimaki T(4), Ansai S(5), 
+Kinoshita M(6), Ogawa M(7), Hagiwara H(8), Yokoyama T(9).
+
+Author information:
+(1)Department of Anatomy and Developmental Biology, Graduate School of Medical 
+Science, Kyoto Prefectural University of Medicine, Kyoto, Japan. Electronic 
+address: kdaisuke@koto.kpu-m.ac.jp.
+(2)Department of Anatomy and Cell Biology, Teikyo University School of Medicine, 
+Tokyo, Japan. Electronic address: anshin@med.teikyo-u.ac.jp.
+(3)Department of Anatomy and Cell Biology, Teikyo University School of Medicine, 
+Tokyo, Japan. Electronic address: nakakura@med.teikyo-u.ac.jp.
+(4)Department of Anatomy, Kitasato University School of Medicine, Kanagawa, 
+Japan. Electronic address: nmaki@med.kitasato-u.ac.jp.
+(5)Division of Applied Bioscience, Graduate School of Agriculture, Kyoto 
+University, Kyoto, Japan. Electronic address: ansai@nig.ac.jp.
+(6)Division of Applied Bioscience, Graduate School of Agriculture, Kyoto 
+University, Kyoto, Japan. Electronic address: kinoshit@kais.kyoto-u.ac.jp.
+(7)Department of Anatomy, Kitasato University School of Medicine, Kanagawa, 
+Japan. Electronic address: ogwmedu@kitasato-u.ac.jp.
+(8)Department of Anatomy and Cell Biology, Teikyo University School of Medicine, 
+Tokyo, Japan. Electronic address: hhagiwar@med.teikyo-u.ac.jp.
+(9)Department of Anatomy and Developmental Biology, Graduate School of Medical 
+Science, Kyoto Prefectural University of Medicine, Kyoto, Japan. Electronic 
+address: tyoko@koto.kpu-m.ac.jp.
+
+Cilia and flagella are hair-like organelles that project from the cell surface 
+and play important roles in motility and sensory perception. Motility defects in 
+cilia and flagella lead to primary ciliary dyskinesia (PCD), a rare human 
+disease. Recently zinc finger MYND-type containing 10 (ZMYND10) was identified 
+in humans as a PCD-associated gene. In this study, we use medaka fish as a model 
+to characterize the precise functions of zmynd10. In medaka, zmynd10 is 
+exclusively expressed in cells with motile cilia. Embryos with zmynd10 
+Morpholino knockdown exhibited a left-right (LR) defect associated with loss of 
+motility in Kupffer's vesicle (KV) cilia. This immotility was caused by loss of 
+the outer dynein arms, which is a characteristic ultrastructural phenotype in 
+PCD. In addition, KV cilia in zmynd10 knockdown embryos had a swollen and wavy 
+morphology. Together, these results suggest that zmynd10 is a multi-functional 
+protein that has independent roles in axonemal localization of dynein arms and 
+in formation and/or maintenance of cilia. The C-terminal region of zmynd10 has a 
+MYND-type zinc finger domain (zf-MYND) that is important for its function. Our 
+rescue experiment showed that the zmynd10-ΔC truncated protein, which lacks 
+zf-MYND, was still partially functional, suggesting that zmynd10 has another 
+functional domain besides zf-MYND. To analyze the later stages of development, 
+we generated a zmynd10 knockout mutant using transcription activator-like 
+effector nuclease (TALEN) technology. Adult mutants exhibited sperm dysmotility, 
+scoliosis and progressive polycystic kidney.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ydbio.2017.08.016
+PMID: 28823919 [Indexed for MEDLINE]
+
+
+30. Stem Cell Res. 2017 Aug;23:50-56. doi: 10.1016/j.scr.2017.06.013. Epub 2017 Jul 
+1.
+
+Efficient induction of inner ear hair cell-like cells from mouse ES cells using 
+combination of Math1 transfection and conditioned medium from ST2 stromal cells.
+
+Ouji Y(1), Sakagami M(2), Omori H(3), Higashiyama S(4), Kawai N(5), Kitahara 
+T(6), Wanaka A(7), Yoshikawa M(8).
+
+Author information:
+(1)Department of Pathogen, Infection and Immunity, Nara Medical University, 
+Kashihara, Nara, Japan. Electronic address: oujix@naramed-u.ac.jp.
+(2)Department of Pathogen, Infection and Immunity, Nara Medical University, 
+Kashihara, Nara, Japan; Department of Otolaryngology - Head and Neck Surgery, 
+Nara Medical University, Kashihara, Nara, Japan.
+(3)Core Instrumentation Facility, Immunology Frontier Research Center, Osaka 
+University, Suita, Osaka, Japan.
+(4)Core Instrumentation Facility, Immunology Frontier Research Center, Osaka 
+University, Suita, Osaka, Japan; Central Instrumentation Laboratory, Research 
+Institute for Microbial Diseases, Osaka University, Suita, Osaka, Japan.
+(5)Department of Pathogen, Infection and Immunity, Nara Medical University, 
+Kashihara, Nara, Japan.
+(6)Department of Otolaryngology - Head and Neck Surgery, Nara Medical 
+University, Kashihara, Nara, Japan.
+(7)Department of Second Anatomy, Nara Medical University, Kashihara, Nara, 
+Japan.
+(8)Department of Pathogen, Infection and Immunity, Nara Medical University, 
+Kashihara, Nara, Japan. Electronic address: myoshika@naramed-u.ac.jp.
+
+We sought to establish a more efficient technique for induction of inner ear 
+hair cell-like cells (HC-like cells) from embryonic stem cells (ES cells) by 
+using a combination of two previously reported methods; ST2 stromal 
+cell-conditioned medium, known to be favorable for HC-like cell induction (HIST2 
+method), and ES cells with transfer of the Math1 gene (Math1-ES cells). Math1-ES 
+cells carrying Tet-inducible Math1 were cultured for 14days with doxycycline in 
+conditioned medium from cultures of ST2 stromal cells following formation of 
+4-day embryoid bodies (EBs). Although each of the previously introduced methods 
+have been reported to induce approximately 20% HC-like cells and 10% HC-like 
+cells in their respective populations in EB outgrowths at the end of the culture 
+periods, the present combined method was able to generate approximately 30% 
+HC-like cells expressing HC-related markers (myosin6, myosin7a, calretinin, 
+α9AchR, Brn3c), which showed remarkable formation of stereocilia-like 
+structures. Analysis of expressions of marker genes specific for cochlear 
+(Lmod3, Emcn) and vestibular (Dnah5, Ptgds) cells indicated that our HIST2 
+method may lead to induction of cochlear- and vestibular-type cells. In 
+addition, continuous Math1 induction by doxycycline without use of the HIST2 
+method preferentially induced cochlear markers with negligible effects on 
+vestibular marker induction.
+
+Copyright © 2017 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scr.2017.06.013
+PMID: 28689068 [Indexed for MEDLINE]
+
+
+31. Nat Commun. 2017 Feb 8;8:14279. doi: 10.1038/ncomms14279.
+
+X-linked primary ciliary dyskinesia due to mutations in the cytoplasmic axonemal 
+dynein assembly factor PIH1D3.
+
+Olcese C(1)(2), Patel MP(3), Shoemark A(4), Kiviluoto S(5), Legendre M(6), 
+Williams HJ(7), Vaughan CK(8), Hayward J(3), Goldenberg A(9), Emes RD(10)(11), 
+Munye MM(3), Dyer L(3), Cahill T(4), Bevillard J(1), Gehrig C(1), Guipponi 
+M(1)(12), Chantot S(6), Duquesnoy P(6), Thomas L(6), Jeanson L(6), Copin B(6), 
+Tamalet A(13), Thauvin-Robinet C(14), Papon JF(15), Garin A(15), Pin I(16), Vera 
+G(9), Aurora P(17)(18), Fassad MR(3)(19), Jenkins L(20), Boustred C(20), Cullup 
+T(20), Dixon M(4), Onoufriadis A(21), Bush A(4)(22), Chung EM(23), Antonarakis 
+SE(1)(12)(24), Loebinger MR(25), Wilson R(25), Armengot M(26), Escudier E(6), 
+Hogg C(4); UK10K Rare Group; Amselem S(6), Sun Z(5), Bartoloni L(1)(27), Blouin 
+JL(1)(12), Mitchison HM(3).
+
+Collaborators: Al-Turki S, Anderson C, Antony D, Barroso I, Beales PL, Bentham 
+J, Bhattacharya S, Carss K, Chatterjee K, Cirak S, Cosgrove C, Allan D, Durbin 
+R, Fitzpatrick D, Floyd J, Foley AR, Franklin C, Futema M, Humphries SE, Hurles 
+M, McCarthy S, Muddyman D, Muntoni F, Parker V, Payne F, Plagnol V, Raymond L, 
+Savage DB, Scambler PJ, Schmidts M, Semple R, Serra E, Stalker J, van 
+Kogelenberg M, Vijayarangakannan P, Walter K.
+
+Author information:
+(1)Department of Genetic Medicine and Development, University of Geneva School 
+of Medicine, CH-1211 Geneva, Switzerland.
+(2)Department of Life Sciences and Biotechnologies, University of Ferrara, 
+46-44121 Ferrara, Italy.
+(3)Genetics and Genomic Medicine, University College London (UCL) Great Ormond 
+Street Institute of Child Health, Guilford Street, London WC1N 1EH, UK.
+(4)Paediatric Department, Royal Brompton Hospital, Sydney Street, London SW3 
+6NP, UK.
+(5)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, Connecticut 06520, USA.
+(6)Sorbonne Universités, UPMC Univ Paris 06, INSERM UMR_S933 and Service de 
+Génétique et Embryologie Médicales, Hôpital Armand-Trousseau, AP-HP, Paris 
+75012, France.
+(7)GOSgene, Genetics and Genomic Medicine Programme, University College London 
+(UCL) Great Ormond Street Institute of Child Health, 30 Guilford Street, London 
+WC1N 1EH, UK.
+(8)Institute of Structural and Molecular Biology, University College London and 
+Birkbeck College, Biological Sciences, Malet Street, London, WC1E 7HX, UK.
+(9)Service de Génétique, CHU de Rouen, INSERM U1079, Université de Rouen, Centre 
+Normand de Génomique Médicale et Médecine Personnalisée, Rouen, France.
+(10)School of Veterinary Medicine and Science, University of Nottingham, Sutton 
+Bonington Campus, Leicestershire LE12 5RD, UK.
+(11)Advanced Data Analysis Centre, University of Nottingham, Sutton Bonington 
+Campus, Leicestershire LE12 5RD, UK.
+(12)Department of Genetic Medicine and Laboratory, University Hospitals of 
+Geneva, CH-1211 Geneva, Switzerland.
+(13)Service de Pneumologie Pédiatrique, Centre National de Référence des 
+Maladies Respiratoires Rares, Hôpital Armand-Trousseau, AP-HP, Paris 75012, 
+France.
+(14)Centre de génétique, CHU Dijon Bourgogne, Équipe EA4271 GAD, Université de 
+Bourgogne, Hôpital François Mitterrand, 21000 Dijon, France.
+(15)Service d'Oto-Rhino-Laryngologie et de Chirurgie Cervico-Maxillo-Faciale, 
+Hôpital Bicêtre, AP-HP, Le Kremlin-Bicêtre 94275, France.
+(16)Pédiatrie, CHU Grenoble Alpes, INSERM U 1209, Institut for Advanced 
+Biosciences, Université Grenoble Alpes, Grenoble, France.
+(17)Department of Paediatric Respiratory Medicine, Great Ormond Street Hospital 
+for Children, London WC1N 3JH, UK.
+(18)Department of Respiratory, Critical Care and Anaesthesia Unit, University 
+College London (UCL) Great Ormond Street Institute of Child Health, Guilford 
+Street, London WC1N 1EH, UK.
+(19)Human Genetics Department, Medical Research Institute, Alexandria 
+University, El-Hadra Alexandria 21561, Egypt.
+(20)North East Thames Regional Genetics Laboratory, Great Ormond Street Hospital 
+for Children NHS Foundation Trust, Queen Square, London WC1N 3BH, UK.
+(21)Department of Medical and Molecular Genetics, Division of Genetics and 
+Molecular Medicine, King's College London School of Medicine, Guy's Hospital, 
+London SE1 9RT, UK.
+(22)Department of Paediatric Respiratory Medicine, National Heart and Lung 
+Institute, Imperial College London, London SW3 6LR, UK.
+(23)Population, Policy and Practice, University College London (UCL) Great 
+Ormond Street Institute of Child Health, Guilford Street, London WC1N 1EH, UK.
+(24)Institute of Genetics and Genomics in Geneva, iGE3, CH-1211 Geneva, 
+Switzerland.
+(25)Host Defence Unit, Respiratory Medicine, Royal Brompton Hospital, London SW3 
+6NP, UK.
+(26)Rhinology and Primary Ciliary Dyskinesia Unit, General and University 
+Hospital, Medical School, Valencia University, Valencia E-46014, Spain.
+(27)UOSD Laboratorio Analisi Venezia, ULSS12 Veneziana, 30121 Venezia, Italy.
+
+By moving essential body fluids and molecules, motile cilia and flagella govern 
+respiratory mucociliary clearance, laterality determination and the transport of 
+gametes and cerebrospinal fluid. Primary ciliary dyskinesia (PCD) is an 
+autosomal recessive disorder frequently caused by non-assembly of dynein arm 
+motors into cilia and flagella axonemes. Before their import into cilia and 
+flagella, multi-subunit axonemal dynein arms are thought to be stabilized and 
+pre-assembled in the cytoplasm through a DNAAF2-DNAAF4-HSP90 complex akin to the 
+HSP90 co-chaperone R2TP complex. Here, we demonstrate that large genomic 
+deletions as well as point mutations involving PIH1D3 are responsible for an 
+X-linked form of PCD causing disruption of early axonemal dynein assembly. We 
+propose that PIH1D3, a protein that emerges as a new player of the cytoplasmic 
+pre-assembly pathway, is part of a complementary conserved R2TP-like HSP90 
+co-chaperone complex, the loss of which affects assembly of a subset of inner 
+arm dyneins.
+
+DOI: 10.1038/ncomms14279
+PMCID: PMC5309803
+PMID: 28176794 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.
+
+
+32. Am J Physiol Lung Cell Mol Physiol. 2017 Feb 1;312(2):L258-L267. doi: 
+10.1152/ajplung.00471.2016. Epub 2016 Dec 15.
+
+BMI-1 extends proliferative potential of human bronchial epithelial cells while 
+retaining their mucociliary differentiation capacity.
+
+Munye MM(1), Shoemark A(2), Hirst RA(3), Delhove JM(1), Sharp TV(4), McKay 
+TR(5), O'Callaghan C(1), Baines DL(6), Howe SJ(1), Hart SL(7).
+
+Author information:
+(1)University College London Great Ormond Street Institute of Child Health, 
+London, United Kingdom.
+(2)Imperial College London, UK Electron Microscopy Department, Royal Brompton 
+and Harefield NHS Foundation Trust, London, United Kingdom.
+(3)Primary Ciliary Dyskinesia Centre Department of Infection, Immunity and 
+Inflammation, University of Leicester, Leicester, United Kingdom.
+(4)Centre for Molecular Oncology, Barts Cancer Institute, Queen Mary University 
+of London, London, United Kingdom.
+(5)School of Healthcare Science, Manchester Metropolitan University, Manchester, 
+United Kingdom; and.
+(6)Institute for Infection and Immunity, St George's, University of London, 
+London, United Kingdom.
+(7)University College London Great Ormond Street Institute of Child Health, 
+London, United Kingdom; s.hart@ucl.ac.uk.
+
+Air-liquid interface (ALI) culture of primary airway epithelial cells enables 
+mucociliary differentiation providing an in vitro model of the human airway, but 
+their proliferative potential is limited. To extend proliferation, these cells 
+were previously transduced with viral oncogenes or mouse Bmi-1 + hTERT, but the 
+resultant cell lines did not undergo mucociliary differentiation. We 
+hypothesized that use of human BMI-1 alone would increase the proliferative 
+potential of bronchial epithelial cells while retaining their mucociliary 
+differentiation potential. Cystic fibrosis (CF) and non-CF bronchial epithelial 
+cells were transduced by lentivirus with BMI-1 and then their morphology, 
+replication kinetics, and karyotype were assessed. When differentiated at ALI, 
+mucin production, ciliary function, and transepithelial electrophysiology were 
+measured. Finally, shRNA knockdown of DNAH5 in BMI-1 cells was used to model 
+primary ciliary dyskinesia (PCD). BMI-1-transduced basal cells showed normal 
+cell morphology, karyotype, and doubling times despite extensive passaging. The 
+cell lines underwent mucociliary differentiation when cultured at ALI with 
+abundant ciliation and production of the gel-forming mucins MUC5AC and MUC5B 
+evident. Cilia displayed a normal beat frequency and 9+2 ultrastructure. 
+Electrophysiological characteristics of BMI-1-transduced cells were similar to 
+those of untransduced cells. shRNA knockdown of DNAH5 in BMI-1 cells produced 
+immotile cilia and absence of DNAH5 in the ciliary axoneme as seen in cells from 
+patients with PCD. BMI-1 delayed senescence in bronchial epithelial cells, 
+increasing their proliferative potential but maintaining mucociliary 
+differentiation at ALI. We have shown these cells are amenable to genetic 
+manipulation and can be used to produce novel disease models for research and 
+dissemination.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/ajplung.00471.2016
+PMCID: PMC5336581
+PMID: 27979861 [Indexed for MEDLINE]
+
+
+33. Am J Hum Genet. 2016 Aug 4;99(2):489-500. doi: 10.1016/j.ajhg.2016.06.022.
+
+Mutations in DNAJB13, Encoding an HSP40 Family Member, Cause Primary Ciliary 
+Dyskinesia and Male Infertility.
+
+El Khouri E(1), Thomas L(2), Jeanson L(2), Bequignon E(3), Vallette B(2), 
+Duquesnoy P(2), Montantin G(4), Copin B(5), Dastot-Le Moal F(5), Blanchon S(6), 
+Papon JF(7), Lorès P(1), Yuan L(8), Collot N(4), Tissier S(4), Faucon C(9), 
+Gacon G(1), Patrat C(10), Wolf JP(11), Dulioust E(11), Crestani B(12), Escudier 
+E(5), Coste A(3), Legendre M(5), Touré A(13), Amselem S(5).
+
+Author information:
+(1)INSERM U1016, Institut Cochin, Paris 75014, France; Centre National de la 
+Recherche Scientifique UMR8104, Paris 75014, France; Faculté de Médecine, 
+Université Paris Descartes, Sorbonne Paris Cité, Paris 75014, France.
+(2)INSERM UMR S933, Université Pierre et Marie Curie (Paris 6), Paris 75012, 
+France.
+(3)Equipe 13, INSERM UMR S955, Faculté de Médecine, Université Paris Est, Centre 
+National de la Recherche Scientifique ERL7240, Créteil 94000, France; Service 
+d'ORL et de Chirurgie Cervicofaciale, Centre Hospitalier Intercommunal de 
+Créteil & Groupe Hospitalier Henri Mondor-Albert Chenevier, Assistance Publique 
+- Hôpitaux de Paris, Créteil 94000, France.
+(4)Service de Génétique et d'Embryologie Médicales, Hôpital Armand Trousseau, 
+Assistance Publique - Hôpitaux de Paris, Paris 75012, France.
+(5)INSERM UMR S933, Université Pierre et Marie Curie (Paris 6), Paris 75012, 
+France; Service de Génétique et d'Embryologie Médicales, Hôpital Armand 
+Trousseau, Assistance Publique - Hôpitaux de Paris, Paris 75012, France.
+(6)INSERM UMR S933, Université Pierre et Marie Curie (Paris 6), Paris 75012, 
+France; Unité de Pneumologie et Allergologie Pédiatrique, Hôpital des Enfants, 
+Centre Hospitalier Universitaire, Toulouse 31300, France.
+(7)Equipe 13, INSERM UMR S955, Faculté de Médecine, Université Paris Est, Centre 
+National de la Recherche Scientifique ERL7240, Créteil 94000, France; Service 
+d'Oto-Rhino-Laryngologie et de Chirurgie Cervico-Maxillo-Faciale, Hôpital 
+Bicêtre, Assistance Publique - Hôpitaux de Paris, Le Kremlin-Bicêtre 94275, 
+France.
+(8)Savaid School of Medicine and College of Life Sciences, University of Chinese 
+Academy of Sciences, Beijing 100049, China.
+(9)Laboratoire de Microscopie Electronique, Service d'Anatomopathologie, Centre 
+Hospitalier Intercommunal de Créteil, Créteil 94000, France.
+(10)Service de Biologie de la Reproduction, Hôpital Bichat, Assistance Publique 
+- Hôpitaux de Paris, Université Paris Diderot, Sorbonne Paris Cité, Paris 75018, 
+France.
+(11)Faculté de Médecine, Université Paris Descartes, Sorbonne Paris Cité, Paris 
+75014, France; Laboratoire d'Histologie Embryologie, Biologie de la 
+Reproduction, Groupe Hospitalier Cochin-Broca-Hôtel Dieu, Assistance Publique - 
+Hôpitaux de Paris, Paris 75014, France.
+(12)Service de Pneumologie A, Hôpital Bichat, Assistance Publique - Hôpitaux de 
+Paris, Paris 75018, France.
+(13)INSERM U1016, Institut Cochin, Paris 75014, France; Centre National de la 
+Recherche Scientifique UMR8104, Paris 75014, France; Faculté de Médecine, 
+Université Paris Descartes, Sorbonne Paris Cité, Paris 75014, France. Electronic 
+address: aminata.toure@inserm.fr.
+
+Primary ciliary dyskinesia (PCD) is an autosomal-recessive disease due to 
+functional or ultra-structural defects of motile cilia. Affected individuals 
+display recurrent respiratory-tract infections; most males are infertile as a 
+result of sperm flagellar dysfunction. The great majority of the PCD-associated 
+genes identified so far encode either components of dynein arms (DAs), which are 
+multiprotein-ATPase complexes essential for ciliary motility, or proteins 
+involved in DA assembly. To identify the molecular basis of a PCD phenotype 
+characterized by central complex (CC) defects but normal DA structure, a 
+phenotype found in ∼15% of cases, we performed whole-exome sequencing in a male 
+individual with PCD and unexplained CC defects. This analysis, combined with 
+whole-genome SNP genotyping, identified a homozygous mutation in DNAJB13 
+(c.833T>G), a gene encoding a HSP40 co-chaperone whose ortholog in the 
+flagellated alga Chlamydomonas localizes to the radial spokes. In vitro studies 
+showed that this missense substitution (p.Met278Arg), which involves a highly 
+conserved residue of several HSP40 family members, leads to protein instability 
+and triggers proteasomal degradation, a result confirmed by the absence of 
+endogenous DNAJB13 in cilia and sperm from this individual. Subsequent DNAJB13 
+analyses identified another homozygous mutation in a second family; the study of 
+DNAJB13 transcripts obtained from airway cells showed that this mutation 
+(c.68+1G>C) results in a splicing defect consistent with a loss-of-function 
+mutation. Overall, this study, which establishes mutations in DNAJB13 as a cause 
+of PCD, unveils the key role played by DNAJB13 in the proper formation and 
+function of ciliary and flagellar axonemes in humans.
+
+Copyright © 2016 American Society of Human Genetics. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.ajhg.2016.06.022
+PMCID: PMC4974111
+PMID: 27486783 [Indexed for MEDLINE]
+
+
+34. PLoS Genet. 2016 Jul 29;12(7):e1006220. doi: 10.1371/journal.pgen.1006220. 
+eCollection 2016 Jul.
+
+Mutation of Growth Arrest Specific 8 Reveals a Role in Motile Cilia Function and 
+Human Disease.
+
+Lewis WR(1), Malarkey EB(1), Tritschler D(2), Bower R(2), Pasek RC(3), Porath 
+JD(4), Birket SE(5)(6), Saunier S(7)(8), Antignac C(9)(10), Knowles MR(11), 
+Leigh MW(12), Zariwala MA(13), Challa AK(14), Kesterson RA(14), Rowe SM(5)(6), 
+Drummond IA(15), Parant JM(16), Hildebrandt F(4), Porter ME(2), Yoder BK(1), 
+Berbari NF(17).
+
+Author information:
+(1)Department of Cell, Developmental and Integrative Biology, University of 
+Alabama at Birmingham, Birmingham, Alabama, United States of America.
+(2)Genetics, Cell Biology, and Development, University of Minnesota Medical 
+School, Minneapolis, Minnesota, United States of America.
+(3)Cell and Developmental Biology, Vanderbilt University, Nashville, Tennessee, 
+United States of America.
+(4)Division of Nephrology, Department of Medicine, Boston Children's Hospital, 
+Harvard Medical School, Boston, Massachusetts, United States of America.
+(5)Department of Medicine, University of Alabama at Birmingham, Birmingham, 
+Alabama, United States of America.
+(6)Cystic Fibrosis Research Center, University of Alabama at Birmingham, 
+Birmingham, Alabama, United States of America.
+(7)INSERM, U-983, Necker Hospital, Paris, France.
+(8)Paris Descartes University, Sorbonne Paris Cité, Imagine Institute, Paris, 
+France.
+(9)Institut National de la Santé et de la Recherche Médicale (INSERM) Unité 
+Mixte de Recherche (UMR) 1163, Laboratory of Hereditary Kidney Diseases, Paris, 
+France.
+(10)Assistance Publique-Hôpitaux de Paris, Department of Genetics, Necker 
+Hospital, Paris, France.
+(11)Department of Medicine, UNC School of Medicine, Marisco Lung Institute, 
+Chapel Hill, North Carolina, United States of America.
+(12)Department of Pediatrics, UNC School of Medicine, Marisco Lung Institute, 
+Chapel Hill, North Carolina, United States of America.
+(13)Department of Pathology and Laboratory Medicine, UNC School of Medicine, 
+Marisco Lung Institute, Chapel Hill, North Carolina, United States of America.
+(14)Department of Genetics, University of Alabama at Birmingham, Birmingham, 
+Alabama, United States of America.
+(15)Nephrology Division, Massachusetts General Hospital, Charlestown, 
+Massachusetts, United States of America.
+(16)Department of Pharmacology and Toxicology, University of Alabama at 
+Birmingham, Birmingham, Alabama, United States of America.
+(17)Department of Biology, Indiana University-Purdue University Indianapolis, 
+Indianapolis, Indiana, United States of America.
+
+Ciliopathies are genetic disorders arising from dysfunction of microtubule-based 
+cellular appendages called cilia. Different cilia types possess distinct 
+stereotypic microtubule doublet arrangements with non-motile or 'primary' cilia 
+having a 9+0 and motile cilia have a 9+2 array of microtubule doublets. Primary 
+cilia are critical sensory and signaling centers needed for normal mammalian 
+development. Defects in their structure/function result in a spectrum of 
+clinical and developmental pathologies including abnormal neural tube and limb 
+patterning. Altered patterning phenotypes in the limb and neural tube are due to 
+perturbations in the hedgehog (Hh) signaling pathway. Motile cilia are important 
+in fluid movement and defects in motility result in chronic respiratory 
+infections, altered left-right asymmetry, and infertility. These features are 
+the hallmarks of Primary Ciliary Dyskinesia (PCD, OMIM 244400). While mutations 
+in several genes are associated with PCD in patients and animal models, the 
+genetic lesion in many cases is unknown. We assessed the in vivo functions of 
+Growth Arrest Specific 8 (GAS8). GAS8 shares strong sequence similarity with the 
+Chlamydomonas Nexin-Dynein Regulatory Complex (NDRC) protein 4 (DRC4) where it 
+is needed for proper flagella motility. In mammalian cells, the GAS8 protein 
+localizes not only to the microtubule axoneme of motile cilia, but also to the 
+base of non-motile cilia. Gas8 was recently implicated in the Hh signaling 
+pathway as a regulator of Smoothened trafficking into the cilium. Here, we 
+generate the first mouse with a Gas8 mutation and show that it causes severe PCD 
+phenotypes; however, there were no overt Hh pathway phenotypes. In addition, we 
+identified two human patients with missense variants in Gas8. Rescue experiments 
+in Chlamydomonas revealed a subtle defect in swim velocity compared to controls. 
+Further experiments using CRISPR/Cas9 homology driven repair (HDR) to generate 
+one of these human missense variants in mice demonstrated that this allele is 
+likely pathogenic.
+
+DOI: 10.1371/journal.pgen.1006220
+PMCID: PMC4966937
+PMID: 27472056 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+35. PLoS One. 2016 Jan 29;11(1):e0148067. doi: 10.1371/journal.pone.0148067. 
+eCollection 2016.
+
+ZMYND10--Mutation Analysis in Slavic Patients with Primary Ciliary Dyskinesia.
+
+Kurkowiak M(1)(2), Ziętkiewicz E(1), Greber A(1), Voelkel K(1), Wojda A(1), 
+Pogorzelski A(3), Witt M(1)(2).
+
+Author information:
+(1)Department of Molecular and Clinical Genetics, Institute of Human Genetics, 
+Polish Academy of Sciences, Poznań, Poland.
+(2)International Institute of Molecular and Cell Biology, Warsaw, Poland.
+(3)Department of Pneumology and Cystic Fibrosis, Institute of Tuberculosis and 
+Lung Diseases, Rabka Zdrój, Poland.
+
+Primary ciliary dyskinesia (PCD) is a rare recessive disease with a prevalence 
+of 1/10,000; its symptoms are caused by a kinetic dysfunction of motile cilia in 
+the respiratory epithelium, flagella in spermatozoids, and primary cilia in the 
+embryonic node. PCD is genetically heterogeneous: genotyping the already known 
+PCD-related genes explains the genetic basis in 60-65% of the cases, depending 
+on the population. While identification of new genes involved in PCD 
+pathogenesis remains crucial, the search for new, population-specific mutations 
+causative for PCD is equally important. The Slavs remain far less characterized 
+in this respect compared to West European populations, which significantly 
+limits diagnostic capability. The main goal of this study was to characterize 
+the profile of causative genetic defects in one of the PCD-causing genes, 
+ZMYND10, in the cohort of PCD patients of Slavic origin. The study was carried 
+out using biological material from 172 unrelated PCD individuals of Polish 
+origin, with no causative mutation found in nine major PCD genes. While none of 
+the previously described mutations was found using the HRM-based screening, a 
+novel frameshift mutation (c.367delC) in ZMYND10, unique for Slavic PCD 
+population, was found in homozygous state in two unrelated PCD patients. 
+Immunofluorescence analysis confirmed the absence of outer and inner dynein arms 
+from the ciliary axoneme, consistent with the already published ZMYND10-mutated 
+phenotype; cDNA analysis revealed the lack of ZMYND10 mRNA, indicating 
+nonsense-mediated decay of the truncated transcript.
+
+DOI: 10.1371/journal.pone.0148067
+PMCID: PMC4732763
+PMID: 26824761 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+36. Nat Commun. 2014 Jul 22;5:4418. doi: 10.1038/ncomms5418.
+
+MCIDAS mutations result in a mucociliary clearance disorder with reduced 
+generation of multiple motile cilia.
+
+Boon M(1), Wallmeier J(2), Ma L(3), Loges NT(4), Jaspers M(5), Olbrich H(4), 
+Dougherty GW(4), Raidt J(4), Werner C(4), Amirav I(6), Hevroni A(7), Abitbul 
+R(6), Avital A(7), Soferman R(8), Wessels M(9), O'Callaghan C(10), Chung EM(11), 
+Rutman A(12), Hirst RA(12), Moya E(13), Mitchison HM(14), Van Daele S(15), De 
+Boeck K(16), Jorissen M(5), Kintner C(3), Cuppens H(16), Omran H(4).
+
+Author information:
+(1)1] Department of Pediatrics, Pediatric Pulmonology, University Hospital of 
+Leuven, Leuven 3000, Belgium [2].
+(2)1] Department of Pediatrics, University Hospital Muenster, 48149 Muenster, 
+Germany [2].
+(3)Molecular Neurobiology Laboratory, Salk Institute for Biological Studies, San 
+Diego, California 92186, USA.
+(4)Department of Pediatrics, University Hospital Muenster, 48149 Muenster, 
+Germany.
+(5)Department of Otorhinolaryngology, University Hospital Leuven, 3000 Leuven, 
+Belgium.
+(6)Department of Pediatric, Ziv Medical Center, Faculty of Medicine, Bar IIan 
+University, Safed 13100, Israel.
+(7)Institute of Pulmonology, Hadassah-Hebrew University Medical Centers, 
+Jerusalem, Israel 91120.
+(8)Department of Pediatric Pulmonology, Critical Care and Sleep Medicine, Dana 
+Children's Hospital, Tel Aviv Sourasky Medical Center, 6 Weizman Street, Tel 
+Aviv 64239, Israel.
+(9)Department of Clinical Genetics, Erasmus Medical Center, 3000 CA Rotterdam, 
+the Netherlands.
+(10)1] Respiratory, Critical Care and Anaesthesia Unit, Institute of Child 
+Health, University College London, Great Ormond Street Children's Hospital, 30 
+Guilford Street, London WC1N 1EH, UK [2] Centre for PCD Diagnosis and Research, 
+Department of Infection, Immunity and Inflammation, RKCSB, University of 
+Leicester, Leicester LE2 7LX, UK.
+(11)General and Adolescent Paediatric Unit, UCL Institute of Children Health, 
+University College London, 30 Guilford Street, London WC1N 1EH, UK.
+(12)Centre for PCD Diagnosis and Research, Department of Infection, Immunity and 
+Inflammation, RKCSB, University of Leicester, Leicester LE2 7LX, UK.
+(13)Division of Services for Women and Children, Women's and Newborn Unit 
+Bradford Royal Infirmary, University of Bradford, West Yorkshire BD9 6RJ, UK.
+(14)Molecular Medicine Unit, Birth Defects Research Centre, Institute of Child 
+Health, University College London, London WC1N 1EH, UK.
+(15)Department of Pediatrics, Pediatric Pulmonology, University Hospital Ghent, 
+9000 Ghent, Belgium.
+(16)Department of Pediatrics, Pediatric Pulmonology, University Hospital of 
+Leuven, Leuven 3000, Belgium.
+
+Reduced generation of multiple motile cilia (RGMC) is a rare mucociliary 
+clearance disorder. Affected persons suffer from recurrent infections of upper 
+and lower airways because of highly reduced numbers of multiple motile 
+respiratory cilia. Here we report recessive loss-of-function and missense 
+mutations in MCIDAS-encoding Multicilin, which was shown to promote the early 
+steps of multiciliated cell differentiation in Xenopus. MCIDAS mutant 
+respiratory epithelial cells carry only one or two cilia per cell, which lack 
+ciliary motility-related proteins (DNAH5; CCDC39) as seen in primary ciliary 
+dyskinesia. Consistent with this finding, FOXJ1-regulating axonemal motor 
+protein expression is absent in respiratory cells of MCIDAS mutant individuals. 
+CCNO, when mutated known to cause RGMC, is also absent in MCIDAS mutant 
+respiratory cells, consistent with its downstream activity. Thus, our findings 
+identify Multicilin as a key regulator of CCNO/FOXJ1 for human multiciliated 
+cell differentiation, and highlight the 5q11 region containing CCNO and MCIDAS 
+as a locus underlying RGMC.
+
+DOI: 10.1038/ncomms5418
+PMID: 25048963 [Indexed for MEDLINE]
+
+
+37. PLoS One. 2014 Feb 6;9(2):e88216. doi: 10.1371/journal.pone.0088216. eCollection 
+2014.
+
+Ciliary genes are down-regulated in bronchial tissue of primary ciliary 
+dyskinesia patients.
+
+Geremek M(1), Ziętkiewicz E(2), Bruinenberg M(3), Franke L(3), Pogorzelski A(4), 
+Wijmenga C(5), Witt M(6).
+
+Author information:
+(1)International Institute of Molecular and Cell Biology, Warsaw, Poland ; 
+Genetics Department, University Medical Centre Groningen and University of 
+Groningen, Groningen, the Netherlands ; Complex Genetics Group, Department of 
+Biomedical Genetics, University Medical Center Utrecht, Utrecht, the 
+Netherlands.
+(2)Department of Molecular and Clinical Genetics, Institute of Human Genetics, 
+Poznan, Poland.
+(3)Genetics Department, University Medical Centre Groningen and University of 
+Groningen, Groningen, the Netherlands.
+(4)Institute of Tuberculosis and Lung Diseases, Rabka, Poland.
+(5)Genetics Department, University Medical Centre Groningen and University of 
+Groningen, Groningen, the Netherlands ; Complex Genetics Group, Department of 
+Biomedical Genetics, University Medical Center Utrecht, Utrecht, the 
+Netherlands.
+(6)International Institute of Molecular and Cell Biology, Warsaw, Poland ; 
+Department of Molecular and Clinical Genetics, Institute of Human Genetics, 
+Poznan, Poland.
+
+Primary ciliary dyskinesia (PCD) is a rare, genetically heterogeneous disease 
+characterized by recurrent respiratory tract infections, sinusitis, 
+bronchiectasis and male infertility. The pulmonary phenotype in PCD is caused by 
+the impaired motility of cilia in the respiratory epithelium, due to 
+ultrastructural defects of these organelles. We hypothesized that defects of 
+multi-protein ciliary complexes should be reflected by gene expression changes 
+in the respiratory epithelium. We have previously found that large group of 
+genes functionally related to cilia share highly correlated expression pattern 
+in PCD bronchial tissue. Here we performed an explorative analysis of 
+differential gene expression in the bronchial tissue from six PCD patients and 
+nine non-PCD controls, using Illumina HumanRef-12 Whole Genome BeadChips. We 
+observed 1323 genes with at least 2-fold difference in the mean expression level 
+between the two groups (t-test p-value <0.05). Annotation analysis showed that 
+the genes down-regulated in PCD biopsies (602) were significantly enriched for 
+terms related to cilia, whereas the up-regulated genes (721) were significantly 
+enriched for terms related to cell cycle and mitosis. We assembled a list of 
+human genes predicted to encode ciliary proteins, components of outer dynein 
+arms, inner dynein arms, radial spokes, and intraflagellar transport proteins. A 
+significant down-regulation of the expression of genes from all the four groups 
+was observed in PCD, compared to non-PCD biopsies. Our data suggest that a 
+coordinated down-regulation of the ciliome genes plays an important role in the 
+molecular pathomechanism of PCD.
+
+DOI: 10.1371/journal.pone.0088216
+PMCID: PMC3916409
+PMID: 24516614 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+38. J Med Genet. 2014 Jan;51(1):61-7. doi: 10.1136/jmedgenet-2013-101938. Epub 2013 
+Nov 7.
+
+Combined exome and whole-genome sequencing identifies mutations in ARMC4 as a 
+cause of primary ciliary dyskinesia with defects in the outer dynein arm.
+
+Onoufriadis A(1), Shoemark A, Munye MM, James CT, Schmidts M, Patel M, Rosser 
+EM, Bacchelli C, Beales PL, Scambler PJ, Hart SL, Danke-Roelse JE, Sloper JJ, 
+Hull S, Hogg C, Emes RD, Pals G, Moore AT, Chung EM; UK10K; Mitchison HM.
+
+Author information:
+(1)Molecular Medicine Unit, Birth Defects Research Centre, Institute of Child 
+Health, University College London, London, UK.
+
+BACKGROUND: Primary ciliary dyskinesia (PCD) is a rare, genetically 
+heterogeneous ciliopathy disorder affecting cilia and sperm motility. A range of 
+ultrastructural defects of the axoneme underlie the disease, which is 
+characterised by chronic respiratory symptoms and obstructive lung disease, 
+infertility and body axis laterality defects. We applied a next-generation 
+sequencing approach to identify the gene responsible for this phenotype in two 
+consanguineous families.
+METHODS AND RESULTS: Data from whole-exome sequencing in a consanguineous 
+Turkish family, and whole-genome sequencing in the obligate carrier parents of a 
+consanguineous Pakistani family was combined to identify homozygous 
+loss-of-function mutations in ARMC4, segregating in all five affected 
+individuals from both families. Both families carried nonsense mutations within 
+the highly conserved armadillo repeat region of ARMC4: c.2675C>A; pSer892* and 
+c.1972G>T; p.Glu658*. A deficiency of ARMC4 protein was seen in patient's 
+respiratory cilia accompanied by loss of the distal outer dynein arm motors 
+responsible for generating ciliary beating, giving rise to cilia immotility. 
+ARMC4 gene expression is upregulated during ciliogenesis, and we found a 
+predicted interaction with the outer dynein arm protein DNAI2, mutations in 
+which also cause PCD.
+CONCLUSIONS: We report the first use of whole-genome sequencing to identify gene 
+mutations causing PCD. Loss-of-function mutations in ARMC4 cause PCD with situs 
+inversus and cilia immotility, associated with a loss of the distal outer (but 
+not inner) dynein arms. This addition of ARMC4 to the list of genes associated 
+with ciliary outer dynein arm defects expands our understanding of the 
+complexities of PCD genetics.
+
+DOI: 10.1136/jmedgenet-2013-101938
+PMCID: PMC3888613
+PMID: 24203976 [Indexed for MEDLINE]
+
+
+39. PLoS One. 2013 Aug 26;8(8):e72299. doi: 10.1371/journal.pone.0072299. 
+eCollection 2013.
+
+CCDC65 mutation causes primary ciliary dyskinesia with normal ultrastructure and 
+hyperkinetic cilia.
+
+Horani A(1), Brody SL, Ferkol TW, Shoseyov D, Wasserman MG, Ta-shma A, Wilson 
+KS, Bayly PV, Amirav I, Cohen-Cymberknoh M, Dutcher SK, Elpeleg O, Kerem E.
+
+Author information:
+(1)Department of Pediatrics, Washington University School of Medicine, St. 
+Louis, Missouri, USA. horani_a@kids.wustl.edu
+
+BACKGROUND: Primary ciliary dyskinesia (PCD) is a genetic disorder characterized 
+by impaired ciliary function, leading to chronic sinopulmonary disease. The 
+genetic causes of PCD are still evolving, while the diagnosis is often dependent 
+on finding a ciliary ultrastructural abnormality and immotile cilia. Here we 
+report a novel gene associated with PCD but without ciliary ultrastructural 
+abnormalities evident by transmission electron microscopy, but with dyskinetic 
+cilia beating.
+METHODS: Genetic linkage analysis was performed in a family with a PCD subject. 
+Gene expression was studied in Chlamydomonas reinhardtii and human airway 
+epithelial cells, using RNA assays and immunostaining. The phenotypic effects of 
+candidate gene mutations were determined in primary culture human 
+tracheobronchial epithelial cells transduced with gene targeted shRNA sequences. 
+Video-microscopy was used to evaluate cilia motion.
+RESULTS: A single novel mutation in CCDC65, which created a termination codon at 
+position 293, was identified in a subject with typical clinical features of PCD. 
+CCDC65, an orthologue of the Chlamydomonas nexin-dynein regulatory complex 
+protein DRC2, was localized to the cilia of normal nasal epithelial cells but 
+was absent in those from the proband. CCDC65 expression was up-regulated during 
+ciliogenesis in cultured airway epithelial cells, as was DRC2 in C. reinhardtii 
+following deflagellation. Nasal epithelial cells from the affected individual 
+and CCDC65-specific shRNA transduced normal airway epithelial cells had stiff 
+and dyskinetic cilia beating patterns compared to control cells. Moreover, Gas8, 
+a nexin-dynein regulatory complex component previously identified to associate 
+with CCDC65, was absent in airway cells from the PCD subject and CCDC65-silenced 
+cells.
+CONCLUSION: Mutation in CCDC65, a nexin-dynein regulatory complex member, 
+resulted in a frameshift mutation and PCD. The affected individual had altered 
+cilia beating patterns, and no detectable ultrastructural defects of the ciliary 
+axoneme, emphasizing the role of the nexin-dynein regulatory complex and the 
+limitations of certain methods for PCD diagnosis.
+
+DOI: 10.1371/journal.pone.0072299
+PMCID: PMC3753302
+PMID: 23991085 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+40. Am J Hum Genet. 2013 Aug 8;93(2):346-56. doi: 10.1016/j.ajhg.2013.07.009. Epub 
+2013 Jul 25.
+
+Mutations in ZMYND10, a gene essential for proper axonemal assembly of inner and 
+outer dynein arms in humans and flies, cause primary ciliary dyskinesia.
+
+Moore DJ(1), Onoufriadis A, Shoemark A, Simpson MA, zur Lage PI, de Castro SC, 
+Bartoloni L, Gallone G, Petridi S, Woollard WJ, Antony D, Schmidts M, Didonna T, 
+Makrythanasis P, Bevillard J, Mongan NP, Djakow J, Pals G, Lucas JS, Marthin JK, 
+Nielsen KG, Santoni F, Guipponi M, Hogg C, Antonarakis SE, Emes RD, Chung EM, 
+Greene ND, Blouin JL, Jarman AP, Mitchison HM.
+
+Author information:
+(1)Centre for Integrative Physiology, School of Biomedical Sciences, University 
+of Edinburgh, George Square, Edinburgh EH8 9XD, UK.
+
+Primary ciliary dyskinesia (PCD) is a ciliopathy characterized by airway 
+disease, infertility, and laterality defects, often caused by dual loss of the 
+inner dynein arms (IDAs) and outer dynein arms (ODAs), which power cilia and 
+flagella beating. Using whole-exome and candidate-gene Sanger resequencing in 
+PCD-affected families afflicted with combined IDA and ODA defects, we found that 
+6/38 (16%) carried biallelic mutations in the conserved zinc-finger gene BLU 
+(ZMYND10). ZMYND10 mutations conferred dynein-arm loss seen at the 
+ultrastructural and immunofluorescence level and complete cilia immotility, 
+except in hypomorphic p.Val16Gly (c.47T>G) homozygote individuals, whose cilia 
+retained a stiff and slowed beat. In mice, Zmynd10 mRNA is restricted to regions 
+containing motile cilia. In a Drosophila model of PCD, Zmynd10 is exclusively 
+expressed in cells with motile cilia: chordotonal sensory neurons and sperm. In 
+these cells, P-element-mediated gene silencing caused IDA and ODA defects, 
+proprioception deficits, and sterility due to immotile sperm. Drosophila Zmynd10 
+with an equivalent c.47T>G (p.Val16Gly) missense change rescued mutant male 
+sterility less than the wild-type did. Tagged Drosophila ZMYND10 is localized 
+primarily to the cytoplasm, and human ZMYND10 interacts with LRRC6, another 
+cytoplasmically localized protein altered in PCD. Using a fly model of PCD, we 
+conclude that ZMYND10 is a cytoplasmic protein required for IDA and ODA assembly 
+and that its variants cause ciliary dysmotility and PCD with laterality defects.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2013.07.009
+PMCID: PMC3738835
+PMID: 23891471 [Indexed for MEDLINE]
+
+
+41. Am J Hum Genet. 2013 Aug 8;93(2):336-45. doi: 10.1016/j.ajhg.2013.06.007. Epub 
+2013 Jul 25.
+
+ZMYND10 is mutated in primary ciliary dyskinesia and interacts with LRRC6.
+
+Zariwala MA(1), Gee HY, Kurkowiak M, Al-Mutairi DA, Leigh MW, Hurd TW, Hjeij R, 
+Dell SD, Chaki M, Dougherty GW, Adan M, Spear PC, Esteve-Rudd J, Loges NT, 
+Rosenfeld M, Diaz KA, Olbrich H, Wolf WE, Sheridan E, Batten TF, Halbritter J, 
+Porath JD, Kohl S, Lovric S, Hwang DY, Pittman JE, Burns KA, Ferkol TW, Sagel 
+SD, Olivier KN, Morgan LC, Werner C, Raidt J, Pennekamp P, Sun Z, Zhou W, Airik 
+R, Natarajan S, Allen SJ, Amirav I, Wieczorek D, Landwehr K, Nielsen K, Schwerk 
+N, Sertic J, Köhler G, Washburn J, Levy S, Fan S, Koerner-Rettberg C, Amselem S, 
+Williams DS, Mitchell BJ, Drummond IA, Otto EA, Omran H, Knowles MR, Hildebrandt 
+F.
+
+Author information:
+(1)Department of Pathology and Laboratory Medicine, University of North Carolina 
+at Chapel Hill, Chapel Hill, NC 27599, USA.
+
+Defects of motile cilia cause primary ciliary dyskinesia (PCD), characterized by 
+recurrent respiratory infections and male infertility. Using whole-exome 
+resequencing and high-throughput mutation analysis, we identified recessive 
+biallelic mutations in ZMYND10 in 14 families and mutations in the recently 
+identified LRRC6 in 13 families. We show that ZMYND10 and LRRC6 interact and 
+that certain ZMYND10 and LRRC6 mutations abrogate the interaction between the 
+LRRC6 CS domain and the ZMYND10 C-terminal domain. Additionally, ZMYND10 and 
+LRRC6 colocalize with the centriole markers SAS6 and PCM1. Mutations in ZMYND10 
+result in the absence of the axonemal protein components DNAH5 and DNALI1 from 
+respiratory cilia. Animal models support the association between ZMYND10 and 
+human PCD, given that zmynd10 knockdown in zebrafish caused ciliary paralysis 
+leading to cystic kidneys and otolith defects and that knockdown in Xenopus 
+interfered with ciliogenesis. Our findings suggest that a cytoplasmic protein 
+complex containing ZMYND10 and LRRC6 is necessary for motile ciliary function.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2013.06.007
+PMCID: PMC3738827
+PMID: 23891469 [Indexed for MEDLINE]
+
+
+42. Proc Natl Acad Sci U S A. 2013 Jul 30;110(31):12697-702. doi: 
+10.1073/pnas.1300968110. Epub 2013 Jul 15.
+
+Reptin/Ruvbl2 is a Lrrc6/Seahorse interactor essential for cilia motility.
+
+Zhao L(1), Yuan S, Cao Y, Kallakuri S, Li Y, Kishimoto N, DiBella L, Sun Z.
+
+Author information:
+(1)Department of Genetics, Yale University School of Medicine, New Haven, CT 
+06520, USA.
+
+Primary ciliary dyskinesia (PCD) is an autosomal recessive disease caused by 
+defective cilia motility. The identified PCD genes account for about half of PCD 
+incidences and the underlying mechanisms remain poorly understood. We 
+demonstrate that Reptin/Ruvbl2, a protein known to be involved in epigenetic and 
+transcriptional regulation, is essential for cilia motility in zebrafish. We 
+further show that Reptin directly interacts with the PCD protein Lrrc6/Seahorse 
+and this interaction is critical for the in vivo function of Lrrc6/Seahorse in 
+zebrafish. Moreover, whereas the expression levels of multiple dynein arm 
+components remain unchanged or become elevated, the density of axonemal dynein 
+arms is reduced in reptin(hi2394) mutants. Furthermore, Reptin is highly 
+enriched in the cytosol and colocalizes with Lrrc6/Seahorse. Combined, these 
+results suggest that the Reptin-Lrrc6/Seahorse complex is involved in dynein arm 
+formation. We also show that although the DNA damage response is induced in 
+reptin(hi2394) mutants, it remains unchanged in cilia biogenesis mutants and 
+lrrc6/seahorse mutants, suggesting that increased DNA damage response is not 
+intrinsic to ciliary defects and that in vertebrate development, Reptin 
+functions in multiple processes, both cilia specific and cilia independent.
+
+DOI: 10.1073/pnas.1300968110
+PMCID: PMC3732945
+PMID: 23858445 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+43. Am J Hum Genet. 2013 Aug 8;93(2):357-67. doi: 10.1016/j.ajhg.2013.06.009. Epub 
+2013 Jul 11.
+
+ARMC4 mutations cause primary ciliary dyskinesia with randomization of 
+left/right body asymmetry.
+
+Hjeij R(1), Lindstrand A, Francis R, Zariwala MA, Liu X, Li Y, Damerla R, 
+Dougherty GW, Abouhamed M, Olbrich H, Loges NT, Pennekamp P, Davis EE, Carvalho 
+CM, Pehlivan D, Werner C, Raidt J, Köhler G, Häffner K, Reyes-Mugica M, Lupski 
+JR, Leigh MW, Rosenfeld M, Morgan LC, Knowles MR, Lo CW, Katsanis N, Omran H.
+
+Author information:
+(1)Department of General Pediatrics, University Children's Hospital Muenster, 
+48149 Muenster, Germany.
+
+The motive forces for ciliary movement are generated by large multiprotein 
+complexes referred to as outer dynein arms (ODAs), which are preassembled in the 
+cytoplasm prior to transport to the ciliary axonemal compartment. In humans, 
+defects in structural components, docking complexes, or cytoplasmic assembly 
+factors can cause primary ciliary dyskinesia (PCD), a disorder characterized by 
+chronic airway disease and defects in laterality. By using combined high 
+resolution copy-number variant and mutation analysis, we identified ARMC4 
+mutations in twelve PCD individuals whose cells showed reduced numbers of ODAs 
+and severely impaired ciliary beating. Transient suppression in zebrafish and 
+analysis of an ENU mouse mutant confirmed in both model organisms that ARMC4 is 
+critical for left-right patterning. We demonstrate that ARMC4 is an axonemal 
+protein that is necessary for proper targeting and anchoring of ODAs.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2013.06.009
+PMCID: PMC3738828
+PMID: 23849778 [Indexed for MEDLINE]
+
+
+44. PLoS One. 2013;8(3):e59436. doi: 10.1371/journal.pone.0059436. Epub 2013 Mar 19.
+
+LRRC6 mutation causes primary ciliary dyskinesia with dynein arm defects.
+
+Horani A(1), Ferkol TW, Shoseyov D, Wasserman MG, Oren YS, Kerem B, Amirav I, 
+Cohen-Cymberknoh M, Dutcher SK, Brody SL, Elpeleg O, Kerem E.
+
+Author information:
+(1)Department of Pediatrics, Washington University School of Medicine, St. 
+Louis, Missouri, United States of America. horani_a@kids.wustl.edu
+
+Despite recent progress in defining the ciliome, the genetic basis for many 
+cases of primary ciliary dyskinesia (PCD) remains elusive. We evaluated five 
+children from two unrelated, consanguineous Palestinian families who had PCD 
+with typical clinical features, reduced nasal nitric oxide concentrations, and 
+absent dynein arms. Linkage analyses revealed a single common homozygous region 
+on chromosome 8 and one candidate was conserved in organisms with motile cilia. 
+Sequencing revealed a single novel mutation in LRRC6 (Leucine-rich repeat 
+containing protein 6) that fit the model of autosomal recessive genetic 
+transmission, leading to a change of a highly conserved amino acid from aspartic 
+acid to histidine (Asp146His). LRRC6 was localized to the cytoplasm and was 
+up-regulated during ciliogenesis in human airway epithelial cells in a 
+Foxj1-dependent fashion. Nasal epithelial cells isolated from affected 
+individuals and shRNA-mediated silencing in human airway epithelial cells, 
+showed reduced LRRC6 expression, absent dynein arms, and slowed cilia beat 
+frequency. Dynein arm proteins were either absent or mislocalized to the 
+cytoplasm in airway epithelial cells from a primary ciliary dyskinesia subject. 
+These findings suggest that LRRC6 plays a role in dynein arm assembly or 
+trafficking and when mutated leads to primary ciliary dyskinesia with laterality 
+defects.
+
+DOI: 10.1371/journal.pone.0059436
+PMCID: PMC3602302
+PMID: 23527195 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+45. Am J Hum Genet. 2012 Oct 5;91(4):685-93. doi: 10.1016/j.ajhg.2012.08.022.
+
+Whole-exome capture and sequencing identifies HEATR2 mutation as a cause of 
+primary ciliary dyskinesia.
+
+Horani A(1), Druley TE, Zariwala MA, Patel AC, Levinson BT, Van Arendonk LG, 
+Thornton KC, Giacalone JC, Albee AJ, Wilson KS, Turner EH, Nickerson DA, 
+Shendure J, Bayly PV, Leigh MW, Knowles MR, Brody SL, Dutcher SK, Ferkol TW.
+
+Author information:
+(1)Department of Pediatrics, Washington University School of Medicine, St. 
+Louis, MO 63110, USA.
+
+Motile cilia are essential components of the mucociliary escalator and are 
+central to respiratory-tract host defenses. Abnormalities in these 
+evolutionarily conserved organelles cause primary ciliary dyskinesia (PCD). 
+Despite recent strides characterizing the ciliome and sensory ciliopathies 
+through exploration of the phenotype-genotype associations in model organisms, 
+the genetic bases of most cases of PCD remain elusive. We identified nine 
+related subjects with PCD from geographically dispersed Amish communities and 
+performed exome sequencing of two affected individuals and their unaffected 
+parents. A single autosomal-recessive nonsynonymous missense mutation was 
+identified in HEATR2, an uncharacterized gene that belongs to a family not 
+previously associated with ciliary assembly or function. Airway epithelial cells 
+isolated from PCD-affected individuals had markedly reduced HEATR2 levels, 
+absent dynein arms, and loss of ciliary beating. MicroRNA-mediated silencing of 
+the orthologous gene in Chlamydomonas reinhardtii resulted in absent outer 
+dynein arms, reduced flagellar beat frequency, and decreased cell velocity. 
+These findings were recapitulated by small hairpin RNA-mediated knockdown of 
+HEATR2 in airway epithelial cells from unaffected donors. Moreover, 
+immunohistochemistry studies in human airway epithelial cells showed that HEATR2 
+was localized to the cytoplasm and not in cilia, which suggests a role in either 
+dynein arm transport or assembly. The identification of HEATR2 contributes to 
+the growing number of genes associated with PCD identified in both individuals 
+and model organisms and shows that exome sequencing in family studies 
+facilitates the discovery of novel disease-causing gene mutations.
+
+Copyright © 2012 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2012.08.022
+PMCID: PMC3484505
+PMID: 23040496 [Indexed for MEDLINE]
+
+
+46. Differentiation. 2012 Feb;83(2):S23-9. doi: 10.1016/j.diff.2011.11.009. Epub 
+2011 Dec 7.
+
+Ciliary motility: the components and cytoplasmic preassembly mechanisms of the 
+axonemal dyneins.
+
+Kobayashi D(1), Takeda H.
+
+Author information:
+(1)Department of Anatomy and Developmental Biology, Graduate School of Medical 
+Science, Kyoto Prefectural University of Medicine, 465 Kjiicho, Kamighyo-ku, 
+Kyoto 602-8566, Japan. kdaisuke@koto.kpu-m.ac.jp
+
+Motile cilia and flagella are organelles, which function in cell motility and in 
+the transport of fluids over the surface of cells. Motility defects often result 
+in a rare human disease, primary ciliary dyskinesia (PCD). Cell motility depends 
+on axonemal dynein, a molecular motor that drives the beating of cilia and 
+flagella. The dyneins are composed of multiple subunits, which are thought to be 
+preassembled in the cytoplasm before they are transported into cilia and 
+flagella. Axonemal dyneins have been extensively studied in Chlamydomonas. In 
+addition, analyses of human PCDs over the past decade, together with studies in 
+other model animals, have identified the conserved components required for 
+dynein assembly. Recently also, the first cytoplasmic component of dynein 
+assembly, kintoun (ktu), was elucidated through the analysis of a medaka mutant 
+in combination with human genetics and cell biology and biochemical studies of 
+Chlamydomonas. The components of dynein and the proteins involved in its 
+cytoplasmic assembly process are discussed.
+
+Copyright © 2011 International Society of Differentiation. Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.diff.2011.11.009
+PMID: 22154137 [Indexed for MEDLINE]
+
+
+47. PLoS One. 2011;6(8):e23714. doi: 10.1371/journal.pone.0023714. Epub 2011 Aug 30.
+
+Identification of KIF3A as a novel candidate gene for childhood asthma using RNA 
+expression and population allelic frequencies differences.
+
+Kovacic MB(1), Myers JM, Wang N, Martin LJ, Lindsey M, Ericksen MB, He H, 
+Patterson TL, Baye TM, Torgerson D, Roth LA, Gupta J, Sivaprasad U, Gibson AM, 
+Tsoras AM, Hu D, Eng C, Chapela R, Rodríguez-Santana JR, Rodríguez-Cintrón W, 
+Avila PC, Beckman K, Seibold MA, Gignoux C, Musaad SM, Chen W, Burchard EG, 
+Hershey GK.
+
+Author information:
+(1)Division of Asthma Research, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, Ohio, United States of America.
+
+BACKGROUND: Asthma is a chronic inflammatory disease with a strong genetic 
+predisposition. A major challenge for candidate gene association studies in 
+asthma is the selection of biologically relevant genes.
+METHODOLOGY/PRINCIPAL FINDINGS: Using epithelial RNA expression arrays, HapMap 
+allele frequency variation, and the literature, we identified six possible 
+candidate susceptibility genes for childhood asthma including ADCY2, DNAH5, 
+KIF3A, PDE4B, PLAU, SPRR2B. To evaluate these genes, we compared the genotypes 
+of 194 predominantly tagging SNPs in 790 asthmatic, allergic and non-allergic 
+children. We found that SNPs in all six genes were nominally associated with 
+asthma (p<0.05) in our discovery cohort and in three independent cohorts at 
+either the SNP or gene level (p<0.05). Further, we determined that our selection 
+approach was superior to random selection of genes either differentially 
+expressed in asthmatics compared to controls (p = 0.0049) or selected based on 
+the literature alone (p = 0.0049), substantiating the validity of our gene 
+selection approach. Importantly, we observed that 7 of 9 SNPs in the KIF3A gene 
+more than doubled the odds of asthma (OR = 2.3, p<0.0001) and increased the odds 
+of allergic disease (OR = 1.8, p<0.008). Our data indicate that KIF3A rs7737031 
+(T-allele) has an asthma population attributable risk of 18.5%. The association 
+between KIF3A rs7737031 and asthma was validated in 3 independent populations, 
+further substantiating the validity of our gene selection approach.
+CONCLUSIONS/SIGNIFICANCE: Our study demonstrates that KIF3A, a member of the 
+kinesin superfamily of microtubule associated motors that are important in the 
+transport of protein complexes within cilia, is a novel candidate gene for 
+childhood asthma. Polymorphisms in KIF3A may in part be responsible for poor 
+mucus and/or allergen clearance from the airways. Furthermore, our study 
+provides a promising framework for the identification and evaluation of novel 
+candidate susceptibility genes.
+
+DOI: 10.1371/journal.pone.0023714
+PMCID: PMC3166061
+PMID: 21912604 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: Mr. Chris Gignoux has 
+indicated that he holds stock in 23andMe, Inc. The other authors do not have any 
+conflicts of interest or financial disclosures, including declarations of 
+financial interest, to report.
+
+
+48. Am J Hum Genet. 2011 May 13;88(5):599-607. doi: 10.1016/j.ajhg.2011.03.018. Epub 
+2011 Apr 14.
+
+Primary ciliary dyskinesia caused by homozygous mutation in DNAL1, encoding 
+dynein light chain 1.
+
+Mazor M(1), Alkrinawi S, Chalifa-Caspi V, Manor E, Sheffield VC, Aviram M, 
+Parvari R.
+
+Author information:
+(1)Department of Virology and Developmental Genetics, Faculty of Health 
+Sciences, Ben Gurion University of the Negev, Beer Sheva, Israel.
+
+In primary ciliary dyskinesia (PCD), genetic defects affecting motility of cilia 
+and flagella cause chronic destructive airway disease, randomization of 
+left-right body asymmetry, and, frequently, male infertility. The most frequent 
+defects involve outer and inner dynein arms (ODAs and IDAs) that are large 
+multiprotein complexes responsible for cilia-beat generation and regulation, 
+respectively. Although it has long been suspected that mutations in DNAL1 
+encoding the ODA light chain1 might cause PCD such mutations were not found. We 
+demonstrate here that a homozygous point mutation in this gene is associated 
+with PCD with absent or markedly shortened ODA. The mutation (NM_031427.3: 
+c.449A>G; p.Asn150Ser) changes the Asn at position150, which is critical for the 
+proper tight turn between the β strand and the α helix of the leucine-rich 
+repeat in the hydrophobic face that connects to the dynein heavy chain. The 
+mutation reduces the stability of the axonemal dynein light chain 1 and damages 
+its interactions with dynein heavy chain and with tubulin. This study adds 
+another important component to understanding the types of mutations that cause 
+PCD and provides clinical information regarding a specific mutation in a gene 
+not yet known to be associated with PCD.
+
+Copyright © 2011 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2011.03.018
+PMCID: PMC3146731
+PMID: 21496787 [Indexed for MEDLINE]
+
+
+49. Hum Genet. 2011 Mar;129(3):283-93. doi: 10.1007/s00439-010-0922-4. Epub 2010 Dec 
+7.
+
+Gene expression studies in cells from primary ciliary dyskinesia patients 
+identify 208 potential ciliary genes.
+
+Geremek M(1), Bruinenberg M, Ziętkiewicz E, Pogorzelski A, Witt M, Wijmenga C.
+
+Author information:
+(1)International Institute of Molecular and Cell Biology, Warsaw, Poland. 
+macgerem@gmail.com
+
+Cilia are small cellular projections that either act as sensors (primary cilia) 
+or propel fluid over the epithelia of various organs (motile cilia). The 
+organellum has gained much attention lately because of its involvement in a 
+group of human diseases called ciliopathies. Primary ciliary dyskinesia (PCD) is 
+an autosomal recessive ciliopathy caused by mutations in cilia motility genes. 
+The disease is characterized by recurrent respiratory tract infections due to 
+the lack of an efficient mucociliary clearance. We performed whole-genome gene 
+expression profiling in bronchial biopsies from PCD patients. We used the 
+quality threshold clustering algorithm to identify groups of genes that revealed 
+highly correlated RNA expression patterns in the biopsies. The largest cluster 
+contained 372 genes and was significantly enriched for genes related to cilia. 
+The database and literature search showed that 164 genes in this cluster were 
+known cilia genes, strongly indicating that the remaining 208 genes were likely 
+to be new cilia genes. The tissue expression pattern of the 208 new cilia genes 
+and the 164 known genes was consistent with the presence of motile cilia in a 
+given tissue. The analysis of the upstream promotor sequences revealed evidence 
+for RFX transcription factors binding site motif in both subgroups. Based on the 
+correlated expression patterns in PCD-affected tissues, we identified 208 genes 
+that we predict to be involved in cilia biology. Our predictions are based 
+directly on the human material and not on model organisms. This list of genes 
+provides candidate genes for PCD and other ciliopathies.
+
+© Springer-Verlag 2010
+
+DOI: 10.1007/s00439-010-0922-4
+PMID: 21136274 [Indexed for MEDLINE]
+
+
+50. Dev Biol. 2010 Nov 1;347(1):62-70. doi: 10.1016/j.ydbio.2010.08.008. Epub 2010 
+Aug 13.
+
+Characterization of the medaka (Oryzias latipes) primary ciliary dyskinesia 
+mutant, jaodori: Redundant and distinct roles of dynein axonemal intermediate 
+chain 2 (dnai2) in motile cilia.
+
+Kobayashi D(1), Iijima N, Hagiwara H, Kamura K, Takeda H, Yokoyama T.
+
+Author information:
+(1)Department of Anatomy and Developmental Biology, Graduate School of Medical 
+Science, Kyoto Prefectural University of Medicine, 465 Kajii-cho, Kyoto 
+602-8566, Japan.
+
+Cilia and flagella are highly conserved organelles that have diverse motility 
+and sensory functions. Motility defects in cilia and flagella result in primary 
+ciliary dyskinesia (PCD). We isolated a novel medaka PCD mutant, jaodori (joi). 
+Positional cloning showed that axonemal dynein intermediate chain 2 (dnai2) is 
+responsible for joi. The joi mutation was caused by genomic insertion of the 
+medaka transposon, Tol1. In the joi mutant, cilia in Kupffer's vesicle (KV), an 
+organ functionally equivalent to the mouse node in terms of left-right (LR) 
+specification, are generated but their motility is disrupted, resulting in a LR 
+defect. Ultrastructural analysis revealed severe reduction in the outer dynein 
+arms in KV cilia of joi mutants. We also found the other dnai2 gene in the 
+medaka genome. These two dnai2 genes function either redundantly or distinctly 
+in tissues possessing motile cilia.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ydbio.2010.08.008
+PMID: 20709053 [Indexed for MEDLINE]
+
+
+51. Dev Biol. 2010 Nov 1;347(1):53-61. doi: 10.1016/j.ydbio.2010.08.001. Epub 2010 
+Aug 11.
+
+Dynein axonemal intermediate chain 2 is required for formation of the left-right 
+body axis and kidney in medaka.
+
+Nagao Y(1), Cheng J, Kamura K, Seki R, Maeda A, Nihei D, Koshida S, Wakamatsu Y, 
+Fujimoto T, Hibi M, Hashimoto H.
+
+Author information:
+(1)Department of Biological Sciences, Graduate School of Science, Nagoya 
+University, Nagoya, Japan.
+
+Ciliary defects lead to various diseases, such as primary ciliary dyskinesia 
+(PCD) and polycystic kidney disease (PKD). We isolated a medaka mutant mii, 
+which exhibits defects in the left-right (LR) polarity of organs, and found that 
+mii encodes dynein axonemal intermediate chain 2a (dnai2a). Ortholog mutations 
+were recently reported to cause PCD in humans. mii mutant embryos exhibited loss 
+of nodal flow in Kupffer's Vesicle (KV), which is equivalent to the mammalian 
+node, and abnormal expression of the left-specific gene. KV cilia in the mii 
+mutant were defective in their outer dynein arms (ODAs), indicating that Dnai2a 
+is required for ODA formation in KV cilia. While the mii mutant retained 
+motility of the renal cilia and failed to show PKD, the loss of dnai2a and 
+another dnai2 ortholog dnai2b led to PKD. These findings demonstrate that Dnai2 
+proteins control LR polarity and kidney formation through regulation of ciliary 
+motility.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ydbio.2010.08.001
+PMID: 20707998 [Indexed for MEDLINE]
+
+
+52. Dev Biol. 2009 Jul 15;331(2):281-91. doi: 10.1016/j.ydbio.2009.05.547. Epub 2009 
+May 18.
+
+Flow on the right side of the gastrocoel roof plate is dispensable for symmetry 
+breakage in the frog Xenopus laevis.
+
+Vick P(1), Schweickert A, Weber T, Eberhardt M, Mencl S, Shcherbakov D, Beyer T, 
+Blum M.
+
+Author information:
+(1)University of Hohenheim, Institute of Zoology, Stuttgart, Germany.
+
+Leftward flow of extracellular fluid breaks the bilateral symmetry of most 
+vertebrate embryos, manifested by the ensuing asymmetric induction of Nodal 
+signaling in the left lateral plate mesoderm (LPM). Flow is generated by 
+rotational beating of polarized monocilia at the posterior notochord (PNC; 
+mammals), Kupffer's vesicle (KV; teleost fish) and the gastrocoel roof plate 
+(GRP; amphibians). To manipulate flow in a defined way we cloned dynein heavy 
+chain genes dnah5, 9 and 11 in Xenopus. dnah9 expression was closely related to 
+motile cilia from neurulation onwards. Morphant tadpoles showed impaired 
+epidermal ciliary beating. Leftward flow at the GRP was absent, resulting in 
+embryos with loss of asymmetric marker gene expression. Remarkably, unilateral 
+knockdown on the right side of the GRP did not affect laterality, while 
+left-sided ablation of flow abolished marker gene expression. Thus, flow was 
+required exclusively on the left side of the GRP to break symmetry in the frog. 
+Our data suggest that the substrate of flow is generated within the GRP and not 
+at its margin, disqualifying Nodal as a candidate morphogen.
+
+DOI: 10.1016/j.ydbio.2009.05.547
+PMID: 19450574 [Indexed for MEDLINE]
+
+
+53. Am J Med Genet A. 2008 Jul 1;146A(13):1765-7. doi: 10.1002/ajmg.a.32340.
+
+Candidate gene analysis in three families with acilia syndrome.
+
+Wessels MW(1), Avital A, Failly M, Munoz A, Omran H, Blouin JL, Willems PJ.
+
+Author information:
+(1)Department of Clinical Genetics, Erasmus University and University Hospital, 
+Rotterdam, The Netherlands.
+
+DOI: 10.1002/ajmg.a.32340
+PMID: 18512228 [Indexed for MEDLINE]
+
+
+54. Proc Natl Acad Sci U S A. 2007 Oct 2;104(40):15765-70. doi: 
+10.1073/pnas.0704344104. Epub 2007 Sep 20.
+
+The mouse homeobox gene Noto regulates node morphogenesis, notochordal 
+ciliogenesis, and left right patterning.
+
+Beckers A(1), Alten L, Viebahn C, Andre P, Gossler A.
+
+Author information:
+(1)Institute for Molecular Biology, Medizinische Hochschule Hannover, 
+Carl-Neuberg-Strasse 1, D-30625 Hannover, Germany.
+
+Erratum in
+    Proc Natl Acad Sci U S A. 2007 Oct 30;104(44):17554.
+
+The mouse homeobox gene Noto represents the homologue of zebrafish floating head 
+(flh) and is expressed in the organizer node and in the nascent notochord. 
+Previous analyses suggested that Noto is required exclusively for the formation 
+of the caudal part of the notochord. Here, we show that Noto is also essential 
+for node morphogenesis, controlling ciliogenesis in the posterior notochord, and 
+the establishment of laterality, whereas organizer functions in 
+anterior-posterior patterning are apparently not compromised. In mutant embryos, 
+left-right asymmetry of internal organs and expression of laterality markers was 
+randomized. Mutant posterior notochord regions were variable in size and shape, 
+cilia were shortened with highly irregular axonemal microtubuli, and basal 
+bodies were, in part, located abnormally deep in the cytoplasm. The 
+transcription factor Foxj1, which regulates the dynein gene Dnahc11 and is 
+required for the correct anchoring of basal bodies in lung epithelial cells, was 
+down-regulated in mutant nodes. Likewise, the transcription factor Rfx3, which 
+regulates cilia growth, was not expressed in Noto mutants, and various other 
+genes important for cilia function or assembly such as Dnahc5 and Nphp3 were 
+down-regulated. Our results establish Noto as an essential regulator of node 
+morphogenesis and ciliogenesis in the posterior notochord, and suggest Noto acts 
+upstream of Foxj1 and Rfx3.
+
+DOI: 10.1073/pnas.0704344104
+PMCID: PMC2000419
+PMID: 17884984 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+55. Rev Mal Respir. 2004 Jun;21(3 Pt 1):521-6. doi: 10.1016/s0761-8425(04)71356-x.
+
+[Molecular basis of the primary ciliary dyskinesias].
+
+[Article in French]
+
+Moore A(1), Amselem S, Duriez B, Escudier E.
+
+Author information:
+(1)Institut National de la Santé et de la Recherche Médicale U492, Faculté de 
+Médecine, Créteil, France.
+
+INTRODUCTION: The primary ciliary dyskinesias (PCD) are rare diseases 
+characterised by infection of the airways due to impaired muco-ciliary 
+clearance. Half the patients have situs inversus making up Kartagener's 
+syndrome.
+STATE OF THE ART: Primary cilia play a role in development. In the adult 
+ciliated cells occur mainly in the airways and the genital tract. The axoneme, 
+the internal structure of the cilia, is made up of a central pair of 
+microtubules surrounded by peripheral doublets carrying the inner and outer 
+dynein arms. These multiprotein complexes are composed of chains of dynein whose 
+ATPase activity is the basis of ciliary movement. Structural and functional 
+abnormalities of the respiratory ciliated cells are the cause of PCD, diseases 
+that are heterogeneous at both the genetic and ultrastructural levels.
+PERSPECTIVES: There are more than two hundred axonemal proteins. The synthesis 
+and assembly of these proteins are controlled by transcription factors and 
+intraflagellar transport molecules respectively. The genes that code for these 
+proteins are as numerous as candidate genes for PCD.
+CONCLUSIONS: To date only two dynein genes, DNA11 and DNAH5, have been 
+implicated and only in individuals suffering from PCD with absence of outer 
+dynein arms.
+
+DOI: 10.1016/s0761-8425(04)71356-x
+PMID: 15292844 [Indexed for MEDLINE]
+
+
+56. J Biol Chem. 2002 May 17;277(20):17906-15. doi: 10.1074/jbc.M200348200. Epub 
+2002 Mar 4.
+
+Identification of dynein heavy chain 7 as an inner arm component of human cilia 
+that is synthesized but not assembled in a case of primary ciliary dyskinesia.
+
+Zhang YJ(1), O'Neal WK, Randell SH, Blackburn K, Moyer MB, Boucher RC, Ostrowski 
+LE.
+
+Author information:
+(1)Cystic Fibrosis/Pulmonary Research and Treatment Center, The University of 
+North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-7248, USA.
+
+Although the basic structure of the axoneme has been highly conserved throughout 
+evolution, the varied functions of specialized axonemes require differences in 
+structure and regulation. Cilia lining the respiratory tract propel mucus along 
+airway surfaces, providing a critical function to the defense mechanisms of the 
+pulmonary system, yet little is known of their molecular structure. We have 
+identified and cloned a dynein heavy chain that is a component of the inner 
+dynein arm. Bronchial epithelial cells were obtained from normal donors and from 
+a patient with primary ciliary dyskinesia (PCD) whose cilia demonstrated an 
+absence of inner dynein arms by electron microscopy. Cilia from normal and PCD 
+cells were compared by gel electrophoresis, and mass spectrometry was used to 
+identify DNAH7 as a protein absent in PCD cilia. The full-length DNAH7 cDNA was 
+cloned and shares 68% similarity with an inner arm dynein heavy chain from 
+Drosophila. DNAH7 was induced during ciliated cell differentiation, and 
+immunohistochemistry demonstrated the presence of DNAH7 in normal cilia. In 
+cilia from PCD cells, DNAH7 was undetectable, whereas intracellular DNAH7 was 
+clearly present. These studies identify DNAH7 as an inner arm component of human 
+cilia that is synthesized but not assembled in a case of PCD.
+
+DOI: 10.1074/jbc.M200348200
+PMID: 11877439 [Indexed for MEDLINE]
+
+
+57. Genomics. 2001 Feb 15;72(1):21-33. doi: 10.1006/geno.2000.6462.
+
+Axonemal beta heavy chain dynein DNAH9: cDNA sequence, genomic structure, and 
+investigation of its role in primary ciliary dyskinesia.
+
+Bartoloni L(1), Blouin JL, Maiti AK, Sainsbury A, Rossier C, Gehrig C, She JX, 
+Marron MP, Lander ES, Meeks M, Chung E, Armengot M, Jorissen M, Scott HS, 
+Delozier-Blanchet CD, Gardiner RM, Antonarakis SE.
+
+Author information:
+(1)Division of Medical Genetics, University of Geneva Medical School and, 
+Geneva, Switzerland.
+
+Dyneins are multisubunit protein complexes that couple ATPase activity with 
+conformational changes. They are involved in the cytoplasmatic movement of 
+organelles (cytoplasmic dyneins) and the bending of cilia and flagella (axonemal 
+dyneins). Here we present the first complete cDNA and genomic sequences of a 
+human axonemal dynein beta heavy chain gene, DNAH9, which maps to 17p12. The 
+14-kb-long cDNA is divided into 69 exons spread over 390 kb. The cDNA sequence 
+of DNAH9 was determined using a combination of methods including 5' rapid 
+amplification of cDNA ends, RT-PCR, and cDNA library screening. RT-PCR using 
+nasal epithelium and testis RNA revealed several alternatively spliced 
+transcripts. The genomic structure was determined using three overlapping BACs 
+sequenced by the Whitehead Institute/MIT Center for Genome Research. The 
+predicted protein, of 4486 amino acids, is highly homologous to sea urchin 
+axonemal beta heavy chain dyneins (67% identity). It consists of an N-terminal 
+stem and a globular C-terminus containing the four P-loops that constitute the 
+motor domain. Lack of proper ciliary and flagellar movement characterizes 
+primary ciliary dyskinesia (PCD), a genetically heterogeneous autosomal 
+recessive disorder with respiratory tract infections, bronchiectasis, male 
+subfertility, and, in 50% of cases, situs inversus (Kartagener syndrome, KS). 
+Dyneins are excellent candidate genes for PCD and KS because in over 50% of 
+cases the ultrastructural defects of cilia are related to the dynein complex. 
+Genotype analysis was performed in 31 PCD families with two or more affected 
+siblings using a highly informative dinucleotide polymorphism located in intron 
+26 of DNAH9. Two families with concordant inheritance of DNAH9 alleles in 
+affected individuals were observed. A mutation search was performed in these two 
+"candidate families," but only polymorphic variants were found. In the absence 
+of pathogenic mutations, the DNAH9 gene has been excluded as being responsible 
+for autosomal recessive PCD in these families.
+
+Copyright 2001 Academic Press.
+
+DOI: 10.1006/geno.2000.6462
+PMID: 11247663 [Indexed for MEDLINE]
+
+
+58. Hum Genet. 2000 Dec;107(6):642-9. doi: 10.1007/s004390000427.
+
+The human dynein intermediate chain 2 gene (DNAI2): cloning, mapping, expression 
+pattern, and evaluation as a candidate for primary ciliary dyskinesia.
+
+Pennarun G(1), Chapelin C, Escudier E, Bridoux AM, Dastot F, Cacheux V, Goossens 
+M, Amselem S, Duriez B.
+
+Author information:
+(1)Institut National de la Santé et de la Recherche Médicale U468, H pital Henri 
+Mondor, Créteil, France.
+
+Primary ciliary dyskinesia (PCD) is an autosomal recessive disease characterized 
+by chronic sinusitis and bronchiectasis, and usually associated with 
+hypofertility. Half of the patients present a situs inversus, defining the 
+Kartagener's syndrome. This phenotype results from axonemal abnormalities of 
+respiratory cilia and sperm flagella, i.e., mainly an absence of dynein arms. 
+Recently, a candidate-gene approach, based on documented abnormalities of 
+immotile strains of Chlamydomonas reinhardtii, allowed us to identify the first 
+gene involved in PCD. Following the same strategy, we have characterized DNAI2, 
+a human gene related to Chlamzydomonas IC69, and evaluated its possible 
+involvement in a PCD population characterized by an absence of outer dynein 
+arms. DNAI2, which is composed of 14 exons located at 17q25, is highly expressed 
+in trachea and testis. No mutation was found in the DNAI2 coding sequence of the 
+twelve patients investigated. However, ten intragenic polymorphic sites and an 
+EcoRI RFLP have been identified, allowing the exclusion of DNAI2 in three 
+consanguineous families.
+
+DOI: 10.1007/s004390000427
+PMID: 11153919 [Indexed for MEDLINE]
+
+
+59. Am J Hum Genet. 1999 Dec;65(6):1508-19. doi: 10.1086/302683.
+
+Loss-of-function mutations in a human gene related to Chlamydomonas reinhardtii 
+dynein IC78 result in primary ciliary dyskinesia.
+
+Pennarun G(1), Escudier E, Chapelin C, Bridoux AM, Cacheux V, Roger G, Clément 
+A, Goossens M, Amselem S, Duriez B.
+
+Author information:
+(1)Institut National de la Santé et de la Recherche Médicale U468, Hôpital 
+Henri-Mondor, 94010 Créteil, France.
+
+Primary ciliary dyskinesia (PCD) is a group of heterogeneous disorders of 
+unknown origin, usually inherited as an autosomal recessive trait. Its phenotype 
+is characterized by axonemal abnormalities of respiratory cilia and sperm tails 
+leading to bronchiectasis and sinusitis, which are sometimes associated with 
+situs inversus (Kartagener syndrome) and male sterility. The main ciliary defect 
+in PCD is an absence of dynein arms. We have isolated the first gene involved in 
+PCD, using a candidate-gene approach developed on the basis of documented 
+abnormalities of immotile strains of Chlamydomonas reinhardtii, which carry 
+axonemal ultrastructural defects reminiscent of PCD. Taking advantage of the 
+evolutionary conservation of genes encoding axonemal proteins, we have isolated 
+a human sequence (DNAI1) related to IC78, a C. reinhardtii gene encoding a 
+dynein intermediate chain in which mutations are associated with the absence of 
+outer dynein arms. DNAI1 is highly expressed in trachea and testis and is 
+composed of 20 exons located at 9p13-p21. Two loss-of-function mutations of 
+DNAI1 have been identified in a patient with PCD characterized by immotile 
+respiratory cilia lacking outer dynein arms. In addition, we excluded linkage 
+between this gene and similar PCD phenotypes in five other affected families, 
+providing a clear demonstration of locus heterogeneity. These data reveal the 
+critical role of DNAI1 in the development of human axonemal structures and open 
+up new means for identification of additional genes involved in related 
+developmental defects.
+
+DOI: 10.1086/302683
+PMCID: PMC1288361
+PMID: 10577904 [Indexed for MEDLINE]

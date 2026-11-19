@@ -1,0 +1,1969 @@
+1. Mol Brain. 2023 Jul 5;16(1):57. doi: 10.1186/s13041-023-01041-x.
+
+Reactive astrocytes mediate TSPO overexpression in response to sustained CNTF 
+exposure in the rat striatum.
+
+Ceyzériat K(1)(2)(3), Nicolaides A(4)(5), Amossé Q(4)(5), Fossey C(6), Cailly 
+T(6)(7)(8)(9), Fabis F(6), Garibotto V(10)(11), Escartin C(12), Tournier 
+BB(4)(5), Millet P(4)(5).
+
+Author information:
+(1)Division of Adult Psychiatry, Department of Psychiatry, University Hospitals 
+of Geneva, Geneva, Switzerland. Kelly.ceyzeriat@unige.ch.
+(2)Department of Psychiatry, University of Geneva, Avenue de la Roseraie, 64, 
+Geneva, 1205, Switzerland. Kelly.ceyzeriat@unige.ch.
+(3)CIBM Center for BioMedical Imaging, Faculty of Medicine, University of 
+Geneva, Geneva, Switzerland. Kelly.ceyzeriat@unige.ch.
+(4)Division of Adult Psychiatry, Department of Psychiatry, University Hospitals 
+of Geneva, Geneva, Switzerland.
+(5)Department of Psychiatry, University of Geneva, Avenue de la Roseraie, 64, 
+Geneva, 1205, Switzerland.
+(6)Normandie Univ, UNICAEN, Centre d'Études et de Recherche sur le Médicament de 
+Normandie (CERMN), Caen, France.
+(7)Department of Nuclear Medicine, CHU Cote de Nacre, Caen, France.
+(8)Normandie Univ, UNICAEN, IMOGERE, Caen, France.
+(9)Institut Blood and Brain @Caen-Normandie (BB@C) Boulevard Henri Becquerel, 
+Caen, 14074, France.
+(10)CIBM Center for BioMedical Imaging, Faculty of Medicine, University of 
+Geneva, Geneva, Switzerland.
+(11)Division of nuclear medicine and molecular imaging, Diagnostic Department, 
+Geneva University Hospitals and University of Geneva, Geneva, Switzerland.
+(12)Université Paris-Saclay, CEA, CNRS, MIRCen, Laboratoire des Maladies 
+Neurodégénératives, Fontenay-aux-Roses, Gif-sur-Yvette, France.
+
+The 18 kDa translocator protein (TSPO) is a classical marker of 
+neuroinflammation targeted for in vivo molecular imaging. Microglial cells were 
+originally thought to be the only source of TSPO overexpression but astrocytes, 
+neurons and endothelial cells can also up-regulate TSPO depending on the 
+pathological context. This study aims to determine the cellular origin of TSPO 
+overexpression in a simplified model of neuroinflammation and to identify the 
+molecular pathways involved. This is essential to better interpret TSPO 
+molecular imaging in preclinical and clinical settings. We used lentiviral 
+vectors (LV) to overexpress the ciliary neurotrophic factor (CNTF) in the right 
+striatum of 2-month-old Sprague Dawley rats. A LV encoding for β-Galactosidase 
+(LV-LacZ) was used as control. One month later, TSPO expression was measured by 
+single-photon emission computed tomography (SPECT) imaging using [125I]CLINDE. 
+The fluorescence-activated cell sorting to radioligand-treated tissue (FACS-RTT) 
+method was used to quantify TSPO levels in acutely sorted astrocytes, microglia, 
+neurons and endothelial cells. A second cohort was injected with LV-CNTF and a 
+LV encoding suppressor of cytokine signaling 3 (SOCS3), to inhibit the JAK-STAT3 
+pathway specifically in astrocytes. GFAP and TSPO expressions were quantified by 
+immunofluorescence. We measured a significant increase in TSPO signal in 
+response to CNTF by SPECT imaging. Using FACS-RTT, we observed TSPO 
+overexpression in reactive astrocytes (+ 153 ± 62%) but also in microglia 
+(+ 2088 ± 500%) and neurons (+ 369 ± 117%), accompanied by an increase in TSPO 
+binding sites per cell in those three cell populations. Endothelial cells did 
+not contribute to TSPO signal increase. Importantly, LV-SOCS3 reduced 
+CNTF-induced astrocyte reactivity and decreased global TSPO immunoreactivity 
+(-71% ± 30%), suggesting that TSPO overexpression is primarily mediated by 
+reactive astrocytes. Overall, this study reveals that CNTF induces TSPO in 
+multiple cell types in the rat striatum, through the JAK2-STAT3 pathway in 
+astrocytes, identifying this cell type as the primary mediator of CNTF effects 
+neuroinflammatory processes. Our results highlight the difficulty to interpret 
+TSPO imaging in term of cellular origin without addition cellular analysis by 
+FACS-RTT or quantitative immunostainings. Consequently, TSPO should only be used 
+as a global marker of neuroinflammation.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13041-023-01041-x
+PMCID: PMC10320938
+PMID: 37408083 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+2. Front Neurosci. 2023 Apr 6;17:1158030. doi: 10.3389/fnins.2023.1158030. 
+eCollection 2023.
+
+Use of gene therapy for optic nerve protection: Current concepts.
+
+Xu K(1), Yu L(1)(2), Wang Z(1), Lin P(1), Zhang N(1), Xing Y(1)(2), Yang N(1).
+
+Author information:
+(1)Department of Ophthalmology, Renmin Hospital of Wuhan University, Wuhan, 
+Hubei, China.
+(2)Department of Ophthalmology, Aier Eye Hospital of Wuhan University, Wuhan, 
+Hubei, China.
+
+Gene therapy has become an essential treatment for optic nerve injury (ONI) in 
+recent years, and great strides have been made using animal models. ONI, which 
+is characterized by the loss of retinal ganglion cells (RGCs) and axons, can 
+induce abnormalities in the pupil light reflex, visual field defects, and even 
+vision loss. The eye is a natural organ to target with gene therapy because of 
+its high accessibility and certain immune privilege. As such, numerous gene 
+therapy trials are underway for treating eye diseases such as glaucoma. The aim 
+of this review was to cover research progress made in gene therapy for ONI. 
+Specifically, we focus on the potential of gene therapy to prevent the 
+progression of neurodegenerative diseases and protect both RGCs and axons. We 
+cover the basic information of gene therapy, including the classification of 
+gene therapy, especially focusing on genome editing therapy, and then we 
+introduce common editing tools and vector tools such as Clustered Regularly 
+Interspaced Short Palindromic Repeats (CRISPR) -Cas9 and adeno-associated virus 
+(AAV). We also summarize the progress made on understanding the roles of brain 
+derived neurotrophic factor (BDNF), ciliary neurotrophic factor (CNTF), 
+phosphatase-tensin homolog (PTEN), suppressor of cytokine signal transduction 3 
+(SOCS3), histone acetyltransferases (HATs), and other important molecules in 
+optic nerve protection. However, gene therapy still has many challenges, such as 
+misalignment and mutations, immunogenicity of AAV, time it takes and economic 
+cost involved, which means that these issues need to be addressed before 
+clinical trials can be considered.
+
+Copyright © 2023 Xu, Yu, Wang, Lin, Zhang, Xing and Yang.
+
+DOI: 10.3389/fnins.2023.1158030
+PMCID: PMC10117674
+PMID: 37090805
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Cytokine. 2021 Oct;146:155655. doi: 10.1016/j.cyto.2021.155655. Epub 2021 Jul 
+28.
+
+Influences of the IL-6 cytokine family on bone structure and function.
+
+Sims NA(1).
+
+Author information:
+(1)St. Vincent's Institute of Medical Research, and the Department of Medicine 
+at St. Vincent's Hospital, The University of Melbourne, Melbourne, Australia.
+
+The IL-6 family of cytokines comprises a large group of cytokines that all act 
+via the formation of a signaling complex that includes the glycoprotein 130 
+(gp130) receptor. Despite this, many of these cytokines have unique roles that 
+regulate the activity of bone forming osteoblasts, bone resorbing osteoclasts, 
+bone-resident osteocytes, and cartilage cells (chondrocytes). These include 
+specific functions in craniofacial development, longitudinal bone growth, and 
+the maintenance of trabecular and cortical bone structure, and have been 
+implicated in musculoskeletal pathologies such as craniosynostosis, 
+osteoporosis, rheumatoid arthritis, osteoarthritis, and heterotopic 
+ossifications. This review will work systematically through each member of this 
+family and provide an overview and an update on the expression patterns and 
+functions of each of these cytokines in the skeleton, as well as their negative 
+feedback pathways, particularly suppressor of cytokine signaling 3 (SOCS3). The 
+specific cytokines described are interleukin 6 (IL-6), interleukin 11 (IL-11), 
+oncostatin M (OSM), leukemia inhibitory factor (LIF), cardiotrophin 1 (CT-1), 
+ciliary neurotrophic factor (CNTF), cardiotrophin-like cytokine factor 1 
+(CLCF1), neuropoietin, humanin and interleukin 27 (IL-27).
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cyto.2021.155655
+PMID: 34332274 [Indexed for MEDLINE]
+
+
+4. Anim Biosci. 2021 Jan;34(1):143-153. doi: 10.5713/ajas.19.0874. Epub 2020 Feb 
+25.
+
+Effect of JAK-STAT pathway in regulation of fatty liver hemorrhagic syndrome in 
+chickens.
+
+Zhu Y(1)(2)(3), Mao H(1), Peng G(1), Zeng Q(1), Wei Q(1), Ruan J(1), Huang J(1).
+
+Author information:
+(1)College of Animal Science and Technology, Jiangxi Agricultural University, 
+Nanchang, 330045, China.
+(2)Department of Pathophysiology, Anhui Medical University, Hefei 230000, China.
+(3)Laboratory Animal Research Center, College of Basic Medical Science, Anhui 
+Medical University, Hefei 230000, China.
+
+OBJECTIVE: To explore the molecular mechanisms of fatty liver hemorrhagic 
+syndrome (FLHS) in laying hens, an experiment was conducted to reveal the 
+differences in histopathological observation and gene expression between FLHS 
+group and normal group.
+METHODS: We compared the histopathological difference using hematoxylin and 
+eosin staining and proceeded with RNA sequencing of adipose tissue to search 
+differentially expressed genes and enriched biological processes and pathways. 
+Then we validated the mRNA expression levels by real-time polymerase chain 
+reaction and quantified protein levels in the circulation by enzyme-linked 
+immunosorbent assay.
+RESULTS: We identified 100 differentially expressed transcripts corresponding to 
+66 genes (DEGs) were identified between FLHS-affected group and normal group. 
+Seven DEGs were significantly enriched in the immune response process and lipid 
+metabolic process, including phospholipase A2 group V, WAP kunitz and netrin 
+domain containing 2, delta 4-desaturase sphingolipid 2, perilipin 3, 
+interleukin-6 (IL-6), ciliary neurotrophic factor (CNTF), and suppressor of 
+cytokine signaling 3 (SOCS3). And these genes could be the targets of immune 
+response and be involved in metabolic homeostasis during the process of FLHS in 
+laying hens. Based on functional categories of the DEGs, we further proposed a 
+model to explain the etiology and pathogenesis of FLHS. IL-6 and SOCS3 mediate 
+inflammatory responses and the satiety hormone of leptin, induce dysfunction of 
+Jak-STAT signaling pathway, leading to insulin resistance and lipid metabolic 
+disorders. Conversely, CNTF may reduce tissue destruction during inflammatory 
+attacks and confer protection from inflammation-induced insulin resistance in 
+FLHS chickens.
+CONCLUSION: These findings highlight the therapeutic implications of targeting 
+the JAK-STAT pathway. Inhibition of IL6 and SOCS3 and facilitation of CNTF could 
+serve as a favorable strategy to enhance insulin action and improve glucose 
+homoeostasis, which are of importance for treating obesity-related disorders for 
+chickens.
+
+DOI: 10.5713/ajas.19.0874
+PMCID: PMC7888496
+PMID: 32106651
+
+Conflict of interest statement: CONFLICT OF INTEREST We certify that there is no 
+conflict of interest with any financial organization regarding the material 
+discussed in the manuscript.
+
+
+5. Mol Med. 2018 Sep 27;24(1):51. doi: 10.1186/s10020-018-0052-3.
+
+Leukemia inhibitory factor inhibits erythropoietin-induced myelin gene 
+expression in oligodendrocytes.
+
+Gyetvai G(1), Roe C(1), Heikal L(1), Ghezzi P(2), Mengozzi M(1).
+
+Author information:
+(1)Department of Clinical and Experimental Medicine, Brighton & Sussex Medical 
+School, Brighton, BN1 9PS, UK.
+(2)Department of Clinical and Experimental Medicine, Brighton & Sussex Medical 
+School, Brighton, BN1 9PS, UK. P.Ghezzi@bsms.ac.uk.
+
+Erratum in
+    Mol Med. 2020 Jun 25;26(1):62. doi: 10.1186/s10020-020-00189-9.
+
+BACKGROUND: The pro-myelinating effects of leukemia inhibitory factor (LIF) and 
+other cytokines of the gp130 family, including oncostatin M (OSM) and ciliary 
+neurotrophic factor (CNTF), have long been known, but controversial results have 
+also been reported. We recently overexpressed erythropoietin receptor (EPOR) in 
+rat central glia-4 (CG4) oligodendrocyte progenitor cells (OPCs) to study the 
+mechanisms mediating the pro-myelinating effects of erythropoietin (EPO). In 
+this study, we investigated the effect of co-treatment with EPO and LIF.
+METHODS: Gene expression in undifferentiated and differentiating CG4 cells in 
+response to EPO and LIF was analysed by DNA microarrays and by RT-qPCR. 
+Experiments were performed in biological replicates of N ≥ 4. Functional 
+annotation and biological term enrichment was performed using DAVID (Database 
+for Annotation, Visualization and Integrated Discovery). The gene-gene 
+interaction network was visualised using STRING (Search Tool for the Retrieval 
+of Interacting Genes).
+RESULTS: In CG4 cells treated with 10 ng/ml of EPO and 10 ng/ml of LIF, 
+EPO-induced myelin oligodendrocyte glycoprotein (MOG) expression, measured at 
+day 3 of differentiation, was inhibited ≥4-fold (N = 5, P < 0.001). Inhibition 
+of EPO-induced MOG was also observed with OSM and CNTF. Analysis of the gene 
+expression profile of CG4 differentiating cells treated for 20 h with EPO and 
+LIF revealed LIF inhibition of EPO-induced genes involved in lipid transport and 
+metabolism, previously identified as positive regulators of myelination in this 
+system. In addition, among the genes induced by LIF, and not by differentiation 
+or by EPO, the role of suppressor of cytokine signaling 3 (SOCS3) and toll like 
+receptor 2 (TLR2) as negative regulators of myelination was further explored. 
+LIF-induced SOCS3 was associated with MOG inhibition; Pam3, an agonist of TLR2, 
+inhibited EPO-induced MOG expression, suggesting that TLR2 is functional and its 
+activation decreases myelination.
+CONCLUSIONS: Cytokines of the gp130 family may have negative effects on 
+myelination, depending on the cytokine environment.
+
+DOI: 10.1186/s10020-018-0052-3
+PMCID: PMC6161334
+PMID: 30261841 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL: Not applicable. CONSENT FOR 
+PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare they have 
+no competing interests as defined by Molecular Medicine, or other interests that 
+might be perceived to influence the results and discussion reported in this 
+paper. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+
+
+6. Brain Behav Immun. 2018 May;70:325-334. doi: 10.1016/j.bbi.2018.03.014. Epub 
+2018 Mar 13.
+
+mTORC1 pathway disruption abrogates the effects of the ciliary neurotrophic 
+factor on energy balance and hypothalamic neuroinflammation.
+
+André C(1), Catania C(1), Remus-Borel J(2), Ladeveze E(1), Leste-Lasserre T(1), 
+Mazier W(1), Binder E(1), Gonzales D(1), Clark S(1), Guzman-Quevedo O(1), Abrous 
+DN(1), Layé S(2), Cota D(3).
+
+Author information:
+(1)INSERM, Neurocentre Magendie, Physiopathologie de la Plasticité Neuronale, 
+U1215, F-33000 Bordeaux, France; University of Bordeaux, Neurocentre Magendie, 
+Physiopathologie de la Plasticité Neuronale, U1215, F-33000 Bordeaux, France.
+(2)INRA, Nutrition et Neurobiologie Intégrée, UMR 1286, F-33076 Bordeaux, 
+France; University of Bordeaux, Nutrition et Neurobiologie Intégrée, UMR 1286, 
+F-33076 Bordeaux, France.
+(3)INSERM, Neurocentre Magendie, Physiopathologie de la Plasticité Neuronale, 
+U1215, F-33000 Bordeaux, France; University of Bordeaux, Neurocentre Magendie, 
+Physiopathologie de la Plasticité Neuronale, U1215, F-33000 Bordeaux, France. 
+Electronic address: daniela.cota@inserm.fr.
+
+Ciliary neurotrophic factor (CNTF) potently decreases food intake and body 
+weight in diet-induced obese mice by acting through neuronal circuits and 
+pathways located in the arcuate nucleus (ARC) of the hypothalamus. CNTF also 
+exerts pro-inflammatory actions within the brain. Here we tested whether CNTF 
+modifies energy balance by inducing inflammatory responses in the ARC and 
+whether these effects depend upon the mechanistic target of rapamycin complex 1 
+(mTORC1) pathway, which regulates both energy metabolism and inflammation. To 
+this purpose, chow- and high fat diet (HFD)- fed mice lacking the S6 kinase 1 
+(S6K1-/-), a downstream target of mTORC1, and their wild-type (WT) littermates 
+received 12 days continuous intracerebroventricular (icv) infusion of the CNTF 
+analogue axokine (CNTFAx15). Behavioral, metabolic and molecular effects were 
+evaluated. Central chronic administration of CNTFAx15 decreased body weight and 
+feed efficiency in WT mice only, when fed HFD, but not chow. These metabolic 
+effects correlated with increased number of iba-1 positive microglia 
+specifically in the ARC and were accompanied by significant increases of IL-1β 
+and TNF-α mRNA expression in the hypothalamus. Hypothalamic iNOS and SOCS3 mRNA, 
+molecular markers of pro-inflammatory response, were also increased by CNTFAx15. 
+All these changes were absent in S6K1-/- mice. This study reveals that CNTFAx15 
+requires a functional S6K1 to modulate energy balance and hypothalamic 
+inflammation in a diet-dependent fashion. Further investigations should 
+determine whether S6K1 is a suitable target for the treatment of pathologies 
+characterized by a high neuroinflammatory state.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbi.2018.03.014
+PMID: 29548998 [Indexed for MEDLINE]
+
+
+7. Invest Ophthalmol Vis Sci. 2016 Aug 1;57(10):4017-26. doi: 
+10.1167/iovs.15-18508.
+
+CNTF Attenuates Vasoproliferative Changes Through Upregulation of SOCS3 in a 
+Mouse-Model of Oxygen-Induced Retinopathy.
+
+Bucher F(1), Walz JM(2), Bühler A(3), Aguilar E(4), Lange C(3), Diaz-Aguilar 
+S(4), Martin G(3), Schlunck G(3), Agostini H(3), Friedlander M(4), Stahl A(3).
+
+Author information:
+(1)Eye Center Medical Center, Faculty of Medicine, University of Freiburg, 
+Germany 2Department of Cell and Molecular Biology, The Scripps Research 
+Institute, La Jolla, California, United States.
+(2)Eye Center Medical Center, Faculty of Medicine, University of Freiburg, 
+Germany 3Department of Pharmacology and Toxicology, University of Regensburg, 
+Regensburg, Germany.
+(3)Eye Center Medical Center, Faculty of Medicine, University of Freiburg, 
+Germany.
+(4)Department of Cell and Molecular Biology, The Scripps Research Institute, La 
+Jolla, California, United States.
+
+PURPOSE: Retinal vascular disease represents a major cause for vision loss in 
+the Western world. Recent research has shown that neuronal and vascular damage 
+are closely related in retinal disease. Ciliary neurotrophic factor (CNTF) is a 
+well-studied neurotrophic factor that is currently being tested in clinical 
+trials for the treatment of retinal degenerative diseases and macular 
+telangiectasia. However, little is known about its effect on retinal 
+vasculature. In this study, we investigate the effects of CNTF in retinal 
+neovascular disease using the mouse model of oxygen-induced retinopathy (OIR).
+METHODS: Newborn pups were exposed to 75% oxygen from postnatal day (P)7 to P12 
+and subsequently returned to room air. Ciliary neurotrophic factor was injected 
+intravitreally at OIR P12 and the vaso-obliterated and neovascular areas were 
+quantified at OIR P17. Immunohistochemistry, RNA, and protein analysis were used 
+to identify CNTF-responsive cells. In vitro experiments were performed to 
+analyze the effect of CNTF on endothelial and astroglial cells.
+RESULTS: In the OIR model, CNTF facilitated capillary regrowth and attenuated 
+preretinal neovascularization in a dose-dependent manner. The protective effect 
+of CNTF was mediated via activation of the JAK/STAT3/SOCS3 signaling pathway. 
+Immunohistochemical studies identified endothelial cells among others as 
+CNTF-responsive cells in the retina. In vitro studies confirmed the 
+anti-angiogenic effect of CNTF on endothelial cell sprouting.
+CONCLUSIONS: This study provides evidence for a therapeutic potential of CNTF 
+beyond degenerative retinal disease. Vasoproliferative retinopathies may benefit 
+from a CNTF-dependent and SOCS3-mediated angiomodulatory effect.
+
+DOI: 10.1167/iovs.15-18508
+PMCID: PMC4986766
+PMID: 27494343 [Indexed for MEDLINE]
+
+
+8. Cell Mol Life Sci. 2016 Apr;73(7):1457-77. doi: 10.1007/s00018-016-2133-1. Epub 
+2016 Jan 19.
+
+Leptin signalling pathways in hypothalamic neurons.
+
+Kwon O(1)(2), Kim KW(3)(4), Kim MS(5)(6).
+
+Author information:
+(1)Division of Endocrinology and Metabolism, Asan Medical Center, University of 
+Ulsan College of Medicine, 88 Olympic-ro 43-gil, Songpa-gu, Seoul, 05505, Korea.
+(2)Appetite Regulation Laboratory, Asan Institute for Life Science, Seoul, 
+05505, Korea.
+(3)Department of Pharmacology, Yonsei University Wonju College of Medicine, 
+Wonju, 26426, Korea.
+(4)Department of Global Medical Science, Yonsei University Wonju College of 
+Medicine, Wonju, 26426, Korea.
+(5)Division of Endocrinology and Metabolism, Asan Medical Center, University of 
+Ulsan College of Medicine, 88 Olympic-ro 43-gil, Songpa-gu, Seoul, 05505, Korea. 
+mskim@amc.seoul.kr.
+(6)Appetite Regulation Laboratory, Asan Institute for Life Science, Seoul, 
+05505, Korea. mskim@amc.seoul.kr.
+
+Leptin is the most critical hormone in the homeostatic regulation of energy 
+balance among those so far discovered. Leptin primarily acts on the neurons of 
+the mediobasal part of hypothalamus to regulate food intake, thermogenesis, and 
+the blood glucose level. In the hypothalamic neurons, leptin binding to the long 
+form leptin receptors on the plasma membrane initiates multiple signaling 
+cascades. The signaling pathways known to mediate the actions of leptin include 
+JAK-STAT signaling, PI3K-Akt-FoxO1 signaling, SHP2-ERK signaling, AMPK 
+signaling, and mTOR-S6K signaling. Recent evidence suggests that leptin 
+signaling in hypothalamic neurons is also linked to primary cilia function. On 
+the other hand, signaling molecules/pathways mitigating leptin actions in 
+hypothalamic neurons have been extensively investigated in an effort to treat 
+leptin resistance observed in obesity. These include SOCS3, tyrosine phosphatase 
+PTP1B, and inflammatory signaling pathways such as IKK-NFκB and JNK signaling, 
+and ER stress-mitochondrial signaling. In this review, we discuss leptin 
+signaling pathways in the hypothalamus, with a particular focus on the most 
+recently discovered pathways.
+
+DOI: 10.1007/s00018-016-2133-1
+PMCID: PMC11108307
+PMID: 26786898 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+9. Cell. 2016 Jan 14;164(1-2):219-232. doi: 10.1016/j.cell.2015.11.036.
+
+Restoration of Visual Function by Enhancing Conduction in Regenerated Axons.
+
+Bei F(1), Lee HHC(1), Liu X(1), Gunner G(1), Jin H(2), Ma L(1), Wang C(1), Hou 
+L(3), Hensch TK(4), Frank E(5), Sanes JR(6), Chen C(1), Fagiolini M(7), He Z(8).
+
+Author information:
+(1)F.M. Kirby Neurobiology Center, Department of Neurology, Children's Hospital, 
+Harvard Medical School, 300 Longwood Avenue, Boston, MA 02115, USA.
+(2)F.M. Kirby Neurobiology Center, Department of Neurology, Children's Hospital, 
+Harvard Medical School, 300 Longwood Avenue, Boston, MA 02115, USA; Department 
+of Neurosurgery, ChangZheng Hospital, 415 FengYang Road, Shanghai 200003, China.
+(3)Department of Neurosurgery, ChangZheng Hospital, 415 FengYang Road, Shanghai 
+200003, China.
+(4)F.M. Kirby Neurobiology Center, Department of Neurology, Children's Hospital, 
+Harvard Medical School, 300 Longwood Avenue, Boston, MA 02115, USA; Department 
+of Molecular and Cellular Biology, Center for Brain Science, Harvard University, 
+52 Oxford Street, Cambridge, MA 02138, USA.
+(5)Department of Physiology, Tufts University, Boston, MA 02111, USA.
+(6)Department of Molecular and Cellular Biology, Center for Brain Science, 
+Harvard University, 52 Oxford Street, Cambridge, MA 02138, USA.
+(7)F.M. Kirby Neurobiology Center, Department of Neurology, Children's Hospital, 
+Harvard Medical School, 300 Longwood Avenue, Boston, MA 02115, USA. Electronic 
+address: michela.fagiolini@childrens.harvard.edu.
+(8)F.M. Kirby Neurobiology Center, Department of Neurology, Children's Hospital, 
+Harvard Medical School, 300 Longwood Avenue, Boston, MA 02115, USA. Electronic 
+address: zhigang.he@childrens.harvard.edu.
+
+Although a number of repair strategies have been shown to promote axon outgrowth 
+following neuronal injury in the mammalian CNS, it remains unclear whether 
+regenerated axons establish functional synapses and support behavior. Here, in 
+both juvenile and adult mice, we show that either PTEN and SOCS3 co-deletion, or 
+co-overexpression of osteopontin (OPN)/insulin-like growth factor 1 
+(IGF1)/ciliary neurotrophic factor (CNTF), induces regrowth of retinal axons and 
+formation of functional synapses in the superior colliculus (SC) but not 
+significant recovery of visual function. Further analyses suggest that 
+regenerated axons fail to conduct action potentials from the eye to the SC due 
+to lack of myelination. Consistent with this idea, administration of 
+voltage-gated potassium channel blockers restores conduction and results in 
+increased visual acuity. Thus, enhancing both regeneration and conduction 
+effectively improves function after retinal axon injury.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2015.11.036
+PMCID: PMC4863988
+PMID: 26771493 [Indexed for MEDLINE]
+
+
+10. Cereb Cortex. 2016 May;26(5):2299-2310. doi: 10.1093/cercor/bhv292. Epub 2015 
+Dec 17.
+
+YAP Is a Critical Inducer of SOCS3, Preventing Reactive Astrogliosis.
+
+Huang Z(1)(2)(3), Wang Y(1)(2)(4), Hu G(5), Zhou J(5), Mei L(1)(2), Xiong 
+WC(1)(2).
+
+Author information:
+(1)Department of Neuroscience and Regenerative Medicine and Department of 
+Neurology.
+(2)Charlie Norwood VA Medical Center, Augusta, GA 30912, USA.
+(3)Institute of Hypoxia Medicine and Institute of Neuroscience, Wenzhou Medical 
+University, Wenzhou, Zhejiang 325035, China.
+(4)Research Center of Blood Transfusion Medicine, Key Laboratory of Laboratory 
+Medicine (Wenzhou Medical University), Ministry of Education, Zhejiang 
+Provincial People's Hospital, Hangzhou, Zhejiang 310014, China.
+(5)Department of Pharmacology and Toxicology, Medical College of Georgia, 
+Georgia Regents University, Augusta, GA 30912, USA.
+
+Yes-associated protein (YAP) is a key transcriptional cofactor of the Hippo 
+pathway, critical for the development of multiple organs. However, its role in 
+the developing brain remains poorly understood. Here, we found that YAP was 
+highly expressed in astrocytes and YAP deletion elevated the astrocytic 
+activation in culture and in vivo, which was associated with microglial 
+activation. At the molecular level, YAP in astrocytes was activated by IFNβ or 
+ciliary neurotrophic factor (CNTF), which was necessary for IFNβ or CNTF 
+induction of the suppressor of cytokine signaling 3 (SOCS3), a negative 
+regulator of the Janus kinase-signal transducer and activator of transcription 
+(JAK-STAT) inflammatory pathway. YAP(-/-) astrocytes thus showed hyperactivation 
+of the JAK-STAT inflammatory pathway and reactive astrogliosis. Expression of 
+SOCS3 in YAP(-/-) astrocytes prevented the hyperactivation of STAT3 and 
+partially restored the astrocytic activation. Finally, reactive astrogliosis was 
+associated with blood-brain barrier dysfunction in YAP brain-selective knockout 
+mice. Taken together, these results identify unrecognized functions of YAP in 
+preventing reactive astrogliosis and reveal a pathway of YAP-SOCS for the 
+negatively control of neuroinflammation.
+
+© The Author 2015. Published by Oxford University Press.
+
+DOI: 10.1093/cercor/bhv292
+PMCID: PMC4830299
+PMID: 26679195 [Indexed for MEDLINE]
+
+
+11. Nat Commun. 2015 Nov 24;6:8074. doi: 10.1038/ncomms9074.
+
+Restoration of skilled locomotion by sprouting corticospinal axons induced by 
+co-deletion of PTEN and SOCS3.
+
+Jin D(1), Liu Y(1), Sun F(1), Wang X(1), Liu X(1), He Z(1).
+
+Author information:
+(1)F.M. Kirby Neurobiology Center, Children's Hospital and Department of 
+Neurology, Harvard Medical School, 300 Longwood Avenue, Boston, Massachusetts 
+02115, USA.
+
+The limited rewiring of the corticospinal tract (CST) only partially compensates 
+the lost functions after stroke, brain trauma and spinal cord injury. Therefore 
+it is important to develop new therapies to enhance the compensatory circuitry 
+mediated by spared CST axons. Here by using a unilateral pyramidotomy model, we 
+find that deletion of cortical suppressor of cytokine signaling 3 (SOCS3), a 
+negative regulator of cytokine-activated pathway, promotes sprouting of 
+uninjured CST axons to the denervated spinal cord. A likely trigger of such 
+sprouting is ciliary neurotrophic factor (CNTF) expressed in local spinal 
+neurons. Such sprouting can be further enhanced by deletion of phosphatase and 
+tensin homolog (PTEN), a mechanistic target of rapamycin (mTOR) negative 
+regulator, resulting in significant recovery of skilled locomotion. Ablation of 
+the corticospinal neurons with sprouting axons abolishes the improved 
+behavioural performance. Furthermore, by optogenetics-based specific CST 
+stimulation, we show a direct limb motor control by sprouting CST axons, 
+providing direct evidence for the reformation of a functional circuit.
+
+DOI: 10.1038/ncomms9074
+PMCID: PMC4662086
+PMID: 26598325 [Indexed for MEDLINE]
+
+
+12. Am J Physiol Endocrinol Metab. 2015 Jul 15;309(2):E142-53. doi: 
+10.1152/ajpendo.00313.2014. Epub 2015 May 12.
+
+Leukemia inhibitory factor increases glucose uptake in mouse skeletal muscle.
+
+Brandt N(1), O'Neill HM(2), Kleinert M(1), Schjerling P(3), Vernet E(4), 
+Steinberg GR(2), Richter EA(1), Jørgensen SB(5).
+
+Author information:
+(1)Molecular Physiology Group, Department of Nutrition, Exercise and Sports, 
+University of Copenhagen, Copenhagen, Denmark;
+(2)Department of Medicine, McMaster University, Hamilton, Ontario, Canada;
+(3)Institute of Sports Medicine, Department of Orthopedic Surgery M, Bispebjerg 
+Hospital and Center for Healthy Aging, Faculty of Health Sciences, University of 
+Copenhagen, Copenhagen, Denmark; and.
+(4)Diabetes Research Unit, Novo Nordisk A/S, Måløv, Denmark.
+(5)Diabetes Research Unit, Novo Nordisk A/S, Måløv, Denmark 
+sbbj@novonordisk.com.
+
+Members of the IL-6 family, IL-6 and ciliary neurotrophic factor (CNTF), have 
+been shown to increase glucose uptake and fatty acid oxidation in skeletal 
+muscle. However, the metabolic effects of another family member, leukemia 
+inhibitory factor (LIF), are not well characterized. Effects of LIF on skeletal 
+muscle glucose uptake and palmitate oxidation and signaling were investigated in 
+ex vivo incubated mouse soleus and EDL muscles from muscle-specific AMPKα2 
+kinase-dead, muscle-specific SOCS3 knockout, and lean and high-fat-fed mice. 
+Inhibitors were used to investigate involvement of specific signaling pathways. 
+LIF increased muscle glucose uptake in dose (50-5,000 pM/l) and time-dependent 
+manners with maximal effects at the 30-min time point. LIF increased Akt 
+Ser(473) phosphorylation (P) in soleus and EDL, whereas AMPK Thr(172) P was 
+unaffected. Incubation with parthenolide abolished LIF-induced glucose uptake 
+and STAT3 Tyr(705) P, whereas incubation with LY-294002 and wortmannin 
+suppressed both basal and LIF-induced glucose uptake and Akt Ser(473) P, 
+indicating that JAK and PI 3-kinase signaling is required for LIF-stimulated 
+glucose uptake. Incubation with rapamycin and AZD8055 indicated that mammalian 
+target of rapamycin complex (mTORC)2, but not mTORC1, also is required for 
+LIF-stimulated glucose uptake. In contrast to CNTF, LIF stimulation did not 
+alter palmitate oxidation. LIF-stimulated glucose uptake was maintained in EDL 
+from obese insulin-resistant mice, whereas soleus developed LIF resistance. Lack 
+of SOCS3 and AMPKα2 did not affect LIF-stimulated glucose uptake. In conclusion, 
+LIF acutely increased muscle glucose uptake by a mechanism potentially involving 
+the PI 3-kinase/mTORC2/Akt pathway and is not impaired in EDL muscle from obese 
+insulin-resistant mice.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/ajpendo.00313.2014
+PMID: 25968579 [Indexed for MEDLINE]
+
+
+13. Proc Natl Acad Sci U S A. 2014 Sep 2;111(35):E3641-9. doi: 
+10.1073/pnas.1409781111. Epub 2014 Aug 18.
+
+IL-6/STAT3 promotes regeneration of airway ciliated cells from basal stem cells.
+
+Tadokoro T(1), Wang Y(2), Barak LS(1), Bai Y(1), Randell SH(2), Hogan BL(3).
+
+Author information:
+(1)Department of Cell Biology, Duke University Medical Center, Durham, NC 27710; 
+and.
+(2)Department of Cell Biology and Physiology, and Cystic Fibrosis/Pulmonary 
+Research and Treatment Center, University of North Carolina at Chapel Hill, 
+Chapel Hill, NC 27599.
+(3)Department of Cell Biology, Duke University Medical Center, Durham, NC 27710; 
+and brigid.hogan@dm.duke.edu.
+
+The pseudostratified airway epithelium of the lung contains a balanced 
+proportion of multiciliated and secretory luminal cells that are maintained and 
+regenerated by a population of basal stem cells. However, little is known about 
+how these processes are modulated in vivo, and about the potential role of 
+cytokine signaling between stem and progenitor cells and their niche. Using a 
+clonal 3D organoid assay, we found that IL-6 stimulated, and Stat3 inhibitors 
+reduced, the generation of ciliated vs. secretory cells from basal cells. 
+Gain-of-function and loss-of-function studies with cultured mouse and human 
+basal cells suggest that IL-6/Stat3 signaling promotes ciliogenesis at multiple 
+levels, including increases in multicilin gene and forkhead box protein J1 
+expression and inhibition of the Notch pathway. To test the role of IL-6 in vivo 
+genetically, we followed the regeneration of mouse tracheal epithelium after 
+ablation of luminal cells by inhaled SO2. Stat3 is activated in basal cells and 
+their daughters early in the repair process, correlating with an increase in 
+Il-6 expression in platelet-derived growth factor receptor alpha(+) mesenchymal 
+cells in the stroma. Conditional deletion in basal cells of suppressor of 
+cytokine signaling 3, encoding a negative regulator of the Stat3 pathway, 
+results in an increase in multiciliated cells at the expense of secretory and 
+basal cells. By contrast, Il-6 null mice regenerate fewer ciliated cells and an 
+increased number of secretory cells after injury. The results support a model in 
+which IL-6, produced in the reparative niche, functions to enhance the 
+differentiation of basal cells, and thereby acts as a "friend" to promote airway 
+repair rather than a "foe."
+
+DOI: 10.1073/pnas.1409781111
+PMCID: PMC4156689
+PMID: 25136113 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+14. Int J Biochem Cell Biol. 2014 Nov;56:66-73. doi: 10.1016/j.biocel.2014.04.018. 
+Epub 2014 May 4.
+
+Cyclic AMP and the regeneration of retinal ganglion cell axons.
+
+Hellström M(1), Harvey AR(2).
+
+Author information:
+(1)School of Anatomy, Physiology and Human Biology, The University of Western 
+Australia, Crawley, WA 6009, Australia.
+(2)School of Anatomy, Physiology and Human Biology, The University of Western 
+Australia, Crawley, WA 6009, Australia. Electronic address: 
+alan.harvey@uwa.edu.au.
+
+In this paper we present a brief review of studies that have reported 
+therapeutic benefits of elevated cAMP on plasticity and regeneration after 
+injury to the central nervous system (CNS). We also provide new data on the 
+cellular mechanisms by which elevation of cyclic adenosine monophosphate (cAMP) 
+promotes cytokine driven regeneration of adult CNS axons, using the visual 
+system as the experimental model. cAMP is a second messenger for many 
+intracellular signalling pathways. Elevation of cAMP in the eye by intravitreal 
+injection of the cell permeant analogue 
+(8-(4-chlorophenylthio)-adenosine-3',5'-cyclic monophosphate; CPT-cAMP), when 
+added to recombinant ciliary neurotrophic factor (rCNTF), significantly enhances 
+rCNTF-induced regeneration of adult rat retinal ganglion cell (RGC) axons into 
+peripheral nerve (PN) grafted onto transected optic nerve. This effect is 
+mediated to some extent by protein kinase A (PKA) signalling, but CPT-cAMP also 
+acts via PI3K/Akt signalling to reduce suppressor of cytokine signalling protein 
+3 (SOCS3) activity in RGCs. Another target for cAMP is the exchange protein 
+activated by cAMP (Epac), which can also mediate cAMP-induced axonal growth. 
+Here we describe some novel results and discuss to what extent the 
+pro-regenerative effects of CPT-cAMP on adult RGCs are mediated via Epac as well 
+as via PKA-dependent pathways. We used the established PN-optic nerve graft 
+model and quantified the survival and regenerative growth of adult rat RGCs 
+after intravitreal injection of rCNTF in combination with a selective activator 
+of PKA and/or a specific activator of Epac. Viable RGCs were identified by 
+βIII-tubulin immunohistochemistry and regenerating RGCs retrogradely labelled 
+and quantified after an injection of fluorogold into the distal end of the PN 
+grafts, 4 weeks post-transplantation. The specific agonists of either PKA or 
+Epac were both effective in enhancing the effects of rCNTF on RGC axonal 
+regeneration, but interestingly, injections that combined rCNTF with both 
+agonists were significantly less effective. The results are discussed in 
+relation to previous CPT-cAMP studies on RGCs, and we also consider the need to 
+modulate cAMP levels in order to obtain the most functionally effective 
+regenerative response after CNS trauma. This article is part of a directed issue 
+entitled: Regenerative Medicine: the challenge of translation.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biocel.2014.04.018
+PMID: 24796847 [Indexed for MEDLINE]
+
+
+15. Neurotoxicology. 2013 Sep;38:91-100. doi: 10.1016/j.neuro.2013.06.008. Epub 2013 
+Jul 8.
+
+Low level methylmercury enhances CNTF-evoked STAT3 signaling and glial 
+differentiation in cultured cortical progenitor cells.
+
+Jebbett NJ(1), Hamilton JW, Rand MD, Eckenstein F.
+
+Author information:
+(1)University of Vermont, Department of Neurological Sciences, Burlington, VT, 
+United States.
+
+Although many previous investigations have studied how mercury compounds cause 
+cell death, sub-cytotoxic levels may affect mechanisms essential for the proper 
+development of the nervous system. The present study investigates whether low 
+doses of methylmercury (MeHg) and mercury chloride (HgCl2) can modulate the 
+activity of JAK/STAT signaling, a pathway that promotes gliogenesis. We report 
+that sub-cytotoxic doses of MeHg enhance ciliary neurotrophic factor (CNTF) 
+evoked STAT3 phosphorylation in human SH-SY5Y neuroblastoma and mouse cortical 
+neural progenitor cells (NPCs). This effect is specific for MeHg, since HgCl2 
+fails to enhance JAK/STAT signaling. Exposing NPCs to these low doses of MeHg 
+(30-300nM) enhances CNTF-induced expression of STAT3-target genes such as glial 
+fibrillary acidic protein (GFAP) and suppressors of cytokine signaling 3 
+(SOCS3), and increases the proportion of cells expressing GFAP following 2 days 
+of differentiation. Higher, near-cytotoxic concentrations of MeHg and HgCl2 
+inhibit STAT3 phosphorylation and lead to increased production of superoxide. 
+Lower concentrations of MeHg effective in enhancing JAK/STAT signaling (30nM) do 
+not result in a detectable increase in superoxide nor increased expression of 
+the oxidant-responsive genes, heme oxygenase 1, heat shock protein A5 and 
+sirtuin 1. These findings suggest that low concentrations of MeHg 
+inappropriately enhance STAT3 phosphorylation and glial differentiation, and 
+that the mechanism causing this enhancement is distinct from the reactive oxygen 
+species-associated cell death observed at higher concentrations of MeHg and 
+HgCl2.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuro.2013.06.008
+PMCID: PMC3802548
+PMID: 23845766 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have no 
+conflict of interest to declare.
+
+
+16. J Biol Chem. 2012 Dec 7;287(50):41628-39. doi: 10.1074/jbc.M112.358788. Epub 
+2012 Oct 4.
+
+Ciliary neurotrophic factor protects mice against streptozotocin-induced type 1 
+diabetes through SOCS3: the role of STAT1/STAT3 ratio in β-cell death.
+
+Rezende LF(1), Santos GJ, Carneiro EM, Boschero AC.
+
+Author information:
+(1)Department of Structural and Functional Biology Institute of Biology State 
+University of Campinas (UNICAMP), P.O. Box 6109, Campinas, Sao Paulo 13083-865, 
+Brazil. luizbio@gmail.com
+
+Type 1 diabetes is characterized by a loss of islet β-cells. Ciliary 
+neurotrophic factor (CNTF) protects pancreatic islets against cytokine-induced 
+apoptosis. For this reason, we assessed whether CNTF protects mice against 
+streptozotocin-induced diabetes (a model of type 1 diabetes) and the mechanism 
+for this protection. WT and SOCS3 knockdown C57BL6 mice were treated for 5 days 
+with citrate buffer or 0.1 mg/kg CNTF before receiving 80 mg/kg streptozotocin. 
+Glycemia in non-fasted mice was measured weekly from days 0-28 after 
+streptozotocin administration. Diabetes was defined as a blood glucose > 11.2 
+mmol/liter. Wild-type (WT) and SOCS3 knockdown MIN6 cells were cultured with 
+CNTF, IL1β, or both. CNTF reduced diabetes incidence and islet apoptosis in WT 
+but not in SOCS3kd mice. Likewise, CNTF inhibited apoptosis in WT but not in 
+SOCS3kd MIN6 cells. CNTF increased STAT3 phosphorylation in WT and SOCS3kd mice 
+and MIN6 cells but reduced STAT1 phosphorylation only in WT mice, in contrast to 
+streptozotocin and IL1β. Moreover, CNTF reduced NFκB activation and required 
+down-regulation of inducible NO synthase expression to exert its protective 
+effects. In conclusion, CNTF protects mice against streptozotocin-induced 
+diabetes by increasing pancreatic islet survival, and this protection depends on 
+SOCS3. In addition, SOCS3 expression and β-cell fate are dependent on 
+STAT1/STAT3 ratio.
+
+DOI: 10.1074/jbc.M112.358788
+PMCID: PMC3516714
+PMID: 23038263 [Indexed for MEDLINE]
+
+
+17. Growth Factors. 2012 Aug;30(4):207-19. doi: 10.3109/08977194.2012.687375. Epub 
+2012 May 11.
+
+The biology and mechanism of action of suppressor of cytokine signaling 3.
+
+Babon JJ(1), Nicola NA.
+
+Author information:
+(1)The Walter and Eliza Hall Institute of Medical Research, Parkville, VIC 3052, 
+Australia. babon@wehi.edu.au
+
+Suppressors of cytokine signaling 3 (SOCS3) has been shown to be an important 
+and non-redundant feedback inhibitor of several cytokines including leukemia 
+inhibitory factor, IL-6, IL-11, Ciliary neurotrophic factor (CNTF), leptin, and 
+granulocyte colony-stimulating factor (G-CSF). Loss of SOCS3 in vivo has 
+profound effects on placental development, inflammation, fat-induced weight 
+gain, and insulin sensitivity. SOCS3 expression is induced by Janus kinase 
+(JAK)/signal transducers and activators of transcription (STAT) signaling and it 
+then binds to specific cytokine receptors (including gp130, G-CSF, and leptin 
+receptors). SOCS3 then inhibits JAK/STAT signaling in two distinct ways. First, 
+SOCS3 is able to directly inhibit the catalytic activity of JAK1, JAK2, or TYK2 
+while remaining bound to the cytokine receptor. Second, SOCS3 recruits elongins 
+B/C and Cullin5 to generate an E3 ligase that ubiquitinates both JAK and 
+cytokine receptor targeting them for proteasomal degradation. Detailed in vivo 
+studies have revealed that SOCS3 action not only limits the duration of cytokine 
+signaling to prevent overactivity but it is also important in maintaining the 
+specificity of cytokine signaling.
+
+DOI: 10.3109/08977194.2012.687375
+PMCID: PMC3757090
+PMID: 22574771 [Indexed for MEDLINE]
+
+
+18. Mol Cell Neurosci. 2011 Feb;46(2):507-15. doi: 10.1016/j.mcn.2010.12.003. Epub 
+2010 Dec 9.
+
+Negative impact of rAAV2 mediated expression of SOCS3 on the regeneration of 
+adult retinal ganglion cell axons.
+
+Hellström M(1), Muhling J, Ehlert EM, Verhaagen J, Pollett MA, Hu Y, Harvey AR.
+
+Author information:
+(1)School of Anatomy and Human Biology, The University of Western Australia, 
+Crawley, WA, Australia.
+
+Intravitreal injections of recombinant ciliary neurotrophic factor (rCNTF) 
+protect adult rat retinal ganglion cells (RGCs) after injury and stimulate 
+regeneration, an effect enhanced by co-injection with a cAMP analogue 
+(CPT-cAMP). This effect is partly mediated by PKA and associated signaling 
+pathways, but CPT-cAMP also moderates upregulation of suppressor of cytokine 
+signaling (SOCS) pathways after rCNTF injection, which will also enhance the 
+responsiveness of RGCs to this and perhaps other cytokines. We now report that 
+intravitreal injections of CPT-cAMP do not potentiate RGC axonal regeneration 
+when CNTF is expressed via an adeno-associated viral vector (rAAV2), and 
+concomitantly we show that increases in retinal SOCS mRNA expression are less 
+when CNTF is delivered using the vector. We also directly tested the impact of 
+elevated SOCS3 expression on the survival and regeneration of injured adult RGCs 
+by injecting a bicistronic rAAV2-SOCS3-GFP vector into the vitreous of eyes in 
+rats with a peripheral nerve graft sutured onto the cut optic nerve. 
+Overexpression of SOCS3 resulted in an overall reduction in axonal regrowth and 
+almost complete regeneration failure of RGCs transduced with the rAAV2-SOCS3-GFP 
+vector. Furthermore, rAAV2-mediated expression of SOCS3 abolished the normally 
+neurotrophic effects elicited by intravitreal rCNTF injections. In summary, CNTF 
+delivery to the retina using viral vectors may be more effective than bolus 
+rCNTF injections because the gene therapy approach has a less pronounced effect 
+on neuron-intrinsic SOCS repressor pathways. Our new gain of function data using 
+rAAV2-SOCS3-GFP demonstrate the negative impact of enhanced SOCS3 expression on 
+the regenerative potential of mature CNS neurons.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcn.2010.12.003
+PMID: 21145973 [Indexed for MEDLINE]
+
+
+19. J Leukoc Biol. 2010 Dec;88(6):1145-56. doi: 10.1189/jlb.0410217. Epub 2010 Jul 
+7.
+
+gp130 at the nexus of inflammation, autoimmunity, and cancer.
+
+Silver JS(1), Hunter CA.
+
+Author information:
+(1)Department of Pathobiology, School of Veterinary Medicine, University of 
+Pennsylvania, Philadelphia, PA 19143, USA.
+
+Glycoprotein 130 (gp130) is a shared receptor utilized by several related 
+cytokines, including IL-6, IL-11, IL-27, Leukemia Inhibitory Factor (LIF), 
+Oncostatin M (OSM), Ciliary Neurotrophic Factor (CNTF), Cardiotrophin 1 (CT-1) 
+and Cardiotrophin-like Cytokine (CLC). Gp130 plays critical roles during 
+development and gp130-deficient mice are embryonically lethal. However, the best 
+characterized facet of this receptor and its associated cytokines is the ability 
+to promote or suppress inflammation. The aim of this review is to discuss the 
+role of gp130 in promoting or preventing the development of autoimmunity and 
+cancer, two processes that are associated with aberrant inflammatory responses.
+
+DOI: 10.1189/jlb.0410217
+PMCID: PMC2996896
+PMID: 20610800 [Indexed for MEDLINE]
+
+
+20. Neuron. 2009 Dec 10;64(5):617-23. doi: 10.1016/j.neuron.2009.11.021.
+
+SOCS3 deletion promotes optic nerve regeneration in vivo.
+
+Smith PD(1), Sun F, Park KK, Cai B, Wang C, Kuwako K, Martinez-Carrasco I, 
+Connolly L, He Z.
+
+Author information:
+(1)F.M. Kirby Neurobiology Center, Children's Hospital, and Department of 
+Neurology, Harvard Medical School, 300 Longwood Avenue, Boston, MA 02115, USA.
+
+Comment in
+    Neuron. 2009 Dec 10;64(5):591-2. doi: 10.1016/j.neuron.2009.11.027.
+
+Axon regeneration failure accounts for permanent functional deficits following 
+CNS injury in adult mammals. However, the underlying mechanisms remain elusive. 
+In analyzing axon regeneration in different mutant mouse lines, we discovered 
+that deletion of suppressor of cytokine signaling 3 (SOCS3) in adult retinal 
+ganglion cells (RGCs) promotes robust regeneration of injured optic nerve axons. 
+This regeneration-promoting effect is efficiently blocked in SOCS3-gp130 
+double-knockout mice, suggesting that SOCS3 deletion promotes axon regeneration 
+via a gp130-dependent pathway. Consistently, a transient upregulation of ciliary 
+neurotrophic factor (CNTF) was observed within the retina following optic nerve 
+injury. Intravitreal application of CNTF further enhances axon regeneration from 
+SOCS3-deleted RGCs. Together, our results suggest that compromised 
+responsiveness to injury-induced growth factors in mature neurons contributes 
+significantly to regeneration failure. Thus, developing strategies to modulate 
+negative signaling regulators may be an efficient strategy of promoting axon 
+regeneration after CNS injury.
+
+DOI: 10.1016/j.neuron.2009.11.021
+PMCID: PMC2796263
+PMID: 20005819 [Indexed for MEDLINE]
+
+
+21. Mol Cell Neurosci. 2009 Jul;41(3):313-24. doi: 10.1016/j.mcn.2009.04.002. Epub 
+2009 Apr 24.
+
+Cytokine-induced SOCS expression is inhibited by cAMP analogue: impact on 
+regeneration in injured retina.
+
+Park KK(1), Hu Y, Muhling J, Pollett MA, Dallimore EJ, Turnley AM, Cui Q, Harvey 
+AR.
+
+Author information:
+(1)School of Anatomy and Human Biology M309, The University of Western 
+Australia, 35 Stirling Highway, Crawley, Perth, WA 6009, Australia.
+
+Injured adult retinal ganglion cells (RGCs) regrow axons into peripheral nerve 
+(PN) grafted onto cut optic nerve. Survival and regeneration of RGCs is 
+increased by intraocular injections of ciliary neurotrophic factor (CNTF) and 
+axonal regeneration is further enhanced by co-injection of a cyclic AMP analogue 
+(CPT-cAMP). Based on these data, and because cytokine signaling is negatively 
+regulated by suppressor of cytokine signaling (SOCS) proteins, we set out to 
+determine whether CNTF injections increase retinal SOCS expression and whether 
+any changes are attenuated by co-injection with CPT-cAMP. Using quantitative PCR 
+we found increased SOCS1, SOCS2 and SOCS3 mRNA levels at various times after a 
+single CNTF injection. Expression remained high for many days. SOCS protein 
+levels were also increased. In situ hybridization revealed that RGCs express 
+SOCS3 mRNA, and SOCS expression in cultured RGCs was increased by CNTF. 
+Co-injection of CPT-cAMP reduced CNTF induced expression of SOCS1 and SOCS3 mRNA 
+and decreased SOCS3 protein expression. CNTF injection also transiently 
+increased retinal leukemia inhibitory factor (LIF) expression, an effect that 
+was also moderated by CPT-cAMP. We propose that, along with known reparative 
+effects of elevated cAMP on neurons, reducing SOCS upregulation may be an 
+additional way in which cyclic nucleotides augment cytokine-induced regenerative 
+responses in the injured CNS.
+
+DOI: 10.1016/j.mcn.2009.04.002
+PMID: 19394427 [Indexed for MEDLINE]
+
+
+22. Int J Dev Biol. 2009;53(7):947-53. doi: 10.1387/ijdb.092869nr.
+
+Activated Notch1 is a stronger astrocytic stimulus than leukemia inhibitory 
+factor for rat neural stem cells.
+
+Rodríguez-Rivera NS(1), Molina-Hernández A, Sánchez-Cruz E, Escalante-Alcalde D, 
+Velasco I.
+
+Author information:
+(1)Departamento de Neurociencias, Instituto de Fisiologia Celular, Universidad 
+Nacional Autonoma de Mexico, Mexico.
+
+Neural stem cells (NSC) self-renew and generate specialized cell types. There 
+are reports indicating that Notch and Leukemia Inhibitory Factor (LIF) signaling 
+are involved in cell determination of NSC, either preventing differentiation or 
+promoting astrocytic fate. In this work, we aimed to compare the astrocytogenic 
+effect of activated Notch with that induced by LIF. To this end, rat cerebral 
+cortex neural progenitors/NSC were transduced with retroviral vectors in order 
+to express green fluorescent protein (GFP), or a fusion protein of GFP with the 
+active Notch1 intracellular domain (NICD). In parallel, other cultures were 
+treated with increasing concentrations of LIF. We confirmed, in proliferating 
+NSC, that LIF activated intracellular effectors by measuring STAT3 
+phosphorylation and Socs3 transcription. In NICD-expressing cells, Hes5 mRNA was 
+induced, an effect not present in GFP-transduced NSC. We quantified the 
+proportion of cells expressing Nestin in the presence of Fibroblast Growth 
+Factor-2 (FGF-2) with LIF or NICD treatments. LIF significantly increased the 
+proportion of cells co-expresssing Nestin and Glial Fibrillary Acidic Protein 
+(GFAP), an effect absent in cells with activated Notch. After FGF2 withdrawal to 
+promote differentiation, Nestin was markedly down-regulated, and neuronal and 
+glial markers appeared in control cultures. LIF treatment caused a significant 
+increase in the proportion of GFAP-positive cells, but cells expressing NICD 
+showed a significantly higher percentage of astrocytes than control and 
+LIF-treated cultures. These experiments show that cells stimulated with NICD 
+differentiate more readily to astrocytes than LIF-treated NSC.
+
+DOI: 10.1387/ijdb.092869nr
+PMID: 19378247 [Indexed for MEDLINE]
+
+
+23. Cytokine. 2009 Apr;46(1):65-71. doi: 10.1016/j.cyto.2008.12.014. Epub 2009 Mar 
+9.
+
+Ciliary neurotrophic factor (CNTF) signals through STAT3-SOCS3 pathway and 
+protects rat pancreatic islets from cytokine-induced apoptosis.
+
+Rezende LF(1), Vieira AS, Negro A, Langone F, Boschero AC.
+
+Author information:
+(1)Department of Physiology and Biophysics, State University of Campinas, 
+Brazil.
+
+CNTF is a cytokine that promotes survival and/or differentiation in many cell 
+types, including rat pancreatic islets. In this work, we studied the mechanism 
+of CNTF signal in neonatal rats pancreatic islets isolated by the collagenase 
+method and cultured for 3 days in RPMI medium without (CTL) or with 1 nM of 
+CNTF. The medium contained, when necessary, specific inhibitors of the PI3K, 
+MAPK and JAK/STAT3 pathways. mRNA expression (RT-PCR) and protein 
+phosphorylation (Western blot) of Akt, ERK1/2 and STAT3, and SOCS-3 (RT-PCR and 
+Western blot), as well as glucose-stimulated insulin secretion (GSIS) 
+(Radioimmunoassay), were analyzed. Our results showed that Akt, ERK1 and STAT3 
+mRNA expression, as well as phosphorylated Akt and ERK1/2, was not affected by 
+CNTF treatment. CNTF increased cytoplasmatic and nuclear phosphorylated STAT3, 
+and the SOCS3 mRNA and protein expression. In addition, CNTF lowered apoptosis 
+and impaired GSIS. These effects were blocked by the JAK inhibitor, AG490 and by 
+the STAT3 inhibitor Curcumin, but not by the MAPK inhibitor, PD98059, nor by the 
+PI3K inhibitor, Wortmannin. In conclusion, CNTF signals through the JAK2/STAT3 
+cascade, increases SOCS3 expression, impairs GSIS and protects neonatal 
+pancreatic rat islets from cytokine-induced apoptosis. These findings indicate 
+that CNTF may be a potential therapeutic tool against Type 1 and/or Type 2 
+diabetes.
+
+DOI: 10.1016/j.cyto.2008.12.014
+PMID: 19272793 [Indexed for MEDLINE]
+
+
+24. Stem Cells. 2009 Feb;27(2):431-41. doi: 10.1634/stemcells.2008-0234.
+
+Neurogenesis in the dentate gyrus depends on ciliary neurotrophic factor and 
+signal transducer and activator of transcription 3 signaling.
+
+Müller S(1), Chakrapani BP, Schwegler H, Hofmann HD, Kirsch M.
+
+Author information:
+(1)Institute of Anatomy and Cell Biology, University of Freiburg, Freiburg, 
+Germany.
+
+In the neurogenic areas of the adult rodent brain, neural stem cells (NSCs) 
+proliferate and produce new neurons throughout the lifetime. This requires a 
+permanent pool of NSCs, the size of which needs to be tightly controlled. The 
+gp130-associated cytokines ciliary neurotrophic factor (CNTF) and leukemia 
+inhibitory factor (LIF) have been implicated in regulating NSC self-renewal and 
+differentiation during embryonic development and in the adult brain. To study 
+the relevance of the two cytokines in vivo, we analyzed precursor cell 
+proliferation and neurogenesis in the dentate gyrus of CNTF- and LIF-deficient 
+mouse mutants. The number of radial glia-like NSCs, proliferative activity, and 
+generation of new neurons were all reduced in CNTF(-/-) mutants but unaltered in 
+LIF(-/-) animals. Conditional ablation of the signal transducer and activator of 
+transcription 3 (STAT3) gene under the control of the human glial fibrillary 
+acidic protein promoter resulted in a reduction of neurogenesis similar to that 
+in CNTF(-/-) mice. The size of the granule cell layer was decreased in both 
+mutants. Treatment of neurosphere cultures prepared from adult forebrain with 
+CNTF inhibited overall proliferative activity but increased the number of NSCs 
+as indicated by enhanced secondary neurosphere formation and upregulated 
+expression of stem cell markers. Knockdown of STAT3 with short interfering RNA 
+inhibited CNTF effects on neurospheres, and knockdown of suppressor of cytokine 
+signaling 3 (SOCS3) enhanced them. Our results provide evidence that 
+CNTF-induced STAT3 signaling is essential for the formation and/or maintenance 
+of the neurogenic subgranular zone in the adult dentate gyrus and suggest that 
+CNTF is required to keep the balance between NSC self-renewal and the generation 
+of neuronal progenitors.
+
+DOI: 10.1634/stemcells.2008-0234
+PMID: 19023034 [Indexed for MEDLINE]
+
+
+25. Endocrinology. 2009 Mar;150(3):1182-91. doi: 10.1210/en.2008-1097. Epub 2008 Nov 
+13.
+
+Leptin but not ciliary neurotrophic factor (CNTF) induces phosphotyrosine 
+phosphatase-1B expression in human neuronal cells (SH-SY5Y): putative 
+explanation of CNTF efficacy in leptin-resistant state.
+
+Benomar Y(1), Berthou F, Vacher CM, Bailleux V, Gertler A, Djiane J, Taouis M.
+
+Author information:
+(1)Neuroendocrinologie Moléculaire de la Prise Alimentaire, Unité Mixte de 
+Recherche 1197, Université Paris-Sud 11, Institut National de la Recherche 
+Agronomique, Orsay, France.
+
+Growing evidences suggest that obesity is associated with hypothalamic leptin 
+resistance, leading to the alteration of food intake control. Alternative 
+treatment using ciliary neurotrophic factor (CNTF) has been suggested because 
+CNTF exerts a leptin-like effect, even in leptin-resistant states, but the 
+mechanisms by which CNTF maintains this effect are not yet understood. Both 
+leptin and CNTF act in the hypothalamus through similar signaling pathways 
+including janus kinase-2/signal transducer and activator of transcription 
+(STAT)-3 pathway. To explore the differences and interactions between leptin and 
+CNTF signaling pathways, differentiated human neuroblastoma cells (SH-SY5Y) were 
+exposed to either leptin or CNTF and then challenged for each cytokine. Leptin 
+pretreatment completely abolished leptin-dependent STAT-3 and ERK 1/2 
+phosphorylations without affecting CNTF action. The lack of 
+cross-desensitization between leptin and CNTF signaling pathways occurred 
+despite the induction of suppressor of cytokine signaling-3 in response to both 
+cytokines. Interestingly, leptin as well as insulin induced the expression of 
+phosphotyrosine phosphatase (PTP)-1B, whereas CNTF treatment did not affect its 
+expression. In addition, acute leptin treatment but not CNTF induced PTP-1B 
+expression in mouse hypothalamic arcuate nucleus. Furthermore, the 
+overexpression of human PTP-1B in SH-SY5Y cells completely abolished leptin- and 
+insulin-dependent janus kinase-2, STAT-3, and ERK 1/2 phosphorylations, but CNTF 
+action was not altered. Collectively, our results suggest that PTP-1B 
+constitutes a key divergent element between leptin/insulin and CNTF signaling 
+pathways at the neuronal level, which may constitute a possible mechanism that 
+explains the efficacy of CNTF in leptin-resistant states.
+
+DOI: 10.1210/en.2008-1097
+PMID: 19008309 [Indexed for MEDLINE]
+
+
+26. Biofactors. 2007;31(2):133-44. doi: 10.1002/biof.5520310204.
+
+Gene expression in arcuate nucleus-median eminence of rats treated with leptin 
+or ciliary neurotrophic factor.
+
+Ambati S(1), Duan J, Duff E, Choi YH, Hartzell DL, Della-Fera MA, Baile CA.
+
+Author information:
+(1)Department of Animal and Dairy Science, University of Georgia, Athens, GA 
+30602-2771, USA.
+
+Ciliary neurotrophic factor (CNTF) and leptin are cytokine-like% hormones and 
+act on their corresponding receptors in the hypothalamic arcuate nucleus (ARC). 
+The present study was designed to assess effects of intracerebroventricular 
+(ICV) injection of leptin and CNTF on gene expression in micropunched 
+hypothalamic arcuate nucleus-median eminence (ARC-ME) complex samples from rats. 
+Male Sprague Dawley rats were implanted with lateral cerebroventricular cannulas 
+for administration of control, 10 microg/d leptin or 5 microg/d CNTF for four 
+days. Real-time Taqmantrade mark RT-PCR was used to quantitatively compare the 
+mRNA levels of selected genes in the ARC-ME complex. Leptin and CNTF increased 
+ARC-ME mRNA levels of signal transducer and activator of transcription 3 (STAT3) 
+by 64.5 and 124.7% (p<0.01), suppressor of cytokine signaling 3 (SOCS3) by 258.9 
+and 1063.9% (p<0.01), cocaine and amphetamine regulated transcript (CART) by 
+102.7 and 123.1% (p<0.01), and proopiomelanocortin (POMC2) by 374.1 and 264.9% 
+(p<0.01), respectively. Leptin increased growth hormone releasing hormone (GHRH) 
+by 309.9% (p<0.01), while CNTF increased janus kinase 2 (JAK2) mRNA by 31.7% 
+(p<0.01) and decreased gonadotropin releasing hormone 1 (GNRH1) by 59.7% 
+(p<0.01), mitogen activated protein kinase 1 (MAPK1) by 19.4% (p<0.05) and 
+tyrosine hydroxylase (TH) by 74.5% (p<0.05). Significant reduction in daily food 
+intake and body weights by both the treatments was observed. Also, decrease in 
+weights of fat pads was concomitant with lowered serum insulin and leptin 
+levels. Our findings show that leptin and CNTF engage both convergent and 
+divergent pathways involved in feeding, cellular signaling, inflammation, and 
+other related regulatory systems.
+
+DOI: 10.1002/biof.5520310204
+PMID: 18806317 [Indexed for MEDLINE]
+
+
+27. J Biol Chem. 2008 Aug 15;283(33):22505-12. doi: 10.1074/jbc.M710462200. Epub 
+2008 Jun 18.
+
+Neuropoietin attenuates adipogenesis and induces insulin resistance in 
+adipocytes.
+
+White UA(1), Stewart WC, Mynatt RL, Stephens JM.
+
+Author information:
+(1)Department of Biological Sciences, Louisiana State University, Baton Rouge, 
+Louisiana 70803, USA.
+
+Recent findings have implicated gp130 receptor ligands, particularly ciliary 
+neurotrophic factor (CNTF), as potential anti-obesity therapeutics. Neuropoietin 
+(NP) is a recently discovered cytokine in the gp130 family that shares 
+functional and structural features with CNTF and signals via the CNTF receptor 
+tripartite complex comprised of CNTFRalpha, LIF receptor, and gp130. NP plays a 
+role in the development of the nervous system, but the effects of NP on 
+adipocytes have not been previously examined. Because CNTF exerts 
+anti-obesogenic effects in adipocytes and NP shares the same receptor complex, 
+we investigated the effects of NP on adipocyte development and insulin action. 
+Using cultured 3T3-L1 adipocytes, we observed that NP has the ability to block 
+adipogenesis in a dose- and time-dependent manner. We also observed that 
+cultured adipocytes, as well as murine adipose tissue, are highly responsive to 
+acute NP treatment. Rodents injected with NP had a substantial increase in STAT3 
+tyrosine phosphorylation and ERK 1 and 2 activation. We also observed the 
+induction of SOCS-3 mRNA in 3T3-L1 adipocytes following NP treatment. Unlike 
+CNTF, our studies have revealed that NP also substantially attenuates 
+insulin-stimulated glucose uptake in 3T3-L1 adipocytes. In addition, NP blocks 
+insulin action in adipose tissue in vivo. These observations are supported by 
+data demonstrating that NP impairs insulin signaling via decreased activation of 
+both IRS-1 and Akt. In summary, we have observed that both adipocytes in vitro 
+and in vivo are highly responsive to NP, and this cytokine has the ability to 
+affect insulin signaling in fat cells. These novel observations suggest that NP, 
+unlike CNTF, may not be a viable obesity therapeutic.
+
+DOI: 10.1074/jbc.M710462200
+PMCID: PMC2504895
+PMID: 18562323 [Indexed for MEDLINE]
+
+
+28. Diabetes. 2008 Jun;57(6):1651-8. doi: 10.2337/db07-1761. Epub 2008 Mar 20.
+
+Suppressors of cytokine-signaling proteins induce insulin resistance in the 
+retina and promote survival of retinal cells.
+
+Liu X(1), Mameza MG, Lee YS, Eseonu CI, Yu CR, Kang Derwent JJ, Egwuagu CE.
+
+Author information:
+(1)Molecular Immunology Section, Laboratory of Immunology, National Eye 
+Institute, National Institutes of Health, Bethesda, Maryland 20892-1857, USA.
+
+OBJECTIVE: Suppressors of cytokine signaling (SOCS) are implicated in the 
+etiology of diabetes, obesity, and metabolic syndrome. Here, we show that some 
+SOCS members are induced, while others are constitutively expressed, in retina 
+and examine whether persistent elevation of SOCS levels in retina by chronic 
+inflammation or cellular stress predisposes to developing insulin resistance in 
+retina, a condition implicated in diabetic retinopathy.
+RESEARCH DESIGN AND METHODS: SOCS-mediated insulin resistance and 
+neuroprotection in retina were investigated in 1) an experimental uveitis model, 
+2) SOCS1 transgenic rats, 3) insulin-deficient diabetic rats, 4) retinal cells 
+depleted of SOCS6 or overexpressing SOCS1/SOCS3, and 5) oxidative stress and 
+light-induced retinal degeneration models.
+RESULTS: We show that constitutive expression of SOCS6 protein in retinal 
+neurons may improve glucose metabolism, while elevated SOCS1/SOCS3 expression 
+during uveitis induces insulin resistance in neuroretina. SOCS-mediated insulin 
+resistance, as indicated by its inhibition of basally active phosphoinositide 
+3-kinase/AKT signaling in retina, is validated in retina-specific SOCS1 
+transgenic rats and retinal cells overexpressing SOCS1/SOCS3. We further show 
+that the SOCS3 level is elevated in retina by oxidative stress, metabolic stress 
+of insulin-deficient diabetes, or light-induced retinal damage and protects 
+ganglion cells from apoptosis, suggesting that upregulation of SOCS3 may be a 
+common physiologic response of neuroretinal cells to cellular stress.
+CONCLUSIONS: Our data suggest two-sided roles of SOCS proteins in retina. 
+Whereas SOCS proteins may improve glucose metabolism, mitigate deleterious 
+effects of inflammation, and promote neuroprotection, persistent SOCS3 
+expression caused by chronic inflammation or cellular stress can induce insulin 
+resistance and inhibit neurotrophic factors, such as ciliary neurotrophic 
+factor, leukemia inhibitory factor, and insulin, that are essential for retinal 
+cell survival.
+
+DOI: 10.2337/db07-1761
+PMCID: PMC2756726
+PMID: 18356406 [Indexed for MEDLINE]
+
+
+29. Mol Cell Neurosci. 2008 Feb;37(2):367-75. doi: 10.1016/j.mcn.2007.10.010. Epub 
+2007 Oct 30.
+
+SOCS3 suppresses AP-1 transcriptional activity in neuroblastoma cells through 
+inhibition of c-Jun N-terminal kinase.
+
+Miao T(1), Wu D, Zhang Y, Bo X, Xiao F, Zhang X, Magoulas C, Subang MC, Wang P, 
+Richardson PM.
+
+Author information:
+(1)Centre for Neuroscience, Queen Mary's School of Medicine, University of 
+London, E1 2AT, London, UK.
+
+Transduction and activation of an inducible form of STAT3 (signal transducer and 
+activator of transcription) sufficed to increase VIP (vasoactive intestinal 
+protein) mRNA concentrations in neuroblastoma cells. Overexpression of SOCS3 
+(suppressor of cytokine signaling) inhibited and mutant SOCS3 (with an 
+inactivating point mutation in amino acid 25) enhanced the induction of VIP mRNA 
+by CNTF (ciliary neurotrophic factor). Because mutant SOCS3 did not augment the 
+increase in STAT transcriptional activity following CNTF stimulation, the 
+enhancement by mutant SOCS3 of the actions of CNTF cannot be attributed to 
+changes in STAT3 signaling. Mutant SOCS3 increased AP-1 (activator protein) 
+transcriptional activity and JNK (c-Jun N-terminal kinase) activity and SOCS3 
+bound to the scaffolding protein, JNK-interacting protein-1: these observations 
+provide a plausible explanation for the enhancement by mutant SOCS3 of the 
+actions of CNTF. We conclude that endogenous SOCS3 inhibits AP-1 activity 
+through blocking of JNK phosphorylation.
+
+DOI: 10.1016/j.mcn.2007.10.010
+PMID: 18055217 [Indexed for MEDLINE]
+
+
+30. Endocr Rev. 2006 Dec;27(7):779-93. doi: 10.1210/er.2006-0041. Epub 2006 Nov 22.
+
+Emerging therapeutic strategies for obesity.
+
+Foster-Schubert KE(1), Cummings DE.
+
+Author information:
+(1)Department of Medicine, Division of Metabolism, Endocrinology and Nutrition, 
+University of Washington, Veterans Administration Puget Sound Health Care 
+System, Seattle, Washington 98108, USA.
+
+The rising tide of obesity is one of the most pressing health issues of our 
+time, yet existing medicines to combat the problem are disappointingly limited 
+in number and effectiveness. Fortunately, a recent burgeoning of mechanistic 
+insights into the neuroendocrine regulation of body weight provides an expanding 
+list of molecular targets for novel, rationally designed antiobesity 
+pharmaceuticals. In this review, we articulate a set of conceptual principles 
+that we feel could help prioritize among these molecules in the development of 
+obesity therapeutics, based on an understanding of energy homeostasis. We focus 
+primarily on central targets, highlighting selected strategies to stimulate 
+endogenous catabolic signals or inhibit anabolic signals. Examples of the former 
+approach include methods to enhance central leptin signaling through intranasal 
+leptin delivery, use of superpotent leptin-receptor agonists, and mechanisms to 
+increase leptin sensitivity by manipulating SOCS-3, PTP-1B, ciliary neurotrophic 
+factor, or simply by first losing weight with traditional interventions. 
+Techniques to augment signaling by neurochemical mediators of leptin action that 
+lie downstream of at least some levels of obesity-associated leptin resistance 
+include activation of melanocortin receptors or 5-HT2C and 5-HT1B receptors. We 
+also describe strategies to inhibit anabolic molecules, such as neuropeptide Y, 
+melanin-concentrating hormone, ghrelin, and endocannabinoids. Modulation of 
+gastrointestinal satiation and hunger signals is discussed as well. As 
+scientists continue to provide fundamental insights into the mechanisms 
+governing body weight, the future looks bright for development of new and better 
+antiobesity medications to be used with diet and exercise to facilitate 
+substantial weight loss.
+
+DOI: 10.1210/er.2006-0041
+PMID: 17122357 [Indexed for MEDLINE]
+
+
+31. Brain Res. 2006 Jun 30;1097(1):31-8. doi: 10.1016/j.brainres.2006.04.067. Epub 
+2006 May 24.
+
+Cerebral preconditioning using cortical application of hypertonic salt 
+solutions: upregulation of mRNAs encoding inhibitors of inflammation.
+
+Muramatsu H(1), Welsh FA, Karikó K.
+
+Author information:
+(1)Department of Neurosurgery, University of Pennsylvania School of Medicine, 
+371 Stemmler Hall, Box 44, 36th and Hamilton Walk, Philadelphia, PA 19104, USA.
+
+Previous studies have demonstrated that local application of hypertonic KCl or 
+NaCl to the cerebral cortex induces tolerance to a subsequent episode of 
+ischemia. The objective of the present study was to determine whether 
+application of these salts increases the levels of mRNAs encoding inhibitors of 
+inflammation. Hypertonic KCl or NaCl was applied for 2 h to the frontal cortex 
+of Sprague-Dawley rats. After recovery periods up to 24 h, levels of selected 
+mRNAs were measured in samples from frontal and parietal cortex using Northern 
+blots. Application of hypertonic KCl caused a rapid and widespread increase in 
+the levels of mRNA coding for tumor necrosis factor (TNF), tristetraprolin 
+(TTP), suppressor of cytokine signaling-3 (SOCS3), and brain-derived 
+neurotrophic factor (BDNF), and a 24-h delayed induction of ciliary neurotrophic 
+factor (CNTF) mRNA. Application of hypertonic NaCl caused alterations in mRNA 
+levels that were restricted to the frontal cortex. In this region, application 
+of NaCl rapidly increased levels of mRNA encoding TNF, TTP, and SOCS3, but not 
+BDNF, and caused a delayed induction of CNTF mRNA. These results raise the 
+possibility that upregulation of inhibitors of inflammation after 
+preconditioning may contribute to the induction of tolerance to ischemia.
+
+DOI: 10.1016/j.brainres.2006.04.067
+PMCID: PMC3619415
+PMID: 16725117 [Indexed for MEDLINE]
+
+
+32. Proc Natl Acad Sci U S A. 2006 May 16;103(20):7859-64. doi: 
+10.1073/pnas.0602574103. Epub 2006 May 8.
+
+Suppressor of cytokine signaling 3 limits protection of leukemia inhibitory 
+factor receptor signaling against central demyelination.
+
+Emery B(1), Cate HS, Marriott M, Merson T, Binder MD, Snell C, Soo PY, Murray S, 
+Croker B, Zhang JG, Alexander WS, Cooper H, Butzkueven H, Kilpatrick TJ.
+
+Author information:
+(1)Department of Neurobiology, Stanford University, Stanford, CA 94305, USA.
+
+Enhancement of oligodendrocyte survival through activation of leukemia 
+inhibitory factor receptor (LIFR) signaling is a candidate therapeutic strategy 
+for demyelinating disease. However, in other cell types, LIFR signaling is under 
+tight negative regulation by the intracellular protein suppressor of cytokine 
+signaling 3 (SOCS3). We, therefore, postulated that deletion of the SOCS3 gene 
+in oligodendrocytes would promote the beneficial effects of LIFR signaling in 
+limiting demyelination. By studying wild-type and LIF-knockout mice, we 
+established that SOCS3 expression by oligodendrocytes was induced by the 
+demyelinative insult, that this induction depended on LIF, and that endogenously 
+produced LIF was likely to be a key determinant of the CNS response to 
+oligodendrocyte loss. Compared with wild-type controls, oligodendrocyte-specific 
+SOCS3 conditional-knockout mice displayed enhanced c-fos activation and 
+exogenous LIF-induced phosphorylation of signal transducer and activator of 
+transcription 3. Moreover, these SOCS3-deficient mice were protected against 
+cuprizone-induced oligodendrocyte loss relative to wild-type animals. These 
+results indicate that modulation of SOCS3 expression could facilitate the 
+endogenous response to CNS injury.
+
+DOI: 10.1073/pnas.0602574103
+PMCID: PMC1472535
+PMID: 16682639 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: No conflicts 
+declared.
+
+
+33. Nat Med. 2006 May;12(5):541-8. doi: 10.1038/nm1383. Epub 2006 Apr 9.
+
+CNTF reverses obesity-induced insulin resistance by activating skeletal muscle 
+AMPK.
+
+Watt MJ(1), Dzamko N, Thomas WG, Rose-John S, Ernst M, Carling D, Kemp BE, 
+Febbraio MA, Steinberg GR.
+
+Author information:
+(1)Cellular and Molecular Metabolism Laboratory, School of Medical Sciences, 
+Royal Melbourne Institute of Technology, PO Box 71, Bundoora, 3083, Australia.
+
+Comment in
+    Nat Med. 2006 May;12(5):511-2. doi: 10.1038/nm0506-511.
+
+Ciliary neurotrophic factor (CNTF) induces weight loss and improves glucose 
+tolerance in humans and rodents. CNTF is thought to act centrally by inducing 
+hypothalamic neurogenesis to modulate food intake and peripherally by altering 
+hepatic gene expression, in a manner similar to that of leptin. Here, we show 
+that CNTF signals through the CNTFRalpha-IL-6R-gp130beta receptor complex to 
+increase fatty-acid oxidation and reduce insulin resistance in skeletal muscle 
+by activating AMP-activated protein kinase (AMPK), independent of signaling 
+through the brain. Thus, our findings further show that the antiobesogenic 
+effects of CNTF in the periphery result from direct effects on skeletal muscle, 
+and that these peripheral effects are not suppressed by diet-induced or genetic 
+models of obesity, an essential requirement for the therapeutic treatment of 
+obesity-related diseases.
+
+DOI: 10.1038/nm1383
+PMID: 16604088 [Indexed for MEDLINE]
+
+
+34. Int Immunol. 2006 Feb;18(2):347-53. doi: 10.1093/intimm/dxh373. Epub 2005 Dec 
+22.
+
+Differential expression of suppressors of cytokine signaling-1 and -3 and 
+related cytokines in central nervous system during remitting versus 
+non-remitting forms of experimental autoimmune encephalomyelitis.
+
+Stark JL(1), Cross AH.
+
+Author information:
+(1)Department of Neurology and Neurosurgery, Washington University School of 
+Medicine, 660 S. Euclid Avenue, Campus Box 8111, Saint Louis, MO 63110, USA. 
+starkj@neuro.wustl.edu
+
+SJL mice exhibit a relapsing-remitting course of experimental autoimmune 
+encephalomyelitis (EAE), whereas C57BL/6 (B6) mice display a more chronic course 
+without complete remissions. Suppressor of cytokine signaling (SOCS)-1 and 
+SOCS-3 are members of a family of inducible intracellular proteins that 
+negatively regulate cytokine signaling in cells of hematopoietic origin and may 
+influence the Th1 to Th2 balance. SOCS-1 and SOCS-3 are induced by cytokines 
+that are known to be up-regulated during EAE, including IFN-gamma (IFN-g) and 
+IL-6, respectively. To test the hypothesis that the level of induction of SOCS-1 
+and SOCS-3 correlates with the course of EAE, mRNA levels were compared in 
+spinal cords of SJL and B6 mice during discrete stages of disease. SOCS-1 and 
+SOCS-3 were elevated throughout active disease in both strains. At peak EAE, 
+SOCS-1 was higher and SOCS-3 was lower in B6 cords compared with SJL cords. This 
+correlated with greater expression of the Th1 cytokine, IFN-g, and less of the 
+Th2 cytokine, IL-10, in B6 cords relative to SJL cords during onset and peak 
+disease. SOCS-3 inducers in the IL-6 family were expressed differentially 
+between the strains. IL-6 and leukemia inhibitory factor were higher at onset in 
+B6 cords whereas ciliary neurotrophic factor was increased in SJL cords during 
+peak disease. Expression of fibroblast growth factor-2, which may be involved in 
+remyelination, was higher in SJL cords at peak. Comparison of these models 
+suggests that cytokine autoregulatory mechanisms involving SOCS may play a role 
+in determining the course of EAE.
+
+DOI: 10.1093/intimm/dxh373
+PMID: 16373362 [Indexed for MEDLINE]
+
+
+35. J Biol Chem. 2005 Oct 7;280(40):33856-63. doi: 10.1074/jbc.M508020200. Epub 2005 
+Aug 11.
+
+Cross-talk among gp130 cytokines in adipocytes.
+
+Zvonic S(1), Baugh JE Jr, Arbour-Reily P, Mynatt RL, Stephens JM.
+
+Author information:
+(1)Department of Biological Sciences, Louisiana State University, Baton Rouge, 
+Louisiana 70803, USA.
+
+The interleukin-6 (IL-6) family of cytokines is a family of structurally and 
+functionally related proteins, including IL-6, IL-11, leukemia inhibitory factor 
+(LIF), oncostatin M (OSM), ciliary neurotrophic factor (CNTF), and 
+cardiotrophin-1 (CT-1). These proteins are also known as gp130 cytokines because 
+they all share gp130 as a common transducer protein within their functional 
+receptor complexes. Several of these cytokines (LIF, OSM, CNTF, and CT-1) also 
+utilize the LIF receptor (LIFR) as a component of their receptor complex. We 
+have shown that all of these cytokines are capable of activating both the 
+JAK/STAT and p42/44 mitogen-activated protein kinase signaling pathways in 
+3T3-L1 adipocytes. By performing a variety of preincubation studies and 
+examining the ability of these cytokines to activate STATs, ERKs, and induce 
+transcription of SOCS-3 mRNA, we have also examined the ability of gp130 
+cytokines to modulate the action of their family members. Our results indicate 
+that a subset of gp130 cytokines, in particular CT-1, LIF, and OSM, has the 
+ability to impair subsequent signaling activity initiated by gp130 cytokines. 
+However, IL-6 and CNTF do not exhibit this cross-talk ability. Moreover, our 
+results indicate that the cross-talk among gp130 cytokines is mediated by the 
+ability of these cytokines to induce ligand-dependent degradation of the LIFR, 
+in a proteasome-independent manner, which coincides with decreased levels of 
+LIFR at the plasma membrane. In summary, our results demonstrate that an 
+inhibitory cross-talk among specific gp130 cytokines in 3T3-L1 adipocytes occurs 
+as a result of specific degradation of LIFR via a lysosome-mediated pathway.
+
+DOI: 10.1074/jbc.M508020200
+PMID: 16096272 [Indexed for MEDLINE]
+
+
+36. J Neuroendocrinol. 2005 May;17(5):286-91. doi: 10.1111/j.1365-2826.2005.01309.x.
+
+Expression of functional ciliary neurotrophic factor receptors in immortalized 
+gonadotrophin-releasing hormone-secreting neurones.
+
+Dozio E(1), Watanobe H, Ruscica M, Maggi R, Motta M, Magni P.
+
+Author information:
+(1)Department of Endocrinology, Centre of Excellence on Neurodegenerative 
+Diseases, University of Milan, Milan, Italy.
+
+Ciliary neurotrophic factor (CNTF), a cytokine of the interleukin-6 superfamily, 
+is known to exert pleiotropic actions, including regulation of food intake and 
+permissive effects on reproduction, by facilitating the release of 
+gonadotrophin-releasing hormone (GnRH) and gonadotrophins. CNTF activates 
+membrane receptors (CNTF-Rs) composed of one ligand-specific binding subunit, 
+defined CNTFR alpha, and two signal transducing subunits, termed leukaemia 
+inhibitory factor receptor (LIFR) and gp130. However, it is not clear whether 
+the effects of CNTF on GnRH release result from either a direct or an indirect 
+action on GnRH-secreting hypothalamic neurones, or from a combination of these 
+events. The hypothesis of a direct effect of CNTF was thus tested using the 
+GT1-7 GnRH-secreting cell line. CNTF-R expression and CNTF-induced modulation of 
+the Janus kinase (JAK2)-signal transducer and activator of transcription 3 
+(STAT3) pathway and of GnRH release were evaluated. GT1-7 cells were found to 
+express CNTFR alpha, LIFR and gp130 genes, as shown by reverse 
+transcription-polymerase chain reaction analysis, and the corresponding 
+proteins, analysed by immunofluorescence and western blot. CNTFR alpha, LIFR and 
+gp130 immunoreactive bands had an approximate size of 50, 190 and 130 kDa, 
+respectively. Treatment of GT1-7 cells with 10(-12) M CNTF for 15-60 min 
+resulted in a marked and transient increase of STAT3 phosphorylation via 
+activation of JAK2. A 30-min exposure of GT1-7 cells to different CNTF 
+concentrations increased the accumulation of GnRH into the culture medium, with 
+a maximal effect at 10(-11) M. In conclusion, the present results provide new 
+information about the regulation of the reproductive axis by CNTF, and suggest 
+that it might operate at the hypothalamic level by directly influencing the 
+activity of GnRH-secreting neurones, in addition to the possible indirect 
+effects via interneurones proposed by previous studies.
+
+DOI: 10.1111/j.1365-2826.2005.01309.x
+PMID: 15869563 [Indexed for MEDLINE]
+
+
+37. Cell Signal. 2005 May;17(5):559-69. doi: 10.1016/j.cellsig.2004.09.016.
+
+The tyrosine 974 within the LIF-R-chain of the gp130/LIF-R heteromeric receptor 
+complex mediates negative regulation of LIF signalling.
+
+Clahsen T(1), Lehmann U, Stross C, Hermanns HM, Volkmer-Engert R, 
+Schneider-Mergener J, Heinrich PC, Schaper F.
+
+Author information:
+(1)Department of Biochemistry, Medical School RWTH Aachen, Pauwelsstrasse 30, 
+D-52074 Aachen, Germany.
+
+Signalling of interleukin (IL)-6 and interleukin-11 through gp130 homodimeric 
+receptor complexes has been analysed with respect to initiation and termination 
+of signalling in great detail. Gp130 contains a crucial motif around tyrosine 
+Y759, which mediates negative regulation through the feedback inhibitor SOCS3 
+and the protein tyrosine phosphatase SHP2. Signalling of leukaemia inhibitory 
+factor (LIF), ciliary neurotrophic factor (CNTF), cardiotrophin-1 (CT-1), 
+CT-1-like factor (CLC) or oncostatin M (OSM) through gp130/LIF-R is believed to 
+be similar due to the presence of the common signal transducer gp130 within the 
+receptor complexes utilized, but the difference in the composition of 
+gp130/gp130-homodimers and gp130/LIF-R-heterodimers is likely to be reflected in 
+different signalling. Here, we analysed the contribution of the LIF-R within the 
+gp130/LIF-R complex to negative regulation mediated by SHP2 and SOCS3. We show 
+that SHP2 contributes to the negative regulation of signalling through 
+gp130/LIF-R complexes. The inhibitory tyrosine motifs within the cytoplasmic 
+parts of gp130 and the LIF-R act independently. Whereas SHP2 and SOCS3 bind 
+directly to the inhibitory motif of gp130, only SHP2 was found to bind to the 
+corresponding inhibitory sequence of the LIF-R. This observation was further 
+corroborated by experiments indicating that mainly gp130 contributes to the 
+inhibition of signalling by SOCS3.
+
+DOI: 10.1016/j.cellsig.2004.09.016
+PMID: 15683731 [Indexed for MEDLINE]
+
+
+38. J Biol Chem. 2004 Nov 12;279(46):47572-9. doi: 10.1074/jbc.M403998200. Epub 2004 
+Aug 31.
+
+Effects of cardiotrophin on adipocytes.
+
+Zvonic S(1), Hogan JC, Arbour-Reily P, Mynatt RL, Stephens JM.
+
+Author information:
+(1)Department of Biological Sciences, Louisiana State University, Baton Rouge, 
+Louisiana 70803, USA.
+
+Cardiotrophin (CT-1) is a naturally occurring protein member of the interleukin 
+(IL)-6 cytokine family and signals through the gp130/leukemia inhibitory factor 
+receptor (LIFR) heterodimer. The formation of gp130/LIFR complex triggers the 
+auto/trans-phosphorylation of associated Janus kinases, leading to the 
+activation of Janus kinase/STAT and MAPK (ERK1 and -2) signaling pathways. Since 
+adipocytes express both gp130 and LIFR proteins and are responsive to other IL-6 
+family cytokines, we examined the effects of CT-1 on 3T3-L1 adipocytes. Our 
+studies have shown that CT-1 administration results in a dose- and 
+time-dependent activation and nuclear translocation of STAT1, -3, -5A, and -5B 
+as well as ERK1 and -2. We also confirmed the ability of CT-1 to induce 
+signaling in fat cells in vivo. Our studies revealed that neither CT-1 nor 
+ciliary neurotrophic factor treatment affected adipocyte differentiation. 
+However, acute CT-1 treatment caused an increase in SOCS-3 mRNA in adipocytes 
+and a transient decrease in peroxisome proliferator-activated receptor gamma 
+(PPARgamma) mRNA that was regulated by the binding of STAT1 to the PPARgamma2 
+promoter. The effects of CT-1 on SOCS-3 and PPARgamma mRNA were independent of 
+MAPK activation. Chronic administration of CT-1 to 3T3-L1 adipocytes resulted in 
+a decrease of both fatty acid synthase and insulin receptor substrate-1 protein 
+expression yet did not effect the expression of a variety of other adipocyte 
+proteins. Moreover, chronic CT-1 treatment resulted in the development of 
+insulin resistance as judged by a decrease in insulin-stimulated glucose uptake. 
+In summary, CT-1 is a potent regulator of signaling in adipocytes in vitro and 
+in vivo, and our current efforts are focused on determining the role of this 
+cardioprotective cytokine on adipocyte physiology.
+
+DOI: 10.1074/jbc.M403998200
+PMID: 15339920 [Indexed for MEDLINE]
+
+
+39. Neuroimmunomodulation. 2004;11(4):224-32. doi: 10.1159/000078440.
+
+Comparative study of gp130 cytokine effects on corticotroph AtT-20 
+cells--redundancy or specificity of neuroimmunoendocrine modulators?
+
+Auernhammer CJ(1), Kopp FB, Vlotides G, Dorn F, Isele NB, Spöttl G, Cengic N, 
+Weber MM, Senaldi G, Engelhardt D.
+
+Author information:
+(1)Medizinische Klinik II, Klinikum Grosshadern, Ludwig-Maximilians-Universität, 
+Munich, Germany. Christoph.Auernhammer@med2.med.uni-muenchen.de
+
+OBJECTIVE: This comparative in vitro study examined the effects of all known 
+gp130 cytokines on murine corticotroph AtT-20 cell function.
+METHODS: Cytokines were tested at equimolar concentrations from 0.078 to 10 nM. 
+Tyrosine phosphorylation of the signal transducer and activator of transcription 
+(STAT)3 and STAT1, the STAT-dependent suppressor of cytokine signaling (SOCS)-3 
+promoter activity, SOCS-3 gene expression, STAT-dependent POMC promoter activity 
+and adrenocorticotropic hormone (ACTH) secretion were determined.
+RESULTS: Leukemia inhibitory factor (LIF), human oncostatin M (OSM) and 
+cardiotrophin (CT)-1 (LIFR/gp130 ligands), as well as ciliary neurotrophic 
+factor (CNTF) and novel neurotrophin-1/B-cell stimulating factor-3 (CNTFR 
+alpha/LIFR/gp130 ligands) are potent stimuli of corticotroph cells in vitro. In 
+comparison, interleukin (IL)-6 (IL-6R/gp130 ligand) and IL-11 (IL-11R/gp130 
+ligand) exhibited only modest direct effects on corticotrophs, while murine OSM 
+(OSMR/gp130 ligand) showed no effect.
+CONCLUSION: (i) CNTFR complex ligands are potent stimuli of corticotroph 
+function, comparable to LIFR complex ligands; (ii) IL-6 and IL-11 are relatively 
+weak direct stimuli of corticotroph function; (iii) differential effects of 
+human and murine OSM suggest that LIFR/gp130 (OSMR type I) but not OSMR/gp130 
+(OSMR type II) are involved in corticotroph signaling. (iv) CT-1 has the 
+hitherto unknown ability to stimulate corticotroph function, and (v) despite 
+redundant immuno-neuroendocrine effects of different gp130 cytokines, 
+corticotroph cells are preferably activated through the LIFR and CNTFR 
+complexes.
+
+Copyright 2004 S. Karger AG, Basel
+
+DOI: 10.1159/000078440
+PMID: 15249728 [Indexed for MEDLINE]
+
+
+40. Diabetes. 2004 Apr;53(4):911-20. doi: 10.2337/diabetes.53.4.911.
+
+Ciliary neurotrophic factor and leptin induce distinct patterns of immediate 
+early gene expression in the brain.
+
+Kelly JF(1), Elias CF, Lee CE, Ahima RS, Seeley RJ, Bjørbaek C, Oka T, Saper CB, 
+Flier JS, Elmquist JK.
+
+Author information:
+(1)Department of Medicine and Division of Endocrinology, Beth Israel Deaconess 
+Medical Center and Harvard Medical School, Boston, Massachusetts 02115, USA.
+
+Ciliary neurotrophic factor (CNTF) and leptin decrease food intake and body 
+weight. Lipopolysaccharide (LPS) is a potent exogenous pyrogen and produces 
+anorexia via cytokine production. CNTF-, leptin-, and LPS-induced cytokines all 
+act on type I cytokine receptors. However, it is not known if these cytokines 
+engage similar central nervous system (CNS) pathways to exert their effects. To 
+assess mechanisms by which these cytokines act, we examined the patterns of 
+immediate early gene expression (SOCS-3, c-fos, and tis-11) in the brain 
+following intravenous administration. CNTF and LPS induced gene expression in 
+circumventricular organs; ependymal cells of the ventricles, meninges, and 
+choroid plexus; and the arcuate nucleus of the hypothalamus. CNTF administration 
+also induced fever and cyclooxygenase-2 mRNA expression. In contrast, we found 
+no evidence of leptin-induced inflammation. CNTF and leptin are being assessed 
+as potential therapeutic anti-obesity agents, and both potently reduce food 
+intake. Our findings support the hypothesis that CNTF and leptin engage distinct 
+CNS sites and CNTF possesses inflammatory properties distinct from leptin.
+
+DOI: 10.2337/diabetes.53.4.911
+PMID: 15047605 [Indexed for MEDLINE]
+
+
+41. Zhonghua Yi Xue Za Zhi. 2003 Apr 25;83(8):666-8.
+
+[Expression of leptin and leptin receptor system in woman reproductive organs].
+
+[Article in Chinese]
+
+Liu LL(1), Qiao J, Wang YZ, Chen YJ, Gao YQ.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Peking University Third Hospital, 
+Beijing 100083, China.
+
+OBJECTIVE: To explore the expression of leptin, leptin receptor (Ob-R) and 
+related signaling proteins in woman reproductive organs.
+METHODS: Thirty-nine women, aged 27 - 37, with normal menstrual cycle of which 
+24 being in proliferative phase and 15 in secretive phase, underwent uterine 
+curettage, to obtain the endometrium. The uterine cervix, vaginal wall, and 
+oviducts were resected from 3 women with hysteromyoma. The expression of mRNA of 
+leptin and long isoform of leptin receptor (Ob-Rb) was detected by in situ 
+hybridization. The expression of leptin and Ob-Rb proteins was examined by 
+immunohistochemical staining. Immunohistochemical staining was used to study the 
+expression of the leptin-related signaling proteins: phosphated signal 
+transducers and activator of transcription (p-STAT3), suppressor of cytokine 
+signaling 3 (SOCS3), and protein inhibitor of activated STAT3 (PIAS3).
+RESULTS: The mRNA and protein of leptin and the mRNA and protein of Ob-Rb were 
+expressed in the glands and mesenchyma of endometrium. The expression of Ob-Rb 
+protein was significantly stronger in secretive phase than in proliferative 
+phase (P < 0.01). No significant difference was found between the expression of 
+leptin protein in proliferative phase and that in secretive phase. In the 
+endothelium SOCS3 and PIAS3 were expressed, however, p-STAT3 protein was only 
+weakly expressed or not expressed. Leptin protein and Ob-Rb protein were 
+expressed in the uterine cervix, vagina wall, and epithelium of oviduct, 
+including glands. However, leptin mRNA and Ob-Rb mRNA were only expressed in the 
+ciliated epithelium of oviduct.
+CONCLUSION: Leptin may have an effect on women's reproductive function through 
+leptin receptor systems.
+
+PMID: 12887825 [Indexed for MEDLINE]
+
+
+42. Endocrinology. 2003 Apr;144(4):1202-10. doi: 10.1210/en.2002-220933.
+
+Novel neurotrophin-1/B cell-stimulating factor-3 (cardiotrophin-like cytokine) 
+stimulates corticotroph function via a signal transducer and activator of 
+transcription-dependent mechanism negatively regulated by suppressor of cytokine 
+signaling-3.
+
+Auernhammer CJ(1), Isele NB, Kopp FB, Spoettl G, Cengic N, Weber MM, Senaldi G, 
+Engelhardt D.
+
+Author information:
+(1)Department of Internal Medicine II, Klinikum Grosshadern, 
+Ludwig-Maximilians-Universität, Munich 81366, Germany. 
+christoph.auernhammer@med2.med.uni-muenchen.de
+
+Novel neurotrophin-1/B cell-stimulating factor-3 (NNT-1/BSF-3) is a recently 
+cloned gp130 cytokine, acting through the tripartite ciliary neurotrophic factor 
+receptor (CNTFR) alpha/leukemia inhibitory factor receptor (LIFR)/gp130 receptor 
+complex. The aim of the current study was to investigate the role of NNT-1/BSF-3 
+in corticotroph cell function and further characterize NNT-1/BSF-3 signaling 
+pathways. Using RT-PCR, expression of ciliary neurotrophic factor receptor 
+alpha, leukemia inhibitory factor receptor, and gp130 could be demonstrated in 
+mRNA derived from murine corticotroph AtT-20 cells and murine pituitary tissue. 
+Incubation of AtT-20 cells with 10 ng/ml recombinant human NNT-1/BSF-3 rapidly 
+induced tyrosine-phosphorylation of signal transducer and activator of 
+transcription (STAT)3 and STAT1 at 5 and 10 min. Proopiomelanocortin promoter 
+activity and suppressor of cytokine signaling (SOCS)-3 promoter activity were 
+significantly stimulated by NNT-1/BSF-3 4.0 +/- 0.3- and 5.9 +/- 0.2-fold, 
+respectively. In comparison with untreated control, NNT-1/BSF-3 significantly 
+stimulated ACTH secretion at 24 and 48 h 1.7 +/- 0.2-fold and 1.5 +/- 0.1-fold 
+above baseline. In comparison with mock-transfected cells, stable overexpression 
+of SOCS-3 in AtT-20 cells abolished NNT-1/BSF-3-induced STAT1 and STAT3 
+phosphorylation and almost completely inhibited STAT-dependent 
+proopiomelanocortin promoter and SOCS-3 promoter activities. In addition, 
+NNT-1/BSF-3-induced ACTH secretion at 48 h was significantly attenuated by 
+SOCS-3 overexpression. In summary, we have shown that NNT-1/BSF-3 is a modulator 
+of corticotroph cell function, which is negatively regulated by SOCS-3. Our data 
+indicate that the activation of the Jak-STAT cascade is essential for 
+corticotroph NNT-1/BSF-3 signaling. Further studies will have to investigate the 
+possible in vivo role of NNT-1/BSF-3 as a neuroimmunoendocrine modulator of 
+hypothalamus-pituitary-adrenal axis stress response.
+
+DOI: 10.1210/en.2002-220933
+PMID: 12639901 [Indexed for MEDLINE]
+
+
+43. Endocrinology. 2003 Feb;144(2):693-700. doi: 10.1210/en.2002-220891.
+
+Reduced expression of the cytokine transducer gp130 inhibits hormone secretion, 
+cell growth, and tumor development of pituitary lactosomatotrophic GH3 cells.
+
+Castro CP(1), Giacomini D, Nagashima AC, Onofri C, Graciarena M, Kobayashi K, 
+Páez-Pereda M, Renner U, Stalla GK, Arzt E.
+
+Author information:
+(1)Departamento de Fisiología y Biología Molecular y Celular, Laboratorio de 
+Fisiología y Biología Molecular, Facultad de Ciencias Exactas y Naturales, 
+Universidad de Buenos Aires, C1428EHA Buenos Aires, Argentina.
+
+Two of the most potent cytokines that regulate anterior pituitary cell function 
+are leukemia inhibitory factor and IL-6. These and others like IL-11 and ciliary 
+neurotrophic factor are referred to as the gp130 cytokines because they share 
+the gp130 glycoprotein as a common receptor initial signal transducer. We and 
+others have shown that gp130 cytokines and their receptors are expressed and 
+functional in normal and tumoral anterior pituitary cells. To study the role of 
+gp130 cytokines in tumorigenic process, we generated gp130 cDNA gp130 sense and 
+gp130 antisense (gp130-AS) transfected stable clones derived from 
+lactosomatotroph GH3 cells. We examined hormone secretion and cell proliferation 
+of these clones as well as their tumorigenic properties in athymic nude mice. 
+Although gp130-AS clones, which have low gp130 levels and impaired signal 
+transducer and activator of transcription 3 activity and suppressor of cytokine 
+signaling-3 expression, showed reduced proliferation and hormone secretion (GH 
+and prolactin) in response to gp130 cytokines, they had a normal response to 
+gp130-independent stimuli. Moreover, gp130-AS clones showed a severely impaired 
+in vivo tumor development. In contrast, the overexpressing gp130 clones (gp130 
+sense) showed no differences, compared with cells transfected with control 
+vector. Thus, the present study provides new evidence supporting a link between 
+gp130 and pituitary abnormal growth.
+
+DOI: 10.1210/en.2002-220891
+PMID: 12538632 [Indexed for MEDLINE]
+
+
+44. Cell Signal. 2002 May;14(5):419-29. doi: 10.1016/s0898-6568(01)00280-7.
+
+Activation and inactivation of signal transducers and activators of 
+transcription by ciliary neurotrophic factor in neuroblastoma cells.
+
+Kaur N(1), Wohlhueter AL, Halvorsen SW.
+
+Author information:
+(1)Department of Pharmacology and Toxicology, School of Medicine and Biomedical 
+Sciences, 102 Faber Hall, University at Buffalo, The State University of New 
+York, Buffalo, NY 14214-3000, USA.
+
+Neurons in vivo are exposed to a variety of different growth factors and 
+cytokines. A principal signalling pathway for ciliary neurotrophic factor 
+(CNTF)-like cytokines is the Janus kinase (Jak)/signal transducer and activator 
+of transcription (STAT) system of kinases and transcription factors. In the 
+human cell line (SH-SY5Y), STAT1 and STAT3 activation by CNTF-like cytokines 
+showed tyrosine phosphorylation peaking at 0.5 h and inactivating within 2 h. 
+Tyrosine phosphorylation of the receptor-associated tyrosine kinases Jak1 and 
+Jak2 showed a similar time course of activation and inactivation in response to 
+CNTF. The STAT1 response to the non-CNTF-like cytokine, interferon-gamma 
+(IFN-gamma) did not inactivate. Inactivation to CNTF was not due to a decrease 
+in CNTF receptor subunit gp130 or in levels of Jak1 or Jak2. STAT inactivation 
+was inhibited by the protein kinase blocker H7 and a tyrosine phosphatase 
+blocker, but not by inhibitors of protein kinase C, mitogen-activated protein 
+kinase (MAPK) kinase, mTOR-P70/S6 kinase or phosphatidyl inositol-3-kinase (PI-3 
+kinase). Surprisingly, CNTF caused only a minor increase in levels of 
+suppressors of cytokine signalling, SOCS-1 and SOCS-3. CNTF pretreatment 
+desensitized the cells to the CNTF-like cytokines, leukemia inhibitory factor 
+and oncostatin-M but not to IFN-gamma. These results reveal a complex level of 
+regulation of shared signalling pathways for cytokines that is dependent on both 
+the type of cell and cytokine.
+
+DOI: 10.1016/s0898-6568(01)00280-7
+PMID: 11882386 [Indexed for MEDLINE]
+
+
+45. J Neurosci Res. 2001 Jun 15;64(6):575-81. doi: 10.1002/jnr.1109.
+
+Alterations in ciliary neurotrophic factor signaling in rapsyn deficient mice.
+
+Bartlett SE(1), Banks GB, Reynolds AJ, Waters MJ, Hendry IA, Noakes PG.
+
+Author information:
+(1)Department of Physiology and Pharmacology, The University of Queensland, St. 
+Lucia, Brisbane, Queensland, Australia.
+
+Erratum in
+    J Neurosci Res 2001 Nov 15;66(4):731-2.
+
+Rapsyn is a key molecule involved in the formation of postsynaptic 
+specializations at the neuromuscular junction, in its absence there are both 
+pre- and post-synaptic deficits including failure to cluster acetylcholine 
+receptors. Recently we have documented increases in both nerve-muscle branching 
+and numbers of motoneurons, suggesting alterations in skeletal muscle derived 
+trophic support for motoneurons. The aim of the present study was to evaluate 
+the contribution of target derived trophic factors to increases in motoneuron 
+branching and number, in rapsyn deficient mice that had their postsynaptic 
+specializations disrupted. We have used reverse transcription-polymerase chain 
+reaction and Western blot to document the expression of known trophic factors 
+and their receptors in muscle, during the period of synapse formation in rapsyn 
+deficient mouse embryos. We found that the mRNA levels for ciliary neurotrophic 
+factor (CNTF) was decreased in the rapsyn deficient muscles compared with litter 
+mate controls although those for NGF, BDNF, NT-3 and TGF-beta2 did not differ. 
+We found that both the mRNA and the protein expression for suppressor of 
+cytokine signaling 3 (SOCS3) decreased although janus kinase 2 (JAK2) did not 
+change in the rapsyn deficient muscles compared with litter mate controls. These 
+results suggest that failure to form postsynaptic specializations in rapsyn 
+deficient mice has altered the CNTF cytokine signaling pathway within skeletal 
+muscle, the target for motoneurons. This alteration may in part, account for the 
+increased muscle nerve branching and motoneuron survival seen in rapsyn 
+deficient mice.
+
+Copyright 2001 Wiley-Liss, Inc.
+
+DOI: 10.1002/jnr.1109
+PMID: 11398180 [Indexed for MEDLINE]
+
+
+46. Diabetes. 2000 Nov;49(11):1890-6. doi: 10.2337/diabetes.49.11.1890.
+
+Unlike leptin, ciliary neurotrophic factor does not reverse the 
+starvation-induced changes of serum corticosterone and hypothalamic neuropeptide 
+levels but induces expression of hypothalamic inhibitors of leptin signaling.
+
+Ziotopoulou M(1), Erani DM, Hileman SM, Bjørbaek C, Mantzoros CS.
+
+Author information:
+(1)Division of Endocrinology, Beth Israel Deaconess Medical Center, Harvard 
+Medical School, Boston, Massachusetts 02215, USA.
+
+Leptin mediates neuroendocrine responses to fasting and restores the 
+starvation-induced changes of several hypothalamic neuropeptides. Ciliary 
+neurotrophic factor (CNTF), a cytokine closely related to leptin, reduces food 
+intake and reverses obesity, but its role in restoring the starvation-induced 
+changes of hormones or hypothalamic neuropeptides remains largely unknown. To 
+comparatively assess the roles of CNTF and leptin in reversing the 
+starvation-induced changes of hypothalamic neuropeptides and endocrine function 
+and in inducing expression of hypothalamic inhibitors of leptin and CNTF 
+signaling (suppressor of cytokine signaling 3 [SOCS-3]) and mediators of energy 
+expenditure (cyclo-oxygenase 2 [COX-2]), we studied the effect of CNTF and 
+leptin administered by intraperitoneal injections (1 microg/g twice daily) in 
+C57Bl/6J mice fasted for 48 h. Serum corticosterone levels increased with 
+fasting, and leptin administration partially normalized them, whereas CNTF 
+administration had no effect. Hypothalamic neuropeptide Y (NPY) and 
+agouti-related protein (AgRP) mRNA expression increased and pro-opiomelanocortin 
+(POMC) decreased in response to fasting. Leptin administration decreased NPY and 
+AgRP and increased POMC mRNA levels toward baseline, but CNTF administration in 
+fasted mice had no effect of comparable significance. Both leptin and CNTF 
+administration in fasted mice resulted in an induction of SOCS-3 mRNA 
+expression. CNTF also induced hypothalamic SOCS-2 mRNA expression. Finally, 
+neither leptin nor CNTF administration in mice fasted for 48 h alters 
+hypothalamic COX-2 expression. Our data suggest that only falling leptin levels 
+mediate the starvation-induced alterations in corticosterone levels and 
+expression of hypothalamic neuropeptides, but inhibitors of leptin signaling are 
+induced by both leptin and CNTF. This may be of clinical importance because both 
+agents are now being evaluated for the treatment of obesity in humans.
+
+DOI: 10.2337/diabetes.49.11.1890
+PMID: 11078456 [Indexed for MEDLINE]
+
+
+47. Endocrinology. 1999 May;140(5):2035-43. doi: 10.1210/endo.140.5.6736.
+
+Activation of SOCS-3 messenger ribonucleic acid in the hypothalamus by ciliary 
+neurotrophic factor.
+
+Bjørbaek C(1), Elmquist JK, El-Haschimi K, Kelly J, Ahima RS, Hileman S, Flier 
+JS.
+
+Author information:
+(1)Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical 
+School, Boston, Massachusetts 02215, USA.
+
+Ciliary neurotrophic factor (CNTF) is a neurocytokine expressed in glial cells 
+that acts on brain cells to promote gene expression, survival, and 
+differentiation. When administered systemically, CNTF reduces food intake and 
+body weight in rodents. Genes encoding suppressors of cytokine signaling (SOCS) 
+are induced by cytokines that activate membrane receptors in the same class as 
+those that are activated by CNTF. We therefore examined the ability of CNTF to 
+induce expression of socs genes in brain and peripheral tissues of rats and 
+mice. Peripheral CNTF administration to ob/ob mice rapidly induced SOCS-3 
+messenger RNA (mRNA) in hypothalamus, as determined by Northern blotting and 
+quantitative RT-PCR, but had no effect on cytokine-inducible sequence (CIS), 
+SOCS-1, or SOCS-2 mRNA. In situ hybridization histochemistry of hypothalamus 
+from ob/ob mice and normal rats demonstrated that CNTF induced SOCS-3 mRNA in 
+the arcuate nucleus (Arc). Strong hybridization signals were also detected in 
+the ependymal lining of the ventricles and the subfornical organ. This 
+hybridization pattern was distinct from that resulting from peripheral leptin 
+treatment with overlapping hybridization patterns only in the Arc. CNTF also 
+induced expression of CIS, SOCS-1, SOCS-2, and SOCS-3 mRNA in the liver, and 
+SOCS-2 and SOCS-3 mRNA in the kidney. CNTF induced SOCS-3 mRNA and SOCS-3 
+protein levels in an astrocyte cell line. Transient expression of SOCS-3, but 
+not CIS or SOCS-2, inhibited CNTF-induced signal transduction in astrocytes. In 
+conclusion, SOCS-3 mRNA is specifically induced by CNTF in regions of the 
+hypothalamus that are both overlapping and distinct from that induced by leptin. 
+Similar to leptin, the Arc is likely to be a direct target of CNTF, and this 
+region may play a role in the body weight-reducing effects of CNTF. SOCS-3 is a 
+negative regulator of CNTF signal transduction, and inhibitors of SOCS-3 
+function may enhance endogenous CNTF signaling after neuronal injury or enhance 
+the body weight-reducing effect of CNTF after peripheral administration.
+
+DOI: 10.1210/endo.140.5.6736
+PMID: 10218952 [Indexed for MEDLINE]

@@ -1,0 +1,319 @@
+1. Cureus. 2022 Dec 26;14(12):e32956. doi: 10.7759/cureus.32956. eCollection 2022 
+Dec.
+
+Accuracy of Classifying Lung Carcinoma Using Immunohistochemical Markers on 
+Limited Biopsy Material: A Two-Center Study.
+
+Hassan A(1)(2), Alahmadi S(3), Waqas O(4), Waseem H(5), Abdelrahman AS(6), 
+Almansouri M(7), Mulla N(8), Katib Y(9), Bakhsh SI(10), Basheikh M(11), 
+Abusikkien SA(12)(13), Karami MM(14), Al-Hajeili M(15), Elbasateeny SS(16)(17).
+
+Author information:
+(1)Translational Neuroscience Lab, CEINGE-Biotecnologie Avanzate, Naples, ITA.
+(2)European School of Molecular Medicine, University of Milan, Milan, ITA.
+(3)Department of Anatomic Pathology, Faculty of Medicine, King Abdulaziz 
+University, Jeddah, SAU.
+(4)Department of Pathology, Ittefaq Hospital (Trust), Lahore, PAK.
+(5)Department of Research/Biostatistics, Fatima Jinnah Medical University, 
+Lahore, PAK.
+(6)Department of Pathology, Faculty of Medicine in Rabigh, King Abdelaziz 
+University, Rabigh, SAU.
+(7)Department of Clinical Biochemistry, Faculty of Medicine, King Abdulaziz 
+University, Jeddah, SAU.
+(8)Department of Internal Medicine, Faculty of Medicine, Taibah University, 
+Medina, SAU.
+(9)Department of Radiation Oncology/Internal Medicine, Faculty of Medicine, 
+Taibah University, Medina, SAU.
+(10)Department of Pathology, Faculty of Medicine, King Abdulaziz University, 
+Jeddah, SAU.
+(11)Department of Medicine, Faculty of Medicine, King Abdulaziz University, 
+Jeddah, SAU.
+(12)Department of Anatomy, Faculty of Medicine in Rabigh, King Abdulaziz 
+University, Rabigh, SAU.
+(13)Department of Anatomy, Faculty of Medicine, Ain Shams University, Cairo, 
+EGY.
+(14)Department of Physiology, Faculty of Medicine, King Abdulaziz University, 
+Jeddah, SAU.
+(15)Department of Oncology, Faculty of Medicine, King Abdulaziz University, 
+Jeddah, SAU.
+(16)Department of Pathology, Faculty of Medicine in Rabigh, King Abdulaziz 
+University, Rabigh, SAU.
+(17)Department of Pathology, Zagazig University, Zagazig, EGY.
+
+Introduction Accurate classification of lung cancer into primary and metastatic 
+carcinomas is critical for treatment approaches. Immunohistochemistry (IHC) has 
+always been pivotal in unveiling the diverse cell differentiation lineages 
+present in lung cancer by using specific biomarkers such as TTF1 and p63/p40, 
+which closely reflect the relationship between genotype and phenotype.. Methods 
+A retrospective cross-sectional study was conducted to evaluate 57 Tru-Cut 
+biopsies over two years, from 2020-2022. Tumour morphology was evaluated, and 
+IHC for TTF-1, Napsin A, CK-7, P-63, P-40, and CD-56 was performed in two steps. 
+Results Of the lung cancer cases, 58.5% were adenocarcinoma (ADC), 24.5% were 
+squamous cell carcinoma (SCC), 9.4% were small cell carcinoma, and 7.5% were 
+poorly differentiated carcinoma. TTF1 stain had sensitivity and specificity of 
+78.9% and 50% in 33 cases of ADC, respectively, while CK7 and Napsin A had 100% 
+sensitivity. P63 stain had 77% sensitivity and 50% specificity in 15 cases of 
+SCC, while P-40 had 100% sensitivity. The CD56 stain was 100% sensitive in five 
+cases of small cell carcinoma. Conclusion IHC staining on small lung biopsies 
+allows accurate sub-classification of poorly differentiated lung cancers; 
+however, there is still significant variability. Surgical resection specimens 
+can be further classified due to architectural features that biopsies lack. 
+Morphological findings would be beneficial in the development of an algorithm 
+for sub-classifying lung carcinoma using a variety of markers.
+
+Copyright © 2022, Hassan et al.
+
+DOI: 10.7759/cureus.32956
+PMCID: PMC9875635
+PMID: 36712764
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+2. Klin Onkol. 2019 Spring;32(Supplementum1):154-156.
+
+Metastatic Clear Cell Renal Carcinoma Without Evidence of a Primary Renal Tumour 
+Mimicking Advanced Stage of Malignant Lung Tumour.
+
+[Article in English]
+
+Kolečková M, Tichý T, Melichar B, Veverková L, Hes O, Kolek V, Kolář Z.
+
+BACKGROUND: Clear cell renal carcinoma (ccRC) accounts for 65-70% of renal 
+carcinomas with peak occurrence at the 6th and 7th age decade, predominantly in 
+males. At the time of diagnosis, especially pulmonary metastases can be found in 
+one-third of patients. There have also been described as late metastases for 
+several decades after nephrectomy. In our case report, clinical course indicated 
+primary lung tumour. Histological differential diagnosis included malignant 
+pleural mesothelioma, lung adenocarcinoma and squamous cell carcinoma with clear 
+cell differentiation or primary clear cell adenocarcinoma of the lung. However, 
+using immunohistochemistry, all these possible diagnoses were excluded.
+CASE REPORT: We present a case of 62-year old man with 3 months history of 
+progressive dyspnea accompanied with a cough and recurrent pleural effusions. 
+PET/CT scan revealed metastatic tumour spread with right-sided pleural 
+thickening, multiple pulmonary tumour foci, mediastinal, cervical, abdominal 
+para-aortic and pelvic lymph node involvement and skeletal metastasis. The 
+patient died one day after administration of palliative chemotherapy. The 
+autopsy showed the majority of changes in the right hemithorax, was caused by a 
+diffuse yellowish, extremely tough tumour infiltrating parietal and visceral 
+pleura with adhesions and obliteration of truncus pulmonalis. In left lung and 
+both renal cortices we could see scant nodules, mimicking primary lung tumour 
+metastasis. In close proximity to the left renal hilum we found unusual 
+homogeneous white round to oval tissue of 80 × 86 × 72mm in diameter, with 
+identical histological pattern. Extensive immunohistochemical profile 
+(positivity of CK18, PAX8, vimentin, androgen receptor, napsin A; negativity of 
+mesothelial markers, TTF-1, CK7, CK20, CDX-2, CD10, PSA, CK34B12 and PAS-D) was 
+compatible with metastatic ccRC.
+CONCLUSION: We present an extremely rare case of morphologically verified 
+metastatic ccRC without evidence of primary lesion in the kidneys. There is 
+speculated the possibility of spontaneous regression of primary tumour. In our 
+case, however, we cannot exclude the possibility of generalized primary tumour 
+of ectopic kidney. This hypothesis is based on the finding of isolated tumour 
+mass adjacent to left renal hilum.
+
+PMID: 31064187 [Indexed for MEDLINE]
+
+
+3. Histopathology. 2017 Nov;71(5):725-735. doi: 10.1111/his.13269. Epub 2017 Aug 4.
+
+Increased frequency of bronchiolar histotypes in lung carcinomas associated with 
+idiopathic pulmonary fibrosis.
+
+Caliò A(1), Lever V(1), Rossi A(2), Gilioli E(1), Brunelli M(1), Dubini A(3), 
+Tomassetti S(4), Piciucchi S(5), Nottegar A(1), Rossi G(6), Kambouchner M(7), 
+Cancellieri A(8), Barbareschi M(9), Pelosi G(10), Doglioni C(11), Cavazza A(12), 
+Carella R(13), Graziano P(14), Murer B(15), Poletti V(4), Chilosi M(1)(16).
+
+Author information:
+(1)Department of Pathology AOUI, University of Verona, Verona, Italy.
+(2)Department of Pneumology AOUI, University of Verona, Verona, Italy.
+(3)Department of Pathology, Forlì Hospital, Forlì, Italy.
+(4)Department of Pneumology, Forlì Hospital, Forlì, Italy.
+(5)Department of Radiology, Forlì Hospital, Forlì, Italy.
+(6)Operative Unit of Pathology, Azienda USL Valle d'Aosta, Aosta, Italy.
+(7)Department of Pathology, Avicenne Hospital, Paris, France.
+(8)Department of Pathology, Maggiore Hospital, Bologna, Italy.
+(9)Department of Pathology, Santa Chiara Hospital, Trento, Italy.
+(10)Department of Pathology, University of Milan, Milan, Italy.
+(11)Department of Pathology, San Raffaele Hospital, Milan, Italy.
+(12)Department of Pathology, Arcispedale S. Maria Nuova/I.R.C.C.S., Reggio 
+Emilia, Italy.
+(13)Department of Pathology, Central Hospital, Bolzano, Italy.
+(14)Department of Pathology, San Giovanni Rotondo Hospital, San Giovanni 
+Rotondo, Italy.
+(15)Department of Pathology, Mestre Hospital, Mestre, Italy.
+(16)Department of Pathology, Pederzoli Hospital, Peschiera del Garda, Verona, 
+Italy.
+
+AIMS: The association between lung cancer and idiopathic pulmonary fibrosis 
+(IPF) is well known, but the significance of this association is poorly 
+understood. Bronchiolar honeycomb cysts have been proposed as possible 
+precursors for the development of carcinoma, but limited evidence in support of 
+this hypothesis is available. The aim of this study was to investigate this 
+hypothesis analysing a series of carcinomas arising in IPF by 
+immunohistochemistry.
+METHODS AND RESULTS: Thirty-three lung carcinomas arising in patients with IPF 
+were analysed with a panel of immunohistochemical markers. The antibodies 
+included those against pneumocyte markers [thyroid transcription factor 1 
+(TTF1), napsin-A, and surfactant protein A], the goblet cell marker mucin 5AC, 
+markers of basal/squamous cell differentiation [cytokeratin (CK) 5/6 and 
+ΔN-p63], and markers related to enteric differentiation (CDX2, mucin 2, CK20, 
+and villin). A series of 100 consecutive lung adenocarcinomas arising in smokers 
+without IPF were investigated as controls. All carcinomas arising in IPF 
+patients were peripherally located on imaging analysis. The diagnoses were: 
+eight squamous cell carcinomas, 20 adenocarcinomas, three small-cell carcinomas 
+(including one composite small-cell carcinoma and adenocarcinoma), and two 
+large-cell carcinomas. Among adenocarcinomas, a 'pneumocyte' profile 
+(TTF1/napsin-A/SPA1-triple-positive) was observed in seven of 20 (35% versus 84% 
+in non-IPF controls, P = 0.0001). The remaining 13 adenocarcinomas (65%) showed 
+rare histotypes: four invasive mucinous adenocarcinomas (20% in IPF patients 
+versus 1% in non-IPF controls, P = 0.002), seven tumours (35%) that were 
+characterized by variable expression of markers of enteric differentiation, and 
+two tumours (10%) that showed a peculiar basaloid component.
+CONCLUSIONS: The immunohistochemical characterization of carcinomas arising in 
+IPF patients shows striking divergence from that in non-IPF smokers. The 
+prevalence of rare entities showing bronchiole-related markers is in line with 
+the hypothesis that these tumours arise from transformed small airways in 
+honeycomb lung areas where abnormal bronchiolar proliferation takes place.
+
+© 2017 John Wiley & Sons Ltd.
+
+DOI: 10.1111/his.13269
+PMID: 28556957 [Indexed for MEDLINE]
+
+
+4. Hum Pathol. 2016 Mar;49:99-106. doi: 10.1016/j.humpath.2015.10.006. Epub 2015 
+Nov 2.
+
+Histomolecular profiling of pleomorphic, spindle cell, and giant cell carcinoma 
+of the lung for targeted therapies.
+
+Forest F(1), Yvorel V(2), Karpathiou G(2), Stachowicz ML(2), Vergnon JM(3), 
+Fournel P(4), Tiffet O(5), Trombert B(6), Péoc'h M(2).
+
+Author information:
+(1)Pathology Department, Saint-Etienne University Hospital, North Hospital, 
+42055 Saint Étienne CEDEX 2, France. Electronic address: 
+fabien.forest@chu-st-etienne.fr.
+(2)Pathology Department, Saint-Etienne University Hospital, North Hospital, 
+42055 Saint Étienne CEDEX 2, France.
+(3)Pneumology Department, Saint-Etienne University Hospital, North Hospital, 
+42055 Saint Étienne CEDEX 2, France.
+(4)Lucien Neuwirth Cancer Institute, 42270 Saint Priest en Jarez, France.
+(5)Thoracic Surgery Department, Saint-Etienne University Hospital, North 
+Hospital, 42055 Saint Étienne CEDEX 2, France.
+(6)Public Health and Medical Informatics Department, Saint-Etienne University 
+Hospital, North Hospital, 42055 Saint Étienne CEDEX 2, France.
+
+Comment in
+    Hum Pathol. 2017 May;63:218-220. doi: 10.1016/j.humpath.2016.10.027.
+    Hum Pathol. 2017 May;63:220-221. doi: 10.1016/j.humpath.2016.10.026.
+
+In pleomorphic, spindle cell, and giant cell carcinoma (PSCGC) of the lung, we 
+wondered if an integrated diagnosis including morphological and 
+immunohistochemical features could be related to molecular status. We performed 
+immunohistochemistry on 35 PSCGCs against TTF1, napsin A, p40, ALK, ROS1, and 
+c-MET. Mutational status regarding EGFR, KRAS, BRAF, HER2, and PIK3CA genes was 
+established. Of 18 PSCGCs with adenocarcinomatous or "undifferentiated" 
+carcinoma differentiation, 8 were mutated for EGFR (n = 1), KRAS (n = 2), BRAF 
+(n = 1), HER2 (n = 3), and PIK3CA (n = 1). No PSCGC (0/4) with only squamous 
+cell or adenosquamous (0/2) differentiation was mutated. c-MET overexpression 
+was only seen in PSCGC with adenocarcinomatous or undifferentiated component (n 
+= 5) without squamous cell component. ROS1 and ALK were negative. The presence 
+of a "targetable mutation" was correlated to the presence of morphological or 
+immunohistochemical adenocarcinomatous differentiation (P = .0137). Integrated 
+diagnosis of an adenocarcinomatous component in PSCGC could be associated with 
+the presence of targetable gene mutation. Because only PSCGC with 
+adenocarcinomatous or undifferentiated carcinoma harbors mutations, whereas 
+PSCGC with only squamous or adenosquamous differentiation does not in our study, 
+this might represent a prescreening for patients with PSCGC to be tested for 
+molecular targets. Our results emphasize that careful morphological examination 
+and the use of immunohistochemistry might be useful for the selection of PSCGC 
+tested for a mutational target.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.humpath.2015.10.006
+PMID: 26826416 [Indexed for MEDLINE]
+
+
+5. Cancer. 2011 Aug 1;117(15):3416-23. doi: 10.1002/cncr.25830. Epub 2011 Jan 18.
+
+Immunohistochemical subtyping of nonsmall cell lung cancer not otherwise 
+specified in fine-needle aspiration cytology: a retrospective study of 103 cases 
+with surgical correlation.
+
+Righi L(1), Graziano P, Fornari A, Rossi G, Barbareschi M, Cavazza A, Pelosi G, 
+Scagliotti GV, Papotti M.
+
+Author information:
+(1)Department of Clinical and Biological Sciences, University of Turin at San 
+Luigi Hospital, Orbassano, Turin, Italy.
+
+BACKGROUND: Histopathological subtyping of nonsmall cell lung cancer (NSCLC) is 
+currently relevant in treatment decision because of a differential activity of 
+specific therapeutic agents. Immunohistochemistry highlights cell 
+differentiation lineages and, in this study, it was applied to maximize the 
+proportion of accurately subtyped NSCLC not otherwise specified (NOS) on 
+fine-needle aspiration cytology (FNAC) samples.
+METHODS: Cell blocks from 103 FNAC samples with a morphological diagnosis of 
+NSCLC-NOS were immunostained for cytokeratin (CK) 7, CK5, TTF1, and p63, whereas 
+p40, napsin A (Naps-A), and desmocollin-3 (DSC-3) were only assessed in a 
+subgroup of cases with discordant (CK7 and TTF1+ for nonsquamous, CK5 and p63+ 
+for squamous) findings. Results were correlated with surgical specimens 
+evaluated by morphology alone.
+RESULTS: Thirty-seven (36%) tumors with CK7/TTF1+ and CK5/p63- corresponded to 
+35 cases of adenocarcinoma (ADC) and 2 cases of large cell carcinoma, whereas 9 
+(9%) cases with the reverse immunoprofile were squamous cell carcinoma (SQCC) at 
+surgery (P < .001). Although the remaining 57 cases had different marker 
+combinations, a correlation was found with ADC histology for TTF1+ samples 
+(independent of other markers) and with SQCC for p63+/TTF1- immunophenotype (P < 
+.001). p40 was never expressed in p63+ ADC, whereas Naps-A was restricted to ADC 
+and DSC-3 to SQCC lineage. The percentage of unclassified NSCLC-NOS decreased 
+from 36% to 14%. Combinations of 2 antibodies (TTF1/DSC-3 or p63/Naps-A) in the 
+same section allowed diagnostic optimization in scant cytological samples.
+CONCLUSIONS: [corrected] This 4-antibody panel approach may contribute to refine 
+lung cancer classification in FNAC cell blocks, remarkably reducing the 
+NSCLC-NOS diagnostic category.
+
+Copyright © 2011 American Cancer Society.
+
+DOI: 10.1002/cncr.25830
+PMID: 21246522 [Indexed for MEDLINE]
+
+
+6. Arch Histol Cytol. 2001 Aug;64(3):319-27. doi: 10.1679/aohc.64.319.
+
+Cellular distribution of napsin (kidney-derived aspartic protease-like protein, 
+KAP) mRNA in the kidney, lung and lymphatic organs of adult and developing mice.
+
+Mori K(1), Kon Y, Konno A, Iwanaga T.
+
+Author information:
+(1)Department of Biomedical Sciences, Graduate School of Veterinary Medicine, 
+Hokkaido University, Sapporo, Japan. morik@vetmed.hokudai.ac.jp
+
+Kidney-derived aspartic protease-like protein (KAP), initially identified in the 
+mouse kidney, is a novel aspartic protease exclusively expressed in the lung and 
+spleen as well as the kidney. Its orthologues have been identified in the human 
+and rat, and termed napsin. We performed in situ hybridization analysis to 
+determine the cellular expression of napsin mRNA in the kidney, lung, and 
+lymphatic organs of adult mice and to demonstrate, for the first time, its 
+expression patterns in ontogeny. In the adult mouse kidney, extremely intense 
+signals for napsin mRNA were observed in the proximal straight and convoluted 
+tubules, in agreement with a previous study. The first signals for napsin mRNA 
+during nephrogenesis occurred selectively in mesonephric tubules at embryonic 
+day 13, and in metanephric tubules from embryonic day 14. In the lung, a 
+distribution restricted to type II alveolar cells or their precursors was found 
+from embryonic day 15, at the onset of type II cell differentiation, to the 
+adult stage. In the spleen, the mRNA was expressed in lymph nodules of the white 
+pulp and the marginal zone-namely, B-lymphocyte-rich regions from postnatal day 
+0 to adult. The lymph node and Peyer's patch displayed similar expression 
+patterns, but T cell-dependent areas in these organs and the thymus lacked such 
+signals. These findings suggest that mouse napsin possesses crucial functional 
+roles not only in the kidney but also in the lung and lymphatic tissues, even 
+during fetal stages.
+
+DOI: 10.1679/aohc.64.319
+PMID: 11575428 [Indexed for MEDLINE]

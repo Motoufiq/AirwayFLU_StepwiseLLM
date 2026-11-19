@@ -1,0 +1,209 @@
+1. Respir Res. 2019 Aug 23;20(1):196. doi: 10.1186/s12931-019-1140-9.
+
+Characterization of an immortalized human small airway basal stem/progenitor 
+cell line with airway region-specific differentiation capacity.
+
+Wang G(1), Lou HH(1), Salit J(1), Leopold PL(1), Driscoll S(1), Schymeinsky 
+J(2), Quast K(2), Visvanathan S(3), Fine JS(3), Thomas MJ(2), Crystal RG(4).
+
+Author information:
+(1)Department of Genetic Medicine, Weill Cornell Medical College, 1300 York 
+Avenue, Box 164, New York, NY, 10065, USA.
+(2)Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach an der Riss, Germany.
+(3)Boehringer Ingelheim Pharmaceuticals, Ridgefield, CT, USA.
+(4)Department of Genetic Medicine, Weill Cornell Medical College, 1300 York 
+Avenue, Box 164, New York, NY, 10065, USA. geneticmedicine@med.cornell.edu.
+
+BACKGROUND: The pathology of chronic obstructive pulmonary disease (COPD), 
+idiopathic pulmonary fibrosis (IPF) and most lung cancers involves the small 
+airway epithelium (SAE), the single continuous layer of cells lining the airways 
+≥ 6th generations. The basal cells (BC) are the stem/progenitor cells of the 
+SAE, responsible for the differentiation into intermediate cells and ciliated, 
+club and mucous cells. To facilitate the study of the biology of the human SAE 
+in health and disease, we immortalized and characterized a normal human SAE 
+basal cell line.
+METHODS: Small airway basal cells were purified from brushed SAE of a healthy 
+nonsmoker donor with a characteristic normal SAE transcriptome. The BC were 
+immortalized by retrovirus-mediated telomerase reverse transcriptase (TERT) 
+transduction and single cell drug selection. The resulting cell line 
+(hSABCi-NS1.1) was characterized by RNAseq, TaqMan PCR, protein 
+immunofluorescence, differentiation capacity on an air-liquid interface (ALI) 
+culture, transepithelial electrical resistance (TEER), airway region-associated 
+features and response to genetic modification with SPDEF.
+RESULTS: The hSABCi-NS1.1 single-clone-derived cell line continued to 
+proliferate for > 200 doubling levels and > 70 passages, continuing to maintain 
+basal cell features (TP63+, KRT5+). When cultured on ALI, hSABCi-NS1.1 
+cells consistently formed tight junctions and differentiated into ciliated, club 
+(SCGB1A1+), mucous (MUC5AC+, MUC5B+), neuroendocrine (CHGA+), ionocyte (FOXI1+) 
+and surfactant protein positive cells (SFTPA+, SFTPB+, SFTPD+), observations 
+confirmed by RNAseq and TaqMan PCR. Annotation enrichment analysis showed that 
+"cilium" and "immunity" were enriched in functions of the top-1500 up-regulated 
+genes. RNAseq reads alignment corroborated expression of CD4, CD74 and MHC-II. 
+Compared to the large airway cell line BCi-NS1.1, differentiated of hSABCi-NS1.1 
+cells on ALI were enriched with small airway epithelial genes, including 
+surfactant protein genes, LTF and small airway development relevant 
+transcription factors NKX2-1, GATA6, SOX9, HOPX, ID2 and ETV5. 
+Lentivirus-mediated expression of SPDEF in hSABCi-NS1.1 cells induced secretory 
+cell metaplasia, accompanied with characteristic COPD-associated SAE secretory 
+cell changes, including up-regulation of MSMB, CEACAM5 and down-regulation of 
+LTF.
+CONCLUSIONS: The immortalized hSABCi-NS1.1 cell line has diverse differentiation 
+capacities and retains SAE features, which will be useful for understanding the 
+biology of SAE, the pathogenesis of SAE-related diseases, and testing new 
+pharmacologic agents.
+
+DOI: 10.1186/s12931-019-1140-9
+PMCID: PMC6708250
+PMID: 31443657 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+2. Zhonghua Bing Li Xue Za Zhi. 2018 Aug 8;47(8):603-608. doi: 
+10.3760/cma.j.issn.0529-5807.2018.08.007.
+
+[Lung non-terminal respiratory unit type adenocarcinoma: a clinicopathologic 
+study].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Liu B(1), Wu N(2), Shen Q, Shi SS, Zhang SS, Ru Y, Rao Q, Zhou XJ.
+
+Author information:
+(1)Department of Pathology, Suzhou Hospital, Nanjing Medical University, Suzhou 
+215001, China.
+(2)Department of Pathology, Nanjing Jinling Hospital, Nanjing 210002, China.
+
+Objective: To evaluate the clinicopathologic characteristics of lung 
+non-terminal respiratory unit (non-TRU) type adenocarcinoma. Methods: 
+Seventy-two cases of lung non-TRU type adenocarcinoma that underwent complete 
+resection and diagnosed at Departments of Pathology, Affiliated Suzhou Hospital 
+of Nanjing Medical University and Nanjing General Hospital of the PLA from 
+January 2005 to December 2016 were retrospectively studied. The 
+histomorphological changes and precursor lesions were observed under microscope. 
+The expression of lineage-specific markers and tumor stem cell markers was 
+detected by immunohistochemistry (IHC). The major driver mutations of lung 
+adenocarcinoma were tested by ARMS and directive gene sequencing. Results: 
+Non-TRU type adenocarcinomas were more commonly found in male (65.3%, 47/72), 
+former or current smokers (68.1%, 49/72), the elder (mean 61 years old), central 
+adenocarcinoma (75.0%, 54/72), tumors with necrosis (61.1%, 44/72) and higher 
+grade (73.6%, 53/72). Histologically, non-TRU type adenocarcinoma displayed 
+complex histomorphology and was often composed of large irregular gland-like and 
+acinar pattern accumulating extracellular mucin, necrotic tumor cell debris and 
+neutrophils, or invasive adenocarcinoma with mucin production. The tumor cells 
+were composed of bronchial surface epithelial cells, mucinous column cells, 
+polygonal cells and goblet cells. Eighteen (25.0%), 23 (31.9%) and 28 (38.9%) 
+cases exhibited ciliated columnar cell metaplasia (CCCM), mucous columnar cell 
+change (MCCC) and bronchiolar columnar cell dysplasia (BCCD) (precursor lesion 
+of lung adenocarcinoma). IHC showed the expression of CK7 (100.0%, 72/72), TTF1 
+(12.5%, 9/72), Napsin A (5.6%, 4/72), MUC5AC (81.9%, 59/72), MUC5B (87.5%, 
+63/72), p53 (66.7%, 48/72), CK5/6 (12.5%, 9/72), p63 (18.1%, 13/72), CK20 
+(19.4%, 14/72) and CDX2 (16.7%, 12/72) in the tumor cells. The expression of 
+tumor stem cell markers was detected in 43.1% cases (31/72) for CD44, 31.9% 
+(23/72) for CD133, 58.3% (42/72) for β-catenin, 36.1% (26/72) for ALDH1, 12.5% 
+(9/72) for GATA6, 20.8% (15/72) for SOX2 and 29.2% (21/72) for OCT4. The driver 
+mutations were 26.4% (19/72) for KRAS, 2.8% (2/72) for EGFR and 1.4% (1/72) for 
+EML4-ALK, and none for BRAF and ROS1. Conclusion: Non-TRU type adenocarcinoma is 
+an uncommon subtype of lung adenocarcinoma with distinct clinicopathologic 
+characteristics, histologic appearances, immunophenotype and molecular genetic 
+alterations.
+
+Publisher: 目的： 探讨肺非终末呼吸单元(non－TRU)型腺癌的临床病理特征。 方法： 
+收集南京医科大学附属苏州医院/苏州肿瘤诊疗中心病理科和解放军南京总医院病理科2005年1月至2016年12月72例手术切除的肺non－TRU型腺癌的病例资料，光镜下观察组织学和细胞学特征及其前驱病变，免疫组织化学检测谱系特异性标志物和肿瘤干细胞标志物的表达。应用扩增阻滞突变系统(ARMS)或直接基因测序法检测表皮生长因子受体(EGFR)、KRAS、BRAF、EML4－ALK和ROS1基因。 
+结果： 
+non－TRU型腺癌常见于男性(65.3%，47/72)、有吸烟史(68.1%，49/72)、年龄较大(平均61岁)、中央型腺癌(75.0%，54/72)、有肿瘤性坏死(61.1%，44/72)和高级别(73.6%，53/72)腺癌。光镜下，non－TRU型腺癌具有复杂多变的组织学结构，通常表现为大而不规则的、裂隙状腺样或囊泡状结构，腔内充满黏液、坏死的肿瘤细胞碎屑及中性粒细胞，或表现为伴有显著黏液产生的浸润性腺癌。肿瘤细胞具有支气管表面上皮细胞、黏液柱状细胞、多角形细胞或杯状细胞特征。25.0%(18/72)、31.9%(23/72)和38.9%(28/72)的病例伴有纤毛柱状细胞化生(CCCM)、黏液柱状细胞变(MCCC)和细支气管上皮异型增生(BCCD)。免疫组织化学表达细胞角蛋白(CK)7(100%，72/72)、甲状腺转录因子1(TTF1；12.5%，9/72)、Napsin 
+A(5.6%，4/72)、MUC5AC(81.9%，59/72)、MUC5B(87.5%，63/72)、p53(66.7%，48/72)、CK5/6(12.5%，9/72)、p63(18.1%，13/72)、CK20(19.4%，14/72)和CDX2(16.7%，12/72)，肿瘤干细胞标志物表达CD44(43.1%，31/72)、CD133(31.9%，23/72)、β－catenin(58.3%，42/72)、ALDH1(36.1%，26/72)、GATA6(12.5%、9/72)、SOX2(20.8%，15/72)和OCT4(29.2%，21/72)。驱动基因中19例(26.4%，19/72)KRAS突变，2例(2.8%，2/72)EGFR基因突变，1例(1.4%，1/72)EML4－ALK融合基因，未检测到BRAF和ROS1改变。 
+结论： non－TRU型腺癌具有显著的临床病理特征、组织形态学表现、免疫学表型和驱动基因改变，是肺腺癌独立的少见类型。.
+
+DOI: 10.3760/cma.j.issn.0529-5807.2018.08.007
+PMID: 30107665 [Indexed for MEDLINE]
+
+
+3. Respir Res. 2011 Jun 17;12(1):82. doi: 10.1186/1465-9921-12-82.
+
+Immunohistochemical detection and regulation of α5 nicotinic acetylcholine 
+receptor (nAChR) subunits by FoxA2 during mouse lung organogenesis.
+
+Porter JL(1), Bukey BR, Geyer AJ, Willnauer CP, Reynolds PR.
+
+Author information:
+(1)Department of Physiology and Developmental Biology, Brigham Young University, 
+Provo, UT 84602, USA.
+
+BACKGROUND: α5 nicotinic acetylcholine receptor (nAChR) subunits structurally 
+stabilize functional nAChRs in many non-neuronal tissue types. The expression of 
+α5 nAChR subunits and cell-specific markers were assessed during lung 
+morphogenesis by co-localizing immunohistochemistry from embryonic day (E) 13.5 
+to post natal day (PN) 20. Transcriptional control of α5 nAChR expression by 
+FoxA2 and GATA-6 was determined by reporter gene assays.
+RESULTS: Steady expression of α5 nAChR subunits was observed in distal lung 
+epithelial cells during development while proximal lung expression significantly 
+alternates between abundant prenatal expression, absence at PN4 and PN10, and a 
+return to intense expression at PN20. α5 expression was most abundant on luminal 
+edges of alveolar type (AT) I and ATII cells, non-ciliated Clara cells, and 
+ciliated cells in the proximal lung at various periods of lung formation. 
+Expression of α5 nAChR subunits correlated with cell differentiation and 
+reporter gene assays suggest expression of α5 is regulated in part by FoxA2, 
+with possible cooperation by GATA-6.
+CONCLUSIONS: Our data reveal a highly regulated temporal-spatial pattern of α5 
+nAChR subunit expression during important periods of lung morphogenesis. Due to 
+specific regulation by FoxA2 and distinct identification of α5 in alveolar 
+epithelium and Clara cells, future studies may identify possible mechanisms of 
+cell differentiation and lung homeostasis mediated at least in part by 
+α5-containing nAChRs.
+
+DOI: 10.1186/1465-9921-12-82
+PMCID: PMC3127772
+PMID: 21682884 [Indexed for MEDLINE]
+
+
+4. Virchows Arch. 2003 Apr;442(4):393-9. doi: 10.1007/s00428-003-0798-y. Epub 2003 
+Apr 4.
+
+Pulmonary well-differentiated fetal adenocarcinoma expressing lineage-specific 
+transcription factors (TTF-1 and GATA-6) to respiratory epithelial 
+differentiation: an immunohistochemical and ultrastructural study.
+
+Yamazaki K(1).
+
+Author information:
+(1)Department of Pathology, Saiseikai Central Hospital, 1-4-17 Mita, Minatoku, 
+108-0073, Tokyo, Japan. KazutoYamazaki@aol.com
+
+A case of pulmonary well-differentiated fetal adenocarcinoma was examined with 
+conventional histological, immunohistochemical, and ultrastructural studies that 
+revealed the distribution of lineage-specific transcription factors (TTF-1 and 
+GATA-6). The patient was a 33-year-old Japanese woman, who underwent resection 
+of the right lower lobe for the lung tumor. The tumor demonstrated an organized 
+histology mimicking the epithelial differentiation of fetal lung with peculiar 
+glands and moruloid cell nests, without mesenchymal proliferation. 
+Adenocarcinoma cells forming the atypical glands were similar to the epithelial 
+cells of the branching tubules in the pseudo glandular stage of the fetal lung. 
+Distribution of TTF-1 was observed in many of the nuclei of the adenocarcinoma 
+cells forming the glands. Tumor cells in the morula were primitive epithelial 
+cells with some immunohistochemical neuroendocrine cell differentiation and some 
+of them showed GATA-6-positive stains in the nuclei. In the ultrastructural 
+study, adenocarcinoma cells showed little differentiation toward mucous cells 
+and ciliated cells. Neuroendocrine granules were seen in a few tumor cells in 
+the morula. In the present case, tumor cells forming the peculiar histological, 
+molecular, and ultrastructural constructions showed partial and incomplete 
+mimicry of the morphogenesis of respiratory epithelium.
+
+DOI: 10.1007/s00428-003-0798-y
+PMID: 12684771 [Indexed for MEDLINE]
+
+
+5. Am J Respir Cell Mol Biol. 1999 Aug;21(2):153-4. doi: 10.1165/ajrcmb.21.2.f159.
+
+Forkhead transcription factor HFH-4 and respiratory epithelial cell 
+differentiation.
+
+Whitsett JA(1), Tichelaar JW.
+
+Author information:
+(1)Division of Pulmonary Biology, Children's Hospital Medical Center, 
+Cincinnati, Ohio, USA. whitj0@chmcc.org
+
+DOI: 10.1165/ajrcmb.21.2.f159
+PMID: 10423395 [Indexed for MEDLINE]

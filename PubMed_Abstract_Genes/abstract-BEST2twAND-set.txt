@@ -1,0 +1,370 @@
+1. Nature. 2022 Nov;611(7934):180-187. doi: 10.1038/s41586-022-05373-x. Epub 2022 
+Oct 26.
+
+Bestrophin-2 and glutamine synthetase form a complex for glutamate release.
+
+Owji AP(#)(1)(2), Yu K(#)(3), Kittredge A(#)(1)(2), Wang J(#)(1), Zhang Y(4), 
+Yang T(5).
+
+Author information:
+(1)Department of Ophthalmology, Columbia University, New York, NY, USA.
+(2)Department of Pharmacology, Columbia University, New York, NY, USA.
+(3)Department of Cell Biology, Emory University, School of Medicine, Atlanta, 
+GA, USA.
+(4)Department of Ophthalmology, Columbia University, New York, NY, USA. 
+yz3802@cumc.columbia.edu.
+(5)Department of Ophthalmology, Columbia University, New York, NY, USA. 
+ty2190@cumc.columbia.edu.
+(#)Contributed equally
+
+Bestrophin-2 (BEST2) is a member of the bestrophin family of calcium-activated 
+anion channels that has a critical role in ocular physiology1-4. Here we uncover 
+a directional permeability of BEST2 to glutamate that heavily favours glutamate 
+exit, identify glutamine synthetase (GS) as a binding partner of BEST2 in the 
+ciliary body of the eye, and solve the structure of the BEST2-GS complex. BEST2 
+reduces cytosolic GS activity by tethering GS to the cell membrane. GS extends 
+the ion conducting pathway of BEST2 through its central cavity and inhibits 
+BEST2 channel function in the absence of intracellular glutamate, but sensitizes 
+BEST2 to intracellular glutamate, which promotes the opening of BEST2 and thus 
+relieves the inhibitory effect of GS. We demonstrate the physiological role of 
+BEST2 in conducting chloride and glutamate and the influence of GS in 
+non-pigmented ciliary epithelial cells. Together, our results reveal a novel 
+mechanism of glutamate release through BEST2-GS.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41586-022-05373-x
+PMCID: PMC9873481
+PMID: 36289327 [Indexed for MEDLINE]
+
+
+2. BMC Neurosci. 2016 Apr 25;17(1):17. doi: 10.1186/s12868-016-0252-0.
+
+Single Ca(2+)-activated Cl(-) channel currents recorded from toad olfactory 
+cilia.
+
+Delgado R(1), Mura CV(1), Bacigalupo J(2).
+
+Author information:
+(1)Department of Biology, Faculty of Sciences, University of Chile, 7800024, 
+Ñuñoa, Santiago, Chile.
+(2)Department of Biology, Faculty of Sciences, University of Chile, 7800024, 
+Ñuñoa, Santiago, Chile. bacigalu@uchile.cl.
+
+BACKGROUND: Odor transduction, occurring in the chemosensory cilia of vertebrate 
+olfactory sensory neurons, is triggered by guanosine triphosphate-coupled odor 
+receptors and mediated by a cyclic adenosine monophosphate (cAMP) signaling 
+cascade, where cAMP opens cationic non-selective cyclic nucleotide-gated (CNG) 
+channels. Calcium enters through CNG gates Ca(2+)-activated Cl(-) channels, 
+allowing a Cl(-) inward current that enhances the depolarization initiated by 
+the CNG-dependent inward current. The anoctamin channel 2, ANO2, is considered 
+the main Ca(2+)-activated Cl(-) channel of olfactory transduction. Although 
+Ca(2+)-activated Cl(-) channel-dependent currents in olfactory sensory neurons 
+were reported to be suppressed in ANO2-knockout mice, field potentials from 
+their olfactory epithelium were only modestly diminished and their 
+smell-dependent behavior was unaffected, suggesting the participation of 
+additional Ca(2+)-activated Cl(-) channel types. The Bestrophin channel 2, 
+Best2, was also detected in mouse olfactory cilia and ClCa4l, belonging to the 
+ClCa family of Ca(2+)-activated Cl(-) channels, were found in rat cilia. Best2 
+knock-out mice present no electrophysiological or behavioral impairment, while 
+the ClCa channels have not been functionally studied; therefore, the overall 
+participation of all these channels in olfactory transduction remains 
+unresolved.
+RESULTS: We explored the presence of detectable Ca(2+)-activated Cl(-) channels 
+in toad olfactory cilia by recording from inside-out membrane patches excised 
+from individual cilia and detected unitary Cl(-) current events with a 
+pronounced Ca(2+) dependence, corresponding to 12 and 24 pS conductances, over 
+tenfold higher than the aforementioned channels, and a approx. fivefold higher 
+Ca(2+) affinity (K0.5 = 0.38 µM). Remarkably, we observed immunoreactivity to 
+anti-ClCa and anti-ANO2 antibodies in the olfactory cilia, suggesting a possible 
+cooperative function of both channel type in chemotransduction.
+CONCLUSIONS: These results are consistent with a novel olfactory cilia channel, 
+which might play a role in odor transduction.
+
+DOI: 10.1186/s12868-016-0252-0
+PMCID: PMC4845334
+PMID: 27113933 [Indexed for MEDLINE]
+
+
+3. J Biol Chem. 2011 Dec 2;286(48):41353-41358. doi: 10.1074/jbc.M111.284679. Epub 
+2011 Oct 12.
+
+Regulation of anterior chamber drainage by bicarbonate-sensitive soluble 
+adenylyl cyclase in the ciliary body.
+
+Lee YS(1), Tresguerres M(2), Hess K(2), Marmorstein LY(3), Levin LR(2), Buck 
+J(2), Marmorstein AD(4).
+
+Author information:
+(1)Department of Ophthalmology and Vision Science, University of Arizona, 
+Tucson, Arizona 85719.
+(2)Department of Pharmacology, Weill Cornell College of Medicine, New York, New 
+York 10065.
+(3)Department of Ophthalmology and Vision Science, University of Arizona, 
+Tucson, Arizona 85719; Department of Physiology, University of Arizona, Tucson, 
+Arizona 85719.
+(4)Department of Ophthalmology and Vision Science, University of Arizona, 
+Tucson, Arizona 85719; College of Optical Sciences, University of Arizona, 
+Tucson, Arizona 85719. Electronic address: amarmorstein@eyes.arizona.edu.
+
+Glaucoma is a leading cause of blindness affecting as many as 2.2 million 
+Americans. All current glaucoma treatment strategies aim to reduce intraocular 
+pressure (IOP). IOP results from the resistance to drainage of aqueous humor 
+(AH) produced by the ciliary body in a process requiring bicarbonate. Once 
+secreted into the anterior chamber, AH drains from the eye via two pathways: 
+uveoscleral and pressure-dependent or conventional outflow (C(t)). Modulation of 
+"inflow" and "outflow" pathways is thought to occur via distinct, local 
+mechanisms. Mice deficient in the bicarbonate channel bestrophin-2 (Best2), 
+however, exhibit a lower IOP despite an increase in AH production. Best2 is 
+expressed uniquely in nonpigmented ciliary epithelial (NPE) cells providing 
+evidence for a bicarbonate-dependent communicative pathway linking inflow and 
+outflow. Here, we show that bicarbonate-sensitive soluble adenylyl cyclase (sAC) 
+is highly expressed in the ciliary body in NPE cells, but appears to be absent 
+from drainage tissues. Pharmacologic inhibition of sAC in mice causes a 
+significant increase in IOP due to a decrease in C(t) with no effect on inflow. 
+In mice deficient in sAC IOP is elevated, and C(t) is decreased relative to 
+wild-type mice. Pharmacologic inhibition of sAC did not alter IOP or C(t) in 
+sAC-deficient mice. Based on these data we propose that the ciliary body can 
+regulate C(t) and that sAC serves as a critical sensor of bicarbonate in the 
+ciliary body regulating the secretion of substances into the AH that govern 
+outflow facility independent of pressure.
+
+DOI: 10.1074/jbc.M111.284679
+PMCID: PMC3308847
+PMID: 21994938 [Indexed for MEDLINE]
+
+
+4. Mol Vis. 2010 Feb 10;16:200-6.
+
+Bestrophin 2 is expressed in human non-pigmented ciliary epithelium but not 
+retinal pigment epithelium.
+
+Zhang Y(1), Patil RV, Marmorstein AD.
+
+Author information:
+(1)Department of Ophthalmology and Vision Science, University of Arizona, 
+Tucson, AZ 85724, USA.
+
+PURPOSE: Mice in which bestrophin 2 (Best2) is disrupted exhibit changes in 
+aqueous flow and drainage, resulting in a reduction in intraocular pressure in 
+comparison to wild-type mice. Best2 encodes a putative anion channel localized 
+uniquely to the basolateral plasma membrane of non-pigmented epithelium cells in 
+mice. In this study, we examine the localization of Best2 in the human eye.
+METHODS: Rabbit polyclonal antibodies recognizing human Best2 (hBest2) were 
+generated and characterized for use in western blot, immunoprecipitation, and 
+immunofluorescence assays. The expression of hBest2 using these antibodies was 
+examined using human donor eye tissues.
+RESULTS: We could not detect hBest2 in human ciliary bodies or other ocular 
+tissues by western blot. However, when enriched by immunoprecipitation, hBest2 
+was identified in ciliary bodies, but not in the retinal pigment epithelium. 
+Using immunofluorescence, we located hBest2 in the basolateral plasma membrane 
+of non-pigmented epithelial cells.
+CONCLUSIONS: We found expression of hBest2 similar to mice only in NPE cells. 
+These data suggest that Best2 may play a functional role in the regulation of 
+aqueous flow and drainage in humans. We conclude that Best2 represents a new 
+potential target for glaucoma therapy.
+
+PMCID: PMC2820107
+PMID: 20157619 [Indexed for MEDLINE]
+
+
+5. J Physiol. 2009 Sep 1;587(Pt 17):4265-79. doi: 10.1113/jphysiol.2009.176131. 
+Epub 2009 Jul 21.
+
+Calcium-activated chloride currents in olfactory sensory neurons from mice 
+lacking bestrophin-2.
+
+Pifferi S(1), Dibattista M, Sagheddu C, Boccaccio A, Al Qteishat A, Ghirardi F, 
+Tirindelli R, Menini A.
+
+Author information:
+(1)International School for Advanced Studies, Scuola Internazionale Superiore di 
+Studi Avanzati, SISSA, and Italian Institute of Technology, SISSA Unit, Trieste, 
+Italy.
+
+Comment in
+    J Physiol. 2009 Sep 1;587(Pt 17):4135-6. doi: 10.1113/jphysiol.2009.178954.
+
+Olfactory sensory neurons use a chloride-based signal amplification mechanism to 
+detect odorants. The binding of odorants to receptors in the cilia of olfactory 
+sensory neurons activates a transduction cascade that involves the opening of 
+cyclic nucleotide-gated channels and the entry of Ca(2+) into the cilia. Ca(2+) 
+activates a Cl(-) current that produces an efflux of Cl(-) ions and amplifies 
+the depolarization. The molecular identity of Ca(2+)-activated Cl(-) channels is 
+still elusive, although some bestrophins have been shown to function as 
+Ca(2+)-activated Cl(-) channels when expressed in heterologous systems. In the 
+olfactory epithelium, bestrophin-2 (Best2) has been indicated as a candidate for 
+being a molecular component of the olfactory Ca(2+)-activated Cl(-) channel. In 
+this study, we have analysed mice lacking Best2. We compared the 
+electrophysiological responses of the olfactory epithelium to odorant 
+stimulation, as well as the properties of Ca(2+)-activated Cl(-) currents in 
+wild-type (WT) and knockout (KO) mice for Best2. Our results confirm that Best2 
+is expressed in the cilia of olfactory sensory neurons, while odorant responses 
+and Ca(2+)-activated Cl(-) currents were not significantly different between WT 
+and KO mice. Thus, Best2 does not appear to be the main molecular component of 
+the olfactory channel. Further studies are required to determine the function of 
+Best2 in the cilia of olfactory sensory neurons.
+
+DOI: 10.1113/jphysiol.2009.176131
+PMCID: PMC2754364
+PMID: 19622610 [Indexed for MEDLINE]
+
+
+6. J Comp Neurol. 2009 Aug 10;515(5):585-99. doi: 10.1002/cne.22075.
+
+Bestrophin 2: an anion channel associated with neurogenesis in chemosensory 
+systems.
+
+Klimmeck D(1), Daiber PC, Brühl A, Baumann A, Frings S, Möhrlen F.
+
+Author information:
+(1)Department of Molecular Physiology, Institute of Zoology, University of 
+Heidelberg, 69120 Heidelberg, Germany.
+
+The chemosensory neuroepithelia of the vertebrate olfactory system share a 
+life-long ability to regenerate. Novel neurons proliferate from basal stem cells 
+that continuously replace old or damaged sensory neurons. The sensory neurons of 
+the mouse and rat olfactory system specifically express bestrophin 2, a member 
+of the bestrophin family of calcium-activated chloride channels. This channel 
+was recently proposed to operate as a transduction channel in olfactory sensory 
+cilia. We raised a polyclonal antibody against bestrophin 2 and characterized 
+the expression pattern of this protein in the mouse main olfactory epithelium, 
+septal organ of Masera, and vomeronasal organ. Comparison with the maturation 
+markers growth-associated protein 43 and olfactory marker protein revealed that 
+bestrophin 2 was expressed in developing sensory neurons of all chemosensory 
+neuroepithelia, but was restricted to proximal cilia in mature sensory neurons. 
+Our results suggest that bestrophin 2 plays a critical role during 
+differentiation and growth of axons and cilia. In mature olfactory receptor 
+neurons, it appears to support growth and function of sensory cilia.
+
+Copyright 2009 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.22075
+PMID: 19480000 [Indexed for MEDLINE]
+
+
+7. Prog Retin Eye Res. 2009 May;28(3):206-26. doi: 
+10.1016/j.preteyeres.2009.04.004. Epub 2009 May 4.
+
+Functional roles of bestrophins in ocular epithelia.
+
+Marmorstein AD(1), Cross HE, Peachey NS.
+
+Author information:
+(1)Department of Ophthalmology and Vision Science, University of Arizona, 
+Tucson, AZ 85711, USA. amarmorstein@eyes.arizona.edu
+
+There are four members of the bestrophin family of proteins in the human genome, 
+of which two are known to be expressed in the eye. The gene BEST1 (formerly 
+VMD2) which encodes the protein bestrophin-1 (Best1) was first identified in 
+1998. Mutations in this gene have now been associated with four clinically 
+distinguishable human eye diseases, collectively referred to as 
+"bestrophinopathies". Over the last decade, laboratories have sought to 
+understand how Best1 mutations could result in eye diseases that range in 
+presentation from macular degeneration to nanophthalmos. The majority of our 
+knowledge comes from studies that have sought to understand how Best1 mutations 
+or dysfunction could induce the classical symptoms of the most common of these 
+diseases: Best vitelliform macular dystrophy (BVMD). BVMD is a dominant trait 
+that is characterized electrophysiologically by a diminished electrooculogram 
+light peak with a normal clinical electroretinogram. This together with the 
+localization of Best1 to the retinal pigment epithelium (RPE) basolateral plasma 
+membrane and data from heterologous expression studies, have led to the proposal 
+that Best1 generates the light peak, and that bestrophins are a family of Ca(2+) 
+activated Cl(-) channels (CaCCs). However, data from Best1 knock-out and 
+knock-in mice, coupled with the recent discovery of a recessive bestrophinopathy 
+suggest that Best1 does not generate the light peak. Recently Best2 was found to 
+be expressed in non-pigmented epithelia in the ciliary body. However, aqueous 
+dynamics in Best2 knock-out mice do not support a role for Best2 as a Cl(-) 
+channel. Thus, the purported CaCC function of the bestrophins and how loss of 
+this function relates to clinical disease needs to be reassessed. In this 
+article, we examine data obtained from tissue-type and animal models and discuss 
+the current state of bestrophin research, what roles Best1 and Best2 may play in 
+ocular epithelia and ocular electrophysiology, and how perturbation of these 
+functions may result in disease.
+
+DOI: 10.1016/j.preteyeres.2009.04.004
+PMCID: PMC2740978
+PMID: 19398034 [Indexed for MEDLINE]
+
+
+8. Invest Ophthalmol Vis Sci. 2008 Apr;49(4):1563-70. doi: 10.1167/iovs.07-1338.
+
+Bestrophin-2 is involved in the generation of intraocular pressure.
+
+Bakall B(1), McLaughlin P, Stanton JB, Zhang Y, Hartzell HC, Marmorstein LY, 
+Marmorstein AD.
+
+Author information:
+(1)Department of Ophthalmology and Vision Science, University of Arizona, 
+Tucson, Arizona.
+
+PURPOSE: The bestrophin family of proteins has been demonstrated to generate or 
+regulate Ca2+-activated Cl(-) conductances. Mutations in bestrophin-1 (Best1) 
+cause several blinding eye diseases, but little is known about other bestrophin 
+family members. This study involved disruption of the Best2 gene in mice.
+METHODS: The mouse Best2 gene was disrupted by replacing exons 1, 2, and part of 
+exon 3 with a Lac Z. The expression profile of Bestrophin-2 (Best2) was examined 
+using RT-PCR, X-gal staining, and immunohistochemistry. Intraocular pressure 
+(IOP) was measured by anterior chamber cannulation.
+RESULTS: RT-PCR of mouse tissues revealed Best2 mRNA in eye, colon, nasal 
+epithelia, trachea, brain, lung, and kidney. X-gal staining, confirmed 
+expression in colon epithelia and in the eye, in the nonpigmented epithelia 
+(NPE). Best2 was not expressed in RPE cells. Best2 protein was observed only in 
+NPE and colon epithelia. The absence of Best2 had no obvious deleterious effect 
+on the mice. However, the Best2-/- mice were found to have significantly (P < 
+0.02) diminished IOP with respect to the Best2+/+ and Best2+/- littermates. The 
+Best2-/- and Best2+/- mice responded better to the carbonic anhydrase inhibitor 
+brinzolamide than did their Best2+/+ littermates, although the beta-blocker 
+timolol brought IOP to the same level, regardless of genotype.
+CONCLUSIONS: Best2 plays a role in the generation of IOP by regulating formation 
+of aqueous humor, and inhibition of Best2 function represents an attractive new 
+avenue for regulating IOP in individuals with glaucoma.
+
+DOI: 10.1167/iovs.07-1338
+PMCID: PMC2832837
+PMID: 18385076 [Indexed for MEDLINE]
+
+
+9. Proc Natl Acad Sci U S A. 2006 Aug 22;103(34):12929-34. doi: 
+10.1073/pnas.0604505103. Epub 2006 Aug 15.
+
+Bestrophin-2 is a candidate calcium-activated chloride channel involved in 
+olfactory transduction.
+
+Pifferi S(1), Pascarella G, Boccaccio A, Mazzatenta A, Gustincich S, Menini A, 
+Zucchelli S.
+
+Author information:
+(1)Sector of Neurobiology, International School for Advanced Studies (SISSA), 
+Via Beirut 2-4, 34014 Trieste, Italy.
+
+Ca-activated Cl channels are an important component of olfactory transduction. 
+Odor binding to olfactory receptors in the cilia of olfactory sensory neurons 
+(OSNs) leads to an increase of intraciliary Ca concentration by Ca entry through 
+cyclic nucleotide-gated (CNG) channels. Ca activates a Cl channel that leads to 
+an efflux of Cl from the cilia, contributing to the amplification of the OSN 
+depolarization. The molecular identity of this Cl channel remains elusive. 
+Recent evidence has indicated that bestrophins are able to form Ca-activated Cl 
+channels in heterologous systems. Here we have analyzed the expression of 
+bestrophins in the mouse olfactory epithelium and demonstrated that only mouse 
+bestrophin-2 (mBest2) was expressed. Single-cell RT-PCR showed that mBest2 was 
+expressed in OSNs but not in supporting cells. Immunohistochemistry revealed 
+that mBest2 was expressed on the cilia of OSNs, the site of olfactory 
+transduction, and colocalized with the main CNGA2 channel subunit. 
+Electrophysiological properties of Ca-activated Cl currents from native channels 
+in dendritic knob/cilia of mouse OSNs were compared with those induced by the 
+expression of mBest2 in HEK-293 cells. We found the same anion permeability 
+sequence, small estimated single-channel conductances, a Ca sensitivity 
+difference of one order of magnitude, and the same side-specific blockage of the 
+two Cl channel blockers commonly used to inhibit the odorant-induced 
+Ca-activated Cl current in OSNs, niflumic acid, and 
+4-acetamido-4'-isothiocyanato-stilben-2,2'-disulfonate (SITS). Therefore, our 
+data suggest that mBest2 is a good candidate for being a molecular component of 
+the olfactory Ca-activated Cl channel.
+
+DOI: 10.1073/pnas.0604505103
+PMCID: PMC1568948
+PMID: 16912113 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: No conflicts 
+declared.

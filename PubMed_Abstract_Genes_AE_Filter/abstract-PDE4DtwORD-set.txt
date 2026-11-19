@@ -1,0 +1,784 @@
+1. Signal Transduct Target Ther. 2024 Mar 25;9(1):74. doi: 
+10.1038/s41392-024-01753-z.
+
+SARS-CoV-2 envelope protein impairs airway epithelial barrier function and 
+exacerbates airway inflammation via increased intracellular Cl(-) concentration.
+
+Xu JB(#)(1), Guan WJ(#)(2)(3)(4), Zhang YL(#)(5)(6), Qiu ZE(5), Chen L(5), Hou 
+XC(5), Yue J(1)(7), Zhou YY(5), Sheng J(5), Zhao L(1)(8), Zhu YX(5), Sun 
+J(1)(7), Zhao J(1)(7), Zhou WL(9), Zhong NS(10)(11).
+
+Author information:
+(1)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, National Center for Respiratory Medicine, 
+Department of Respiratory and Critical Care Medicine, Guangzhou Institute of 
+Respiratory Health, The First Affiliated Hospital of Guangzhou Medical 
+University, Guangzhou, P. R. China.
+(2)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, National Center for Respiratory Medicine, 
+Department of Respiratory and Critical Care Medicine, Guangzhou Institute of 
+Respiratory Health, The First Affiliated Hospital of Guangzhou Medical 
+University, Guangzhou, P. R. China. battery203@163.com.
+(3)Department of Thoracic Surgery, Guangzhou Institute for Respiratory Health, 
+The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, P. R. 
+China. battery203@163.com.
+(4)Guangzhou National Laboratory, Guangzhou, P. R. China. battery203@163.com.
+(5)School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. China.
+(6)Guangdong Provincial Key Laboratory of Pharmaceutical Functional Genes, 
+School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. China.
+(7)Guangzhou National Laboratory, Guangzhou, P. R. China.
+(8)Department of Physiology, School of Basic Medical Sciences, Guangzhou Medical 
+University, Guangzhou, P. R. China.
+(9)School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. China. 
+lsszwl@mail.sysu.edu.cn.
+(10)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, National Center for Respiratory Medicine, 
+Department of Respiratory and Critical Care Medicine, Guangzhou Institute of 
+Respiratory Health, The First Affiliated Hospital of Guangzhou Medical 
+University, Guangzhou, P. R. China. nanshan@vip.163.com.
+(11)Guangzhou National Laboratory, Guangzhou, P. R. China. nanshan@vip.163.com.
+(#)Contributed equally
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection disrupts 
+the epithelial barrier and triggers airway inflammation. The envelope (E) 
+protein, a core virulence structural component of coronaviruses, may play a role 
+in this process. Pathogens could interfere with transepithelial Cl- transport 
+via impairment of the cystic fibrosis transmembrane conductance regulator 
+(CFTR), which modulates nuclear factor κB (NF-κB) signaling. However, the 
+pathological effects of SARS-CoV-2 E protein on airway epithelial barrier 
+function, Cl- transport and the robust inflammatory response remain to be 
+elucidated. Here, we have demonstrated that E protein down-regulated the 
+expression of tight junctional proteins, leading to the disruption of the airway 
+epithelial barrier. In addition, E protein triggered the activation of Toll-like 
+receptor (TLR) 2/4 and downstream c-Jun N-terminal kinase (JNK) signaling, 
+resulting in an increased intracellular Cl- concentration ([Cl-]i) via 
+up-regulating phosphodiesterase 4D (PDE4D) expression in airway epithelial 
+cells. This elevated [Cl-]i contributed to the heightened airway inflammation 
+through promoting the phosphorylation of serum/glucocorticoid regulated kinase 1 
+(SGK1). Moreover, blockade of SGK1 or PDE4 alleviated the robust inflammatory 
+response induced by E protein. Overall, these findings provide novel insights 
+into the pathogenic role of SARS-CoV-2 E protein in airway epithelial damage and 
+the ongoing airway inflammation during SARS-CoV-2 infection.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41392-024-01753-z
+PMCID: PMC10963779
+PMID: 38528022 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+2. Int Immunopharmacol. 2024 Feb 15;128:111490. doi: 10.1016/j.intimp.2024.111490. 
+Epub 2024 Jan 13.
+
+Hypersampsonone H attenuates ulcerative colitis via inhibition of PDE4 and 
+regulation of cAMP/PKA/CREB signaling pathway.
+
+Li Y(1), Wang M(1), Su J(1), Zhong R(2), Yin S(3), Zhao Z(4), Sun Z(5).
+
+Author information:
+(1)State Key Laboratory of Traditional Chinese Medicine Syndrome, School of 
+Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 
+510006, China.
+(2)Guangdong Provincial Key Laboratory of Utilization and Conservation of Food 
+and Medicinal Resources in Northern Region, Shaoguan University, Shaoguan 
+512005, China.
+(3)School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, 
+China.
+(4)State Key Laboratory of Traditional Chinese Medicine Syndrome, School of 
+Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 
+510006, China. Electronic address: zzx37@gzucm.edu.cn.
+(5)Guangdong Provincial Key Laboratory of Utilization and Conservation of Food 
+and Medicinal Resources in Northern Region, Shaoguan University, Shaoguan 
+512005, China. Electronic address: sysuszh@126.com.
+
+BACKGROUND AND OBJECTIVES: Ulcerative colitis (UC) is a recurrent intestinal 
+inflammatory disease which poses a serious threat to the life of patients. 
+However, there are no specific drugs for UC yet. Hypericum sampsonii Hance (HS) 
+is a Chinese herbal medicine traditionally used to treat enteritis and 
+dysentery. Our previous studies have demonstrated that HS holds potential 
+anti-UC effects, and a novel compound named Hypersampsonone H (HS-1) isolated 
+from HS possesses significant anti-inflammatory activity. However, the 
+beneficial effects of HS-1 on UC remain unclear. This study aimed to investigate 
+the therapeutic effects of HS-1 on UC and its potential mechanisms, both in 
+vitro and in vivo.
+METHODS: The in vitro model was employed using LPS-induced RAW264.7 cells to 
+investigate the anti-inflammatory effects of HS-1 and its possible mechanisms. 
+Furthermore, the therapeutic efficacy and potential mechanisms of HS-1 against 
+dextran sulfate sodium (DSS)-induced acute colitis were assessed through 
+histopathological examination, biochemical analysis, and molecular docking.
+RESULTS: In vitro, HS-1 significantly reduced LPS-induced inflammatory 
+responses, as indicated by inhibiting NO production, down-regulating the 
+overexpression of COX-2 and iNOS, as well as regulating the imbalanced levels of 
+IL-6, TNF-α, and IL-10. Moreover, HS-1 also inhibited the expression of PDE4, 
+elevated the intracellular cAMP level, and promoted the phosphorylation of CREB, 
+thereby activating the PKA/CREB pathway in RAW264.7 cells. In vivo, HS-1 
+demonstrated therapeutic capacity against DSS-induced colitis by alleviating the 
+symptoms of colitis mice, regulating the abnormal expression of inflammatory 
+mediators, protecting the integrity of intestinal epithelial barrier, and 
+reducing tissue fibrosis. Consistently, HS-1 was found to decrease the 
+expression of PDE4 isoforms, subsequently activating the cAMP/PKA/CREB signaling 
+pathway. Furthermore, the molecular docking results indicated that HS-1 
+exhibited a high affinity for PDE4, particularly PDE4D. Further mechanistic 
+validation in vitro demonstrated that HS-1 possessed a synergistic effect on 
+forskolin and an antagonistic effect on H-89 dihydrochloride, thereby exerting 
+anti-inflammatory effects through the cAMP/PKA/CREB signaling pathway.
+CONCLUSION: We disclose that HS-1 serves as a promising candidate drug for the 
+treatment of UC by virtue of its ability to reduce DSS-induced colitis via the 
+inhibition of PDE4 and the activation of cAMP/PKA/CREB signaling pathway.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2024.111490
+PMID: 38218008 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Brain Behav Immun. 2023 Mar;109:1-22. doi: 10.1016/j.bbi.2022.12.020. Epub 2022 
+Dec 28.
+
+Selective PDE4 subtype inhibition provides new opportunities to intervene in 
+neuroinflammatory versus myelin damaging hallmarks of multiple sclerosis.
+
+Schepers M(1), Paes D(2), Tiane A(1), Rombaut B(2), Piccart E(3), van Veggel 
+L(1), Gervois P(4), Wolfs E(4), Lambrichts I(4), Brullo C(5), Bruno O(5), Fedele 
+E(6), Ricciarelli R(7), Ffrench-Constant C(8), Bechler ME(9), van Schaik P(10), 
+Baron W(10), Lefevere E(11), Wasner K(12), Grünewald A(12), Verfaillie C(13), 
+Baeten P(14), Broux B(14), Wieringa P(15), Hellings N(14), Prickaerts J(16), 
+Vanmierlo T(17).
+
+Author information:
+(1)Department of Neuroscience, Biomedical Research Institute, Faculty of 
+Medicine and Life Sciences, Hasselt University, Diepenbeek, Belgium; Department 
+Psychiatry and Neuropsychology, School for Mental Health and Neuroscience, 
+Maastricht University, Maastricht, Netherlands; University MS Center (UMSC) 
+Hasselt-Pelt, Hasselt, Belgium.
+(2)Department of Neuroscience, Biomedical Research Institute, Faculty of 
+Medicine and Life Sciences, Hasselt University, Diepenbeek, Belgium; Department 
+Psychiatry and Neuropsychology, School for Mental Health and Neuroscience, 
+Maastricht University, Maastricht, Netherlands.
+(3)Department of Neuroscience, Biomedical Research Institute, Faculty of 
+Medicine and Life Sciences, Hasselt University, Diepenbeek, Belgium.
+(4)Department of Cardio and Organ Systems, Biomedical Research Institute, 
+Hasselt University, Diepenbeek, Belgium.
+(5)Department of Pharmacy, Section of Medicinal Chemistry, University of Genoa, 
+Genova, Italy.
+(6)Department of Pharmacy, Section of Pharmacology and Toxicology, University of 
+Genova, Genova, Italy; IRCCS Ospedale Policlinico San Martino, Genova, Italy.
+(7)IRCCS Ospedale Policlinico San Martino, Genova, Italy; Department of 
+Experimental Medicine, Section of General Pathology, University of Genova, 
+Genova, Italy.
+(8)MRC Centre for Regenerative Medicine and MS Society Edinburgh Centre, 
+Edinburgh bioQuarter, University of Edinburgh, Edinburgh, UK.
+(9)Department of Cell and Developmental Biology, SUNY Upstate Medical 
+University, Syracuse, NY, USA.
+(10)Department of Biomedical Sciences of Cells and Systems, Section Molecular 
+Neurobiology, University of Groningen, University Medical Center Groningen, 
+Groningen, the Netherlands.
+(11)Rewind Therapeutics NV, Gaston Geenslaan 2, B-3001, Leuven, Belgium.
+(12)Luxembourg Centre for Systems Biomedicine, University of Luxembourg, 
+Esch-sur-Alzette, Luxembourg.
+(13)Stem Cell Institute, Department of Development and Regeneration, KU Leuven, 
+Belgium.
+(14)University MS Center (UMSC) Hasselt-Pelt, Hasselt, Belgium; Department of 
+Immunology and Infection, Biomedical Research Institute, Hasselt University, 
+Diepenbeek, Belgium.
+(15)MERLN Institute for Technology-Inspired Regenerative Medicine, Complex 
+Tissue Regeneration department, Maastricht University, Maastricht, the 
+Netherlands.
+(16)Department Psychiatry and Neuropsychology, School for Mental Health and 
+Neuroscience, Maastricht University, Maastricht, Netherlands.
+(17)Department of Neuroscience, Biomedical Research Institute, Faculty of 
+Medicine and Life Sciences, Hasselt University, Diepenbeek, Belgium; Department 
+Psychiatry and Neuropsychology, School for Mental Health and Neuroscience, 
+Maastricht University, Maastricht, Netherlands; University MS Center (UMSC) 
+Hasselt-Pelt, Hasselt, Belgium. Electronic address: 
+t.vanmierlo@maastrichtuniversity.nl.
+
+Multiple sclerosis (MS) is a chronic autoimmune disease of the central nervous 
+system (CNS) characterized by focal inflammatory lesions and prominent 
+demyelination. Even though the currently available therapies are effective in 
+treating the initial stages of disease, they are unable to halt or reverse 
+disease progression into the chronic progressive stage. Thus far, no 
+repair-inducing treatments are available for progressive MS patients. Hence, 
+there is an urgent need for the development of new therapeutic strategies either 
+targeting the destructive immunological demyelination or boosting endogenous 
+repair mechanisms. Using in vitro, ex vivo, and in vivo models, we demonstrate 
+that selective inhibition of phosphodiesterase 4 (PDE4), a family of enzymes 
+that hydrolyzes and inactivates cyclic adenosine monophosphate (cAMP), reduces 
+inflammation and promotes myelin repair. More specifically, we segregated the 
+myelination-promoting and anti-inflammatory effects into a PDE4D- and 
+PDE4B-dependent process respectively. We show that inhibition of PDE4D boosts 
+oligodendrocyte progenitor cells (OPC) differentiation and enhances 
+(re)myelination of both murine OPCs and human iPSC-derived OPCs. In addition, 
+PDE4D inhibition promotes in vivo remyelination in the cuprizone model, which is 
+accompanied by improved spatial memory and reduced visual evoked potential 
+latency times. We further identified that PDE4B-specific inhibition exerts 
+anti-inflammatory effects since it lowers in vitro monocytic nitric oxide (NO) 
+production and improves in vivo neurological scores during the early phase of 
+experimental autoimmune encephalomyelitis (EAE). In contrast to the pan PDE4 
+inhibitor roflumilast, the therapeutic dose of both the PDE4B-specific inhibitor 
+A33 and the PDE4D-specific inhibitor Gebr32a did not trigger emesis-like side 
+effects in rodents. Finally, we report distinct PDE4D isoform expression 
+patterns in human area postrema neurons and human oligodendroglia lineage cells. 
+Using the CRISPR-Cas9 system, we confirmed that pde4d1/2 and pde4d6 are the key 
+targets to induce OPC differentiation. Collectively, these data demonstrate that 
+gene specific PDE4 inhibitors have potential as novel therapeutic agents for 
+targeting the distinct disease processes of MS.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbi.2022.12.020
+PMID: 36584795 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. Br J Pharmacol. 2019 Jul;176(13):2209-2226. doi: 10.1111/bph.14667. Epub 2019 
+May 17.
+
+Inhibition of phosphodiesterase-4 attenuates murine ulcerative colitis through 
+interference with mucosal immunity.
+
+Li H(1)(2), Fan C(1), Feng C(1), Wu Y(1), Lu H(1)(2), He P(3), Yang X(3), Zhu 
+F(3), Qi Q(1), Gao Y(1)(2), Zuo J(2)(3), Tang W(1)(2).
+
+Author information:
+(1)Laboratory of Anti-inflammation, Shanghai Institute of Materia Medica, 
+Chinese Academy of Sciences, Shanghai, China.
+(2)School of Pharmacy, University of Chinese Academy of Sciences, Beijing, 
+China.
+(3)Laboratory of Immunopharmacology, State Key Laboratory of Drug Research, 
+Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, 
+China.
+
+BACKGROUND AND PURPOSE: Ulcerative colitis (UC) is an aetiologically refractory 
+inflammatory disease, accompanied by dysfunction of the epithelial barrier and 
+intestinal inflammation. Phosphodiesterase-4 (PDE4) serves as an intracellular 
+proinflammatory enzyme, hydrolyzing and inactivating cAMP. Though PDE4 
+inhibitors have been approved for pulmonary and dermatological diseases, the 
+role of PDE4 inhibition in modulating mucosal immunity in the intestine remains 
+ill-defined. This study was designed to explore whether PDE4 inhibition by 
+apremilast exerts protective effects in dextran sulfate sodium-induced murine 
+UC.
+EXPERIMENTAL APPROACH: Intestinal inflammation and disease severity were 
+evaluated by morphological, histopathological and biochemical assays, and in 
+vivo imaging. Expression of inflammatory mediators, components of PDE4-mediated 
+pathways in colon and macrophages were determined using quantitative real-time 
+PCR, ELISA, Luminex assay, immunostaining, or western blotting, along with siRNA 
+knockdown. Immune cells in mesenteric lymph nodes and colonic lamina propria 
+were analysed by flow cytometry.
+KEY RESULTS: Apremilast attenuated clinical features of UC, suppressing 
+microscopic colon damage, production of inflammatory mediators, oxidative 
+stresses, and fibrosis. Apremilast also promoted epithelial barrier function and 
+inhibited infiltration of immune cells into inflamed tissues, through decreasing 
+expression of chemokines and chemokine receptors. Furthermore, in UC, PDE4A, 
+PDE4B, and PDE4D were highly expressed in colon. Apremilast not only inhibited 
+PDE4 isoform expression but also activated PKA-CREB and Epac-Rap1 pathways and 
+subsequently suppressed MAPK, NF-κB, PI3K-mTOR, and JAK-STAT-SOCS3 activation.
+CONCLUSION AND IMPLICATIONS: Inhibition of PDE4 by apremilast protected against 
+UC, by interfering with mucosal immunity. These findings represent a promising 
+strategy for regulating intestinal inflammation.
+
+© 2019 The British Pharmacological Society.
+
+DOI: 10.1111/bph.14667
+PMCID: PMC6555859
+PMID: 30883697 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+5. Mucosal Immunol. 2018 Jul;11(4):1149-1157. doi: 10.1038/s41385-018-0013-8. Epub 
+2018 Mar 15.
+
+Increased intracellular Cl(-) concentration promotes ongoing inflammation in 
+airway epithelium.
+
+Zhang YL(1), Chen PX(1), Guan WJ(2)(3), Guo HM(1)(4), Qiu ZE(1), Xu JW(1), Luo 
+YL(1), Lan CF(1), Xu JB(1), Hao Y(5), Tan YX(2), Ye KN(1), Lun ZR(1), Zhao L(6), 
+Zhu YX(1), Huang J(1), Ko WH(5), Zhong WD(7), Zhou WL(8), Zhong NS(9).
+
+Author information:
+(1)School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+(2)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute for Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou Medical 
+University, Guangzhou, China.
+(3)Sino-French Hoffmann Institute, Guangzhou Medical University, Guangzhou, 
+China.
+(4)Biology and Food Engineering Institute, Guangdong University of Education, 
+Guangzhou, China.
+(5)School of Biomedical Sciences, The Chinese University of Hong Kong, N. T., 
+China, China.
+(6)Key Laboratory of Protein Modification and Degradation, School of Basic 
+Medical Sciences, Affiliated Cancer Hospital and Institute of Guangzhou Medical 
+University, Guangzhou, China.
+(7)Department of Urology, Guangdong Key Laboratory of Clinical Molecular 
+Medicine and Diagnostics, Guangzhou First People's Hospital, Guangzhou Medical 
+University, Guangzhou, China.
+(8)School of Life Sciences, Sun Yat-sen University, Guangzhou, China. 
+lsszwl@mail.sysu.edu.cn.
+(9)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute for Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou Medical 
+University, Guangzhou, China. nanshan@vip.163.com.
+
+Airway epithelial cells harbor the capacity of active Cl- transepithelial 
+transport and play critical roles in modulating innate immunity. However, 
+whether intracellular Cl- accumulation contributes to relentless airway 
+inflammation remains largely unclear. This study showed that, in airway 
+epithelial cells, intracellular Cl- concentration ([Cl-]i) was increased after 
+Pseudomonas aeruginosa lipopolysaccharide (LPS) stimulation via nuclear 
+factor-κB (NF-κB)-phosphodiesterase 4D (PDE4D)-cAMP signaling pathways. Clamping 
+[Cl-]i at high levels or prolonged treatment with LPS augmented serum- and 
+glucocorticoid-inducible protein kinase 1 (SGK1) phosphorylation and 
+subsequently triggered NF-κB activation in airway epithelial cells, whereas 
+inhibition of SGK1 abrogated airway inflammation in vitro and in vivo. 
+Furthermore, Cl--SGK1 signaling pathway was pronouncedly activated in patients 
+with bronchiectasis, a chronic airway inflammatory disease. Conversely, hydrogen 
+sulfide (H2S), a sulfhydryl-containing gasotransmitter, confers 
+anti-inflammatory effects through decreasing [Cl-]i via activation of cystic 
+fibrosis transmembrane conductance regulator (CFTR). Our study confirms that 
+intracellular Cl- is a crucial mediator of sustained airway inflammation. 
+Medications that abrogate excessively increased intracellular Cl- may offer 
+novel targets for the management of airway inflammatory diseases.
+
+DOI: 10.1038/s41385-018-0013-8
+PMID: 29545647 [Indexed for MEDLINE]
+
+
+6. Acta Otolaryngol. 2017 Jan;137(1):8-15. doi: 10.1080/00016489.2016.1211320. Epub 
+2016 Aug 15.
+
+Inhibition of phosphodiesterase 3, 4, and 5 induces endolymphatic hydrops in 
+mouse inner ear, as evaluated with repeated 9.4T MRI.
+
+Degerman E(1), In 't Zandt R(2), Pålbrink A(1), Eliasson L(3)(4), Cayé-Thomasen 
+P(5), Magnusson M(6).
+
+Author information:
+(1)a Department of Experimental Medical Sciences, Section for Diabetes , 
+Metabolism and Endocrinology Lund University Diabetes Centre , Lund , Sweden.
+(2)b Lund University Bioimaging Center, Lund University , Lund , Sweden.
+(3)c Department of Clinical Sciences in Malmö, Islet Cell Exocytosis , Lund 
+University Diabetes Centre, Lund University , Lund , Sweden.
+(4)d Clinical Research Centre, Skåne University Hospital , Malmö , Sweden.
+(5)e Department of Otorhinolaryngology, Head and Neck Surgery , Copenhagen 
+University Hospital Rigshospitalet , Copenhagen , Denmark.
+(6)f Department of Clinical Sciences, Section for Otorhinolaryngology , Lund 
+University & Skåne University Hospital , Lund , Sweden.
+
+CONCLUSION: The data indicate important roles for phosphodiesterase (PDE) 3, 4, 
+5, and related cAMP and cGMP pools in the regulation of inner ear fluid 
+homeostasis. Thus, dysfunction of these enzymes might contribute to pathologies 
+of the inner ear.
+OBJECTIVE: The mechanisms underlying endolymphatic hydrops, a hallmark of inner 
+ear dysfunction, are not known in detail; however, altered balance in cAMP and 
+cGMP signaling systems appears to be involved. Key components of these systems 
+are PDEs, enzymes that modulate the amplitude, duration, termination, and 
+specificity of cAMP and cGMP signaling.
+METHOD: To evaluate the role of PDE3, 4, and 5 and associated cAMP and cGMP 
+pools in inner ear function, the effect of cilostamide (PDE3 inhibitor), 
+rolipram (PDE4 inhibitor), and sildenafil (PDE5 inhibitor), administrated via 
+mini-osmotic pumps, on mouse inner ear fluid homeostasis was evaluated using 
+9.4T in vivo MRI in combination with intraperitoneally administered Gadolinium 
+contrast. Also, using human saccule as a model, the expression of PDEs and 
+related signaling molecules and targets was studied using immunohistochemistry.
+RESULTS: PDE3, PDE4, as well as PDE5 inhibitors resulted in the development of 
+endolymphatic hydrops. Furthermore, PDE3B, PDE4D, and some related signaling 
+components were shown to be expressed in the human saccule.
+
+DOI: 10.1080/00016489.2016.1211320
+PMID: 27685753 [Indexed for MEDLINE]
+
+
+7. Cell Signal. 2016 Jul;28(7):753-63. doi: 10.1016/j.cellsig.2016.01.007. Epub 
+2016 Jan 22.
+
+Phosphodiesterase 4 in inflammatory diseases: Effects of apremilast in psoriatic 
+blood and in dermal myofibroblasts through the PDE4/CD271 complex.
+
+Schafer PH(1), Truzzi F(2), Parton A(3), Wu L(3), Kosek J(3), Zhang LH(3), Horan 
+G(3), Saltari A(2), Quadri M(2), Lotti R(2), Marconi A(2), Pincelli C(2).
+
+Author information:
+(1)Sol J. Barer Laboratories, Celgene Corporation, Summit, NJ, USA. Electronic 
+address: pschafer@celgene.com.
+(2)Laboratory of Cutaneous Biology, Department of Surgical, Medical, Dental and 
+Morphological Sciences, University of Modena and Reggio Emilia, Modena, Italy.
+(3)Sol J. Barer Laboratories, Celgene Corporation, Summit, NJ, USA.
+
+Phosphodiesterases 4 (PDE4) act as proinflammatory enzymes via degradation of 
+cAMP, whereas PDE4 inhibitors play an anti-inflammatory role in vitro and in 
+vivo. In particular, apremilast has been recently approved for the treatment of 
+psoriasis and psoriatic arthritis. However, little is known on the expression 
+pattern of PDE4 in psoriasis. We report that PDE4B and PDE4D mRNA are 
+overexpressed in peripheral blood mononuclear cells (PBMC) from psoriasis, as 
+compared with normal controls, while apremilast reduces PBMC production of a 
+number of pro-inflammatory cytokines and increases the levels of 
+anti-inflammatory mediators. PDE4 expression is up-regulated in psoriatic dermis 
+as compared with normal skin, with particular regard to fibroblasts. This is 
+confirmed in vitro, where both dermal fibroblasts (DF) and, to a greater extent, 
+myofibroblasts (DM) express all PDE4 isoforms at the mRNA and protein level. 
+Because PDE4 interacts with the nerve growth factor (NGF) receptor CD271 in lung 
+fibroblasts, we evaluated the relationship and function of PDE4 and CD271 in 
+normal human skin fibroblasts. All PDE4 isoforms co-immunoprecipitate with CD271 
+in DM, while apremilast inhibits apoptosis induced by β-amyloid, a CD271 ligand, 
+in DM. Furthermore, apremilast significantly reduces NGF- and transforming 
+growth factor-β1 (TGF-β1)-induced fibroblast migration, and inhibits DF 
+differentiation into DM mediated by NGF or TGF-β1. Finally, in DM, apremilast 
+significantly reduces cAMP degradation induced by treatment with β-amyloid. 
+Taken together, these results indicate that PDE4 play an important role in 
+psoriasis. In addition, the study reveals that the PDE4/CD271 complex could be 
+important in modulating fibroblast functions.
+
+Copyright © 2016 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellsig.2016.01.007
+PMID: 26806620 [Indexed for MEDLINE]
+
+
+8. PLoS One. 2015 Apr 24;10(4):e0121725. doi: 10.1371/journal.pone.0121725. 
+eCollection 2015.
+
+The unrecognized effects of phosphodiesterase 4 on epithelial cells in pulmonary 
+inflammation.
+
+Konrad FM(1), Bury A(1), Schick MA(2), Ngamsri KC(1), Reutershan J(1).
+
+Author information:
+(1)Department of Anesthesiology and Intensive Care Medicine, University Hospital 
+of Tübingen, Tübingen, Germany.
+(2)Department of Anesthesiology and Intensive Care Medicine, University Hospital 
+of Würzburg, Würzburg, Germany.
+
+Acute pulmonary inflammation is characterized by migration of polymorphonuclear 
+neutrophils (PMNs) into the different compartments of the lung, passing an 
+endothelial and epithelial barrier. Recent studies showed evidence that 
+phosphodiesterase (PDE)4-inhibitors stabilized endothelial cells. PDE4B and 
+PDE4D subtypes play a pivotal role in inflammation, whereas blocking PDE4D is 
+suspected to cause gastrointestinal side effects. We thought to investigate the 
+particular role of the PDE4-inhibitors roflumilast and rolipram on lung 
+epithelium. Acute pulmonary inflammation was induced by inhalation of LPS. 
+PDE4-inhibitors were administered i.p. or nebulized after inflammation. The 
+impact of PDE4-inhibitors on PMN migration was evaluated in vivo and in vitro. 
+Microvascular permeability, cytokine levels, and PDE4B and PDE4D expression were 
+analyzed. In vivo, both PDE4-inhibitors decreased transendothelial and 
+transepithelial migration even when administered after inflammation, whereas 
+roflumilast showed a superior effect compared to rolipram on the epithelium. 
+Both inhibitors decreased TNFα, IL6, and CXCL2/3. CXCL1, the strong PMN 
+chemoattractant secreted by the epithelium, was significantly more reduced by 
+roflumilast. In vitro assays with human epithelium also emphasized the pivotal 
+role of roflumilast on the epithelium. Additionally, LPS-induced stress fibers, 
+an essential requirement for a direct migration of PMNs into the alveolar space, 
+were predominantly reduced by roflumilast. Expression of PDE4B and PDE4D were 
+both increased in the lungs by LPS, PDE4-inhibitors decreased mainly PDE4B. The 
+topical administration of PDE4-inhibitors was also effective in curbing down PMN 
+migration, further highlighting the clinical potential of these compounds. In 
+pulmonary epithelial cells, both subtypes were found coexistent around the 
+nucleus and the cytoplasm. In these epithelial cells, LPS increased PDE4B and, 
+to a lesser extend, PDE4D, whereas the effect of the inhibitors was prominent on 
+the PDE4B subtype. In conclusion, we determined the pivotal role of the 
+PDE4-inhibitor roflumilast on lung epithelium and emphasized its main effect on 
+PDE4B in hyperinflammation.
+
+DOI: 10.1371/journal.pone.0121725
+PMCID: PMC4409344
+PMID: 25909327 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+9. Sci Rep. 2014 Jul 3;4:5546. doi: 10.1038/srep05546.
+
+Growth arrest and forced differentiation of human primary glioblastoma 
+multiforme by a novel small molecule.
+
+Kang TW(1), Choi SW(1), Yang SR(2), Shin TH(3), Kim HS(4), Yu KR(4), Hong IS(5), 
+Ro S(6), Cho JM(6), Kang KS(3).
+
+Author information:
+(1)1] Adult Stem Cell Research Center, College of Veterinary Medicine, Seoul 
+National University, Seoul, Republic of Korea [2] BK21 PLUS Program for Creative 
+Veterinary Science Research, Research Institute for Veterinary Science and 
+College of Veterinary Medicine, Seoul National University [3].
+(2)1] Department of Thoracic and Cardiovascular Surgery, Kangwon National 
+University Hospital, School of Medicine, Kangwon National University, Chuncheon, 
+Republic of Korea [2].
+(3)1] Adult Stem Cell Research Center, College of Veterinary Medicine, Seoul 
+National University, Seoul, Republic of Korea [2] BK21 PLUS Program for Creative 
+Veterinary Science Research, Research Institute for Veterinary Science and 
+College of Veterinary Medicine, Seoul National University.
+(4)Adult Stem Cell Research Center, College of Veterinary Medicine, Seoul 
+National University, Seoul, Republic of Korea.
+(5)1] Department of Molecular Medicine, Gachon University, Incheon, Republic of 
+Korea [2] Lee Gil Ya Cancer and Diabetes Institute, Gachon University, Incheon, 
+Republic of Korea.
+(6)CrystalGenomics, Inc., Korea Bio Park, 700 Daewangpangyo-ro, Bundang-gu, 
+Seongnam, Republic of Korea.
+
+Glioblastoma multiforme is the most common malignant brain tumor in adults, with 
+an average survival of less than one year due to its resistance to therapy. 
+Recent studies reported that GBM initiates from CD133-expressing cancer stem 
+cells (CSC). However, the efficacy of CSC targeting is limited. A newly 
+developed approach in cancer treatment is the forced differentiation of cancer 
+cells. Here, we show that the treatment of the novel small molecule, CG500354, 
+into CD133-expressing human primary GBM cells induces growth arrest by cell 
+cycle regulators, p53, p21, p27 and phase-specific cyclins, and neural 
+differentiation, as confirmed by neural progenitor/precursor markers, nestin, 
+GFAP and Tuj1. When GBM-derived cells caused the tumors in NOD/SCID mice, 
+CG500354 induced GBM-derived cells differentiation into Tuj1 and GFAP expressing 
+cells. We next demonstrated that CG500354 plays a tumor-suppressive role via 
+cAMP/CREB signaling pathway. CG500354 increases not only the extracellular cAMP 
+level but also the protein level of PKA and CREB. Additionally, both mimetic 
+substances, Forskolin and Rolipram, revealed comparable results with CG500354. 
+Our findings indicate that induction of growth arrest and neural differentiation 
+via cAMP/CREB signaling pathway by CG500354 treatment suggests the novel 
+targeting of PDE4D in the development of new drugs for brain tumor therapy.
+
+DOI: 10.1038/srep05546
+PMCID: PMC4080225
+PMID: 24989033 [Indexed for MEDLINE]
+
+
+10. Am J Respir Cell Mol Biol. 2013 Aug;49(2):279-87. doi: 10.1165/rcmb.2012-0403OC.
+
+Epigenetic alterations by DNA methylation in house dust mite-induced airway 
+hyperresponsiveness.
+
+Shang Y(1), Das S, Rabold R, Sham JS, Mitzner W, Tang WY.
+
+Author information:
+(1)Department of Respiratory Diseases, Changhai Hospital, Second Military 
+Medical University, Shanghai, China.
+
+Asthma is one of the most prevalent chronic lung diseases, affecting 235 million 
+individuals around the world, with its related morbidity and mortality 
+increasing steadily over the last 20 years. Exposure to the environmental 
+allergen, house dust mite (HDM), results in airway inflammation with a variable 
+degree of airway obstruction. Although there has been much experimental work in 
+the past using HDM challenge models to understand mechanistic details in 
+allergic inflammation and airway hyperresponsiveness (AHR), there has been no 
+study on reprogramming of lung or airways mediated through epigenetic mechanisms 
+in response to an acute HDM exposure. Male mice, 6 weeks of age, were 
+administrated HDM extracts or saline at Days 1, 14, and 21. Exposure of mice to 
+HDM extracts caused significant airway inflammation and increased AHR. These 
+HDM-challenged mice also exhibited a change in global DNA methylation as 
+compared with saline-exposed (control) mice. Next, by employing 
+methylation-sensitive restriction fingerprinting, we identified a set of genes, 
+showing aberrant methylation status, associated with the HDM-induced AHR. These 
+candidate genes are known to be involved in cAMP signaling (pde4 d), 
+Akt-signaling (akt1 s1), ion transport (tm6 sf1, pom121l2, and slc8a3), and 
+fatty acid metabolism (acsl3). Slc8a3 and acsl3 were down-regulated, whereas 
+pde4 d, akt1 s1, tm6 sf1, and pom121l2 were up-regulated in the mice exposed to 
+HDM. Hence, our results suggest that HDM exposure induces a series of aberrant 
+methylated genes that are potentially important for the development of allergic 
+AHR.
+
+DOI: 10.1165/rcmb.2012-0403OC
+PMCID: PMC3824034
+PMID: 23526225 [Indexed for MEDLINE]
+
+
+11. Zhongguo Zhong Yao Za Zhi. 2011 May;36(9):1207-11.
+
+[Proteomic research on anti-atherosclerosis mechanism of curcumin in RAW264.7].
+
+[Article in Chinese]
+
+Lu D(1), Lin T, Wo X, Wang P, Zhou Y, Yang Z.
+
+Author information:
+(1)College of Life Science, Zhejiang Chinese Medical University, Hangzhou 
+310053, China. ludezhao@126.com
+
+OBJECTIVE: Two-dimensional difference gel electrophoresis and mass spectrum were 
+used to study the anti-atherosclerosis mechanism of curcumin.
+METHOD: The proteins from RAW264.7 cell and RAW264.7 cell treated with 25 
+micromol x L(-1) curcumin were labeled with Cy3 or Cy5 randomly. Each 
+Cy3-labeled sample and Cy5-labeled sample was mixed on the same 2-D gel along 
+with a Cy2-labeled mixture of all samples as an internal standard and run on the 
+same gel. The gels were scanned under different wave-length light after 
+electrophoresis. All images were analyzed by DeCyder 6.5 software, and the 
+different proteins were identified by mass spectrum.
+RESULT: The expression of ATP synthesis H+ transporting, MHC class II, 
+non-muscle myosin alkali light chain and cytochrome b5 increased in the RAW264.7 
+cell treated with 25 micromol x L(-1) curcumin, while the expression of 
+phosphodiesterase 4D, elF-3, Hnrpf protein, vimentin, nucleophosminl and Ranbp 1 
+decreased.
+CONCLUSION: The anti-atherosclerosis mechanism of curcumin is the result of 
+enhancement of the cell inflammation, antioxidant activity and inhibition of 
+cholesterol transport, reduce of the accumulation of intracellular cholesterol 
+and other factors. In addition, curcumin also had the effect of anti-tumor 
+through regulated tumor cell differentiation and apoptosis.
+
+PMID: 21842651 [Indexed for MEDLINE]
+
+
+12. J Cell Physiol. 2011 Aug;226(8):1970-80. doi: 10.1002/jcp.22529.
+
+The differential impact of PDE4 subtypes in human lung fibroblasts on 
+cytokine-induced proliferation and myofibroblast conversion.
+
+Selige J(1), Hatzelmann A, Dunkern T.
+
+Author information:
+(1)Department of In-Vitro Biology, Nycomed GmbH, Konstanz, Germany.
+
+Lung fibroblast proliferation and differentiation into myofibroblasts are 
+pathological key events during development of lung fibrosis. Cyclic nucleotide 
+signaling is described as a negative modulator of these cellular processes, and 
+cyclic nucleotide degrading type 4 phosphodiesterases (PDE4) are important 
+regulators of these pathways. In this study, we elucidated expression and the 
+role of individual subtypes of PDE4 in primary normal human lung fibroblast 
+(NHLF) in controlling cytokines-induced proliferation and conversion to 
+myofibroblasts by short-interfering RNAs (siRNAs) induced knockdown. We verified 
+the expression of PDE4A, B, and D, while PDE4C was only minor or even not 
+expressed in NHLF. An efficient liposome-mediated transfection method for mRNA 
+silencing and a knockdown of the expressed PDE4 subtypes was achieved in these 
+cells. This knockdown was further validated by PDE4 protein expression analysis 
+and PDE4 activity measurements. Functionally, the knockdown of PDE4A and PDE4B 
+inhibited proliferation induced by the cytokine combination of bFGF and IL-1β, 
+whereas knockdown of PDE4D was ineffective. In contrast, TGF-β induced 
+differentiation into myofibroblasts was affected by knockdown of PDE4B and 
+PDE4D, but not by PDE4A knockdown. In summary, our data allow to assign 
+different PDE4 subtypes to distinct functions of human lung fibroblasts and 
+highlight the predominant role of PDE4B in controlling pathophysiological 
+processes of human lung fibroblasts. This provides a scientific rationale for 
+focused therapeutic targeting of PDE4B to treat respiratory diseases with 
+fibrotic lesions in the lung.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/jcp.22529
+PMID: 21520048 [Indexed for MEDLINE]
+
+
+13. Nat Struct Mol Biol. 2011 May;18(5):584-91. doi: 10.1038/nsmb.2022. Epub 2011 
+Apr 10.
+
+ERK and PDE4 cooperate to induce RAF isoform switching in melanoma.
+
+Marquette A(1), André J, Bagot M, Bensussan A, Dumaz N.
+
+Author information:
+(1)INSERM U976, Hôpital Saint Louis, Paris, France.
+
+Comment in
+    Nat Struct Mol Biol. 2011 May;18(5):517-8. doi: 10.1038/nsmb.2063.
+
+Melanocytes use BRAF to activate the MAP kinase (MAPK) pathway because CRAF is 
+inhibited by the cyclic AMP (cAMP) pathway in these cells. By contrast, 
+melanomas harboring Ras mutations use CRAF to activate the MAPK pathway. We 
+describe the molecular mechanism of Raf isoform switching and cAMP pathway 
+disruption, which take place during melanocyte transformation. We show that 
+overactivation of the MAPK pathway, induced by the oncogenic Ras in melanoma, 
+induces constitutive phosphorylation of BRAF on Ser151 by ERK, which inhibits 
+NRAS-BRAF interaction . We also demonstrate that melanoma cells have elevated 
+cAMP phosphodiesterase activity owing to overexpression of the cAMP-specific 
+phosphodiesterase-4 enzymes; this activity inhibits cAMP signaling and allows 
+CRAF reactivation in these cells. Reactivating the cAMP pathway inhibits 
+proliferation and induces apoptosis of Ras-mutated melanoma cells, suggesting a 
+new therapeutic approach for treating melanomas harboring Ras mutations.
+
+DOI: 10.1038/nsmb.2022
+PMID: 21478863 [Indexed for MEDLINE]
+
+
+14. J Pharmacol Exp Ther. 2005 Aug;314(2):846-54. doi: 10.1124/jpet.105.083519. Epub 
+2005 May 18.
+
+Dynamic activation of cystic fibrosis transmembrane conductance regulator by 
+type 3 and type 4D phosphodiesterase inhibitors.
+
+Liu S(1), Veilleux A, Zhang L, Young A, Kwok E, Laliberté F, Chung C, Tota MR, 
+Dubé D, Friesen RW, Huang Z.
+
+Author information:
+(1)Merck Frosst Center for Therapeutic Research, P.O. Box 1005, Pointe 
+Claire-Dorval, Quebec H9R 4P8, Canada.
+
+The diseases of cystic fibrosis, chronic obstructive pulmonary disease (COPD), 
+and chronic bronchitis are characterized by mucus-congested and inflamed 
+airways. Anti-inflammatory agents that can simultaneously restore or enhance 
+mucociliary clearance through cystic fibrosis transmembrane conductance 
+regulator (CFTR) activation may represent new therapeutics in their treatment. 
+Herein, we report the activation of CFTR-mediated chloride secretion by 
+phosphodiesterase (PDE) 4 inhibitors in T84 monolayer using (125)I anion as 
+tracer. In the absence of forskolin, the iodide secretion was insensitive to 
+PDE4 inhibitor L-826,141 
+[4-[2-(3,4-bis-difluoromethoxyphenyl)-2-[4-(1,1,1,3,3,3-hexafluoro-2-hydroxypropan-2-yl)phenyl]-ethyl]-3-methylpyridine-1-oxide], 
+roflumilast, or to PDE3 inhibitor trequinsin. However, these inhibitors potently 
+augmented iodide secretion after forskolin stimulation, with efficacy coupled to 
+the activation states of adenylyl cyclase. The iodide secretion from PDE3 or 
+PDE4 inhibition was characterized at first by a prolonged efflux duration, 
+followed by progressively elevated peak efflux rates at higher inhibitor 
+concentrations. Paralleled with an increased phosphor-cAMP response 
+element-binding protein formation, the CFTR activation dissociated from a global 
+cAMP elevation and was blocked by H89 
+[N-[2-((p-bromocinnamyl)amino)ethyl]-5-isoquinolinesulfonamide]. 
+2-(4-Fluorophenoxy)-N-[(1S)-1-(4-methoxyphenyl)ethyl]nicotinamide, a 
+stereoselective PDE4D inhibitor, augmented iodide efflux more efficiently than 
+its less potent (R)-isomer. The peak efflux from maximal PDE4 and PDE3 
+inhibition matched that from full adenylyl cyclase activation. These data 
+suggest that PDE3 and PDE4 (mainly PDE4D) form the major cAMP diffusion barrier 
+in T84 cells to ensure a compartmentalized CFTR signaling. Together with their 
+potent anti-inflammatory properties, the potentially enhanced airway mucociliary 
+clearance from CFTR activation may have contributed to the efficacy of PDE4 
+inhibitors in COPD and asthmatic patients. PDE4 inhibitors may represent new 
+opportunities to combat cystic fibrosis and other respiratory diseases in 
+future.
+
+DOI: 10.1124/jpet.105.083519
+PMID: 15901792 [Indexed for MEDLINE]
+
+
+15. Br J Pharmacol. 2004 May;142(2):339-51. doi: 10.1038/sj.bjp.0705770. Epub 2004 
+Apr 5.
+
+Remodelling of the PDE4 cAMP phosphodiesterase isoform profile upon 
+monocyte-macrophage differentiation of human U937 cells.
+
+Shepherd MC(1), Baillie GS, Stirling DI, Houslay MD.
+
+Author information:
+(1)Molecular Pharmacology Group, Division of Biochemistry and Molecular Biology, 
+Institute of Biomedical & Life Sciences, Wolfson Building, University Avenue, 
+University of Glasgow, Glasgow G12 8QQ, Scotland.
+
+Monocytes and macrophages provide key targets for the action of novel 
+anti-inflammatory therapeutics targeted at inhibition of PDE4 cAMP-specific 
+phosphodiesterases. PDE4 enzymes provide the dominant cAMP phosphodiesterase 
+activity in U937 human monocytic cells. Differentiation of U937 monocytic cells 
+to a macrophage-like phenotype causes a marked reduction in total cellular PDE4 
+activity. Monocytic U937 cells express the long PDE4A4, PDE4D5 and PDE4D3 
+isoforms plus the short PDE4B2 isoform. Differentiation of U937 cells to a 
+macrophage-like phenotype causes a marked downregulation of PDE4D3 and PDE4D5, 
+elicits a marked upregulation of PDE4B2 and induces the novel PDE4A10 long 
+isoform. Comparable patterns are found in human peripheral blood monocytes and 
+macrophages differentiated from them. Immunopurification of PDE4 subfamilies 
+identifies long PDE4D isoforms as providing the major PDE4 activity in U937 
+monocytic cells. In U937 macrophage-like cells, the activity of the short PDE4B2 
+isoform predominates. No indication of either the expression or induction of 
+PDE4C was evident. Activation of ERK exerts an inhibitory effect on total PDE4 
+activity in monocytic U937 cells, where the activity of long PDE4 isoforms 
+predominates. The effect of ERK activation is switched to one of overall 
+stimulation of total PDE4 activity in macrophage U937 cells, where the activity 
+of the short PDE4B2 isoform predominates.10 The profound differentiation-induced 
+changes in PDE4 isoform profile identified here suggests that the development of 
+inhibitors specific for particular PDE4 isoforms may allow for selective effects 
+on monocytes and macrophages to be achieved.
+
+DOI: 10.1038/sj.bjp.0705770
+PMCID: PMC1574950
+PMID: 15066910 [Indexed for MEDLINE]

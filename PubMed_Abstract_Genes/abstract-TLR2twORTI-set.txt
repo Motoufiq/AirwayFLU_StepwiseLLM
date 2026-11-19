@@ -1,0 +1,1534 @@
+1. PLoS Pathog. 2024 May 8;20(5):e1012111. doi: 10.1371/journal.ppat.1012111. 
+eCollection 2024 May.
+
+Impaired upper respiratory tract barrier function during postnatal development 
+predisposes to invasive pneumococcal disease.
+
+Lokken-Toyli KL(1), Aggarwal SD(1), Bee GCW(1), de Steenhuijsen Piters 
+WAA(2)(3), Wu C(1), Chen KZM(1), Loomis C(4), Bogaert D(2)(5), Weiser JN(1).
+
+Author information:
+(1)Department of Microbiology, New York University School of Medicine, New York, 
+New York, United States of America.
+(2)Department of Paediatric Immunology and Infectious Diseases, Wilhelmina 
+Children's Hospital/University Medical Center Utrecht, Utrecht, the Netherlands.
+(3)National Institute for Public Health and the Environment, Bilthoven, the 
+Netherlands; Department of Parasitology, Leiden University Medical Center, 
+Leiden, the Netherlands.
+(4)Department of Pathology, New York University School of Medicine, New York, 
+New York, United States of America.
+(5)Centre for Inflammation Research, Institute for Regeneration and Repair, 
+Queen's Medical Research Institute, University of Edinburgh, Edinburgh, United 
+Kingdom.
+
+Infants are highly susceptible to invasive respiratory and gastrointestinal 
+infections. To elucidate the age-dependent mechanism(s) that drive bacterial 
+spread from the mucosa, we developed an infant mouse model using the prevalent 
+pediatric respiratory pathogen, Streptococcus pneumoniae (Spn). Despite similar 
+upper respiratory tract (URT) colonization levels, the survival rate of 
+Spn-infected infant mice was significantly decreased compared to adults and 
+corresponded with Spn dissemination to the bloodstream. An increased rate of 
+pneumococcal bacteremia in early life beyond the newborn period was attributed 
+to increased bacterial translocation across the URT barrier. Bacterial 
+dissemination in infant mice was independent of URT monocyte or neutrophil 
+infiltration, phagocyte-derived ROS or RNS, inflammation mediated by toll-like 
+receptor 2 or interleukin 1 receptor signaling, or the pore-forming toxin 
+pneumolysin. Using molecular barcoding of Spn, we found that only a minority of 
+bacterial clones in the nasopharynx disseminated to the blood in infant mice, 
+indicating the absence of robust URT barrier breakdown. Rather, transcriptional 
+profiling of the URT epithelium revealed a failure of infant mice to upregulate 
+genes involved in the tight junction pathway. Expression of many such genes was 
+also decreased in early life in humans. Infant mice also showed increased URT 
+barrier permeability and delayed mucociliary clearance during the first two 
+weeks of life, which corresponded with tighter attachment of bacteria to the 
+respiratory epithelium. Together, these results demonstrate a window of 
+vulnerability during postnatal development when altered mucosal barrier function 
+facilitates bacterial dissemination.
+
+Copyright: © 2024 Lokken-Toyli et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.ppat.1012111
+PMCID: PMC11078396
+PMID: 38718049 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+2. Cell Commun Signal. 2023 Oct 30;21(1):306. doi: 10.1186/s12964-023-01347-2.
+
+The destruction of mucosal barriers, epithelial remodeling, and impaired 
+mucociliary clearance: possible pathogenic mechanisms of Pseudomonas aeruginosa 
+and Staphylococcus aureus in chronic rhinosinusitis.
+
+Chegini Z(1), Noei M(2), Hemmati J(1), Arabestani MR(3), Shariati A(4).
+
+Author information:
+(1)Department of Microbiology, School of Medicine, Hamadan University of Medical 
+Sciences, Hamadan, Iran.
+(2)Department of Genetics, Faculty of Advanced Science and Technology, Tehran 
+Medical Sciences, Islamic Azad University, Tehran, Iran.
+(3)Department of Microbiology, School of Medicine, Hamadan University of Medical 
+Sciences, Hamadan, Iran. mohammad.arabestani@gmail.com.
+(4)Student Research Committee, Khomein University of Medical Sciences, Khomein, 
+Iran. arefshariati0111@gmail.com.
+
+Chronic rhinosinusitis (CRS) is a pathological condition characterized by 
+persistent inflammation in the upper respiratory tract and paranasal sinuses. 
+The epithelium serves as the first line of defense against potential threats and 
+protects the nasal mucosa. The fundamental mechanical barrier is formed by the 
+cell-cell contact and mucociliary clearance (MCC) systems. The 
+physical-mechanical barrier is comprised of many cellular structures, including 
+adhesion junctions and tight junctions (TJs). To this end, different factors, 
+such as the dysfunction of MCC, destruction of epithelial barriers, and tissue 
+remodeling, are related to the onset and development of CRS. Recently published 
+studies reported the critical role of different microorganisms, such as 
+Staphylococcus aureus and Pseudomonas aeruginosa, in the induction of the 
+mentioned factors. Bacteria could result in diminished ciliary stimulation 
+capacity, and enhance the chance of CRS by reducing basal ciliary beat 
+frequency. Additionally, bacterial exoproteins have been demonstrated to disrupt 
+the epithelial barrier and induce downregulation of transmembrane proteins such 
+as occludin, claudin, and tricellulin. Moreover, bacteria exert an influence on 
+TJ proteins, leading to an increase in the permeability of polarized epithelial 
+cells. Noteworthy, it is evident that the activation of TLR2 by staphylococcal 
+enterotoxin can potentially undermine the structural integrity of TJs and the 
+epithelial barrier through the induction of pro-inflammatory cytokines. The 
+purpose of this article is an attempt to investigate the possible role of the 
+most important microorganisms associated with CRS and their pathogenic 
+mechanisms against mucosal surfaces and epithelial barriers in the paranasal 
+sinuses. Video Abstract.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12964-023-01347-2
+PMCID: PMC10614382
+PMID: 37904180 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. ERJ Open Res. 2023 May 22;9(3):00694-2022. doi: 10.1183/23120541.00694-2022. 
+eCollection 2023 May.
+
+Increased expression of miR146a dysregulates TLR2-induced HBD2 in airway 
+epithelial cells from patients with COPD.
+
+Reddy-Vari H(1), Kim Y(1), Rajput C(1), Sajjan US(1)(2).
+
+Author information:
+(1)Department of Microbiology Immunology and Inflammation, Lewis Katz Medical 
+School, Temple University, Philadelphia, PA, USA.
+(2)Department of Thoracic Surgery and Medicine, Lewis Katz Medical School, 
+Temple University, Philadelphia, PA, USA.
+
+BACKGROUND: Airway epithelial cells from patients with COPD show suboptimal 
+innate immune responses to nontypeable Haemophilus influenzae (NTHi) and 
+Toll-like receptor (TLR)2 ligands despite expressing TLR2 similar to normal 
+airway epithelial cells, but the underlying mechanisms are poorly understood.
+METHODS: Normal or COPD mucociliary-differentiated airway epithelial cells were 
+treated with TLR2 agonists or infected with NTHi and expression of β-defensin 
+(HBD)2 was examined. Interleukin-1 receptor-associated kinase (IRAK)-1 and 
+microRNA (miR)146a were genetically inhibited in normal and COPD airway 
+epithelial cell cultures, respectively, and HBD2 responses to TLR2 ligands were 
+determined. IRAK-1 expression in lung sections was determined by 
+immunofluorescence microscopy.
+RESULTS: Compared to normal, COPD airway epithelial cell cultures showed 
+impaired expression of HBD2 in response to TLR2 agonists or NTHi infection. 
+Apical secretions from TLR2 agonist-treated normal, but not COPD, airway 
+epithelial cells efficiently killed NTHi. Knockdown of HBD2 significantly 
+reduced NTHi killing by apical secretions of normal airway epithelial cells. 
+Compared to normal, COPD cells showed significantly reduced expression of IRAK-1 
+and this was associated with increased expression of miR146a. Inhibition of 
+miR146a increased the expression of IRAK-1, improved the expression of HBD2 in 
+response to TLR2 agonists in COPD cells and enhanced the killing of bacteria by 
+apical secretions obtained from TLR2 agonist-treated COPD cells. Bronchial 
+epithelium of COPD patients showed reduced expression of IRAK-1.
+CONCLUSIONS: These results suggest that reduced levels of IRAK-1 due to 
+increased expression of miR146a may contribute to impaired expression of 
+TLR2-induced HBD2 in COPD airway epithelial cells.
+
+Copyright ©The authors 2023.
+
+DOI: 10.1183/23120541.00694-2022
+PMCID: PMC10204848
+PMID: 37228294
+
+Conflict of interest statement: Conflict of interest: The authors declare that 
+they have no competing interests.
+
+
+4. Front Cell Infect Microbiol. 2023 Apr 24;13:1141798. doi: 
+10.3389/fcimb.2023.1141798. eCollection 2023.
+
+Epithelial immune activation and intracellular invasion by non-typeable 
+Haemophilus influenzae.
+
+Brown MA(1), Morgan SB(1), Donachie GE(1), Horton KL(2), Pavord ID(1), 
+Arancibia-Cárcamo CV(3), Hinks TSC(1).
+
+Author information:
+(1)Respiratory Medicine Unit and National Institute for Health Research Oxford 
+Biomedical Research Centre, Experimental Medicine Division, Nuffield Department 
+of Medicine, John Radcliffe Hospital, University of Oxford, Oxford, United 
+Kingdom.
+(2)School of Clinical and Experimental Sciences, University of Southampton 
+Faculty of Medicine, Southampton, United Kingdom.
+(3)Translational Gastroenterology Unit, Nuffield Department of Medicine, 
+Experimental Medicine, University of Oxford, Oxford, United Kingdom.
+
+Type-2 low asthma affects 30-50% of people with severe asthma and includes a 
+phenotype characterized by sputum neutrophilia and resistance to 
+corticosteroids. Airways inflammation in type-2 low asthma or COPD is 
+potentially driven by persistent bacterial colonization of the lower airways by 
+bacteria such as non-encapsulated Haemophilus influenzae (NTHi). Although 
+pathogenic in the lower airways, NTHi is a commensal of the upper airways. It is 
+not known to what extent these strains can invade airway epithelial cells, 
+persist intracellularly and activate epithelial cell production of 
+proinflammatory cytokines, and how this differs between the upper and lower 
+airways. We studied NTHi infection of primary human bronchial epithelial cells 
+(PBECs), primary nasal epithelial cells (NECs) and epithelial cell lines from 
+upper and lower airways. NTHi strains differed in propensity for intracellular 
+and paracellular invasion. We found NTHi was internalized within PBECs at 6 h, 
+but live intracellular infection did not persist at 24 h. Confocal microscopy 
+and flow cytometry showed NTHi infected secretory, ciliated and basal PBECs. 
+Infection of PBECs led to induction of CXCL8, interleukin (IL)-1β, IL-6 and TNF. 
+The magnitude of cytokine induction was independent of the degree of 
+intracellular invasion, either by differing strains or by cytochalasin D 
+inhibition of endocytosis, with the exception of the inflammasome-induced 
+mediator IL-1β. NTHi-induced activation of TLR2/4, NOD1/2 and NLR inflammasome 
+pathways was significantly stronger in NECs than in PBECs. These data suggest 
+that NTHi is internalized transiently by airway epithelial cells and has 
+capacity to drive inflammation in airway epithelial cells.
+
+Copyright © 2023 Brown, Morgan, Donachie, Horton, Pavord, Arancibia-Cárcamo and 
+Hinks.
+
+DOI: 10.3389/fcimb.2023.1141798
+PMCID: PMC10167379
+PMID: 37180449 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+5. mBio. 2023 Jun 27;14(3):e0051023. doi: 10.1128/mbio.00510-23. Epub 2023 Apr 13.
+
+Bacterial TLR2/6 Ligands Block Ciliogenesis, Derepress Hedgehog Signaling, and 
+Expand the Neocortex.
+
+Mann B(#)(1), Crawford JC(#)(2), Reddy K(1), Lott J(1), Youn YH(3), Gao G(1), 
+Guy C(2), Chou CH(2), Darnell D(4), Trivedi S(4), Bomme P(1), Loughran AJ(1), 
+Thomas PG(2), Han YG(3), Tuomanen EI(1).
+
+Author information:
+(1)Department of Infectious Diseases, St. Jude Children's Research Hospital, 
+Memphis, Tennessee, USA.
+(2)Department of Immunology, St. Jude Children's Research Hospital, Memphis, 
+Tennessee, USA.
+(3)Department of Developmental Neurobiology, St. Jude Children's Research 
+Hospital, Memphis, Tennessee, USA.
+(4)Hartwell Center for Bioinformatics and Biotechnology, St. Jude Children's 
+Research Hospital, Memphis, Tennessee, USA.
+(#)Contributed equally
+
+Microbial components have a range of direct effects on the fetal brain. However, 
+little is known about the cellular targets and molecular mechanisms that mediate 
+these effects. Neural progenitor cells (NPCs) control the size and architecture 
+of the brain and understanding the mechanisms regulating NPCs is crucial to 
+understanding brain developmental disorders. We identify ventricular radial glia 
+(vRG), the primary NPC, as the target of bacterial cell wall (BCW) generated 
+during the antibiotic treatment of maternal pneumonia. BCW enhanced 
+proliferative potential of vRGs by shortening the cell cycle and increasing 
+self-renewal. Expanded vRGs propagated to increase neuronal output in all 
+cortical layers. Remarkably, Toll-like receptor 2 (TLR2), which recognizes BCW, 
+localized at the base of primary cilia in vRGs and the BCW-TLR2 interaction 
+suppressed ciliogenesis leading to derepression of Hedgehog (HH) signaling and 
+expansion of vRGs. We also show that TLR6 is an essential partner of TLR2 in 
+this process. Surprisingly, TLR6 alone was required to set the number of 
+cortical neurons under healthy conditions. These findings suggest that an 
+endogenous signal from TLRs suppresses cortical expansion during normal 
+development of the neocortex and that BCW antagonizes that signal through the 
+TLR2/cilia/HH signaling axis changing brain structure and function. IMPORTANCE 
+Fetal brain development in early gestation can be impacted by transplacental 
+infection, altered metabolites from the maternal microbiome, or maternal immune 
+activation. It is less well understood how maternal microbial subcomponents that 
+cross the placenta, such as bacterial cell wall (BCW), directly interact with 
+fetal neural progenitors and neurons and affect development. This scenario plays 
+out in the clinic when BCW debris released during antibiotic therapy of maternal 
+infection traffics to the fetal brain. This study identifies the direct 
+interaction of BCW with TLR2/6 present on the primary cilium, the signaling hub 
+on fetal neural progenitor cells (NPCs). NPCs control the size and architecture 
+of the brain and understanding the mechanisms regulating NPCs is crucial to 
+understanding brain developmental disorders. Within a window of vulnerability 
+before the appearance of fetal immune cells, the BCW-TLR2/6 interaction results 
+in the inhibition of ciliogenesis, derepression of Sonic Hedgehog signaling, 
+excess proliferation of neural progenitors, and abnormal cortical architecture. 
+In the first example of TLR signaling linked to Sonic Hedgehog, BCW/TLR2/6 
+appears to act during fetal brain morphogenesis to play a role in setting the 
+total cell number in the neocortex.
+
+DOI: 10.1128/mbio.00510-23
+PMCID: PMC10294647
+PMID: 37052506 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare a conflict of interest. PT 
+serves on the SAB for Immunoscape and Cytoagents and has received travel support 
+from 10X Genomics and honorarium and travel support from Illumina. The remaining 
+authors have no conflicts of interest to disclose.
+
+
+6. Fish Shellfish Immunol. 2021 Jul;114:28-35. doi: 10.1016/j.fsi.2021.04.005. Epub 
+2021 Apr 10.
+
+β-1,3-Glucan from Euglena gracilis as an immunostimulant mediates the 
+antiparasitic effect against Mesanophrys sp. on hemocytes in marine swimming 
+crab (Portunus trituberculatus).
+
+Perveen S(1), Yang L(1), Zhou S(1), Feng B(1), Xie X(1), Zhou Q(1), Qian D(1), 
+Wang C(2), Yin F(3).
+
+Author information:
+(1)Key Laboratory of Applied Marine Biotechnology, Ministry of Education; 
+Collaborative Innovation Center for Zhejiang Marine High-efficiency and Healthy 
+Aquaculture; School of Marine Sciences, Ningbo University, 818 Fenghua Road, 
+Ningbo, 315211, PR China.
+(2)Key Laboratory of Applied Marine Biotechnology, Ministry of Education; 
+Collaborative Innovation Center for Zhejiang Marine High-efficiency and Healthy 
+Aquaculture; School of Marine Sciences, Ningbo University, 818 Fenghua Road, 
+Ningbo, 315211, PR China. Electronic address: Wangchunlin@nbu.edu.cn.
+(3)Key Laboratory of Applied Marine Biotechnology, Ministry of Education; 
+Collaborative Innovation Center for Zhejiang Marine High-efficiency and Healthy 
+Aquaculture; School of Marine Sciences, Ningbo University, 818 Fenghua Road, 
+Ningbo, 315211, PR China. Electronic address: Yinfei@nbu.edu.cn.
+
+β-1,3-glucans, natural polysaccharide groups, exert immunomodulatory effects to 
+improve the innate response and disease resistance in aquatic species and 
+mammals. However, this β-glucan stimulant is yet to be assayed in swimming crab 
+(Portunus trituberculatus) hemocytes. In this study, we explored the 
+immunomodulatory effect of β-1,3-glucans (derived from Euglena gracilis) via in 
+vitro 24 h stimulation assays in swimming crab hemocytes. We found that this 
+algal β-1,3-glucans in crab hemocytes significantly elevated cellular enzymes 
+related parameters, including phenoloxidase (PO), lysozyme, acid phosphatase 
+(ACP) activities, and superoxide anion generation (O2-) rate both at 
+intracellular (P < 0.05) and extracellular (P < 0.05) levels. Besides, alkaline 
+phosphatase (AKP) in hemocytes exhibited no significant differences across the 
+groups (P > 0.05). β-glucan significantly influenced (P < 0.05) the activities 
+of the antioxidant enzyme, superoxide dismutase (SOD) in hemocytes. Moreover, 
+the relative mRNA expression of numerous immune-related genes, including proPO, 
+TLR-2, Alf-1, NOX, Lysozyme, Crustin-1, and Cuznsod, was significantly higher 
+stimulated hemocytes than in control (P < 0.05). We also reported the 
+dose-dependent antiparasitic activity against Mesanophyrs sp., in stimulated 
+hemocytes than in the control (P < 0.05). The present study collectively 
+demonstrated that β-glucan potentially stimulates innate immunity by elevating 
+cellular enzyme responses and up-regulating the mRNA expression of genes 
+associated with crab innate immunity. Thus, β-glucan is a promising 
+immunostimulant for swimming crab farming in crustaceans aquaculture.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2021.04.005
+PMID: 33848639 [Indexed for MEDLINE]
+
+
+7. Mol Reprod Dev. 2020 Oct;87(10):1059-1069. doi: 10.1002/mrd.23422. Epub 2020 Sep 
+10.
+
+Toll-like receptor 2 mediates the immune response of the bovine oviductal 
+ampulla to sperm binding.
+
+Morillo VA(1)(2), Akthar I(1), Fiorenza MF(1)(3), Takahashi KI(4), Sasaki M(5), 
+Marey MA(1)(6), Suarez SS(7), Miyamoto A(1).
+
+Author information:
+(1)Graduate School of Animal and Food Hygiene, Obihiro University of Agriculture 
+and Veterinary Medicine, Obihiro, Japan.
+(2)Department of Clinical Sciences, College of Veterinary Medicine, Nueva 
+Vizcaya State University, Nueva Vizcaya, Philippines.
+(3)Laboratory of Biotechnology and Animal Reproduction - BioRep, Federal 
+University of Santa Maria (UFSM), Santa Maria, Rio Grande do Sul, Brazil.
+(4)Genetics Hokkaido Association, Shimizu-Cho, Japan.
+(5)Department of Veterinary Medicine, Obihiro University of Agriculture and 
+Veterinary Medicine, Obihiro, Japan.
+(6)Department of Theriogenology, Faculty of Veterinary Medicine, Damanhur 
+University, Behera, Egypt.
+(7)Department of Biomedical Sciences, Cornell University, Ithaca, New York, USA.
+
+We previously reported that sperm binding to cultured bovine oviduct epithelial 
+cells induces an anti-inflammatory immune response. Now we have developed a 
+differentiated explant model to focus on the oviductal ampulla, where 
+fertilization occurs, and to study the effect of sperm capacitation on the 
+immune response. We used heparin to stimulate bovine sperm capacitation. 
+Fluorescence imaging showed that 
+5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolyl-carbocyanine 
+iodide-labeled sperm pretreated with (Hep(+) ) or without (Hep(-) ) heparin 
+rapidly attached to the explant ciliated epithelium in similar numbers. However, 
+only Hep(+) sperm upregulated explant messenger RNA (mRNA) transcription of 
+TLR2, IL8, TGFB1, and PGES, without changes in TNFA and IL-10 expression, while 
+Hep(-) sperm only upregulated PGES. The responses were primarily 
+anti-inflammatory, with a greater response produced by Hep(+) sperm, which also 
+produced a substantial increase in TLR2 protein expression in the epithelium. 
+The addition of TLR1/2 (toll-like receptor 1/2) antagonist to the Hep(+) and 
+(Hep(-) ) sperm-explant coincubations reduced sperm attachment to the epithelium 
+and inhibited TLR2 protein expression and some of the Hep(+) sperm-induced mRNA 
+transcription. Our observations suggest that the ampullar epithelium 
+immunologically reacts more strongly to sperm that have undergone heparin 
+stimulation of capacitation. This anti-inflammatory response could serve to 
+protect capacitated sperm as they approach the oocyte in the ampulla.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/mrd.23422
+PMID: 32914493 [Indexed for MEDLINE]
+
+
+8. Respir Res. 2020 Aug 26;21(1):222. doi: 10.1186/s12931-020-01486-x.
+
+Flagellin shifts 3D bronchospheres towards mucus hyperproduction.
+
+Sprott RF(1), Ritzmann F(1), Langer F(2), Yao Y(1), Herr C(1), Kohl Y(3), 
+Tschernig T(4), Bals R(1), Beisswenger C(5).
+
+Author information:
+(1)Department of Internal Medicine V - Pulmonology, Allergology and Respiratory 
+Critical Care Medicine, Saarland University, Kirrberger Str. 100, Building 41M, 
+66421, Homburg/Saar, Germany.
+(2)Department of Thoracic and Cardiovascular Surgery, Saarland University, 
+66421, Homburg, Germany.
+(3)Department Bioprocessing & Bioanalytics, Fraunhofer Institute for Biomedical 
+Engineering, Joseph-von-Fraunhofer-Weg 1, 66280, Sulzbach, Germany.
+(4)Institute of Anatomy and Cell Biology, Saarland University, 66421, Homburg, 
+Germany.
+(5)Department of Internal Medicine V - Pulmonology, Allergology and Respiratory 
+Critical Care Medicine, Saarland University, Kirrberger Str. 100, Building 41M, 
+66421, Homburg/Saar, Germany. Christoph.Beisswenger@uks.eu.
+
+Cystic fibrosis (CF) and chronic obstructive pulmonary disease (COPD) are 
+associated with acute and chronic bacterial infections of the lung. Excessive 
+differentiation of basal cells to mucus-producing goblet cells can result in 
+mucus hyperproduction and loss of mucociliary clearance in the airways of CF and 
+COPD patients. Here, we aimed to investigate the effect of pathogen-associated 
+molecular patterns (PAMPs) on the differentiation of human 3D bronchospheres. 
+Primary human bronchial epithelial cells (HBECs) were differentiated to 
+bronchospheres in the presence of bacterial flagellin and LPS and the synthetic 
+Toll-like receptor (TLR) ligands Pam3CSK4 (TLR-2) and polyinosinic:polycytidylic 
+acid (pIC, TLR-3). Electron and fluorescence microscopy showed that the 
+differentiation of bronchospheres associated with the formation of lumina and 
+appearance of cilia within 30 days after seeding. Incubation with flagellin 
+resulted in a decreased formation of lumina and loss of cilia formation. 
+Incubation with Pam3CSK, pIC, and LPS did not significantly affect formation of 
+lumina and ciliation. Mucus production was strongly increased in response to 
+flagellin and, to a lesser degree, in response to Pam3CSK4. Our results indicate 
+that bacterial factors, such as flagellin, drive the differentiation of the 
+respiratory epithelium towards mucus hyperproduction.
+
+DOI: 10.1186/s12931-020-01486-x
+PMCID: PMC7448433
+PMID: 32847538 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors have a financial 
+relationship with a commercial entity that has an interest in the subject of 
+this manuscript. Robert Bals is the Editor-in-Chief of Respiratory Research 
+starting from Feb 1st 2020.
+
+
+9. J Neuroimmune Pharmacol. 2020 Dec;15(4):830-837. doi: 
+10.1007/s11481-020-09926-7. Epub 2020 Jun 11.
+
+Neuroinflammatory Responses and Parkinson' Disease: Pathogenic Mechanisms and 
+Therapeutic Targets.
+
+Yang L(1), Mao K(2), Yu H(2), Chen J(3).
+
+Author information:
+(1)School of Public Health, Guangdong Medical University, Dongguan, Guangdong, 
+523808, China.
+(2)Department of Occupational Health and Occupational Medicine, School of Public 
+Health, Southern Medical University, Guangzhou, 510515, Guangdong, China.
+(3)School of Public Health, Guangdong Medical University, Dongguan, Guangdong, 
+523808, China. chenjiaongaa@163.com.
+
+Parkinson's disease (PD) is the second most common age-related neurodegenerative 
+disorders of the central nervous system, which mainly impairs the motor system. 
+However, the pathogenic mechanisms are still unclear. Gene-environment complex 
+interaction leads to selective dopaminergic neuron death in PD. Growing 
+evidences supports that neuroinflammatory responses are involved in the 
+pathogenesis of PD. This review critically discusses current studies on the 
+inflammatory response of the pathological process of PD. The mechanisms and 
+strategies of modifying inflammatory responses would be potential treatments for 
+neurodegenerative diseases. Graphical abstract Activated microglia canpromote 
+the damage ofdopaminergic neurons, which inturn aggravates the activation 
+ofmicroglia in the process of PD. Atthe same time, microglia canactivate 
+astrocytes throughproliferation and secretion ofinflammatory factors. The role 
+ofastrocytes on the loss ofdopaminergic neurons is stillcontroversial in PD. 
+(Nonsteroidalanti-inflammatory drugs,NSAIDs. adiposed-derived stemcells, 
+ADSCs.nicotinamideadenine dinucleotide phosphate,NADPH. signal transducers 
+andactivators of transcription,STAT.DJ-1,Aliases forPARK7.mesencephalic 
+astrocytederivedneurotrophic factor,MANF.Ciliary neurotrophicfactor,CNTF.glial 
+cell linederivedneurotrophic factor,GDNF.Wnt Family Member1,Wnt1). Graphical 
+abstract Mitochondrial dysfunction causes neuroinflammation throughDAMPs and a 
+series of factors such as oxidative stress andinflammatory bodies in PD. 
+(Damage-associated molecular patterns,DAMPs. reactive oxygen species, ROS). 
+Graphical abstract Various mechanismsparticipate in NLRP3 activation,causing 
+microglia activation inPD. ( -synuclein, -syn.) TolllikeReceptor 2, TLR2. 
+Toll-likeReceptor 4, TLR4. TumorNecrosis Factor, TNF.Apoptosisassociated speck 
+like proteincontaining a CARD, ASC).
+
+DOI: 10.1007/s11481-020-09926-7
+PMID: 32529463 [Indexed for MEDLINE]
+
+
+10. Infect Drug Resist. 2019 Dec 20;12:3911-3923. doi: 10.2147/IDR.S231908. 
+eCollection 2019.
+
+Baicalin Attenuates Mycoplasma gallisepticum-Induced Inflammation via Inhibition 
+of the TLR2-NF-κB Pathway in Chicken and DF-1 Cells.
+
+Wu Z(#)(1), Chen C(#)(1), Miao Y(1), Liu Y(1), Zhang Q(1), Li R(1), Ding L(1), 
+Ishfaq M(1), Li J(1)(2).
+
+Author information:
+(1)College of Veterinary Medicine, Northeast Agricultural University, Harbin 
+150030, People's Republic of China.
+(2)Heilongjiang Key Laboratory for Animal Disease Control and Pharmaceutical 
+Development, Harbin 150030, People's Republic of China.
+(#)Contributed equally
+
+BACKGROUND: Previous reports demonstrated that baicalin possesses potential 
+anti-inflammatory properties. The present study was conducted to determine the 
+effects of baicalin against inflammatory responses in chicken and DF-1 cells 
+infected with Mycoplasma gallisepticum (MG).
+METHODS: An MG infection model was developed in chickens to study the 
+anti-inflammatory mechanism of baicalin. Baicalin was mixed in water at a dose 
+of 450 mg/kg per day, and the treatment is continued for 7 consecutive days. 
+Samples were taken at 1, 4, and 7 days post treatment.
+RESULTS: By using transmission electron microscopy, ultrastructure of lung and 
+tracheal cells has been examined. It can be seen that the cilia cells in the 
+MG-infected group have pyknosis, degeneration, and necrosis. In the lung 
+tissues, alveolar type-I epithelial cells were severely damaged. In the 
+baicalin-treated group, cilia were swollen, mushroom-shaped edema bubbles formed 
+on the apex, and fused together. Alveolar type I epithelial cells injury was 
+significantly reduced. Compared to MG-infection group, the levels of 
+proinflammatory cytokines IL-1β and TNF-α were significantly decreased (P < 
+0.01). The corresponding proteins TLR2 and P-p65 decreased in the 
+baicalin-treated group after 1 (p > 0.05), 4 (p < 0.05), and 7 days (p < 0.05), 
+respectively.
+CONCLUSION: The results showed that baicalin can interfere with inflammatory 
+injury by suppressing the release of inflammatory cytokines IL-1β and TNF-α 
+during MG infection both in vivo and in vitro. Meanwhile, baicalin suppressed 
+TLR2-NFκB signaling pathway by inhibiting the phosphorylation of p65 and IκB, 
+thereby affecting the expression of inflammatory factors. The results suggested 
+that baicalin acts as a potential anti-inflammatory agent against MG infection 
+in chicken and DF-1 cells.
+
+© 2019 Wu et al.
+
+DOI: 10.2147/IDR.S231908
+PMCID: PMC6929927
+PMID: 31908503
+
+Conflict of interest statement: All the authors have no potential conflicts of 
+interests regarding the publication of this manuscript.
+
+
+11. Theriogenology. 2019 Apr 1;128:62-73. doi: 10.1016/j.theriogenology.2019.02.001. 
+Epub 2019 Feb 1.
+
+The expression and localization of Toll-like receptors 2, 4, 5 and 9 in the 
+epididymis and vas deferens of a adult tom cats.
+
+Liman N(1), Alan E(2), Apaydın N(3).
+
+Author information:
+(1)Department of Histology and Embryology, Faculty of Veterinary Medicine, 
+Erciyes University, 38039, Kayseri, Turkey. Electronic address: 
+limann@erciyes.edu.tr.
+(2)Department of Histology and Embryology, Faculty of Veterinary Medicine, 
+Erciyes University, 38039, Kayseri, Turkey.
+(3)Department of Surgery, Faculty of Veterinary Medicine, Erciyes University, 
+38039, Kayseri, Turkey.
+
+Toll-like receptors (TLRs) are important molecules, which provide protection 
+against infections of the reproductive tract. This study demonstrates for the 
+first time the expression and localization patterns of TLRs in the caput, corpus 
+and cauda segments of the epididymal duct (ED) and the vas deferens (VD) of 
+adult domestic cats using immunohistochemistry and western blotting. While 
+immunoblot analyses revealed relatively similar protein levels for TLRs 2, 4, 5, 
+and 9 in three segments of the ED, the protein levels of TLR2 and TLR4 in the VD 
+were found to be significantly higher than those measured in the ED segments 
+(P < 0.05). On the other hand, immunostaining showed that TLRs exhibited 
+regional- and cell-specific localization patterns. TLR2 and TLR5 were 
+immunolocalized to the nucleus and cytoplasm of the principal cells in all 
+ducts. TLR4 was restricted to the stereocilia, and TLR9 was located in the 
+cytoplasm of the principal cells. Narrow cells displayed positive 
+immunoreactions for TLR4 and TLR5. The basal cells of the different ED segments 
+were positive for all four TLRs. TLR2, TLR5 and TLR9 were detected in the 
+cytoplasmic droplets of the spermatozoa. TLR4 and TLR9 were detected along the 
+entire length of the sperm tail, whilst TLR2 and TLR5 were absent in the 
+midpiece. TLR2 and TLR5 were also detected in the equatorial segment of the 
+sperm head. These results suggest that TLR2, TLR4, TLR5 and TLR9 are important 
+not only for the protection of the ED, VD and spermatozoa but also for the 
+maturation and storage of spermatozoa in the ED and VD, respectively.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.theriogenology.2019.02.001
+PMID: 30743105 [Indexed for MEDLINE]
+
+
+12. Mol Med. 2018 Sep 27;24(1):51. doi: 10.1186/s10020-018-0052-3.
+
+Leukemia inhibitory factor inhibits erythropoietin-induced myelin gene 
+expression in oligodendrocytes.
+
+Gyetvai G(1), Roe C(1), Heikal L(1), Ghezzi P(2), Mengozzi M(1).
+
+Author information:
+(1)Department of Clinical and Experimental Medicine, Brighton & Sussex Medical 
+School, Brighton, BN1 9PS, UK.
+(2)Department of Clinical and Experimental Medicine, Brighton & Sussex Medical 
+School, Brighton, BN1 9PS, UK. P.Ghezzi@bsms.ac.uk.
+
+Erratum in
+    Mol Med. 2020 Jun 25;26(1):62. doi: 10.1186/s10020-020-00189-9.
+
+BACKGROUND: The pro-myelinating effects of leukemia inhibitory factor (LIF) and 
+other cytokines of the gp130 family, including oncostatin M (OSM) and ciliary 
+neurotrophic factor (CNTF), have long been known, but controversial results have 
+also been reported. We recently overexpressed erythropoietin receptor (EPOR) in 
+rat central glia-4 (CG4) oligodendrocyte progenitor cells (OPCs) to study the 
+mechanisms mediating the pro-myelinating effects of erythropoietin (EPO). In 
+this study, we investigated the effect of co-treatment with EPO and LIF.
+METHODS: Gene expression in undifferentiated and differentiating CG4 cells in 
+response to EPO and LIF was analysed by DNA microarrays and by RT-qPCR. 
+Experiments were performed in biological replicates of N ≥ 4. Functional 
+annotation and biological term enrichment was performed using DAVID (Database 
+for Annotation, Visualization and Integrated Discovery). The gene-gene 
+interaction network was visualised using STRING (Search Tool for the Retrieval 
+of Interacting Genes).
+RESULTS: In CG4 cells treated with 10 ng/ml of EPO and 10 ng/ml of LIF, 
+EPO-induced myelin oligodendrocyte glycoprotein (MOG) expression, measured at 
+day 3 of differentiation, was inhibited ≥4-fold (N = 5, P < 0.001). Inhibition 
+of EPO-induced MOG was also observed with OSM and CNTF. Analysis of the gene 
+expression profile of CG4 differentiating cells treated for 20 h with EPO and 
+LIF revealed LIF inhibition of EPO-induced genes involved in lipid transport and 
+metabolism, previously identified as positive regulators of myelination in this 
+system. In addition, among the genes induced by LIF, and not by differentiation 
+or by EPO, the role of suppressor of cytokine signaling 3 (SOCS3) and toll like 
+receptor 2 (TLR2) as negative regulators of myelination was further explored. 
+LIF-induced SOCS3 was associated with MOG inhibition; Pam3, an agonist of TLR2, 
+inhibited EPO-induced MOG expression, suggesting that TLR2 is functional and its 
+activation decreases myelination.
+CONCLUSIONS: Cytokines of the gp130 family may have negative effects on 
+myelination, depending on the cytokine environment.
+
+DOI: 10.1186/s10020-018-0052-3
+PMCID: PMC6161334
+PMID: 30261841 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL: Not applicable. CONSENT FOR 
+PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare they have 
+no competing interests as defined by Molecular Medicine, or other interests that 
+might be perceived to influence the results and discussion reported in this 
+paper. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+
+
+13. PLoS One. 2018 Sep 25;13(9):e0204709. doi: 10.1371/journal.pone.0204709. 
+eCollection 2018.
+
+A synthetic glycosaminoglycan reduces sinonasal inflammation in a murine model 
+of chronic rhinosinusitis.
+
+Alt JA(1), Lee WY(2), Davis BM(1), Savage JR(2), Kennedy TP(2)(3), Prestwich 
+GD(2)(4), Pulsipher A(1)(2).
+
+Author information:
+(1)Division of Head and Neck Surgery, Rhinology-Sinus and Skull Base Surgery 
+Program, Department of Surgery, University of Utah School of Medicine, Salt Lake 
+City, Utah, United States of America.
+(2)GlycoMira Therapeutics, Inc., Salt Lake City, Utah, United States of America.
+(3)Pulmonary Diseases Critical Care and Environmental Medicine, Tulane 
+University School of Medicine, New Orleans, Louisiana, United States of America.
+(4)Department of Medicinal Chemistry and Center for Therapeutic Biomaterials, 
+University of Utah, Salt Lake City, Utah, United States of America.
+
+Chronic rhinosinusitis (CRS) is characterized by sustained mucosal inflammation, 
+impaired mucociliary clearance, loss of cilia and epithelial barrier breakdown, 
+and tissue remodeling. Certain glycosaminoglycans inhibit various inflammatory 
+mediators, suppress bacterial growth, and provide important functions in mucosal 
+tissue repair and mucociliary clearance. Herein, we evaluated the effects of a 
+synthetic glycosaminoglycan, GM-1111, on the clinical signs and inflammatory 
+tissue changes associated with CRS in mice. CRS was generated by repeated 
+intranasal applications of Aspergillus fumigatus (A. fumigatus) extracts over 4 
+weeks. Mice were then intranasally administered GM-1111 (600 μg per dose, 5 
+times a week) or vehicle (phosphate buffered saline, PBS) for an additional 4 
+weeks while still being given A. fumigatus extracts to maintain a chronic 
+inflammatory environment with acute exacerbations. Clinical signs indicative of 
+sinonasal inflammation were recorded throughout the study. After 9 weeks, whole 
+blood and sinonasal tissues were harvested for hematological, histological, and 
+biochemical examination. The clinical signs, white blood cell counts, tissue 
+markers of sinonasal inflammation, and histological changes caused by A. 
+fumigatus extract administration were compared to the healthy (PBS vehicle) and 
+GM-1111-treated groups (n = 12 per treatment group). Compared to vehicle-treated 
+animals, animals treated with GM-1111 demonstrated significant reductions in 
+clinical signs (p<0.05), degenerative tissue changes, goblet cell hyperplasia, 
+inflammatory cell infiltration (p<0.01), innate immunity- (tlr2, tlr4, myd88, 
+il1b, tnfa, il6, and il12) and adaptive immunity-associated (ccl11, ccl24, ccl5, 
+il4, il5, and il13) cytokine gene expression (p<0.05 to p<0.0001) in sinonasal 
+tissues, and serum IgE levels (p<0.01). Our data suggest that GM-1111 
+significantly reduces local and systemic effects of CRS-associated sinonasal 
+inflammation.
+
+DOI: 10.1371/journal.pone.0204709
+PMCID: PMC6155557
+PMID: 30252910 [Indexed for MEDLINE]
+
+Conflict of interest statement: WYL, JRS, and AP are employed by and GDP, TPK, 
+and JAA have stock in GlycoMira Therapeutics, Inc. JAA is a paid consultant for 
+Medtronic ENT, Spirox, and OptiNose. These affiliations do not alter the 
+authors’ adherence to PLoS ONE policies on sharing data and materials.
+
+
+14. Clin Exp Reprod Med. 2018 Mar;45(1):1-9. doi: 10.5653/cerm.2018.45.1.1. Epub 
+2018 Mar 30.
+
+Variable localization of Toll-like receptors in human fallopian tube epithelial 
+cells.
+
+Amjadi F(1)(2), Zandieh Z(1)(2), Salehi E(2)(3), Jafari R(4), Ghasemi N(5), 
+Aflatoonian A(5), Fazeli A(6), Aflatoonian R(2).
+
+Author information:
+(1)Department of Anatomical Sciences, School of Medicine, Iran University of 
+Medical Sciences, Tehran, Iran.
+(2)Department of Endocrinology and Female Infertility, Reproductive Biomedicine 
+Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, 
+Iran.
+(3)Department of Anatomy, Tehran University of Medical Sciences, Tehran, Iran.
+(4)Department of Immunology, Iran University of Medical Sciences, Tehran, Iran.
+(5)Research and Clinical Center for Infertility, Shahid Sadoughi University of 
+Medical Sciences, Yazd, Iran.
+(6)Academic Unit of Reproductive and Developmental Medicine, Department of 
+Oncology and Metabolism, University of Sheffield, Sheffield, UK.
+
+OBJECTIVE: To determine the localization, expression, and function of Toll-like 
+receptors (TLRs) in fallopian tube epithelial cells.
+METHODS: The localization of TLRs in fallopian tube epithelial cells was 
+investigated by immunostaining. Surprisingly, the intensity of staining was not 
+equal in the secretory and ciliated cells. After primary cell culture of 
+fallopian tube epithelial cells, ring cloning was used to isolate colonies of 
+ciliated epithelial cells, distinct from non-ciliated epithelial cells. The 
+expression of TLRs 1-10 was examined by quantitative real-time polymerase chain 
+reaction, and protein localization was confirmed by immunostaining. The function 
+of the TLRs was determined by interleukin (IL)-6 and IL-8 production in response 
+to TLR2, TLR3, TLR5, TLR7, and TLR9 ligands.
+RESULTS: Fallopian tube epithelial cells expressed TLRs 1-10 in a 
+cell-type-specific manner. Exposing fallopian tube epithelial cells to TLR2, 
+TLR3, TLR5, TLR7, and TLR9 agonists induced the secretion of proinflammatory 
+cytokines such as IL-6 and IL-8.
+CONCLUSION: Our findings suggest that TLR expression in the fallopian tubes is 
+cell-type-specific. According to our results, ciliated cells may play more 
+effective role than non-ciliated cells in the innate immune defense of the 
+fallopian tubes, and in interactions with gametes and embryos.
+
+DOI: 10.5653/cerm.2018.45.1.1
+PMCID: PMC5897241
+PMID: 29662819
+
+Conflict of interest statement: Conflict of interest: No potential conflict of 
+interest relevant to this article was reported.
+
+
+15. Laryngoscope Investig Otolaryngol. 2016 Jun;1(3):49-56. doi: 10.1002/lio2.21. 
+Epub 2016 Jun 10.
+
+Innate immunity and chronic rhinosinusitis: What we have learned from animal 
+models.
+
+London NR Jr(1), Lane AP(1).
+
+Author information:
+(1)Johns Hopkins Department of Otolaryngology - Head and Neck Surgery, 
+Baltimore, MD.
+
+OBJECTIVE: Chronic rhinosinusitis (CRS) is a heterogeneous and multifactorial 
+disease characterized by dysregulated inflammation. Abnormalities in innate 
+immune function including sinonasal epithelial cell barrier function, 
+mucociliary clearance, response to pathogen-associated molecular patterns 
+(PAMPs) via pattern recognition receptors (PRRs), and the contribution of innate 
+immune cells will be highlighted in this review.
+DATA SOURCES: PubMed literature review.
+REVIEW METHODS: A review of the literature was conducted to determine what we 
+have learned from animal models in relation to innate immunity and chronic 
+rhinosinusitis.
+RESULTS: Dysregulation of innate immune mechanisms including sinonasal barrier 
+function, mucociliary clearance, PAMPs, and innate immune cells such as 
+eosinophils, mast cells, and innate lymphoid cells may contribute to CRS 
+pathogenesis. Sinonasal inflammation has been studied using mouse, rat, rabbit, 
+pig, and sheep explant or in vivo models. Study using these models has allowed 
+for analysis of experimental therapeutics and furthered our understanding of the 
+aforementioned aspects of the innate immune mechanism as it relates to sinonasal 
+inflammation. These include augmenting mucociliary clearance through activation 
+of the cystic fibrosis transmembrane conductance regulator (CFTR) and study of 
+drug toxicity on ciliary beat frequency. Knockout models of Toll-like receptors 
+(TLR) have demonstrated the critical role these PRRs play in allergic 
+inflammation as loss of TLR2 and TLR4 leads to decreased lower airway 
+inflammation. Mast cell deficient mice are less susceptible to ovalbumin-induced 
+sinonasal inflammation.
+CONCLUSION: Animal models have shed light as to the potential contribution of 
+dysregulated innate immunity in chronic sinonasal inflammation.
+
+DOI: 10.1002/lio2.21
+PMCID: PMC5409101
+PMID: 28459101
+
+Conflict of interest statement: Conflict of interest statement: N.R.L. has stock 
+in Navigen Pharmaceuticals which is currently of no value. A.P.L. declares no 
+conflicts of interest.
+
+
+16. PLoS One. 2016 Jul 8;11(7):e0158799. doi: 10.1371/journal.pone.0158799. 
+eCollection 2016.
+
+Mechanical Ventilation Alters the Development of Staphylococcus aureus Pneumonia 
+in Rabbit.
+
+Barbar SD(1), Pauchard LA(1), Bruyère R(1), Bruillard C(1), Hayez D(2), Croisier 
+D(2), Pugin J(3), Charles PE(1).
+
+Author information:
+(1)Laboratoire "Ventilation Immunité Poumon", Pôle Microbiologie 
+Environnementale et Risque Sanitaire (M.E.R.S.), U.M.R. 1347, I.N.R.A., 
+Université de Bourgogne, Dijon, France.
+(2)Vivexia S.A.R.L., Gemeaux, France.
+(3)Intensive Care Laboratory, University Hospitals of Geneva, and Department of 
+Microbiology and Molecular Medicine, Faculty of Medicine, 1211 Geneva 14, 
+Switzerland.
+
+Ventilator-associated pneumonia (VAP) is common during mechanical ventilation 
+(MV). Beside obvious deleterious effects on muco-ciliary clearance, MV could 
+adversely shift the host immune response towards a pro-inflammatory pattern 
+through toll-like receptor (TLRs) up-regulation. We tested this hypothesis in a 
+rabbit model of Staphylococcus aureus VAP. Pneumonia was caused by airway 
+challenge with S. aureus, in either spontaneously breathing (SB) or MV rabbits 
+(n = 13 and 17, respectively). Pneumonia assessment regarding pulmonary and 
+systemic bacterial burden, as well as inflammatory response was done 8 and 24 
+hours after S. aureus challenge. In addition, ex vivo stimulations of whole 
+blood taken from SB or MV rabbits (n = 7 and 5, respectively) with TLR2 agonist 
+or heat-killed S. aureus were performed. Data were expressed as mean±standard 
+deviation. After 8 hours of infection, lung injury was more severe in MV animals 
+(1.40±0.33 versus [vs] 2.40±0.55, p = 0.007), along with greater bacterial 
+concentrations (6.13±0.63 vs. 4.96±1.31 colony forming units/gram, p = 0.002). 
+Interleukin (IL)-8 and tumor necrosis factor (TNF)-αserum concentrations reached 
+higher levels in MV animals (p = 0.010). Whole blood obtained from MV animals 
+released larger amounts of cytokines if stimulated with TLR2 agonist or 
+heat-killed S. aureus (e.g., TNF-α: 1656±166 vs. 1005±89; p = 0.014). Moreover, 
+MV induced TLR2 overexpression in both lung and spleen tissue. MV hastened 
+tissue injury, impaired lung bacterial clearance, and promoted a systemic 
+inflammatory response, maybe through TLR2 overexpression.
+
+DOI: 10.1371/journal.pone.0158799
+PMCID: PMC4938582
+PMID: 27391952 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: DCB and DH are members of 
+the “Vivexia” company. This does not alter the authors' adherence to PLOS ONE 
+policy on sharing data and materials.
+
+
+17. Dev Comp Immunol. 2016 Aug;61:180-9. doi: 10.1016/j.dci.2016.03.028. Epub 2016 
+Mar 30.
+
+Identification and characterization of three TLR1 subfamily members from the 
+orange-spotted grouper, Epinephelus coioides.
+
+Li YW(1), Xu DD(2), Li X(3), Mo ZQ(4), Luo XC(2), Li AX(5), Dan XM(6).
+
+Author information:
+(1)College of Animal Science, South China Agricultural University, Guangzhou 
+510642, Guangdong Province, PR China; State Key Laboratory of Biocontrol, School 
+of Life Sciences, Sun Yat-sen University, Guangzhou 510275, Guangdong Province, 
+PR China.
+(2)School of Bioscience and Biotechnology, South China University of Technology, 
+Guangzhou 510006, Guangdong Province, PR China.
+(3)State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-sen 
+University, Guangzhou 510275, Guangdong Province, PR China.
+(4)College of Animal Science, South China Agricultural University, Guangzhou 
+510642, Guangdong Province, PR China.
+(5)State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-sen 
+University, Guangzhou 510275, Guangdong Province, PR China. Electronic address: 
+lianxing@mail.sysu.edu.cn.
+(6)College of Animal Science, South China Agricultural University, Guangzhou 
+510642, Guangdong Province, PR China. Electronic address: dxm72@scau.edu.cn.
+
+Toll-like receptors (TLRs), which play important roles in host defense against 
+pathogen infection, are the most intensively studied pattern recognition 
+receptors (PRRs). In this study, we identified three novel TLR1 subfamily 
+members, including TLR1 (EcTLR1b), TLR2 (EcTLR2b) and TLR14 (EcTLR14), from the 
+orange-spotted grouper (Epinephelus coioides). EcTLR1b and EcTLR2b displayed low 
+sequence identity with the previously reported grouper TLR1 (EcTLR1a) and TLR2 
+(EcTLR2a), respectively. The open reading frames (ORFs) of EcTLR1b, EcTLR2b and 
+EcTLR14 contain 2484 bp, 2394 bp and 2640 bp, which encode the corresponding 827 
+amino acids (aa), 797 aa and 879 aa, respectively. All three TLRs have 
+leucine-rich repeat (LRR) domains (including an LRR-NT (except for EcTLR1b), 
+several LRR motifs and an LRR-CT), a trans-membrane region and a 
+Toll/interleukin-1 receptor (TIR) domain. The TIR domains of the three TLRs 
+exhibited conserved boxes, namely box1, box2 and box3, and their 3D models were 
+similar to those of human TLR1 or TLR2. Sequence alignment demonstrated that the 
+TIR domains of the three TLRs shared higher sequence identity with those of 
+other species than the full-length receptors. Phylogenetic analysis indicated 
+that EcTLR1s and EcTLR2s are characterized by their differing evolutionary 
+status, whereas EcTLR14 was found to be in the same group as other piscine 
+TLR14/18s. The three TLRs were ubiquitously expressed in seven tested tissues of 
+healthy groupers, although their expression profiles were different. Post 
+Cryptocaryon irritans infection, TLR1s expression was up-regulated in the gills. 
+The expression of TLR2b was mainly increased in the spleen, but decreased in the 
+gills, which was similar to the expression pattern of TLR2a post C. irritans 
+infection. Unlike EcTLR1b and EcTLR2b, however, the grouper TLR14 transcript was 
+substantially induced in both tissues post challenge. These findings may be 
+helpful in understanding the innate immune mechanism of host anti-parasite 
+infection.
+
+Crown Copyright © 2016. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dci.2016.03.028
+PMID: 27037219 [Indexed for MEDLINE]
+
+
+18. Infect Genet Evol. 2015 Oct;35:194-203. doi: 10.1016/j.meegid.2015.08.019. Epub 
+2015 Aug 18.
+
+Otitis media induced by peptidoglycan-polysaccharide (PGPS) in TLR2-deficient 
+(Tlr2(-/-)) mice for developing drug therapy.
+
+Zhang X(1), Zheng T(2), Sang L(2), Apisa L(3), Zhao H(4), Fu F(5), Wang Q(2), 
+Wang Y(6), Zheng Q(7).
+
+Author information:
+(1)Transformative Otology and Neuroscience Center, Binzhou Medical University, 
+Yantai 264003, Shandong, PR China; Department of Otolaryngology-HNS, Case 
+Western Reserve University, Cleveland, OH 44106, USA.
+(2)Transformative Otology and Neuroscience Center, Binzhou Medical University, 
+Yantai 264003, Shandong, PR China.
+(3)Department of Otolaryngology-HNS, Case Western Reserve University, Cleveland, 
+OH 44106, USA.
+(4)Department of Otolaryngology/Head and Neck Surgery, Institute of 
+Otolaryngology, Affiliated Hospital of Binzhou Medical University, Binzhou 
+256600, Shandong, PR China.
+(5)Department of Pharmacology, School of Pharmacy, Yantai University, Yantai 
+264003, Shandong, PR China.
+(6)Department of Otolaryngology/Head and Neck Surgery, Institute of 
+Otolaryngology, Affiliated Hospital of Binzhou Medical University, Binzhou 
+256600, Shandong, PR China. Electronic address: entwyf@163.com.
+(7)Transformative Otology and Neuroscience Center, Binzhou Medical University, 
+Yantai 264003, Shandong, PR China; Department of Otolaryngology-HNS, Case 
+Western Reserve University, Cleveland, OH 44106, USA. Electronic address: 
+qyz@case.edu.
+
+BACKGROUND: Toll like receptor 2 (TLR2) signaling can regulate the pathogenesis 
+of otitis media (OM). However, the precise role of TLR2 signaling in OM has not 
+been clarified due to the lack of an optimal animal model. 
+Peptidoglycan-polysaccharide (PGPS) of the bacterial cell wall can induce 
+inflammation by activating the TLR2 signaling. This study aimed at examining the 
+pathogenic characteristics of OM induced by PGPS in Tlr2(-/-) mice, and the 
+potential therapeutic effect of sodium aescinate (SA) in this model.
+METHODS: Wild-type (WT) and Tlr2(-/-) mice were inoculated with streptococcal 
+PGPS into their middle ears (MEs) and treated intravenously with vehicle or SA 
+daily beginning at 3days prior to PGPS for 6 consecutive days. The pathologic 
+changes of individual mice were evaluated longitudinally.
+RESULTS: In comparison with WT mice, Tlr2(-/-) mice were susceptible to 
+PGPS-induced OM. Tlr2(-/-) mice displayed greater hearing loss, tympanic 
+membrane damage, ME mucosal thickening, longer inflammation state, cilia and 
+goblet cell loss. SA-treatment decreased neutrophil infiltration, modulated 
+TLR2-related gene expression and improved ciliary organization.
+CONCLUSIONS: PGPS induced a relatively stable OM in Tlr2(-/-) mice, providing a 
+new model for OM research. Treatment with SA mitigated the pathogenic damage in 
+the ME and may be valuable for intervention of OM.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.meegid.2015.08.019
+PMCID: PMC4617670
+PMID: 26296608 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors have declared 
+that no conflict of interest exists.
+
+
+19. Alcohol Clin Exp Res. 2015 Sep;39(9):1691-7. doi: 10.1111/acer.12803. Epub 2015 
+Jul 24.
+
+TLR2 and TLR4 Expression and Inflammatory Cytokines are Altered in the Airway 
+Epithelium of Those with Alcohol Use Disorders.
+
+Bailey KL(1)(2), Romberger DJ(1)(2), Katafiasz DM(1), Heires AJ(1)(2), Sisson 
+JH(1), Wyatt TA(1)(2)(3), Burnham EL(4).
+
+Author information:
+(1)Internal Medicine, Division of Pulmonary, Critical Care, Sleep and Allergy, 
+University of Nebraska Medical Center, Omaha, Nebraska.
+(2)Veterans Affairs Nebraska-Western Iowa Health Care System, Research Service, 
+Omaha, Nebraska.
+(3)Department of Environmental, Agricultural & Occupational Health, College of 
+Public Health, University of Nebraska Medical Center, Omaha, Nebraska.
+(4)University of Colorado School of Medicine, Denver, Colorado.
+
+BACKGROUND: The lung has a highly regulated system of innate immunity to protect 
+itself from inhaled microbes and toxins. The first line of defense is 
+mucociliary clearance, but if invaders overcome this, inflammatory pathways are 
+activated. Toll-like receptors (TLRs) are expressed on the airway epithelium. 
+Their signaling initiates the inflammatory cascade and leads to production of 
+inflammatory cytokines such as interleukin (IL)-6 and IL-8. We hypothesized that 
+airway epithelial insults, including heavy alcohol intake or smoking, would 
+alter the expression of TLRs on the airway epithelium.
+METHODS: Bronchoscopy with bronchoalveolar lavage and brushings of the airway 
+epithelium was performed in otherwise healthy subjects who had normal chest 
+radiographs and spirometry. A history of alcohol use disorders (AUDs) was 
+ascertained using the Alcohol Use Disorders Identification Test (AUDIT), and a 
+history of cigarette smoking was also obtained. Age, gender, and nutritional 
+status in all groups were similar. We used real-time polymerase chain reaction 
+(PCR) to quantitate TLR1 to 9 and enzyme-linked immune assay to measure tumor 
+necrosis factor-α, IL-6, and IL-8.
+RESULTS: Airway brushings were obtained from 26 nonsmoking/non-AUD subjects, 28 
+smoking/non-AUD subjects, 36 smoking/AUD subjects, and 17 nonsmoking/AUD 
+subjects. We found that TLR2 is up-regulated in AUD subjects, compared to 
+nonsmoking/non-AUD subjects, and correlated with their AUDIT scores. We also 
+measured a decrease in TLR4 expression in AUD subjects that correlated with 
+AUDIT score. IL-6 and IL-8 were also increased in bronchial washings from AUD 
+subjects.
+CONCLUSIONS: We have previously demonstrated in normal human bronchial 
+epithelial cells that in vitro alcohol exposure up-regulates TLR2 through a 
+NO/cGMP/PKG-dependent pathway, resulting in up-regulation of inflammatory 
+cytokine production after Gram-positive bacterial product stimulation. Our 
+current translational study confirms that TLR2 is also up-regulated in humans 
+with AUDs.
+
+Copyright © 2015 by the Research Society on Alcoholism.
+
+DOI: 10.1111/acer.12803
+PMCID: PMC4843766
+PMID: 26208141 [Indexed for MEDLINE]
+
+
+20. Fish Shellfish Immunol. 2013 Sep;35(3):993-7. doi: 10.1016/j.fsi.2013.05.023. 
+Epub 2013 Jun 3.
+
+Expression profiles of toll-like receptors in channel catfish (Ictalurus 
+punctatus) after infection with Ichthyophthirius multifiliis.
+
+Zhao F(1), Li YW, Pan HJ, Shi CB, Luo XC, Li AX, Wu SQ.
+
+Author information:
+(1)Key Laboratory of Fishery Drug Development, Ministry of Agriculture, Pearl 
+River Fisheries Research Institute, Chinese Academy of Fishery Sciences, 1 
+Xingyu Road, Liwan District, Guangzhou 510380, Guangdong Province, PR China.
+
+Toll-like receptors (TLRs) play a crucial role in the innate immune system, but 
+to date the roles of fish TLRs in response to parasitic infection are still 
+poorly understood. In the present study, we used channel catfish (Ictalurus 
+punctatus) and the ciliate parasite Ichthyophthirius multifiliis as a model to 
+investigate whether and which fish TLRs play important roles in the immune 
+response against parasitic pathogens by detecting the expression profiles of a 
+complete set of TLRs in catfish at different time points after infection with I. 
+multifiliis. The expression profiles of TLR1 and TLR2 were similar, and both 
+were significantly up-regulated in the skin and head kidney at most time points 
+after infection. Furthermore, the expression of TLR2 was also up-regulated in 
+the gill and spleen. TLR9 was induced in the skin and gill, whereas TLR21 was 
+induced in the head kidney and spleen after infection. For TLR19, significant 
+up-regulation was observed in the skin and gill, but significant down-regulation 
+was detected in the head kidney and spleen. In contrast to TLR19, TLR25 was 
+significantly up-regulated in the head kidney and spleen at some time points. No 
+significant changes were observed for the rest of the TLRs at most time points. 
+The results indicated that some TLRs may play essential roles in catfish defense 
+against I. multifiliis infection.
+
+Copyright © 2013 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.fsi.2013.05.023
+PMID: 23742868 [Indexed for MEDLINE]
+
+
+21. Vet Immunol Immunopathol. 2013 Jul 15;154(1-2):54-61. doi: 
+10.1016/j.vetimm.2013.05.003. Epub 2013 May 7.
+
+A 3-D airway epithelial cell and macrophage co-culture system to study 
+Rhodococcus equi infection.
+
+Schwab U(1), Caldwell S, Matychak MB, Felippe J.
+
+Author information:
+(1)Department of Clinical Sciences, College of Veterinary Medicine, Cornell 
+University, Ithaca, NY 14853, USA. ues3@cornell.edu
+
+We developed a 3-D equine bronchial epithelial cell (BEC) culture that fully 
+differentiates into ciliary beating and mucus producing cells. Using this 
+system, we evaluated how mucus affects the phagocytic activity of macrophages. 
+Adult horse monocyte-derived macrophages were incubated with Rhodococcus equi 
+for 4h either in the mucus layer of in vitro generated airway epithelium or on 
+collagen coated membranes. Using light and electron microscopy, we noted that 
+the number of macrophages with intracellular bacteria, and the number of 
+intracellular bacteria per macrophage were lower in the presence of mucus. TNFα 
+measurements revealed that the presence of BECs promoted TNFα production by R. 
+equi-infected macrophages; a decrease in TLR-2 (involved in R. equi recognition) 
+and an increase in EGF-R (involved in mucin production) mRNA expression were 
+also noted. Interestingly, when foal macrophages were added to foal BECs, we 
+made the opposite observation, i.e. many macrophages were loaded with R. equi. 
+Our in vitro bronchial system shows great potential for the identification of 
+mechanisms how BECs and mucus play a role in phagocyte activation and bacterial 
+clearance. Further studies using this system will show whether the airway 
+environment in the foal responds differently to R. equi infection.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetimm.2013.05.003
+PMID: 23721971 [Indexed for MEDLINE]
+
+
+22. Am J Respir Crit Care Med. 2013 Jun 15;187(12):1374-81. doi: 
+10.1164/rccm.201212-2197OC.
+
+Abnormal nasal nitric oxide production, ciliary beat frequency, and Toll-like 
+receptor response in pulmonary nontuberculous mycobacterial disease epithelium.
+
+Fowler CJ(1), Olivier KN, Leung JM, Smith CC, Huth AG, Root H, Kuhns DB, Logun 
+C, Zelazny A, Frein CA, Daub J, Haney C, Shelhamer JH, Bryant CE, Holland SM.
+
+Author information:
+(1)Immunopathogenesis Section, Laboratory of Clinical Infectious Diseases, 
+National Institute of Allergy and Infectious Diseases (NIAID), National 
+Institutes of Health (NIH), Bethesda, MD 20892-1684, USA.
+
+RATIONALE: Pulmonary nontuberculous mycobacterial (PNTM) disease has increased 
+over the past several decades, especially in older women. Despite extensive 
+investigation, no consistent immunological abnormalities have been found. Using 
+evidence from diseases such as cystic fibrosis and primary ciliary dyskinesia, 
+in which mucociliary dysfunction predisposes subjects to high rates of 
+nontuberculous mycobacterial disease that increase with age, we investigated 
+correlates of mucociliary function in subjects with PNTM infections and healthy 
+control subjects.
+OBJECTIVES: To define ex vivo characteristics of PNTM disease.
+METHODS: From 2009 to 2012, 58 subjects with PNTM infections and 40 control 
+subjects were recruited. Nasal nitric oxide (nNO) was determined at the time of 
+respiratory epithelial collection. Ciliary beat frequency at rest and in 
+response to Toll-like receptor (TLR) and other agonists was determined using 
+high-speed video microscopy.
+MEASUREMENTS AND MAIN RESULTS: We found decreased nNO production, abnormally low 
+resting ciliary beat frequency, and abnormal responses to agonists of TLR2, -3, 
+-5, -7/8, and -9 in subjects with PNTM compared with healthy control subjects. 
+The low ciliary beat frequency in subjects with PNTM was normalized ex vivo by 
+augmentation of the NO-cyclic guanosine monophosphate pathway without 
+normalization of their TLR agonist responses.
+CONCLUSIONS: Impaired nNO, ciliary beat frequency, and TLR responses in PNTM 
+disease epithelium identify possible underlying susceptibility mechanisms as 
+well as possible avenues for directed investigation and therapy.
+
+DOI: 10.1164/rccm.201212-2197OC
+PMCID: PMC3734613
+PMID: 23593951 [Indexed for MEDLINE]
+
+
+23. PLoS One. 2012;7(9):e43010. doi: 10.1371/journal.pone.0043010. Epub 2012 Sep 28.
+
+Mutation in Phex gene predisposes BALB/c-Phex(Hyp-Duk)/Y mice to otitis media.
+
+Han F(1), Yu H, Li P, Zhang J, Tian C, Li H, Zheng QY.
+
+Author information:
+(1)The Transformative Otology and Neuroscience Center, Binzhou Medical 
+University, Yantai, Shandong, People's Republic of China.
+
+Genetic susceptibility underlying otitis media (OM) remains to be understood. We 
+show in this study that mutation in Phex gene predisposes the 
+BALB/c-Phex(Hyp-Duk)/Y (abbreviated Hyp-Duk/Y) mice to OM, which occurs at 
+post-natal day 21 (P21) with an average penetrance of 73%. The OM was identified 
+by effusion in the middle ear cavity and/or thickening of middle ear mucosae, 
+and was characterised by increase in goblet cells, deformity of epithelial cilia 
+and higher expression of proliferating cell nuclear antigen (PCNA) in cells of 
+the middle ear mucosae. Moreover, the transcription levels of Tlr2, Tlr4, Nfkb1, 
+Ccl4, Il1b and Tnfα in the ears of the Hyp-Duk/Y mice at P35 were significantly 
+upregulated, compared to those of the controls. Higher expression levels of 
+TLR2, TLR4, NF-κB and TNF-α in the middle ears were demonstrated by 
+immunohistochemistry (IHC). However, the OM in the mice was not prevented by 
+azithromycin administration from gestational day 18 to P35. Further study showed 
+that, in contrast to the low mRNA levels of Phex gene in the ears of the 
+Hyp-Duk/Y mice, the mRNA level of Fgf23 was significantly elevated at P9, P14, 
+P21 and P35. Meanwhile, mRNA levels of EP2 (PGE2 receptor), which expressed in 
+the middle ear epithelia as demonstrated by IHC, were already increased at P14 
+even before the occurrence of OM, indicating that PGE2, an inflammatory 
+mediator, is involved in the OM development in the mutants. Taking together, 
+Phex mutation primarily up-regulates gene expression levels in FGF23 mediated 
+pathways in the middle ears, resulting in cell proliferation and defence 
+impairment at the mucosae and subsequently bacterial infection. The Hyp-Duk/Y 
+mouse is a new genetic mouse model of OM.
+
+DOI: 10.1371/journal.pone.0043010
+PMCID: PMC3461009
+PMID: 23028440 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+24. J Leukoc Biol. 2011 Dec;90(6):1159-66. doi: 10.1189/jlb.0511249. Epub 2011 Sep 
+20.
+
+Investigation of the differential potentials of TLR agonists to elicit uveitis 
+in mice.
+
+Allensworth JJ(1), Planck SR, Rosenbaum JT, Rosenzweig HL.
+
+Author information:
+(1)Casey Eye Institute, Portland, Oregon, USA.
+
+TLRs are critical for host defense and innate immunity. Emerging evidence also 
+supports a role for TLRs in many chronic inflammatory diseases, including 
+inflammatory eye disease, known as uveitis. The activation of TLR4 by endotoxin 
+induces a standard model of murine uveitis. How activation of additional TLRs 
+influences the onset and/or severity of anterior uveitis has not been examined. 
+We sought to elucidate the potential of TLRs (TLR1/2, TLR2/6, TLR3, TLR4, TLR5, 
+TLR7/8, and TLR9) to trigger uveitis in mice. Directly stimulated iris/ciliary 
+body explants demonstrated a marked increase in production of inflammatory 
+cytokines TNF-α, IL-6, IP-10/CXCL10, MCP-1, and KC with relatively little 
+production of IFN-γ, IL-10, IL-12p40, IL-12p70, IL-17, IL-1β, IL-4, or RANTES. 
+The cytokine-response profiles were comparable amongst the TLR agonists, albeit 
+some differences were noted, such as greater IP-10 production following TLR3 
+activation. Intra-ocular injection of TLR agonists increased leukocyte 
+interactions with the endothelium of the iris vasculature and resulted in 
+chemotaxis into the iris tissue. Assessment of leukocytic responses by ivt 
+videomicroscopy and histology revealed quantitative differences amongst 
+responses to the TLR agonists with respect to the timing and numbers of rolling, 
+adhering, iris-infiltrating, and aqueous humor-infiltrating cells, along with 
+cytokine levels in vivo. Our data demonstrate the eye's responsiveness to a 
+diverse array of microbial products, which activates TLRs, and reveal 
+differences in relative cellular response among the various TLR agonists in 
+vivo.
+
+DOI: 10.1189/jlb.0511249
+PMCID: PMC3236551
+PMID: 21934069 [Indexed for MEDLINE]
+
+
+25. PLoS One. 2011;6(7):e22622. doi: 10.1371/journal.pone.0022622. Epub 2011 Jul 27.
+
+Sh3pxd2b mice are a model for craniofacial dysmorphology and otitis media.
+
+Yang B(1), Tian C, Zhang ZG, Han FC, Azem R, Yu H, Zheng Y, Jin G, Arnold JE, 
+Zheng QY.
+
+Author information:
+(1)Department of Oral and Maxillofacial Surgery, Guanghua School of Stomatology, 
+Sun Yat-Sen University, Guangzhou, China.
+
+Craniofacial defects that occur through gene mutation during development 
+increase vulnerability to eustachian tube dysfunction. These defects can lead to 
+an increased incidence of otitis media. We examined the effects of a mutation in 
+the Sh3pxd2b gene (Sh3pxd2b(nee)) on the progression of otitis media and hearing 
+impairment at various developmental stages. We found that all mice that had the 
+Sh3pxd2b(nee) mutation went on to develop craniofacial dysmorphologies and 
+subsequently otitis media, by as early as 11 days of age. We found noteworthy 
+changes in cilia and goblet cells of the middle ear mucosa in Sh3pxd2b(nee) 
+mutant mice using scanning electronic microscopy. By measuring craniofacial 
+dimensions, we determined for the first time in an animal model that this mouse 
+has altered eustachian tube morphology consistent with a more horizontal 
+position of the eustachian tube. All mutants were found to have hearing 
+impairment. Expression of TNF-α and TLR2, which correlates with inflammation in 
+otitis media, was up-regulated in the ears of mutant mice when examined by 
+immunohistochemistry and semi-quantitative RT-PCR. The mouse model with a 
+mutation in the Sh3pxd2b gene (Sh3pxd2b(nee)) mirrors craniofacial dysmorphology 
+and otitis media in humans.
+
+DOI: 10.1371/journal.pone.0022622
+PMCID: PMC3144925
+PMID: 21818352 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+26. Am J Respir Cell Mol Biol. 2011 Nov;45(5):1101-10. doi: 
+10.1165/rcmb.2011-0020OC. Epub 2011 May 26.
+
+Toll-like receptor 4 potentiates Ca2+-dependent secretion of electrolytes from 
+swine tracheal glands.
+
+Murakami K(1), Tamada T, Nara M, Muramatsu S, Kikuchi T, Kanehira M, Maruyama Y, 
+Ebina M, Nukiwa T.
+
+Author information:
+(1)Department of Respiratory Medicine, Tohoku University Graduate School of 
+Medicine, Aoba-Ku, Sendai, Japan.
+
+Airway surface fluids are mainly secreted from submucosal glands, and play 
+important roles in the defense of airways via the up-regulation of mucociliary 
+transport, resulting in an exclusion of many microbes or foreign substances. 
+Although there are many articles concerning the importance of Toll-like 
+receptors (TLRs) in airway immune systems, whether TLRs directly cooperate with 
+tracheal submucosal glands to increase secretion remains unknown. We 
+investigated the effects of ligands of the three TLR subtypes (TLR2, TLR3, and 
+TLR4) on the physiologic secretion of electrolytes by using a patch-clamp 
+technique. Among these TLRs, only the TLR4 ligand, LPS, showed potentiating 
+effects on acetylcholine (ACh)-induced ionic currents in a dose-dependent 
+manner. These potentiating effects were completely abolished by pretreatment 
+with a specific TLR4 antagonist or the anti-TLR4 antibody. LPS per se exerted no 
+appreciable effect on baseline currents. Next, we demonstrated the abundant 
+expression of TLR4 in submucosal gland acinar cells by using immunofluorescent 
+staining and RT-PCR. Furthermore, we revealed that both nitric oxide synthase 
+inhibitors and cyclic guanosine monophosphate (cGMP)-dependent protein kinase 
+(cGK) inhibitors abolished the LPS-induced potentiating effects completely. 
+Analyses of fluorescence intensities, using an intracellular nitric oxide (NO) 
+indicator, demonstrated that LPS could further increase the ACh-induced 
+synthesis of NO. These findings suggest that TLR4 takes part in airway mucosal 
+defense systems as a unique exogenous potentiator of electrolyte-water secretion 
+from submucosal gland acinar cells, and that NO/cGMP/cGK signaling is involved 
+in this rapid TLR4 signaling pathway.
+
+DOI: 10.1165/rcmb.2011-0020OC
+PMID: 21617200 [Indexed for MEDLINE]
+
+
+27. Fish Shellfish Immunol. 2011 Jun;30(6):1230-40. doi: 10.1016/j.fsi.2011.04.012. 
+Epub 2011 Apr 23.
+
+Orange-spotted grouper (Epinephelus coioides) TLR2, MyD88 and IL-1β involved in 
+anti-Cryptocaryon irritans response.
+
+Li YW(1), Luo XC, Dan XM, Huang XZ, Qiao W, Zhong ZP, Li AX.
+
+Author information:
+(1)Key Laboratory for Aquatic Products Safety of Ministry of Education/State Key 
+Laboratory of Biocontrol, The School of Life Sciences, Sun Yat-sen University, 
+135 Xingang West Street, Haizhu District, Guangzhou 510275, Guangdong Province, 
+PR China.
+
+Cryptocaryon irritans is one of the most important ectoparasites of marine fish, 
+and can have a devastating effect on aquacultured fish populations. The role of 
+TLR signaling pathways in anti-parasitic immune responses is poorly understood 
+in fish. In this paper, we first cloned Epinephelus coioides MyD88 full-length 
+cDNA (EcMyD88) and its respective gene. The open reading frame (ORF) of cDNA is 
+873bp encoding 291 amino acid residues. Similar to other species, the EcMyD88 
+gene contains of five conserved exons and four diverse introns. The constitutive 
+expression of EcMyD88 was detected in the gill, trunk kidney, head kidney, 
+spleen, and heart in high concentrations, while the skin, brain, liver, and 
+muscles contained much lower titers, indicating that EcMyD88 may play a crucial 
+role in host innate immunologic surveillance. To identify the potential role of 
+TLR pathways in fish anti-C. irritans immune responses, we chose three important 
+molecules involved in anti-parasite responses, TLR2, MyD88 and IL-1β to indicate 
+TLR pathway's signal-in, signal transduction, and signal-out functions, 
+respectively. The expression profile of these three genes was detected in 
+grouper infected by C. irritans. Results showed these molecules each experience 
+significant changes within the skin, gill (two infected mucosal sites), head 
+kidney and spleen (two systematic immune organs) after C. irritans infection. 
+These findings indicate the TLR signaling pathway may play an important role in 
+host defense against C. irritans.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2011.04.012
+PMID: 21540114 [Indexed for MEDLINE]
+
+
+28. Invest Ophthalmol Vis Sci. 2010 Jan;51(1):459-64. doi: 10.1167/iovs.09-4203. 
+Epub 2009 Aug 6.
+
+Stimulation of axon regeneration in the mature optic nerve by intravitreal 
+application of the toll-like receptor 2 agonist Pam3Cys.
+
+Hauk TG(1), Leibinger M, Müller A, Andreadaki A, Knippschild U, Fischer D.
+
+Author information:
+(1)Department of Experimental Neurology, University of Ulm, Ulm, Germany.
+
+PURPOSE: After injury of the optic nerve, mature retinal ganglion cells (RGCs) 
+are normally unable to regenerate axons and undergo apoptosis. However, 
+inflammatory stimulation in the eye induced by the release of 
+beta/gamma-crystallins from the injured lens or intravitreal zymosan injection 
+transforms RGCs into an active regenerative state, protecting these neurons from 
+cell death and allowing them to regenerate axons back into the optic nerve.
+METHODS: The authors tested whether intravitreal application of the selective, 
+water-soluble, toll-like receptor 2 agonist Pam(3)Cys can delay axotomized RGC 
+cell death and stimulate the regeneration of axons using an in vitro and in vivo 
+paradigm.
+RESULTS: Intravitreal injection of Pam(3)Cys, as lens injury (LI), induced the 
+upregulation of ciliary neurotrophic factor and glial fibrillary acidic protein 
+expression in retinal glia accompanied by the activation of the JAK/STAT3 
+pathway in RGCs. As a consequence, RGCs switched to a regenerative state, 
+indicated by a significant upregulation of GAP43 expression and increased 
+neurite outgrowth of RGCs in culture. Repeated intravitreal Pam(3)Cys 
+application in vivo induced neuroprotective effects and caused stronger axon 
+regeneration in the injured optic nerve than observed after LI.
+CONCLUSIONS: Pam(3)Cys may be a suitable agent for stimulating CNS regeneration.
+
+DOI: 10.1167/iovs.09-4203
+PMID: 19661221 [Indexed for MEDLINE]
+
+
+29. Am J Physiol Lung Cell Mol Physiol. 2009 Jan;296(1):L82-91. doi: 
+10.1152/ajplung.90314.2008. Epub 2008 Oct 31.
+
+Novel human bronchial epithelial cell lines for cystic fibrosis research.
+
+Fulcher ML(1), Gabriel SE, Olsen JC, Tatreau JR, Gentzsch M, Livanos E, Saavedra 
+MT, Salmon P, Randell SH.
+
+Author information:
+(1)Univ. of North Carolina Cystic Fibrosis Center, CB 7248, Rm. 4011 
+Thurston-Bowles Bldg., Chapel Hill, NC 27599, USA.
+
+Immortalization of human bronchial epithelial (hBE) cells often entails loss of 
+differentiation. Bmi-1 is a protooncogene that maintains stem cells, and its 
+expression creates cell lines that recapitulate normal cell structure and 
+function. We introduced Bmi-1 and the catalytic subunit of telomerase (hTERT) 
+into three non-cystic fibrosis (CF) and three DeltaF508 homozygous CF primary 
+bronchial cell preparations. This treatment extended cell life span, although 
+not as profoundly as viral oncogenes, and at passages 14 and 15, the new cell 
+lines had a diploid karyotype. Ussing chamber analysis revealed variable 
+transepithelial resistances, ranging from 200 to 1,200 Omega.cm(2). In the 
+non-CF cell lines, short-circuit currents were stimulated by forskolin and 
+inhibited by CFTR(inh)-172 at levels mostly comparable to early passage primary 
+cells. CF cell lines exhibited no forskolin-stimulated current and minimal 
+CFTR(inh)-172 response. Amiloride-inhibitable and UTP-stimulated currents were 
+present, but at lower and higher amplitudes than in primary cells, respectively. 
+The cells exhibited a pseudostratified morphology, with prominent apical 
+membrane polarization, few apoptotic bodies, numerous mucous secretory cells, 
+and occasional ciliated cells. CF and non-CF cell lines produced similar levels 
+of IL-8 at baseline and equally increased IL-8 secretion in response to 
+IL-1beta, TNF-alpha, and the Toll-like receptor 2 agonist Pam3Cys. Although they 
+have lower growth potential and more fastidious growth requirements than viral 
+oncogene transformed cells, Bmi-1/hTERT airway epithelial cell lines will be 
+useful for several avenues of investigation and will help fill gaps currently 
+hindering CF research and therapeutic development.
+
+DOI: 10.1152/ajplung.90314.2008
+PMCID: PMC2636952
+PMID: 18978040 [Indexed for MEDLINE]
+
+
+30. Infect Immun. 2008 May;76(5):2037-43. doi: 10.1128/IAI.01716-07. Epub 2008 Mar 
+17.
+
+Lipooligosaccharides containing phosphorylcholine delay pulmonary clearance of 
+nontypeable Haemophilus influenzae.
+
+Pang B(1), Winn D, Johnson R, Hong W, West-Barnette S, Kock N, Swords WE.
+
+Author information:
+(1)Department of Microbiology, Wake Forest University School of Medicine, 
+Winston-Salem, North Carolina 27157, USA.
+
+Nontypeable Haemophilus influenzae (NTHi) causes pulmonary infections in 
+patients with chronic obstructive pulmonary disease and other mucociliary 
+clearance defects. Like many bacteria inhabiting mucosal surfaces, NTHi produces 
+lipooligosaccharide (LOS) endotoxins that lack the O side chain. Persistent NTHi 
+populations express a discrete subset of LOS glycoforms, including those 
+containing phosphorylcholine (PCho). In this study, we compared two NTHi strains 
+with isogenic mutants lacking PCho for clearance from mice following pulmonary 
+infection. Consistent with data from other model systems, populations of the 
+strains NTHi 2019 and NTHi 86-028NP recovered from mouse lung contained an 
+increased proportion of PCho+ variants compared to that in the inocula. PCho- 
+mutants were more rapidly cleared. Serial passage of NTHi increased both PCho 
+content and bacterial resistance to clearance, and no such increases were 
+observed for PCho- mutants. Increased PCho content was also observed in NTHi 
+populations within non-endotoxin-responsive C3H/HeJ and Toll-like receptor 4 
+null (TLR4-/-) mice, albeit at later times postinfection. Changes in bacterial 
+subpopulations and clearance were unaffected in TLR2-/- mice compared to the 
+subpopulations in and clearance from mice of the parental strain. The clearance 
+of PCho- mutants occurred at earlier time points in both strain backgrounds and 
+in all types of mice. Comparison of bacterial populations in lung tissue 
+cryosections by immunofluorescent staining showed sparse bacteria within the air 
+spaces of C57BL/6 mice and large bacterial aggregates within the lungs of 
+MyD88-/- mice. These results indicate that PCho promotes bacterial resistance to 
+pulmonary clearance early in infection in a manner that is at least partially 
+independent of the TLR4 pathway.
+
+DOI: 10.1128/IAI.01716-07
+PMCID: PMC2346676
+PMID: 18347044 [Indexed for MEDLINE]
+
+
+31. J Neuropathol Exp Neurol. 2007 Dec;66(12):1124-35. doi: 
+10.1097/nen.0b013e31815c2530.
+
+Oligodendrocyte generation is differentially influenced by toll-like receptor 
+(TLR) 2 and TLR4-mediated intraspinal macrophage activation.
+
+Schonberg DL(1), Popovich PG, McTigue DM.
+
+Author information:
+(1)Neuroscience Graduate Studies Program, The Ohio State University, Columbus, 
+Ohio 43210, USA.
+
+Oligodendrocytes are vulnerable to CNS injury and disease. Because 
+oligodendrocytes myelinate CNS axons, their death leads to demyelination and 
+impaired axon conductance, which in turn contribute to neurologic deficits. 
+Replacing oligodendrocytes requires proliferation and differentiation of 
+endogenous NG2+ progenitor cells, a process that can be potently influenced by 
+activated macrophages, which are present in most CNS pathologies. To examine the 
+relationship between oligodendrocyte generation and macrophage activation in 
+vivo, we compared the extent of oligodendrocyte loss and NG2 cell proliferation 
+and differentiation after intraspinal microinjection of lipopolysaccharide (a 
+Toll-like receptor-4 agonist) or zymosan (Toll-like receptor-2 agonist) in rats. 
+Controls included injecting vehicle (sterile PBS; negative control) or 
+lysolecithin (positive control for NG2 cell proliferation and oligodendrocyte 
+differentiation). By 14 days postinjection, lipopolysaccharide injection sites 
+displayed a sigficant rise in NG2 cell proliferation and oligodendrocyte 
+differentiation, which exceeded that in vehicle and lysolecithin injections. 
+Additionally, upregulated ciliary neurotrophic factor expression was present in 
+lipopolysaccharide lesions. In contrast, zymosan-activated macrophages produced 
+complete oligodendrocyte loss without stimulating NG2 cell proliferation, 
+oligodendrocyte replacement, or ciliary neurotrophic factor expression. Zymosan 
+also evoked a delayed lesion expansion and primary demyelination of intact 
+myelinated axons around the lesions. These results clearly delineate the 
+dichotomous potential of macrophage activation for influencing NG2 cell 
+proliferation and oligodendrocyte differentiation. Because endogenous Toll-like 
+receptor ligands are often present in injured CNS tissue, these results shed 
+light on possible mechanisms that restrict oligodendrocyte replacement to 
+specific domains of CNS trauma or disease sites.
+
+DOI: 10.1097/nen.0b013e31815c2530
+PMID: 18090921 [Indexed for MEDLINE]
+
+
+32. Am J Rhinol. 2007 Jan-Feb;21(1):117-21. doi: 10.2500/ajr.2007.21.2998.
+
+Immunolocalization of dendritic cells and pattern recognition receptors in 
+chronic rhinosinusitis.
+
+Rampey AM(1), Lathers DM, Woodworth BA, Schlosser RJ.
+
+Author information:
+(1)Department of Otolaryngology-Head and Neck Surgery, Medical University of 
+South Carolina and the Ralph H. Johnson VA Medical Center, Charleston, South 
+Carolina, USA.
+
+BACKGROUND: Dendritic cell (DC) activation and antigen presentation to T cells 
+are critical to innate and adaptive immunity. Toll-like receptors (TLRs) are 
+known to bind pathogen-associated molecular patterns in addition to sinonasally 
+secreted surfactant proteins (SP) such as SP-A and SP-D. TLR binding is known to 
+activate DCs. Based on these observations, we sought to establish the presence, 
+in sinonasal mucosa, of DC and the pattern recognition receptors (PRRs), CD14, 
+TLR2, and TLR4.
+METHODS: Sinonasal biopsy specimens were taken from patients with eosinophilic 
+nonatopic nasal polyposis (n = 4), allergic fungal sinusitis (n = 1), and 
+nondiseased patients undergoing cerebrospinal fluid leak repair or pituitary 
+tumor resection (n = 2). Tissue samples were stained immunohistochemically for 
+PRR (CD14, TLR2, and TLR4), mature DC marker (CD208), iDC marker (CD209), or 
+isotype controls.
+RESULTS: Immature and mature DC were immunolocalized to the subepithelial stroma 
+and ciliated epithelial surface, respectively. Diffuse staining of CD14 was 
+observed throughout the stroma with additional staining in the ciliated 
+epithelium. The TLR markers showed no staining in the ciliated epithelium. TLR2 
+primarily localized in stroma immediately deep to the ciliated epithelial 
+surface. TLR4 immunolocalized to submucosal seromucinous gland ductal 
+epithelium. Data from nondiseased patients were mixed, with one patient showing 
+minimal staining of any of the tested cellular markers.
+CONCLUSION: This study indicates progressive DC activation and emigration of 
+mature antigen-presenting cells from the epithelial surfaces of sinonasal 
+mucosa. The presence of TLR known to bind SP-A and SP-D suggests a link between 
+SP expression and immune response in sinonasal mucosa.
+
+DOI: 10.2500/ajr.2007.21.2998
+PMID: 17283573 [Indexed for MEDLINE]

@@ -1,0 +1,370 @@
+1. Vet Res Commun. 2024 Apr;48(2):1257-1262. doi: 10.1007/s11259-023-10286-9. Epub 
+2023 Dec 19.
+
+Pulmonary acinar adenocarcinoma in a captive lioness (Panthera leo).
+
+Ribeiro PR(1)(2), Schwertz CI(3)(4), Echenique JVZ(3)(4), Piva MM(3)(4), Henker 
+LC(3)(4), Panziera W(3)(4), Hohendorff RV(5), Gomes CWC(5), Carmo Both MD(5), 
+Sonne L(3)(4).
+
+Author information:
+(1)Programa de Pós-graduação em Ciências Veterinárias (PPGCV), Faculdade de 
+Veterinária, (FAVET), Universidade Federal do Rio Grande do Sul (UFRGS), Avenida 
+Bento Goncalves, Porto Alegre, RS, 9090, Brazil. paularibeiro2195@gmail.com.
+(2)Setor de Patologia Veterinária, Departamento de Patologia Clínica 
+Veterinária, FAVET, UFRGS, Porto Alegre, RS, Brazil. paularibeiro2195@gmail.com.
+(3)Programa de Pós-graduação em Ciências Veterinárias (PPGCV), Faculdade de 
+Veterinária, (FAVET), Universidade Federal do Rio Grande do Sul (UFRGS), Avenida 
+Bento Goncalves, Porto Alegre, RS, 9090, Brazil.
+(4)Setor de Patologia Veterinária, Departamento de Patologia Clínica 
+Veterinária, FAVET, UFRGS, Porto Alegre, RS, Brazil.
+(5)Secretaria Estadual do Meio Ambiente e Infraestrutura, Porto Alegre, RS, 
+Brazil.
+
+Neoplasms in wild felids are more frequently observed in captive animals, of 
+which clinicopathological features of pulmonary tumors are not commonly 
+described. This study aimed to describe the clinical and pathological aspects of 
+a case of diffuse pulmonary acinar adenocarcinoma in a 23-year-old, captive 
+lioness with clinical history of dyspnea, progressive weight loss and 
+inappetence. At necropsy, the lungs were mildly pale, moderately firm, and the 
+pleural surface was diffusely irregular with multifocal to coalescent, grey to 
+white areas. No masses or superficial nodules were detected, but, on the cut 
+surface, there were numerous, spherical, firm, white to yellow areas up to 
+0.5 cm in diameter affecting all pulmonary lobes. Histologically, in the lungs, 
+there were extensive, non-delineated areas of neoplastic proliferation of 
+columnar, ciliated epithelial cells arranged in irregular tubuloacinar 
+structures. Immunohistochemical analysis revealed immunolabeling of neoplastic 
+cells for pan-cytokeratin and thyroid transcription factor-1. Napsin-A exhibited 
+only scarce and scattered immunolabeling in the neoplastic cells. The gross, 
+histologic and immunohistochemical findings confirmed the final diagnosis of 
+primary diffuse pulmonary adenocarcinoma.
+
+© 2023. The Author(s), under exclusive licence to Springer Nature B.V.
+
+DOI: 10.1007/s11259-023-10286-9
+PMID: 38113016 [Indexed for MEDLINE]
+
+
+2. Histol Histopathol. 2024 Jun;39(6):783-794. doi: 10.14670/HH-18-682. Epub 2023 
+Nov 29.
+
+Clinicopathological analysis of bronchiolar adenoma combined with lung 
+adenocarcinoma: Report of eight cases and literature review.
+
+Zhu M(#)(1), Yang Q(#)(1), Zhan S(1), Liu W(1), Liu W(1), Guo L(2), Huang S(3).
+
+Author information:
+(1)Department of Pathology, The First Affiliated Hospital of Soochow University, 
+Suzhou, Jiangsu, China.
+(2)Department of Pathology, The First Affiliated Hospital of Soochow University, 
+Suzhou, Jiangsu, China. szglc@hotmail.com.
+(3)Department of Pathology, The First Affiliated Hospital of Soochow University, 
+Suzhou, Jiangsu, China. goatsz@163.com.
+(#)Contributed equally
+
+AIMS: To investigate the clinicopathological characteristics and potential 
+diagnostic pitfalls of bronchiolar adenoma (BA) combined with lung 
+adenocarcinoma (LUAD) in the same lesion.
+METHODS: We analyzed eight cases of BA combined with LUAD from our hospital 
+pathology department between July 2020 and January 2022, and summarized their 
+clinical data, radiological features, histopathological characteristics and 
+immunohistochemical phenotypes.
+RESULTS: Upon macroscopic examination, the lesions were characterized by 
+gray-white or gray-brown solid nodules with well-defined borders, measuring 
+0.6-1.8cm in maximum diameter. The incidence of proximal-type BA (6/8) was 
+higher than that of distal-type BA (2/8), and they combined with different 
+stages of LUAD, including adenocarcinoma in situ, minimally invasive 
+adenocarcinoma, invasive adenocarcinoma, and invasive mucinous adenocarcinoma 
+(IMA). Immunohistochemistry showed that cytokeratin 5/6 and P40 were positive in 
+the continuous basal cell layer in BA, but only scattered positive basal cells 
+were seen at the junction of BA and LUAD. TTF-1 was positive in proximal-type BA 
+ciliated cells in five cases and in LUAD cells in seven cases, and weakly 
+positive in some basal cells. One case of IMA and mucinous cells of BA were 
+TTF-1 negative. There was partially positive Napsin-A expression in BA luminal 
+cells and LUAD cells of all cases except IMA.
+CONCLUSION: There is no obvious boundary when BA and LUAD are in the same 
+lesion. The luminal epithelial cells in the area where the two components 
+migrate toward each other are atypical and lack a continuous underlying basal 
+cell layer. Microscopic diagnosis should be aided by immunohistochemistry.
+
+©The Author(s) 2024. Open Access. This article is licensed under a Creative 
+Commons CC-BY International License.
+
+DOI: 10.14670/HH-18-682
+PMID: 38059279 [Indexed for MEDLINE]
+
+
+3. Pathol Res Pract. 2022 Oct;238:154079. doi: 10.1016/j.prp.2022.154079. Epub 2022 
+Aug 15.
+
+Bronchiolar adenoma-like tumour with monolayered component: Represent malignant 
+transformation of bronchiolar adenoma? A series of five cases.
+
+Lin DL(1), Ding L(2), Shao SH(1), Xin FJ(1), Zhang LX(1), Li GQ(1), Zhao P(3).
+
+Author information:
+(1)Department of Pathology, The Affiliated Hospital of Qingdao University, 
+Qingdao 266003, China.
+(2)Medical Affairs Department, The Affiliated Hospital of Qingdao University, 
+Qingdao 266003, China.
+(3)Department of Pathology, The Affiliated Hospital of Qingdao University, 
+Qingdao 266003, China. Electronic address: qyzhaopeng@sina.com.
+
+Pulmonary bronchiolar adenoma (BA) is a rare lung tumour, it is unclear whether 
+BA can develop into a malignancy. We presented five cases of BA-like tumour with 
+monolayered components. This type of tumour may represent the malignant 
+transformation of BA. Histologically, these tumours showed acinar and lepidic 
+growth patterns. The acinar components were well-differentiated. The glandular 
+tumour cells in these tumours contained cuboidal to columnar cells resembling 
+type II pneumocytes or club (Clara) cells. A small number of mucinous cells were 
+found in two cases. A few scattered ciliated cells were detected in three cases. 
+The ciliated cells only existed in the bilayered components. The basal cells 
+were highlighted by CK5/6 and p40 in a partial region of the tumour rather than 
+in the entire tumour. The glandular tumour cells, including those in the 
+bilayered component, were diffusely positive for TTF-1 and napsin-A. EGFR Exon19 
+deletions were found in four cases, and BRAF V600E mutation was found in one 
+case. These BA-like tumours have biphasic morphological and molecular 
+characteristics of BA and lung adenocarcinoma, suggesting distal-type BA may 
+develop into a malignancy. More cases should be studied and especially cases 
+with metastasis should be searched to further prove the malignant 
+transformation.
+
+Copyright © 2022 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.prp.2022.154079
+PMID: 35988356
+
+Conflict of interest statement: Conflict of interest Authors declare that there 
+is no conflict of interest in the study.
+
+
+4. Pathol Int. 2020 Mar;70(3):179-185. doi: 10.1111/pin.12904. Epub 2020 Feb 6.
+
+Distal-type bronchiolar adenoma of the lung expressing p16(INK4a) - morphologic, 
+immunohistochemical, ultrastructural and genomic analysis - report of a case and 
+review of the literature.
+
+Tachibana M(1), Saito M(2), Kobayashi J(2), Isono T(3), Yatabe Y(4), Tsutsumi 
+Y(1)(5).
+
+Author information:
+(1)Department of Diagnostic Pathology, Shimada Municipal Hospital, Shizuoka, 
+Japan.
+(2)Department of Thoracic Surgery, Shimada Municipal Hospital, Shizuoka, Japan.
+(3)Department of Surgery, Shimada Municipal Hospital, Shizuoka, Japan.
+(4)Department of Diagnostic Pathology, National Cancer Center Hospital, Tokyo, 
+Japan.
+(5)Diagnostic Pathology Clinic, Pathos Tsutsumi, Aichi, Japan.
+
+Bronchiolar adenoma (BA) of the lung is a rare benign neoplasm. Because of a 
+chest abnormal shadow indicated by health checkup, a 77-year-old female 
+nonsmoker underwent computed tomography, revealing an 8 mm ground glass nodule 
+in the peripheral field of the right lower lobe. Wedge resection of the nodule 
+was performed, with a frozen diagnosis of primary lung adenocarcinoma. The 
+localized, 8 × 4 × 3 mm-sized, jelly-like mass microscopically revealed a 
+lepidic-growing lesion composed of ciliated columnar cells, mucous cells and 
+basal cells surrounded by mucin pool. Neither nuclear atypia nor mitotic 
+activity was noted. Immunohistochemically, the ciliated, mucous and basal cells 
+were positive for TTF-1 and p16INK4a . Mucous cells were positive for napsin A 
+and focally expressed MUC5AC. MUC6 was negative. Basal cells were positive for 
+CK5/6, p40, p63 and podoplanin. Human papillomavirus genome was undetectable by 
+in situ hybridization. Ultrastructurally, the bronchiolar epithelial tubules 
+consisted of two layers, the inner nonciliated microvillous cells and the outer 
+basal-like cells, and some of the inner cells were filled with mucin granules in 
+cytoplasm. Molecular analysis of the tumor failed to show driver mutations. The 
+final diagnosis was distal-type BA. The postoperative course was uneventful for 
+6 months.
+
+© 2020 The Authors. Pathology International published by Japanese Society of 
+Pathology and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/pin.12904
+PMCID: PMC7079048
+PMID: 32030846 [Indexed for MEDLINE]
+
+
+5. SAGE Open Med Case Rep. 2019 Feb 15;7:2050313X19830483. doi: 
+10.1177/2050313X19830483. eCollection 2019.
+
+Genetic and immunohistochemical analyses of ciliated muconodular papillary 
+tumors of the lung: A report of five cases.
+
+Kashima J(1), Hishima T(1), Tonooka A(1), Horiguchi SI(1), Motoi T(1), Okuma 
+Y(2), Hosimi Y(2), Horio H(3).
+
+Author information:
+(1)Department of Pathology, Tokyo Metropolitan Cancer and Infectious Diseases 
+Center, Komagome Hospital, Tokyo, Japan.
+(2)Department of Thoracic Oncology and Respiratory Medicine, Tokyo Metropolitan 
+Cancer and Infectious Diseases Center, Komagome Hospital, Tokyo, Japan.
+(3)Department of Thoracic Surgery, Tokyo Metropolitan Cancer and Infectious 
+Diseases Center, Komagome Hospital, Tokyo, Japan.
+
+Ciliated muconodular papillary tumors are benign lesions located in the 
+peripheral lung field. Recent studies revealed BRAF and epidermal growth factor 
+receptor gene mutations and anaplastic lymphoma kinase gene rearrangement. Five 
+ciliated muconodular papillary tumors were screened for the BRAF V600E and EGFR 
+mutations via polymerase chain reaction. Immunohistochemical analysis was 
+performed for the detection of the BRAF V600E and anaplastic lymphoma kinase 
+proteins, as well as other markers including phosphorylated extracellular 
+signal-regulated protein kinase. Three tumors (60%) harbored the BRAF V600E 
+mutation. Immunohistochemical analysis confirmed this mutation in all of the 
+tumor cell types. EGFR mutation and immunoactivity of the anaplastic lymphoma 
+kinase protein were not detected. Phosphorylated extracellular signal-regulated 
+protein kinase was negative both in the cytoplasm and nucleus of the BRAF 
+V600E-positive tumors. Mucin 1, mucin 4, thyroid transcription factor 1, and 
+cytokeratin 7 were positive, and mucin 5AC was partially positive, whereas 
+napsin A and cytokeratin 20 were negative. Ciliated muconodular papillary tumor 
+may originate from the terminal bronchioles, and the status of ERK activation 
+reflects its benign behavior.
+
+DOI: 10.1177/2050313X19830483
+PMCID: PMC6378433
+PMID: 30800314
+
+Conflict of interest statement: Declaration of conflicting interests: The 
+authors declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+6. Zhonghua Bing Li Xue Za Zhi. 2018 Aug 8;47(8):603-608. doi: 
+10.3760/cma.j.issn.0529-5807.2018.08.007.
+
+[Lung non-terminal respiratory unit type adenocarcinoma: a clinicopathologic 
+study].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Liu B(1), Wu N(2), Shen Q, Shi SS, Zhang SS, Ru Y, Rao Q, Zhou XJ.
+
+Author information:
+(1)Department of Pathology, Suzhou Hospital, Nanjing Medical University, Suzhou 
+215001, China.
+(2)Department of Pathology, Nanjing Jinling Hospital, Nanjing 210002, China.
+
+Objective: To evaluate the clinicopathologic characteristics of lung 
+non-terminal respiratory unit (non-TRU) type adenocarcinoma. Methods: 
+Seventy-two cases of lung non-TRU type adenocarcinoma that underwent complete 
+resection and diagnosed at Departments of Pathology, Affiliated Suzhou Hospital 
+of Nanjing Medical University and Nanjing General Hospital of the PLA from 
+January 2005 to December 2016 were retrospectively studied. The 
+histomorphological changes and precursor lesions were observed under microscope. 
+The expression of lineage-specific markers and tumor stem cell markers was 
+detected by immunohistochemistry (IHC). The major driver mutations of lung 
+adenocarcinoma were tested by ARMS and directive gene sequencing. Results: 
+Non-TRU type adenocarcinomas were more commonly found in male (65.3%, 47/72), 
+former or current smokers (68.1%, 49/72), the elder (mean 61 years old), central 
+adenocarcinoma (75.0%, 54/72), tumors with necrosis (61.1%, 44/72) and higher 
+grade (73.6%, 53/72). Histologically, non-TRU type adenocarcinoma displayed 
+complex histomorphology and was often composed of large irregular gland-like and 
+acinar pattern accumulating extracellular mucin, necrotic tumor cell debris and 
+neutrophils, or invasive adenocarcinoma with mucin production. The tumor cells 
+were composed of bronchial surface epithelial cells, mucinous column cells, 
+polygonal cells and goblet cells. Eighteen (25.0%), 23 (31.9%) and 28 (38.9%) 
+cases exhibited ciliated columnar cell metaplasia (CCCM), mucous columnar cell 
+change (MCCC) and bronchiolar columnar cell dysplasia (BCCD) (precursor lesion 
+of lung adenocarcinoma). IHC showed the expression of CK7 (100.0%, 72/72), TTF1 
+(12.5%, 9/72), Napsin A (5.6%, 4/72), MUC5AC (81.9%, 59/72), MUC5B (87.5%, 
+63/72), p53 (66.7%, 48/72), CK5/6 (12.5%, 9/72), p63 (18.1%, 13/72), CK20 
+(19.4%, 14/72) and CDX2 (16.7%, 12/72) in the tumor cells. The expression of 
+tumor stem cell markers was detected in 43.1% cases (31/72) for CD44, 31.9% 
+(23/72) for CD133, 58.3% (42/72) for β-catenin, 36.1% (26/72) for ALDH1, 12.5% 
+(9/72) for GATA6, 20.8% (15/72) for SOX2 and 29.2% (21/72) for OCT4. The driver 
+mutations were 26.4% (19/72) for KRAS, 2.8% (2/72) for EGFR and 1.4% (1/72) for 
+EML4-ALK, and none for BRAF and ROS1. Conclusion: Non-TRU type adenocarcinoma is 
+an uncommon subtype of lung adenocarcinoma with distinct clinicopathologic 
+characteristics, histologic appearances, immunophenotype and molecular genetic 
+alterations.
+
+Publisher: 目的： 探讨肺非终末呼吸单元(non－TRU)型腺癌的临床病理特征。 方法： 
+收集南京医科大学附属苏州医院/苏州肿瘤诊疗中心病理科和解放军南京总医院病理科2005年1月至2016年12月72例手术切除的肺non－TRU型腺癌的病例资料，光镜下观察组织学和细胞学特征及其前驱病变，免疫组织化学检测谱系特异性标志物和肿瘤干细胞标志物的表达。应用扩增阻滞突变系统(ARMS)或直接基因测序法检测表皮生长因子受体(EGFR)、KRAS、BRAF、EML4－ALK和ROS1基因。 
+结果： 
+non－TRU型腺癌常见于男性(65.3%，47/72)、有吸烟史(68.1%，49/72)、年龄较大(平均61岁)、中央型腺癌(75.0%，54/72)、有肿瘤性坏死(61.1%，44/72)和高级别(73.6%，53/72)腺癌。光镜下，non－TRU型腺癌具有复杂多变的组织学结构，通常表现为大而不规则的、裂隙状腺样或囊泡状结构，腔内充满黏液、坏死的肿瘤细胞碎屑及中性粒细胞，或表现为伴有显著黏液产生的浸润性腺癌。肿瘤细胞具有支气管表面上皮细胞、黏液柱状细胞、多角形细胞或杯状细胞特征。25.0%(18/72)、31.9%(23/72)和38.9%(28/72)的病例伴有纤毛柱状细胞化生(CCCM)、黏液柱状细胞变(MCCC)和细支气管上皮异型增生(BCCD)。免疫组织化学表达细胞角蛋白(CK)7(100%，72/72)、甲状腺转录因子1(TTF1；12.5%，9/72)、Napsin 
+A(5.6%，4/72)、MUC5AC(81.9%，59/72)、MUC5B(87.5%，63/72)、p53(66.7%，48/72)、CK5/6(12.5%，9/72)、p63(18.1%，13/72)、CK20(19.4%，14/72)和CDX2(16.7%，12/72)，肿瘤干细胞标志物表达CD44(43.1%，31/72)、CD133(31.9%，23/72)、β－catenin(58.3%，42/72)、ALDH1(36.1%，26/72)、GATA6(12.5%、9/72)、SOX2(20.8%，15/72)和OCT4(29.2%，21/72)。驱动基因中19例(26.4%，19/72)KRAS突变，2例(2.8%，2/72)EGFR基因突变，1例(1.4%，1/72)EML4－ALK融合基因，未检测到BRAF和ROS1改变。 
+结论： non－TRU型腺癌具有显著的临床病理特征、组织形态学表现、免疫学表型和驱动基因改变，是肺腺癌独立的少见类型。.
+
+DOI: 10.3760/cma.j.issn.0529-5807.2018.08.007
+PMID: 30107665 [Indexed for MEDLINE]
+
+
+7. Cardiovasc Pathol. 2017 May-Jun;28:64-67. doi: 10.1016/j.carpath.2017.03.005. 
+Epub 2017 Mar 12.
+
+Intramyocardial bronchogenic cyst: histological appearance and a review of the 
+literature.
+
+Nishida N(1), Hata Y(2), Nomoto K(3).
+
+Author information:
+(1)Department of Legal Medicine, Graduate School of Medicine and Pharmaceutical 
+Sciences, University of Toyama, Toyama, Japan. Electronic address: 
+nishida@med.u-toyama.ac.jp.
+(2)Department of Legal Medicine, Graduate School of Medicine and Pharmaceutical 
+Sciences, University of Toyama, Toyama, Japan.
+(3)Department of Pathology, Kouseiren Takaoka Hospital, Takaoka, Toyama, Japan.
+
+We report histological appearance of a bronchogenic cyst that was incidentally 
+found in a 78-year-old man who died from drowning related to a traumatic 
+accident. The cyst was found in the posterior edge of the interventricular 
+septum and was monolocular with a 5-mm diameter. The cystic wall was not 
+associated with cartilage or the smooth muscle layer, and was lined by ciliated 
+respiratory epithelium. Immunohistochemistry showed that many of these 
+epithelial cells were positive for cytokeratin 7 and thyroid transcription 
+factor-1. A few of the cells were positive for CA19-9, chromogranin A, 
+synaptophysin, and S-100. No cells were positive for cytokeratin 20, p63, bcl-2 
+and napsin A. This feature was compatible with bronchogenic cyst, and is not 
+common compared with previously reported immunohistochemical features of cystic 
+tumors of the atrioventricular node. A low prevalence of p53, single strand-DNA, 
+and Ki-67 indicated modest cell turnover in the epithelial cells of present 
+case. Our survey of the English literature showed 23 cases of intramyocardial 
+bronchogenic cyst. Although asymptomatic cases were dominant in the literature, 
+some intramyocardial bronchogenic cysts showed life-threatening arrhythmia, 
+which could cause sudden unexpected death.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.carpath.2017.03.005
+PMID: 28334597 [Indexed for MEDLINE]
+
+
+8. Zhonghua Bing Li Xue Za Zhi. 2016 Sep 8;45(9):617-21. doi: 
+10.3760/cma.j.issn.0529-5807.2016.09.006.
+
+[Fetal adenocarcinoma of the lung: a clinicopathologic analysis of six cases].
+
+[Article in Chinese]
+
+Huang HJ(1), Chen XY.
+
+Author information:
+(1)Department of Pathology, Fujian Provincial Hospital, Provincial Clinical 
+Medical College of Fujian Medical University, Fuzhou 350001, China.
+
+OBJECTIVE: To investigate the clinicopathologic features, diagnosis and 
+differential diagnosis, and genetic alterations of fetal adenocarcinoma of lung 
+(FACL).
+METHODS: Six cases of FACL were collected from Fujian Provincial Hospital, the 
+clinicopathologic features and immunophenotype were retrospectively evaluated, 
+PAS/PASD staining and genetic mutation analysis of epidermal growth factor 
+receptor (EGFR) were performed.
+RESULTS: There were three male and three female patients, aged 40 to 75 years 
+(median 59 years). Tumor size ranged from 2.5-6.0 cm (mean 3.8 cm). 
+Histologically, the tumors showed classic glandular structure similar to fetal 
+lung tubules. The neoplastic glands were lined by non-ciliated pseudostratified 
+columnar epithelium with clear or granular cytoplasm. Some cells showed 
+subnuclear or supranuclear vacuoles. Squamoid morules were also noted. 
+Immunohistochemically, the tumor cells were positive for TTF1, Napsin A, CKL, 
+and focally positive for CKH (2/6), synaptophysin (1/6), chromogranin A (1/6), 
+CD56 (2/6), and EGFR (4/6). PAS/PASD staining was positive in the tumor cells. 
+Five cases showed EGFR mutation, one case was of wild type. All six patients 
+underwent surgical resection, and four had chemotherapy. All patients had no 
+evidence of recurrence or metastasis during 1-40 months follow-up period.
+CONCLUSIONS: FACL is a rare tumor with low malignant potential and has distinct 
+morphologic feature. Clinically and pathologically, it needs to be 
+differentiated from alveolar adenocarcinoma, adenosquamous carcinoma, 
+pneumoblastoma, and metastatic endometrioid adenocarcinoma. The primary 
+treatment for FACL is complete surgical excision and chemotherapy, with good 
+outcome.
+
+DOI: 10.3760/cma.j.issn.0529-5807.2016.09.006
+PMID: 27646890 [Indexed for MEDLINE]

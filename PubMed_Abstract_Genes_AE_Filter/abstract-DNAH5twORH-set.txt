@@ -1,0 +1,1864 @@
+1. bioRxiv [Preprint]. 2024 Aug 21:2024.05.22.594822. doi: 
+10.1101/2024.05.22.594822.
+
+Development and Initial Characterization of Pigs with DNAI1 Mutations and 
+Primary Ciliary Dyskinesia.
+
+Abou Alaiwa MA(1)(2)(3), Hilkin BM(1), Price MP(1), Gansemer ND(1), Rector 
+MR(1), Stroik MR(1), Powers LS(1), Whitworth KM(4), Samuel MS(4), Jain A(1), 
+Ostedgaard LS(1), Ernst SE(1), Philibert W(1)(3), Boyken LD(5), Moninger TO(1), 
+Karp PH(1), Hornick DB(1), Sinn PL(6)(2), Fischer AJ(6)(2), Pezzulo AA(1)(2), 
+McCray PB Jr(6)(2), Meyerholz DK(5), Zabner J(1)(2), Prather RS(4), Welsh 
+MJ(1)(7)(2)(8), Stoltz DA(1)(7)(2)(3).
+
+Author information:
+(1)Department of Internal Medicine, Roy J. and Lucille A. Carver College of 
+Medicine University of Iowa, Iowa City, Iowa 52242.
+(2)Department of Pappajohn Biomedical Institute, Roy J. and Lucille A. Carver 
+College of Medicine University of Iowa, Iowa City, Iowa 52242.
+(3)Department of Biomedical Engineering, University of Iowa, Iowa City, Iowa 
+52242.
+(4)Division of Animal Sciences, University of Missouri, Columbia, Missouri 
+65211.
+(5)Department of Pathology, Roy J. and Lucille A. Carver College of Medicine 
+University of Iowa, Iowa City, Iowa 52242.
+(6)Department of Pediatrics, Roy J. and Lucille A. Carver College of Medicine 
+University of Iowa, Iowa City, Iowa 52242.
+(7)Department of Molecular Physiology and Biophysics, Roy J. and Lucille A. 
+Carver College of Medicine University of Iowa, Iowa City, Iowa 52242.
+(8)Howard Hughes Medical Institute, University of Iowa, Iowa City, Iowa 52242.
+
+Mutations in more than 50 different genes cause primary ciliary dyskinesia (PCD) 
+by disrupting the activity of motile cilia that facilitate mucociliary transport 
+(MCT). Knowledge of PCD has come from studies identifying disease-causing 
+mutations, characterizing structural cilia abnormalities, finding 
+genotype-phenotype relationships, and studying the cell biology of cilia. 
+Despite these important findings, we still lack effective treatments and people 
+with PCD have significant pulmonary impairment. As with many other diseases, a 
+better understanding of pathogenic mechanisms may lead to effective treatments. 
+To pursue disease mechanisms, we used CRISPR-Cas9 to develop a PCD pig with a 
+disrupted DNAI1 gene. PCD pig airway cilia lacked the outer dynein arm and had 
+impaired beating. MCT was impaired under both baseline conditions and after 
+cholinergic stimulation in PCD pigs. Neonatal PCD pigs developed neonatal 
+respiratory distress with evidence of atelectasis, air trapping, and airway 
+mucus obstruction. Despite airway mucus accumulation, lung bacterial counts were 
+similar between neonatal wild-type and PCD pigs. Sinonasal disease was present 
+in all neonatal PCD pigs. Older PCD pigs developed worsening airway mucus 
+obstruction, inflammation, and bacterial infection. This pig model closely 
+mimics the disease phenotype seen in people with PCD and can be used to better 
+understand the pathophysiology of PCD airway disease.
+
+DOI: 10.1101/2024.05.22.594822
+PMCID: PMC11370470
+PMID: 39229081
+
+Conflict of interest statement: The authors have declared that no conflict of 
+interest exists.
+
+
+2. PLoS One. 2024 Mar 8;19(3):e0300000. doi: 10.1371/journal.pone.0300000. 
+eCollection 2024.
+
+The primary ciliary dyskinesia-related genetic risk score is associated with 
+susceptibility to adult-onset asthma.
+
+Shigemasa R(1), Masuko H(1), Oshima H(1), Hyodo K(1), Kitazawa H(1), Kanazawa 
+J(1), Yatagai Y(1), Iijima H(2), Naito T(2), Saito T(3), Konno S(4), Hirota 
+T(5), Tamari M(5), Sakamoto T(1), Hizawa N(1).
+
+Author information:
+(1)Department of Pulmonary Medicine, Faculty of Medicine, University of Tsukuba, 
+Tsukuba, Japan.
+(2)Tsukuba Medical Center, Tsukuba, Japan.
+(3)National Hospital Organization Ibaraki Higashi National Hospital, Tokai, 
+Japan.
+(4)Department of Respiratory Medicine, Faculty of Medicine, Hokkaido University, 
+Sapporo, Japan.
+(5)Research Center for Medical Science, The Jikei University School of Medicine, 
+Tokyo, Japan.
+
+BACKGROUND: Disturbance of mucociliary clearance is an important factor in the 
+pathogenesis of asthma. We hypothesized that common variants in genes 
+responsible for ciliary function may contribute to the development of asthma 
+with certain phenotypes.
+METHODS: Three independent adult Japanese populations (including a total of 
+1,158 patients with asthma and 2,203 non-asthmatic healthy participants) were 
+studied. First, based on the ClinVar database 
+(https://www.ncbi.nlm.nih.gov/clinvar/), we selected 12 common single-nucleotide 
+polymorphisms (SNPs) with molecular consequences (missense, nonsense, and 
+3'-untranslated region mutation) in 5 primary ciliary dyskinesia (PCD)-related 
+genes and calculated a PCD-genetic risk score (GRS) as a cumulative effect of 
+these PCD-related genes. Second, we performed a two-step cluster analysis using 
+3 variables, including PCD-GRS, forced expiratory volume in 1 second (%predicted 
+FEV1), and age of asthma onset.
+RESULTS: Compared to adult asthma clusters with an average PCD-GRS, clusters 
+with high and low PCD-GRS had similar overall characteristics: adult-onset, 
+female predominance, preserved lung function, and fewer features of type 2 
+immunity as determined by IgE reactivity and blood eosinophil counts. The allele 
+frequency of rs1530496, a SNP representing an expression quantitative trait 
+locus (eQTL) of DNAH5 in the lung, showed the largest statistically significant 
+difference between the PCD-GRS-High and PCD-GRS-Low asthma clusters (p = 1.4 x 
+10-15).
+CONCLUSION: Genes associated with PCD, particularly the common SNPs associated 
+with abnormal expression of DNAH5, may have a certain influence on the 
+development of adult-onset asthma, perhaps through impaired mucociliary 
+clearance.
+
+Copyright: © 2024 Shigemasa et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0300000
+PMCID: PMC10923447
+PMID: 38457400 [Indexed for MEDLINE]
+
+Conflict of interest statement: NH has received lecture fees and/or research 
+funding from AstraZeneca, Boehringer Ingelheim, KYORIN Pharmaceutical, 
+GlaxoSmithKline, Novartis, and Sanofi. The rest of the authors have no conflict 
+of interest. This does not alter our adherence to PLOS ONE policies on sharing 
+data and materials.
+
+
+3. Ecotoxicol Environ Saf. 2024 Mar 15;273:116090. doi: 
+10.1016/j.ecoenv.2024.116090. Epub 2024 Feb 15.
+
+Diesel exhaust particle exposure exacerbates ciliary and epithelial barrier 
+dysfunction in the multiciliated bronchial epithelium models.
+
+Park E(1), Kim BY(2), Lee S(3), Son KH(4), Bang J(1), Hong SH(1), Lee JW(1), Uhm 
+KO(1), Kwak HJ(5), Lim HJ(6).
+
+Author information:
+(1)Division of Allergy and Respiratory Disease Research, Department of Chronic 
+Disease Convergence Research, Korea National Institute of Health, Korea Disease 
+Control and Prevention Agency, Chungju, Chungcheongbuk-do 28159, South Korea.
+(2)Herbal Medicine Research Division, Korea Institute of Oriental 
+Medicine, Daejeon 34054, South Korea.
+(3)Institute for Bio-Medical Convergence, College of Medicine, Catholic Kwandong 
+University, Gangneung-si, Gangwon-do, South Korea.
+(4)Department of Thoracic and Cardiovascular Surgery, Gachon University Gil 
+Medical Center, College of Medicine, Gachon University, Incheon 215565, South 
+Korea.
+(5)Department of Bio and Fermentation Convergence Technology, Kookmin 
+Univerisity, Seonbuk-Gu, Seoul 02707, South Korea.
+(6)Division of Allergy and Respiratory Disease Research, Department of Chronic 
+Disease Convergence Research, Korea National Institute of Health, Korea Disease 
+Control and Prevention Agency, Chungju, Chungcheongbuk-do 28159, South Korea. 
+Electronic address: hjlim1121@korea.kr.
+
+Airway epithelium, the first defense barrier of the respiratory system, 
+facilitates mucociliary clearance against inflammatory stimuli, such as 
+pathogens and particulates inhaled into the airway and lung. Inhaled particulate 
+matter 2.5 (PM2.5) can penetrate the alveolar region of the lung, and it can 
+develop and exacerbate respiratory diseases. Although the pathophysiological 
+effects of PM2.5 in the respiratory system are well known, its impact on 
+mucociliary clearance of airway epithelium has yet to be clearly defined. In 
+this study, we used two different 3D in vitro airway models, namely the 
+EpiAirway-full-thickness (FT) model and a normal human bronchial epithelial cell 
+(NHBE)-based air-liquid interface (ALI) system, to investigate the effect of 
+diesel exhaust particles (DEPs) belonging to PM2.5 on mucociliary clearance. 
+RNA-sequencing (RNA-Seq) analyses of EpiAirway-FT exposed to DEPs indicated that 
+DEP-induced differentially expressed genes (DEGs) are related to ciliary and 
+microtubule function and inflammatory-related pathways. The exposure to DEPs 
+significantly decreased the number of ciliated cells and shortened ciliary 
+length. It reduced the expression of cilium-related genes such as acetylated 
+α-tubulin, ARL13B, DNAH5, and DNAL1 in the NHBEs cultured in the ALI system. 
+Furthermore, DEPs significantly increased the expression of MUC5AC, whereas they 
+decreased the expression of epithelial junction proteins, namely, ZO1, Occludin, 
+and E-cadherin. Impairment of mucociliary clearance by DEPs significantly 
+improved the release of epithelial-derived inflammatory and fibrotic mediators 
+such as IL-1β, IL-6, IL-8, GM-CSF, MMP-1, VEGF, and S100A9. Taken together, it 
+can be speculated that DEPs can cause ciliary dysfunction, hyperplasia of goblet 
+cells, and the disruption of the epithelial barrier, resulting in the 
+hyperproduction of lung injury mediators. Our data strongly suggest that PM2.5 
+exposure is directly associated with ciliary and epithelial barrier dysfunction 
+and may exacerbate lung injury.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2024.116090
+PMID: 38364346 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. Phytomedicine. 2024 Apr;126:155053. doi: 10.1016/j.phymed.2023.155053. Epub 2023 
+Sep 2.
+
+Naringenin attenuated airway cilia structural and functional injury induced by 
+cigarette smoke extract via IL-17 and cAMP pathways.
+
+Zhang J(1), Fan W(1), Wu H(1), Yao Y(1), Jin L(1), Chen R(1), Xu Z(1), Su W(1), 
+Wang Y(1), Li P(2).
+
+Author information:
+(1)Guangdong Engineering and Technology Research Center for Quality and Efficacy 
+Re-evaluation of Post-marketed Traditional Chinese Medicine (TCM), State Key 
+Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant 
+Resources, School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+(2)Guangdong Engineering and Technology Research Center for Quality and Efficacy 
+Re-evaluation of Post-marketed Traditional Chinese Medicine (TCM), State Key 
+Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant 
+Resources, School of Life Sciences, Sun Yat-sen University, Guangzhou, China. 
+Electronic address: lipeibo@mail.sysu.edu.cn.
+
+BACKGROUND: Cigarette smoke impairs mucociliary clearance via mechanisms such as 
+inflammatory response and oxidative injury, which in turn induces various 
+respiratory diseases. Naringenin, a naturally occurring flavonoid in grapes and 
+grapefruit, has exhibited pharmacological properties such as anti-inflammatory, 
+expectorant, and antioxidant properties. However, it is still unclear whether 
+naringenin protects airway cilia from injury caused by cigarette smoke.
+PURPOSE: This study aimed to investigate the effect of naringenin on cigarette 
+smoke extract (CSE)-induced structural and functional abnormalities in airway 
+cilia and highlight the potential regulatory mechanism.
+METHODS: Initially, network pharmacology was used to predict the mechanism of 
+action of naringenin in ciliary disease. Next, HE staining, immunofluorescence, 
+TEM, qRT-PCR, western blot, and ELISA were performed to assess the effects of 
+naringenin on airway cilia in tracheal rings and air-liquid interface (ALI) 
+cultures of Sprague Dawley rats after co-exposure to CSE (10% or 20%) and 
+naringenin (0, 25, 50, 100 μM) for 24 h. Finally, transcriptomics and molecular 
+biotechnology methods were conducted to elucidate the mechanism by which 
+naringenin protected cilia from CSE-induced damage in ALI cultures.
+RESULTS: The targets of ciliary diseases regulated by naringenin were 
+significantly enriched in inflammation and oxidative stress pathways. Also, the 
+CSE decreased the number of cilia in the tracheal rings and ALI cultures and 
+reduced the ciliary beat frequency (CBF). However, naringenin prevented 
+CSE-induced cilia damage via mechanisms such as the downregulation of 
+cilia-related genes (e.g., RFX3, DNAI1, DNAH5, IFT88) and ciliary marker 
+proteins such as DNAI2, FOXJ1, and β-tubulin IV, the upregulation of 
+inflammatory factors (e.g., IL-6, IL-8, IL-13), ROS and MDA. IL-17 signaling 
+pathway might be involved in the protective effect of naringenin on airway 
+cilia. Additionally, the cAMP signaling pathway might also be related to the 
+enhancement of CBF by naringenin.
+CONCLUSION: In this study, we first found that naringenin reduces CSE-induced 
+structural disruption of airway cilia in part via modulation of the IL-17 
+signaling pathway. Furthermore, we also found that naringenin enhances CBF by 
+activating the cAMP signaling pathway. This is the first report to reveal the 
+beneficial effects of naringenin on airway cilia and the potential underlying 
+mechanisms.
+
+Copyright © 2024 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.phymed.2023.155053
+PMID: 38359483 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Authors 
+declare that they have no conflicts of interest.
+
+
+5. Sci Rep. 2023 Sep 2;13(1):14453. doi: 10.1038/s41598-023-41577-5.
+
+Azithromycin promotes proliferation, and inhibits inflammation in nasal 
+epithelial cells in primary ciliary dyskinesia.
+
+Varenyiova Z(1), Rojas-Hernandez LS(2), Spano J(2), Capek V(3), Rosenberg-Hasson 
+Y(4), Holmes T(4), Milla C(2).
+
+Author information:
+(1)Department of Pediatrics, 2nd Faculty of Medicine, Charles University and 
+Motol University Hospital, Prague, Czech Republic. z.varenyiova@gmail.com.
+(2)Center for Excellence in Pulmonary Biology, Stanford University, Palo Alto, 
+CA, USA.
+(3)Department of Pediatrics, 2nd Faculty of Medicine, Charles University and 
+Motol University Hospital, Prague, Czech Republic.
+(4)Human Immune Monitoring Center, Stanford University, Stanford, CA, USA.
+
+Primary ciliary dyskinesia (PCD) is a genetic disorder associated with recurrent 
+and chronic respiratory infections due to functional defects of motile cilia. In 
+this study, we aimed to elucidate inflammatory and proliferative responses in 
+PCD respiratory epithelium and evaluate the effect of Azithromycin (AZT) on 
+these responses. Airway basal cells (BCs) were isolated from nasal samples of 
+Wild-type (WT) epitope of healthy donors and PCD donors with bi-allelic 
+mutations in DNAH5, DNAH11 and CCDC39. Cells were expanded in vitro and 
+stimulated with either Lipopolysaccharide (LPS) or vehicle control. Post 
+stimulation, cells were treated with either Azithromycin (AZT) or vehicle 
+control. Cell proliferation was imaged in real-time. Separately, BCs from the 
+same donors were expanded and grown at an air-liquid interface (ALI) to generate 
+a multi-ciliated epithelium (MCE). Once fully mature, cells were stimulated with 
+LPS, AZT, LPS + AZT or vehicle control. Inflammatory profiling was performed on 
+collected media by cytokine Luminex assay. At baseline, there was a 
+significantly higher mean production of pro-inflammatory cytokines by CCDC39 BCs 
+and MCEs when compared to WT, DNAH11 and DNAH5 cells. AZT inhibited production 
+of cytokines induced by LPS in PCD cells. Differences in cell proliferation were 
+noted in PCD and this was also corrected with AZT treatment.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41598-023-41577-5
+PMCID: PMC10475097
+PMID: 37660113 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+6. Cells. 2023 May 24;12(11):1467. doi: 10.3390/cells12111467.
+
+Primary Ciliary Dyskinesia Patient-Specific hiPSC-Derived Airway Epithelium in 
+Air-Liquid Interface Culture Recapitulates Disease Specific Phenotypes In Vitro.
+
+von Schledorn L(1)(2)(3), Puertollano Martín D(1)(2)(3), Cleve N(1)(2)(3), 
+Zöllner J(1)(2)(3), Roth D(4), Staar BO(2)(5), Hegermann J(2)(6), Ringshausen 
+FC(2)(5)(7), Nawroth J(4)(8), Martin U(1)(2)(3), Olmer R(1)(2)(3).
+
+Author information:
+(1)Leibniz Research Laboratories for Biotechnology and Artificial Organs 
+(LEBAO), Department of Cardiothoracic, Transplantation and Vascular Surgery 
+(HTTG), Hannover Medical School, 30625 Hannover, Germany.
+(2)Biomedical Research in Endstage and Obstructive Lung Disease (BREATH), Member 
+of the German Center for Lung Research (DZL), Hannover Medical School, 30625 
+Hannover, Germany.
+(3)REBIRTH-Research Center for Translational and Regenerative Medicine, Hannover 
+Medical School, 30625 Hannover, Germany.
+(4)Helmholtz Pioneer Campus and Institute of Biological and Medical Imaging, 
+Helmholtz Zentrum München, 85764 Neuherberg, Germany.
+(5)Department of Respiratory Medicine and Infectious Diseases, Hannover Medical 
+School, 30625 Hannover, Germany.
+(6)Research Core Unit Electron Microscopy, Institute of Functional and Applied 
+Anatomy, Hannover Medical School, 30625 Hannover, Germany.
+(7)European Reference Network on Rare and Complex Respiratory Diseases 
+(ERN-LUNG), 60590 Frankfurt, Germany.
+(8)Chair of Biological Imaging at the Central Institute for Translational Cancer 
+Research (TranslaTUM), School of Medicine, Technical University of Munich, 81675 
+Munich, Germany.
+
+Primary ciliary dyskinesia (PCD) is a rare heterogenic genetic disorder 
+associated with perturbed biogenesis or function of motile cilia. Motile cilia 
+dysfunction results in diminished mucociliary clearance (MCC) of pathogens in 
+the respiratory tract and chronic airway inflammation and infections 
+successively causing progressive lung damage. Current approaches to treat PCD 
+are symptomatic, only, indicating an urgent need for curative therapeutic 
+options. Here, we developed an in vitro model for PCD based on human induced 
+pluripotent stem cell (hiPSC)-derived airway epithelium in Air-Liquid-Interface 
+cultures. Applying transmission electron microscopy, immunofluorescence 
+staining, ciliary beat frequency, and mucociliary transport measurements, we 
+could demonstrate that ciliated respiratory epithelia cells derived from two PCD 
+patient-specific hiPSC lines carrying mutations in DNAH5 and NME5, respectively, 
+recapitulate the respective diseased phenotype on a molecular, structural and 
+functional level.
+
+DOI: 10.3390/cells12111467
+PMCID: PMC10252476
+PMID: 37296588 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+7. Cells. 2022 Dec 12;11(24):4013. doi: 10.3390/cells11244013.
+
+Multiomics Analysis of a DNAH5-Mutated PCD Organoid Model Revealed the Key Role 
+of the TGF-β/BMP and Notch Pathways in Epithelial Differentiation and the Immune 
+Response in DNAH5-Mutated Patients.
+
+Yang W(1)(2)(3)(4)(5), Chen L(1)(2)(3)(4)(5), Guo J(6), Shi F(2)(3)(4)(5), Yang 
+Q(5), Xie L(2)(3)(4)(5), Lu D(1)(2)(3)(4)(5), Li Y(5), Luo J(1)(2)(3)(4)(5), 
+Wang L(4), Qiu L(1)(2)(3)(4)(5), Chen T(1)(2)(3)(4)(5), Li Y(1)(2)(3)(4)(5), 
+Zhang R(1)(2)(3)(4)(5), Chen L(5), Xu W(6), Liu H(1)(2)(3)(4)(5).
+
+Author information:
+(1)Department of Paediatric Pulmonology and Immunology, West China Second 
+University Hospital, Sichuan University, Chengdu 610000, China.
+(2)Key Laboratory of Birth Defects and Related Diseases of Women and Children 
+(Sichuan University), Ministry of Education, Chengdu 610000, China.
+(3)NHC Key Laboratory of Chronobiology (Sichuan University), Chengdu 610000, 
+China.
+(4)The Joint Laboratory for Lung Development and Related Diseases of West China 
+Second University Hospital, Sichuan University and School of Life Sciences of 
+Fudan University, West China Institute of Women and Children's Health, West 
+China Second University Hospital, Sichuan University, Chengdu 610000, China.
+(5)Sichuan Birth Defects Clinical Research Centre, West China Second University 
+Hospital, Sichuan University, Chengdu 610000, China.
+(6)Department of Obstetrics/Gynaecology, Joint Laboratory of Reproductive 
+Medicine (SCU-CUHK), Key Laboratory of Obstetric, Gynaecologic, and Paediatric 
+Diseases and Birth Defects of Ministry of Education, West China Second 
+University Hospital, Sichuan University, Chengdu 610000, China.
+
+Dynein axonemal heavy chain 5 (DNAH5) is the most mutated gene in primary 
+ciliary dyskinesia (PCD), leading to abnormal cilia ultrastructure and function. 
+Few studies have revealed the genetic characteristics and pathogenetic 
+mechanisms of PCD caused by DNAH5 mutation. Here, we established a child PCD 
+airway organoid directly from the bronchoscopic biopsy of a patient with the 
+DNAH5 mutation. The motile cilia in the organoid were observed and could be 
+stably maintained for an extended time. We further found abnormal ciliary 
+function and a decreased immune response caused by the DNAH5 mutation through 
+single-cell RNA sequencing (scRNA-Seq) and proteomic analyses. Additionally, the 
+directed induction of the ciliated cells, regulated by TGF-β/BMP and the Notch 
+pathway, also increased the expression of inflammatory cytokines. Taken 
+together, these results demonstrated that the combination of multiomics analysis 
+and organoid modelling could reveal the close connection between the immune 
+response and the DNAH5 gene.
+
+DOI: 10.3390/cells11244013
+PMCID: PMC9776854
+PMID: 36552777 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+8. Chest. 2023 May;163(5):1038-1050. doi: 10.1016/j.chest.2022.11.022. Epub 2022 
+Nov 24.
+
+Motile Ciliary Disorders of the Nasal Epithelium in Adults With Bronchiectasis.
+
+Zhang RL(1), Pan CX(2), Tang CL(2), Cen LJ(2), Zhang XX(2), Huang Y(3), Lin 
+ZH(2), Li HM(2), Zhang XF(2), Wang L(4), Guan WJ(5), Wang Y(6).
+
+Author information:
+(1)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute for Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, 
+China; Zhongshan City People's Hospital, Zhongshan, Guangdong, China.
+(2)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute for Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, 
+China.
+(3)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute for Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, 
+China; Department of Geriatrics, National Key Clinical Specialty, Guangzhou 
+First People's Hospital, South China University of Technology, Guangzhou, China.
+(4)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute for Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, 
+China; Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou 
+Laboratory, Bioland, Guangzhou, Guangdong, China.
+(5)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute for Respiratory Health, The 
+First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, 
+China; Department of Thoracic Surgery, Guangzhou Institute for Respiratory 
+Health, The First Affiliated Hospital of Guangzhou Medical University, 
+Guangzhou, Guangdong, China. Electronic address: battery203@163.com.
+(6)Department of Otolaryngology, Infectious Diseases Translational Research 
+Programme, Yong Loo Lin School of Medicine, National University of Singapore, 
+Singapore, Republic of Singapore.
+
+BACKGROUND: Motile ciliary disorder (MCD) has been implicated in chronic 
+inflammatory airway diseases such as asthma and COPD.
+RESEARCH QUESTION: What are the characteristics of MCD of the nasal epithelium 
+and its association with disease severity and inflammatory endotypes in adults 
+with bronchiectasis?
+STUDY DESIGN AND METHODS: In this observational study, we recruited 167 patients 
+with bronchiectasis and 39 healthy control participants who underwent brushing 
+of the nasal epithelium. A subgroup of patients underwent bronchoscopy for 
+bronchial epithelium sampling (n = 13), elective surgery for bronchial 
+epithelium biopsy (n = 18), and blood sampling for next-generation sequencing 
+(n = 37). We characterized systemic and airway inflammatory endotypes in 
+bronchiectasis. We conducted immunofluorescence assays to profile 
+ultrastructural (dynein axonemal heavy chain 5 [DNAH5], dynein intermediate 
+chain 1 [DNAI1], radial spoke head protein 9 [RSPH9]) and ciliogenesis marker 
+expression (Ezrin).
+RESULTS: MCD was present in 89.8% of patients with bronchiectasis, 67.6% showed 
+secondary MCD, and 16.2% showed primary plus secondary MCD. Compared with 
+healthy control participants, patients with bronchiectasis yielded abnormal 
+staining patterns of DNAH5, DNAI1, and RSPH9 (but not Ezrin) that were more 
+prominent in moderate to severe bronchiectasis. MCD pattern scores largely were 
+consistent between upper and lower airways and between large-to-medium and small 
+airways in bronchiectasis. Coexisting nasal diseases and asthma did not confound 
+nasal ciliary ultrastructural marker expression significantly. The propensity of 
+MCD was unaffected by the airway or systemic inflammatory endotypes. MCD, 
+particularly an ultrastructural abnormality, was notable in patients with mild 
+bronchiectasis who showed blood or sputum eosinophilia.
+INTERPRETATION: Nasal ciliary markers profiling provides complimentary 
+information to clinical endotyping of bronchiectasis.
+
+Copyright © 2022 American College of Chest Physicians. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.chest.2022.11.022
+PMID: 36435264 [Indexed for MEDLINE]
+
+
+9. Asian J Androl. 2022 May-Jun;24(3):255-259. doi: 10.4103/aja2021122.
+
+A recurrent homozygous missense mutation in CCDC103 causes 
+asthenoteratozoospermia due to disorganized dynein arms.
+
+Zubair M(1), Khan R(1), Ma A(1), Hameed U(2), Khan M(1), Abbas T(1), Ahmad R(3), 
+Zhou JT(1), Shah W(1), Hussain A(1), Ahmed N(1), Khan I(1), Khan K(1), Zhang 
+YW(1), Zhang H(1), Wu LM(1), Shi QH(1).
+
+Author information:
+(1)The First Affiliated Hospital of USTC, The CAS Key Laboratory of Innate 
+Immunity and Chronic Diseases, School of Life Sciences, CAS Center for 
+Excellence in Molecular Cell Science, Collaborative Innovation Center of 
+Genetics and Development, University of Science and Technology of China, Hefei 
+230027, China.
+(2)Institute of Industrial Biotechnology, Government College University, Lahore 
+54000, Pakistan.
+(3)Medical Genetics Research Laboratory, Department of Biotechnology, 
+Quaid-i-Azam University, Islamabad 45320, Pakistan.
+
+Asthenoteratozoospermia is one of the most severe types of qualitative sperm 
+defects. Most cases are due to mutations in genes encoding the components of 
+sperm flagella, which have an ultrastructure similar to that of motile cilia. 
+Coiled-coil domain containing 103 (CCDC103) is an outer dynein arm assembly 
+factor, and pathogenic variants of CCDC103 cause primary ciliary dyskinesia 
+(PCD). However, whether CCDC103 pathogenic variants cause severe 
+asthenoteratozoospermia has yet to be determined. Whole-exome sequencing (WES) 
+was performed for two individuals with nonsyndromic asthenoteratozoospermia in a 
+consanguineous family. A homozygous CCDC103 variant segregating recessively with 
+an infertility phenotype was identified (ENST00000035776.2, c.461A>C, 
+p.His154Pro). CCDC103 p.His154Pro was previously reported as a high prevalence 
+mutation causing PCD, though the reproductive phenotype of these PCD individuals 
+is unknown. Transmission electron microscopy (TEM) of affected individuals' 
+spermatozoa showed that the mid-piece was severely damaged with disorganized 
+dynein arms, similar to the abnormal ultrastructure of respiratory ciliary of 
+PCD individuals with the same mutation. Thus, our findings expand the phenotype 
+spectrum of CCDC103 p.His154Pro as a novel pathogenic gene for nonsyndromic 
+asthenospermia.
+
+DOI: 10.4103/aja2021122
+PMCID: PMC9226689
+PMID: 35259782 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+10. J Vis Exp. 2022 Jan 19;(179). doi: 10.3791/63292.
+
+High-speed Video Microscopy Analysis for First-line Diagnosis of Primary Ciliary 
+Dyskinesia.
+
+Schultz R(1), Peromaa T(2), Lukkarinen H(3), Elenius V(3).
+
+Author information:
+(1)Allergy Centre, Tampere University Hospital; Department of Pediatrics, Turku 
+University Hospital; rudiger.schultz58@gmail.com.
+(2)Turku Bioscience Center, University of Turku and Åbo Akademi University.
+(3)Department of Pediatrics, Turku University Hospital.
+
+Primary ciliary dyskinesia (PCD) is a congenital disorder predominantly 
+inherited in an autosomal recessive trait. The disorder causes disturbance in 
+the motion of cilia, leading to severe impairment of mucociliary clearance 
+(MCC). If undiagnosed or diagnosed too late, the condition leads to the 
+development of bronchiectasis and serious damage to the lungs in later life. 
+Most of the methods for diagnosing PCD are time-consuming and demand extensive 
+economic resources to establish them. High-speed video microscopy analysis 
+(HSVMA) is the only diagnostic tool to visualize and analyze living respiratory 
+cells with beating cilia in vitro. It is fast, cost-effective, and, in 
+experienced hands, very reliable as a diagnostic tool for PCD. In addition, 
+classical diagnostic measures such as transmission electron microscopy (TEM) are 
+not applicable for some mutations as morphological changes are absent. This 
+paper describes the process of collecting respiratory epithelial cells, the 
+further preparation of the specimen, and the process of HSVMA. We also describe 
+how brushed cells can be successfully kept unharmed and beating by keeping them 
+in a nourishing medium for storage and transport to the investigation site in 
+cases where a clinic does not possess the equipment to perform HSVMA. Also shown 
+are videos with pathologic beating patterns from patients with a mutation in the 
+dynein arm heavy chain 11 gene (DNAH11), which cannot be diagnosed with TEM; the 
+result of an inconclusive HSVMA due to infection of the upper airways, as well 
+as an unsuccessful brushing with superimposition of red blood cells. With this 
+article, we would like to encourage every unit dealing with pulmonology patients 
+and rare lung diseases to perform HSVMA as part of their daily routine 
+diagnostics for PCD or send the specimens over to a center specializing in 
+performing HSVMA.
+
+DOI: 10.3791/63292
+PMID: 35129174 [Indexed for MEDLINE]
+
+
+11. Front Cell Dev Biol. 2020 Dec 21;8:581340. doi: 10.3389/fcell.2020.581340. 
+eCollection 2020.
+
+Host Antiviral Response Suppresses Ciliogenesis and Motile Ciliary Functions in 
+the Nasal Epithelium.
+
+Chen Q(1)(2), Tan KS(2), Liu J(2), Ong HH(2), Zhou S(1)(2), Huang H(2)(3), Chen 
+H(1), Ong YK(4), Thong M(4), Chow VT(5), Qiu Q(1), Wang DY(2).
+
+Author information:
+(1)Department of Otolaryngology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China.
+(2)Department of Otolaryngology, Infectious Diseases Translational Research 
+Programme, Yong Loo Lin School of Medicine, National University of Singapore, 
+Singapore, Singapore.
+(3)Department of Otolaryngology, Head and Neck Surgery, Guangdong Provincial 
+People's Hospital, Guangdong Academy of Medical Science, Guangzhou, China.
+(4)Department of Otolaryngology, Head and Neck Surgery, National University 
+Health System, National University Hospital, Singapore, Singapore.
+(5)Infectious Diseases Translational Research Programme, Department of 
+Microbiology and Immunology, Yong Loo Lin School of Medicine, National 
+University Health System, National University of Singapore, Singapore, 
+Singapore.
+
+BACKGROUND: Respiratory viral infections are one of the main drivers of 
+development and exacerbation for chronic airway inflammatory diseases. Increased 
+viral susceptibility and impaired mucociliary clearance are often associated 
+with chronic airway inflammatory diseases and served as risk factors of 
+exacerbations. However, the links between viral susceptibility, viral clearance, 
+and impaired mucociliary functions are unclear. Therefore, the objective of this 
+study is to provide the insights into the effects of improper clearance of 
+respiratory viruses from the epithelium following infection, and their resulting 
+persistent activation of antiviral response, on mucociliary functions.
+METHODS: In order to investigate the effects of persistent antiviral responses 
+triggered by viral components from improper clearance on cilia formation and 
+function, we established an in vitro air-liquid interface (ALI) culture of human 
+nasal epithelial cells (hNECs) and used Poly(I:C) as a surrogate of viral 
+components to simulate their effects toward re-epithelization and mucociliary 
+functions of the nasal epithelium following damages from a viral infection.
+RESULTS: Through previous and current viral infection expression data, we found 
+that respiratory viral infection of hNECs downregulated motile cilia gene 
+expression. We then further tested the effects of antiviral response activation 
+on the differentiation of hNECs using Poly(I:C) stimulation on differentiating 
+human nasal epithelial stem/progenitor cells (hNESPCs). Using this model, we 
+observed reduced ciliated cell differentiation compared to goblet cells, reduced 
+protein and mRNA in ciliogenesis-associated markers, and increased mis-assembly 
+and mis-localization of ciliary protein DNAH5 following treatment with 25 μg/ml 
+Poly(I:C) in differentiating hNECs. Additionally, the cilia length and ciliary 
+beat frequency (CBF) were also decreased, which suggest impairment of ciliary 
+function as well.
+CONCLUSION: Our results suggest that the impairments of ciliogenesis and ciliary 
+function in hNECs may be triggered by specific expression of host antiviral 
+response genes during re-epithelization of the nasal epithelium following viral 
+infection. This event may in turn drive the development and exacerbation of 
+chronic airway inflammatory diseases.
+
+Copyright © 2020 Chen, Tan, Liu, Ong, Zhou, Huang, Chen, Ong, Thong, Chow, Qiu 
+and Wang.
+
+DOI: 10.3389/fcell.2020.581340
+PMCID: PMC7779769
+PMID: 33409274
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+12. Semin Cell Dev Biol. 2021 Feb;110:19-33. doi: 10.1016/j.semcdb.2020.11.007. Epub 
+2020 Dec 2.
+
+Motile cilia and airway disease.
+
+Legendre M(1), Zaragosi LE(2), Mitchison HM(3).
+
+Author information:
+(1)Sorbonne Université, Institut National de la Santé et de la Recherche 
+Médicale, Childhood Genetic Disorders, Département de Génétique Médicale, 
+Hôpital Armand-Trousseau, Assistance Publique-Hôpitaux de Paris, Paris 75012, 
+France.
+(2)Université Côte d'Azur, CNRS, IPMC, Sophia-Antipolis, 06560, France.
+(3)Genetics and Genomic Medicine, University College London, UCL Great Ormond 
+Street Institute of Child Health, London WC1N 1EH, UK; NIHR Biomedical Research 
+Centre at Great Ormond Street Hospital, London, UK. Electronic address: 
+h.mitchison@ucl.ac.uk.
+
+A finely regulated system of airway epithelial development governs the 
+differentiation of motile ciliated cells of the human respiratory tract, 
+conferring the body's mucociliary clearance defence system. Human cilia 
+dysfunction can arise through genetic mutations and this is a cause of 
+debilitating disease morbidities that confer a greatly reduced quality of life. 
+The inherited human motile ciliopathy disorder, primary ciliary dyskinesia 
+(PCD), can arise from mutations in genes affecting various aspects of motile 
+cilia structure and function through deficient production, transport and 
+assembly of cilia motility components or through defective multiciliogenesis. 
+Our understanding about the development of the respiratory epithelium, motile 
+cilia biology and the implications for human pathology has expanded greatly over 
+the past 20 years since isolation of the first PCD gene, rising to now nearly 50 
+genes. Systems level insights about cilia motility in health and disease have 
+been made possible through intensive molecular and omics (genomics, 
+transcriptomics, proteomics) research, applied in ciliate organisms and in 
+animal and human disease modelling. Here, we review ciliated airway development 
+and the genetic stratification that underlies PCD, for which the underlying 
+genotype can increasingly be connected to biological mechanism and disease 
+prognostics. Progress in this field can facilitate clinical translation of 
+research advances, with potential for great medical impact, e.g. through 
+improvements in ciliopathy disease diagnosis, management, family counselling and 
+by enhancing the potential for future genetically tailored approaches to disease 
+therapeutics.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.semcdb.2020.11.007
+PMID: 33279404 [Indexed for MEDLINE]
+
+
+13. Radiother Oncol. 2020 Jul;148:116-125. doi: 10.1016/j.radonc.2020.03.038. Epub 
+2020 Apr 6.
+
+Long-term defects of nasal epithelium barrier functions in patients with 
+nasopharyngeal carcinoma post chemo-radiotherapy.
+
+Zhou S(1), Huang H(2), Chen Q(1), Tan KS(3), Zhu Z(1), Peng Y(4), Ong HH(3), Liu 
+J(3), Xu M(1), Gao J(1), Chen H(1), Tay JK(3), Qiu Q(5), Wang DY(6).
+
+Author information:
+(1)Department of Otolaryngology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China.
+(2)The Second School of Clinical Medicine, Southern Medical University, 
+Guangzhou, China; Department of Otolaryngology&Head and Neck Surgery, Guangdong 
+Provincial People's Hospital and Guangdong Academy of Medical Sciences, China.
+(3)Department of Otolaryngology, National University of Singapore, National 
+University Health System, Singapore.
+(4)The First Affiliated Hospital of Guangzhou Medical University, Guangzhou 
+Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, 
+National Clinical Research Center for Respiratory Disease, Guangzhou Medical 
+University, Guangzhou, China.
+(5)Department of Otolaryngology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China. Electronic address: qiuqianhui@hotmail.com.
+(6)Department of Otolaryngology, National University of Singapore, National 
+University Health System, Singapore. Electronic address: entwdy@nus.edu.sg.
+
+BACKGROUND AND PURPOSE: Chronic and recurrent upper respiratory tract infection 
+and inflammation is common in patients with nasopharyngeal carcinoma (NPC) post 
+chemo-radiotherapy (CRT). Whether it is due to intrinsic (e.g., host-defense 
+mechanisms of the epithelium), epigenetic or extrinsic factors is not fully 
+understood.
+MATERIALS AND METHODS: Tissue biopsies of the middle turbinate (MT) and inferior 
+turbinate (IT) from NPC patients after CRT (mean of 3 years, n = 39) were 
+compared with the IT biopsies from healthy subjects (n = 44). The epithelial 
+ultrastructure was examined by transmission electron microscope (TEM). mRNA and 
+protein expressions of epithelial stem/progenitor cells markers, as well markers 
+of cell proliferation and differentiation markers was analyzed.
+RESULTS: Abnormal epithelial architecture was observed in all tissue samples of 
+NPC patients. Significantly decreased expression levels of mRNA and protein 
+levels for p63 (basal cells), Ki67 (cell proliferation), p63+/KRT5+ (epithelial 
+stem/progenitor cells), MUC5AC and MUC5B (secretary proteins from goblet cells), 
+alpha-tubulin, beta-tubulin and TAp73 (ciliated cells), DNAH5 and DNAI1 and 
+RSPH4A (microtubule assemblies of motile cilia), FOXJ1 and CP110 
+(ciliogenesis-associated markers) were evident in MT and IT biopsies from NPC 
+patients when compared to healthy controls.
+CONCLUSION: CRT causes long-term defects of epithelial barrier functions and 
+increases the susceptibility of these patients to upper respiratory tract 
+infection and inflammation.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.radonc.2020.03.038
+PMID: 32353641 [Indexed for MEDLINE]
+
+
+14. Front Genet. 2019 Nov 13;10:1083. doi: 10.3389/fgene.2019.01083. eCollection 
+2019.
+
+An Integrated Analysis of Radial Spoke Head and Outer Dynein Arm Protein Defects 
+and Ciliogenesis Abnormality in Nasal Polyps.
+
+Zi XX(1)(2), Guan WJ(2)(3), Peng Y(2)(3), Tan KS(2), Liu J(2), He TT(2), Ong 
+YK(4), Thong M(4), Shi L(1), Wang DY(2).
+
+Author information:
+(1)Department of Otolaryngology-Head and Neck Surgery, Shandong Provincial ENT 
+Hospital Affiliated to Shandong University, Jinan, China.
+(2)Department of Otolaryngology, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore, Singapore.
+(3)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, First 
+Affiliated Hospital of Guangzhou Medical University, Guangzhou Medical 
+University, Guangzhou, Guangdong, China.
+(4)Department of Otolaryngology-Head and Neck Surgery, National University 
+Hospital System (NUHS), Singapore, Singapore.
+
+Background: Nasal polyp (NP) is a chronic upper airway inflammatory disease that 
+is frequently triggered by defective host-defense. However, the mechanisms 
+underlying the impaired barrier function such as cilia-mediated mucociliary 
+clearance remain poorly understood. Objective: To assess ciliary ultrastructural 
+and ciliogenesis marker expression and the phenotypes of ciliated cells in NP. 
+Methods: NP biopsy samples were obtained from 97 NP patients and inferior 
+turbinate from 32 healthy controls. Immunofluorescence staining, quantitative 
+polymerase chain reaction, and single-cell cytospin staining were performed. We 
+classified the patterns of radial spoke head protein (RSPH) 1, 4A (RSPH4A), 9 
+(RSPH9), and dynein axonemal heavy chain 5 (DNAH5) localization. A 
+semi-quantitative scoring system was developed to assess their expression 
+patterns and associations with ciliogenesis markers [centrosomal protein 110 
+(CP110) and forkhead box j1 (FOXJ1)]. Results: Median scores of RSPH1, RSPH4A, 
+RSPH9, and DNAH5 were significantly higher in NP than in healthy controls, 
+particularly in eosinophilic NPs. Expression pattern scores of RSPH1, RSPH4A, 
+RSPH9, and DNAH5 correlated positively with each other in both groups. In 
+primary-cell specimens, abnormal expression patterns were significantly more 
+common in NP. The total fluorescence intensity of CP110 and FOXJ1 was 
+significantly higher in NPs and correlated positively with expression pattern 
+scores of RSPH1, RSPH4A, RSPH9, and DNAH5. A trend towards lengthened cilia was 
+observed in NP. Conclusion: In the chronic airway inflammatory milieu, the 
+up-regulated ciliogenesis correlates with the abnormal expression of ciliary 
+ultrastructural markers (i.e., DNAH5) in NP (particularly eosinophilic NP).
+
+Copyright © 2019 Zi, Guan, Peng, Tan, Liu, He, Ong, Thong, Shi and Wang.
+
+DOI: 10.3389/fgene.2019.01083
+PMCID: PMC6863926
+PMID: 31798623
+
+
+15. Colloids Surf B Biointerfaces. 2019 Oct 1;182:110324. doi: 
+10.1016/j.colsurfb.2019.06.054. Epub 2019 Jun 25.
+
+Transcriptomic profiling of neural stem cell differentiation on graphene 
+substrates.
+
+Tang M(1), Li J(2), He L(3), Guo R(3), Yan X(3), Li D(3), Zhang Y(3), Liao M(3), 
+Shao B(3), Hu Y(3), Liu Y(3), Tang Q(4), Xia L(3), Guo X(5), Chai R(6).
+
+Author information:
+(1)Key Laboratory for Developmental Genes and Human Disease, Ministry of 
+Education, Institute of Life Sciences, Southeast University, Nanjing 210096, 
+China; Co-innovation Center of Neuroregeneration, Nantong University, Nantong 
+226001, China; Joint Research Institute of Southeast University and Monash 
+University, Suzhou 215123, China. Electronic address: mingliangtang@seu.edu.cn.
+(2)Key Laboratory for Developmental Genes and Human Disease, Ministry of 
+Education, Institute of Life Sciences, Southeast University, Nanjing 210096, 
+China; Joint Research Institute of Southeast University and Monash University, 
+Suzhou 215123, China.
+(3)Key Laboratory for Developmental Genes and Human Disease, Ministry of 
+Education, Institute of Life Sciences, Southeast University, Nanjing 210096, 
+China.
+(4)The First Clinical Medical School, Anhui Medical University, 81 Meishan Road, 
+Hefei 230032, China.
+(5)Department of Neurobiology, Key Laboratory of Human Functional Genomics of 
+Jiangsu Province, Nanjing Medical University, Nanjing, 211166 Jiangsu, China.
+(6)Key Laboratory for Developmental Genes and Human Disease, Ministry of 
+Education, Institute of Life Sciences, Southeast University, Nanjing 210096, 
+China; Co-innovation Center of Neuroregeneration, Nantong University, Nantong 
+226001, China; Joint Research Institute of Southeast University and Monash 
+University, Suzhou 215123, China; Institute for Stem Cell and Regeneration, 
+Chinese Academy of Science, Beijing, China; Jiangsu Province High-Tech Key 
+Laboratory for Bio-Medical Research, Southeast University, Nanjing 211189, 
+China. Electronic address: renjiec@seu.edu.cn.
+
+Graphene exhibits excellent mechanical strength, electrical conductivity and 
+good biocompatibility, which make it a suitable candidate as a neural 
+interfacing material in regenerative medicine and tissue engineering. Graphene 
+is reported to promote both of neural stem cells (NSCs) proliferation and 
+differentiation. However, the transcriptomes of 2D graphene-regulated NSC 
+differentiation have not yet been investigated. To identify candidate genes, on 
+which graphene may affect, we used next-generation RNA sequencing to analyze the 
+transcriptome of NSCs differentiated for 21 days on a graphene substrate. These 
+NSCs displayed highly enriched and differentially expressed genes compared with 
+traditional cell culture in vitro. Of these, we identified motor protein genes 
+that might regulate NSC differentiation, including cytoplasmic dynein and 
+axonemal dynein genes, Ccdc108, Dnah5, and Dnah11. Furthermore, we analyzed the 
+cell signaling pathway genes that might regulate NSC differentiation, and we 
+constructed a protein-protein interaction network for the genes that are 
+differentially expressed in NSCs on graphene compared to commercial tissue 
+culture polystyrene substrates. We have identified genes potentially regulating 
+the differentiation and migration of NSCs on graphene substrates, and our 
+findings provide mechanistic evidence for the biological activities of graphene, 
+especially in view of graphene-stem cell interactions.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.colsurfb.2019.06.054
+PMID: 31288132 [Indexed for MEDLINE]
+
+
+16. Am J Hum Genet. 2018 Dec 6;103(6):984-994. doi: 10.1016/j.ajhg.2018.10.016. Epub 
+2018 Nov 21.
+
+Mutations in Outer Dynein Arm Heavy Chain DNAH9 Cause Motile Cilia Defects and 
+Situs Inversus.
+
+Fassad MR(1), Shoemark A(2), Legendre M(3), Hirst RA(4), Koll F(5), le Borgne 
+P(5), Louis B(6), Daudvohra F(7), Patel MP(8), Thomas L(3), Dixon M(7), Burgoyne 
+T(7), Hayes J(4), Nicholson AG(9), Cullup T(10), Jenkins L(10), Carr SB(7), 
+Aurora P(11), Lemullois M(5), Aubusson-Fleury A(5), Papon JF(12), O'Callaghan 
+C(13), Amselem S(3), Hogg C(7), Escudier E(3), Tassin AM(5), Mitchison HM(14).
+
+Author information:
+(1)Genetics and Genomic Medicine Programme, University College London, UCL Great 
+Ormond Street Institute of Child Health, London WC1N 1EH, UK; Department of 
+Human Genetics, Medical Research Institute, Alexandria University, 165 
+El-Horreya Avenue El-Hadra, 21561 Alexandria, Egypt.
+(2)PCD Diagnostic Team and Department of Paediatric Respiratory Medicine, Royal 
+Brompton and Harefield NHS Trust, London SW3 6NP, UK; School of Medicine, 
+University of Dundee, Dundee DD2 4BF, UK.
+(3)Assistance Publique - Hôpitaux de Paris (AP-HP), Hôpital Armand Trousseau, 
+Département de Génétique Médicale, 75012 Paris, France; Sorbonne Universités, 
+Paris 06, INSERM UMR_S933, 75005 Paris, France.
+(4)Centre for PCD Diagnosis and Research, Department of Infection, Immunity and 
+Inflammation, RKCSB, University of Leicester, Leicester LE2 7LX, UK.
+(5)Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Univ. Paris 
+Sud, Université Paris-Saclay, 1 Avenue de la Terrasse, 91198 Gif sur Yvette, 
+France.
+(6)INSERM U955, Equipe 13, Faculté de Médecine de Créteil, Université Paris Est, 
+94010 Créteil, France.
+(7)PCD Diagnostic Team and Department of Paediatric Respiratory Medicine, Royal 
+Brompton and Harefield NHS Trust, London SW3 6NP, UK.
+(8)Genetics and Genomic Medicine Programme, University College London, UCL Great 
+Ormond Street Institute of Child Health, London WC1N 1EH, UK.
+(9)Histopathology Department, Royal Brompton and Harefield NHS Trust, London SW3 
+6NP, UK.
+(10)Regional Molecular Genetics Laboratory, Great Ormond Street Hospital for 
+Children NHS Foundation Trust, Queen Square, London WC1N 3BH, UK.
+(11)Department of Respiratory, Critical Care and Anaesthesia Unit, University 
+College London (UCL) Great Ormond Street Institute of Child Health, Guilford 
+Street, London WC1N 1EH, UK; Department of Paediatric Respiratory Medicine, 
+Great Ormond Street Hospital for Children, London WC1N 3JH, UK.
+(12)Service d'Oto-Rhino-Laryngologie et de Chirurgie Cervico-Maxillo-Faciale, 
+Hôpital Bicêtre, AP-HP, 94275 Le Kremlin-Bicêtre, France.
+(13)Centre for PCD Diagnosis and Research, Department of Infection, Immunity and 
+Inflammation, RKCSB, University of Leicester, Leicester LE2 7LX, UK; Department 
+of Respiratory, Critical Care and Anaesthesia Unit, University College London 
+(UCL) Great Ormond Street Institute of Child Health, Guilford Street, London 
+WC1N 1EH, UK.
+(14)Genetics and Genomic Medicine Programme, University College London, UCL 
+Great Ormond Street Institute of Child Health, London WC1N 1EH, UK. Electronic 
+address: h.mitchison@ucl.ac.uk.
+
+Motile cilia move body fluids and gametes and the beating of cilia lining the 
+airway epithelial surfaces ensures that they are kept clear and protected from 
+inhaled pathogens and consequent respiratory infections. Dynein motor proteins 
+provide mechanical force for cilia beating. Dynein mutations are a common cause 
+of primary ciliary dyskinesia (PCD), an inherited condition characterized by 
+deficient mucociliary clearance and chronic respiratory disease coupled with 
+laterality disturbances and subfertility. Using next-generation sequencing, we 
+detected mutations in the ciliary outer dynein arm (ODA) heavy chain gene DNAH9 
+in individuals from PCD clinics with situs inversus and in one case male 
+infertility. DNAH9 and its partner heavy chain DNAH5 localize to type 2 ODAs of 
+the distal cilium and in DNAH9-mutated nasal respiratory epithelial cilia we 
+found a loss of DNAH9/DNAH5-containing type 2 ODAs that was restricted to the 
+distal cilia region. This confers a reduced beating frequency with a subtle 
+beating pattern defect affecting the motility of the distal cilia portion. 3D 
+electron tomography ultrastructural studies confirmed regional loss of ODAs from 
+the distal cilium, manifesting as either loss of whole ODA or partial loss of 
+ODA volume. Paramecium DNAH9 knockdown confirms an evolutionarily conserved 
+function for DNAH9 in cilia motility and ODA stability. We find that DNAH9 is 
+widely expressed in the airways, despite DNAH9 mutations appearing to confer 
+symptoms restricted to the upper respiratory tract. In summary, DNAH9 mutations 
+reduce cilia function but some respiratory mucociliary clearance potential may 
+be retained, widening the PCD disease spectrum.
+
+Copyright © 2018 American Society of Human Genetics. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.ajhg.2018.10.016
+PMCID: PMC6288320
+PMID: 30471717 [Indexed for MEDLINE]
+
+
+17. Am J Respir Cell Mol Biol. 2018 Oct;59(4):511-522. doi: 
+10.1165/rcmb.2017-0436OC.
+
+Quantifying Ciliary Dynamics during Assembly Reveals Stepwise Waveform 
+Maturation in Airway Cells.
+
+Oltean A(1)(2), Schaffer AJ(1), Bayly PV(2), Brody SL(1).
+
+Author information:
+(1)1 Department of Medicine and.
+(2)2 Department of Mechanical Engineering and Materials Science, Washington 
+University in St. Louis, St. Louis, Missouri.
+
+Comment in
+    Am J Respir Cell Mol Biol. 2018 Oct;59(4):415-416. doi: 
+10.1165/rcmb.2018-0208ED.
+
+Motile cilia are essential for clearance of particulates and pathogens from 
+airways. For effective transport, ciliary motor proteins and axonemal structures 
+interact to generate the rhythmic, propulsive bending, but the mechanisms that 
+produce a dynamic waveform remain incompletely understood. Biomechanical 
+measures of human ciliary motion and their relationships to ciliary assembly are 
+needed to illuminate the biophysics of normal ciliary function and to quantify 
+dysfunction in ciliopathies. To these ends, we analyzed ciliary motion by 
+high-speed video microscopy of ciliated cells sampled from human lung airways 
+compared with primary culture cells that undergo ciliogenesis in vitro. 
+Quantitative assessment of waveform parameters showed variations in waveform 
+shape between individual cilia; however, general trends in waveform parameters 
+emerged, associated with progression of cilia length and stage of 
+differentiation. When cilia emerged from cultured cells, beat frequency was 
+initially elevated, then fell and remained stable as cilia lengthened. In 
+contrast, the average bending amplitude and the ability to generate force 
+gradually increased and eventually approached values observed in ex vivo 
+samples. Dynein arm motor proteins DNAH5, DNAH9, DNAH11, and DNAH6 were 
+localized within specific regions of the axoneme in the ex vivo cells; however, 
+distinct stages of in vitro waveform development identified by biomechanical 
+features were associated with the progressive movement of dyneins to the 
+appropriate proximal or distal sections of the cilium. These observations 
+suggest that the stepwise variation in waveform development during ciliogenesis 
+is dependent on cilia length and potentially on outer dynein arm assembly.
+
+DOI: 10.1165/rcmb.2017-0436OC
+PMCID: PMC6178159
+PMID: 29851510 [Indexed for MEDLINE]
+
+
+18. J Thorac Dis. 2018 Mar;10(3):1753-1764. doi: 10.21037/jtd.2018.02.13.
+
+Aberrant epithelial remodeling with impairment of cilia architecture in 
+non-cystic fibrosis bronchiectasis.
+
+Chen ZG(1)(2)(3), Li YY(2), Wang ZN(1), Li M(4), Lim HF(5), Zhou YQ(3), Cai 
+LM(1), Li YT(1), Yang LF(1), Zhang TT(3), Wang DY(2).
+
+Author information:
+(1)Department of Pediatrics, The Third Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou 510630, China.
+(2)Department of Otolaryngology, Yong Loo Lin School of Medicine, National 
+University Health System, National University of Singapore, Singapore.
+(3)Department of Pulmonary Diseases, The Third Affiliated Hospital of Sun 
+Yat-sen University, Institute of Respiratory Diseases of Sun Yat-sen University, 
+Guangzhou 510630, China.
+(4)Department of Pulmonary Diseases, The First Affiliated Hospital of Sun 
+Yat-sen University, Guangzhou 510700, China.
+(5)Division of Respiratory & Critical Care Medicine, Yong Loo Lin School of 
+Medicine, National University Health System, National University of Singapore, 
+Singapore.
+
+BACKGROUND: Aberrant epithelial remodeling and/or abnormalities in mucociliary 
+apparatus in airway epithelium contribute to infection and inflammation. It is 
+uncertain if these changes occur in both large and small airways in non-cystic 
+fibrosis bronchiectasis (non-CF bronchiectasis). In this study, we aim to 
+investigate the histopathology and inflammatory profile in the epithelium of 
+bronchi and bronchioles in bronchiectasis.
+METHODS: Excised lung tissue sections from 52 patients with non-CF 
+bronchiectasis were stained with specific cellular markers and analyzed by 
+immunohistochemistry and immunofluorescence to assess the epithelial structures, 
+including ciliated cells and goblet cells morphology. Inflammatory cell counts 
+and ciliary proteins expression levels of centrosomal protein 110 (CP110) and 
+dynein heavy chain 5, axonemal (DNAH5) were assessed.
+RESULTS: Epithelial hyperplasia is found in both bronchi and bronchioles in all 
+specimens, including hyperplasia and/or hypertrophy of goblet cells. The median 
+cilia length is longer in hyperplastic epithelium [bronchi: 8.16 (7.03-9.14) µm, 
+P<0.0001; bronchioles: 7.46 (6.41-8.48) µm, P<0.0001] as compared to 
+non-hyperplastic epithelium (bronchi: 5.60 µm; bronchioles: 4.89 µm). 
+Hyperplastic epithelium is associated with overexpression of CP110 and decreased 
+intensity of DNAH5 expression in both bronchial and bronchiolar epithelium. 
+Though infiltration of neutrophils is predominant (63.0% in bronchi and 76.7% in 
+bronchioles), eosinophilic infiltration is also present in the mucosa of bronchi 
+(30.8%) and bronchioles (54.8%).
+CONCLUSIONS: Aberrant epithelial remodeling with impaired mucociliary 
+architecture is present in both large and small airways in patients with 
+refractory non-CF bronchiectasis. Future studies should evaluate the interplay 
+between these individual components in driving chronic inflammation and lung 
+damage in patients.
+
+DOI: 10.21037/jtd.2018.02.13
+PMCID: PMC5906310
+PMID: 29707330
+
+Conflict of interest statement: Conflicts of Interest: The authors have no 
+conflicts of interest to declare.
+
+
+19. Lung. 2018 Apr;196(2):231-238. doi: 10.1007/s00408-018-0086-x. Epub 2018 Jan 24.
+
+Primary Ciliary Dyskinesia Due to Microtubular Defects is Associated with Worse 
+Lung Clearance Index.
+
+Irving S(1)(2), Dixon M(3), Fassad MR(4)(5), Frost E(3)(6), Hayward J(4)(7), 
+Kilpin K(6), Ollosson S(6), Onoufriadis A(8), Patel MP(4), Scully J(4), Carr 
+SB(6), Mitchison HM(4), Loebinger MR(6), Hogg C(6), Shoemark A(3)(6)(9), Bush 
+A(3)(6).
+
+Author information:
+(1)National Heart and Lung Institute, Imperial College London, London, UK. 
+s.irving@rbht.nhs.uk.
+(2)Royal Brompton & Harefield NHS Trust, Sydney Street, London, SW3 6NP, UK. 
+s.irving@rbht.nhs.uk.
+(3)National Heart and Lung Institute, Imperial College London, London, UK.
+(4)Genetics and Genomic Medicine, University College London (UCL) Great Ormond 
+Street Institute of Child Health, London, UK.
+(5)Human Genetics Department, Medical Research Institute, Alexandria University, 
+Alexandria, Egypt.
+(6)Royal Brompton & Harefield NHS Trust, Sydney Street, London, SW3 6NP, UK.
+(7)Regional Molecular Genetics Laboratory, Great Ormond Street Hospital for 
+Children NHS Foundation Trust, London, UK.
+(8)Division of Genetics and Molecular Medicine, Department of Medical and 
+Molecular Genetics, King's College London School of Medicine, Guy's Hospital, 
+London, UK.
+(9)Division of Molecular and Clinical Medicine, University of Dundee, Dundee, 
+UK.
+
+PURPOSE: Primary ciliary dyskinesia (PCD) is characterised by repeated upper and 
+lower respiratory tract infections, neutrophilic airway inflammation and 
+obstructive airway disease. Different ultrastructural ciliary defects may affect 
+lung function decline to different degrees. Lung clearance index (LCI) is a 
+marker of ventilation inhomogeneity that is raised in some but not all patients 
+with PCD. We hypothesised that PCD patients with microtubular defects would have 
+worse (higher) LCI than other PCD patients.
+METHODS: Spirometry and LCI were measured in 69 stable patients with PCD. Age at 
+testing, age at diagnosis, ethnicity, ciliary ultrastructure, genetic screening 
+result and any growth of Pseudomonas aeruginosa was recorded.
+RESULTS: Lung clearance index was more abnormal in PCD patients with 
+microtubular defects (median 10.24) than those with dynein arm defects (median 
+8.3, p = 0.004) or normal ultrastructure (median 7.63, p = 0.0004). Age is 
+correlated with LCI, with older patients having worse LCI values (p = 0.03, 
+r = 0.3).
+CONCLUSION: This study shows that cilia microtubular defects are associated with 
+worse LCI in PCD than dynein arm defects or normal ultrastructure. The patient's 
+age at testing is also associated with a higher LCI. Patients at greater risk of 
+obstructive lung disease should be considered for more aggressive management. 
+Differences between patient groups may potentially open avenues for novel 
+treatments.
+
+DOI: 10.1007/s00408-018-0086-x
+PMCID: PMC5854730
+PMID: 29368042 [Indexed for MEDLINE]
+
+Conflict of interest statement: SI, MD, MRF, EF, JH, KK, SO, AO, MPP, JS, SC, 
+HMM, MRL, CH, AS and AB have no conflicts of interest to declare.
+
+
+20. Laryngoscope. 2018 Mar;128(3):E97-E104. doi: 10.1002/lary.26983. Epub 2017 Nov 
+17.
+
+Absence or mislocalization of DNAH5 is a characteristic marker for motile 
+ciliary abnormality in nasal polyps.
+
+Qiu Q(1), Peng Y(1)(2)(3), Zhu Z(2), Chen Z(4), Zhang C(2), Ong HH(3), Tan 
+KS(3), Hong H(5), Yan Y(3), Huang H(6), Liu J(3), Li X(7), Nam HN(8), Dung 
+NTN(8), Shi L(9), Yang Q(10), Bingle CD(11), Wang DY(3).
+
+Author information:
+(1)Department of Otolaryngology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, Guangdong, People's Republic of China.
+(2)Department of Otolaryngology Head and Neck Surgery, Guangdong General 
+Hospital, Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, People's 
+Republic of China.
+(3)Department of Otolaryngology, National University of Singapore, National 
+University Health System, Singapore, Singapore.
+(4)Department of Otolaryngology Head and Neck Surgery, First Affiliated 
+Hospital, Zhengzhou University, Zhengzhou, Henan, People's Republic of China.
+(5)Department of Otolaryngology-Head and Neck Surgery, the 5th Affiliated 
+Hospital of Sun Yat-sen University, Zhuhai, Guangdong, People's Republic of 
+China.
+(6)Department of Pathology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, Guangdong, People's Republic of China.
+(7)Department of Otolaryngology Head and Neck Surgery, Third Affiliated Hospital 
+of Guangzhou Medical University, Guangzhou, Guangdong, People's Republic of 
+China.
+(8)Department of Otolaryngology, Pham Ngoc Thach University of Medicine, Ho Chi 
+Minh City, Vietnam.
+(9)Department of Otolaryngology, The Second Hospital of Shandong University, 
+Jinan, People's Republic of, China.
+(10)Department of Otorhinolaryngology-Head and Neck Surgery, The Third 
+Affiliated Hospital of Sun Yat-Sen University, Guangzhou, Guangdong, People's 
+Republic of China.
+(11)Academic Unit of Respiratory Medicine, Department of Infection, Immunity and 
+Cardiovascular Disease, University of Sheffield, Sheffield, United Kingdom.
+
+OBJECTIVE: Motile cilia impairment is a common condition in patients with 
+chronically inflamed airways, such as is seen in nasal polyps (NPs). The 
+mechanism underlying this pathogenic condition is complex and not fully 
+understood.
+METHODS: We investigated the presence and localization of dynein axonemal heavy 
+chain 5 (DNAH5) in motile cilia using immunofluorescence staining in 
+paraffin-embedded nasal biopsies from NPs (n = 120) and inferior turbinate 
+mucosa (n = 35) of healthy controls. We also performed single-cell staining on 
+cytospin samples (NP = 5, control = 5). Three patterns of DNAH5 localization are 
+defined, including pattern A (presence throughout the axoneme), pattern B 
+(undetectable in the distal part of the axoneme), and pattern C (completely 
+missing throughout the entire axoneme). We developed a semiquantitative scoring 
+system for which 0 = (pattern A > 70%); 1 = (patterns A + B > 70%); and 2 = 
+(pattern C ≥ 30%) in each high-power field (5 fields per sample).
+RESULTS: Based on our DNAH5 scoring system, the median (1st and 3rd quartile) 
+score was 0.3 (0.2 and 0.4) for samples from controls, and 1.1 (0.6 and 1.6) for 
+samples from NPs in paraffin specimens (P < 0.001). The DNAH5 score had a 
+significant positive relationship with the Lund-Mackay computed tomography score 
+(r = 0.329, P = 0.005) and was higher in patients with eosinophilic NPs (P = 
+0.006). For cytospin samples, the mean percentage of patterns A, B, and C were 
+74%, 14%, and 12% in controls, and 48%, 20%, and 32% in NPs, respectively.
+CONCLUSION: Our results suggest that the absence or mislocalization of DNAH5 
+from motile cilia is a common and potentially important pathological phenomenon 
+in chronically inflamed airway epithelium.
+LEVEL OF EVIDENCE: NA. Laryngoscope, 128:E97-E104, 2018.
+
+© 2017 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26983
+PMID: 29148098 [Indexed for MEDLINE]
+
+
+21. Vet Pathol. 2017 Sep;54(5):802-812. doi: 10.1177/0300985817705170. Epub 2017 May 
+11.
+
+Histologic and Ultrastructural Findings in Dogs With Chronic Respiratory Disease 
+Suspected of Ciliary Dyskinesia.
+
+Miranda IC(1)(2), Granick JL(3), Armién AG(2).
+
+Author information:
+(1)1 Department of Epidemiology and Public Health, Veterinary Institute, Federal 
+Rural University of Rio de Janeiro, Seropedica, Rio de Janeiro, Brazil.
+(2)2 Ultrastructural Pathology Unit, Veterinary Diagnostic Laboratory, 
+University of Minnesota, Saint Paul, MN, USA.
+(3)3 Veterinary Clinical Sciences Department, University of Minnesota, Saint 
+Paul, MN, USA.
+
+Mucociliary clearance is a main defense mechanism of the respiratory tract, 
+which can be inherently impaired in primary ciliary dyskinesia (PCD) or 
+reversibly altered in secondary ciliary dyskinesia (SCD). Limited diagnostic 
+test availability likely leads to misdiagnosis or underdiagnosis of PCD in 
+animals. This study evaluated the light and transmission electron microscopy 
+(TEM) changes in the respiratory mucosa of 15 dogs with chronic respiratory 
+disease suspected of PCD. Necropsy was performed in 1 case and 2 dogs were used 
+as negative controls. PCD was confirmed in 1 dog, which presented with chronic 
+otitis, bronchopneumonia, hydrocephalus and ultrastructural abnormalities in 84% 
+of the assessed cilia, including absence of dynein arms and microtubular 
+changes. The 14 other cases showed only nonspecific alterations, such as ciliary 
+disorientation, compound cilia, ciliary edema, and axoneme bubbles in a minority 
+of the evaluated cilia and were classified as SCD. Ciliary ultrastructural 
+analysis can confirm a diagnosis of PCD if specific abnormalities exist. TEM 
+remains an important investigational tool in veterinary medicine, as no other 
+specific test for PCD in dogs has been standardized yet.
+
+DOI: 10.1177/0300985817705170
+PMID: 28494707 [Indexed for MEDLINE]
+
+
+22. Nat Commun. 2017 Feb 8;8:14279. doi: 10.1038/ncomms14279.
+
+X-linked primary ciliary dyskinesia due to mutations in the cytoplasmic axonemal 
+dynein assembly factor PIH1D3.
+
+Olcese C(1)(2), Patel MP(3), Shoemark A(4), Kiviluoto S(5), Legendre M(6), 
+Williams HJ(7), Vaughan CK(8), Hayward J(3), Goldenberg A(9), Emes RD(10)(11), 
+Munye MM(3), Dyer L(3), Cahill T(4), Bevillard J(1), Gehrig C(1), Guipponi 
+M(1)(12), Chantot S(6), Duquesnoy P(6), Thomas L(6), Jeanson L(6), Copin B(6), 
+Tamalet A(13), Thauvin-Robinet C(14), Papon JF(15), Garin A(15), Pin I(16), Vera 
+G(9), Aurora P(17)(18), Fassad MR(3)(19), Jenkins L(20), Boustred C(20), Cullup 
+T(20), Dixon M(4), Onoufriadis A(21), Bush A(4)(22), Chung EM(23), Antonarakis 
+SE(1)(12)(24), Loebinger MR(25), Wilson R(25), Armengot M(26), Escudier E(6), 
+Hogg C(4); UK10K Rare Group; Amselem S(6), Sun Z(5), Bartoloni L(1)(27), Blouin 
+JL(1)(12), Mitchison HM(3).
+
+Collaborators: Al-Turki S, Anderson C, Antony D, Barroso I, Beales PL, Bentham 
+J, Bhattacharya S, Carss K, Chatterjee K, Cirak S, Cosgrove C, Allan D, Durbin 
+R, Fitzpatrick D, Floyd J, Foley AR, Franklin C, Futema M, Humphries SE, Hurles 
+M, McCarthy S, Muddyman D, Muntoni F, Parker V, Payne F, Plagnol V, Raymond L, 
+Savage DB, Scambler PJ, Schmidts M, Semple R, Serra E, Stalker J, van 
+Kogelenberg M, Vijayarangakannan P, Walter K.
+
+Author information:
+(1)Department of Genetic Medicine and Development, University of Geneva School 
+of Medicine, CH-1211 Geneva, Switzerland.
+(2)Department of Life Sciences and Biotechnologies, University of Ferrara, 
+46-44121 Ferrara, Italy.
+(3)Genetics and Genomic Medicine, University College London (UCL) Great Ormond 
+Street Institute of Child Health, Guilford Street, London WC1N 1EH, UK.
+(4)Paediatric Department, Royal Brompton Hospital, Sydney Street, London SW3 
+6NP, UK.
+(5)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, Connecticut 06520, USA.
+(6)Sorbonne Universités, UPMC Univ Paris 06, INSERM UMR_S933 and Service de 
+Génétique et Embryologie Médicales, Hôpital Armand-Trousseau, AP-HP, Paris 
+75012, France.
+(7)GOSgene, Genetics and Genomic Medicine Programme, University College London 
+(UCL) Great Ormond Street Institute of Child Health, 30 Guilford Street, London 
+WC1N 1EH, UK.
+(8)Institute of Structural and Molecular Biology, University College London and 
+Birkbeck College, Biological Sciences, Malet Street, London, WC1E 7HX, UK.
+(9)Service de Génétique, CHU de Rouen, INSERM U1079, Université de Rouen, Centre 
+Normand de Génomique Médicale et Médecine Personnalisée, Rouen, France.
+(10)School of Veterinary Medicine and Science, University of Nottingham, Sutton 
+Bonington Campus, Leicestershire LE12 5RD, UK.
+(11)Advanced Data Analysis Centre, University of Nottingham, Sutton Bonington 
+Campus, Leicestershire LE12 5RD, UK.
+(12)Department of Genetic Medicine and Laboratory, University Hospitals of 
+Geneva, CH-1211 Geneva, Switzerland.
+(13)Service de Pneumologie Pédiatrique, Centre National de Référence des 
+Maladies Respiratoires Rares, Hôpital Armand-Trousseau, AP-HP, Paris 75012, 
+France.
+(14)Centre de génétique, CHU Dijon Bourgogne, Équipe EA4271 GAD, Université de 
+Bourgogne, Hôpital François Mitterrand, 21000 Dijon, France.
+(15)Service d'Oto-Rhino-Laryngologie et de Chirurgie Cervico-Maxillo-Faciale, 
+Hôpital Bicêtre, AP-HP, Le Kremlin-Bicêtre 94275, France.
+(16)Pédiatrie, CHU Grenoble Alpes, INSERM U 1209, Institut for Advanced 
+Biosciences, Université Grenoble Alpes, Grenoble, France.
+(17)Department of Paediatric Respiratory Medicine, Great Ormond Street Hospital 
+for Children, London WC1N 3JH, UK.
+(18)Department of Respiratory, Critical Care and Anaesthesia Unit, University 
+College London (UCL) Great Ormond Street Institute of Child Health, Guilford 
+Street, London WC1N 1EH, UK.
+(19)Human Genetics Department, Medical Research Institute, Alexandria 
+University, El-Hadra Alexandria 21561, Egypt.
+(20)North East Thames Regional Genetics Laboratory, Great Ormond Street Hospital 
+for Children NHS Foundation Trust, Queen Square, London WC1N 3BH, UK.
+(21)Department of Medical and Molecular Genetics, Division of Genetics and 
+Molecular Medicine, King's College London School of Medicine, Guy's Hospital, 
+London SE1 9RT, UK.
+(22)Department of Paediatric Respiratory Medicine, National Heart and Lung 
+Institute, Imperial College London, London SW3 6LR, UK.
+(23)Population, Policy and Practice, University College London (UCL) Great 
+Ormond Street Institute of Child Health, Guilford Street, London WC1N 1EH, UK.
+(24)Institute of Genetics and Genomics in Geneva, iGE3, CH-1211 Geneva, 
+Switzerland.
+(25)Host Defence Unit, Respiratory Medicine, Royal Brompton Hospital, London SW3 
+6NP, UK.
+(26)Rhinology and Primary Ciliary Dyskinesia Unit, General and University 
+Hospital, Medical School, Valencia University, Valencia E-46014, Spain.
+(27)UOSD Laboratorio Analisi Venezia, ULSS12 Veneziana, 30121 Venezia, Italy.
+
+By moving essential body fluids and molecules, motile cilia and flagella govern 
+respiratory mucociliary clearance, laterality determination and the transport of 
+gametes and cerebrospinal fluid. Primary ciliary dyskinesia (PCD) is an 
+autosomal recessive disorder frequently caused by non-assembly of dynein arm 
+motors into cilia and flagella axonemes. Before their import into cilia and 
+flagella, multi-subunit axonemal dynein arms are thought to be stabilized and 
+pre-assembled in the cytoplasm through a DNAAF2-DNAAF4-HSP90 complex akin to the 
+HSP90 co-chaperone R2TP complex. Here, we demonstrate that large genomic 
+deletions as well as point mutations involving PIH1D3 are responsible for an 
+X-linked form of PCD causing disruption of early axonemal dynein assembly. We 
+propose that PIH1D3, a protein that emerges as a new player of the cytoplasmic 
+pre-assembly pathway, is part of a complementary conserved R2TP-like HSP90 
+co-chaperone complex, the loss of which affects assembly of a subset of inner 
+arm dyneins.
+
+DOI: 10.1038/ncomms14279
+PMCID: PMC5309803
+PMID: 28176794 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.
+
+
+23. Am J Physiol Lung Cell Mol Physiol. 2017 Feb 1;312(2):L258-L267. doi: 
+10.1152/ajplung.00471.2016. Epub 2016 Dec 15.
+
+BMI-1 extends proliferative potential of human bronchial epithelial cells while 
+retaining their mucociliary differentiation capacity.
+
+Munye MM(1), Shoemark A(2), Hirst RA(3), Delhove JM(1), Sharp TV(4), McKay 
+TR(5), O'Callaghan C(1), Baines DL(6), Howe SJ(1), Hart SL(7).
+
+Author information:
+(1)University College London Great Ormond Street Institute of Child Health, 
+London, United Kingdom.
+(2)Imperial College London, UK Electron Microscopy Department, Royal Brompton 
+and Harefield NHS Foundation Trust, London, United Kingdom.
+(3)Primary Ciliary Dyskinesia Centre Department of Infection, Immunity and 
+Inflammation, University of Leicester, Leicester, United Kingdom.
+(4)Centre for Molecular Oncology, Barts Cancer Institute, Queen Mary University 
+of London, London, United Kingdom.
+(5)School of Healthcare Science, Manchester Metropolitan University, Manchester, 
+United Kingdom; and.
+(6)Institute for Infection and Immunity, St George's, University of London, 
+London, United Kingdom.
+(7)University College London Great Ormond Street Institute of Child Health, 
+London, United Kingdom; s.hart@ucl.ac.uk.
+
+Air-liquid interface (ALI) culture of primary airway epithelial cells enables 
+mucociliary differentiation providing an in vitro model of the human airway, but 
+their proliferative potential is limited. To extend proliferation, these cells 
+were previously transduced with viral oncogenes or mouse Bmi-1 + hTERT, but the 
+resultant cell lines did not undergo mucociliary differentiation. We 
+hypothesized that use of human BMI-1 alone would increase the proliferative 
+potential of bronchial epithelial cells while retaining their mucociliary 
+differentiation potential. Cystic fibrosis (CF) and non-CF bronchial epithelial 
+cells were transduced by lentivirus with BMI-1 and then their morphology, 
+replication kinetics, and karyotype were assessed. When differentiated at ALI, 
+mucin production, ciliary function, and transepithelial electrophysiology were 
+measured. Finally, shRNA knockdown of DNAH5 in BMI-1 cells was used to model 
+primary ciliary dyskinesia (PCD). BMI-1-transduced basal cells showed normal 
+cell morphology, karyotype, and doubling times despite extensive passaging. The 
+cell lines underwent mucociliary differentiation when cultured at ALI with 
+abundant ciliation and production of the gel-forming mucins MUC5AC and MUC5B 
+evident. Cilia displayed a normal beat frequency and 9+2 ultrastructure. 
+Electrophysiological characteristics of BMI-1-transduced cells were similar to 
+those of untransduced cells. shRNA knockdown of DNAH5 in BMI-1 cells produced 
+immotile cilia and absence of DNAH5 in the ciliary axoneme as seen in cells from 
+patients with PCD. BMI-1 delayed senescence in bronchial epithelial cells, 
+increasing their proliferative potential but maintaining mucociliary 
+differentiation at ALI. We have shown these cells are amenable to genetic 
+manipulation and can be used to produce novel disease models for research and 
+dissemination.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/ajplung.00471.2016
+PMCID: PMC5336581
+PMID: 27979861 [Indexed for MEDLINE]
+
+
+24. Rom J Morphol Embryol. 2014;55(2 Suppl):697-701.
+
+Primary ciliary dyskinesia diagnosed by electron microscopy in one case of 
+Kartagener syndrome.
+
+Rugină AL(1), Dimitriu AG, Nistor N, Mihăilă D.
+
+Author information:
+(1)"Grigore T. Popa" University of Medicine and Pharmacy, Iassy, Romania; 
+aniela_virlan@yahoo.com.
+
+Primary ciliary dyskinesia (PCD) is associated with abnormalities in the 
+structure of a function of motile cilia, causing impairment of muco-ciliary 
+clearence, with bacterial overinfection of the upper and lower respiratory tract 
+(chronic oto-sino-pulmonary disease), heterotaxia (situs abnormalities), 
+with/without congenital heart disease, abnormal sperm motility with male 
+infertility, higher frequency of ectopic pregnancy and female subfertility. The 
+presence of recurrent respiratory tract infections in the pediatric age requires 
+differentiation between primary immunodeficiency, diseases with abnormal mucus 
+(e.g., cystic fibrosis) and abnormal ciliary diseases. This case was 
+hospitalized for recurrent respiratory tract infections and total situs inversus 
+at the age of five years, which has enabled the diagnosis of Kartagener 
+syndrome. The PCD confirmation was performed by electron microscopy examination 
+of nasal mucosa cells through which were confirmed dynein arms abnormalities. 
+The diagnosis and early treatment of childhood PCD allows a positive development 
+and a good prognosis, thus improving the quality of life.
+
+PMID: 25178347 [Indexed for MEDLINE]
+
+
+25. Nat Commun. 2014 Jul 22;5:4418. doi: 10.1038/ncomms5418.
+
+MCIDAS mutations result in a mucociliary clearance disorder with reduced 
+generation of multiple motile cilia.
+
+Boon M(1), Wallmeier J(2), Ma L(3), Loges NT(4), Jaspers M(5), Olbrich H(4), 
+Dougherty GW(4), Raidt J(4), Werner C(4), Amirav I(6), Hevroni A(7), Abitbul 
+R(6), Avital A(7), Soferman R(8), Wessels M(9), O'Callaghan C(10), Chung EM(11), 
+Rutman A(12), Hirst RA(12), Moya E(13), Mitchison HM(14), Van Daele S(15), De 
+Boeck K(16), Jorissen M(5), Kintner C(3), Cuppens H(16), Omran H(4).
+
+Author information:
+(1)1] Department of Pediatrics, Pediatric Pulmonology, University Hospital of 
+Leuven, Leuven 3000, Belgium [2].
+(2)1] Department of Pediatrics, University Hospital Muenster, 48149 Muenster, 
+Germany [2].
+(3)Molecular Neurobiology Laboratory, Salk Institute for Biological Studies, San 
+Diego, California 92186, USA.
+(4)Department of Pediatrics, University Hospital Muenster, 48149 Muenster, 
+Germany.
+(5)Department of Otorhinolaryngology, University Hospital Leuven, 3000 Leuven, 
+Belgium.
+(6)Department of Pediatric, Ziv Medical Center, Faculty of Medicine, Bar IIan 
+University, Safed 13100, Israel.
+(7)Institute of Pulmonology, Hadassah-Hebrew University Medical Centers, 
+Jerusalem, Israel 91120.
+(8)Department of Pediatric Pulmonology, Critical Care and Sleep Medicine, Dana 
+Children's Hospital, Tel Aviv Sourasky Medical Center, 6 Weizman Street, Tel 
+Aviv 64239, Israel.
+(9)Department of Clinical Genetics, Erasmus Medical Center, 3000 CA Rotterdam, 
+the Netherlands.
+(10)1] Respiratory, Critical Care and Anaesthesia Unit, Institute of Child 
+Health, University College London, Great Ormond Street Children's Hospital, 30 
+Guilford Street, London WC1N 1EH, UK [2] Centre for PCD Diagnosis and Research, 
+Department of Infection, Immunity and Inflammation, RKCSB, University of 
+Leicester, Leicester LE2 7LX, UK.
+(11)General and Adolescent Paediatric Unit, UCL Institute of Children Health, 
+University College London, 30 Guilford Street, London WC1N 1EH, UK.
+(12)Centre for PCD Diagnosis and Research, Department of Infection, Immunity and 
+Inflammation, RKCSB, University of Leicester, Leicester LE2 7LX, UK.
+(13)Division of Services for Women and Children, Women's and Newborn Unit 
+Bradford Royal Infirmary, University of Bradford, West Yorkshire BD9 6RJ, UK.
+(14)Molecular Medicine Unit, Birth Defects Research Centre, Institute of Child 
+Health, University College London, London WC1N 1EH, UK.
+(15)Department of Pediatrics, Pediatric Pulmonology, University Hospital Ghent, 
+9000 Ghent, Belgium.
+(16)Department of Pediatrics, Pediatric Pulmonology, University Hospital of 
+Leuven, Leuven 3000, Belgium.
+
+Reduced generation of multiple motile cilia (RGMC) is a rare mucociliary 
+clearance disorder. Affected persons suffer from recurrent infections of upper 
+and lower airways because of highly reduced numbers of multiple motile 
+respiratory cilia. Here we report recessive loss-of-function and missense 
+mutations in MCIDAS-encoding Multicilin, which was shown to promote the early 
+steps of multiciliated cell differentiation in Xenopus. MCIDAS mutant 
+respiratory epithelial cells carry only one or two cilia per cell, which lack 
+ciliary motility-related proteins (DNAH5; CCDC39) as seen in primary ciliary 
+dyskinesia. Consistent with this finding, FOXJ1-regulating axonemal motor 
+protein expression is absent in respiratory cells of MCIDAS mutant individuals. 
+CCNO, when mutated known to cause RGMC, is also absent in MCIDAS mutant 
+respiratory cells, consistent with its downstream activity. Thus, our findings 
+identify Multicilin as a key regulator of CCNO/FOXJ1 for human multiciliated 
+cell differentiation, and highlight the 5q11 region containing CCNO and MCIDAS 
+as a locus underlying RGMC.
+
+DOI: 10.1038/ncomms5418
+PMID: 25048963 [Indexed for MEDLINE]
+
+
+26. Gene Ther. 2014 Mar;21(3):253-61. doi: 10.1038/gt.2013.79. Epub 2014 Jan 23.
+
+Restoring ciliary function to differentiated primary ciliary dyskinesia cells 
+with a lentiviral vector.
+
+Ostrowski LE(1), Yin W(1), Patel M(1), Sechelski J(1), Rogers T(1), Burns K(1), 
+Grubb BR(1), Olsen JC(1).
+
+Author information:
+(1)Cystic Fibrosis and Pulmonary Diseases Research and Treatment Center, 
+University of North Carolina, Chapel Hill, NC, USA.
+
+Primary ciliary dyskinesia (PCD) is a genetically heterogenous autosomal 
+recessive disease in which mutations disrupt ciliary function, leading to 
+impaired mucociliary clearance and life-long lung disease. Mouse tracheal cells 
+with a targeted deletion in the axonemal dynein intermediate chain 1 (Dnaic1) 
+gene differentiate normally in culture but lack ciliary activity. Gene transfer 
+to undifferentiated cultures of mouse Dnaic1(-/-) cells with a lentiviral vector 
+pseudotyped with avian influenza hemagglutinin restored Dnaic1 expression and 
+ciliary activity. Importantly, apical treatment of well-differentiated cultures 
+of mouse Dnaic1(-/-) cells with lentiviral vector also restored ciliary 
+activity, demonstrating successful gene transfer from the apical surface. 
+Treatment of Dnaic1(flox/flox) mice expressing an estrogen-responsive Cre 
+recombinase with different doses of tamoxifen indicated that restoration of ∼20% 
+of ciliary activity may be sufficient to prevent the development of 
+rhinosinusitis. However, although administration of a β-galactosidase-expressing 
+vector into control mice demonstrated efficient gene transfer to the nasal 
+epithelium, treatment of Dnaic1(-/-) mice resulted in a low level of gene 
+transfer, demonstrating that the severe rhinitis present in these animals 
+impedes gene transfer. The results demonstrate that gene replacement therapy may 
+be a viable treatment option for PCD, but further improvements in the efficiency 
+of gene transfer are necessary.
+
+DOI: 10.1038/gt.2013.79
+PMCID: PMC4124007
+PMID: 24451115 [Indexed for MEDLINE]
+
+
+27. Am J Hum Genet. 2013 Jan 10;92(1):88-98. doi: 10.1016/j.ajhg.2012.11.002. Epub 
+2012 Dec 20.
+
+Splice-site mutations in the axonemal outer dynein arm docking complex gene 
+CCDC114 cause primary ciliary dyskinesia.
+
+Onoufriadis A(1), Paff T, Antony D, Shoemark A, Micha D, Kuyt B, Schmidts M, 
+Petridi S, Dankert-Roelse JE, Haarman EG, Daniels JM, Emes RD, Wilson R, Hogg C, 
+Scambler PJ, Chung EM; UK10K; Pals G, Mitchison HM.
+
+Author information:
+(1)Molecular Medicine Unit and Birth Defects Research Centre, Institute of Child 
+Health, University College London, London WC1N 1EH, UK.
+
+Comment in
+    Clin Genet. 2013 Jun;83(6):526-7. doi: 10.1111/cge.12127.
+
+Defects in motile cilia and sperm flagella cause primary ciliary dyskinesia 
+(PCD), characterized by chronic airway disease, infertility, and left-right 
+laterality disturbances, usually as a result of loss of the outer dynein arms 
+(ODAs) that power cilia/flagella beating. Here, we identify loss-of-function 
+mutations in CCDC114 causing PCD with laterality malformations involving complex 
+heart defects. CCDC114 is homologous to DCC2, an ODA microtubule-docking complex 
+component of the biflagellate alga Chlamydomonas. We show that CCDC114 localizes 
+along the entire length of human cilia and that its deficiency causes a complete 
+absence of ciliary ODAs, resulting in immotile cilia. Thus, CCDC114 is an 
+essential ciliary protein required for microtubular attachment of ODAs in the 
+axoneme. Fertility is apparently not greatly affected by CCDC114 deficiency, and 
+qPCR shows that this may explained by low transcript expression in testis 
+compared to ciliated respiratory epithelium. One CCDC114 mutation, c.742G>A, 
+dating back to at least the 1400s, presents an important diagnostic and 
+therapeutic target in the isolated Dutch Volendam population.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2012.11.002
+PMCID: PMC3542455
+PMID: 23261303 [Indexed for MEDLINE]
+
+
+28. Expert Rev Respir Med. 2012 Dec;6(6):663-82. doi: 10.1586/ers.12.60.
+
+Primary ciliary dyskinesia: recent advances in epidemiology, diagnosis, 
+management and relationship with the expanding spectrum of ciliopathy.
+
+Bush A(1), Hogg C.
+
+Author information:
+(1)Department of Paediatric Respirology, Imperial School of Medicine at National 
+Heart and Lung Institute, London, UK. a.bush@rbh.nthames.nhs.uk
+
+Human cilia were once thought merely to be important in respiratory mucociliary 
+clearance, with primary ciliary dyskinesia (PCD) the sole manifestation of 
+ciliary dysfunction. There are now known to be three types of cilia: primary, 
+nodal and motile. Cilia are complex, likely involving more than 1000 gene 
+products; in this review, recent advances in PCD genetics, and the potential 
+relationships with genes causing other ciliopathies, are discussed. PCD is the 
+most important respiratory disease, characterized by upper and lower airway 
+infection and inflammation and disorders of laterality. Ciliary gene mutations 
+are now known to cause single organ disease, as well as complex syndromes. The 
+focus of the review is primarily PCD, in the context of the expanding ciliopathy 
+spectrum. The authors consider the clinical situations in which ciliary disease 
+should be considered, and the implications for specialist respiratory practice.
+
+DOI: 10.1586/ers.12.60
+PMID: 23234452 [Indexed for MEDLINE]
+
+
+29. Acta Otorrinolaringol Esp. 2012 Jan-Feb;63(1):1-8. doi: 
+10.1016/j.otorri.2011.07.001. Epub 2011 Sep 9.
+
+Development and validation of a method of cilia motility analysis for the early 
+diagnosis of primary ciliary dyskinesia.
+
+[Article in English, Spanish]
+
+Armengot M(1), Bonet M, Carda C, Gómez MJ, Milara J, Mata M, Cortijo J.
+
+Author information:
+(1)Sección de Rinología, Servicio de Otorrinolaringología, Hospital General 
+Universitario, Universidad de Valencia, Valencia, España. 
+miguel.armengot@gmail.com
+
+BACKGROUND: Primary ciliary dyskinesia (PCD) is a clinically uniform entity, but 
+cilia motility and structure can vary between patients, making the diagnostic 
+difficult. The aim of this study was to evaluate the sensitivity and specificity 
+in diagnosing PCD of a system of high-resolution digital high-speed video 
+analysis with proprietary software that we developed for analysis of ciliary 
+motility (Desinsoft-Bio 200). The secondary aim was to correlate nasal ciliary 
+activity with clinical and structural abnormalities in PCD.
+MATERIAL AND METHODS: We analysed nasal mucociliary transport, cilia 
+ultrastructure, nasal ciliary beat frequency and beat pattern studied by 
+high-resolution digital high-speed video in 25 cases of PCD (11 Kartagener 
+syndrome), 27 secondary ciliary dyskinesia and 34 healthy volunteers.
+RESULTS: Nasal mucociliary transport was defective in both primary and secondary 
+ciliary dyskinesia. Ciliary immotility was observed only in 6 patients with 
+Kartagener syndrome and correlated with the absence of dynein. We observed a 
+correlation between partial dynein deficiencies and ciliary dyskinesia. Cilia 
+activity and structure was normal in secondary ciliary dyskinesia.
+CONCLUSION: Nasal mucociliary transport showed high sensitivity for PCD 
+diagnosis with a low specificity. High-resolution digital high-speed video has a 
+high sensitivity and specificity for diagnosing PCD. This system of video 
+analysis is more useful than ultrastructural study and mucociliary transport for 
+PCD screening. Dynein absence is correlated with cilia immotility and is more 
+common in patients with Kartagener syndrome.
+
+Copyright © 2011 Elsevier España, S.L. All rights reserved.
+
+DOI: 10.1016/j.otorri.2011.07.001
+PMID: 21907944 [Indexed for MEDLINE]
+
+
+30. Przegl Lek. 2010;67(2):135-40.
+
+[Primary ciliary dyskinesia in highlights of consensus statement. Presentation 
+of pediatric cases].
+
+[Article in Polish]
+
+Cichocka-Jarosz E(1), Jedynak-Wasowicz U, Głodzik I, Lis G, Pietrzyk JJ.
+
+Author information:
+(1)Klinika Chorób Dzieci Katedry Pediatrii, Uniwersytetu Jagiellońskiego, 
+Wydziału Lekarskiego. mijarosz@cyf-kr.edu.pl
+
+Cilia are evolutionarily conserved structures that play a role in diverse cell 
+types. Motile cilia are involved in the most prominent ciliopathy called primary 
+ciliary dyskinesia (PCD), which combines oto-sino-pulmonary symptoms (impaired 
+mucociliary clearance that is important innate defense mechanism), male 
+infertility and in nearly 50% cases situs inversus. Disease is usually inherited 
+as autosomal recessive disorder, concerning mainly outer and/or inner dynein 
+arms of cilia. Diagnosis of PCD requires the presence of characteristic clinical 
+phenotype and confirmation the diagnosis by either identification of specific 
+defect in electron microscopy or other evidence of abnormal ciliary function. 
+The diagnosis of PCD may be delayed, missed or made incorrectly. The first ERS 
+consensus statement which formulates recommendations regarding diagnostic as 
+well as therapeutic approaches to children with PCD, is a very helpful tool in 
+the management of this patients. We present our own experience with three 
+children with PCD diagnosed in our Department.
+CONCLUSION: in children with clinical symptoms suggesting PCD, even with 
+negative screening tests, the estimation of specific cilia defect in electron 
+microscopy is indicated.
+
+PMID: 20557016 [Indexed for MEDLINE]
+
+
+31. Semin Respir Crit Care Med. 2003 Dec;24(6):653-62. doi: 10.1055/s-2004-815661.
+
+Primary ciliary dyskinesia.
+
+Leigh MW(1).
+
+Author information:
+(1)Department of Pediatrics, University of North Carolina at Chapel Hill, Chapel 
+Hill, North Carolina 27599-7220, USA. mleigh@med.unc.edu
+
+Primary ciliary dyskinesia (PCD) is an inherited disorder characterized by 
+impaired ciliary function that leads to an array of clinical manifestations 
+including chronic bronchitis, chronic sinusitis, chronic otitis media, situs 
+inversus (in approximately 50% of cases), and infertility. The underlying 
+genetic and molecular defects have not been defined. Molecular genetic studies 
+have demonstrated multiple gene loci. In a few families, defects in genes 
+encoding ciliary dynein proteins have been identified. PCD is an interesting 
+disease to compare with cystic fibrosis (CF) because both are airway diseases 
+associated with impaired mucociliary clearance and with chronic infection of the 
+airways leading to bronchiectasis as well as chronic infection of the sinuses 
+that may be associated with nasal polyposis. The progression of the lower airway 
+disease appears less rapid in PCD. Unlike CF, PCD is commonly associated with 
+chronic otitis media, respiratory problems during the neonatal period, and situs 
+inversus, suggesting that ciliary function is also important for clearing 
+fluid/bacteria from the middle ear, for clearing fluid from the fetal lung 
+during the transition to an air-filled neonatal lung, and for directing 
+laterality of organs during embryonic development. The management for PCD lung 
+disease is similar to that for CF and other diseases with chronic bronchitis 
+leading to bronchiectasis.
+
+DOI: 10.1055/s-2004-815661
+PMID: 16088581
+
+
+32. Rev Mal Respir. 2004 Jun;21(3 Pt 1):521-6. doi: 10.1016/s0761-8425(04)71356-x.
+
+[Molecular basis of the primary ciliary dyskinesias].
+
+[Article in French]
+
+Moore A(1), Amselem S, Duriez B, Escudier E.
+
+Author information:
+(1)Institut National de la Santé et de la Recherche Médicale U492, Faculté de 
+Médecine, Créteil, France.
+
+INTRODUCTION: The primary ciliary dyskinesias (PCD) are rare diseases 
+characterised by infection of the airways due to impaired muco-ciliary 
+clearance. Half the patients have situs inversus making up Kartagener's 
+syndrome.
+STATE OF THE ART: Primary cilia play a role in development. In the adult 
+ciliated cells occur mainly in the airways and the genital tract. The axoneme, 
+the internal structure of the cilia, is made up of a central pair of 
+microtubules surrounded by peripheral doublets carrying the inner and outer 
+dynein arms. These multiprotein complexes are composed of chains of dynein whose 
+ATPase activity is the basis of ciliary movement. Structural and functional 
+abnormalities of the respiratory ciliated cells are the cause of PCD, diseases 
+that are heterogeneous at both the genetic and ultrastructural levels.
+PERSPECTIVES: There are more than two hundred axonemal proteins. The synthesis 
+and assembly of these proteins are controlled by transcription factors and 
+intraflagellar transport molecules respectively. The genes that code for these 
+proteins are as numerous as candidate genes for PCD.
+CONCLUSIONS: To date only two dynein genes, DNA11 and DNAH5, have been 
+implicated and only in individuals suffering from PCD with absence of outer 
+dynein arms.
+
+DOI: 10.1016/s0761-8425(04)71356-x
+PMID: 15292844 [Indexed for MEDLINE]
+
+
+33. Arch Pediatr. 2004 Apr;11(4):390-3. doi: 10.1016/j.arcped.2003.11.030.
+
+[Nasal ciliary investigations for the diagnosis of primary ciliary dyskinesia in 
+children].
+
+[Article in French]
+
+Escudier E(1), Roger G, Coste A.
+
+Author information:
+(1)Département de génétique, cytogénétique et embryologie (biologie de la 
+reproduction), groupe hospitalier Pitié-Salpêtrière, (AP-HP) Paris, France. 
+estelle.escudier@psl.ap-hop-paris.fr
+
+Primary ciliary dyskinesia (PCD) is an autosomal recessive disorder, 
+characterized by chronic infections of the upper and lower airways, associated 
+in 50% of cases with situs inversus, therefore, corresponding to Kartagener's 
+syndrome. PCD is suspected on clinical features, including bronchitis, 
+rhinosinusitis and chronic otitis media beginning in early childhood. The 
+recurring infections eventually lead to bronchiectasis. The clinical features of 
+PCD have been ascribed to primary defects in cilia, which lead to impairment of 
+mucociliary clearance. Ciliary investigations looking for abnormalities in 
+ciliary motion and ultrastructure can be easily performed at nasal level. 
+Quantitative ultrastructural study of cilia is performed in cases of abnormal 
+ciliary motion and/or clinical symptoms highly suggestive of PCD. In PCD, all or 
+most of the cilia are abnormal, all bearing the same ultrastructural defects, 
+mainly concerning dynein arms. In older children, the detection of a very low 
+nasal NO output could also be useful for the diagnosis of PCD. As soon as the 
+ciliary investigations are easy to perform at the nasal level, they could help 
+for a better detection of PCD. This strategy could be especially useful in cases 
+of atypical presentations, which are underestimated as a cause of recurrent 
+airway infections. Diagnosis of PCD is important in order to prevent the 
+development of bronchiectasis and to avoid any unnecessary procedure.
+
+DOI: 10.1016/j.arcped.2003.11.030
+PMID: 15051102 [Indexed for MEDLINE]
+
+
+34. Pediatr Allergy Immunol. 2001 Oct;12(5):274-82. doi: 
+10.1046/j.0905-6157.2001.00000.x.
+
+Primary ciliary dyskinesia: diagnosis in children with inconclusive 
+ultrastructural evaluation.
+
+Pifferi M(1), Cangiotti AM, Ragazzo V, Baldini G, Cinti S, Boner AL.
+
+Author information:
+(1)Department of Pediatrics, University of Pisa, Pisa, Italy. 
+m.pifferi@med.unipi.it
+
+The purpose of this study was to distinguish between acquired and genetically 
+determined ciliary abnormalities in children with severe chronic respiratory 
+diseases. Samples of nasal ciliated epithelium from 50 subjects (25 male, 25 
+female; age-range 2-19 years) with severe chronic respiratory diseases were 
+examined using transmission electron microscopy (TEM). Based on TEM findings, 
+patients were divided into two groups: A and B. Group A comprised 39 children 
+with ciliary alterations compatible with a condition probably occurring 
+secondary to chronic inflammation (alterations of peripheral pairs, swollen 
+cilia, and compound cilia). The other 11 patients, Group B, exhibited a greater 
+number of alterations of the central pair and dynein arms (p< 0.001), which were 
+qualitatively similar to, but less numerous than, those observed in primary 
+ciliary dyskinesia (PCD). In both groups, analysis of ciliary beat frequency and 
+waveform was performed by phase contrast microscopy (PCM). All the children with 
+a ciliary beat frequency of < 7 Hz were treated with daily physiotherapy and 
+with antibiotics, as recommended for PCD, for a 6-month period. After this 
+treatment, the children were reexamined by PCM. Almost 50% of the children from 
+Group B (i.e. those with a small proportion of specific ultrastructural defects) 
+showed permanence of low ciliary beat frequency. This was also observed in two 
+children of Group A. These children were considered to be affected by PCD. Our 
+study describes a method for the diagnosis of PCD in the absence of specific 
+ultrastructural defects or when these defects are present in only a small 
+proportion of the cilia.
+
+DOI: 10.1046/j.0905-6157.2001.00000.x
+PMID: 11737674 [Indexed for MEDLINE]
+
+
+35. Bratisl Lek Listy. 2000;101(6):355-7.
+
+[Primary ciliary dyskinesia--importance of early diagnosis].
+
+[Article in Slovak]
+
+Kapellerova A(1), Mraz P, Kapeller K, Polonyi J, Hornacek D, Klacansky I.
+
+Author information:
+(1)II. detská klinika LFUK a DFN v Bratislave.
+
+BACKGROUND: Primary ciliary dyskinesia (PCD) is an inherited disease 
+characterized by specific ultrastructural defects of cilia and sperms. The 
+impairment of mucociliary clearance (MCC) results in chronic respiratory 
+infections and subsequently in bronchiectasis.
+MAIN PURPOSE: The evaluate rational decisions in early diagnosis of PCD.
+METHODS: Samples of nasal mucosa or tissue of tonsilla pharyngea after adenotomy 
+were studied by transmission electron microscopy (TEM) in 47 patients aged 1-15 
+years, suffering from recurrent or chronic respiratory infections.
+RESULTS: Congenital ultrastructural ciliary defects specific for PCD--the lack 
+of dynein arms, radial spokes defects and microtubular transposition--were 
+observed in 13 patients. TEM investigation is an expansive, time consuming 
+method not available in routine practice. Therefore we have evaluated a 
+diagnostic procedure which uses available examination methods focused on the 
+diagnoses of PCD. TEM of respiratory cilia is indicated in patients with situs 
+viscerum solitus if chronic respiratory disease develops and after more frequent 
+causes--asthma, cystic fibrosis, congenital anomalies of respiratory system and 
+immunodeficiency had been excluded.
+CONCLUSIONS: The correct and early diagnosis is important for effective therapy 
+in order to improve MCC. This approach can prevent the development of 
+bronchiectasis during childhood.
+
+PMID: 11039209 [Indexed for MEDLINE]
+
+
+36. Am J Med Genet. 1999 Jan 15;82(2):155-60. doi: 
+10.1002/(sici)1096-8628(19990115)82:2<155::aid-ajmg11>3.0.co;2-t.
+
+Discordant organ laterality in monozygotic twins with primary ciliary 
+dyskinesia.
+
+Noone PG(1), Bali D, Carson JL, Sannuti A, Gipson CL, Ostrowski LE, Bromberg PA, 
+Boucher RC, Knowles MR.
+
+Author information:
+(1)Department of Medicine, University of North Carolina at Chapel Hill, 
+27599-7249, USA. pnoone@med.unc.edu
+
+Primary ciliary dyskinesia (PCD) is a genetic disease characterized by abnormal 
+ciliary structure and function, impaired mucociliary clearance, and chronic 
+middle ear, sinus, and lung disease. PCD is associated with situs inversus in 
+approximately 50% of the patients. One proposed explanation for this 
+relationship is that normal ciliary function plays a role in normal organ 
+orientation, whereas organ orientation in PCD is a random event because of 
+dysfunctional cilia in early embryonic development. Another hypothesis for the 
+association between PCD and situs inversus is that mutated genes in PCD not only 
+cause defective cilia, but are also linked to the control of organ laterality, 
+such that abnormalities in this molecular pathway result in random left-right 
+asymmetry. We report on a set of monozygotic twin women with PCD. In both 
+patients, deficiency of the inner dynein arms was noted on ciliary 
+ultrastructural analysis, associated with a clinical syndrome of bronchiectasis, 
+chronic sinusitis, and middle ear disease. One of the twins has situs solitus, 
+the other has situs inversus totalis. DNA analysis confirmed that the twins are 
+monozygotic. This is consistent with the hypothesis that situs inversus 
+occurring in patients with primary ciliary dyskinesia is a random but "complete" 
+event in the fetal development of patients with PCD.
+
+DOI: 10.1002/(sici)1096-8628(19990115)82:2<155::aid-ajmg11>3.0.co;2-t
+PMID: 9934981 [Indexed for MEDLINE]

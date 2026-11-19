@@ -1,0 +1,82 @@
+1. Ophthalmic Res. 2012;48 Suppl 1:1-5. doi: 10.1159/000339839. Epub 2012 Aug 21.
+
+In vitro differentiation of adult adipose mesenchymal stem cells into retinal 
+progenitor cells.
+
+Moviglia GA(1), Blasetti N, Zarate JO, Pelayes DE.
+
+Author information:
+(1)Center for Research in Tissue Engineering and Cellular Therapies, Maimónides 
+University, Buenos Aires, Argentina.
+
+Comment in
+    Ophthalmic Res. 2015;53(1):28-9. doi: 10.1159/000365218.
+
+INTRODUCTION: It has been previously shown that adult mesenchymal stem cells 
+(MSCs) differentiate into neural progenitor cells (NPCs) and that the 
+differentiation process was completed in 24-48 h. In this previous study, MSCs 
+from a bone marrow or fat source were co-incubated with homologous 
+autoaggressive cells (ECs) against nerve tissue, and these NPCs were 
+successfully used in human regenerative therapeutic approaches. The present 
+study was conducted to investigate whether a similar differentiation method 
+could be used to obtain autologous retinal progenitor cells (RPCs).
+METHODS: Human Th1 cells against retinal tissue were obtained by challenging 
+human blood mononuclear cells with an eye lysate of bovine origin; negative 
+selection was performed using a specific immunomagnetic bead cocktail. Fat MSCs 
+were obtained from a human donor through mechanical and enzymatic dissociation 
+of a surgical sample. The ECs and MSCs were co-cultured in a serum-free medium 
+without the addition of cytokines for 0, 24, 48 and 72 h. The plastic adherent 
+cells were morphologically examined using inverted-phase microscopy and 
+characterized by immunofluorescent staining using antibodies against Pax 6, 
+TUBB3, GFAP, Bestrophin 2, RPE 65, OPN1 SW, and rhodopsin antigens.
+RESULTS: The early signs of MSC differentiation into RPCs were observed at 24 h 
+of co-culture, and the early differentiated retinal linage cells appeared at 72 
+h (neurons, rods, Müller cells, retinal ganglion cells and retinal pigmented 
+epithelial cells). These changes increased during further culture.
+CONCLUSION: The results reported here support the development of a method to 
+obtain a large number of autologous adult RPCs, which could be used to treat 
+different retinopathies.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+DOI: 10.1159/000339839
+PMID: 22907142 [Indexed for MEDLINE]
+
+
+2. Pflugers Arch. 2012 Mar;463(3):497-509. doi: 10.1007/s00424-011-1064-9. Epub 
+2011 Dec 15.
+
+Allergic sensitization enhances anion current responsiveness of murine trachea 
+to PAR-2 activation.
+
+Rievaj J(1), Davidson C, Nadeem A, Hollenberg M, Duszyk M, Vliagoftis H.
+
+Author information:
+(1)Pulmonary Research Group, Department of Medicine, University of Alberta, 550 
+Heritage Medical Research Center, Edmonton, Alberta, Canada.
+
+Protease-activated receptor 2 (PAR-2) is a G protein-coupled receptor possibly 
+involved in the pathogenesis of asthma. PAR-2 also modulates ion transport in 
+cultured epithelial cells, but these effects in native airways are 
+controversial. The influence of allergic inflammation on PAR-2-induced changes 
+in ion transport has received little attention. Here, we studied immediate 
+changes in transepithelial short circuit current (I (sc)) induced by PAR-2 
+activation in the tracheas of naive and allergic mice. Activation of PAR-2 with 
+an apically added activation peptide (AP) induced a small increase in I (sc), 
+while a much larger increase was observed following basolateral AP addition. In 
+ovalbumin-sensitized and -challenged animals used as a model of allergic airway 
+inflammation, the effect of basolateral AP addition was enhanced. Responses to 
+basolateral AP in both naive and allergic mice were not decreased by blocking 
+sodium absorption with amiloride or CFTR function with CFTR(inh)172 but were 
+reduced by the cyclooxygenase inhibitor indomethacin and largely blocked (>80%) 
+by niflumic acid, a calcium-activated chloride channels' (CaCC) blocker. 
+Allergic mice also showed an enhanced response to ATP and thapsigargin. There 
+was no change in mRNA expression of Par-2 or of the chloride channels Ano1 
+(Tmem16a) and Bestrophin 2 in tracheas from allergic mice, while mRNA levels of 
+Bestrophin 1 were increased. In conclusion, basolateral PAR-2 activation in the 
+mouse airways led to increased anion secretion through apical CaCC, which was 
+more pronounced in allergic animals. This could be a protective mechanism aimed 
+at clearing allergens and defending against mucus plugging.
+
+DOI: 10.1007/s00424-011-1064-9
+PMID: 22170096 [Indexed for MEDLINE]

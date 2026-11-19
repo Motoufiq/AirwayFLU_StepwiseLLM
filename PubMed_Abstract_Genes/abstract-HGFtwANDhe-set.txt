@@ -1,0 +1,1885 @@
+1. Invest Ophthalmol Vis Sci. 2023 Mar 1;64(3):15. doi: 10.1167/iovs.64.3.15.
+
+Proposed Mechanism of Long-Term Intraocular Pressure Lowering With the 
+Bimatoprost Implant.
+
+Stamer WD(1), Perkumas KM(1), Kang MH(2), Dibas M(3), Robinson MR(3), Rhee 
+DJ(2).
+
+Author information:
+(1)Department of Ophthalmology, Duke University, Durham, North Carolina, United 
+States.
+(2)Department of Ophthalmology & Visual Sciences, University Hospitals, Case 
+Western Reserve University, Cleveland, Ohio, United States.
+(3)Allergan, an AbbVie company, Irvine, California, United States.
+
+PURPOSE: The purpose of this study was to evaluate the effects of 
+pharmacologically relevant bimatoprost and bimatoprost free acid (BFA) 
+concentrations on matrix metalloproteinase (MMP) gene expression in cells from 
+human aqueous outflow tissues.
+METHODS: MMP gene expression by human trabecular meshwork (TM), scleral 
+fibroblast (SF), and ciliary muscle (CM) cells exposed to 10 to 1000 µM 
+bimatoprost or 0.1 to 10 µM BFA (intraocular concentrations after intracameral 
+bimatoprost implant and topical bimatoprost dosing, respectively) was measured 
+by polymerase chain reaction array.
+RESULTS: Bimatoprost dose-dependently upregulated MMP1 and MMP14 mRNA in all 
+cell types and MMP10 and MMP11 mRNA in TM and CM cells; in TM cells from normal 
+eyes, mean MMP1 mRNA levels were 62.9-fold control levels at 1000 µM 
+bimatoprost. BFA upregulated MMP1 mRNA only in TM and SF cells, to two- to 
+three-fold control levels. The largest changes in extracellular matrix 
+(ECM)-related gene expression by TM cells derived from normal (n = 6) or primary 
+open-angle glaucoma (n = 3) eyes occurred with 1000 µM bimatoprost 
+(statistically significant, ≥50% change for 9-11 of 84 genes on the array, 
+versus 1 gene with 10 µM BFA).
+CONCLUSIONS: Bimatoprost and BFA had differential effects on MMP/ECM gene 
+expression. Dramatic upregulation in MMP1 and downregulation of fibronectin, 
+which occurred only with bimatoprost at high concentrations observed in 
+bimatoprost implant-treated eyes, may promote sustained outflow tissue 
+remodeling and long-term intraocular pressure reduction beyond the duration of 
+intraocular drug bioavailability. Variability in bimatoprost-stimulated MMP 
+upregulation among cell strains from different donors may help explain 
+differential long-term responses of patients to bimatoprost implant.
+
+DOI: 10.1167/iovs.64.3.15
+PMCID: PMC10007903
+PMID: 36877514 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: W.D. Stamer, Allergan (an AbbVie 
+company) (C, F), Broadwing Bio (C), Exhaura (C), Glauconix (C), the National Eye 
+Institute (F), Qlaris (C), and The Brightfocus Foundation (F); K.M. Perkumas, 
+None; M.H. Kang, None; M. Dibas, AbbVie Inc. (E); M.R. Robinson, AbbVie Inc. 
+(E); D.J. Rhee, Aerie Pharmaceuticals (C), Allergan (an AbbVie company) (F), 
+Glaukos (F), Alcon (C, F)
+
+
+2. Regen Ther. 2022 May 16;20:165-186. doi: 10.1016/j.reth.2022.04.008. eCollection 
+2022 Jun.
+
+Critical roles of FGF, RA, and WNT signalling in the development of the human 
+otic placode and subsequent lineages in a dish.
+
+Saeki T(1), Yoshimatsu S(1), Ishikawa M(1), Hon CC(2)(3), Koya I(3), Shibata 
+S(1)(4)(5), Hosoya M(6), Saegusa C(6)(7), Ogawa K(6), Shin JW(2)(3), Fujioka 
+M(6)(7), Okano H(1).
+
+Author information:
+(1)Department of Physiology, Keio University School of Medicine, 35 Shinanomachi 
+Shinjuku-ku, Tokyo 160-8582, Japan.
+(2)RIKEN Center for Life Science Technologies, Division of Genomic Technologies, 
+1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, Kanagawa 230-0045, Japan.
+(3)RIKEN Center for Integrative Medical Sciences, 1-7-22 Suehiro-cho, 
+Tsurumi-ku, Yokohama, Kanagawa 230-0045, Japan.
+(4)Electron Microscope Laboratory, Keio University School of Medicine, 35 
+Shinanomachi Shinjuku-ku, Tokyo 160-8582, Japan.
+(5)Division of Microscopic Anatomy, Graduate School of Medical and Dental 
+Sciences, Niigata University, 1-7587 Asahimachi- Dori, Chuo-ku, Niigata City, 
+Niigata 951-8510, Japan.
+(6)Department of Otorhinolaryngology, Head and Neck Surgery, Keio University 
+School of Medicine, 35 Shinanomachi Shinjuku-ku, Tokyo 160-8582, Japan.
+(7)Department of Molecular Genetics, Kitasato University School of Medicine, 
+1-15-1, Kitasato, Minami-ku, Sagamihara, Kanagawa, 252-0374, Japan.
+
+INTRODUCTION: Efficient induction of the otic placode, the developmental origin 
+of the inner ear from human pluripotent stem cells (hPSCs), provides a robust 
+platform for otic development and sensorineural hearing loss modelling. 
+Nevertheless, there remains a limited capacity of otic lineage specification 
+from hPSCs by stepwise differentiation methods, since the critical factors for 
+successful otic cell differentiation have not been thoroughly investigated. In 
+this study, we developed a novel differentiation system involving the use of a 
+three-dimensional (3D) floating culture with signalling factors for generating 
+otic cell lineages via stepwise differentiation of hPSCs.
+METHODS: We differentiated hPSCs into preplacodal cells under a two-dimensional 
+(2D) monolayer culture. Then, we transferred the induced preplacodal cells into 
+a 3D floating culture under the control of the fibroblast growth factor (FGF), 
+bone morphogenetic protein (BMP), retinoic acid (RA) and WNT signalling 
+pathways. We evaluated the characteristics of the induced cells using 
+immunocytochemistry, quantitative PCR (qPCR), population averaging, and 
+single-cell RNA-seq (RNA-seq) analysis. We further investigated the methods for 
+differentiating otic progenitors towards hair cells by overexpression of defined 
+transcription factors.
+RESULTS: We demonstrated that hPSC-derived preplacodal cells acquired the 
+potential to differentiate into posterior placodal cells in 3D floating culture 
+with FGF2 and RA. Subsequent activation of WNT signalling induced otic placodal 
+cell formation. By single-cell RNA-seq (scRNA-seq) analysis, we identified 
+multiple clusters of otic placode- and otocyst marker-positive cells in the 
+induced spheres. Moreover, the induced otic cells showed the potential to 
+generate hair cell-like cells by overexpression of the transcription factors 
+ATOH1, POU4F3 and GFI1.
+CONCLUSIONS: We demonstrated the critical role of FGF2, RA and WNT signalling in 
+a 3D environment for the in vitro differentiation of otic lineage cells from 
+hPSCs. The induced otic cells had the capacity to differentiate into inner ear 
+hair cells with stereociliary bundles and tip link-like structures. The protocol 
+will be useful for in vitro disease modelling of sensorineural hearing loss and 
+human inner ear development and thus contribute to drug screening and stem 
+cell-based regenerative medicine.
+
+© 2022 The Japanese Society for Regenerative Medicine. Production and hosting by 
+Elsevier B.V.
+
+DOI: 10.1016/j.reth.2022.04.008
+PMCID: PMC9114627
+PMID: 35620640
+
+Conflict of interest statement: H.O. is a founding scientist and scientific 
+advisor of SanBio Co. Ltd. and K Pharma Inc. M.H., K.O. and M.F. are co-founders 
+of Otolink Inc. The other authors indicate no potential conflicts of interest.
+
+
+3. Int J Mol Sci. 2022 Jan 27;23(3):1448. doi: 10.3390/ijms23031448.
+
+Pleiotropic, Unique and Shared Responses Elicited by IL-6 Family Cytokines in 
+Human Vascular Endothelial Cells.
+
+Lindkvist M(1), Zegeye MM(1), Grenegård M(1), Ljungberg LU(1).
+
+Author information:
+(1)Cardiovascular Research Centre (CVRC), School of Medical Sciences, Örebro 
+University, 70362 Örebro, Sweden.
+
+Vascular endothelial cells express glycoprotein 130 (gp130), which is utilized 
+as a signaling receptor by cytokines in the interleukin-6 (IL-6) family. Several 
+IL-6 family cytokines can be found in the circulatory system during 
+physiological or pathological conditions, and may influence endothelial function 
+and response. This study evaluated and compared the cellular and molecular 
+responses induced by IL-6 family cytokines in human endothelial cells. A 
+proteomic analysis showed that IL-6 family cytokines induce the release of a 
+range of proteins from endothelial cells, such as C-C motif chemokine ligand 23, 
+hepatocyte growth factor, and IL-6. Pathway analysis indicated that 
+gp130-signaling in endothelial cells regulates several functions related to 
+angiogenesis and immune cell recruitment. The present investigation also 
+disclosed differences and similarities between different IL-6 family cytokines 
+in their ability to induce protein release and regulate gene expression and 
+intracellular signaling, in regards to which oncostatin M showed the most 
+pronounced effect. Further, this study showed that soluble gp130 preferentially 
+blocks trans-signaling-induced responses, but does not affect responses induced 
+by classic signaling. In conclusion, IL-6 family cytokines induce both specific 
+and overlapping molecular responses in endothelial cells, and regulate genes and 
+proteins involved in angiogenesis and immune cell recruitment.
+
+DOI: 10.3390/ijms23031448
+PMCID: PMC8836206
+PMID: 35163371 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Ocul Oncol Pathol. 2021 Dec;7(6):418-427. doi: 10.1159/000519177. Epub 2021 Aug 
+26.
+
+Uveal Melanoma and Paraneoplastic Perivascular Dermal Melanocytic Proliferation 
+in the Setting of Bilateral Diffuse Uveal Melanocytic Proliferation: The 
+Potential Role of the Hepatocyte Growth Factor/c-Met Axis in Their Pathogenesis.
+
+Mudhar HS(1), Bata BM(2)(3), Quhill H(2), Milman T(4), Salvi SM(2).
+
+Author information:
+(1)National Specialist Ophthalmic Pathology Service (NSOPS), Department of 
+Histopathology, E-Floor, Royal Hallamshire Hospital, Sheffield, United Kingdom.
+(2)Sheffield Ocular Oncology Service, Department of Ophthalmology, Royal 
+Hallamshire Hospital, Sheffield, United Kingdom.
+(3)Department of Ophthalmology and Visual Sciences, Dalhousie University, 
+Halifax, Nova Scotia, Canada.
+(4)Department of Pathology, Wills Eye Hospital, Sidney Kimmel Medical College of 
+Thomas Jefferson University, Philadelphia, Pennsylvania, USA.
+
+Two patients, with non-small cell lung carcinoma treated with pembrolizumab, 
+developed bilateral diffuse uveal melanocytic proliferation (BDUMP) with 
+interesting histopathological features. The first patient developed a right 
+ciliary body mass concurrently with BDUMP. The globe was enucleated. The ciliary 
+body mass was a mitotically active epithelioid uveal melanoma, invading the 
+trabecular meshwork and peripheral corneal stroma, with over 90% of the cells 
+expressing Cyclin D1 protein. The melanoma showed no chromosome 3 or 8 changes. 
+The background uvea showed diffuse, bland spindle cell melanocytic proliferation 
+with much lower Cyclin D1 expression (around 10%). In the choroid, this 
+population was punctuated by islands of pigmented epithelioid cells, some of 
+which were necrotic. All these islands expressed a high level of Cyclin D1, and 
+some islands expressed nuclear preferentially expressed antigen in melanoma 
+(PRAME). The ciliary body mass, epithelioid cell islands, and the BDUMP all 
+expressed c-Met (the receptor for hepatocyte growth factor [HGF]). The features 
+were those of ciliary body melanoma and choroidal melanoma "tumorlets," 
+developing on a background of BDUMP. The second patient developed bilateral 
+periocular skin pigmentation following a diagnosis of BDUMP, which when 
+biopsied, showed dermal islands of paraneoplastic perivascular melanocytic cell 
+proliferation. These cells also expressed c-Met protein. These observations 
+implicate the HGF/c-Met axis in the pathogenesis of BDUMP, the uveal melanomas 
+in the ciliary body and choroid in the first patient and the paraneoplastic 
+dermal melanocytic proliferation in the second patient.
+
+Copyright © 2021 by S. Karger AG, Basel.
+
+DOI: 10.1159/000519177
+PMCID: PMC8740289
+PMID: 35087819
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+5. PLoS Pathog. 2021 Nov 8;17(11):e1010069. doi: 10.1371/journal.ppat.1010069. 
+eCollection 2021 Nov.
+
+Suppression of inflammatory arthritis by the parasitic worm product ES-62 is 
+associated with epigenetic changes in synovial fibroblasts.
+
+Corbet M(1), Pineda MA(1), Yang K(1), Tarafdar A(1), McGrath S(1), Nakagawa 
+R(2), Lumb FE(3), Suckling CJ(4), Harnett W(3), Harnett MM(1).
+
+Author information:
+(1)Institute of Infection, Immunity and Inflammation, University of Glasgow, 
+Glasgow, United Kingdom.
+(2)Immunity and Cancer, Francis Crick Institute, London, United Kingdom.
+(3)Strathclyde Institute of Pharmacy and Biomedical Sciences, University of 
+Strathclyde, Glasgow, United Kingdom.
+(4)Department of Pure and Applied Chemistry, University of Strathclyde, Glasgow, 
+United Kingdom.
+
+ES-62 is the major secreted protein of the parasitic filarial nematode, 
+Acanthocheilonema viteae. The molecule exists as a large tetramer (MW, ~240kD), 
+which possesses immunomodulatory properties by virtue of multiple 
+phosphorylcholine (PC) moieties attached to N-type glycans. By suppressing 
+inflammatory immune responses, ES-62 can prevent disease development in certain 
+mouse models of allergic and autoimmune conditions, including joint pathology in 
+collagen-induced arthritis (CIA), a model of rheumatoid arthritis (RA). Such 
+protection is associated with functional suppression of "pathogenic" 
+hyper-responsive synovial fibroblasts (SFs), which exhibit an aggressive 
+inflammatory and bone-damaging phenotype induced by their epigenetic rewiring in 
+response to the inflammatory microenvironment of the arthritic joint. 
+Critically, exposure to ES-62 in vivo induces a stably-imprinted CIA-SF 
+phenotype that exhibits functional responses more typical of healthy, Naïve-SFs. 
+Consistent with this, ES-62 "rewiring" of SFs away from the hyper-responsive 
+phenotype is associated with suppression of ERK activation, STAT3 activation and 
+miR-155 upregulation, signals widely associated with SF pathogenesis. 
+Surprisingly however, DNA methylome analysis of Naïve-, CIA- and ES-62-CIA-SF 
+cohorts reveals that rather than simply preventing pathogenic rewiring of SFs, 
+ES-62 induces further changes in DNA methylation under the inflammatory 
+conditions pertaining in the inflamed joint, including targeting genes 
+associated with ciliogenesis, to programme a novel "resolving" CIA-SF phenotype. 
+In addition to introducing a previously unsuspected aspect of ES-62's mechanism 
+of action, such unique behaviour signposts the potential for developing DNA 
+methylation signatures predictive of pathogenesis and its resolution and hence, 
+candidate mechanisms by which novel therapeutic interventions could prevent SFs 
+from perpetuating joint inflammation and destruction in RA. Pertinent to these 
+translational aspects of ES-62-behavior, small molecule analogues (SMAs) based 
+on ES-62's active PC-moieties mimic the rewiring of SFs as well as the 
+protection against joint disease in CIA afforded by the parasitic worm product.
+
+DOI: 10.1371/journal.ppat.1010069
+PMCID: PMC8601611
+PMID: 34748611 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+6. Resuscitation. 2021 Oct;167:307-316. doi: 10.1016/j.resuscitation.2021.07.007. 
+Epub 2021 Jul 14.
+
+An exploratory assessment of serum biomarkers of post-cardiac arrest syndrome in 
+children.
+
+Kernan KF(1), Berger RP(2), Clark RSB(3), Scott Watson R(4), Angus DC(5), 
+Panigrahy A(6), Callaway CW(7), Bell MJ(8), Kochanek PM(3), Fink EL(3), Simon 
+DW(9).
+
+Author information:
+(1)Critical Care Medicine UPMC Children's Hospital of Pittsburgh, Pittsburgh, PA 
+15224, United States; Children's Neuroscience Institute, University of 
+Pittsburgh, Pittsburgh, PA, United States.
+(2)Safar Center for Resuscitation Research, University of Pittsburgh School of 
+Medicine, Pittsburgh, PA, United States; Pediatrics, UPMC Children's Hospital of 
+Pittsburgh, Pittsburgh, PA 15224, United States.
+(3)Critical Care Medicine UPMC Children's Hospital of Pittsburgh, Pittsburgh, PA 
+15224, United States; Safar Center for Resuscitation Research, University of 
+Pittsburgh School of Medicine, Pittsburgh, PA, United States; Children's 
+Neuroscience Institute, University of Pittsburgh, Pittsburgh, PA, United States.
+(4)Department of Pediatrics, University of Washington School of Medicine, 
+Seattle, WA, United States; Center for Child Health, Behavior, and Development, 
+Seattle Children's Research Institute, Seattle, WA, United States.
+(5)Critical Care Medicine, University of Pittsburgh Medical Center, Pittsburgh, 
+PA 15261, United States.
+(6)Radiology, UPMC Children's Hospital of Pittsburgh, Pittsburgh, PA 15224, 
+United States.
+(7)Emergency Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA 
+15261, United States; Safar Center for Resuscitation Research, University of 
+Pittsburgh School of Medicine, Pittsburgh, PA, United States.
+(8)Division of Pediatric Critical Care Medicine, Children's National Hospital, 
+Washington, DC, United States.
+(9)Critical Care Medicine UPMC Children's Hospital of Pittsburgh, Pittsburgh, PA 
+15224, United States; Safar Center for Resuscitation Research, University of 
+Pittsburgh School of Medicine, Pittsburgh, PA, United States; Children's 
+Neuroscience Institute, University of Pittsburgh, Pittsburgh, PA, United States. 
+Electronic address: simondw2@upmc.edu.
+
+Comment in
+    Resuscitation. 2021 Oct;167:405-406. doi: 
+10.1016/j.resuscitation.2021.08.006.
+
+AIM: We hypothesized that serum biomarkers of inflammation including chemokine, 
+cytokine, pituitary hormones, and growth factors following cardiac arrest in 
+children would independently associate with 6-month neurologic outcome.
+METHODS: In this prospective observational single center study of children with 
+in-hospital and out-of-hospital cardiac arrest surviving to intensive care unit 
+admission, serum was obtained twice per 24 h period between 0 h and 96 h and 
+once at approximately 196 h post-cardiac arrest. Inflammatory mediators, 
+hormones, and growth factors were analyzed by Luminex Multiplex Bead 
+Immunoassay. We recorded demographics, resuscitation characteristics, and 
+Pediatric Cerebral Performance Category (PCPC) at 6 months. We analyzed the 
+association and area under the curve (AUC) of biomarker levels with favorable 
+(PCPC 1-3) or unfavorable (PCPC 4-6, or >1 increase from baseline) outcome.
+RESULTS: Forty-two children (50% female; median age of 2.5 [IQR: 0.4-10.2]) were 
+enrolled and 18 (42%) died prior to 6-month follow up. Receiver operator curves 
+for initial levels of ciliary neurotrophic factor (CNTF, AUC 0.84, 95% CI 
+0.73-0.96, p < 0.001) and interleukin (IL-17, AUC 0.84, 95% CI 0.73-0.97, 
+p < 0.001) best classified favorable versus unfavorable 6-month outcome. In 
+multivariable analysis, initial levels of CNTF and IL-17 remained associated 
+with 6-month PCPC. Peak levels of interferon-γ-inducible protein 10 (IP-10), 
+CNTF, and hepatocyte growth factor (HGF) were also independently associated with 
+outcome.
+CONCLUSION: Increased serum concentrations of CNTF and IL-17 associated with 
+unfavorable 6-month neurologic outcome of children surviving cardiac arrest. 
+Further investigation of the prognostic utility and roles of CNTF and IL-17 in 
+the pathophysiology of post-cardiac arrest syndrome are warranted. This project 
+is registered with clinicaltrials.gov (NCT00797680) as "Duration of Hypothermia 
+for Neuroprotection after Pediatric Cardiac Arrest: A Randomized, Controlled 
+Trial".
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.resuscitation.2021.07.007
+PMCID: PMC8819629
+PMID: 34271122 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST None
+
+
+7. Biochim Biophys Acta Gen Subj. 2020 Apr;1864(4):129540. doi: 
+10.1016/j.bbagen.2020.129540. Epub 2020 Jan 21.
+
+A novel neuronal organoid model mimicking glioblastoma (GBM) features from 
+induced pluripotent stem cells (iPSC).
+
+Hwang JW(1), Loisel-Duwattez J(2), Desterke C(1), Latsis T(1), Pagliaro S(1), 
+Griscelli F(1), Bennaceur-Griscelli A(3), Turhan AG(4).
+
+Author information:
+(1)INSERM UMR-S 935, Université Paris Sud, 94800 Villejuif, France; ESTeam Paris 
+Sud, Université Paris Sud, 94800 Villejuif, France.
+(2)INSERM U1195, Université Paris Sud, Faculté de Médecine, APHP, Service de 
+Neurologie, Bicêtre Hospital, 94276 le Kremlin Bicêtre, France.
+(3)INSERM UMR-S 935, Université Paris Sud, 94800 Villejuif, France.
+(4)INSERM UMR-S 935, Université Paris Sud, 94800 Villejuif, France; INGESTEM 
+National IPSC Infrastructure, 94800 Villejuif, France; Division of Hematology, 
+Paris Sud University Hospitals, Le Kremlin Bicêtre 75006, Villejuif 94800, 
+France; ESTeam Paris Sud, Université Paris Sud, 94800 Villejuif, France. 
+Electronic address: turviv33@gmail.com.
+
+BACKGROUND: Current experimental models using either human or mouse cell lines, 
+are not representative of the complex features of GBM. In particular, there is 
+no model to study patient-derived iPSCs to generate a GBM model. Overexpression 
+of c-met gene is one of the molecular features of GBM leading to increased 
+signaling via STAT3 phosphorylation. We generated an iPSC line from a patient 
+with c-met mutation and we asked whether we could use it to generate 
+neuronal-like organoids mimicking features of GBM.
+METHODS: We have generated iPSC-aggregates differentiating towards organoids. We 
+analyzed them by gene expression profiling, immunostaining and transmission 
+electronic microscopy analyses (TEM).
+RESULTS: Herein we describe that c-met-mutated iPSC aggregates spontaneously 
+differentiate into dopaminergic neurons more rapidly than control iPSC 
+aggregates in culture. Gene expression profiling of c-met-mutated iPSC 
+aggregates at day +90 showed neuronal- and GBM-related genes, reproducing a 
+genomic network described in primary human GBM. Comparative TEM analyses 
+confirmed the enrichment of these structures in intermediate filaments and 
+abnormal cilia, a feature described in human GBM. The c-met-mutated iPSC-derived 
+organoids, as compared to controls expressed high levels of glial fibrillary 
+acidic protein (GFAP), which is a typical marker of human GBM, as well as high 
+levels of phospho-MET and phospho-STAT3. The use of temozolomide (TMZ) showed a 
+preferential cytotoxicity of this drug in c-met-mutated neuronal-like organoids.
+GENERAL SIGNIFICANCE: This study shows the feasibility of generating "off-the 
+shelf" neuronal-like organoid model mimicking GBM using c-met-mutated iPSC 
+aggregates and its potential future use in research.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbagen.2020.129540
+PMID: 31978452 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflicts of interest.
+
+
+8. Biochem Pharmacol. 2020 Apr;174:113812. doi: 10.1016/j.bcp.2020.113812. Epub 
+2020 Jan 16.
+
+HGF induces protective effects in α-naphthylisothiocyanate-induced intrahepatic 
+cholestasis by counteracting oxidative stress.
+
+Salas-Silva S(1), Simoni-Nieves A(1), Razori MV(2), López-Ramirez J(1), 
+Barrera-Chimal J(3), Lazzarini R(4), Bello O(5), Souza V(6), Miranda-Labra 
+RU(6), Gutiérrez-Ruiz MC(6), Gomez-Quiroz LE(6), Roma MG(7), Bucio-Ortiz L(8).
+
+Author information:
+(1)Posgrado en Biología Experimental, DCBS, Universidad Autónoma 
+Metrolitana-Iztapalapa, Ciudad de México, Mexico; Departmento de Ciencias de la 
+Salud, Universidad Autónoma Metropolitana, Unidad Iztapalapa, Ciudad de México, 
+Mexico.
+(2)Instituto de Fisiología Experimental, Facultad de Ciencias Bioquímicas y 
+Farmacéuticas, Universidad de Rosario, Argentina.
+(3)Departmento de Medicina Genómica y Toxicología Ambiental, Instituto de 
+Investigaciones Biomédicas, Universidad Nacional Autónoma de México, Ciudad de 
+México, Mexico; Unidad de Medicina Traslacional, Instituto Nacional de 
+Cardiología Ignacio Chávez, Ciudad de México, Mexico.
+(4)Departamento de Biología de la Reproducción, Universidad Autónoma 
+Metropolitana, Ciudad de México, Mexico.
+(5)Posgrado en Biología Experimental, DCBS, Universidad Autónoma 
+Metrolitana-Iztapalapa, Ciudad de México, Mexico.
+(6)Departmento de Ciencias de la Salud, Universidad Autónoma Metropolitana, 
+Unidad Iztapalapa, Ciudad de México, Mexico; Unidad de Medicina Traslacional, 
+Instituto Nacional de Cardiología Ignacio Chávez, Ciudad de México, Mexico.
+(7)Instituto de Fisiología Experimental, Facultad de Ciencias Bioquímicas y 
+Farmacéuticas, Universidad de Rosario, Argentina. Electronic address: 
+mroma@fbioyf.unr.edu.ar.
+(8)Departmento de Ciencias de la Salud, Universidad Autónoma Metropolitana, 
+Unidad Iztapalapa, Ciudad de México, Mexico; Unidad de Medicina Traslacional, 
+Instituto Nacional de Cardiología Ignacio Chávez, Ciudad de México, Mexico. 
+Electronic address: lebo@xanum.uam.mx.
+
+Cholestasis is a clinical syndrome common to a large number of hepatopathies, in 
+which either bile production or its transit through the biliary tract is 
+impaired due to functional or obstructive causes; the consequent intracellular 
+retention of toxic biliary constituents generates parenchyma damage, largely via 
+oxidative stress-mediated mechanisms. Hepatocyte growth factor (HGF) and its 
+receptor c-Met represent one of the main systems for liver repair damage and 
+defense against hepatotoxic factors, leading to an antioxidant and repair 
+response. In this study, we evaluated the capability of HGF to counteract the 
+damage caused by the model cholestatic agent, α-naphthyl isothiocyanate (ANIT). 
+HGF had clear anti-cholestatic effects, as apparent from the improvement in both 
+bile flow and liver function test. Histology examination revealed a significant 
+reduction of injured areas. HGF also preserved the tight-junctional structure. 
+These anticholestatic effects were associated with the induction of basolateral 
+efflux ABC transporters, which facilitates extrusion of toxic biliary compounds 
+and its further alternative depuration via urine. The biliary epithelium seems 
+to have been also preserved, as suggested by normalization in serum GGT levels, 
+CFTR expression and cholangyocyte primary cilium structure our results clearly 
+show for the first time that HGF protects the liver from a cholestatic injury.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2020.113812
+PMID: 31954718 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+9. Front Pharmacol. 2019 Dec 19;10:1422. doi: 10.3389/fphar.2019.01422. eCollection 
+2019.
+
+Suhuang Antitussive Capsules-Ameliorative Effects on LPS-Induced Sputum 
+Obstruction in Mice Through Promoting HGF Secretion.
+
+Tong X(1), Liang R(1), Jia Y(2)(3), Qin W(1), Guo C(1), Wu X(1), Wang Z(1), Chen 
+D(2), Tan N(1).
+
+Author information:
+(1)State Key Laboratory of Natural Medicines, Department of TCMs 
+Pharmaceuticals, School of Traditional Chinese Pharmacy, China Pharmaceutical 
+University, Nanjing, China.
+(2)Yangtze River Pharmaceutical Group Beijing Haiyan Pharmaceutical Co., Ltd., 
+Beijing, China.
+(3)Beijing University of Chemical Technology, Beijing, China.
+
+Sputum obstruction is one of common cough complications, which is tightly 
+associated with airway inflammation. Suhuang antitussive capsule (SH Capsule), a 
+classic traditional Chinese medicine prescription, has been used for the 
+treatment of post-cold cough and cough variant asthma in the long clinical 
+application. This study aims to investigate the effects and underlying 
+mechanisms of SH Capsule on LPS-induced sputum obstruction in mice. The results 
+showed that SH Capsule effectively promoted the tracheal phenol red output and 
+mucociliary clearance. SH Capsule also alleviated airway inflammation-mediated 
+mucin 5AC (MUC5AC) level through EGFR-ERK signaling. A further in vivo analysis 
+showed that HGF inhibitor SU11274 abrogated the effects of SH Capsule on MUC5AC, 
+well demonstrating that HGF was required for the beneficial effects of SH 
+Capsule on expectoration in vivo. Moreover, SH Capsule promoted HGF secretion in 
+a colon-dependent manner, which reached lung tissues via blood circulation. 
+Collectively, this study provided new pharmacological data for clinical use of 
+SH Capsule, and proposed a novel mechanism by which SH Capsule was 
+pharmacologically promising for treating sputum obstruction.
+
+Copyright © 2019 Tong, Liang, Jia, Qin, Guo, Wu, Wang, Chen and Tan.
+
+DOI: 10.3389/fphar.2019.01422
+PMCID: PMC6930918
+PMID: 31920638
+
+
+10. Neural Regen Res. 2020 Mar;15(3):503-511. doi: 10.4103/1673-5374.266062.
+
+Protein microarray analysis of cytokine expression changes in distal stumps 
+after sciatic nerve transection.
+
+Cheng XQ(1), Liang XZ(2), Wei S(1), Ding X(1), Han GH(1), Liu P(1), Sun X(1), 
+Quan Q(1), Tang H(1), Zhao Q(1), Shang AJ(3), Peng J(4).
+
+Author information:
+(1)Beijing Key Laboratory of Regenerative Medicine in Orthopedics, Institute of 
+Orthopedics, Chinese PLA General Hospital, Beijing, China.
+(2)Beijing Key Laboratory of Regenerative Medicine in Orthopedics, Institute of 
+Orthopedics, Chinese PLA General Hospital, Beijing; The First Clinical Medical 
+College, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 
+Province, China.
+(3)Co-innovation Center of Neuroregeneration, Nantong University, Nantong, 
+Jiangsu Province; Department of Neurosurgery, Chinese PLA General Hospital, 
+Beijing, China.
+(4)Beijing Key Laboratory of Regenerative Medicine in Orthopedics, Institute of 
+Orthopedics, Chinese PLA General Hospital, Beijing; Co-innovation Center of 
+Neuroregeneration, Nantong University, Nantong, Jiangsu Province, China.
+
+A large number of chemokines, cytokines, other trophic factors and the 
+extracellular matrix molecules form a favorable microenvironment for peripheral 
+nerve regeneration. This microenvironment is one of the major factors for 
+regenerative success. Therefore, it is important to investigate the key 
+molecules and regulators affecting nerve regeneration after peripheral nerve 
+injury. However, the identities of specific cytokines at various time points 
+after sciatic nerve injury have not been determined. The study was performed by 
+transecting the sciatic nerve to establish a model of peripheral nerve injury 
+and to analyze, by protein microarray, the expression of different cytokines in 
+the distal nerve after injury. Results showed a large number of cytokines were 
+up-regulated at different time points post injury and several cytokines, e.g., 
+ciliary neurotrophic factor, were downregulated. The construction of a 
+protein-protein interaction network was used to screen how the proteins 
+interacted with differentially expressed cytokines. Kyoto Encyclopedia of Genes 
+and Genomes pathway and Gene ontology analyses indicated that the differentially 
+expressed cytokines were significantly associated with chemokine signaling 
+pathways, Janus kinase/signal transducers and activators of transcription, 
+phosphoinositide 3-kinase/protein kinase B, and notch signaling pathway. The 
+cytokines involved in inflammation, immune response and cell chemotaxis were 
+up-regulated initially and the cytokines involved in neuronal apoptotic 
+processes, cell-cell adhesion, and cell proliferation were up-regulated at 28 
+days after injury. Western blot analysis showed that the expression and changes 
+of hepatocyte growth factor, glial cell line-derived neurotrophic factor and 
+ciliary neurotrophic factor were consistent with the results of protein 
+microarray analysis. The results provide a comprehensive understanding of 
+changes in cytokine expression and changes in these cytokines and classical 
+signaling pathways and biological functions during Wallerian degeneration, as 
+well as a basis for potential treatments of peripheral nerve injury. The study 
+was approved by the Institutional Animal Care and Use Committee of the Chinese 
+PLA General Hospital, China (approval number: 2016-x9-07) in September 2016.
+
+DOI: 10.4103/1673-5374.266062
+PMCID: PMC6921340
+PMID: 31571662
+
+Conflict of interest statement: None
+
+
+11. J Biol Chem. 2019 Apr 26;294(17):6710-6718. doi: 10.1074/jbc.RA118.006527. Epub 
+2019 Mar 1.
+
+The exocyst acting through the primary cilium is necessary for renal 
+ciliogenesis, cystogenesis, and tubulogenesis.
+
+Zuo X(1), Lobo G(1)(2), Fulmer D(1)(3), Guo L(1)(3), Dang Y(1), Su Y(1), 
+Ilatovskaya DV(1), Nihalani D(1), Rohrer B(2)(4), Body SC(5), Norris RA(1)(3), 
+Lipschutz JH(6)(7).
+
+Author information:
+(1)From the Departments of Medicine.
+(2)Ophthalmology, and.
+(3)Regenerative Medicine and Cell Biology, Medical University of South Carolina, 
+Charleston, South Carolina 29425.
+(4)the Division of Research and.
+(5)the Department of Anesthesiology, Beth Israel Deaconess Medical Center, 
+Harvard Medical School, Boston, Massachusetts 02215.
+(6)From the Departments of Medicine, Lipschut@musc.edu.
+(7)the Department of Medicine, Ralph H. Johnson Veterans Affairs Medical Center, 
+Charleston, South Carolina 29401, and.
+
+The exocyst is a highly conserved protein complex found in most eukaryotic cells 
+and is associated with many functions, including protein translocation in the 
+endoplasmic reticulum, vesicular basolateral targeting, and ciliogenesis in the 
+kidney. To investigate the exocyst functions, here we exchanged proline for 
+alanine in the highly conserved VXPX ciliary targeting motif of EXOC5 (exocyst 
+complex component 5), a central exocyst gene/protein, and generated stable EXOC5 
+ciliary targeting sequence-mutated (EXOC5CTS-m) Madin-Darby canine kidney (MDCK) 
+cells. The EXOC5CTS-m protein was stable and could bind other members of the 
+exocyst complex. Culturing stable control, EXOC5-overexpressing (OE), 
+Exoc5-knockdown (KD), and EXOC5CTS-m MDCK cells on Transwell filters, we found 
+that primary ciliogenesis is increased in EXOC5 OE cells and inhibited in 
+Exoc5-KD and EXOC5CTS-m cells. Growing cells in collagen gels until the cyst 
+stage, we noted that EXOC5-OE cells form mature cysts with single lumens more 
+rapidly than control cysts, whereas Exoc5-KD and EXOC5CTS-m MDCK cells failed to 
+form mature cysts. Adding hepatocyte growth factor to induce tubulogenesis, we 
+observed that EXOC5-OE cell cysts form tubules more efficiently than control 
+MDCK cell cysts, EXOC5CTS-m MDCK cell cysts form significantly fewer tubules 
+than control cell cysts, and Exoc5-KD cysts did not undergo tubulogenesis. 
+Finally, we show that EXOC5 mRNA almost completely rescues the ciliary 
+phenotypes in exoc5-mutant zebrafish, unlike the EXOC5CTS-m mRNA, which could 
+not efficiently rescue the phenotypes. Taken together, these results indicate 
+that the exocyst, acting through the primary cilium, is necessary for renal 
+ciliogenesis, cystogenesis, and tubulogenesis.
+
+DOI: 10.1074/jbc.RA118.006527
+PMCID: PMC6497951
+PMID: 30824539 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest with the contents of this article
+
+
+12. J Tissue Eng Regen Med. 2019 May;13(5):835-845. doi: 10.1002/term.2835. Epub 
+2019 Apr 9.
+
+Collagen sponge scaffolds containing growth factors for the functional 
+regeneration of tracheal epithelium.
+
+Nakamura R(1), Katsuno T(1), Kitamura M(1), Yamashita M(1), Tsuji T(1), Suzuki 
+R(1), Kishimoto Y(1), Suehiro A(1), Tateya I(1), Nakamura T(2), Omori K(1).
+
+Author information:
+(1)Department of Otolaryngology-Head and Neck Surgery, Graduate School of 
+Medicine, Kyoto University, Kyoto, Japan.
+(2)Department of Bioartificial Organs, Institute for Frontier Medical Science, 
+Kyoto University, Kyoto, Japan.
+
+Tracheal epithelia have barrier and mucociliary clearance functions that prevent 
+invasion of extraneous particles and infectious materials. Hence, following 
+tracheal reconstructions, functional and morphological regeneration of epithelia 
+is required to prevent respiratory declines and infectious diseases. Although 
+growth factors (GFs) promote the regeneration of tracheal epithelial 
+morphologies, it remains unclear whether tracheal grafts containing GFs are 
+beneficial for regeneration of tracheal epithelial functions. Thus, we 
+fabricated collagen sponge scaffolds containing insulin-like GF-1 (IGF-1) and 
+the basic fibroblast, hepatocyte, and epidermal GFs (bFGFs, HGFs, and EGFs, 
+respectively), and we evaluated the effects of the grafts on the functional 
+regeneration of tracheal epithelia. Partial tracheal defects were imposed 
+surgically, and collagen sponges containing IGF-1, bFGF, HGF, or EGF were then 
+transplanted to defect sites. Subsequent immunofluorescence studies suggested 
+that EGF and bFGF contribute to regular distributions of tight junction 
+molecules, and tracer permeability assays suggested that EGF and bFGF promote 
+regeneration of barrier function. Increased ciliogenesis was also observed using 
+scanning electron microscopy in reconstructed regions treated with EGF- and 
+bFGF-supplemented collagen sponges. However, bFGF-supplemented collagen sponges 
+led to greater microsphere transport than did EGF-supplemented sponges. The 
+present data suggested that collagen sponge scaffold containing bFGF promotes 
+functional regeneration of tracheal epithelial tissues.
+
+© 2019 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/term.2835
+PMID: 30808067 [Indexed for MEDLINE]
+
+
+13. Proc Natl Acad Sci U S A. 2017 Mar 21;114(12):E2486-E2493. doi: 
+10.1073/pnas.1615372114. Epub 2017 Mar 7.
+
+Novel combinatorial screening identifies neurotrophic factors for selective 
+classes of motor neurons.
+
+Schaller S(1), Buttigieg D(1), Alory A(1), Jacquier A(1), Barad M(2), Merchant 
+M(3), Gentien D(4), de la Grange P(5), Haase G(6).
+
+Author information:
+(1)Institut de Neurosciences de la Timone, UMR 7289 CNRS, Aix-Marseille 
+University, 13005 Marseille, France.
+(2)Centre d'Immunologie de Marseille-Luminy (CIML), CNRS, INSERM, Aix-Marseille 
+University, 13288 Marseille, France.
+(3)Genentech Inc., South San Francisco, CA 94080.
+(4)Institut Curie, Translational Research Department, Genomic Platform, PSL 
+Research University, 75248 Paris, France.
+(5)GenoSplice Technology, Institut du Cerveau et de la Moëlle (ICM), Hôpital 
+Pitié Salpêtrière, 75013 Paris, France.
+(6)Institut de Neurosciences de la Timone, UMR 7289 CNRS, Aix-Marseille 
+University, 13005 Marseille, France; georg.haase@univ-amu.fr.
+
+Numerous neurotrophic factors promote the survival of developing motor neurons 
+but their combinatorial actions remain poorly understood; to address this, we 
+here screened 66 combinations of 12 neurotrophic factors on pure, highly viable, 
+and standardized embryonic mouse motor neurons isolated by a unique FACS 
+technique. We demonstrate potent, strictly additive, survival effects of 
+hepatocyte growth factor (HGF), ciliary neurotrophic factor (CNTF), and Artemin 
+through specific activation of their receptor complexes in distinct subsets of 
+lumbar motor neurons: HGF supports hindlimb motor neurons through c-Met; CNTF 
+supports subsets of axial motor neurons through CNTFRα; and Artemin acts as the 
+first survival factor for parasympathetic preganglionic motor neurons through 
+GFRα3/Syndecan-3 activation. These data show that neurotrophic factors can 
+selectively promote the survival of distinct classes of embryonic motor neurons. 
+Similar studies on postnatal motor neurons may provide a conceptual framework 
+for the combined therapeutic use of neurotrophic factors in degenerative motor 
+neuron diseases such as amyotrophic lateral sclerosis, spinal muscular atrophy, 
+and spinobulbar muscular atrophy.
+
+DOI: 10.1073/pnas.1615372114
+PMCID: PMC5373341
+PMID: 28270618 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+14. J Biol Chem. 2016 Apr 15;291(16):8632-43. doi: 10.1074/jbc.M115.688663. Epub 
+2016 Feb 19.
+
+Dynamin Binding Protein (Tuba) Deficiency Inhibits Ciliogenesis and 
+Nephrogenesis in Vitro and in Vivo.
+
+Baek JI(1), Kwon SH(1), Zuo X(1), Choi SY(1), Kim SH(1), Lipschutz JH(2).
+
+Author information:
+(1)From the Department of Medicine, Medical University of South Carolina, 
+Charleston, South Carolina 29425 and.
+(2)From the Department of Medicine, Medical University of South Carolina, 
+Charleston, South Carolina 29425 and the Department of Medicine, Ralph H. 
+Johnson Veterans Affairs Medical Center, Charleston, South Carolina 29401 
+Lipschut@musc.edu.
+
+Dysfunction of renal primary cilia leads to polycystic kidney disease. We 
+previously showed that the exocyst, a protein trafficking complex, is essential 
+for ciliogenesis and regulated by multiple Rho and Rab family GTPases, such as 
+Cdc42. Cdc42 deficiency resulted in a disruption of renal ciliogenesis and a 
+polycystic kidney disease phenotype in zebrafish and mice. Here we investigate 
+the role of Dynamin binding protein (also known as Tuba), a Cdc42-specific 
+guanine nucleotide exchange factor, in ciliogenesis and nephrogenesis using Tuba 
+knockdown Madin-Darby canine kidney cells and tuba knockdown in zebrafish. Tuba 
+depletion resulted in an absence of cilia, with impaired apical polarization and 
+inhibition of hepatocyte growth factor-induced tubulogenesis in Tuba knockdown 
+Madin-Darby canine kidney cell cysts cultured in a collagen gel. In zebrafish, 
+tuba was expressed in multiple ciliated organs, and, accordingly, tuba start and 
+splice site morphants showed various ciliary mutant phenotypes in these organs. 
+Co-injection of tuba and cdc42 morpholinos at low doses, which alone had no 
+effect, resulted in genetic synergy and led to abnormal kidney development with 
+highly disorganized pronephric duct cilia. Morpholinos targeting two other 
+guanine nucleotide exchange factors not known to be in the Cdc42/ciliogenesis 
+pathway and a scrambled control morpholino showed no phenotypic effect. Given 
+the molecular nature of Cdc42 and Tuba, our data strongly suggest that tuba and 
+cdc42 act in the same ciliogenesis pathway. Our study demonstrates that Tuba 
+deficiency causes an abnormal renal ciliary and morphogenetic phenotype. Tuba 
+most likely plays a critical role in ciliogenesis and nephrogenesis by 
+regulating Cdc42 activity.
+
+© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M115.688663
+PMCID: PMC4861433
+PMID: 26895965 [Indexed for MEDLINE]
+
+
+15. Stem Cells Dev. 2015 Aug 1;24(15):1817-30. doi: 10.1089/scd.2014.0521. Epub 2015 
+Apr 30.
+
+Hepatocyte Growth Factor Gene-Modified Mesenchymal Stem Cells Augment Sinonasal 
+Wound Healing.
+
+Li J(1)(2), Zheng CQ(1), Li Y(2), Yang C(1), Lin H(1), Duan HG(3).
+
+Author information:
+(1)1 Department of Otolaryngology, Eye and ENT Hospital of Fudan University , 
+Shanghai, China .
+(2)2 Department of Otolaryngology, First Hospital of Hangzhou City , Hangzhou, 
+Zhejiang Province, China .
+(3)3 Department of Otolaryngology, Second Affiliated Hospital, College of 
+Medicine, Zhejiang University , Hangzhou, China .
+
+This study was designed to investigate the effects of hepatocyte growth factor 
+(HGF) transgenic mesenchymal stem cells (HGF-MSCs) on wound healing in the 
+sinonasal mucosa and nasal epithelial cells (NECs). We also sought to determine 
+whether HGF-MSCs and MSCs can migrate into the injured mucosa and differentiate 
+into ciliated cells. Human HGF-overexpressing umbilical cord MSCs (hHGF-UCMSCs) 
+were established, and upregulation of hHGF expression was confirmed by real-time 
+PCR (RT-PCR) and enzyme-linked immunosorbant assay (ELISA). To investigate the 
+paracrine effect of human MSCs (hMSCs) on nasal epithelial repair, hMSC- and 
+HGF-MSC-conditioned media (CM) were used in NEC proliferation assays and in an 
+in vitro scratch-wound repair model. The in vivo sinonasal wound-healing model 
+was established, and all enrolled rabbits were randomly assigned to four groups: 
+the GFP-MSC group, the HGF-MSC group, the Ad-HGF group, and the surgery control 
+group. The average decreased diameter was recorded, and the medial wall of the 
+maxillary sinus was removed for histological analysis and scanning electron 
+microscopy. Collagen deposition in the wound tissue was detected via Masson 
+trichrome (M&T) staining. The distribution of MSCs and HGF-MSCs was observed by 
+immunofluorescence. MSCs improved nasal wound healing both in vivo and in vitro. 
+HGF overexpression in MSCs augmented the curative effects. Reduced collagen 
+deposition and transforming growth factor beta1 (TGF-β1) expression were 
+detected in the HGF-MSC group compared with the MSC-, Ad-HGF-, and 
+phosphate-buffered saline-treated groups based on M&T staining and ELISA. The 
+enhanced therapeutic effects of HGF-MSCs were accompanied by decreased level of 
+the fibrogenic cytokine TGF-β1. In addition, both HGF-MSCs and MSCs can migrate 
+to the injured mucosa and epithelial layer.
+
+DOI: 10.1089/scd.2014.0521
+PMCID: PMC4507357
+PMID: 25835956 [Indexed for MEDLINE]
+
+
+16. Respir Res. 2014 Dec 31;15(1):160. doi: 10.1186/s12931-014-0160-8.
+
+Cell surface marker profiling of human tracheal basal cells reveals distinct 
+subpopulations, identifies MST1/MSP as a mitogenic signal, and identifies new 
+biomarkers for lung squamous cell carcinomas.
+
+Van de Laar E, Clifford M, Hasenoeder S, Kim BR, Wang D, Lee S, Paterson J, Vu 
+NM, Waddell TK, Keshavjee S, Tsao MS, Ailles L, Moghal N.
+
+BACKGROUND: The large airways of the lungs (trachea and bronchi) are lined with 
+a pseudostratified mucociliary epithelium, which is maintained by stem 
+cells/progenitors within the basal cell compartment. Alterations in basal cell 
+behavior can contribute to large airway diseases including squamous cell 
+carcinomas (SQCCs). Basal cells have traditionally been thought of as a uniform 
+population defined by basolateral position, cuboidal cell shape, and expression 
+of pan-basal cell lineage markers like KRT5 and TP63. While some evidence 
+suggests that basal cells are not all functionally equivalent, few 
+heterogeneously expressed markers have been identified to purify and study 
+subpopulations. In addition, few signaling pathways have been identified that 
+regulate their cell behavior. The goals of this work were to investigate 
+tracheal basal cell diversity and to identify new signaling pathways that 
+regulate basal cell behavior.
+METHODS: We used flow cytometry (FACS) to profile cell surface marker expression 
+at a single cell level in primary human tracheal basal cell cultures that 
+maintain stem cell/progenitor activity. FACS results were validated with tissue 
+staining, in silico comparisons with normal basal cell and lung cancer datasets, 
+and an in vitro proliferation assay.
+RESULTS: We identified 105 surface markers, with 47 markers identifying 
+potential subpopulations. These subpopulations generally fell into more (~ > 
+13%) or less abundant (~ < 6%) groups. Microarray gene expression profiling 
+supported the heterogeneous expression of these markers in the total population, 
+and immunostaining of large airway tissue suggested that some of these markers 
+are relevant in vivo. 24 markers were enriched in lung SQCCs relative to 
+adenocarcinomas, with four markers having prognostic significance in SQCCs. We 
+also identified 33 signaling receptors, including the MST1R/RON growth factor 
+receptor, whose ligand MST1/MSP was mitogenic for basal cells.
+CONCLUSION: This work provides the largest description to date of molecular 
+diversity among human large airway basal cells. Furthermore, these markers can 
+be used to further study basal cell function in repair and disease, and may aid 
+in the classification and study of SQCCs.
+
+DOI: 10.1186/s12931-014-0160-8
+PMCID: PMC4343068
+PMID: 25551685 [Indexed for MEDLINE]
+
+
+17. CNS Neurosci Ther. 2014 Oct;20(10):916-29. doi: 10.1111/cns.12304. Epub 2014 Jul 
+3.
+
+Hepatocyte growth factor promotes long-term survival and axonal regeneration of 
+retinal ganglion cells after optic nerve injury: comparison with CNTF and BDNF.
+
+Wong WK(1), Cheung AW, Yu SW, Sha O, Cho EY.
+
+Author information:
+(1)School of Biomedical Sciences, The Chinese University of Hong Kong, Shatin, 
+Hong Kong, China.
+
+AIMS: Different trophic factors are known to promote retinal ganglion cell 
+survival and regeneration, but each had their own limitations. We report that 
+hepatocyte growth factor (HGF) confers distinct advantages in supporting 
+ganglion cell survival and axonal regeneration, when compared to two 
+well-established trophic factors ciliary neurotrophic factor (CNTF) and 
+brain-derived neurotrophic factor (BDNF).
+METHODS: Ganglion cells in adult hamster were injured by cutting the optic 
+nerve. HGF, CNTF, or BDNF was injected at different dosages intravitreally after 
+injury. Ganglion cell survival was quantified at 7, 14, or 28 days postinjury. 
+Peripheral nerve (PN) grafting to the cut optic nerve of the growth 
+factor-injected eye was performed either immediately after injury or delayed 
+until 7 days post-injury. Expression of heat-shock protein 27 and changes in 
+microglia numbers were quantified in different growth factor groups. The 
+cellular distribution of c-Met in the retina was examined by anti-c-Met 
+immunostaining.
+RESULTS: Hepatocyte Growth Factor (HGF) was equally potent as BDNF in promoting 
+short-term survival (up to 14 days post-injury) and also supported survival at 
+28 days post-injury when ganglion cells treated by CNTF or BDNF failed to be 
+sustained. When grafting was performed without delay, HGF stimulated twice the 
+number of axons to regenerate compared with control but was less potent than 
+CNTF. However, in PN grafting delayed for 7 days after optic nerve injury, HGF 
+maintained a better propensity of ganglion cells to regenerate than CNTF. Unlike 
+CNTF, HGF application did not increase HSP27 expression in ganglion cells. 
+Microglia proliferation was prolonged in HGF-treated retinas compared with CNTF 
+or BDNF. C-Met was localized to both ganglion cells and Muller cells, suggesting 
+HGF could be neuroprotective via interacting with both neurons and glia.
+CONCLUSION: Compared with CNTF or BDNF, HGF is advantageous in sustaining 
+long-term ganglion cell survival and their propensity to respond to favorable 
+stimuli.
+
+© 2014 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cns.12304
+PMCID: PMC6493180
+PMID: 24992648 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+18. J Hepatol. 2014 Jan;60(1):143-51. doi: 10.1016/j.jhep.2013.08.012. Epub 2013 Aug 
+23.
+
+The intrahepatic signalling niche of hedgehog is defined by primary cilia 
+positive cells during chronic liver injury.
+
+Grzelak CA(1), Martelotto LG(2), Sigglekow ND(1), Patkunanathan B(1), Ajami 
+K(1), Calabro SR(1), Dwyer BJ(3), Tirnitz-Parker JE(3), Watkins DN(4), Warner 
+FJ(1), Shackel NA(5), McCaughan GW(6).
+
+Author information:
+(1)Liver Injury and Cancer, Centenary Institute, Camperdown, NSW, Australia.
+(2)Centre for Cancer Research, Monash Institute of Medical Research, Monash 
+University, Clayton, VIC, Australia; Department of Pathology, Memorial 
+Sloan-Kettering Cancer Center, New York, NY, USA.
+(3)School of Biomedical Sciences, Curtin Health Innovation Research Institute, 
+Curtin University, Bentley, WA, Australia.
+(4)Centre for Cancer Research, Monash Institute of Medical Research, Monash 
+University, Clayton, VIC, Australia.
+(5)Liver Injury and Cancer, Centenary Institute, Camperdown, NSW, Australia; A. 
+W. Morrow Gastroenterology and Liver Centre, R.P.A.H., Camperdown, NSW, 
+Australia; Faculty of Medicine, University of Sydney, Sydney, NSW, Australia.
+(6)Liver Injury and Cancer, Centenary Institute, Camperdown, NSW, Australia; A. 
+W. Morrow Gastroenterology and Liver Centre, R.P.A.H., Camperdown, NSW, 
+Australia; Faculty of Medicine, University of Sydney, Sydney, NSW, Australia. 
+Electronic address: g.mccaughan@centenary.org.au.
+
+Comment in
+    J Hepatol. 2014 Dec;61(6):1451-2. doi: 10.1016/j.jhep.2014.08.019.
+    J Hepatol. 2014 Dec;61(6):1449-50. doi: 10.1016/j.jhep.2014.06.041.
+
+BACKGROUND & AIMS: In vertebrates, canonical Hedgehog (Hh) pathway activation 
+requires Smoothened (SMO) translocation to the primary cilium (Pc), followed by 
+a GLI-mediated transcriptional response. In addition, a similar gene regulation 
+occurs in response to growth factors/cytokines, although independently of SMO 
+signalling. The Hh pathway plays a critical role in liver fibrosis/regeneration, 
+however, the mechanism of activation in chronic liver injury is poorly 
+understood. This study aimed to characterise Hh pathway activation upon 
+thioacetamide (TAA)-induced chronic liver injury in vivo by defining 
+Hh-responsive cells, namely cells harbouring Pc and Pc-localised SMO.
+METHODS: C57BL/6 mice (wild-type or Ptc1(+/-)) were TAA-treated. Liver injury 
+and Hh ligand/pathway mRNA and protein expression were assessed in vivo. SMO/GLI 
+manipulation and SMO-dependent/independent activation of GLI-mediated 
+transcriptional response in Pc-positive (Pc(+)) cells were studied in vitro.
+RESULTS: In vivo, Hh activation was progressively induced following TAA. At the 
+epithelial-mesenchymal interface, injured hepatocytes produced Hh ligands. 
+Progenitors, myofibroblasts, leukocytes and hepatocytes were GLI2(+). Pc(+) 
+cells increased following TAA, but only EpCAM(+)/GLI2(+) progenitors were 
+Pc(+)/SMO(+). In vitro, SMO knockdown/hGli3-R overexpression reduced 
+proliferation/viability in Pc(+) progenitors, whilst increased proliferation 
+occurred with hGli1 overexpression. HGF induced GLI transcriptional activity 
+independently of Pc/SMO. Ptc1(+/-) mice exhibited increased progenitor, 
+myofibroblast and fibrosis responses.
+CONCLUSIONS: In chronic liver injury, Pc(+) progenitors receive Hh ligand 
+signals and process it through Pc/SMO-dependent activation of GLI-mediated 
+transcriptional response. Pc/SMO-independent GLI activation likely occurs in 
+Pc(-)/GLI2(+) cells. Increased fibrosis in Hh gain-of-function mice likely 
+occurs by primary progenitor expansion/proliferation and secondary fibrotic 
+myofibroblast expansion, in close contact with progenitors.
+
+Copyright © 2013 European Association for the Study of the Liver. All rights 
+reserved.
+
+DOI: 10.1016/j.jhep.2013.08.012
+PMID: 23978713 [Indexed for MEDLINE]
+
+
+19. Exp Neurol. 2013 Sep;247:272-81. doi: 10.1016/j.expneurol.2013.05.007. Epub 2013 
+May 21.
+
+Schwann cell phenotype is regulated by axon modality and central-peripheral 
+location, and persists in vitro.
+
+Brushart TM(1), Aspalter M, Griffin JW, Redett R, Hameed H, Zhou C, Wright M, 
+Vyas A, Höke A.
+
+Author information:
+(1)Johns Hopkins Dept of Orthopaedics, 601N. Caroline St., Baltimore, MD 21287, 
+USA. tbrusha@jhmi.edu
+
+Comment in
+    Exp Neurol. 2014 Apr;254:99-108. doi: 10.1016/j.expneurol.2014.01.012.
+
+Myelinating Schwann cells express distinct sensory and motor phenotypes as 
+defined by their differing patterns of growth factor production (Hoke et al., 
+2006). The heterogeneous growth factor requirements of sensory and motor 
+neurons, however, suggest that Schwann cell phenotype might vary across a broad 
+spectrum. To explore this possibility, we selectively denervated six discrete 
+Schwann cell populations: dorsal root, cutaneous nerve, cutaneous unmyelinated 
+axons, muscle nerve afferents, muscle nerve efferents, and ventral root. 
+Real-time RT-PCR for 11 growth factors was performed on the 6 target Schwann 
+cell populations 5, 15, and 30 days after their denervation, and on normal 
+cutaneous nerve, muscle nerve, ventral root, and dorsal root to establish 
+baseline expression levels. Within the denervated axon populations, IGF-1 and 
+VEGF were expressed most prominently in cutaneous nerve, HGF, NGF, and BDNF in 
+cutaneous nerve and dorsal root, GDNF in dorsal root and ventral root, PTN in 
+the ventral root and muscle nerve efferents, and IGF-2 in both afferents and 
+efferents within muscle nerve; expression of CNTF, FGF-2 and NT-3 was not 
+modality or location specific. ELISA for NGF, BDNF, and GDNF confirmed that gene 
+expression correlated with protein concentration. These findings demonstrate 
+that growth factor expression by denervated Schwann cells is not only subject to 
+further regulation within the previously-defined sensory and motor groups, but 
+also varies along a central-peripheral axis. The traditional view of myelinating 
+Schwann cells as a homogenous population is modified by the realization that 
+complex regulation produces a wide variety of Schwann cell phenotypes. 
+Additionally, we found that Schwann cell phenotype is maintained for 2 weeks in 
+vitro, demonstrating that it may survive several cell divisions without 
+instructive cues from either axons or basal lamina.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.expneurol.2013.05.007
+PMCID: PMC3742710
+PMID: 23707299 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors has a conflict of interest 
+related to this work
+
+
+20. Sheng Wu Yi Xue Gong Cheng Xue Za Zhi. 2012 Dec;29(6):1114-8.
+
+[Biomechanic and biological activity assessment of concavity-convex amniotic 
+membrane].
+
+[Article in Chinese]
+
+Shao Y(1), Yu Y, Tan G, Peng J, Zhou Q, Pei C, Dong W, Gao G.
+
+Author information:
+(1)Department of Ophthalmology, First Affiliated Hospital of Nanchang 
+University, Nanchang 330006, China. Freebee992296@yahoo.com.cn
+
+This paper conducted research on biomechanical characteristics and biological 
+activity of concavity-convex amniotic membrane (CCAM) and discussed its 
+superiority as ocular surface repair material. Folding and compression with 
+vacuum of fresh amniotic membrane were used to prepare CCAM. After cutting the 
+striga of CCAM, sixteen CCAM tissue section were chosen at random to test their 
+tensile strength using electronic universal testing machine. The bilayer 
+amniotic membrane (BAM), the double-deck amniotic membrane (DAM) and the 
+monolayer amniotic membrane (MAM) were as controls. The test parameters included 
+yield strength, tensile strength, elongation at break, elastic modulus and so 
+on. The cytokines of fresh amniotic membrane (FAM), MAM and CCAM were analyzed 
+by radioimmunoassay method. The CCAM was obviously thicker than MAM and DAM. 
+After 15 min in PBS, the CCAM tissue can recover the normal shape. The tensile 
+strength and the elongation at break of CCAM were higher than those of the MAM 
+and the DAM (P < 0.05). The elastic modulus of the CCAM was smaller than that of 
+the MAM and the DAM (P < 0.05). The content of 10 cytokines [epidermal growth 
+factor (EGF), fibroblast growth factor (FGF), b-fibroblast growth factor b-FGF, 
+hepatocyte growth factor (HGF), transforming growth factor-beta (TGF-beta), 
+insulin-like growth factor (IGF), platelet-derived growth factor (PDGF), 
+vascular endothelial growth factor (VEGF), nerve growth factor (NGF), 
+brain-derived nellrotrophic factor (BDNF), ciliary neurotrophic factor (CNTF)] 
+of CCAM decreased significantly compared with the FAM and increased 
+significantly compared with MAM and DAM in 6 cytokines (EGF, FGF, HGF, 
+TGF-betap, PDGF, NGF; P < 0.05). The CCAM composites is thinner and has higher 
+cytokine content than MAM, and better biomechanical properties than the MAM and 
+the DAM, showing the superiority as ocular surface repair material.
+
+PMID: 23469541 [Indexed for MEDLINE]
+
+
+21. IEEE Trans Magn. 2013 Jan 1;49(1):389-393. doi: 10.1109/TMAG.2012.2225829.
+
+Influence of Iron Oxide Nanoparticles on Innate and Genetically Modified 
+Secretion Profiles of Mesenchymal Stem Cells.
+
+Bashar AE(1), Metcalfe A(1), Yanai A(1), Laver C(1), Häfeli UO(2), Gregory-Evans 
+CY(1), Moritz OL(1), Matsubara JA(1), Gregory-Evans K(1).
+
+Author information:
+(1)Department of Ophthalmology and Visual Sciences, University of British 
+Columbia, Vancouver, BC, Canada.
+(2)Department of Pharmaceutical Sciences, University of British Columbia, 
+Vancouver, BC, Canada.
+
+Mesenchymal stem cells (MSCs) have well-established paracrine effects that are 
+proving to be therapeutically useful. This potential is based on the ability of 
+MSCs to secrete a range of neuroprotective and anti-inflammatory molecules. 
+Previous work in our laboratory has demonstrated that intravenous injection of 
+MSCs, treated with superparamagnetic iron oxide nanoparticle fluidMAG-D resulted 
+in enhanced levels of glial-derived neurotrophic factor, ciliary neurotrophic 
+factor, hepatocyte growth factor and interleukin-10 in the dystrophic rat 
+retina. In this present study we investigated whether the concentration of 
+fluidMAG-D in cell culture media affects the secretion of these four molecules 
+in vitro. In addition, we assessed the effect of fluidMAG-D concentration on 
+retinoschisin secretion from genetically modified MSCs. ELISA-assayed secretion 
+of these molecules was measured using escalating concentrations of fluidMAG-D 
+which resulted in MSC iron loads of 0, 7, 120, or 274 pg iron oxide per cell 
+respectively. Our results demonstrated glial-derived neurotrophic factor and 
+hepatocyte growth factor secretion was significantly decreased but only at the 
+96 hour's time-point whereas no statistically significant effect was seen with 
+ciliary neurotrophic factor secretion. Whereas no effect was observed on culture 
+media concentrations of retinoschisin with increasing iron oxide load, a 
+statistically significant increase in cell lysate retinoschisin concentration (p 
+= 0.01) was observed suggesting that increasing fluidMAG-D concentration did 
+increase retinoschisin production but this did not lead to greater secretion. We 
+hypothesize that higher concentrations of iron-oxide nanoparticle fluidMAG-D 
+have an effect on the innate ability of MSCs to secrete therapeutically useful 
+molecules and also on secretion from genetically modified cells. Further work is 
+required to verify these in vitro finding using in vivo model systems.
+
+DOI: 10.1109/TMAG.2012.2225829
+PMCID: PMC4072646
+PMID: 24976643
+
+
+22. ACS Chem Biol. 2013 Feb 15;8(2):432-42. doi: 10.1021/cb300484r. Epub 2012 Nov 
+20.
+
+HGF stimulation of Rac1 signaling enhances pharmacological correction of the 
+most prevalent cystic fibrosis mutant F508del-CFTR.
+
+Moniz S(1), Sousa M, Moraes BJ, Mendes AI, Palma M, Barreto C, Fragata JI, 
+Amaral MD, Matos P.
+
+Author information:
+(1)Department of Genetics, National Health Institute 'Dr. Ricardo Jorge', Av. 
+Padre Cruz, 1649-016 Lisboa, Portugal.
+
+Cystic fibrosis (CF), a major life-limiting genetic disease leading to severe 
+respiratory symptoms, is caused by mutations in CF transmembrane conductance 
+regulator (CFTR), a chloride (Cl(-)) channel expressed at the apical membrane of 
+epithelial cells. Absence of functional CFTR from the surface of respiratory 
+cells reduces mucociliary clearance, promoting airways obstruction, chronic 
+infection, and ultimately lung failure. The most frequent mutation, F508del, 
+causes the channel to misfold, triggering its premature degradation and 
+preventing it from reaching the cell surface. Recently, novel small-molecule 
+correctors rescuing plasma membrane localization of F508del-CFTR underwent 
+clinical trials but with limited success. Plausibly, this may be due to the 
+mutant intrinsic plasma membrane (PM) instability. Herein, we show that 
+restoration of F508del-CFTR PM localization by correctors can be dramatically 
+improved through a novel pathway involving stimulation of signaling by the 
+endogenous small GTPase Rac1 via hepatocyte growth factor (HGF). We first show 
+that CFTR anchors to apical actin cytoskeleton (via Ezrin) upon activation of 
+Rac1 signaling through PIP5K and Arp2/3. We then found that such anchoring 
+retains pharmacologically rescued F508del-CFTR at the cell surface, boosting 
+functional restoration by correctors up to 30% of wild-type channel levels in 
+human airway epithelial cells. Our findings reveal that surface anchoring and 
+retention is a major target pathway for CF pharmacotherapy, namely, to achieve 
+maximal restoration of F508del-CFTR in patients in combination with correctors. 
+Moreover, this approach may also translate to other disorders caused by 
+trafficking-deficient surface proteins.
+
+DOI: 10.1021/cb300484r
+PMID: 23148778 [Indexed for MEDLINE]
+
+
+23. J Otolaryngol Head Neck Surg. 2012 Aug;41(4):253-8.
+
+Effects of hepatocyte growth factor on wound healing of rabbit maxillary sinus 
+mucosa.
+
+Chen M(1), Guan M, Li J, Wang H, Yang B.
+
+Author information:
+(1)Department of Otolaryngology, First Hospital of Hangzhou City, Zhejiang 
+Province, China.
+
+OBJECTIVE: The purpose of this study was to investigate the effects of 
+hepatocyte growth factor (HGF) on healing of the sinonasal mucosa.
+METHODS: A 6 mm wound was created in the bilateral maxillary sinuses of 16 New 
+Zealand White rabbits, and 8 mm diameter absorbable gelatin sponge with 25 μL 
+HGF (case) and 25 μL saline (control) were randomly assigned to each side for 
+wound treatment. On the third and seventh days after the procedure, the average 
+decreased diameter was recorded. On the seventh day, the medial wall of the 
+maxillary sinus was taken for histologic analysis (including scanning electron 
+microscopy of two rabbits). The maximal thickness of fibrous tissue and no 
+epithelium coverage of the wound were detected. In the second, third, and fourth 
+weeks, another 3 rabbits were randomly selected for photographs under a scanning 
+electron microscope.
+RESULTS: On the third and seventh days after injury, the average decreased 
+diameters were 2.05 ± 0.56 mm and 1.56 ± 0.80 mm, 3.90 ± 0.76 mm, and 3.29 ± 
+0.70 mm on the case and control sides, respectively. On day 7 after injury, the 
+maximal thickness of fibrous tissue was 324.8 ± 93.1 μm and 432.8 ± 106.3 μm, 
+and the wound without epithelium coverage was 345.7 ± 114.6 μm and 508.6 ± 157.2 
+μm on case and control sides, respectively, and there were significant 
+differences (p < .05).
+CONCLUSIONS: HGF can promote wound healing and ciliogenesis and inhibit fibrosis 
+in the maxillary sinus mucosa, especially in the first 3 days. This finding 
+suggests that HGF plays a potential role in reepithelialization and cilium 
+hyperplasia.
+
+PMID: 22935176 [Indexed for MEDLINE]
+
+
+24. FEBS Lett. 2012 Feb 3;586(3):217-21. doi: 10.1016/j.febslet.2012.01.009. Epub 
+2012 Jan 11.
+
+Activation of macrophage-stimulating protein by human airway trypsin-like 
+protease.
+
+Orikawa H(1), Kawaguchi M, Baba T, Yorita K, Sakoda S, Kataoka H.
+
+Author information:
+(1)Section of Oncopathology and Regenerative Biology, Department of Pathology, 
+Faculty of Medicine, University of Miyazaki, Miyazaki, Japan.
+
+Macrophage-stimulating protein (MSP) circulates as a proform protein and 
+requires proteolytic processing for activation. Respiratory ciliated cells 
+express the MSP receptor, recepteur d'origine nantais (RON), at the apical 
+surface, which reportedly has an important role in ciliary function. Like RON, 
+human airway trypsin-like protease (HAT) is also expressed at the apical surface 
+of ciliated cells. Here we show that HAT cleaves proMSP at the physiological 
+activation site, Arg483-Val484. MSP processed by HAT could induce chemotactic 
+responses and morphological changes of peritoneal macrophages. In human 
+respiratory epithelial cells, knock down of HAT expression reduced proMSP 
+processing and RON autophosphorylation. We suggest that HAT is important for 
+MSP-RON signaling in the respiratory tract.
+
+Copyright © 2012 Federation of European Biochemical Societies. Published by 
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.febslet.2012.01.009
+PMID: 22245154 [Indexed for MEDLINE]
+
+
+25. Tissue Eng Part A. 2011 Sep;17(17-18):2231-44. doi: 10.1089/ten.TEA.2010.0633. 
+Epub 2011 Jul 15.
+
+Repair of rat sciatic nerve gap by a silk fibroin-based scaffold added with bone 
+marrow mesenchymal stem cells.
+
+Yang Y(1), Yuan X, Ding F, Yao D, Gu Y, Liu J, Gu X.
+
+Author information:
+(1)Jiangsu Key Laboratory of Neuroregeneration, Nantong University, Nantong, 
+Jiangsu, PR China.
+
+Tissue-engineered nerve grafts (TENGs), typically consisting of a neural 
+scaffold included with support cells and/or growth factors, represent a 
+promising alternative to autologous nerve grafts for surgical repair of large 
+peripheral nerve gaps. Here, we developed a new design of TENGs by introducing 
+bone marrow mesenchymal stem cells (MSCs) of rats, as support cells, into a silk 
+fibroin (SF)-based scaffold, which was composed of an SF nerve guidance conduit 
+and oriented SF filaments as the conduit lumen filler. The biomaterial SF had 
+been tested to possess good biocompatibility and noncytoxicity with MSCs before 
+the TENG was implanted to bridge a 10-mm-long gap in rat sciatic nerve. 
+Functional and histological assessments showed that at 12 weeks after nerve 
+grafting, TENGs yielded an improved outcome of nerve regeneration and functional 
+recovery, which was better than that achieved by SF scaffolds and close to that 
+by autologous nerve grafts. During 1-4 weeks after nerve grafting, MSCs 
+contained in the TENG significantly accelerated axonal growth, displaying a 
+positive reaction to S-100 (a Schwann cell marker). During 1-3 weeks after nerve 
+grafting, MSCs contained in the TENG led to gene expression upregulation of S100 
+and several growth factors (brain-derived neurotrophic factor, ciliary 
+neurotrophic factor, and basic fibroblast growth factor). These results suggest 
+that the cell behaviors and neurotrophic functions of MSCs might be responsible 
+for their promoting effects on peripheral nerve regeneration.
+
+DOI: 10.1089/ten.TEA.2010.0633
+PMID: 21542668 [Indexed for MEDLINE]
+
+
+26. Hum Cell. 2009 Feb;22(1):11-7. doi: 10.1111/j.1749-0774.2008.00062.x.
+
+Tissue injury alters the site of expression of hepatocyte growth factor 
+activator inhibitor type 1 in bronchial epithelial cells.
+
+Tanaka H(1), Fukushima T, Yorita K, Kawaguchi M, Kataoka H.
+
+Author information:
+(1)Section of Oncopathology and Regenerative Biology, Department of Pathology, 
+Faculty of Medicine, University of Miyazaki, Kiyotake, Miyazaki, Japan.
+
+Hepatocyte growth factor activator inhibitor-1 (HAI-1) is a Kunitz-type 
+transmembrane serine proteinase inhibitor that inhibits trypsin-like serine 
+proteinases, such as hepatocyte growth factor activator, matriptase, hepsin and 
+prostasin. HAI-1 is expressed in polarized epithelial cells, in which HAI-1 is 
+mainly located on the basolateral membrane. In the present study, we analyzed 
+the expression and distribution of HAI-1 in respiratory epithelium. We found 
+that HAI-1 is expressed by the bronchial respiratory epithelium with basal or 
+basolateral localization and also by the alveolar epithelium. Bronchial 
+expression of HAI-1 was also confirmed using cultured human bronchial epithelial 
+cells. The epithelial expression of HAI-1 was augmented in response to tissue 
+injury such as cancer invasion and inflammation. Surprisingly, in the injured 
+pulmonary tissue, HAI-1 showed distinct apical translocation in ciliated 
+epithelial cells of the bronchiole. We suggest that, in addition to its 
+basolateral surface localization, HAI-1 can transiently localize to the apical 
+surface of respiratory ciliated epithelial cells under conditions of severe 
+inflammation, possibly interacting with a specific cellular proteinase on the 
+apical surface.
+
+DOI: 10.1111/j.1749-0774.2008.00062.x
+PMID: 19222607 [Indexed for MEDLINE]
+
+
+27. Mol Biol Cell. 2007 Sep;18(9):3277-89. doi: 10.1091/mbc.e07-03-0239. Epub 2007 
+Jun 20.
+
+STAM and Hrs down-regulate ciliary TRP receptors.
+
+Hu J(1), Wittekind SG, Barr MM.
+
+Author information:
+(1)Division of Pharmaceutical Sciences, School of Pharmacy, University of 
+Wisconsin, Madison, WI 53705, USA.
+
+Cilia are endowed with membrane receptors, channels, and signaling components 
+whose localization and function must be tightly controlled. In primary cilia of 
+mammalian kidney epithelia and sensory cilia of Caenorhabditis elegans neurons, 
+polycystin-1 (PC1) and transient receptor polycystin-2 channel (TRPP2 or PC2), 
+function together as a mechanosensory receptor-channel complex. Despite the 
+importance of the polycystins in sensory transduction, the mechanisms that 
+regulate polycystin activity and localization, or ciliary membrane receptors in 
+general, remain poorly understood. We demonstrate that signal transduction 
+adaptor molecule STAM-1A interacts with C. elegans LOV-1 (PC1), and that STAM 
+functions with hepatocyte growth factor-regulated tyrosine kinase substrate 
+(Hrs) on early endosomes to direct the LOV-1-PKD-2 complex for lysosomal 
+degradation. In a stam-1 mutant, both LOV-1 and PKD-2 improperly accumulate at 
+the ciliary base. Conversely, overexpression of STAM or Hrs promotes the removal 
+of PKD-2 from cilia, culminating in sensory behavioral defects. These data 
+reveal that the STAM-Hrs complex, which down-regulates ligand-activated growth 
+factor receptors from the cell surface of yeast and mammalian cells, also 
+regulates the localization and signaling of a ciliary PC1 receptor-TRPP2 
+complex.
+
+DOI: 10.1091/mbc.e07-03-0239
+PMCID: PMC1951776
+PMID: 17581863 [Indexed for MEDLINE]
+
+
+28. Am J Respir Cell Mol Biol. 2007 Aug;37(2):160-8. doi: 10.1165/rcmb.2006-0413OC. 
+Epub 2007 Mar 29.
+
+Apical oxidative hyaluronan degradation stimulates airway ciliary beating via 
+RHAMM and RON.
+
+Manzanares D(1), Monzon ME, Savani RC, Salathe M.
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, University of Miami Miller 
+School of Medicine, 1600 NW 10th Ave., RMSB 7063A (R-47), Miami, FL 33136, USA.
+
+Hyaluronan (HA) is synthesized in high-molecular-weight form at the apical pole 
+of airway epithelial cells, covering the luminal surface. When human airway 
+epithelial cells grown and redifferentiated at the air-liquid interface (ALI) 
+were exposed to xanthine/xanthine oxidase (X/XO), ciliary beat frequency (CBF) 
+increased. This effect was blocked by superoxide dismutase (SOD) and catalase. 
+Inhibition of hyaluronan synthesis inhibited the CBF response to X/XO, while 
+addition of exogenous HA amplified it. A functionally blocking antibody to the 
+receptor for hyaluronic acid-mediated motility (RHAMM) reduced the CBF response 
+to X/XO. Since RHAMM has no transmembrane domain and thus cannot signal on its 
+own, the association of RHAMM with recepteur d'origine nantais (RON), a member 
+of the hepatocyte growth factor receptor family, was explored. 
+Immunohistochemistry of human airway epithelium showed co-localization of RHAMM 
+and RON at the apex of ciliated cells. Physical association of RHAMM and RON was 
+confirmed with co-immunoprecipitations. Macrophage-stimulating protein (MSP), an 
+agonist of RON, stimulated CBF. Genistein, a nonspecific tyrosine kinase 
+inhibitor, and MSP beta chain (beta-MSP), a specific RON inhibitor, blocked the 
+X/XO-induced CBF increase. HA present in the apical secretions of human airway 
+epithelial cells was shown to degrade upon exposure to X/XO, a process inhibited 
+by SOD. Low-molecular-weight HA fragments stimulated CBF, an effect blocked by 
+anti-RHAMM antibody and genistein. These data suggest that high molecular form 
+HA is broken down by reactive oxygen species to form low-molecular-weight 
+fragments that signal via RHAMM and RON to stimulate CBF.
+
+DOI: 10.1165/rcmb.2006-0413OC
+PMCID: PMC1976543
+PMID: 17395888 [Indexed for MEDLINE]
+
+
+29. Am J Physiol Lung Cell Mol Physiol. 2007 Jun;292(6):L1352-60. doi: 
+10.1152/ajplung.00328.2006. Epub 2007 Feb 16.
+
+Hepatocyte growth factor and other fibroblast secretions modulate the phenotype 
+of human bronchial epithelial cells.
+
+Myerburg MM(1), Latoche JD, McKenna EE, Stabile LP, Siegfried JS, 
+Feghali-Bostwick CA, Pilewski JM.
+
+Author information:
+(1)Division of Pulmonary, Allergy, and Critical Care Medicine, University of 
+Pittsburgh, Pittsburgh, Pennsylvania 15213, USA.
+
+The luminal airway surface is lined with epithelial cells that provide a 
+protective barrier from the external environment and clear inhaled pathogens 
+from the lung. To accomplish this important function, human bronchial epithelial 
+(HBE) cells must be able to rapidly regenerate a mucociliary layer of cells 
+following epithelial injury. Whereas epithelial-fibroblast interactions are 
+known to modulate the airway architecture during lung development and repair, 
+little is known about how these two cells interact. Using a primary HBE and lung 
+fibroblast coculture system, we demonstrate that 1) subepithelial fibroblasts 
+provide a suitable environment for differentiation of HBE cells into a polarized 
+ciliated phenotype despite being cultured in media that induces terminal 
+squamous differentiation and growth arrest in the absence of fibroblasts, 2) HBE 
+cells cocultured with subepithelial fibroblasts exhibit augmented ciliogenesis, 
+accelerated wound repair, and diminished polarized ion transport compared with 
+cells grown in control conditions, and 3) hepatocyte growth factor (HGF) is 
+important for subepithelial fibroblast modulation of HBE cell differentiation. 
+These results provide a model to study fibroblast modulation of epithelial 
+phenotype and indicate that HGF secreted by subepithelial fibroblasts 
+contributes to HBE cell differentiation.
+
+DOI: 10.1152/ajplung.00328.2006
+PMID: 17307814 [Indexed for MEDLINE]
+
+
+30. Cell Cycle. 2006 Dec;5(24):2839-41. doi: 10.4161/cc.5.24.3581. Epub 2006 Dec 6.
+
+Beta-catenin signaling: linking renal cell carcinoma and polycystic kidney 
+disease.
+
+Peruzzi B(1), Bottaro DP.
+
+Author information:
+(1)Urologic Oncology Branch, CCR, NCI, Bethesda, Maryland 20892-1107, USA.
+
+Loss of von Hippel-Lindau (VHL) tumor suppressor gene function occurs in 
+familial and most sporadic renal cell carcinoma (RCC), resulting in the aberrant 
+expression of genes that control cell proliferation, invasion and angiogenesis. 
+The molecular mechanisms by which VHL loss leads to tumorigenesis are not yet 
+fully defined. The VHL gene product, pVHL, is part of an E3 ubiquitin ligase 
+complex that targets hypoxia inducible factors for polyubiquitination and 
+proteosomal degradation, implicating hypoxia response genes in RCC oncogenesis. 
+VHL loss also allows robust RCC cell invasiveness and morphogenesis in response 
+to hepatocyte growth factor (HGF), an important regulator of kidney development 
+and renal homeostasis. Recent elucidation of the mechanism by which pVHL 
+represses developmental HGF responses in adult kidney has identified another 
+oncogenically relevant E3 ligase target: beta-catenin. This discovery also 
+further unifies recent insights into the molecular pathogenesis of polycystic 
+kidney disease, where the identification of disease genes has revealed the 
+integration of signaling pathways associated with primary cilia function and the 
+regulation of cell growth and differentiation.
+
+DOI: 10.4161/cc.5.24.3581
+PMID: 17218789 [Indexed for MEDLINE]
+
+
+31. Ann Neurol. 2005 Feb;57(2):236-51. doi: 10.1002/ana.20379.
+
+Gene expression profile of spinal motor neurons in sporadic amyotrophic lateral 
+sclerosis.
+
+Jiang YM(1), Yamamoto M, Kobayashi Y, Yoshihara T, Liang Y, Terao S, Takeuchi H, 
+Ishigaki S, Katsuno M, Adachi H, Niwa J, Tanaka F, Doyu M, Yoshida M, Hashizume 
+Y, Sobue G.
+
+Author information:
+(1)Department of Neurology, Nagoya University Graduate School of Medicine, 
+Nagoya, Japan.
+
+The causative pathomechanism of sporadic amyotrophic lateral sclerosis (ALS) is 
+not clearly understood. Using microarray technology combined with laser-captured 
+microdissection, gene expression profiles of degenerating spinal motor neurons 
+isolated from autopsied patients with sporadic ALS were examined. Gene 
+expression was quantitatively assessed by real-time reverse transcription 
+polymerase chain reaction and in situ hybridization. Spinal motor neurons showed 
+a distinct gene expression profile from the whole spinal ventral horn. Three 
+percent of genes examined were downregulated, and 1% were upregulated in motor 
+neurons. Downregulated genes included those associated with cytoskeleton/axonal 
+transport, transcription, and cell surface antigens/receptors, such as dynactin, 
+microtubule-associated proteins, and early growth response 3 (EGR3). In 
+contrast, cell death-associated genes were mostly upregulated. Promoters for 
+cell death pathway, death receptor 5, cyclins A1 and C, and caspases-1, -3, and 
+-9, were upregulated, whereas cell death inhibitors, acetyl-CoA transporter, and 
+NF-kappaB were also upregulated. Moreover, neuroprotective neurotrophic factors 
+such as ciliary neurotrophic factor (CNTF), Hepatocyte growth factor (HGF), and 
+glial cell line-derived neurotrophic factor were upregulated. 
+Inflammation-related genes, such as those belonging to the cytokine family, were 
+not, however, significantly upregulated in either motor neurons or ventral 
+horns. The motor neuron-specific gene expression profile in sporadic ALS can 
+provide direct information on the genes leading to neurodegeneration and 
+neuronal death and are helpful for developing new therapeutic strategies.
+
+DOI: 10.1002/ana.20379
+PMID: 15668976 [Indexed for MEDLINE]
+
+
+32. J Neurobiol. 2002 May;51(2):101-14. doi: 10.1002/neu.10048.
+
+Comparison of the effects of HGF, BDNF, CT-1, CNTF, and the branchial arches on 
+the growth of embryonic cranial motor neurons.
+
+Naeem A(1), Abbas L, Guthrie S.
+
+Author information:
+(1)MRC Centre for Developmental Neurobiology, 4th Floor New Hunt's House, King's 
+College, Guy's Campus, London SE1 1 UL, UK.
+
+In the developing embryo, axon growth and guidance depend on cues that include 
+diffusible molecules. We have shown previously that the branchial arches and 
+hepatocyte growth factor (HGF) are growth-promoting and chemoattractant for 
+young embryonic cranial motor axons. HGF is produced in the branchial arches of 
+the embryo, but a number of lines of evidence suggest that HGF is unlikely to be 
+the only factor involved in the growth and guidance of these axons. Here we 
+investigate whether other neurotrophic factors could be involved in the growth 
+of young cranial motor neurons in explant cultures. We find that brain-derived 
+neurotrophic factor (BDNF), ciliary neurotrophic factor (CNTF) and 
+cardiotrophin-1 (CT-1) all promote the outgrowth of embryonic cranial motor 
+neurons, while glial cell line-derived neurotrophic factor (GDNF) and 
+neurotrophin-3 (NT-3) fail to affect outgrowth. We next examined whether HGF and 
+the branchial arches had similar effects on motor neuron subpopulations at 
+different axial levels. Our results show that HGF acts as a generalized rather 
+than a specific neurotrophic factor and guidance cue for cranial motor neurons. 
+Although the branchial arches also had general growth-promoting effects on all 
+motor neuron subpopulations, they chemoattracted different axial levels 
+differentially, with motor neurons from the caudal hindbrain showing the most 
+striking response.
+
+Copyright 2002 Wiley Periodicals, Inc.
+
+DOI: 10.1002/neu.10048
+PMID: 11932952 [Indexed for MEDLINE]
+
+
+33. Exp Neurol. 2002 Jan;173(1):46-62. doi: 10.1006/exnr.2001.7834.
+
+Ciliary neurotrophic factor activates spinal cord astrocytes, stimulating their 
+production and release of fibroblast growth factor-2, to increase motor neuron 
+survival.
+
+Albrecht PJ(1), Dahl JP, Stoltzfus OK, Levenson R, Levison SW.
+
+Author information:
+(1)Department of Neuroscience and Anatomy, Milton S. Hershey College of 
+Medicine, Pennsylvania State University, Hershey, Pennsylvania 17033, USA.
+
+At focal CNS injury sites, several cytokines accumulate, including ciliary 
+neurotrophic factor (CNTF) and interleukin-1beta (IL-1beta). Additionally, the 
+CNTF alpha receptor is induced on astrocytes, establishing an 
+autocrine/paracrine loop. How astrocyte function is altered as a result of CNTF 
+stimulation remains incompletely characterized. Here, we demonstrate that direct 
+injection of CNTF into the spinal cord increases GFAP expression and astroglial 
+size and that primary cultures of spinal cord astrocytes treated with CNTF, 
+IL-1beta, or leukemia inhibitory factor exhibit nuclear hypertrophy comparable 
+to that observed in vivo. Using a coculture bioassay, we further demonstrate 
+that CNTF treatment of astrocytes increases their ability to support ChAT(+) 
+ventral spinal cord neurons (presumably motor neurons) more than twofold 
+compared with untreated astrocytes. Also, the complexity of neurites was 
+significantly increased in neurons cultured with CNTF-treated astrocytes 
+compared with untreated astrocytes. RT-PCR analysis demonstrated that CNTF 
+increased levels of FGF-2 and nerve growth factor (NGF) mRNA and that IL-1beta 
+increased NGF and hepatocyte growth factor mRNA levels. Furthermore, both CNTF 
+and IL-1beta stimulated the release of FGF-2 from cultured spinal cord 
+astrocytes. These findings demonstrate that cytokine-activated astrocytes better 
+support CNS neuron survival via the production of neurotrophic molecules. We 
+also show that CNTF synergizes with FGF-2, but not epidermal growth factor, to 
+promote DNA synthesis in spinal cord astrocyte cultures. The significance of 
+these findings is discussed by presenting a new model depicting the sequential 
+activation of astrocytes by cytokines and growth factors in the context of CNS 
+injury and repair.
+
+(c) 2002 Elsevier Science.
+
+DOI: 10.1006/exnr.2001.7834
+PMID: 11771938 [Indexed for MEDLINE]
+
+
+34. Mol Cell Neurosci. 2001 Dec;18(6):619-31. doi: 10.1006/mcne.2001.1058.
+
+Cytokines promote motoneuron survival through the Janus kinase-dependent 
+activation of the phosphatidylinositol 3-kinase pathway.
+
+Dolcet X(1), Soler RM, Gould TW, Egea J, Oppenheim RW, Comella JX.
+
+Author information:
+(1)Grup de Neurobiologia Molecular, Departament de Ciències Mèdiques Bàsiques, 
+Facultat de Medicina, Universitat de Lleida, 25198 Lleida, Catalonia, Spain.
+
+To determine which intracellular pathways mediate the survival effects of 
+ciliary neurotrophic factor and cardiotrophin-1 cytokines on motoneurons, we 
+studied the activation of the Jak/STAT, the PI 3-kinase/Akt, and the ERK 
+pathways. At shorter time points, cytokines induced the activation of STAT3 and 
+ERK, but not PI 3-kinase. Jak3 inhibitor suppressed cytokine- and muscle 
+extract-induced survival. In contrast, PD 98059, a MEK inhibitor, was not able 
+to prevent cytokine-induced survival, demonstrating that ERK is not involved. 
+Surprisingly, the PI 3-kinase inhibitor LY 294002 prevented the 
+survival-promoting effects of cytokines. When assays of PI 3-kinase activity 
+were performed at later stages following cytokine treatment a significant 
+increase was observed compared to control cultures. This delayed increase of 
+activity could be completely prevented by treatment with protein synthesis or 
+Jak3 inhibitors. Collectively, these results demonstrate that cytokines induce 
+motoneuron survival through a PI 3-kinase activation requiring de novo protein 
+synthesis dependent on Jak pathway.
+
+DOI: 10.1006/mcne.2001.1058
+PMID: 11749038 [Indexed for MEDLINE]
+
+
+35. Acta Otorhinolaryngol Belg. 2000;54(3):263-70.
+
+Airway epithelium wound repair and regeneration after injury.
+
+Puchelle E(1).
+
+Author information:
+(1)Unité INSERM 514, IFR 53, Université de Reims, France. epuche@worldnet.fr
+
+The airway epithelium represents the first line of lung defense through 
+different mechanisms such as mucociliary clearance, ion secretion, water 
+regulation and secretion of antibacterial, antiprotease, antioxidant and 
+anti-inflammatory molecules. The intercellular junctional complexes also 
+participate to the preservation of the airway epithelium integrity. 
+Nevertheless, because of its permanent contact with the external milieu, the 
+airway epithelium is frequently injured. Immediately after injury, the airway 
+epithelium initiates a wound healing process to restore its barrier integrity. 
+Several in vitro, ex vivo and in vivo assays have been described to analyze the 
+different steps of wound repair following airway cell damaging. The epithelial 
+process of repair following a wound created in vitro by mechanical or chemical 
+injury is similar to that observed in vivo in animal models. The first and most 
+important event occurring after denudation of the airway epithelium is cell 
+migration and not proliferation. The airway epithelial cells migrate without any 
+external stimulation or non-epithelial cell participation at a speed of about 
+30-40 microns/h. The cellular and molecular factors involved in wound repair and 
+epithelial regeneration are closely interacting and imply a coordinated sequence 
+of events involving: alteration of the actin cytoskeleton, secretion of 
+extracellular matrix proteins and expression of integrin receptors. Recent human 
+airway xenografts have been developed which have demonstrated that adult airway 
+cells are capable of regenerating a well-differentiated and functional 
+epithelium after successive steps that mimic regeneration after airway 
+epithelium injury. The matrix metalloproteinases are determinant factors in 
+tissue repair by remodeling extracellular matrix and by releasing growth 
+factors. The specific involvement of growth factors such as hepatocyte growth 
+factor in enhancing airway regeneration and repair suggests that these molecules 
+may find future pharmacological application in the treatment of injured airway 
+epithelium.
+
+PMID: 11082761 [Indexed for MEDLINE]
+
+
+36. Respir Med. 2000 Aug;94(8):784-90. doi: 10.1053/rmed.2000.0822.
+
+Elevated levels of macrophage-stimulating protein in induced sputum of patients 
+with bronchiectasis.
+
+Takano Y(1), Sakamoto O, Suga M, Suda T, Ando M.
+
+Author information:
+(1)First Department of Internal Medicine, IMEG, Kumamoto University School of 
+Medicine, Japan.
+
+We recently showed that macrophage-stimulating protein (MSP), a serum protein 
+homologous to hepatocyte growth factor, promotes ciliary motility by activating 
+its receptor, RON, on the airway ciliated epithelium. To investigate the 
+functional involvement of MSP and RON in bronchiectasis, in which mucociliary 
+clearance (MCC) is impaired, first we examined RON expression on the bronchial 
+ciliated epithelium of patients with bronchiectasis. We confirmed RON expression 
+at the apical surface of bronchial ciliated epithelium of patients with 
+bronchiectasis as well as those of normal human bronchus. Next, we examined 
+whether MSP is present in sputum of patients with bronchiectasis and normal 
+control subjects. By Western blotting, we found that half of the MSP in sputum 
+is present as a biologically active alpha/beta chain heterodimer (mature MSP). 
+In addition, we found that the MSP concentrations in sputum were significantly 
+elevated in patients with bronchiectasis (n=8; 16.8+/-3.0 ng ml(-1)) compared 
+with normal controls (n=9; 8.4+/-2.4 ng ml(-1); P<0.05). In contrast, the 
+difference in concentrations of serum MSP (pro-MSP) was not significant between 
+the two groups. These results indicate that (i) MSP is supplied to the airways 
+and converted to a biologically active form, (ii) MSP is increased in patients 
+with bronchiectasis compared with normal controls. Taken together, our findings 
+suggest that increased MSP may be involved in compensation for impaired MCC in 
+bronchiectasis.
+
+DOI: 10.1053/rmed.2000.0822
+PMID: 10955755 [Indexed for MEDLINE]
+
+
+37. Mol Cell Neurosci. 2000 Jan;15(1):79-87. doi: 10.1006/mcne.1999.0803.
+
+Cooperation between HGF and CNTF in promoting the survival and growth of sensory 
+and parasympathetic neurons.
+
+Davey F(1), Hilton M, Davies AM.
+
+Author information:
+(1)School of Biomedical Sciences, University of St. Andrews, Bute Medical 
+Buildings, St. Andrews, Fife, KY16 9TS, Scotland, United Kingdom.
+
+Previous studies have shown that hepatocyte growth factor (HGF) enhances the 
+survival and growth of neurons that depend on NGF for survival. To determine if 
+HGF cooperates with other neurotrophic factors in the developing peripheral 
+nervous system, we studied the effect of HGF on parasympathetic ciliary ganglion 
+neurons and proprioceptive trigeminal mesencephalic nucleus (TMN) neurons, both 
+of which survive with CNTF. HGF did not promote the survival of these neurons on 
+its own but did enhance the number that survived with CNTF and increased the 
+length and branching of their neurite arbors. HGF did not, however, enhance the 
+survival and growth of TMN neurons incubated with BDNF, which promoted their 
+survival as effectively as CNTF. These results show that HGF cooperates with 
+CNTF in promoting the survival and growth of parasympathetic and proprioceptive 
+neurons and that within the same neurons, the effects of HGF on survival and 
+growth are selectively dependent on which other signaling pathways are 
+concurrently activated.
+
+Copyright 2000 Academic Press.
+
+DOI: 10.1006/mcne.1999.0803
+PMID: 10662507 [Indexed for MEDLINE]
+
+
+38. J Neurosci. 1998 Sep 15;18(18):7361-71. doi: 10.1523/JNEUROSCI.18-18-07361.1998.
+
+Cyclic AMP elevation is sufficient to promote the survival of spinal motor 
+neurons in vitro.
+
+Hanson MG Jr(1), Shen S, Wiemelt AP, McMorris FA, Barres BA.
+
+Author information:
+(1)Stanford University School of Medicine, Department of Neurobiology, Stanford, 
+California 94305-5125, USA.
+
+The short-term survival of highly purified embryonic spinal motor neurons (SMNs) 
+in culture can be promoted by many peptide trophic factors, including 
+brain-derived neurotrophic factor (BDNF), ciliary neurotrophic factor (CNTF), 
+fibroblast growth factor (FGF), glial-derived neurotrophic factor (GDNF), and 
+hepatocyte growth factor (HGF). We have asked whether these peptides are 
+sufficient to promote the long-term survival of purified E15 SMNs. Contrary to 
+previous reports, we find that when SMNs are cultured in serum-free medium 
+containing a single peptide trophic factor only approximately one-third of the 
+cells survive for 3 d in culture. When multiple factors are combined, additive 
+effects on survival are observed transiently, but by 7 d of culture the majority 
+of SMNs has died. Surprisingly, when cAMP levels are elevated, the majority of 
+SMNs extend processes and survive for 1 week in culture in the absence of 
+peptide trophic factors, even in low-density cultures. A combination of five 
+peptide trophic factors, together with cAMP elevation, promotes the long-term 
+survival of most of the SMNs in serum-free culture for 3 weeks. These findings 
+provide useful culture conditions for studying the properties of SMNs and have 
+implications for the treatment of motor neuron diseases.
+
+DOI: 10.1523/JNEUROSCI.18-18-07361.1998
+PMCID: PMC6793263
+PMID: 9736656 [Indexed for MEDLINE]
+
+
+39. Am J Physiol. 1997 Jun;272(6 Pt 1):L1115-20. doi: 
+10.1152/ajplung.1997.272.6.L1115.
+
+Hepatocyte growth factor stimulates the differentiation of human tracheal 
+epithelia in vitro.
+
+Shen BQ(1), Panos RJ, Hansen-Guzmán K, Widdicombe JH, Mrsny RJ.
+
+Author information:
+(1)Children's Hospital Oakland Research Institute, California 94609, USA.
+
+Hepatocyte growth factor (HGF) can influence epithelial cell growth and 
+differentiation. We examined the actions of recombinant human HGF (rhHGF) on the 
+differentiation of human primary tracheal epithelial (HTE) cells cultured in 
+vitro for up to 96 h. Basolateral, but not apical, treatment of confluent HTE 
+cell sheets for 48 h with rhHGF led to increases in cell height, cell volume, 
+cilia, and total protein content. Basolateral rhHGF treatment produced a 
+decrease in HGF receptor (c-met) expression but had no effect on c-met mRNA 
+levels. HTE cell sheets treated with rhHGF for 48 h showed a significant 
+increase in mediator-induced Cl- secretion and a decrease in amiloride-sensitive 
+sodium absorption. No effect on transepithelial resistance was observed with 
+rhHGF treatment. The enhancement of short-circuit responses by basolateral rhHGF 
+was dose dependent. Our results demonstrate that rhHGF has hypertrophic actions 
+on, and can influence the differentiation of, human airway epithelia in vitro, 
+presumably through the activation of c-met at the basolateral surface of these 
+cells.
+
+DOI: 10.1152/ajplung.1997.272.6.L1115
+PMID: 9227512 [Indexed for MEDLINE]
+
+
+40. FEBS Lett. 1997 Mar 17;405(1):99-103. doi: 10.1016/s0014-5793(97)00167-1.
+
+Hepatocyte growth factor/scatter factor (HGF/SF) signals via the STAT3/APRF 
+transcription factor in human hepatoma cells and hepatocytes.
+
+Schaper F(1), Siewert E, Gómez-Lechon MJ, Gatsios P, Sachs M, Birchmeier W, 
+Heinrich PC, Castell J.
+
+Author information:
+(1)Institut für Biochemie der RWTH Aachen, Germany.
+
+Acute phase protein expression is regulated by a variety of cytokines such as 
+IL-1, IL-6, IL-11, tumour necrosis factor alpha, interferon-gamma, oncostatin-M, 
+leukemia inhibitory factor, ciliary neurotrophic factor and cardiotrophin-1. 
+Presently, IL-6 is regarded as the most potent mediator of acute phase protein 
+(APP) synthesis. It was shown that IL-6 and IL-6-type cytokines activate the 
+so-called JAK/STAT pathway and finally regulate APP expression in liver cells. 
+Since HGF/SF is also capable of regulating APP expression, we asked whether it 
+might also signal via the JAK/STAT pathway. Here we show that incubation of 
+human hepatocytes as well as hepatoma cells (HepG2) with HGF/SF results in 
+activation of the transcription factor STAT3. This STAT3 activation after HGF/SF 
+did not occur before 5-7 h and was maintained up to 28 h. These observations are 
+in contrast to the rapid and transient activation of STAT1 and STAT3 mediated by 
+IL-6.
+
+DOI: 10.1016/s0014-5793(97)00167-1
+PMID: 9094433 [Indexed for MEDLINE]
+
+
+41. J Biol Chem. 1997 Feb 21;272(8):5187-91. doi: 10.1074/jbc.272.8.5187.
+
+Hepatocyte growth factor promotes motor neuron survival and synergizes with 
+ciliary neurotrophic factor.
+
+Wong V(1), Glass DJ, Arriaga R, Yancopoulos GD, Lindsay RM, Conn G.
+
+Author information:
+(1)Regeneron Pharmaceuticals, Inc., Tarrytown, New York 10591, USA.
+
+Hepatocyte growth factor (HGF) has been shown to function as a potent mitogen 
+for a variety of cells, transducing its signal through the c-met tyrosine kinase 
+receptor. Ciliary neurotrophic factor (CNTF) is a cytokine that has been shown 
+to promote survival of motor neurons. We show here that c-met mRNA is present in 
+the embryonic rat spinal cord. Peak expression of c-met (at E14) coincides with 
+the period of naturally occurring cell death in motor neurons, suggesting a 
+possible role of HGF in the regulation of this process. Utilizing a 
+neuron-enriched culture system, we established that HGF, like CNTF, stimulates 
+choline acetyltransferase (CAT) activity in motor neurons. When co-administered 
+to motor neuron cultures, saturating concentrations of HGF and CNTF produced a 
+synergistic increase in CAT levels. We show that this synergy reflects enhanced 
+motor neuron survival. Exposure of motor neuron cultures to the cytostatic agent 
+vincristine markedly decreased CAT levels; co-treatment with HGF and CNTF (but 
+not either factor alone) restored CAT activity to control levels. Our findings 
+indicate that HGF is a survival factor for motor neurons, that it acts 
+synergistically with CNTF, and that HGF and CNTF can together be neuroprotective 
+in the face of vincristine toxicity.
+
+DOI: 10.1074/jbc.272.8.5187
+PMID: 9030587 [Indexed for MEDLINE]
+
+
+42. J Clin Invest. 1997 Feb 15;99(4):701-9. doi: 10.1172/JCI119214.
+
+Role of macrophage-stimulating protein and its receptor, RON tyrosine kinase, in 
+ciliary motility.
+
+Sakamoto O(1), Iwama A, Amitani R, Takehara T, Yamaguchi N, Yamamoto T, Masuyama 
+K, Yamanaka T, Ando M, Suda T.
+
+Author information:
+(1)Department of Cell Differentiation, Institute of Molecular Embryology and 
+Genetics, Kumamoto University School of Medicine, Japan.
+
+Macrophage-stimulating protein (MSP) is an 80-kD serum protein with homology to 
+hepatocyte growth factor (HGF). Its receptor, RON tyrosine kinase, is a new 
+member of the HGF receptor family. The MSP-RON signaling pathway has been 
+implicated in the functional regulation of mononuclear phagocytes. However, the 
+function of this pathway in other types of cells has not been elucidated. Here 
+we show that in contrast to the HGF receptor, which was expressed at the 
+basolateral surface, RON was localized at the apical surface of ciliated 
+epithelia in the airways and oviduct. In addition, MSP was found in the 
+bronchoalveolar space at biologically significant concentrations. MSP bound to 
+RON on normal human bronchial epithelial cells with a high affinity (Kd = 0.5 
+nM) and induced autophosphorylation of RON. Activation of RON by MSP led to a 
+significant increase in ciliary beat frequency of human nasal cilia. These 
+findings indicate that the ciliated epithelium of the mucociliary transport 
+apparatus is a novel target of MSP. Ciliary motility is critical for mucociliary 
+transport. Our findings suggest that the MSP-RON signaling pathway is a novel 
+regulatory system of mucociliary function and might be involved in the host 
+defense and fertilization.
+
+DOI: 10.1172/JCI119214
+PMCID: PMC507853
+PMID: 9045873 [Indexed for MEDLINE]
+
+
+43. Cell Growth Differ. 1993 Jul;4(7):571-9.
+
+Hepatocyte growth factor/scatter factor is an autocrine factor for human normal 
+bronchial epithelial and lung carcinoma cells.
+
+Tsao MS(1), Zhu H, Giaid A, Viallet J, Nakamura T, Park M.
+
+Author information:
+(1)Department of Pathology, Montreal General Hospital, Quebec, Canada.
+
+Hepatocyte growth factor (HGF) or scatter factor (SF) has been considered 
+primarily as an endocrine/paracrine factor. We report here that HGF/SF mRNA was 
+expressed by cultured human normal bronchial epithelial cells and many non-small 
+cell lung carcinoma cell lines. Scatter activity was detected in the culture 
+media of these cells, and this activity was inhibited by a neutralizing 
+anti-recombinant human HGF antiserum. Immunostaining confirmed the presence of 
+immunoreactive human HGF-like protein in the cytoplasm of these cultured cells, 
+and in ciliated columnar epithelium of normal human bronchus/bronchioles. The 
+met/HGF/SF receptor of these cultured cells was constitutively phosphorylated on 
+tyrosine residues. A neutralizing anti-recombinant human HGF antiserum decreased 
+the phosphorylation of the receptor, inhibited the proliferation of 45% of the 
+non-small cell lung carcinoma cell lines studied, and stimulated the 
+proliferation of normal bronchial epithelial cells. Altogether, the data 
+demonstrate that HGF/SF and/or HGF-like protein is an autocrine factor for 
+normal and neoplastic human bronchial epithelial cells in culture.
+
+PMID: 8398897 [Indexed for MEDLINE]

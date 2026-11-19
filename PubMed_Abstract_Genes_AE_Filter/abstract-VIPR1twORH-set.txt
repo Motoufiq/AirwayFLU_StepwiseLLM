@@ -1,0 +1,1045 @@
+1. J Anim Sci. 2024 Jan 3;102:skae309. doi: 10.1093/jas/skae309.
+
+The impact of exogenous vasoactive intestinal polypeptide on inflammatory 
+responses and mRNA expression of tight junction genes in lambs fed a high-grain 
+diet.
+
+Mia GK(1), Hawley E(2), Yusuf M(1), Amat S(2), Ward AK(3), Keller WL(1), Dorsam 
+G(2), Swanson KC(1).
+
+Author information:
+(1)Departments of Animal Sciences, North Dakota State University, Fargo, ND 
+58108-6050, USA.
+(2)Departments of Microbiological Sciences, North Dakota State University, 
+Fargo, ND 58108-6050, USA.
+(3)Departments of Veterinary Biomedical Sciences, University of Saskatchewan, 
+Saskatoon, SK, S7N 5B4, Canada.
+
+This study assessed the impact of administering vasoactive intestinal 
+polypeptide (VIP) on inflammation and intestinal VIP and tight junction mRNA 
+expression in lambs fed grain-based finishing diets. Sixteen wether lambs 
+(69.6 ± 1.9 kg) were individually housed, adapted to a corn-based diet 
+containing no forage, and randomly assigned to 2 treatment groups. Lambs were 
+intraperitoneally injected every other day for 28 d with either saline (0.9% 
+NaCl) with no VIP (n = 8; control) or saline with VIP (n = 8; 1.3 nmol/kg BW). 
+Blood samples were collected weekly for analysis of cytokine concentrations, and 
+on days 0 and 28 for lipopolysaccharide (LPS), and LPS-binding protein (LBP) 
+concentrations. Upon completion of the treatment period, lambs were euthanized 
+and gastrointestinal tissues, including rumen, jejunum, cecum, and colon 
+samples, were collected for analysis of the expression of tight junction mRNA 
+(claudin-1, claudin-4, occludin, and ZO-1), endogenous VIP, and VIP receptor 
+(VPAC-1). No treatment effects (P ≥ 0.38) were observed for VIP and VPAC-1 mRNA 
+expression in the colon. Supplementation with VIP did not influence (P ≥ 0.28) 
+the expression of claudin-1, claudin-4, occludin, and ZO-1 tight junction mRNA 
+in the rumen, jejunum, cecum, and colon. Lambs treated with VIP had greater 
+(P ≤ 0.01) plasma concentrations of the anti-inflammatory cytokines, IL-10 and 
+IL-36RA. There were treatment-by-day interactions observed (P ≤ 0.02) for 
+concentrations of the pro-inflammatory cytokines, MIP-1α and MIP-1β. Lambs that 
+did not receive VIP had greater serum concentrations of LPS (P = 0.05) than the 
+lambs receiving VIP. These data suggest that VIP administration may not 
+influence tight junction mRNA expression but may decrease LPS concentrations and 
+thus inflammation in lambs fed a grain-based diet.
+
+Plain Language Summary: This research investigates the potential of 
+administering vasoactive intestinal polypeptide (VIP) to ruminants fed 
+grain-based diets, to mitigate gut inflammation and thus enhance growth 
+performance. Lambs were adapted to a corn-based diet with no added forage and 
+randomly assigned to control (no VIP) or VIP treatment groups. Lambs were 
+treated every other day over a 4-wk treatment period. Anti-inflammatory 
+cytokines in blood plasma were higher in the VIP-treated group. Lambs not 
+receiving VIP had a higher concentration of serum lipopolysaccharide (LPS) 
+compared to lambs receiving VIP. No treatment effects were observed for 
+endogenous VIP mRNA expression or intestinal tight junction mRNA expression. 
+These data suggest that VIP supplementation may suppress inflammation in lambs 
+fed a high-grain diet.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of the 
+American Society of Animal Science. All rights reserved. For commercial re-use, 
+please contact reprints@oup.com for reprints and translation rights for 
+reprints. All other permissions can be obtained through our RightsLink service 
+via the Permissions link on the article page on our site—for further information 
+please contact journals.permissions@oup.com.
+
+DOI: 10.1093/jas/skae309
+PMCID: PMC11537799
+PMID: 39396104 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no financial or nonfinancial 
+conflict of interest or personal interest that may impact the subject matter or 
+materials discussed in this paper.
+
+
+2. Biochem Genet. 2024 Aug;62(4):2743-2765. doi: 10.1007/s10528-023-10566-8. Epub 
+2023 Nov 27.
+
+Identification and Validation of CXCL2 as a Key Gene for Childhood Obesity.
+
+He E(1), Chang K(1), Dong L(2), Jia M(1), Sun W(1), Cui H(3).
+
+Author information:
+(1)Tianjin Medical University, Tianjin, China.
+(2)Tianjin Children's Hospital, Tianjin, China.
+(3)Tianjin Children's Hospital, Tianjin, China. chlyfjp@163.com.
+
+This study aims to identify the key genes and their regulatory networks by 
+bioinformatics, increasing understanding of childhood obesity. The data 
+comes from the GEO and Immport database. The immune microenvironment was 
+explored in GSE104815. Key genes were identified by intersection of DEGs with 
+the immune gene set. Enrichment analysis revealed gene-related functions and 
+correlation analysis explored the relationship. Regulatory networks were 
+constructed based on miRcode, TarBase and TargetScan databases. GSE29718 was 
+used to validate our findings. Intercellular communication and cell 
+differentiation trends were further explored using single-cell data from 
+GSE153643. Based on our research, the immune microenvironment in the obese group 
+showed higher immune infiltration. We found 962 DEGs and CXCL2 was identified as 
+the key gene. The co-regulatory network of lncRNA-miRNA-mRNA suggested that 
+obtaining TM4SF19-AS1, GUSBP11, AC105020.1, LINC00189, COL4A2-AS2, VIPR1-AS1 and 
+LINC00242 may regulate CXCL2 (r > 0.9 and P < 0.01). Differential expression of 
+CXCL2 was validated in GSE29718 (P < 0.05) and CXCL2 was identified as a 
+biomarker for childhood obesity (AUC = 0.885). GSVA enrichment analysis revealed 
+many pathways of high group obtaining the TNF-α signaling via NF-κB pathway and 
+interferon γ response pathway. In GSE153643, 11 cell types were identified and 
+CXCL2 was highly expressed in monocyte, macrophage, endothelial cell and 
+pericyte. In CXCL2 high expressing macrophages, there was a tendency for cells 
+to polarize toward M1 macrophages (P < 0.05). In summary, we identified CXCL2 as 
+a potential biomarker of childhood obesity. The development of childhood obesity 
+may be associated with the activation of immune infiltration of macrophage M1 
+polarization by CXCL2 expression.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10528-023-10566-8
+PMID: 38010448 [Indexed for MEDLINE]
+
+
+3. Front Cell Dev Biol. 2021 May 13;9:663535. doi: 10.3389/fcell.2021.663535. 
+eCollection 2021.
+
+Neuroimmune Pathophysiology in Asthma.
+
+Pavón-Romero GF(1), Serrano-Pérez NH(1), García-Sánchez L(1), Ramírez-Jiménez 
+F(1), Terán LM(1).
+
+Author information:
+(1)Department of Immunogenetics and Allergy, Instituto Nacional Enfermedades 
+Respiratorias Ismael Cosío Villegas, Mexico City, Mexico.
+
+Asthma is a chronic inflammation of lower airway disease, characterized by 
+bronchial hyperresponsiveness. Type I hypersensitivity underlies all atopic 
+diseases including allergic asthma. However, the role of neurotransmitters (NT) 
+and neuropeptides (NP) in this disease has been less explored in comparison with 
+inflammatory mechanisms. Indeed, the airway epithelium contains pulmonary 
+neuroendocrine cells filled with neurotransmitters (serotonin and GABA) and 
+neuropeptides (substance P[SP], neurokinin A [NKA], vasoactive intestinal 
+peptide [VIP], Calcitonin-gene related peptide [CGRP], and orphanins-[N/OFQ]), 
+which are released after allergen exposure. Likewise, the autonomic airway 
+fibers produce acetylcholine (ACh) and the neuropeptide Y(NPY). These NT/NP 
+differ in their effects; SP, NKA, and serotonin exert pro-inflammatory effects, 
+whereas VIP, N/OFQ, and GABA show anti-inflammatory activity. However, CGPR and 
+ACh have dual effects. For example, the ACh-M3 axis induces goblet cell 
+metaplasia, extracellular matrix deposition, and bronchoconstriction; the 
+CGRP-RAMP1 axis enhances Th2 and Th9 responses; and the SP-NK1R axis promotes 
+the synthesis of chemokines in eosinophils, mast cells, and neutrophils. In 
+contrast, the ACh-α7nAChR axis in ILC2 diminishes the synthesis of TNF-α, IL-1, 
+and IL-6, attenuating lung inflammation whereas, VIP-VPAC1, N/OFQ-NOP axes cause 
+bronchodilation and anti-inflammatory effects. Some NT/NP as 5-HT and NKA could 
+be used as biomarkers to monitor asthma patients. In fact, the asthma treatment 
+based on inhaled corticosteroids and anticholinergics blocks M3 and TRPV1 
+receptors. Moreover, the administration of experimental agents such as NK1R/NK2R 
+antagonists and exogenous VIP decrease inflammatory mediators, suggesting that 
+regulating the effects of NT/NP represents a potential novel approach for the 
+treatment of asthma.
+
+Copyright © 2021 Pavón-Romero, Serrano-Pérez, García-Sánchez, Ramírez-Jiménez 
+and Terán.
+
+DOI: 10.3389/fcell.2021.663535
+PMCID: PMC8155297
+PMID: 34055794
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+4. Hepatol Commun. 2019 Dec 24;4(2):235-254. doi: 10.1002/hep4.1459. eCollection 
+2020 Feb.
+
+Vasoactive Intestinal Peptide Derived From Liver Mesenchymal Cells Mediates 
+Tight Junction Assembly in Mouse Intrahepatic Bile Ducts.
+
+Sato A(1), Kakinuma S(1)(2), Miyoshi M(1), Kamiya A(3), Tsunoda T(1), Kaneko 
+S(1), Tsuchiya J(1), Shimizu T(1), Takeichi E(1), Nitta S(1), Kawai-Kitahata 
+F(1), Murakawa M(1), Itsui Y(1), Nakagawa M(1), Azuma S(1), Koshikawa N(4), 
+Seiki M(4), Nakauchi H(5)(6), Asahina Y(1)(2), Watanabe M(1)(7).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology Tokyo Medical and Dental 
+University Tokyo Japan.
+(2)Department of Liver Disease Control Tokyo Medical and Dental University 
+(TMDU) Tokyo Japan.
+(3)Department of Molecular Life Sciences School of Medicine Tokai University 
+Isehara Japan.
+(4)Division of Cancer Cell Research Institute of Medical Science University of 
+Tokyo Tokyo Japan.
+(5)Institute for Stem Cell Biology and Regenerative Medicine Stanford University 
+School of Medicine Stanford CA.
+(6)Division of Stem Cell Therapy Institute of Medical Science University of 
+Tokyo Tokyo Japan.
+(7)Advanced Research Institute Tokyo Medical and Dental University (TMDU) Tokyo 
+Japan.
+
+Formation of intrahepatic bile ducts (IHBDs) proceeds in accordance with their 
+microenvironment. Particularly, mesenchymal cells around portal veins regulate 
+the differentiation and ductular morphogenesis of cholangiocytes in the 
+developing liver; however, further studies are needed to fully understand the 
+arrangement of IHBDs into a continuous hierarchical network. This study aims to 
+clarify the interaction between biliary and liver mesenchymal cells during IHBD 
+formation. To identify candidate factors contributing to this cell-cell 
+interaction, mesenchymal cells were isolated from embryonic day 16.5 matrix 
+metalloproteinase 14 (MMP14)-deficient (knockout [KO]) mice livers, in which 
+IHBD formation is retarded, and compared with those of the wild type (WT). WT 
+mesenchymal cells significantly facilitated the formation of luminal structures 
+comprised of hepatoblast-derived cholangiocytes (cholangiocytic cysts), whereas 
+MMP14-KO mesenchymal cells failed to promote cyst formation. Comprehensive 
+analysis revealed that expression of vasoactive intestinal peptide (VIP) was 
+significantly suppressed in MMP14-KO mesenchymal cells. VIP and VIP receptor 1 
+(VIPR1) were mainly expressed in periportal mesenchymal cells and cholangiocytic 
+progenitors during IHBD development, respectively, in vivo. VIP/VIPR1 signaling 
+significantly encouraged cholangiocytic cyst formation and up-regulated tight 
+junction protein 1, cystic fibrosis transmembrane conductance regulator, and 
+aquaporin 1, in vitro. VIP antagonist significantly suppressed the tight 
+junction assembly and the up-regulation of ion/water transporters during IHBD 
+development in vivo. In a cholestatic injury model of adult mice, exogenous VIP 
+administration promoted the restoration of damaged tight junctions in bile ducts 
+and improved hyperbilirubinemia. Conclusion: VIP is produced by periportal 
+mesenchymal cells during the perinatal stage. It supports bile duct development 
+by establishing tight junctions and up-regulating ion/water transporters in 
+cholangiocytes. VIP contributes to prompt recovery from cholestatic damage 
+through the establishment of tight junctions in the bile ducts.
+
+© 2019 The Authors. Hepatology Communications published by Wiley Periodicals, 
+Inc., on behalf of the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep4.1459
+PMCID: PMC6996346
+PMID: 32025608
+
+
+5. Front Cell Infect Microbiol. 2019 May 28;9:154. doi: 10.3389/fcimb.2019.00154. 
+eCollection 2019.
+
+Immunomodulatory Effects of the Neuropeptide Pituitary Adenylate 
+Cyclase-Activating Polypeptide in Acute Toxoplasmosis.
+
+Figueiredo CA(1), Düsedau HP(1), Steffen J(1), Gupta N(2), Dunay MP(3), Toth 
+GK(4), Reglodi D(5), Heimesaat MM(6), Dunay IR(1)(7).
+
+Author information:
+(1)Medical Faculty, Institute of Inflammation and Neurodegeneration, 
+Otto-von-Guericke University Magdeburg, Magdeburg, Germany.
+(2)Faculty of Life Sciences, Institute of Biology, Humboldt University, Berlin, 
+Germany.
+(3)Department and Clinic of Surgery and Ophthalmology, University of Veterinary 
+Medicine, Budapest, Hungary.
+(4)Department of Medical Chemistry, University of Szeged, Szeged, Hungary.
+(5)Department of Anatomy, MTA-PTE PACAP Research Team, University of Pecs 
+Medical School, Pecs, Hungary.
+(6)Department of Microbiology and Hygiene, Charité - University Medicine Berlin, 
+Berlin, Germany.
+(7)Center for Behavioral Brain Sciences - CBBS, Magdeburg, Germany.
+
+Pituitary Adenylate Cyclase-Activating Polypeptide (PACAP) is an endogenous 
+neuropeptide with distinct functions including the regulation of inflammatory 
+processes. PACAP is able to modify the immune response by directly regulating 
+macrophages and monocytes inhibiting the production of inflammatory cytokines, 
+chemokines and free radicals. Here, we analyzed the effect of exogenous PACAP on 
+peripheral immune cell subsets upon acute infection with the parasite Toxoplasma 
+gondii (T. gondii). PACAP administration was followed by diminished innate 
+immune cell recruitment to the peritoneal cavity of T. gondii-infected mice. 
+PACAP did not directly interfere with parasite replication, instead, indirectly 
+reduced parasite burden in mononuclear cell populations by enhancing their 
+phagocytic capacity. Although proinflammatory cytokine levels were attenuated in 
+the periphery upon PACAP treatment, interleukin (IL)-10 and Transforming growth 
+factor beta (TGF-β) remained stable. While PACAP modulated VPAC1 and VPAC2 
+receptors in immune cells upon binding, it also increased their expression of 
+brain-derived neurotrophic factor (BDNF). In addition, the expression of p75 
+neurotrophin receptor (p75NTR) on Ly6Chi inflammatory monocytes was diminished 
+upon PACAP administration. Our findings highlight the immunomodulatory effect of 
+PACAP on peripheral immune cell subsets during acute Toxoplasmosis, providing 
+new insights about host-pathogen interaction and the effects of neuropeptides 
+during inflammation.
+
+DOI: 10.3389/fcimb.2019.00154
+PMCID: PMC6546896
+PMID: 31192159 [Indexed for MEDLINE]
+
+
+6. J Gastroenterol. 2019 Sep;54(9):804-818. doi: 10.1007/s00535-019-01585-7. Epub 
+2019 Apr 29.
+
+Integrated analysis of circRNAs and mRNAs expression profile revealed the 
+involvement of hsa_circ_0007919 in the pathogenesis of ulcerative colitis.
+
+Wang T(1)(2), Chen N(2), Ren W(1), Liu F(3), Gao F(1), Ye L(1), Han Y(1), Zhang 
+Y(4), Liu Y(5).
+
+Author information:
+(1)Institute of Clinical Molecular Biology and Central Laboratory, Peking 
+University People's Hospital, No.11 Xizhimen South Street, Beijing, 100044, 
+People's Republic of China.
+(2)Department of Gatroenterology, Peking University People's Hospital, No. 11 
+Xizhimen South Street, Beijing, 100044, People's Republic of China.
+(3)Department of Pathology, Peking University People's Hospital, No.11 Xizhimen 
+South Street, Beijing, 100044, People's Republic of China.
+(4)Institute of Clinical Molecular Biology and Central Laboratory, Peking 
+University People's Hospital, No.11 Xizhimen South Street, Beijing, 100044, 
+People's Republic of China. zhangyujun@pkuph.edu.cn.
+(5)Department of Gatroenterology, Peking University People's Hospital, No. 11 
+Xizhimen South Street, Beijing, 100044, People's Republic of China. 
+liuyulan@pkuph.edu.cn.
+
+BACKGROUND: Ulcerative colitis (UC) is characterized by chronic inflammation in 
+the colon and epigenetic factors underlying the occurrence. Circular RNAs 
+(circRNAs) have been under intensive focus due to the circular construct and 
+gene-regulating functions. However, the changes and roles of circRNAs in UC 
+remain unknown.
+METHODS: Microarrays were used to detect the differentially expressed genes, and 
+quantitative real-time PCR was used to identify the changes in UC. In silico 
+analyses were performed to predict the functions of circRNAs and mRNAs. In 
+vitro, epithelial cell lines were stimulated by pro-inflammation effectors to 
+test the alterations in circRNAs. CircRNAs-microRNAs-mRNAs network clarified the 
+potential mechanisms underlying circRNAs in UC. The binding site between 
+hsa_circ_0007919 and miR-138 or let-7a was verified using dual-luciferase assay.
+RESULTS: A total of 264 significantly dysregulated circRNAs and 1869 
+differentially expressed mRNAs in inflamed mucosa were compared with the 
+non-inflamed mucosa in UC. Hsa_circ_0004662 and hsa_circ_0007919 were altered 
+largely in UC tissues. Hsa_circ_0007919 was reduced persistently after 
+inflammatory treatments, and it was relevant to Mayo endoscopic subscores and 
+the expression of tight junction molecules. Finally, hsa_circ_0007919 could 
+harbor miR-138, and let-7a to regulate the targeted mRNAs EPC1 and VIPR1.
+CONCLUSIONS: Several circRNAs were differentially expressed in UC. 
+Hsa_circ_0007919 is related to clinical characteristics and epithelial integrity 
+by binding to hsa-let-7a, hsa-miR-138 to regulate the target genes. CircRNAs, 
+especially hsa_circ_0007919, are associated with the pathogenesis and 
+development of UC, with potential diagnostic and therapeutic implications.
+
+DOI: 10.1007/s00535-019-01585-7
+PMID: 31037450 [Indexed for MEDLINE]
+
+
+7. Mol Reprod Dev. 2016 May;83(5):455-63. doi: 10.1002/mrd.22641. Epub 2016 Apr 19.
+
+Vasoactive intestinal peptide promotes differentiation and clock gene expression 
+in granulosa cells from prehierarchal follicles.
+
+Kim D(1)(2), Johnson AL(1)(2)(3).
+
+Author information:
+(1)Center for Reproductive Biology and Health, The Pennsylvania State 
+University, Pennsylvania.
+(2)Cell and Developmental Biology Program in the Huck Institute of Life Science, 
+The Pennsylvania State University, Pennsylvania.
+(3)Department of Animal Science, The Pennsylvania State University, 
+Pennsylvania.
+
+Vasoactive intestinal peptide (VIP) signaling via cyclic adenosine monophosphate 
+(cAMP) is reported to stimulate steroidogenesis in ovarian granulosa cells from 
+a variety of vertebrate species, including the domestic hen. Prior to follicle 
+selection in the hen ovary (i.e., cyclic recruitment) 
+follicle-stimulating-hormone (FSH)-induced cAMP signaling is absent within the 
+granulosa layer until immediately following follicle selection. As a 
+consequence, granulosa cells remain in an undifferentiated state and are unable 
+to initiate FSH-induced steroidogenesis. VIP receptors (VPAC1 and VPAC2), like 
+the FSH receptor, are G protein-coupled receptors, so we predicted that VIP 
+signaling in granulosa cells is also absent in follicles that have not yet been 
+selected into the preovulatory hierarchy. Initial studies established that mRNA 
+encoding VPAC1 and VPAC2 are expressed within the granulosa cells throughout 
+follicle development. Nevertheless, undifferentiated granulosa cells from 
+prehierarchal (6-8 mm) follicles do not accumulate cAMP in response to a 4-hr 
+incubation with chicken VIP; the capacity for such receptor signaling is 
+attained only following selection within actively differentiating granulosa 
+cells. VIP treatment did, however, increase expression of mRNA encoding the 
+Gallus circadian clock protein, BMAL1-but only in granulosa cells collected from 
+selected follicles. These findings provide evidence that, at follicle selection, 
+the acquisition of VIP-induced cAMP cell signaling helps initiate and promote 
+the differentiation of of granulosa cells. Furthermore, we propose that VIP 
+signaling may regulate BMAL1 expression and, thus, a daily rhythmicity within 
+granulosa cells of preovulatory follicles. Mol. Reprod. Dev. 83: 455-463, 2016. 
+© 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mrd.22641
+PMID: 27021352 [Indexed for MEDLINE]
+
+
+8. Peptides. 2016 Apr;78:30-41. doi: 10.1016/j.peptides.2016.01.014. Epub 2016 Jan 
+27.
+
+VIP and PACAP analogs regulate therapeutic targets in high-risk neuroblastoma 
+cells.
+
+de Boisvilliers M(1), Perrin F(1), Hebache S(1), Balandre AC(1), Bensalma S(1), 
+Garnier A(1), Vaudry D(2), Fournier A(3), Festy F(4), Muller JM(1), Chadéneau 
+C(5).
+
+Author information:
+(1)Université de Poitiers, Équipe Récepteurs, Régulations et Cellules Tumorales 
+(2RCT), Pôle Biologie Santé, Bât. B36/B37, UFR Sciences Fondamentales et 
+Appliquées, 1 rue Georges Bonnet TSA, 51106 86073 Poitiers Cedex 9, France.
+(2)Université de Rouen, INSERM U982, Equipe Neuropeptides, survie neuronale et 
+plasticité cellulaire, IRIB, UFR Sciences et Techniques, Place E. Blondel, 76821 
+Mont-Saint-Aignan, France.
+(3)INRS, Institut Armand-Frappier, 531 boul. des Prairies, Laval, QC H7V 1B7, 
+Canada.
+(4)Université de la Réunion, Stemcis c/o CYROI, 2, rue Maxime Rivière, 97490 
+Sainte Clotilde, France.
+(5)Université de Poitiers, Équipe Récepteurs, Régulations et Cellules Tumorales 
+(2RCT), Pôle Biologie Santé, Bât. B36/B37, UFR Sciences Fondamentales et 
+Appliquées, 1 rue Georges Bonnet TSA, 51106 86073 Poitiers Cedex 9, France. 
+Electronic address: corinne.chadeneau@univ-poitiers.fr.
+
+Neuroblastoma (NB) is a pediatric cancer. New therapies for high-risk NB aim to 
+induce cell differentiation and to inhibit MYCN and ALK signaling in NB. The 
+vasoactive intestinal peptide (VIP) and the pituitary adenylate 
+cyclase-activating polypeptide (PACAP) are 2 related neuropeptides sharing 
+common receptors. The level of VIP increases with NB differentiation. Here, the 
+effects of VIP and PACAP analogs developed for therapeutic use were studied in 
+MYCN-amplified NB SK-N-DZ and IMR-32 cells and in Kelly cells that in addition 
+present the F1174L ALK mutation. As previously reported by our group in IMR-32 
+cells, VIP induced neuritogenesis in SK-N-DZ and Kelly cells and reduced MYCN 
+expression in Kelly but not in SK-N-DZ cells. VIP decreased AKT activity in the 
+ALK-mutated Kelly cells. These effects were PKA-dependent. IMR-32, SK-NDZ and 
+Kelly cells expressed the genes encoding the 3 subtypes of VIP and PACAP 
+receptors, VPAC1, VPAC2 and PAC1. In parallel to its effect on MYCN expression, 
+VIP inhibited invasion in IMR-32 and Kelly cells. Among the 3 PACAP analogs 
+tested, [Hyp(2)]PACAP-27 showed higher efficiency than VIP in Kelly cells. These 
+results indicate that VIP and PACAP analogs act on molecular and cellular 
+processes that could reduce aggressiveness of high-risk NB.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.peptides.2016.01.014
+PMID: 26826611 [Indexed for MEDLINE]
+
+
+9. J Neurooncol. 2015 Mar;122(1):63-73. doi: 10.1007/s11060-014-1697-6. Epub 2015 
+Jan 7.
+
+Neuropeptides of the VIP family inhibit glioblastoma cell invasion.
+
+Cochaud S(1), Meunier AC, Monvoisin A, Bensalma S, Muller JM, Chadéneau C.
+
+Author information:
+(1)Equipe émergente « Récepteurs, régulations et cellules tumorales » (2RCT), 
+Université de Poitiers, 1 rue Georges Bonnet, TSA 51106, 86073, Poitiers Cedex 
+9, France.
+
+Vasoactive intestinal peptide (VIP) and pituitary adenylate cyclase-activating 
+polypeptide (PACAP) are neuropeptides acting through VPAC1, VPAC2 and PAC1 
+receptors (referred here as the VIP-receptor system). In the central nervous 
+system, VIP and PACAP are involved in neurogenesis, cell differentiation and 
+migration, suggesting that they could be implicated in the development of 
+glioblastoma (GBM). The infiltrative nature of GBM remains a major problem for 
+the therapy of these tumors. We previously demonstrated that the VIP-receptor 
+system regulated cell migration of the human cell lines M059J and M059K, derived 
+from a single human GBM. Here, we evaluated the involvement of the VIP-receptor 
+system in GBM cell invasion. In Matrigel invasion assays, M059K cells that 
+express more the VIP-receptor system than M059J cells were less invasive. 
+Invasion assays performed in the presence of agonists, antagonists or anti-PACAP 
+antibodies as well as experiments with transfected M059J cells overexpressing 
+the VPAC1 receptor indicated that the more the VIP-receptor system was expressed 
+and activated, the less the cells were able to invade. Western immunoblotting 
+experiments revealed that the VIP-receptor system inactivated the signaling 
+protein AKT. Invasion assays carried out in the presence of an AKT inhibitor 
+demonstrated the involvement of this signaling kinase in the regulation of cell 
+invasion by the VIP-receptor system in M059K cells. The inhibition by VIP of 
+invasion and AKT was also observed in U87 cells. In conclusion, VIP and PACAP 
+act as anti-invasive factors in different GBM cell lines, a function mediated by 
+VPAC1 inhibition of AKT signaling in M059K cells.
+
+DOI: 10.1007/s11060-014-1697-6
+PMID: 25563813 [Indexed for MEDLINE]
+
+
+10. Tumour Biol. 2014 Jul;35(7):6397-404. doi: 10.1007/s13277-014-1852-x. Epub 2014 
+Mar 28.
+
+VPAC1 overexpression is associated with poor differentiation in colon cancer.
+
+Liu S(1), Zeng Y, Li Y, Guo W, Liu J, Ouyang N.
+
+Author information:
+(1)The laboratory of Surgery, Pingxiang Health School, Pingxiang, Jiangxi 
+province, China.
+
+Vasoactive intestinal peptide (VIP) is a neurotransmitter that primarily 
+functions as a vasodilator. VIP plays its role through binding to its receptors 
+known as VIP/pituitary adenylate cyclase-activating peptide receptors (VPACs). 
+In this study, we examined the expression of VPAC1 in human colon cancer 
+tissues, analyzed the relationship between VPAC1 expression and cancer 
+malignancy, and explored the possible mechanisms using immunohistochemistry and 
+immunofluorescence double staining. The results showed that (1) poorly 
+differentiated colon cancers have significantly higher VPAC1 expression than 
+well-differentiated colon cancers do (p < 0.01); (2) phospho-epithelial growth 
+factor receptor (EGFR) overexpression/activation in the cytoplasm of cancer 
+cells is related to VPAC1 overexpression; (3) blood vessels surrounding colon 
+cancer have significantly more VPAC1-positive than normal colon mucosa does; (4) 
+tumor-associated macrophages (TAMs) of colon cancer have a higher level of VPAC1 
+expression than macrophages in normal colon mucosa do. These data suggest that 
+VPAC1 overexpression is associated with poorer differentiation of colon cancer, 
+which is likely caused by subsequent EGFR activation in cancer cells. In 
+addition, VPAC1 overexpression in both blood vessels and macrophages in tumors 
+may also play an important role in the development of aggressive cancer.
+
+DOI: 10.1007/s13277-014-1852-x
+PMID: 24671823 [Indexed for MEDLINE]
+
+
+11. PLoS One. 2014 Mar 18;9(3):e91541. doi: 10.1371/journal.pone.0091541. 
+eCollection 2014.
+
+Pituitary adenylate cyclase activating polypeptide (PACAP) signalling exerts 
+chondrogenesis promoting and protecting effects: implication of calcineurin as a 
+downstream target.
+
+Juhász T(1), Matta C(1), Katona É(1), Somogyi C(1), Takács R(1), Gergely P(2), 
+Csernoch L(3), Panyi G(4), Tóth G(5), Reglődi D(6), Tamás A(6), Zákány R(1).
+
+Author information:
+(1)Department of Anatomy, Histology and Embryology, University of Debrecen, 
+Faculty of Medicine, Debrecen, Hungary.
+(2)Cell Biology and Signalling Research Group of the Hungarian Academy of 
+Sciences, Department of Medical Chemistry, Research Centre for Molecular 
+Medicine, Faculty of Medicine, University of Debrecen, Debrecen, Hungary.
+(3)Department of Physiology, University of Debrecen, Faculty of Medicine, 
+Debrecen, Hungary.
+(4)Department of Biophysics and Cell Biology, University of Debrecen, Faculty of 
+Medicine, Debrecen, Hungary.
+(5)Department of Medical Chemistry, University of Szeged, Faculty of Medicine, 
+Szeged, Hungary.
+(6)Department of Anatomy PTE-MTA "Lendület" PACAP Research Team, University of 
+Pécs, Medical School, Pécs, Hungary.
+
+Pituitary adenylate cyclase activating polypeptide (PACAP) is an important 
+neurotrophic factor influencing differentiation of neuronal elements and 
+exerting protecting role during traumatic injuries or inflammatory processes of 
+the central nervous system. Although increasing evidence is available on its 
+presence and protecting function in various peripheral tissues, little is known 
+about the role of PACAP in formation of skeletal components. To this end, we 
+aimed to map elements of PACAP signalling in developing cartilage under 
+physiological conditions and during oxidative stress. mRNAs of PACAP and its 
+receptors (PAC1,VPAC1, VPAC2) were detectable during differentiation of chicken 
+limb bud-derived chondrogenic cells in micromass cell cultures. Expression of 
+PAC1 protein showed a peak on days of final commitment of chondrogenic cells. 
+Administration of either the PAC1 receptor agonist PACAP 1-38, or PACAP 6-38 
+that is generally used as a PAC1 antagonist, augmented cartilage formation, 
+stimulated cell proliferation and enhanced PAC1 and Sox9 protein expression. 
+Both variants of PACAP elevated the protein expression and activity of the 
+Ca-calmodulin dependent Ser/Thr protein phosphatase calcineurin. Application of 
+PACAPs failed to rescue cartilage formation when the activity of calcineurin was 
+pharmacologically inhibited with cyclosporine A. Moreover, exogenous PACAPs 
+prevented diminishing of cartilage formation and decrease of calcineurin 
+activity during oxidative stress. As an unexpected phenomenon, PACAP 6-38 
+elicited similar effects to those of PACAP 1-38, although to a different extent. 
+On the basis of the above results, we propose calcineurin as a downstream target 
+of PACAP signalling in differentiating chondrocytes either in normal or 
+pathophysiological conditions. Our observations imply the therapeutical 
+perspective that PACAP can be applied as a natural agent that may have 
+protecting effect during joint inflammation and/or may promote cartilage 
+regeneration during degenerative diseases of articular cartilage.
+
+DOI: 10.1371/journal.pone.0091541
+PMCID: PMC3958376
+PMID: 24643018 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+12. J Endocrinol. 2014 Mar 13;221(1):121-31. doi: 10.1530/JOE-13-0565. Print 2014 
+Apr.
+
+VIP contribution to the decidualization program: regulatory T cell recruitment.
+
+Grasso E(1), Paparini D, Agüero M, Mor G, Pérez Leirós C, Ramhorst R.
+
+Author information:
+(1)Immunopharmacology Laboratory, School of Sciences, University of Buenos Aires 
+and IQUIBICEN- CONICET (National Research Council of Science and Technology), 
+Int. Guiraldes 2160, Ciudad Universitaria, Pabellón 2 Piso 4, Buenos Aires 
+C1428EHA, Argentina School of Sciences, University of Buenos Aires, Buenos 
+Aires, Argentina Obstetrics, Gynecology and Reproductive Sciences, School of 
+Medicine, Yale University, New Haven, Connecticut, USA.
+
+During early pregnancy, the human uterus undergoes profound tissue remodeling 
+characterized by leukocyte invasion and production of proinflammatory cytokines, 
+followed by tissue repair and tolerance maintenance induction. Vasoactive 
+intestinal peptide (VIP) is produced by trophoblast cells and modulates the 
+maternal immune response toward a tolerogenic profile. Here, we evaluated the 
+contribution of the VIP/VPAC to endometrial renewal, inducing decidualization 
+and the recruitment of induced regulatory T cells (iTregs) that accompany the 
+implantation period. For that purpose, we used an in vitro model of 
+decidualization with a human endometrial stromal cell line (HESC) stimulated 
+with progesterone (P4) and lipopolysaccharide (LPS) simulating the inflammatory 
+response during implantation and human iTregs (CD4(+)CD25(+)FOXP3(+)) 
+differentiated from naïve T cells obtained from peripheral blood mononuclear 
+cells of fertile women. We observed that VIP and its receptor VPAC1 are 
+constitutively expressed in HESCs and that P4 increased VIP expression. 
+Moreover, in HESC VIP induced expression of RANTES (CCL5), one of the main 
+chemokines involved in T cell recruitment, and this effect is enhanced by the 
+presence of P4 and LPS. Finally, assays of the migration of iTregs toward 
+conditioned media from HESCs revealed that endogenous VIP production induced by 
+P4 and LPS and RANTES production were involved, as anti-RANTES neutralizing Ab 
+or VIP antagonist prevented their migration. We conclude that VIP may have an 
+active role in the decidualization process, thus contributing to recruitment of 
+iTregs toward endometrial stromal cells by increasing RANTES expression in a 
+P4-dependent manner.
+
+DOI: 10.1530/JOE-13-0565
+PMID: 24492467 [Indexed for MEDLINE]
+
+
+13. J Occup Med Toxicol. 2013 Oct 10;8(1):28. doi: 10.1186/1745-6673-8-28.
+
+Expression of VPAC1 in a murine model of allergic asthma.
+
+Lauenstein HD(1), Quarcoo D, Welte T, Braun A, Groneberg DA.
+
+Author information:
+(1)Institute of Occupational Medicine, Social Medicine and Environmental 
+Medicine, Medical School, Goethe-University Frankfurt, Frankfurt, Germany. 
+arbsozmed@med.uni-frankfurt.de.
+
+Vasoactive intestinal polypeptide (VIP) is a putative neurotransmitter of the 
+inhibitory non-adrenergic non-cholinergic nervous system and influences the 
+mammalian airway function in various ways. Hence known for bronchodilatory, 
+immunomodulatory and mucus secretion modulating effects by interacting with the 
+VIP receptors VPAC1 and VPAC2, it is discussed to be a promising target for 
+pharmaceutical intervention in common diseases such as COPD and bronchial 
+asthma. Here we examined the expression and transcriptional regulation of VPAC1 
+in the lungs of allergic mice using an ovalbumin (OVA) -induced model of 
+allergic asthma. Mice were sensitized to OVA and challenged with an OVA aerosol. 
+In parallel a control group was sham sensitized with saline. VPAC1 expression 
+was examined using RT-PCR and real time-PCR studies were performed to quantify 
+gene transcription. VPAC1 mRNA expression was detected in all samples of 
+OVA-sensitized and challenged animals and control tissues. Further realtime 
+analysis did not show significant differences at the transcriptional 
+level.Although the present studies did not indicate a major transcriptional 
+regulation of VPAC1 in states of allergic airway inflammation, immunomodulatory 
+effects of VPAC1 might still be present due to regulations at the translational 
+level.
+
+DOI: 10.1186/1745-6673-8-28
+PMCID: PMC3852716
+PMID: 24107483
+
+
+14. Neuroscience. 2011 Dec 29;199:103-15. doi: 10.1016/j.neuroscience.2011.09.062. 
+Epub 2011 Oct 4.
+
+Pituitary adenylate cyclase-activating polypeptide and vasoactive intestinal 
+polypeptide promote the genesis of calcium currents in differentiating mouse 
+embryonic stem cells.
+
+Chafai M(1), Basille M, Galas L, Rostene W, Gressens P, Vaudry H, Gonzalez BJ, 
+Louiset E.
+
+Author information:
+(1)INSERM U982, IFRMP23, University of Rouen, 76821 Mont-Saint-Aignan, France.
+
+Identification of novel molecules that can induce neuronal differentiation of 
+embryonic stem (ES) cells is essential for deciphering the molecular mechanisms 
+of early development and for exploring cell therapy approaches. Pituitary 
+adenylate cyclase-activating polypeptide (PACAP) and vasoactive intestinal 
+polypeptide (VIP) are known to be implicated early during ontogenesis in cell 
+proliferation and neuronal differentiation. The aim of the present study was to 
+determine the effects of VIP and PACAP on functional differentiation of ES 
+cells. Quantitative-reverse transcription-polymerase chain reaction analysis 
+showed an inversion of the expression pattern of PAC1 and VPAC1 receptors with 
+time. ES cells expressed genes encoding extracellular signal-regulated kinase 1 
+and 2 and c-jun amino terminal kinase1. ES cells also expressed T-type α1I and 
+α1G, L-type α1C and α1D, and N-type α1B calcium channel subunit mRNAs. Both 
+peptides modified the shape of undifferentiated ES cells into bipolar cells 
+expressing the neuronal marker neuron-specific enolase (NSE). Immunostaining 
+indicated that PACAP intensified T-type α1I subunit immunoreactivity, whereas 
+VIP increased L-types α1C and α1D, as well as N-type α1B subunit. 
+Electrophysiological recording showed that VIP and PACAP enhanced transient 
+calcium current. Moreover, VIP generated sustained calcium current. These 
+findings demonstrate that PACAP and VIP induce morphological and functional 
+differentiation of ES cells into a neuronal phenotype. Both peptides promote 
+functional maturation of calcium channel subunits, suggesting that they can 
+facilitate the genesis of cellular excitability.
+
+Copyright © 2011 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2011.09.062
+PMID: 22001490 [Indexed for MEDLINE]
+
+
+15. Stem Cells. 2009 Oct;27(10):2539-51. doi: 10.1002/stem.184.
+
+The neurotransmitter VIP expands the pool of symmetrically dividing postnatal 
+dentate gyrus precursors via VPAC2 receptors or directs them toward a neuronal 
+fate via VPAC1 receptors.
+
+Zaben M(1), Sheward WJ, Shtaya A, Abbosh C, Harmar AJ, Pringle AK, Gray WP.
+
+Author information:
+(1)Division of Clinical Neurosciences, University of Southampton, United 
+Kingdom.
+
+The controlled production of neurons in the postnatal dentate gyrus and 
+throughout life is important for hippocampal learning and memory. The mechanisms 
+underlying the necessary coupling of neuronal activity to neural stem/progenitor 
+cell (NSPC) function remain poorly understood. Within the dentate subgranular 
+stem cell niche, local interneurons appear to play an important part in this 
+excitation-neurogenesis coupling via GABAergic transmission, which promotes 
+neuronal differentiation and integration. Here we show that vasoactive 
+intestinal polypeptide, a neuropeptide coreleased with GABA under specific 
+firing conditions, is uniquely trophic for proliferating postnatal 
+nestin-positive dentate NSPCs, mediated via the VPAC(2) receptor. We also show 
+that VPAC(2) receptor activation shifts the fate of symmetrically dividing NSPCs 
+toward a nestin-only phenotype, independent of the trophic effect. In contrast, 
+selective VPAC(1) receptor activation shifts NSPC fate toward granule cell 
+neurogenesis without any trophism. We confirm a trophic role for VPAC(2) 
+receptors in vivo, showing reduced progeny survival and dentate neurogenesis in 
+adult Vipr2(-/-) mice. We also show a specific reduction in type 2 
+nestin-positive precursors in vivo, consistent with a role for VPAC(2) in 
+maintaining this cell population. This work provides the first evidence of 
+differential fate modulation of neurogenesis by neurotransmitter receptor 
+subtypes and extends the fate-determining effects of neurotransmitters to 
+maintaining the nestin-positive pool of NSPCs. This differential receptor effect 
+may support the independent pharmacological manipulation of precursor pool 
+expansion and neurogenic instruction for therapeutic application in the 
+treatment of cognitive deficits associated with a decline in neurogenesis.
+
+DOI: 10.1002/stem.184
+PMID: 19650041 [Indexed for MEDLINE]
+
+
+16. Ann N Y Acad Sci. 2008 Nov;1144:83-9. doi: 10.1196/annals.1418.020.
+
+Vasoactive intestinal peptide-mediated Th17 differentiation: an expanding 
+spectrum of vasoactive intestinal peptide effects in immunity and autoimmunity.
+
+Yadav M(1), Goetzl EJ.
+
+Author information:
+(1)Department of Medicine and Microbiology-Immunology, University of California, 
+San Francisco, CA 94143-0711, USA. mahesh.yadav@ucsf.edu
+
+Interactions between neural and immune effector pathways serve a vital role in 
+mammalian defenses against foreign pathogens and toxins. The immune system 
+initiates processes leading to the release of diverse mediators and cytokines 
+that recruit neural and endocrine involvement in immunity. Inversely, 
+transmitters released from nerves innervating immune organs regulate the 
+development and functions of the immune cells. Vasoactive intestinal peptide 
+(VIP) is the quantitatively and functionally most prominent immunoregulatory 
+neuropeptide that participates in local tissue immune responses by potently 
+affecting T cell and macrophage migration, proliferation, and cytokine 
+production. T cells, macrophages, and mast cells express the VIP G 
+protein-coupled receptors (GPCR) VPAC(1) and VPAC(2) that transduce the effects 
+of VIP on immunity. The VIP-VPAC axes also are coupled to abnormal T cell 
+functions in different autoimmune conditions. Recently, it has been shown that 
+VIP also enhances the differentiation of distinctive type of proinflammatory 
+Th17 cells by a VPAC(1)-dependent mechanism. This unique VIP-VPAC(1) signaling 
+in Th17 cell differentiation expands our understanding of VIP immune functions, 
+provides new insights into the immune roles of individual VPAC receptors, and 
+offers meaningful possibilities for improving therapeutic potential of VIP in 
+immune disorders.
+
+DOI: 10.1196/annals.1418.020
+PMID: 19076367 [Indexed for MEDLINE]
+
+
+17. J Immunol. 2008 Mar 1;180(5):2772-6. doi: 10.4049/jimmunol.180.5.2772.
+
+Cutting edge: vasoactive intestinal peptide (VIP) induces differentiation of 
+Th17 cells with a distinctive cytokine profile.
+
+Yadav M(1), Rosenbaum J, Goetzl EJ.
+
+Author information:
+(1)Department of Medicine, University of California Medical Center, San 
+Francisco, CA 94143, USA.
+
+Immune cellular effects of vasoactive intestinal peptide (VIP) are transduced by 
+VIP G protein-coupled receptors type 1 (VPAC1) and type 2 (VPAC2). We now show 
+that VIP with TGFbeta stimulates the transformation of CD4 T cells to a 
+distinctive type of Th17 cell that generates IL-17 but not IL-6 or IL-21. VIP 
+induction of Th17 cells was higher in VPAC2 knockout mice than wild-type mice, 
+suggesting that VPAC1 is the principal transducer. Compared with Th17 cells 
+elicited by IL-6, those evoked by VIP were similar in the secretion of IL-17 and 
+IL-22, but lacked IL-21 secretion. Suppression of VIP induction of Th17 cells by 
+protein kinase A inhibitors and enhancement by pharmacologically increased cAMP 
+supports a role for this signal. The ability of VIP-VPAC1 axis signals to evoke 
+development of a novel type of Th17 cells demonstrates the unique specificity of 
+neuroregulatory mechanisms in the immunological environment.
+
+DOI: 10.4049/jimmunol.180.5.2772
+PMID: 18292497 [Indexed for MEDLINE]
+
+
+18. Regul Pept. 2005 Mar 15;126(1-2):109-13. doi: 10.1016/j.regpep.2004.08.018.
+
+Differential expression of mRNAs for PACAP and its receptors during neural 
+differentiation of embryonic stem cells.
+
+Hirose M(1), Hashimoto H, Shintani N, Nakanishi M, Arakawa N, Iga J, Niwa H, 
+Miyazaki J, Baba A.
+
+Author information:
+(1)Laboratory of Molecular Neuropharmacology, Graduate School of Pharmaceutical 
+Sciences, Osaka University, Suita, Osaka 565-0871, Japan.
+
+The expressions of mRNAs for pituitary adenylate cyclase-activating polypeptide 
+(PACAP), vasoactive intestinal peptide (VIP), and their receptors (PAC1, VPAC1 
+and VPAC2) were examined in the five steps of the in vitro neuronal culture 
+model of embryonic stem (ES) cell differentiation. mRNAs for PACAP, VIP, PAC1 
+receptor, and VPAC2 receptor were moderately expressed in neural stem 
+cell-enriched cultures, while VPAC1 receptor mRNA was most prominently expressed 
+in embryoid bodies (EBs). The expression of PAC1 receptor mRNA was further 
+upregulated after terminal differentiation into neurons. In contrast, the 
+expressions of PAC1 receptor and PACAP mRNAs were markedly decreased after glial 
+differentiation. These results suggest that this in vitro neuronal culture 
+system will be a useful model for future studies on the functional role of the 
+PACAPergic system during different stages of neuronal development.
+
+DOI: 10.1016/j.regpep.2004.08.018
+PMID: 15620423 [Indexed for MEDLINE]
+
+
+19. J Immunol. 2004 Jun 15;172(12):7289-96. doi: 10.4049/jimmunol.172.12.7289.
+
+c-Maf and JunB mediation of Th2 differentiation induced by the type 2 G 
+protein-coupled receptor (VPAC2) for vasoactive intestinal peptide.
+
+Voice J(1), Donnelly S, Dorsam G, Dolganov G, Paul S, Goetzl EJ.
+
+Author information:
+(1)Departments of Medicine and Microbiology/Immunology, Medical Center, 
+University of California-San Francisco, 533 Parnassus at 4th, San Francisco, CA 
+94143, USA.
+
+Vasoactive intestinal peptide and its G protein-coupled receptors, VPAC(1) and 
+VPAC(2), regulate critical aspects of innate and adaptive immunity. T cell 
+VPAC(2)Rs mediate changes in cytokine generation, which potently increase the 
+Th2/Th1 ratio and consequently shift the effector responses toward allergy and 
+inflammation. To examine mechanisms of VPAC(2) promotion of the Th2 phenotype, 
+we analyzed controls of IL-4 transcription in CD4 T cells from T cell-targeted 
+VPAC(2) transgenic (Tg), VPAC(2) knockout, and wild-type (WT) mice. c-maf and 
+junB mRNA, protein, and activity were significantly up-regulated to a higher 
+level in TCR-stimulated CD4 T cells from Tg mice compared with those from 
+knockout and WT C57BL/6 mice. In contrast, GATA3, T-bet, and NFATc levels were 
+identical in WT and Tg CD4 T cells. Vasoactive intestinal peptide binding to 
+VPAC(2) on CD4 T cells specifically induces an up-regulation of the Th2-type 
+transcription factors c-Maf and JunB, which consequently enhances IL-4 and IL-5 
+production, leading to a Th2-type phenotype.
+
+DOI: 10.4049/jimmunol.172.12.7289
+PMID: 15187104 [Indexed for MEDLINE]
+
+
+20. Zhonghua Jie He He Hu Xi Za Zhi. 2004 Apr;27(4):224-8.
+
+[The temporal and spatial distribution of vasoactive intestinal peptide and its 
+receptor in the development of airway hyperresponsiveness].
+
+[Article in Chinese]
+
+Ren YH(1), Qin XQ, Guan CX, Luo ZQ, Zhang CQ, Sun XH.
+
+Author information:
+(1)Department of Physiology, Xiangya Medical College, Central South University, 
+Changsha 410078, China.
+
+OBJECTIVE: To determine the possible involvement of vasoactive intestinal 
+peptide (VIP) in the development of airway hyper responsiveness (AHR).
+METHODS: Twenty-five rabbits were randomly divided into five groups (5 animals 
+each). Four groups were exposed to 2.0 ppm ozone 1 h/day for 1 (group B(0)), 2 
+(group B(1)), 4 (group B(2)), and 8 (group B(3)) days, respectively. The control 
+group (group A) breathed only filtered room air. The changes of the VIP level 
+and the mRNA expression of VIP receptor 1 (VIPR1) in the lung were detected at 
+various ozone-stressing time points. In situ hybridization was performed to 
+examine the distribution of VIPR1 in the lung.
+RESULTS: (1) The concentration of VIP in the lung increased slowly and were 
+maximal at day 4, then returned to the normal level. (2) The changing pattern of 
+the VIPR1 mRNA in the lung was similar to those observed for VIP. Increases in 
+VIPR1 mRNA were detectable by 1 day and maximal by 2 - 4 days, and then 
+decreased slowly. (3) In group A, VIPR1 was expressed on airway epithelium, in 
+pulmonary interstitial and focal areas of airways and vascular smooth muscles. 
+By days 2 to 4, hybridization staining increased and the majority of 
+VIPR1-positive cells was located in the perivascular and peribronchiolar area. 
+On day 8, very few positive cells were seen in the lung.
+CONCLUSION: VIP may play an important role in the development of AHR by binding 
+with VIPR1.
+
+PMID: 15144609 [Indexed for MEDLINE]
+
+
+21. Sheng Li Xue Bao. 2004 Apr 25;56(2):137-46.
+
+Temporal and spatial distribution of VIP, CGRP and their receptors in the 
+development of airway hyperresponsiveness in the lungs.
+
+Ren YH(1), Qin XQ, Guan CX, Luo ZQ, Zhang CQ, Sun XH.
+
+Author information:
+(1)Department of Physiology, XiangYa Medical School, Central South University, 
+Changsha 410078,China.
+
+To explore the role of intrapulmonary neuropeptides in the development of airway 
+hyperresponsiveness, we established an animal model of airway 
+hyperresponsiveness (AHR) in rabbits by using ozone exposure. With the model, 
+after test of the mechanics of respiration and bronchoalveolar lavage assay, the 
+levels of vasoactive intestinal peptide (VIP) and calcitonin gene-related 
+peptide (CGRP) in the lungs were determined by radioimmunoassay, and the 
+expression of mRNA coding receptors of these two neuropeptides was evaluated by 
+reverse transcriptional-polymerase chain reaction (RT-PCR). At the same time, 
+the distribution of VIP receptor-1 (VIPR1) and CGRP receptor-1 (CGRPR1) in lung 
+tissues and its time-course were examined by in situ hybridization. The results 
+showed: (1) in ozone-stressing groups, airway resistance increased significantly 
+and typical inflammatory pathological changes were observed in pulmonary tissue 
+slides, including neutrophil and eosinophil infiltration, mucus exudation and 
+bronchial epithelial cells (BECs) shedding; (2) with elongation of ozone 
+exposure, the levels of VIP and CGRP in the lungs increased at first, reaching a 
+peak on d 2 to 4, then decreased slowly, and CGRP peaked somewhat earlier than 
+VIP; (3) mRNA expression of the two neuropeptide receptors in the lungs changed 
+in a similar manner like VIP and CGRP, but the high level of mRNA expression of 
+VIPR1 lasted longer than that of CGRPR1; and (4) in situ hybridization for 
+neuropeptide receptors demonstrated that, in unstressed control, VIPR1 and 
+CGRPR1 positive cells appeared in the airway epithelium, pulmonary interstitial 
+and focal areas of airway and vascular smooth muscles. With the elongation of 
+ozone exposure, hybridization stained deeper and the majority of positive cells 
+were located around the vessels and bronchus except a few in the alveoli. At 8 
+d, only a small number of positive cells were seen in the lungs. From the 
+results, it is concluded that ozone-stressing can induce the development of AHR, 
+in which VIP and CGRP may play important roles. That implies, through binding to 
+CGRPR1, CGRP stimulates an early inflammation response which contributes in 
+cleaning up of irritants, while VIP exerts a later dampening of pulmonary 
+inflammation response. These two neuropeptides may play sequential and 
+complementary roles in the development of AHR.
+
+PMID: 15127121 [Indexed for MEDLINE]
+
+
+22. Eur J Neurosci. 2004 Feb;19(4):798-808. doi: 10.1111/j.0953-816x.2004.03138.x.
+
+VIP and PACAP induce selective neuronal differentiation of mouse embryonic stem 
+cells.
+
+Cazillis M(1), Gonzalez BJ, Billardon C, Lombet A, Fraichard A, Samarut J, 
+Gressens P, Vaudry H, Rostène W.
+
+Author information:
+(1)INSERM E0350, Hôpital St Antoine, 184 Rue du Fg St Antoine, 75012 Paris, 
+France.
+
+The capacity of embryonic stem cells (ES cells) to differentiate into neuronal 
+cells represents a potential source for neuronal replacement and a model for 
+studying factors controlling early stages of neuronal differentiation. Various 
+molecules have been used to induce such differentiation but so far neuropeptides 
+acting via functional G-protein-coupled receptors (GPCRs) have not been 
+investigated. Vasoactive intestinal polypeptide (VIP) and pituitary adenylate 
+cyclase-activating polypeptide (PACAP) are neuropeptides expressed in early 
+development which affect neuronal precursor proliferation and neuronal 
+differentiation. VIP and PACAP share two common receptors (VPAC1 and VPAC2 
+receptors) while only PACAP binds with high affinity to PAC1 receptors. The aim 
+of the study was to determine whether VIP and PACAP could produce functional 
+neuronal differentiation of ES cells. Mouse ES cells were allowed to aggregate 
+in embryoid bodies (EBs) in the presence or not of VIP and PACAP for 1 week. VIP 
+and PACAP potently increased the proportion of EB-derived cells expressing 
+specifically a neuronal phenotype shown by immunocytochemistry and neurite 
+outgrowth without altering glial cell number. Binding and RT-PCR analyses 
+demonstrated the presence of VPAC2 and PAC1 receptors on ES cells. Accordingly, 
+both peptides increased cyclic AMP and intracellular calcium. In contrast, 
+EB-derived cells only expressed a functional PAC1 receptor, suggesting a switch 
+in GPCR phenotype during ES cell differentiation. These original data 
+demonstrate that functional GPCRs for VIP and PACAP are present on ES cells and 
+that these neuropeptides may induce their differentiation into a neuronal 
+phenotype. It opens an exciting new field for neuropeptide regulation of tissue 
+ontogenesis.
+
+DOI: 10.1111/j.0953-816x.2004.03138.x
+PMID: 15009127 [Indexed for MEDLINE]
+
+
+23. Eur J Immunol. 2000 Nov;30(11):3236-46. doi: 
+10.1002/1521-4141(200011)30:11<3236::AID-IMMU3236>3.0.CO;2-L.
+
+Anti-inflammatory properties of the type 1 and type 2 vasoactive intestinal 
+peptide receptors: role in lethal endotoxic shock.
+
+Delgado M(1), Gomariz RP, Martinez C, Abad C, Leceta J.
+
+Author information:
+(1)Departamento de Biologia Celular, Facultad de Biologia, Universidad 
+Complutense, Madrid, Spain.
+
+Vasoactive intestinal peptide (VIP) is a neuropeptide that can modulate several 
+immune aspects. Previous reports showed that VIP attenuates the deleterious 
+consequences of septic shock by inhibiting the production of pro-inflammatory 
+agents and stimulating the production of anti-inflammatory cytokines in 
+activated macrophages. In this study, by using selective VIP agonists, we 
+investigated the differential involvement of the VIP receptors in the 
+anti-inflammatory role of VIP. Both the type 1 VIP receptor (VPAC1) agonist, 
+[K(15), R(16), L(27)] VIP 1-7-GRF 8-27, and the type 2 VIP receptor (VPAC2) 
+agonist, Ro25-1553, protected mice from lethal endotoxemia by inhibiting the 
+macrophage-derived pro-inflammatory mediators IL-6, TNF-alpha, IL-12 and NO, and 
+by stimulating the production of the anti-inflammatory cytokine IL-10. In 
+addition, both VIP and VPAC1 agonist, but not the VPAC2 agonist, reduced in 
+vitro and in vivo the expression of the co-stimulatory B7. 1/B7.2 molecules, and 
+the subsequent stimulatory activity for T helper cells in stimulated 
+macrophages. The higher effectiveness of the VPAC1 agonist compared with the 
+VPAC2 agonist suggests that VPAC1 is the major mediator of the anti-inflammatory 
+action of VIP. Since VIP and the two agonists appear to affect multiple 
+cytokines and inflammatory factors, they might provide a more efficient 
+therapeutical alternative to the use of specific cytokine antibodies or 
+antagonists.
+
+DOI: 10.1002/1521-4141(200011)30:11<3236::AID-IMMU3236>3.0.CO;2-L
+PMID: 11093139 [Indexed for MEDLINE]
+
+
+24. FASEB J. 1998 Jan;12(1):119-27. doi: 10.1096/fasebj.12.1.119.
+
+Vasoactive intestinal peptide enhancement of antigen-induced differentiation of 
+a cultured line of mouse thymocytes.
+
+Pankhaniya R(1), Jabrane-Ferrat N, Gaufo GO, Sreedharan SP, Dazin P, Kaye J, 
+Goetzl EJ.
+
+Author information:
+(1)Howard Hughes Medical Institute, University of California, San Francisco 
+94143-0711, USA.
+
+The prominence of vasoactive intestinal peptide (VIP) in rodent thymic neurons 
+suggested that this potent mediator of T cell functions may alter developmental 
+responses of thymocytes to T cell receptor (TCR) -dependent stimulation. CD4+8+ 
+DPK cells derived from a thymic lymphoma of a TCR transgenic mouse respond to 
+pigeon cytochrome C (PCC) antigen in association with distinct I-E MHC II 
+haplotypes on antigen-presenting cells (APCs) by differentiating into CD4+8- T 
+cells. The specific recognition of VIP by two types of homologous 
+G-protein-coupled receptors (VIPR1 and VIPR2) on DPK cells was attributable 
+predominantly to VIPR1 before and to VIPR2 after exposure to APCs and PCC, as 
+assessed by quantification of the respective mRNAs. PCC-evoked differentiation 
+of DPK cells was enhanced significantly by 1 to 100 nM VIP after 3 to 4 days. 
+The effects of VIP analogs with VIPR type selectivity implied that VIP 
+enhancement of differentiation of DPK cells was mediated principally by VIPR2. 
+Differential reduction in the expression of each type of VIPR by transfection of 
+DPK cells with plasmids encoding the respective antisense mRNAs confirmed the 
+central role of VIPR2 in VIP-enhanced conversion to CD4+8- T cells. The 
+suppression of DPK cell differentiation by inhibitors of adenylyl cyclase and 
+protein kinase A suggested a transductional role for VIP-elicited increases in 
+[cAMP]i. That the changes in frequency of CD4+8+ and CD4+8- DPK cells reflected 
+principally differentiation was supported by the lack of consistent differences 
+between the two subsets in the effects of VIP and VIPR2 agonist on cell number, 
+viability, apoptosis, and proliferation. VIP may be one endogenous mediator that 
+explains the unique thymic microenvironment for topographically specific 
+development of T cells.
+
+DOI: 10.1096/fasebj.12.1.119
+PMID: 9438417 [Indexed for MEDLINE]

@@ -1,0 +1,555 @@
+1. bioRxiv [Preprint]. 2024 May 16:2024.05.15.594405. doi: 
+10.1101/2024.05.15.594405.
+
+Endocardial primary cilia and blood flow are required for regulation of EndoMT 
+during endocardial cushion development.
+
+Berg K, Gorham J, Lundt F, Seidman J, Brueckner M.
+
+Blood flow is critical for heart valve formation, and cellular mechanosensors 
+are essential to translate flow into transcriptional regulation of development. 
+Here, we identify a role for primary cilia in vivo in the spatial regulation of 
+cushion formation, the first stage of valve development, by regionally 
+controlling endothelial to mesenchymal transition (EndoMT) via modulation of 
+Kruppel-like Factor 4 (Klf4) . We find that high shear stress intracardiac 
+regions decrease endocardial ciliation over cushion development, correlating 
+with KLF4 downregulation and EndoMT progression. Mouse embryos constitutively 
+lacking cilia exhibit a blood-flow dependent accumulation of KLF4 in these 
+regions, independent of upstream left-right abnormalities, resulting in impaired 
+cushion cellularization. snRNA-seq revealed that cilia KO endocardium fails to 
+progress to late-EndoMT, retains endothelial markers and has reduced 
+EndoMT/mesenchymal genes that KLF4 antagonizes. Together, these data identify a 
+mechanosensory role for endocardial primary cilia in cushion development through 
+regional regulation of KLF4.
+
+DOI: 10.1101/2024.05.15.594405
+PMCID: PMC11118576
+PMID: 38798559
+
+
+2. Sci Rep. 2019 Jun 21;9(1):9027. doi: 10.1038/s41598-019-45195-y.
+
+Conversion of human and mouse fibroblasts into lung-like epithelial cells.
+
+Wong AP(1), Shojaie S(2), Liang Q(3), Xia S(4), Di Paola M(4), Ahmadi S(4), 
+Bilodeau C(2), Garner J(5), Post M(2), Duchesneau P(6), Waddell TK(6), Bear 
+CE(4), Nagy A(3), Rossant J(7)(8)(9).
+
+Author information:
+(1)Program in Developmental & Stem Cell Biology, SickKids Research Institute, 
+Hospital for Sick Children, Toronto, ON, Canada. apwong@sickkids.ca.
+(2)Program in Translational Medicine, SickKids Research Institute, Hospital for 
+Sick Children, Toronto, Canada.
+(3)Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, ON, 
+Canada.
+(4)Program in Molecular Medicine, SickKids Research Institute, Hospital for Sick 
+Children, Toronto, Canada.
+(5)Program in Developmental & Stem Cell Biology, SickKids Research Institute, 
+Hospital for Sick Children, Toronto, ON, Canada.
+(6)Latner Thoracic Surgery Research Laboratories, Toronto General Research 
+Institute, and the McEwen Centre for Regenerative Medicine, Toronto, Canada.
+(7)Program in Developmental & Stem Cell Biology, SickKids Research Institute, 
+Hospital for Sick Children, Toronto, ON, Canada. janet.rossant@sickkids.ca.
+(8)Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada. 
+janet.rossant@sickkids.ca.
+(9)Department of Obstetrics and Gynaecology, University of Toronto, Toronto, 
+Canada. janet.rossant@sickkids.ca.
+
+Cell lineage conversion of fibroblasts to specialized cell types through 
+transdifferentiation may provide a fast and alternative cell source for 
+regenerative medicine. Here we show that transient transduction of fibroblasts 
+with the four reprogramming factors (Oct4, Sox2, Klf4, and c-Myc) in addition to 
+the early lung transcription factor Nkx2-1 (also known as Ttf1), followed by 
+directed differentiation of the cells, can convert mouse embryonic and human 
+adult dermal fibroblasts into induced lung-like epithelial cells (iLEC). These 
+iLEC differentiate into multiple lung cell types in air liquid interface 
+cultures, repopulate decellularized rat lung scaffolds, and form lung epithelia 
+composed of Ciliated, Goblet, Basal, and Club cells after transplantation into 
+immune-compromised mice. As proof-of-concept, differentiated human iLEC 
+harboring the Cystic Fibrosis mutation dF508 demonstrated pharmacological rescue 
+of CFTR function using the combination of lumacaftor and ivacaftor. Overall, 
+this is a promising alternative approach for generation of patient-specific 
+lung-like progenitors to study lung function, disease and future regeneration 
+strategies.
+
+DOI: 10.1038/s41598-019-45195-y
+PMCID: PMC6588580
+PMID: 31227724 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. Exp Cell Res. 2018 Oct 15;371(2):417-425. doi: 10.1016/j.yexcr.2018.09.002. Epub 
+2018 Sep 5.
+
+Kruppel-Like Factor 4 represses osteoblast differentiation via ciliary Hedgehog 
+signaling.
+
+Takeuchi Y(1), Kito A(2), Itoh S(3), Naruse H(3), Fujikawa J(2), Sadek KM(4), 
+Akiyama S(5), Yamashiro T(6), Wakisaka S(7), Abe M(8).
+
+Author information:
+(1)Department of Oral Anatomy and Developmental Biology, Osaka University 
+Graduate School of Dentistry, Osaka, Japan; Department of Orthodontics and 
+Dentofacial Orthopedics, Osaka University Graduate School of Dentistry, Osaka, 
+Japan.
+(2)Department of Oral Anatomy and Developmental Biology, Osaka University 
+Graduate School of Dentistry, Osaka, Japan; Osaka University Dental Hospital 
+Division of Special Care Dentistry, Osaka, Japan.
+(3)Department of Restorative Dentistry and Endodontology, Osaka University 
+Graduate School of Dentistry, Osaka, Japan.
+(4)Department of Oral Anatomy and Developmental Biology, Osaka University 
+Graduate School of Dentistry, Osaka, Japan; Department of Biochemistry, Faculty 
+of Veterinary Medicine, Damnhour University, Egypt.
+(5)Osaka University Dental Hospital Division of Special Care Dentistry, Osaka, 
+Japan.
+(6)Department of Orthodontics and Dentofacial Orthopedics, Osaka University 
+Graduate School of Dentistry, Osaka, Japan.
+(7)Department of Oral Anatomy and Developmental Biology, Osaka University 
+Graduate School of Dentistry, Osaka, Japan.
+(8)Department of Oral Anatomy and Developmental Biology, Osaka University 
+Graduate School of Dentistry, Osaka, Japan. Electronic address: 
+m-abe@dent.osaka-u.ac.jp.
+
+Primary cilia are appendages observed in most types of cells, and serve as 
+cellular antennae for sensing environmental signals. Evidence is accumulating 
+that correct ciliogenesis and ciliary functions are indispensable for normal 
+skeletal development by regulating signaling pathways important for bone 
+development. However, whether ciliogenesis is regulated by bone-related factors 
+in osteoblasts is largely unknown. Here we show that Kruppel-Like Factor 4 
+(KLF4), which is known to repress osteoblast differentiation, supports the 
+formation and maintenance of cilia in cultured osteoblasts; however, the length 
+of the cilia observed in KLF4-induced cells were significantly shorter compared 
+to the control cells. Basal Hedgehog signaling was repressed by KLF4. 
+Significantly, activating Hedgehog signaling using a Smoothened agonist 
+significantly rescued osteoblast mineralization and osteoblastic gene 
+expressions. Global gene expression analysis showed that KLF4 induced number of 
+genes including the nuclear receptor, Pregnane X receptor (PXR), and PXR 
+repressed calvarial osteoblast mineralization and repressed Gli1 expression 
+similar as the effect observed by inducing KLF4. Our results implicate that KLF4 
+plays important roles for maintaining osteoblasts in an immature state by 
+repressing basal activation of the Hedgehog signaling.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexcr.2018.09.002
+PMID: 30193838 [Indexed for MEDLINE]
+
+
+4. Stem Cell Reports. 2017 Dec 12;9(6):1780-1795. doi: 
+10.1016/j.stemcr.2017.10.022. Epub 2017 Nov 30.
+
+Generation of Induced Progenitor-like Cells from Mature Epithelial Cells Using 
+Interrupted Reprogramming.
+
+Guo L(1), Karoubi G(1), Duchesneau P(1), Shutova MV(2), Sung HK(3), Tonge P(2), 
+Bear C(4), Rogers I(5), Nagy A(6), Waddell TK(7).
+
+Author information:
+(1)Division of Thoracic Surgery, Toronto General Hospital Research Institute, 
+University Health Network, University of Toronto, Toronto, ON M5G 2C4, Canada.
+(2)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, ON M5T 
+3H7, Canada.
+(3)Physiology and Experimental Medicine, Hospital for Sick Children, Toronto, ON 
+M5G 0A4, Canada.
+(4)Programme in Molecular Structure and Function, Hospital for Sick Children, 
+Toronto, ON M5G 1X8, Canada.
+(5)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, ON M5T 
+3H7, Canada; Department of Obstetrics and Gynecology, University of Toronto, 
+Toronto, ON M5S 1A1, Canada; Department of Physiology, University of Toronto, 
+Toronto, ON M5S 1A1, Canada.
+(6)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, ON M5T 
+3H7, Canada; Department of Obstetrics and Gynecology, University of Toronto, 
+Toronto, ON M5S 1A1, Canada; Institute of Medical Science, University of 
+Toronto, Toronto, ON M5S 1A1, Canada. Electronic address: nagy@lunenfeld.ca.
+(7)Division of Thoracic Surgery, Toronto General Hospital Research Institute, 
+University Health Network, University of Toronto, Toronto, ON M5G 2C4, Canada. 
+Electronic address: tom.waddell@uhn.ca.
+
+Comment in
+    Cell Stem Cell. 2017 Dec 7;21(6):712-714. doi: 10.1016/j.stem.2017.11.015.
+
+A suitable source of progenitor cells is required to attenuate disease or affect 
+cure. We present an "interrupted reprogramming" strategy to generate "induced 
+progenitor-like (iPL) cells" using carefully timed expression of induced 
+pluripotent stem cell reprogramming factors (Oct4, Sox2, Klf4, and c-Myc; OSKM) 
+from non-proliferative Club cells. Interrupted reprogramming allowed controlled 
+expansion yet preservation of lineage commitment. Under clonogenic conditions, 
+iPL cells expanded and functioned as a bronchiolar progenitor-like population to 
+generate mature Club cells, mucin-producing goblet cells, and cystic fibrosis 
+transmembrane conductance regulator (CFTR)-expressing ciliated epithelium. 
+In vivo, iPL cells can repopulate CFTR-deficient epithelium. This interrupted 
+reprogramming process could be metronomically applied to achieve controlled 
+progenitor-like proliferation. By carefully controlling the duration of 
+expression of OSKM, iPL cells do not become pluripotent, and they maintain their 
+memory of origin and retain their ability to efficiently return to their 
+original phenotype. A generic technique to produce highly specified populations 
+may have significant implications for regenerative medicine.
+
+Copyright © 2017. Published by Elsevier Inc.
+
+DOI: 10.1016/j.stemcr.2017.10.022
+PMCID: PMC5785620
+PMID: 29198829 [Indexed for MEDLINE]
+
+
+5. Stem Cells Dev. 2014 Dec 15;23(24):3065-71. doi: 10.1089/scd.2014.0064.
+
+Sphere formation permits Oct4 reprogramming of ciliary body epithelial cells 
+into induced pluripotent stem cells.
+
+Ni A(1), Wu MJ, Chavala SH.
+
+Author information:
+(1)Department of Ophthalmology, University of North Carolina , Chapel Hill, 
+North Carolina.
+
+Somatic cells can be reprogrammed to induced pluripotent stem (iPS) cells by 
+defined sets of transcription factors. We previously described reprogramming of 
+monolayer-cultured adult mouse ciliary body epithelial (CE) cells by Oct4 and 
+Klf4, but not with Oct4 alone. In this study, we report that Oct4 alone is 
+sufficient to reprogram CE cells to iPS cells through sphere formation. 
+Furthermore, we demonstrate that sphere formation induces a partial 
+reprogramming state characterized by expression of retinal progenitor markers, 
+upregulation of reprogramming transcription factors, such as Sall4 and Nanog, 
+demethylation in the promoter regions of pluripotency associated genes, and 
+mesenchymal to epithelial transition. The Oct4-iPS cells maintained normal 
+karyotypes, expressed markers for pluripotent stem cells, and were capable of 
+differentiating into derivatives of all three embryonic germ layers in vivo and 
+in vitro. These findings suggest that sphere formation may render somatic cells 
+more susceptible to reprogramming.
+
+DOI: 10.1089/scd.2014.0064
+PMCID: PMC4267128
+PMID: 25027059 [Indexed for MEDLINE]
+
+
+6. BMC Biol. 2014 Apr 17;12:28. doi: 10.1186/1741-7007-12-28.
+
+Reprogramming of the chick retinal pigmented epithelium after retinal injury.
+
+Luz-Madrigal A, Grajales-Esquivel E, McCorkle A, DiLorenzo AM, Barbosa-Sabanero 
+K, Tsonis PA, Del Rio-Tsonis K(1).
+
+Author information:
+(1)Department of Biology, Miami University and Center for Visual Sciences at 
+Miami University (CVSMU), Oxford, OH 45056, USA. delriok@miamioh.edu.
+
+BACKGROUND: One of the promises in regenerative medicine is to regenerate or 
+replace damaged tissues. The embryonic chick can regenerate its retina by 
+transdifferentiation of the retinal pigmented epithelium (RPE) and by activation 
+of stem/progenitor cells present in the ciliary margin. These two ways of 
+regeneration occur concomitantly when an external source of fibroblast growth 
+factor 2 (FGF2) is present after injury (retinectomy). During the process of 
+transdifferentiation, the RPE loses its pigmentation and is reprogrammed to 
+become neuroepithelium, which differentiates to reconstitute the different cell 
+types of the neural retina. Somatic mammalian cells can be reprogrammed to 
+become induced pluripotent stem cells by ectopic expression of 
+pluripotency-inducing factors such as Oct4, Sox2, Klf4, c-Myc and in some cases 
+Nanog and Lin-28. However, there is limited information concerning the 
+expression of these factors during natural regenerative processes. Organisms 
+that are able to regenerate their organs could share similar mechanisms and 
+factors with the reprogramming process of somatic cells. Herein, we investigate 
+the expression of pluripotency-inducing factors in the RPE after retinectomy 
+(injury) and during transdifferentiation in the presence of FGF2.
+RESULTS: We present evidence that upon injury, the quiescent (p27(Kip1)+/BrdU-) 
+RPE cells transiently dedifferentiate and express sox2, c-myc and klf4 along 
+with eye field transcriptional factors and display a differential up-regulation 
+of alternative splice variants of pax6. However, this transient process of 
+dedifferentiation is not sustained unless FGF2 is present. We have identified 
+lin-28 as a downstream target of FGF2 during the process of retina regeneration. 
+Moreover, we show that overexpression of lin-28 after retinectomy was sufficient 
+to induce transdifferentiation of the RPE in the absence of FGF2.
+CONCLUSION: These findings delineate in detail the molecular changes that take 
+place in the RPE during the process of transdifferentiation in the embryonic 
+chick, and specifically identify Lin-28 as an important factor in this process. 
+We propose a novel model in which injury signals initiate RPE dedifferentiation, 
+while FGF2 up-regulates Lin-28, allowing for RPE transdifferentiation to 
+proceed.
+
+DOI: 10.1186/1741-7007-12-28
+PMCID: PMC4026860
+PMID: 24742279 [Indexed for MEDLINE]
+
+
+7. Stem Cells Dev. 2013 Sep 15;22(18):2543-50. doi: 10.1089/scd.2012.0600. Epub 
+2013 Jun 5.
+
+Facile and efficient reprogramming of ciliary body epithelial cells into induced 
+pluripotent stem cells.
+
+Ni A(1), Wu MJ, Nakanishi Y, Chavala SH.
+
+Author information:
+(1)Department of Ophthalmology, University of North Carolina, Chapel Hill, North 
+Carolina 27599-7040, USA.
+
+Induced pluripotent stem (iPS) cells are attractive for cell replacement 
+therapy, because they overcome ethical and immune rejection issues that are 
+associated with embryonic stem cells. iPS cells have been derived from 
+autonomous fibroblasts at low efficiency using multiple ectopic transcription 
+factors. Recent evidence suggests that the epigenome of donor cell sources plays 
+an important role in the reprogramming and differentiation characteristics of 
+iPS cells. Thus, identification of somatic cell types that are easily accessible 
+and are more amenable for cellular reprogramming is critical for regenerative 
+medicine applications. Here, we identify ciliary body epithelial cells (CECs) as 
+a new cell type for iPS cell generation that has higher reprogramming efficiency 
+compared with fibroblasts. The ciliary body is composed of epithelial cells that 
+are located in the anterior portion of the eye at the level of the lens and is 
+readily surgically accessible. CECs also have a reduced reprogramming 
+requirement, as we demonstrate that ectopic Sox2 and c-Myc are dispensable. 
+Enhanced reprogramming efficiency may be due to increased basal levels of Sox2 
+in CECs. In addition, we are the first to report a cellular reprogramming 
+haploinsufficiency observed when reprogramming with fewer factors (Oct4 and 
+Klf4) in Sox2 hemizygous cells. Taken together, endogenous Sox2 levels are 
+critical for the enhanced efficiency and reduced exogenous requirement that 
+permit facile cellular reprogramming of CECs.
+
+DOI: 10.1089/scd.2012.0600
+PMCID: PMC3760062
+PMID: 23635313 [Indexed for MEDLINE]
+
+
+8. Dev Neurosci. 2012;34(5):449-62. doi: 10.1159/000345155. Epub 2012 Dec 14.
+
+Leukemia inhibitory factor is essential for subventricular zone neural stem cell 
+and progenitor homeostasis as revealed by a novel flow cytometric analysis.
+
+Buono KD(1), Vadlamuri D, Gan Q, Levison SW.
+
+Author information:
+(1)Department of Neurology and Neuroscience, New Jersey Medical School, 
+University of Medicine and Dentistry of New Jersey, Newark, NJ 07103, USA.
+
+Stem cells rely on extracellular signals produced by the niche, which dictate 
+their ability to self-renew, expand and differentiate. It is essential to have 
+sensitive and reproducible methods of either quantifying or isolating these stem 
+cells and progenitors to understand their intrinsic properties and how extrinsic 
+signals regulate their development. However, stem cells are difficult to 
+distinguish from multipotential progenitors, which may look and act like them. 
+Here we define a 4-color flow cytometry panel using CD133, LeX, CD140a, NG2 to 
+define a neural stem cell (NSC) as well as 4 classes of multipotential 
+progenitors and 3 classes of bipotential progenitors, several of which have not 
+been described previously. We performed gain and loss of function studies for 
+leukemia inhibitory factor (LIF) and showed a depletion of NSCs, a subset of 
+multipotential neural precursors and immature oligodendrocytes in LIF null mice. 
+Gain of function studies showed that LIF increased the abundance of these 
+precursors. Our studies also show that these NPs have differential requirements 
+for LIF and ciliary neurotrophic factor (CNTF) and for epidermal growth factor 
+(EGF), fibroblast growth factor (FGF-2) and platelet-derived growth factor 
+(PDGF) for their propagation in vitro. Surprisingly, the related cytokine, CNTF, 
+was less potent than LIF in increasing the NSCs and more potent than LIF in 
+increasing the PDGF responsive multipotential precursors. Finally, we show that 
+LIF increases the expression of the core transcription factors: Klf4, Fbx15, 
+Nanog, Sox2 and c-Myc. Altogether our FACS (fluorescence-activated cell sorter) 
+analyses reveal that the neonatal subventricular zone is far more heterogeneous 
+than previously suspected and our studies provide new insights into the signals 
+and mechanisms that regulate their self-renewal and proliferation.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+DOI: 10.1159/000345155
+PMCID: PMC3583360
+PMID: 23258129 [Indexed for MEDLINE]
+
+
+9. Proc Natl Acad Sci U S A. 2012 Dec 4;109(49):20035-40. doi: 
+10.1073/pnas.1213241109. Epub 2012 Nov 19.
+
+Conditionally reprogrammed cells represent a stem-like state of adult epithelial 
+cells.
+
+Suprynowicz FA(1), Upadhyay G, Krawczyk E, Kramer SC, Hebert JD, Liu X, Yuan H, 
+Cheluvaraju C, Clapp PW, Boucher RC Jr, Kamonjoh CM, Randell SH, Schlegel R.
+
+Author information:
+(1)Department of Pathology, Georgetown University Medical Center, Washington, DC 
+20057, USA.
+
+The combination of irradiated fibroblast feeder cells and Rho kinase inhibitor, 
+Y-27632, conditionally induces an indefinite proliferative state in primary 
+mammalian epithelial cells. These conditionally reprogrammed cells (CRCs) are 
+karyotype-stable and nontumorigenic. Because self-renewal is a recognized 
+property of stem cells, we investigated whether Y-27632 and feeder cells induced 
+a stem-like phenotype. We found that CRCs share characteristics of adult stem 
+cells and exhibit up-regulated expression of α6 and β1 integrins, ΔNp63α, CD44, 
+and telomerase reverse transcriptase, as well as decreased Notch signaling and 
+an increased level of nuclear β-catenin. The induction of CRCs is rapid (occurs 
+within 2 d) and results from reprogramming of the entire cell population rather 
+than the selection of a minor subpopulation. CRCs do not overexpress the 
+transcription factor sets characteristic of embryonic or induced pluripotent 
+stem cells (e.g., Sox2, Oct4, Nanog, or Klf4). The induction of CRCs is also 
+reversible, and removal of Y-27632 and feeders allows the cells to differentiate 
+normally. Thus, when CRCs from ectocervical epithelium or tracheal epithelium 
+are placed in an air-liquid interface culture system, the cervical cells form a 
+well differentiated stratified squamous epithelium, whereas the tracheal cells 
+form a ciliated airway epithelium. We discuss the diagnostic and therapeutic 
+opportunities afforded by a method that can generate adult stem-like cells in 
+vitro without genetic manipulation.
+
+DOI: 10.1073/pnas.1213241109
+PMCID: PMC3523865
+PMID: 23169653 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: Georgetown 
+University has submitted a PCT patent application on this cell culture 
+technology entitled “Immortalization of epithelial cells and methods of use” 
+(PCT/US2011/060378).
+
+
+10. Mol Vis. 2012;18:1484-504. Epub 2012 Jun 6.
+
+Quantitative changes in gene transcription during induction of differentiation 
+in porcine neural progenitor cells.
+
+Yang J(1), Gu P, Menges S, Klassen H.
+
+Author information:
+(1)Gavin Herbert Eye Institute, University of California, Irvine, CA 92697-1705, 
+USA.
+
+PURPOSE: Differentiation of neural stem/progenitor cells involves changes in the 
+gene expression of these cells. Less clear is the extent to which incremental 
+changes occur and the time course of such changes, particularly in non-rodents.
+METHODS: Using porcine genome microarrays, we analyzed changes in the expression 
+of 23,256 genes in porcine neural progenitor cells (pNPCs) subject to two 
+established differentiation protocols. In addition, we performed sequential 
+quantitative assessment of a defined transcription profile consisting of 15 
+progenitor- and lineage-associated genes following exposure to the same 
+treatment protocols, to examine the temporal dynamics of phenotypic changes 
+following induction of differentiation. Immunocytochemistry was also used to 
+examine the expression of seven of these phenotypically important genes at the 
+protein level. Initial primary isolates were passaged four times in 
+proliferation medium containing 20 ng/ml epidermal growth factor (EGF) and 20 
+ng/ml basic fibroblast growth factor (bFGF) before differentiation was induced. 
+Differentiation was induced by medium without EGF or bFGF and containing either 
+10 ng/ml ciliary neurotrophic factor or 10% fetal bovine serum (FBS). Cultures 
+were fed every two days and harvested on days 0, 1, 3, and 5 for quantitative 
+real-time PCR.
+RESULTS: The microarray results illustrated and contrasted the global shifts in 
+the porcine transcriptome associated with both treatment conditions. PCR 
+confirmed dramatic upregulation of transcripts for myelin basic protein (up to 
+88 fold), claudin 11 (up to 32 fold), glial fibrillary acidic protein (GFAP; up 
+to 26 fold), together with notable (>twofold) increases in message for 
+microtubule associated protein 2 (MAP2) and C-X-C chemokine receptor type 4 
+(CXCR4), Janus kinase 1 (Jak1), signal transducer and activator of transcription 
+1 (STAT1), and signal transducer and activator of transcription 3 (STAT3). 
+Transcripts for nestin and Krüppel-like factor 4 (KLF4) decreased sharply 
+(>twofold). The specific dynamics of expression changes varied according to the 
+transcript and treatment condition over the five days examined following 
+induction. The magnitude of neuronal marker induction was greater for the 
+ciliary neurotrophic factor condition while glial fibrillary acidic protein 
+induction was greater for the FBS condition.
+CONCLUSIONS: The transient dynamic of CXCR4 expression during induction of 
+differentiation, as well as the upregulation of several major histocompatibility 
+complex (MHC) transcripts, has implications in terms of graft integration and 
+tolerance, respectively. These data confirm and extend in the pig the findings 
+previously reported with murine retinal progenitors and support the use of this 
+large animal model for translational development of regenerative approaches to 
+neurologic diseases.
+
+PMCID: PMC3380908
+PMID: 22736940 [Indexed for MEDLINE]
+
+
+11. Sci Signal. 2012 Feb 21;5(212):pt2. doi: 10.1126/scisignal.2002722.
+
+TGF-β signaling in endothelial-to-mesenchymal transition: the role of shear 
+stress and primary cilia.
+
+Ten Dijke P(1), Egorova AD, Goumans MJ, Poelmann RE, Hierck BP.
+
+Author information:
+(1)Department of Molecular Cell Biology, Leiden University Medical Center, 
+Leiden, Netherlands. p.ten_dijke@lumc.nl
+
+Endothelial-to-mesenchymal transition (EndoMT) is an instrumental step in the 
+development of valves in the embryonic heart. This process is driven by 
+activation of transforming growth factor-β (TGF-β) signaling and is 
+characterized by the loss of endothelial and gain of mesenchymal phenotype, and 
+by delamination of cells from the surface into the underlying endocardial 
+cushion matrix. The endothelial cells (ECs) overlying the cushions are typically 
+exposed to high blood flow and concomitant shear stress and do not have a 
+primary cilium. Here, we show that shear stress activates TGF-β-Alk5 signaling 
+in ECs, which is necessary for EndoMT in the cushions. Moreover, we show that 
+the absence of a primary cilium is critically important for this transition 
+process.
+
+DOI: 10.1126/scisignal.2002722
+PMID: 22355187 [Indexed for MEDLINE]
+
+
+12. Proc Natl Acad Sci U S A. 2011 Dec 27;108(52):21117-21. doi: 
+10.1073/pnas.1112351109. Epub 2011 Dec 12.
+
+Dysregulation of Kruppel-like factor 4 during brain development leads to 
+hydrocephalus in mice.
+
+Qin S(1), Liu M, Niu W, Zhang CL.
+
+Author information:
+(1)Department of Molecular Biology, University of Texas Southwestern Medical 
+Center, Dallas, TX 75390-9148, USA.
+
+Kruppel-like factor 4 (KLF4) is involved in self-renewal of embryonic stem cells 
+and reprogramming of somatic cells to pluripotency. However, its role in 
+lineage-committed stem cells remains largely unknown. Here, we show that KLF4 is 
+expressed in neural stem cells (NSCs) and is down-regulated during neuronal 
+differentiation. Unexpectedly, enhanced expression of KLF4 reduces self-renewal 
+of cultured NSCs and inhibits proliferation of subventricular neural precursors 
+in transgenic mice. Mice with increased KLF4 in NSCs and NSCs-derived ependymal 
+cells developed hydrocephalus-like characteristics, including enlarged 
+ventricles, thinned cortex, agenesis of the corpus callosum, and significantly 
+reduced subcommissural organ. These characteristics were accompanied by 
+elevation of GFAP expression and astrocyte hypertrophy. The ventricular cilia, 
+vital for cerebrospinal fluid flow, are also disrupted in the mutant mice. These 
+results indicate that down-regulation of KLF4 is critical for neural development 
+and its dysregulation may lead to hydrocephalus.
+
+DOI: 10.1073/pnas.1112351109
+PMCID: PMC3248552
+PMID: 22160720 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+13. Circ Res. 2011 Apr 29;108(9):1093-101. doi: 10.1161/CIRCRESAHA.110.231860. Epub 
+2011 Mar 10.
+
+Lack of primary cilia primes shear-induced endothelial-to-mesenchymal 
+transition.
+
+Egorova AD(1), Khedoe PP, Goumans MJ, Yoder BK, Nauli SM, ten Dijke P, Poelmann 
+RE, Hierck BP.
+
+Author information:
+(1)Department of Anatomy and Embryology, Leiden University Medical Center, 
+Leiden, The Netherlands.
+
+RATIONALE: Primary cilia are cellular protrusions that serve as mechanosensors 
+for fluid flow. In endothelial cells (ECs), they function by transducing local 
+blood flow information into functional responses, such as nitric oxide 
+production and initiation of gene expression. Cilia are present on ECs in areas 
+of low or disturbed flow and absent in areas of high flow. In the embryonic 
+heart, high-flow regime applies to the endocardial cushion area, and the absence 
+of cilia here coincides with the process of endothelial-to-mesenchymal 
+transition (EndoMT).
+OBJECTIVE: In this study, we investigated the role of the primary cilium in 
+defining the responses of ECs to fluid shear stress and in EndoMT.
+METHODS AND RESULTS: Nonciliated mouse embryonic ECs with a mutation in 
+Tg737/Ift88 were used to compare the response to fluid shear stress to that of 
+ciliated ECs. In vitro, nonciliated ECs undergo shear-induced EndoMT, which is 
+accompanied by downregulation of Klf4. This Tgfβ/Alk5-dependent transformation 
+is prevented by blocking Tgfβ signaling, overexpression of Klf4, or rescue of 
+the primary cilium. In the hearts of Tg737(orpk/orpk) embryos, Tgfβ/Alk5 
+signaling was activated in areas in which ECs would normally be ciliated but now 
+lack cilia because of the mutation. In these areas, ECs show increased Smad2 
+phosphorylation and expression of α-smooth muscle actin.
+CONCLUSIONS: This study demonstrates the central role of primary cilia in 
+rendering ECs prone to shear-induced activation of Tgfβ/Alk5 signaling and 
+EndoMT and thereby provides a functional link between primary cilia and 
+flow-related endothelial performance.
+
+DOI: 10.1161/CIRCRESAHA.110.231860
+PMCID: PMC3094764
+PMID: 21393577 [Indexed for MEDLINE]

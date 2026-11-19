@@ -1,0 +1,206 @@
+1. Nutrients. 2024 Jun 9;16(12):1817. doi: 10.3390/nu16121817.
+
+The Anti-Obesogenic Effects of Muscadine Grapes through Ciliary Neurotrophic 
+Factor Receptor (Cntfr) and Histamine Receptor H1 (Hrh1) Genes in 3T3-L1 
+Differentiated Mouse Cells.
+
+Messeha SS(1)(2), Agarwal M(3), Gendy SG(4), Mehboob SB(3), Soliman KFA(2).
+
+Author information:
+(1)College of Science and Technology, Florida A&M University, Tallahassee, FL 
+32307, USA.
+(2)College of Pharmacy and Pharmaceutical Sciences, Institute of Public Health, 
+Florida A&M University, New Pharmacy Building, 1415 ML King Blvd., Tallahassee, 
+FL 32307, USA.
+(3)Center for Viticulture & Small Fruit Research, Florida A&M University, 
+Tallahassee, FL 32317, USA.
+(4)School of Allied Health Sciences, Florida A&M University, Tallahassee, FL 
+32307, USA.
+
+Obesity and type 2 diabetes are prevalent metabolic diseases that have 
+significant links to several chronic diseases, including cancer, diabetes, 
+hypertension, and cardiovascular disease. Muscadine grape extracts have shown 
+the potential to reduce adiposity and improve insulin sensitivity and glucose 
+control. Thus, this study was designed to determine the potential of muscadine 
+grape berries extract (Pineapple and Southern Home) for its antiobesity 
+properties in 3T3-L1 cells as a model for obesity research. The current study's 
+data indicated the total phenolic content (TPC) and 
+2,2-diphenyl-1-picrylhydraziyl (DPPH) activity were higher in cultivar (CV) 
+Southern Home, meanwhile, elevated the total flavonoid content (TFC) in 
+Pineapple. Both extracts were safe across the tested range (0-5 mg/mL). A 
+noticeable reduction in lipid accumulation was also found in extract-treated 
+cells. In preadipocytes and adipocytes, the tested extracts showed significant 
+alterations in various genes involved in glucose homeostasis and obesity. The 
+most remarkable findings of the current study are the upregulation of two genes, 
+Cntfr (+712.715-fold) and Hrh1 (+270.11-fold) in CV Pineapple extract-treated 
+adipocytes 3T3-L1 and the high fold increase in Ramp3 induced by both Pineapple 
+and Southern Home in pre-adipose cells. Furthermore, the tested extracts showed 
+a potential to alter the mRNA of various genes, including Zfp91, B2m, Nr3c1, 
+Insr, Atrn, Il6ra, Hsp90ab1, Sort1, and Npy1r. In conclusion, the data generated 
+from the current study suggested that the two extracts under investigation are 
+considered potential candidates for controlling insulin levels and managing 
+obesity.
+
+DOI: 10.3390/nu16121817
+PMCID: PMC11206641
+PMID: 38931172 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Allergy Asthma Clin Immunol. 2020 Jun 3;16:45. doi: 10.1186/s13223-020-00438-w. 
+eCollection 2020.
+
+Effects of MP-AzeFlu enhanced by activation of bitter taste receptor TAS2R.
+
+Ekstedt S(1), Kumlien Georén S(1), Cardell LO(1)(2).
+
+Author information:
+(1)Division of ENT Diseases, Department of Clinical Science, Intervention and 
+Technology, Karolinska Institutet, Stockholm, Sweden.
+(2)Department of ENT Diseases, Karolinska University Hospital, Stockholm, 
+Sweden.
+
+MP-AzeFlu is relatively new a pharmaceutical drug used in the treatment of 
+allergic rhinitis. It is comprised of azelastine hydrochloride (AZE), a potent 
+histamine-H1-receptor antagonist and fluticasone propionate (FP), 
+corticosteroid. It's somewhat bitter taste (often considered a disadvantage) can 
+be attributed to AZE. We here hypothesize that MP-AzeFlu may induce some of its 
+beneficial effects through activation of bitter taste receptors (Tas2R), which 
+have recently been described in human airways. In the nose Tas2Rs induce 
+secretion of antimicrobial peptides and increase ciliary activity, while in the 
+lung they cause airway smooth muscle relaxation. The mechanisms behind 
+Tas2R-mediated effects are not yet fully known. In order to evaluate the role of 
+Tas2R in the effects induced by MP-AzeFlu the dilatory response of 
+pre-contracted isolated airways from Balb/c mice was investigated in tissue bath 
+myographs in the presence or absence of various well-characterized 
+pharmacological antagonists or their corresponding vehicles. MP-AzeFlu caused a 
+potent dose-dependent relaxation of pre-contracted airways, an effect probably 
+mediated by its AZE component. The dilatory effect of MP-AzeFlu and AZE both 
+mimicked the response induced by the Tas2R agonist, chloroquine, but was 
+independent of histamine receptor (H1-, H2- and H3-), prostaglandins, cAMP and 
+cGMP involvement, all known to be common pathways for airway dilation. Other 
+bitter-tasting antihistamines (i.e. olopatadine and desloratadine) also relaxed 
+airway segments. These data support the notion that MP-AzeFlu has the ability to 
+activate Tas2R in the same way as chloroquine. The effect appears to be mediated 
+by AZE, but not via the histamine receptor. Activation of Tas2R by MP-AzeFlu may 
+contribute to its superior efficacy over FP observed in controlled clinical 
+trials in patients with moderate/severe allergic rhinitis.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13223-020-00438-w
+PMCID: PMC7268313
+PMID: 32514276
+
+Conflict of interest statement: Competing interestsNot applicable.
+
+
+3. Int J Mol Sci. 2019 Feb 24;20(4):981. doi: 10.3390/ijms20040981.
+
+Role of Histamine H₃ Receptor Antagonists on Intraocular Pressure Reduction in 
+Rabbit Models of Transient Ocular Hypertension and Glaucoma.
+
+Lanzi C(1), Lucarini L(2), Durante M(3), Sgambellone S(4), Pini A(5), 
+Catarinicchia S(6), Łażewska D(7), Kieć-Kononowicz K(8), Stark H(9), Masini 
+E(10).
+
+Author information:
+(1)Department of Neuroscience, Psychiatry, Drug Area and Child Health 
+(NEUROFARBA), Section of Pharmacology and Toxicology, University of Florence, 
+50130 Florence, Italy. lanzic@aou-careggi.toscana.it.
+(2)Department of Neuroscience, Psychiatry, Drug Area and Child Health 
+(NEUROFARBA), Section of Pharmacology and Toxicology, University of Florence, 
+50130 Florence, Italy. laura.lucarini@unifi.it.
+(3)Department of Neuroscience, Psychiatry, Drug Area and Child Health 
+(NEUROFARBA), Section of Pharmacology and Toxicology, University of Florence, 
+50130 Florence, Italy. mariaconcetta.durante@unifi.it.
+(4)Department of Neuroscience, Psychiatry, Drug Area and Child Health 
+(NEUROFARBA), Section of Pharmacology and Toxicology, University of Florence, 
+50130 Florence, Italy. sgambellonesilvia@gmail.com.
+(5)Department of Experimental and Clinical Medicine, Section of Anatomy and 
+Histology, University of Florence, 50139 Florence, Italy. 
+alessandro.pini@unifi.it.
+(6)Department of Experimental and Clinical Medicine, Section of Anatomy and 
+Histology, University of Florence, 50139 Florence, Italy. 
+Stefano.catarinicchia@unifi.it.
+(7)Department of Technology and Biotechnology of Drugs, Jagiellonian University 
+Medical College, 30-688 Krakow, Poland. dlazewska@cm-uj.krakow.pl.
+(8)Department of Technology and Biotechnology of Drugs, Jagiellonian University 
+Medical College, 30-688 Krakow, Poland. katarzyna.kiec-kononowicz@uj.edu.pl.
+(9)Institute of Pharmaceutical and Medicinal Chemistry, Heinrich Heine 
+University Düsseldorf, 40225 Düsseldorf, Germany. stark@hhu.de.
+(10)Department of Neuroscience, Psychiatry, Drug Area and Child Health 
+(NEUROFARBA), Section of Pharmacology and Toxicology, University of Florence, 
+50130 Florence, Italy. emanuela.masini@unifi.it.
+
+Intraocular pressure (IOP) has a tendency to fluctuate throughout the day, 
+reaching its peak in the early morning in healthy subjects or glaucoma patients. 
+Likewise, histamine tone also fluctuates over time, being lower at nighttime. 
+Numerous studies have demonstrated a correlation between short-term IOP 
+fluctuation and glaucoma progression; however, it has not yet been determined 
+whether histamine plays a role in IOP fluctuations. The aim of this research was 
+to establish the distribution of the histamine receptor proteins and respective 
+mRNAs in the eye by western blot, immunohistochemistry and RT-PCR in New Zealand 
+rabbits. Furthermore, we used a transient ocular hypertension (OHT) model 
+induced by injection of 50 µL of 5% hypertonic saline into the vitreous and a 
+stable OHT model (100 µL 0.1% carbomer in the anterior chamber) to address the 
+potential IOP-lowering ability of H₃ receptor (H₃R) antagonists (ciproxifan, 
+DL76 and GSK189254). IOPs were performed with a Tono-Pen at baseline and 60, 120 
+and 240 min post treatment after transient OHT induction and, every day for 12 
+days in the stable OHT model. All histamine receptor subtypes were localized in 
+the rabbit retina and ciliary body/trabecular meshwork. All the treatments 
+lowered IOP in a dose-dependent fashion between 0.3% and 1%. More specifically, 
+the effects were maximal with ciproxifan at 60 min post-dose (IOP60 change = 
+-18.84 ± 4.85 mmHg, at 1%), remained stable until 120 min (IOP120 change = 
+-16.38 ± 3.8 mmHg, at 1%) and decayed thereafter to reach baseline values at 240 
+min. These effects were highly specific and dependent on histamine release as 
+pre-treatment with imetit (H₃R agonist, 1%) or pyrilamine (H₁R antagonist, 1%) 
+largely blocked ciproxifan-mediated effects. Color Doppler ultrasound 
+examination was performed to evaluate changes in ophtalmic artery resistivity 
+index (RI) before and after repeated dosing with DL 76, GSK189254, ciproxifan 
+and timolol. Chronic treatments with H₃R antagonists and timolol improved the 
+vascular performance of ophthalmic arteries and reduced retinal ganglion cell 
+death. Oxidative stress was also reduced and measured 
+8-Hydroxy-2'-deoxyguanosine (8OHdG) expression, and by dihidroethydium (DHE) 
+staining. These results demonstrated that the histamine system participates in 
+IOP regulation and that H₃R antagonists could represent a future promising 
+therapy for glaucoma. Further studies should be focused on the long-term IOP 
+circadian fluctuations.
+
+DOI: 10.3390/ijms20040981
+PMCID: PMC6412827
+PMID: 30813468 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Curr Eye Res. 1991 Jul;10(7):593-600. doi: 10.3109/02713689109013851.
+
+Histamine H1 receptor occupancy triggers inositol phosphates and intracellular 
+calcium mobilization in human non-pigmented ciliary epithelial cells.
+
+Crook RB(1), Bazan NG, Polansky JR.
+
+Author information:
+(1)Cellular Pharmacology Laboratory, University of California, San Francisco 
+94143-0730.
+
+Agonists and antagonists of histamine were used to characterize the stimulation 
+of inositol phosphates formation and elevation of intracellular Ca2+ by 
+histamine in cultured non-pigmented epithelial (NPE) cells from human ciliary 
+body. Agonists specific for the H1 histamine receptor subtype were 20- to 
+200-fold more potent than the H2-specific agonists tested, and 5-16% as potent 
+as histamine in inositol phosphates stimulation. An H1 antagonist was 
+10,000-fold more potent than an H2 antagonist in blocking histamine stimulation 
+of inositol phosphates. H1 agonists also mimicked and H1 antagonists inhibited 
+the elevation of intracellular Ca2+ by histamine. The first phase of the Ca2+ 
+response to histamine was largely independent of extracellular Ca2+ while the 
+second phase required extracellular Ca2+. Dose-response curves for histamine 
+elevation of intracellular Ca2+ (EC50 = 10 microM, maximum at 100 microM) and 
+inositol phosphates (EC50 = 2 microM, maximum at 100 microM) were similar. These 
+data support the characterization of the NPE histamine receptor as an H1 
+receptor linked to elevation of inositol phosphates and intracellular Ca2+.
+
+DOI: 10.3109/02713689109013851
+PMID: 1680603 [Indexed for MEDLINE]

@@ -1,0 +1,82 @@
+1. Int J Oncol. 2013 Apr;42(4):1229-38. doi: 10.3892/ijo.2013.1821. Epub 2013 Feb 
+11.
+
+Functional activity and tumor-specific expression of dual oxidase 2 in 
+pancreatic cancer cells and human malignancies characterized with a novel 
+monoclonal antibody.
+
+Wu Y(1), Antony S, Hewitt SM, Jiang G, Yang SX, Meitzler JL, Juhasz A, Lu J, Liu 
+H, Doroshow JH, Roy K.
+
+Author information:
+(1)Laboratory of Molecular Pharmacology, National Cancer Institute, National 
+Institutes of Health, Bethesda, MD 20892, USA.
+
+Dual oxidase 2 (Duox2), one of the seven members of the NADPH oxidase gene 
+family, plays a critical role in generating H2O2 for thyroid hormone 
+biosynthesis and as an integral part of the host defense system of the 
+respiratory epithelium and the gastrointestinal tract. Recent evidence suggests 
+that the regulation of Duox2 expression is under the control of pro-inflammatory 
+cytokines and that Duox2-induced reactive oxygen species (ROS) contribute to the 
+inflammation-related tissue injury that occurs in two pre-malignant, 
+inflammatory conditions: chronic pancreatitis and inflammatory bowel disease. 
+Because no reliable Duox antibodies are commercially available, we report the 
+development of a murine monoclonal antibody (MAb) to Duox2 (clone Duox S-12) and 
+its use for the characterization of Duox2 expression in human tumors, tumor cell 
+lines and normal tissues. Duox S-12 specifically detected both endogenously- and 
+ectopically-expressed Duox2 protein by immunoblotting, immunofluorescence 
+microscopy and immunohistochemistry (where both membranous and cytoplasmic 
+staining were present). Duox2 expression detected by Duox S-12 was functionally 
+coupled to the generation of H(2)O(2) in pancreatic cancer cells that expressed 
+Duox2 and its cognate maturation factor DuoxA2. Although Duox S-12 recognizes 
+ectopically expressed Duox1 protein because of the extensive amino acid homology 
+between Duox1 and Duox2, the lack of substantial Duox1 mRNA expression in human 
+tumors (except thyroid cancer) allowed us to evaluate Duox2 expression across a 
+wide range of normal and malignant tissues by immuno-histochemistry. Duox2 was 
+expressed at elevated levels in many human cancers, most notably tumors of the 
+prostate, lung, colon and breast while brain tumors and lymphomas demonstrated 
+the lowest frequency of expression. The Duox-specific monoclonal antibody 
+described here provides a promising tool for the further examination of the role 
+of Duox-dependent reactive oxygen production in inflammation-related 
+carcinogenesis, where alterations in oxidant tone play a critical role in cell 
+growth and proliferation.
+
+DOI: 10.3892/ijo.2013.1821
+PMCID: PMC3622675
+PMID: 23404210 [Indexed for MEDLINE]
+
+
+2. J Cell Sci. 2009 Apr 15;122(Pt 8):1238-47. doi: 10.1242/jcs.044123.
+
+Heterodimerization controls localization of Duox-DuoxA NADPH oxidases in airway 
+cells.
+
+Luxen S(1), Noack D, Frausto M, Davanture S, Torbett BE, Knaus UG.
+
+Author information:
+(1)Department of Immunology and Microbial Science, The Scripps Research 
+Institute, La Jolla, CA 92037, USA.
+
+Duox NADPH oxidases generate hydrogen peroxide at the air-liquid interface of 
+the respiratory tract and at apical membranes of thyroid follicular cells. 
+Inactivating mutations of Duox2 have been linked to congenital hypothyroidism, 
+and epigenetic silencing of Duox is frequently observed in lung cancer. To study 
+Duox regulation by maturation factors in detail, its association with these 
+factors, differential use of subunits and localization was analyzed in a lung 
+cancer cell line and undifferentiated or polarized lung epithelial cells. We 
+show here that Duox proteins form functional heterodimers with their respective 
+DuoxA subunits, in close analogy to the phagocyte NADPH oxidase. 
+Characterization of novel DuoxA1 isoforms and mispaired Duox-DuoxA complexes 
+revealed that heterodimerization is a prerequisite for reactive oxygen species 
+production. Functional Duox1 and Duox2 localize to the leading edge of migrating 
+cells, augmenting motility and wound healing. DuoxA subunits are responsible for 
+targeting functional oxidases to distinct cellular compartments in lung 
+epithelial cells, including Duox2 expression in ciliated cells in an ex vivo 
+differentiated lung epithelium. As these locations probably define signaling 
+specificity of Duox1 versus Duox2, these findings will facilitate monitoring 
+Duox isoform expression in lung disease, a first step for early screening 
+procedures and rational drug development.
+
+DOI: 10.1242/jcs.044123
+PMCID: PMC2714442
+PMID: 19339556 [Indexed for MEDLINE]

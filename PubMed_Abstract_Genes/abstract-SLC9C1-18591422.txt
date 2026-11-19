@@ -1,0 +1,46 @@
+1. J Gen Physiol. 2008 Jul;132(1):161-83. doi: 10.1085/jgp.200810017.
+
+HCO3(-) secretion by murine nasal submucosal gland serous acinar cells during 
+Ca2+-stimulated fluid secretion.
+
+Lee RJ(1), Harlow JM, Limberis MP, Wilson JM, Foskett JK.
+
+Author information:
+(1)Department of Physiology, Division of Medical Genetics, University of 
+Pennsylvania, Philadelphia, PA 19104, USA.
+
+Airway submucosal glands contribute to airway surface liquid (ASL) composition 
+and volume, both important for lung mucociliary clearance. Serous acini generate 
+most of the fluid secreted by glands, but the molecular mechanisms remain poorly 
+characterized. We previously described cholinergic-regulated fluid secretion 
+driven by Ca(2+)-activated Cl(-) secretion in primary murine serous acinar cells 
+revealed by simultaneous differential interference contrast (DIC) and 
+fluorescence microscopy. Here, we evaluated whether Ca(2+)-activated Cl(-) 
+secretion was accompanied by secretion of HCO(3)(-), possibly a critical ASL 
+component, by simultaneous measurements of intracellular pH (pH(i)) and cell 
+volume. Resting pH(i) was 7.17 +/- 0.01 in physiological medium (5% CO(2)-25 mM 
+HCO(3)(-)). During carbachol (CCh) stimulation, pH(i) fell transiently by 0.08 
++/- 0.01 U concomitantly with a fall in Cl(-) content revealed by cell 
+shrinkage, reflecting Cl(-) secretion. A subsequent alkalinization elevated 
+pH(i) to above resting levels until agonist removal, whereupon it returned to 
+prestimulation values. In nominally CO(2)-HCO(3)(-)-free media, the CCh-induced 
+acidification was reduced, whereas the alkalinization remained intact. 
+Elimination of driving forces for conductive HCO(3)(-) efflux by ion 
+substitution or exposure to the Cl(-) channel inhibitor niflumic acid (100 
+microM) strongly inhibited agonist-induced acidification by >80% and >70%, 
+respectively. The Na(+)/H(+) exchanger (NHE) inhibitor dimethylamiloride (DMA) 
+increased the magnitude (greater than twofold) and duration of the CCh-induced 
+acidification. Gene expression profiling suggested that serous cells express NHE 
+isoforms 1-4 and 6-9, but pharmacological sensitivities demonstrated that 
+alkalinization observed during both CCh stimulation and pH(i) recovery from 
+agonist-induced acidification was primarily due to NHE1, localized to the 
+basolateral membrane. These results suggest that serous acinar cells secrete 
+HCO(3)(-) during Ca(2+)-evoked fluid secretion by a mechanism that involves the 
+apical membrane secretory Cl(-) channel, with HCO(3)(-) secretion sustained by 
+activation of NHE1 in the basolateral membrane. In addition, other 
+Na(+)-dependent pH(i) regulatory mechanisms exist, as evidenced by stronger 
+inhibition of alkalinization in Na(+)-free media.
+
+DOI: 10.1085/jgp.200810017
+PMCID: PMC2442172
+PMID: 18591422 [Indexed for MEDLINE]

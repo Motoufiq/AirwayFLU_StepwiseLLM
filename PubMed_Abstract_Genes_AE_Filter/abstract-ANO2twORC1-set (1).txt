@@ -1,0 +1,105 @@
+1. J Biol Chem. 2019 Mar 22;294(12):4529-4537. doi: 10.1074/jbc.AC118.006530. Epub 
+2019 Jan 30.
+
+Drosophila Subdued is a moonlighting transmembrane protein 16 (TMEM16) that 
+transports ions and phospholipids.
+
+Le T(1), Le SC(1), Yang H(2)(3).
+
+Author information:
+(1)From the Departments of Biochemistry and.
+(2)From the Departments of Biochemistry and huanghe.yang@duke.edu.
+(3)Neurobiology, Duke University Medical Center, Durham, North Carolina 27710.
+
+Transmembrane protein 16 (TMEM16) family members play numerous important 
+physiological roles, ranging from controlling membrane excitability and 
+secretion to mediating blood coagulation and viral infection. These diverse 
+functions are largely due to their distinct biophysical properties. Mammalian 
+TMEM16A and TMEM16B are Ca2+-activated Cl- channels (CaCCs), whereas mammalian 
+TMEM16F, fungal afTMEM16, and nhTMEM16 are moonlighting (multifunctional) 
+proteins with both Ca2+-activated phospholipid scramblase (CaPLSase) and 
+Ca2+-activated, nonselective ion channel (CAN) activities. To further understand 
+the biological functions of the enigmatic TMEM16 proteins in different 
+organisms, here, by combining an improved annexin V-based CaPLSase-imaging assay 
+with inside-out patch clamp technique, we thoroughly characterized Subdued, a 
+Drosophila TMEM16 ortholog. We show that Subdued is also a moonlighting 
+transport protein with both CAN and CaPLSase activities. Using a 
+TMEM16F-deficient HEK293T cell line to avoid strong interference from endogenous 
+CaPLSases, our functional characterization and mutagenesis studies revealed that 
+Subdued is a bona fide CaPLSase. Our finding that Subdued is a moonlighting 
+TMEM16 expands our understanding of the molecular mechanisms of TMEM16 proteins 
+and their evolution and physiology in both Drosophila and humans.
+
+© 2019 Le et al.
+
+DOI: 10.1074/jbc.AC118.006530
+PMCID: PMC6433057
+PMID: 30700552 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest with the contents of this article
+
+
+2. Dev Neurobiol. 2014 Jul;74(7):657-75. doi: 10.1002/dneu.22159. Epub 2013 Dec 17.
+
+Developmental expression of the calcium-activated chloride channels TMEM16A and 
+TMEM16B in the mouse olfactory epithelium.
+
+Maurya DK(1), Menini A.
+
+Author information:
+(1)Laboratory of Olfactory Transduction, SISSA, International School for 
+Advanced Studies, Via Bonomea 265, Trieste, 34136, Italy.
+
+Calcium-activated chloride channels are involved in several physiological 
+processes including olfactory perception. TMEM16A and TMEM16B, members of the 
+transmembrane protein 16 family (TMEM16), are responsible for calcium-activated 
+chloride currents in several cells. Both are present in the olfactory epithelium 
+of adult mice, but little is known about their expression during embryonic 
+development. Using immunohistochemistry we studied their expression in the mouse 
+olfactory epithelium at various stages of prenatal development from embryonic 
+day (E) 12.5 to E18.5 as well as in postnatal mice. At E12.5, TMEM16A 
+immunoreactivity was present at the apical surface of the entire olfactory 
+epithelium, but from E16.5 became restricted to a region near the transition 
+zone with the respiratory epithelium, where localized at the apical part of 
+supporting cells and in their microvilli. In contrast, TMEM16B immunoreactivity 
+was present at E14.5 at the apical surface of the entire olfactory epithelium, 
+increased in subsequent days, and localized to the cilia of mature olfactory 
+sensory neurons. These data suggest different functional roles for TMEM16A and 
+TMEM16B in the developing as well as in the postnatal olfactory epithelium. The 
+presence of TMEM16A at the apical part and in microvilli of supporting cells is 
+consistent with a role in the regulation of the chloride ionic composition of 
+the mucus covering the apical surface of the olfactory epithelium, whereas the 
+localization of TMEM16B to the cilia of mature olfactory sensory neurons is 
+consistent with a role in olfactory signal transduction.
+
+© 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dneu.22159
+PMID: 24318978 [Indexed for MEDLINE]
+
+
+3. Protein Pept Lett. 2014;21(1):94-9. doi: 10.2174/09298665113206660098.
+
+TMEM16A/B associated CaCC: structural and functional insights.
+
+Pang C, Yuan H, Ren S, Chen Y, An H, Zhan Y(1).
+
+Author information:
+(1)Institute of Biophysics, School of Science, Hebei University of Technology, 
+5340 Xiping Road, Beichen District, Tianjin, China, 300401. zhany@hebut.edu.cn.
+
+Calcium-activated chloride channels (CaCCs) play fundamental roles in numerous 
+physiological processes. Transmembrane proteins 16A and 16B (TMEM16A/B) were 
+identified to be the best molecular identities of CaCCs to date. This makes 
+molecular investigation of CaCCs become possible. This review discusses the 
+latest findings of TMEM16A/B associated CaCCs, the calcium and voltage dual 
+dependence，the reorganization of Ca(2+)-binding site, the mechanisms of direct 
+or indirect activation, the structure-functional relationship, and the possible 
+stereoscopic structure. TMEM16A and other members of the family are associated 
+with several kinds of cancers and other chloride channelopathies. An 
+understanding of TMEM16 associated channel proteins will shed some light on 
+their role in oncology and in pharmacology development.
+
+DOI: 10.2174/09298665113206660098
+PMID: 24151904 [Indexed for MEDLINE]

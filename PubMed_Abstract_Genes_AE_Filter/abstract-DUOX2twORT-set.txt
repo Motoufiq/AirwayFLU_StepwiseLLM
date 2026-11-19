@@ -1,0 +1,3291 @@
+1. Redox Biol. 2024 Oct;76:103359. doi: 10.1016/j.redox.2024.103359. Epub 2024 Sep 
+17.
+
+Glucoraphanin and sulforaphane mitigate TNFα-induced Caco-2 monolayers 
+permeabilization and inflammation.
+
+Zhu W(1), Cremonini E(1), Mastaloudis A(2), Oteiza PI(3).
+
+Author information:
+(1)Department of Nutrition, University of California, Davis, CA, USA.
+(2)Brassica Protection Products LLC, Baltimore, MD, USA.
+(3)Department of Nutrition, University of California, Davis, CA, USA; Department 
+of Environmental Toxicology, University of California, Davis, CA, USA. 
+Electronic address: poteiza@ucdavis.edu.
+
+Intestinal permeabilization is central to the pathophysiology of chronic gut 
+inflammation. This study investigated the efficacy of glucoraphanin (GR), 
+prevalent in cruciferous vegetables, particularly broccoli, and its derivative 
+sulforaphane (SF), in inhibiting tumor necrosis factor alpha (TNFα)-induced 
+Caco-2 cell monolayers inflammation and permeabilization through the regulation 
+of redox-sensitive events. TNFα binding to its receptor led to a rapid increase 
+in oxidant production and subsequent elevation in the mRNA levels of NOX1, NOX4, 
+and Duox2. GR and SF dose-dependently mitigated both these short- and long-term 
+alterations in redox homeostasis. Downstream, GR and SF inhibited the activation 
+of the redox-sensitive signaling cascades NF-κB (p65 and IKK) and MAPK ERK1/2, 
+which contribute to inflammation and barrier permeabilization. GR (1 μM) and SF 
+(0.5-1 μM) prevented TNFα-induced monolayer permeabilization and the associated 
+reduction in the levels of the tight junction (TJ) proteins occludin and ZO-1. 
+Both GR and SF also mitigated TNFα-induced increased mRNA levels of the myosin 
+light chain kinase, which promotes TJ opening. Molecular docking suggests that 
+although GR is mostly not absorbed, it could interact with extracellular and 
+membrane sites in NOX1. Inhibition of NOX1 activity by GR would mitigate TNFα 
+receptor downstream signaling and associated events. These findings support the 
+concept that not only SF, but also GR, could exert systemic health benefits by 
+protecting the intestinal barrier against inflammation-induced permeabilization, 
+in part by regulating redox-sensitive pathways. GR has heretofore not been 
+viewed as a biologically active molecule, but rather, the benign precursor of 
+highly active SF. The consumption of GR and/or SF-rich vegetables or supplements 
+in the diet may offer a means to mitigate the detrimental consequences of 
+intestinal permeabilization, not only in disease states but also in conditions 
+characterized by chronic inflammation of dietary and lifestyle origin.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.redox.2024.103359
+PMCID: PMC11426148
+PMID: 39298837 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Authors have 
+no conflict of interest to declare.
+
+
+2. bioRxiv [Preprint]. 2024 Jul 5:2024.07.03.601781. doi: 
+10.1101/2024.07.03.601781.
+
+Neonatal microbiota colonization drives maturation of primary and secondary 
+goblet cell mediated protection in the pre-weaning colon.
+
+Johansson Å, Subramani MV, Yilmaz B, Nyström E, Layunta E, Arike L, Sommer F, 
+Rosenstiel P, Vereecke L, Holm LM, Wullaert A, Pelaseyed T, Johansson MEV, 
+Birchenough GMH.
+
+In the distal colon, mucus secreting goblet cells primarily confer protection 
+from luminal microorganisms via generation of a sterile inner mucus layer 
+barrier structure. Bacteria-sensing sentinel goblet cells provide a secondary 
+defensive mechanism that orchestrates mucus secretion in response to microbes 
+that breach the mucus barrier. Previous reports have identified mucus barrier 
+deficiencies in adult germ-free mice, thus implicating a fundamental role for 
+the microbiota in programming mucus barrier generation. In this study, we have 
+investigated the natural neonatal development of the mucus barrier and sentinel 
+goblet cell-dependent secretory responses upon postnatal colonization. Combined 
+in vivo and ex vivo analyses of pre- and post-weaning colonic mucus barrier and 
+sentinel goblet cell maturation demonstrated a sequential microbiota-dependent 
+development of these primary and secondary goblet cell-intrinsic protective 
+functions, with dynamic changes in mucus processing dependent on innate immune 
+signalling via MyD88, and development of functional sentinel goblet cells 
+dependent on the NADPH/Dual oxidase family member Duox2. Our findings therefore 
+identify new mechanisms of microbiota-goblet cell regulatory interaction and 
+highlight the critical importance of the pre-weaning period for the normal 
+development of colonic barrier function.
+
+DOI: 10.1101/2024.07.03.601781
+PMCID: PMC11245021
+PMID: 39005291
+
+
+3. Sci Adv. 2024 Apr 26;10(17):eadk1045. doi: 10.1126/sciadv.adk1045. Epub 2024 Apr 
+24.
+
+Sphingolipid biosynthesis is essential for metabolic rewiring during T(H)17 cell 
+differentiation.
+
+Abimannan T(1), Parthibane V(1), Le SH(2), Vijaykrishna N(3), Fox SD(4), Karim 
+B(5), Kunduri G(1), Blankenberg D(3), Andresson T(4), Bamba T(2), Acharya U(1), 
+Acharya JK(1).
+
+Author information:
+(1)Cancer and Developmental Biology Laboratory, National Cancer Institute, 
+Frederick, MD, USA.
+(2)Division of Metabolomics, Medical Institute of Bioregulation, Kyushu 
+University, Fukuoka, Japan.
+(3)Genomic Medicine Institute and Lerner Research Institute, Cleveland Clinic, 
+Cleveland, OH, USA.
+(4)Mass Spectrometry Group, National Cancer Institute, Frederick, MD, USA.
+(5)Molecular Histopathology Laboratory, Frederick National Laboratory for Cancer 
+Research, Frederick, MD, USA.
+
+T helper 17 (TH17) cells are implicated in autoimmune diseases, and several 
+metabolic processes are shown to be important for their development and 
+function. In this study, we report an essential role for sphingolipids 
+synthesized through the de novo pathway in TH17 cell development. Deficiency of 
+SPTLC1, a major subunit of serine palmitoyl transferase enzyme complex that 
+catalyzes the first and rate-limiting step of de novo sphingolipid synthesis, 
+impaired glycolysis in differentiating TH17 cells by increasing intracellular 
+reactive oxygen species (ROS) through enhancement of nicotinamide adenine 
+dinucleotide phosphate oxidase 2 activity. Increased ROS leads to impaired 
+activation of mammalian target of rapamycin C1 and reduced expression of 
+hypoxia-inducible factor 1-alpha and c-Myc-induced glycolytic genes. SPTLCI 
+deficiency protected mice from developing experimental autoimmune 
+encephalomyelitis and experimental T cell transfer colitis. Our results thus 
+show a critical role for de novo sphingolipid biosynthetic pathway in shaping 
+adaptive immune responses with implications in autoimmune diseases.
+
+DOI: 10.1126/sciadv.adk1045
+PMCID: PMC11042737
+PMID: 38657065 [Indexed for MEDLINE]
+
+
+4. Cancer Drug Resist. 2024 Feb 22;7:5. doi: 10.20517/cdr.2023.125. eCollection 
+2024.
+
+Reactive oxygen species and its role in pathogenesis and resistance to therapy 
+in acute myeloid leukemia.
+
+Khorashad JS(1)(2)(3), Rizzo S(3), Tonks A(3).
+
+Author information:
+(1)Department of Immunology and inflammation, Imperial College London, London, 
+W12 0NN, UK.
+(2)Department of Molecular Pathology, Institute of Cancer Research, Sutton, SM2 
+5PT, UK.
+(3)Department of Haematology, Division of Cancer & Genetics, School of Medicine, 
+Cardiff University, Cardiff, CF14 4XN, UK.
+
+Relapse following a short clinical response to therapy is the major challenge 
+for the management of acute myeloid leukemia (AML) patients. Leukemic stem cells 
+(LSC), as the source of relapse, have been investigated for their metabolic 
+preferences and their alterations at the time of relapse. As LSC rely on 
+oxidative phosphorylation (OXPHOS) for energy requirement, reactive oxygen 
+species (ROS), as by-products of OXPHOS, have been investigated for their role 
+in the effectiveness of the standard AML therapy. Increased levels of 
+non-mitochondrial ROS, generated by nicotinamide adenine dinucleotide phosphate 
+oxidase, in a subgroup of AML patients add to the complexity of studying ROS. 
+Although there are various studies presenting the contribution of ROS to AML 
+pathogenesis, resistance, and its inhibition or activation as a target, a model 
+that can clearly explain its role in AML has not been conceptualized. This is 
+due to the heterogeneity of AML, the dynamics of ROS production, which is 
+influenced by factors such as the type of treatment, cell differentiation state, 
+mitochondrial activity, and also the heterogeneous generation of 
+non-mitochondrial ROS and limited available data on their interaction with the 
+microenvironment. This review summarizes these challenges and the recent 
+progress in this field.
+
+© The Author(s) 2024.
+
+DOI: 10.20517/cdr.2023.125
+PMCID: PMC10905166
+PMID: 38434766
+
+Conflict of interest statement: All authors declared that there are no conflicts 
+of interest.
+
+
+5. Periodontol 2000. 2023 May 18. doi: 10.1111/prd.12490. Online ahead of print.
+
+The role of the host-Neutrophil biology.
+
+Chapple ILC(1), Hirschfeld J(1), Kantarci A(2), Wilensky A(3), Shapira L(3).
+
+Author information:
+(1)Periodontal Research Group, School of Dentistry, Institute of Clinical 
+Sciences, College of Medical and Dental Sciences, and Birmingham's NIHR BRC in 
+Inflammation Research, The University of Birmingham and Birmingham Community 
+Health Foundation Trust, Birmingham, UK.
+(2)Forsyth Institute, Cambridge, Massachusetts, USA.
+(3)Department of Periodontology, Hadassah Medical Center, Faculty of Dental 
+Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.
+
+Neutrophilic polymorphonuclear leukocytes (neutrophils) are myeloid cells packed 
+with lysosomal granules (hence also called granulocytes) that contain a 
+formidable antimicrobial arsenal. They are terminally differentiated cells that 
+play a critical role in acute and chronic inflammation, as well as in the 
+resolution of inflammation and wound healing. Neutrophils express a dense array 
+of surface receptors for multiple ligands, ranging from integrins to support 
+their egress from bone marrow into the circulation and from the circulation into 
+tissues, to cytokine/chemokine receptors that drive their navigation to the site 
+of infection or tissue damage and also prime them for a second stimulus, to 
+pattern recognition receptors and immunoglobulin receptors to facilitate the 
+destruction and removal of infective agents or debridement of damaged tissues. 
+When afferent neutrophil signals are proportionate and coordinated they will 
+phagocytose opsonized and unopsonized bacteria, activating the nicotinamide 
+adenine dinucleotide phosphate oxidase (respiratory burst) to generate reactive 
+oxygen species, which augment the proteolytic destruction of microbes secured 
+within the phagosome. A highly orchestrated process of apoptosis follows, 
+forming membrane-bound substructures that are removed by macrophages. 
+Neutrophils are capable of various other forms of programmed cell death, such as 
+NETosis and pyroptotic cell death, as well as nonprogrammed cell death by 
+necrosis. In recent years, research has revealed that neutrophils are capable of 
+far more subtle cell-cell interactions than previously thought possible. This 
+includes synthesis of various inflammatory mediators and also myeloid cell 
+training within bone marrow, where epigenetic and metabolic signals associated 
+with returning neutrophils that undergo reverse egress from tissues into the 
+vasculature and back to bone marrow program a hyperreactive subset of 
+neutrophils during myelopoiesis that are capable of hypersensitive reactions to 
+microbial aggressors. These characteristics are evident in various neutrophil 
+subsets/subpopulations, creating broad heterogeneity in the behavior and 
+biological repertoire of these seemingly schizophrenic immune cells. Moreover, 
+neutrophils are critical effector cells of adaptive and innate immunity, binding 
+to opsonized bacteria and destroying them by extracellular and intracellular 
+methods. The former creates substantial collateral host tissue damage, as they 
+are less specific than T-cytotoxic cell-killing mechanisms, and in conditions 
+such as peri-implantitis, where plasma cells and neutrophils dominate the immune 
+infiltrate, bone and tissue destruction are rapid and appear relentless. 
+Finally, the role of neutrophils as conduits for periodontal-systemic disease 
+connections and for oxidative damage to act as a causal link between the two has 
+only recently been realized. In this chapter, we attempt to expand on these 
+issues, emphasizing the contributions of European scientists throughout a 
+detailed appraisal of the benefits and side effects of neutrophilic inflammation 
+and immune function.
+
+© 2023 The Authors. Periodontology 2000 published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/prd.12490
+PMID: 37199393
+
+
+6. J Pathol Inform. 2022 May 1;13:100094. doi: 10.1016/j.jpi.2022.100094. 
+eCollection 2022.
+
+Probing predilection to Crohn's disease and Crohn's disease flares: A 
+crowd-sourced bioinformatics approach.
+
+Aljabban J(1), Rohr M(2), Borkowski VJ(1)(1), Nemer M(1)(1), Cohen E(3), Hashi 
+N(4), Aljabban H(5), Boateng E(3), Syed S(6), Mohammed M(7), Mukhtar A(8), 
+Hadley D(2), Panahiazar M(9).
+
+Author information:
+(1)University of Wisconsin Hospitals and Clinics, Madison, WI, United States.
+(2)University of Central Florida College of Medicine, Orlando, FL, United 
+States.
+(3)Vanderbilt University Medical Center, Nashville, TN, United States.
+(4)Mayo Clinic Minnesota, Rochester, MN, United States.
+(5)Barry University, Miami Shores, FL, United States.
+(6)Northwestern Memorial Hospital, Chicago, IL, United States.
+(7)Windsor University School of Medicine, Saint Ketts and Nevis, Cayon.
+(8)Columbia University Vagelos College of Physicians and Surgeons, New York, NY, 
+United States.
+(9)University of California San Francisco, San Francisco, CA, United States.
+
+BACKGROUND: Crohn's Disease (CD) is an inflammatory disease of the 
+gastrointestinal tract that affects millions of patients. While great strides 
+have been made in treatment, namely in biologic therapy such as anti-TNF drugs, 
+CD remains a significant health burden.
+METHOD: We conducted two meta-analyses using our STARGEO platform to tag samples 
+from Gene Expression Omnibus. One analysis compares inactive colonic biopsies 
+from CD patients to colonic biopsies from healthy patients as a control and the 
+other compares colonic biopsies from active CD lesions to inactive lesions. 
+Separate tags were created to tag colonic samples from inflamed biopsies (total 
+of 65 samples) and quiescent tissue in CD patients (total of 39 samples), and 
+healthy tissue from non-CD patients (total of 30 samples). Results from the two 
+meta-analyses were analyzed using Ingenuity Pathway Analysis.
+RESULTS: For the inactive CD vs healthy tissue analysis, we noted FXR/RXR and 
+LXR/RXR activation, superpathway of citrulline metabolism, and atherosclerosis 
+signaling as top canonical pathways. The top upstream regulators include genes 
+implicated in innate immunity, such as TLR3 and HNRNPA2B1, and sterol regulation 
+through SREBF2. In addition, the sterol regulator SREBF2, lipid metabolism was 
+the top disease network identified in IPA (Fig. 1). Top upregulated genes hold 
+implications in innate immunity (DUOX2, REG1A/1B/3A) and cellular transport and 
+absorption (ABCG5, NPC1L1, FOLH1, and SLC6A14). Top downregulated genes largely 
+held roles in cell adhesion and integrity, including claudin 8, PAQR5, and 
+PRKACB.For the active vs inactive CD analysis, we found immune cell adhesion and 
+diapedesis, hepatic fibrosis/hepatic stellate cell activation, LPS/IL-1 
+inhibition of RXR function, and atherosclerosis as top canonical pathways. Top 
+upstream regulators included inflammatory mediators LPS, TNF, IL1B, and TGFB1. 
+Top upregulated genes function in the immune response such as IL6, CXCL1, CXCR2, 
+MMP1/7/12, and PTGS2. Downregulated genes dealt with cellular metabolism and 
+transport such as CPO, RBP2, G6PC, PCK1, GSTA1, and MEP1B.
+CONCLUSION: Our results build off established and recently described research in 
+the field of CD. We demonstrate the use of our user-friendly platform, STARGEO, 
+in investigating disease and finding therapeutic avenues.
+
+DOI: 10.1016/j.jpi.2022.100094
+PMCID: PMC9576970
+PMID: 36268056
+
+
+7. Adv Nutr. 2022 Oct 2;13(5):1628-1651. doi: 10.1093/advances/nmac029.
+
+Dietary Patterns and Gut Microbiota: The Crucial Actors in Inflammatory Bowel 
+Disease.
+
+He P(1)(2), Yu L(1)(2), Tian F(1)(2), Zhang H(1)(2)(3)(4), Chen W(1)(2)(3), Zhai 
+Q(1)(2).
+
+Author information:
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University, 
+Wuxi, Jiangsu, China.
+(2)School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu, 
+China.
+(3)National Engineering Research Center for Functional Food, Jiangnan 
+University, Wuxi, Jiangsu, China.
+(4)Wuxi Translational Medicine Research Center, Jiangsu Translational Medicine 
+Research Institute Wuxi Branch, Wuxi, Jiangsu, China.
+
+It is widely believed that diet and the gut microbiota are strongly related to 
+the occurrence and progression of inflammatory bowel disease (IBD), but the 
+effects of the interaction between dietary patterns and the gut microbiota on 
+IBD have not been well elucidated. In this article, we aim to explore the 
+complex relation between dietary patterns, gut microbiota, and IBD. We first 
+comprehensively summarized the dietary patterns associated with IBD and found 
+that dietary patterns can modulate the occurrence and progression of IBD through 
+various signaling pathways, including mammalian target of rapamycin (mTOR), 
+mitogen-activated protein kinases (MAPKs), signal transducer and activator of 
+transcription 3 (STAT3), and NF-κB. Besides, the gut microbiota performs a vital 
+role in the progression of IBD, which can affect the expression of IBD 
+susceptibility genes, such as dual oxidase 2 (DUOX2) and APOA-1 , the intestinal 
+barrier (in particular, the expression of tight junction proteins), immune 
+function (especially the homeostasis between effector and regulatory T cells) 
+and the physiological metabolism, in particular, SCFAs, bile acids (BAs), and 
+tryptophan metabolism. Finally, we reviewed the current knowledge on the 
+interaction between dietary patterns and the gut microbiota in IBD and found 
+that dietary patterns modulate the onset and progression of IBD, which is partly 
+attributed to the regulation of the gut microbiota (especially SCFAs-producing 
+bacteria and Escherichia coli). Faecalibacteria as "microbiomarkers" of IBD 
+could be used as a target for dietary interventions to alleviate IBD. A 
+comprehensive understanding of the interplay between dietary intake, gut 
+microbiota, and IBD will facilitate the development of personalized dietary 
+strategies based on the regulation of the gut microbiota in IBD and expedite the 
+era of precision nutritional interventions for IBD.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+American Society for Nutrition.
+
+DOI: 10.1093/advances/nmac029
+PMCID: PMC9526834
+PMID: 35348593 [Indexed for MEDLINE]
+
+
+8. J Tissue Eng Regen Med. 2022 Jun;16(6):538-549. doi: 10.1002/term.3300. Epub 
+2022 Mar 23.
+
+Amniotic membrane mesenchymal stem cells-based therapy improves Bmi-1-deficient 
+mandible osteoporosis through stimulating osteoblastic bone formation and 
+inhibiting osteoclastic bone resorption.
+
+Yin Y(1)(2), Wang Q(2)(3), Xie C(2), Chen H(2), Jin J(2), Miao D(2)(4).
+
+Author information:
+(1)Nanjing Stomatological Hospital, Medical School of Nanjing University, 
+Nanjing, China.
+(2)Department of Anatomy, Histology and Embryology, The Research Center for Bone 
+and Stem Cells, Nanjing Medical University, Nanjing, China.
+(3)Department of Stomatology, The Affiliated Jiangyin Hospital of Medical 
+College of Southeast University, Jiangyin, China.
+(4)Department of Plastic Surgery, The Affiliated Friendship Plastic Surgery 
+Hospital of Nanjing Medical University, Nanjing, China.
+
+Mandible osteoporosis with age is characterized by greater fragility and 
+accompanied with abnormal oral function. Mesenchymal stem cell transplantation 
+can ameliorate osteoporosis. Bmi-1 is a transcriptional repressor which is an 
+important regulator of cell cycle, stem cells self-renewal, and cell senescence. 
+Here, we use a new kind of membrane mesenchymal stem cells (MSCs), amniotic 
+membrane mesenchymal stem cells (AMSCs), to explore therapeutic effects on 
+Bmi-1-deficient caused mandible osteoporosis. Phenotypes of mandibles from 
+5-week-old Bmi-1-deficient mice with AMSCs-based therapy were compared with 
+age-matched Bmi-1-deficient mandibles without AMSCs-based therapy and wild-type 
+mice. Bmi-1-deficient mice without AMSCs-based therapy displayed mandible 
+osteoporosis accompanied with the rising senescence-associated molecules and 
+imbalance redox homeostasis. Results showed that the alveolar bone volume, 
+cortical thickness, type I collagen and osteocalcin immunopositive areas, mRNA 
+expression levels of alkaline phosphatase, superoxide dismutase, gluathione 
+reductase, and protein expression level of Runx2 were all reduced significantly 
+in Bmi-1-/- mandibles. Protein levels of PPARγ, p16, p21, p53, and redox gene 
+levels of Bnip3l, Cdo1, Duox1, and Duox2 were up-regulated in mandibles from 
+vehicle-transplanted Bmi-1-/- mice. Also, osteoclasts were activated in Bmi-1-/- 
+alveolar bone. Transplanted AMSCs migrated into mandibles and improved all the 
+parameters in Bmi-1-/- mandibles with AMSCs-based therapy. These findings 
+indicate that AMSCs-based therapy could rescue mandible osteoporosis induced by 
+Bmi-1 deficiency through stimulating osteoblastic bone formation and inhibiting 
+osteoclastic bone resorption. Our findings implied that AMSCs-based therapy had 
+preventative and therapeutic potential for mandible osteoporosis.
+
+© 2022 John Wiley & Sons Ltd.
+
+DOI: 10.1002/term.3300
+PMID: 35319819 [Indexed for MEDLINE]
+
+
+9. Biochem Biophys Res Commun. 2022 Apr 16;600:6-13. doi: 
+10.1016/j.bbrc.2022.02.023. Epub 2022 Feb 9.
+
+Icariin inhibits RANKL-induced osteoclastogenesis in RAW264.7 cells via 
+inhibition of reactive oxygen species production by reducing the expression of 
+NOX1 and NOX4.
+
+Ji R(1), Wu D(1), Liu Q(2).
+
+Author information:
+(1)Department of Orthopedics, Third Hospital of Shanxi Medical University, 
+Shanxi Bethune Hospital, Shanxi Academy of Medical Sciences Tongji Shanxi 
+Hospital, Taiyuan, 030032, China.
+(2)Department of Orthopedics, Third Hospital of Shanxi Medical University, 
+Shanxi Bethune Hospital, Shanxi Academy of Medical Sciences Tongji Shanxi 
+Hospital, Taiyuan, 030032, China. Electronic address: sxdyy001@163.com.
+
+Icariin (ICA), isolated from Herba Epimedii, is a natural flavonoid glycoside 
+that possesses antioxidant properties and inhibits osteoclastogenesis. However, 
+the mechanism underlying osteoclastogenesis inhibition by ICA remains unclear. 
+Here, we investigated the effects of ICA on receptor activator of nuclear factor 
+kappa-Β ligand (RANKL)-induced osteoclastogenesis in RAW264.7 cells. ICA 
+inhibited the expression of osteoclastogenesis-related genes in RAW264.7 cells 
+induced by RANKL. ICA could inhibit osteoclastogenesis without inhibiting the 
+viability of RAW264.7 cells. In addition, ICA inhibited reactive oxygen species 
+production in RANKL-induced RAW264.7 cells. ICA reduced the expression of 
+nuclear factor in activated T cells, cytoplasmic 1, and tartrate-resistant acid 
+phosphatase, which are osteoclast-related molecules. Moreover, ICA decreased the 
+expression of nicotinamide adenine dinucleotide phosphate oxidase (NOX), 
+specifically NOX1 and NOX4, in RANKL-induced RAW264.7 cells. Our findings 
+suggest that ICA can be used as a potential therapeutic agent for osteolytic 
+diseases such as osteoporosis.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2022.02.023
+PMID: 35182975 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+10. BMC Genomics. 2021 Jul 17;22(1):545. doi: 10.1186/s12864-021-07884-9.
+
+Deploying new generation sequencing for the study of flesh color depletion in 
+Atlantic Salmon (Salmo salar).
+
+Vo TTM(1)(2)(3), Nguyen TV(4), Amoroso G(5), Ventura T(6)(7), Elizur A(8).
+
+Author information:
+(1)GeneCology Research Centre, University of the Sunshine Coast, Queensland, 
+Sunshine Coast, Australia.
+(2)School of Science, Technology and Engineering, University of the Sunshine 
+Coast, Sunshine Coast, Queensland, Australia.
+(3)School of Biotechnology, International University, Viet Nam National 
+University, 700000, Ho Chi Minh City, Vietnam.
+(4)Centre for AgriBiosciences, AgriBio, Agriculture Victoria, Victoria, 3083, 
+Bundoora, Australia.
+(5)Petuna Aquaculture, Tasmania, 7310, East Devonport, Australia.
+(6)GeneCology Research Centre, University of the Sunshine Coast, Queensland, 
+Sunshine Coast, Australia. tventura@usc.edu.au.
+(7)School of Science, Technology and Engineering, University of the Sunshine 
+Coast, Sunshine Coast, Queensland, Australia. tventura@usc.edu.au.
+(8)GeneCology Research Centre, University of the Sunshine Coast, Queensland, 
+Sunshine Coast, Australia. aelizur@usc.edu.au.
+
+Erratum in
+    BMC Genomics. 2021 Sep 30;22(1):705. doi: 10.1186/s12864-021-08031-0.
+
+BACKGROUND: The flesh pigmentation of farmed Atlantic salmon is formed by 
+accumulation of carotenoids derived from commercial diets. In the salmon 
+gastrointestinal system, the hindgut is considered critical in the processes of 
+carotenoids uptake and metabolism. In Tasmania, flesh color depletion can 
+noticeably affect farmed Atlantic salmon at different levels of severity 
+following extremely hot summers. In this study, RNA sequencing (RNA-Seq) was 
+performed to investigate the reduction in flesh pigmentation. Library 
+preparation is a key step that significantly impacts the effectiveness of RNA 
+sequencing (RNA-Seq) experiments. Besides the commonly used whole transcript 
+RNA-Seq method, the 3' mRNA-Seq method is being applied widely, owing to its 
+reduced cost, enabling more repeats to be sequenced at the expense of lower 
+resolution. Therefore, the output of the Illumina TruSeq kit (whole transcript 
+RNA-Seq) and the Lexogen QuantSeq kit (3' mRNA-Seq) was analyzed to identify 
+genes in the Atlantic salmon hindgut that are differentially expressed (DEGs) 
+between two flesh color phenotypes.
+RESULTS: In both methods, DEGs between the two color phenotypes were associated 
+with metal ion transport, oxidation-reduction processes, and immune responses. 
+We also found DEGs related to lipid metabolism in the QuantSeq method. In the 
+TruSeq method, a missense mutation was detected in DEGs in different flesh color 
+traits. The number of DEGs found in the TruSeq libraries was much higher than 
+the QuantSeq; however, the trend of DEGs in both library methods was similar and 
+validated by qPCR.
+CONCLUSIONS: Flesh coloration in Atlantic salmon is related to lipid metabolism 
+in which apolipoproteins, serum albumin and fatty acid-binding protein genes are 
+hypothesized to be linked to the absorption, transport and deposition of 
+carotenoids. Our findings suggest that Grp could inhibit the feeding behavior of 
+low color-banded fish, resulting in the dietary carotenoid shortage. Several 
+SNPs in genes involving in carotenoid-binding cholesterol and oxidative stress 
+were detected in both flesh color phenotypes. Regarding the choice of the 
+library preparation method, the selection criteria depend on the research design 
+and purpose. The 3' mRNA-Seq method is ideal for targeted identification of 
+highly expressed genes, while the whole RNA-Seq method is recommended for 
+identification of unknown genes, enabling the identification of splice variants 
+and trait-associated SNPs, as we have found for duox2 and duoxa1.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-07884-9
+PMCID: PMC8285899
+PMID: 34271869 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+11. Antioxidants (Basel). 2021 Jun 1;10(6):890. doi: 10.3390/antiox10060890.
+
+NADPH Oxidases (NOX): An Overview from Discovery, Molecular Mechanisms to 
+Physiology and Pathology.
+
+Vermot A(1), Petit-Härtlein I(1), Smith SME(2), Fieschi F(1).
+
+Author information:
+(1)Univ. Grenoble Alpes, CNRS, CEA, Institut de Biologie Structurale, 38000 
+Grenoble, France.
+(2)Department of Molecular and Cellular Biology, Kennesaw State University, 
+Kennesaw, GA 30144, USA.
+
+The reactive oxygen species (ROS)-producing enzyme NADPH oxidase (NOX) was first 
+identified in the membrane of phagocytic cells. For many years, its only known 
+role was in immune defense, where its ROS production leads to the destruction of 
+pathogens by the immune cells. NOX from phagocytes catalyzes, via one-electron 
+trans-membrane transfer to molecular oxygen, the production of the superoxide 
+anion. Over the years, six human homologs of the catalytic subunit of the 
+phagocyte NADPH oxidase were found: NOX1, NOX3, NOX4, NOX5, DUOX1, and DUOX2. 
+Together with the NOX2/gp91phox component present in the phagocyte NADPH oxidase 
+assembly itself, the homologs are now referred to as the NOX family of NADPH 
+oxidases. NOX are complex multidomain proteins with varying requirements for 
+assembly with combinations of other proteins for activity. The recent structural 
+insights acquired on both prokaryotic and eukaryotic NOX open new perspectives 
+for the understanding of the molecular mechanisms inherent to NOX regulation and 
+ROS production (superoxide or hydrogen peroxide). This new structural 
+information will certainly inform new investigations of human disease. As 
+specialized ROS producers, NOX enzymes participate in numerous crucial 
+physiological processes, including host defense, the post-translational 
+processing of proteins, cellular signaling, regulation of gene expression, and 
+cell differentiation. These diversities of physiological context will be 
+discussed in this review. We also discuss NOX misregulation, which can 
+contribute to a wide range of severe pathologies, such as atherosclerosis, 
+hypertension, diabetic nephropathy, lung fibrosis, cancer, or neurodegenerative 
+diseases, giving this family of membrane proteins a strong therapeutic interest.
+
+DOI: 10.3390/antiox10060890
+PMCID: PMC8228183
+PMID: 34205998
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+12. Cell Mol Gastroenterol Hepatol. 2021;12(2):665-687. doi: 
+10.1016/j.jcmgh.2021.04.011. Epub 2021 Apr 27.
+
+Transcriptomic Profiling of Collagenous Colitis Identifies Hallmarks of 
+Nondestructive Inflammatory Bowel Disease.
+
+Escudero-Hernández C(1), van Beelen Granlund A(2), Bruland T(3), Sandvik AK(4), 
+Koch S(5), Østvik AE(6), Münch A(7).
+
+Author information:
+(1)Department of Biomedical and Clinical Sciences, Linköping University, 
+Linköping, Sweden. Electronic address: celia.escher@gmail.com.
+(2)Department of Clinical and Molecular Medicine, Faculty of Medicine and Health 
+Sciences, Norwegian University of Science and Technology, Trondheim, Norway; 
+Centre of Molecular Inflammation Research, Department of Clinical and Molecular 
+Medicine, Faculty of Medicine and Health Sciences, Norwegian University of 
+Science and Technology, Trondheim, Norway.
+(3)Department of Clinical and Molecular Medicine, Faculty of Medicine and Health 
+Sciences, Norwegian University of Science and Technology, Trondheim, Norway; 
+Clinic of Medicine, St Olav's University Hospital, Trondheim, Norway.
+(4)Department of Clinical and Molecular Medicine, Faculty of Medicine and Health 
+Sciences, Norwegian University of Science and Technology, Trondheim, Norway; 
+Centre of Molecular Inflammation Research, Department of Clinical and Molecular 
+Medicine, Faculty of Medicine and Health Sciences, Norwegian University of 
+Science and Technology, Trondheim, Norway; Clinic of Medicine, St Olav's 
+University Hospital, Trondheim, Norway; Department of Gastroenterology and 
+Hepatology, St Olav's University Hospital, Trondheim, Norway.
+(5)Department of Biomedical and Clinical Sciences, Linköping University, 
+Linköping, Sweden; Wallenberg Centre for Molecular Medicine, Linköping 
+University, Linköping, Sweden.
+(6)Department of Clinical and Molecular Medicine, Faculty of Medicine and Health 
+Sciences, Norwegian University of Science and Technology, Trondheim, Norway; 
+Clinic of Medicine, St Olav's University Hospital, Trondheim, Norway; Department 
+of Gastroenterology and Hepatology, St Olav's University Hospital, Trondheim, 
+Norway.
+(7)Department of Biomedical and Clinical Sciences, Linköping University, 
+Linköping, Sweden; Department of Gastroenterology and Hepatology, Linköping 
+University, Linköping, Sweden; Department of Health, Medicine, and Caring 
+Sciences, Linköping University, Linköping, Sweden.
+
+BACKGROUND AND AIMS: The pathophysiology of the inflammatory bowel disease 
+collagenous colitis (CC) is poorly described. Our aim was to use RNA sequencing 
+of mucosal samples from patients with active CC, CC in remission, refractory CC, 
+ulcerative colitis (UC), and control subjects to gain insight into CC 
+pathophysiology, identify genetic signatures linked to CC, and uncover 
+potentially druggable disease pathways.
+METHODS: We performed whole transcriptome sequencing of CC samples from patients 
+before and during treatment with the corticosteroid drug budesonide, CC 
+steroid-refractory patients, UC patients, and healthy control subjects (n = 
+9-13). Bulk mucosa and laser-captured microdissected intestinal epithelial cell 
+(IEC) gene expression were analyzed by gene set enrichment and gene set 
+variation analyses to identify significant pathways and cells, respectively, 
+altered in CC. Leading genes and cells were validated using 
+reverse-transcription quantitative polymerase chain reaction or 
+immunohistochemistry.
+RESULTS: We identified an activation of the adaptive immune response to bacteria 
+and viruses in active CC that could be mediated by dendritic cells. Moreover, 
+IECs display hyperproliferation and increased antigen presentation in active CC. 
+Further analysis revealed that genes related to the immune response (DUOX2, 
+PLA2G2A, CXCL9), DNA transcription (CTR9), protein processing (JOSD1, URI1), and 
+ion transport (SLC9A3) remained dysregulated even after budesonide-induced 
+remission. Budesonide-refractory CC patients fail to restore normal gene 
+expression, and displayed a transcriptomic profile close to UC.
+CONCLUSIONS: Our study confirmed the implication of innate and adaptive immune 
+responses in CC, governed by IECs and dendritic cells, respectively, and 
+identified ongoing epithelial damage. Refractory CC could share pathomechanisms 
+with UC.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcmgh.2021.04.011
+PMCID: PMC8267496
+PMID: 33930606 [Indexed for MEDLINE]
+
+
+13. Anim Biosci. 2021 Jul;34(7):1157-1168. doi: 10.5713/ajas.20.0399. Epub 2020 Oct 
+13.
+
+Effects of Saccharomyces cerevisiae and phytase co-fermentation of wheat bran on 
+growth, antioxidation, immunity and intestinal morphology in broilers.
+
+Chuang WY(1), Lin LJ(2), Hsieh YC(1), Chang SC(3), Lee TT(1)(4).
+
+Author information:
+(1)Department of Animal Science, National Chung Hsing University, Taichung, 402, 
+Taiwan.
+(2)School of Chinese Medicine, College of Chinese Medicine, China Medical 
+University, Taichung 402, Taiwan.
+(3)Kaohsiung Animal Propagation Station, Livestock Research Institute, Council 
+of Agriculture, 912, Taiwan.
+(4)The iEGG and Animal Biotechnology Center, National Chung Hsing University, 
+Taichung, 402, Taiwan.
+
+OBJECTIVE: The aim of this study was to investigate the effects of different 
+amounts of wheat bran (WB) inclusion and postbiotics form by Saccharomyces 
+cerevisiae and phytase cofermented wheat bran (FWB) on the growth performance 
+and health status of broilers.
+METHODS: Study randomly allocated a total of 300 male broilers to a control and 
+4 treatment groups (5% WB, 5% FWB, 10% WB, and 10% FWB inclusion, respectively) 
+with each pen having 20 broilers and 3 pens per treatment.
+RESULTS: The WB does not contain enzymes, but there are 152.8, 549.2, 289.5, and 
+147.1 U/g dry matter xylanase, protease, cellulase and β-glucanase in FWB, 
+respectively. Furthermore, FWB can decrease nitric oxide release of 
+lipopolysaccharide stimulated chicken peripheral blood mononuclear cells by 
+about two times. Results show that 10% FWB inclusion had significantly the 
+highest weight gain (WG) at 1 to 21 d; 5% FWB had the lowest feed conversion 
+rate at 22 to 35 d; 10% WB and 10% FWB inclusion have the highest villus height 
+and Lactobacillus spp. number in caecum; and both 5% and 10% FWB can increase 
+ash content in femurs. Compared to control group, all treatments increase mucin 
+2, and tight junction (TJ), such as occludin, claudin-1, zonula occludens-1, and 
+mRNA expression in ileum by at least 5 folds. In chicken peripheral blood 
+mononuclear cells, nicotinamide adenine dinucleotide phosphate-oxidase-1 mRNA 
+expression decreases from 2 to 5 times, and glutamate-cysteine ligase catalytic 
+subunit mRNA expression also increases in all treatment groups compared to 
+control group. The mRNA expression of pro-inflammatory cytokines, including 
+interleukin-6 (IL-6), nuclear factor-κB, and IL-1β, decreases in 5% and 10% FWB 
+groups compared to control group.
+CONCLUSION: To summarize, both WB and FWB inclusion in broilers diets increase 
+TJ mRNA expression and anti-oxidation and anti-inflammation, but up to 10% FWB 
+groups have better WG in different stages of broiler development.
+
+DOI: 10.5713/ajas.20.0399
+PMCID: PMC8255880
+PMID: 33152224
+
+Conflict of interest statement: CONFLICT OF INTEREST We certify that there is no 
+conflict of interest with any financial organization regarding the material 
+discussed in the manuscript.
+
+
+14. Antioxid Redox Signal. 2021 Jul 20;35(3):163-181. doi: 10.1089/ars.2020.8201. 
+Epub 2020 Dec 31.
+
+Metabolic and Redox Regulation of Cardiovascular Stem Cell Biology and 
+Pathology.
+
+Dudek J(1), Kutschka I(1), Maack C(1)(2).
+
+Author information:
+(1)Department of Translational Research, Comprehensive Heart Failure Center 
+(CHFC), University Clinic Würzburg, Würzburg, Germany.
+(2)Department of Internal Medicine I, University Hospital Würzburg, Würzburg, 
+Germany.
+
+Significance: Cardiovascular stem cells are important for regeneration and 
+repair of damaged tissue. Recent Advances: Pluripotent stem cells have a unique 
+metabolism, which is adopted for their energetic and biosynthetic demand as 
+rapidly proliferating cells. Stem cell differentiation requires an exceptional 
+metabolic flexibility allowing for metabolic remodeling between glycolysis and 
+oxidative phosphorylation. Critical Issues: Respiration is associated with the 
+generation of reactive oxygen species (ROS) by the mitochondrial respiratory 
+chain. But also the membrane-bound protein nicotinamide adenine dinucleotide 
+phosphate oxidase (NADPH oxidase, NOX) contributes to ROS levels. ROS not only 
+play a significant role in stem cell differentiation and tissue renewal but also 
+cause senescence and contribute to tissue aging. Future Directions: For 
+utilization of stem cells in therapeutic approaches, a deep understanding of the 
+molecular mechanisms how metabolism and the cellular redox state regulate stem 
+cell differentiation is required. Modulating the redox state of stem cells using 
+antioxidative agents may be suitable to enhance activity of endothelial 
+progenitor cells. Antioxid. Redox Signal. 35, 163-181.
+
+DOI: 10.1089/ars.2020.8201
+PMID: 33121253 [Indexed for MEDLINE]
+
+
+15. Microbiologyopen. 2020 Oct;9(10):e1107. doi: 10.1002/mbo3.1107. Epub 2020 Aug 
+18.
+
+Role of the microbiota in ileitis of a mouse model of inflammatory bowel 
+disease-Glutathione peroxide isoenzymes 1 and 2-double knockout mice on a C57BL 
+background.
+
+Chu FF(1), Esworthy RS(2), Shen B(2), Doroshow JH(3).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, The First Affiliated Hospital 
+and College of Clinical Medicine of Henan, University of Science and Technology, 
+Luoyang, China.
+(2)Department of Cancer Genetics and Epigenetics, Beckman Research Institute, 
+City of Hope, Duarte, CA, USA.
+(3)Center for Cancer Research and Division of Cancer Treatment and Diagnosis, 
+National Cancer Institute, Bethesda, MD, USA.
+
+C57Bl6 (B6) mice devoid of glutathione peroxidases 1 and 2 (Gpx1/2-DKO) develop 
+ileitis after weaning. We previously showed germ-free Gpx1/2-DKO mice of mixed 
+B6.129 background did not develop ileocolitis. Here, we examine the composition 
+of the ileitis provoking microbiota in B6 Gpx1/2-DKO mice. DNA was isolated from 
+the ileum fecal stream and subjected to high-throughput sequencing of the V3 and 
+V4 regions of the 16S rRNA gene to determine the abundance of operational 
+taxonomic units (OTUs). We analyzed the role of bacteria by comparing the 
+microbiomes of the DKO and pathology-free non-DKO mice. Mice were treated with 
+metronidazole, streptomycin, and vancomycin to alter pathology and correlate the 
+OTU abundances with pathology levels. Principal component analysis based on 
+Jaccard distance of abundance showed 3 distinct outcomes relative to the source 
+Gpx1/2-DKO microbiome. Association analyses of pathology and abundance of OTUs 
+served to rule out 7-11 of 24 OTUs for involvement in the ileitis. Collections 
+of OTUs were identified that appeared to be linked to ileitis in this animal 
+model and would be classified as commensals. In Gpx1/2-DKO mice, host oxidant 
+generation from NOX1 and DUOX2 in response to commensals may compromise the 
+ileum epithelial barrier, a role generally ascribed to oxidants generated from 
+mitochondria, NOX2 and endoplasmic reticulum stress in response to presumptive 
+pathogens in IBD. Elevated oxidant levels may contribute to epithelial cell 
+shedding, which is strongly associated with progress toward inflammation in 
+Gpx1/2-DKO mice and predictive of relapse in IBD by allowing leakage of 
+microbial components into the submucosa.
+
+© 2020 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.1107
+PMCID: PMC7568258
+PMID: 32810389 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared. The content is solely the 
+responsibility of the authors and does not necessarily represent the official 
+views of NIH.
+
+
+16. J Allergy Clin Immunol. 2020 Jun;145(6):1535-1544. doi: 
+10.1016/j.jaci.2020.02.038. Epub 2020 Apr 10.
+
+The role of neutrophils in host defense and disease.
+
+Lehman HK(1), Segal BH(2).
+
+Author information:
+(1)Division of Allergy/Immunology & Rheumatology, Department of Pediatrics, 
+Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, 
+Buffalo, NY.
+(2)Roswell Park Comprehensive Cancer Center, University at Buffalo, Buffalo, NY. 
+Electronic address: brahm.segal@roswellpark.org.
+
+Neutrophils, the most abundant circulating leukocyte, are critical for host 
+defense. Granulopoiesis is under the control of transcriptional factors and 
+culminates in mature neutrophils with a broad armamentarium of antimicrobial 
+pathways. These pathways include nicotinamide adenine dinucleotide phosphate 
+oxidase, which generates microbicidal reactive oxidants, and nonoxidant pathways 
+that target microbes through several mechanisms. Activated neutrophils can cause 
+or worsen tissue injury, underscoring the need for calibration of activation and 
+resolution of inflammation when infection has been cleared. Acquired neutrophil 
+disorders are typically caused by cytotoxic chemotherapy or immunosuppressive 
+agents. Primary neutrophil disorders typically result from disabling mutations 
+of individual genes that result in impaired neutrophil number or function, and 
+provide insight into basic mechanisms of neutrophil biology. Neutrophils can 
+also be activated by noninfectious causes, including trauma and cellular injury, 
+and can have off-target effects in which pathways that typically defend against 
+infection exacerbate injury and disease. These off-target effects include acute 
+organ injury, autoimmunity, and variable effects on the tumor microenvironment 
+that can limit or worsen tumor progression. A greater understanding of 
+neutrophil plasticity in these conditions is likely to pave the way to new 
+therapeutic approaches.
+
+Copyright © 2020 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaci.2020.02.038
+PMCID: PMC8912989
+PMID: 32283205 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure of potential conflict of interest: H. 
+Lehman has received research contracts from Kedrion S.p.A., Leadiant 
+Biosciences, and Takeda Ltd. B.H. Segal has served on a Data Review Committee 
+for a Merck-sponsored clinical trial.
+
+
+17. Autophagy. 2021 Apr;17(4):888-902. doi: 10.1080/15548627.2020.1739443. Epub 2020 
+Mar 15.
+
+The autophagic response to Staphylococcus aureus provides an intracellular niche 
+in neutrophils.
+
+Prajsnar TK(1)(2), Serba JJ(1), Dekker BM(2), Gibson JF(1)(3), Masud S(2), 
+Fleming A(4), Johnston SA(1), Renshaw SA(1), Meijer AH(2).
+
+Author information:
+(1)Bateson Centre and Department of Infection, Immunity and Cardiovascular 
+Disease, University of Sheffield, Sheffield, UK.
+(2)Institute of Biology Leiden, Faculty of Science, Leiden University, Leiden, 
+The Netherlands.
+(3)Krebs Institute and Department of Molecular Biology and Biotechnology, 
+University of Sheffield, Sheffield, UK.
+(4)Department of Physiology, Development and Neuroscience, University of 
+Cambridge, Cambridge, UK.
+
+Staphylococcus aureus is a major human pathogen causing multiple pathologies, 
+from cutaneous lesions to life-threatening sepsis. Although neutrophils 
+contribute to immunity against S. aureus, multiple lines of evidence suggest 
+that these phagocytes can provide an intracellular niche for staphylococcal 
+dissemination. However, the mechanism of neutrophil subversion by intracellular 
+S. aureus remains unknown. Targeting of intracellular pathogens by 
+macroautophagy/autophagy is recognized as an important component of host innate 
+immunity, but whether autophagy is beneficial or detrimental to S. 
+aureus-infected hosts remains controversial. Here, using larval zebrafish, we 
+showed that the autophagy marker Lc3 rapidly decorates S. aureus following 
+engulfment by macrophages and neutrophils. Upon phagocytosis by neutrophils, 
+Lc3-positive, non-acidified spacious phagosomes are formed. This response is 
+dependent on phagocyte NADPH oxidase as both cyba/p22phox knockdown and 
+diphenyleneiodonium (DPI) treatment inhibited Lc3 decoration of phagosomes. 
+Importantly, NADPH oxidase inhibition diverted neutrophil S. aureus processing 
+into tight acidified vesicles, which resulted in increased host resistance to 
+the infection. Some intracellular bacteria within neutrophils were also tagged 
+by Sqstm1/p62-GFP fusion protein and loss of Sqstm1 impaired host defense. 
+Together, we have shown that intracellular handling of S. aureus by neutrophils 
+is best explained by Lc3-associated phagocytosis (LAP), which appears to provide 
+an intracellular niche for bacterial pathogenesis, while the selective autophagy 
+receptor Sqstm1 is host-protective. The antagonistic roles of LAP and 
+Sqstm1-mediated pathways in S. aureus-infected neutrophils may explain the 
+conflicting reports relating to anti-staphylococcal autophagy and provide new 
+insights for therapeutic strategies against antimicrobial-resistant 
+Staphylococci.Abbreviations: ATG: autophagy related; CFU: colony-forming units; 
+CMV: cytomegalovirus; Cyba/P22phox: cytochrome b-245, alpha polypeptide; DMSO: 
+dimethyl sulfoxide; DPI: diphenyleneiodonium; EGFP: enhanced green fluorescent 
+protein; GFP: green fluorescent protein; hpf: hours post-fertilization; hpi: 
+hours post-infection; Irf8: interferon regulatory factor 8; LAP: LC3-associated 
+phagocytosis; lyz: lysozyme; LWT: london wild type; Map1lc3/Lc3: 
+microtubule-associated protein 1 light chain 3; NADPH oxidase: nicotinamide 
+adenine dinucleotide phosphate oxidase; RFP: red fluorescent protein; ROS: 
+reactive oxygen species; RT-PCR: reverse transcriptase polymerase chain 
+reaction; Sqstm1/p62: sequestosome 1; Tg: transgenic; TSA: tyramide signal 
+amplification.
+
+DOI: 10.1080/15548627.2020.1739443
+PMCID: PMC8078660
+PMID: 32174246 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interests
+
+
+18. Antioxid Redox Signal. 2020 Aug 10;33(5):354-373. doi: 10.1089/ars.2020.8018. 
+Epub 2020 Feb 26.
+
+The Dual Role of Reactive Oxygen Species-Generating Nicotinamide Adenine 
+Dinucleotide Phosphate Oxidases in Gastrointestinal Inflammation and Therapeutic 
+Perspectives.
+
+Dang PM(1)(2), Rolas L(1), El-Benna J(1)(2).
+
+Author information:
+(1)INSERM-U1149, CNRS-ERL8252, Centre de Recherche sur l'Inflammation, Paris, 
+France.
+(2)Faculté de Médecine, Laboratoire d'Excellence Inflamex, DHU FIRE, Université 
+de Paris, Paris, France.
+
+Significance: Despite their intrinsic cytotoxic properties, mounting evidence 
+indicates that reactive oxygen species (ROS) physiologically produced by the 
+nicotinamide adenine dinucleotide phosphate (NADPH) oxidases (NOXs) of 
+epithelial cells (NOX1, dual oxidase [DUOX]2) and phagocytes (NOX2) are critical 
+for innate immune response and homeostasis of the intestinal mucosa. However, 
+dysregulated ROS production could be a driving factor in inflammatory bowel 
+diseases (IBDs). Recent Advances: In addition to NOX2, recent studies have 
+demonstrated that NOX1- and DUOX2-derived ROS can regulate intestinal innate 
+immune defense and homeostasis by impacting many processes, including bacterial 
+virulence, expression of bacteriostatic proteins, epithelial renewal and 
+restitution, and microbiota composition. Moreover, the antibacterial role of 
+DUOX2 is a function conserved in evolution as it has been described in 
+invertebrates, and lower and higher vertebrates. In humans, variants of the 
+NOX2, NOX1, and DUOX2 genes, which are associated with impaired ROS production, 
+have been identified in very early onset IBD, but overexpression of NOX/DUOX, 
+especially DUOX2, has also been described in IBD, suggesting that 
+loss-of-function or excessive activity of the ROS-generating enzymes could 
+contribute to disease progression. Critical Issues: Therapeutic perspectives 
+aiming at targeting NOX/DUOX in IBD should take into account the two sides of 
+NOX/DUOX-derived ROS in intestinal inflammation. Hence, NOX/DUOX inhibitors or 
+ROS inducers should be considered as a function of the disease context. Future 
+Directions: A thorough understanding of the physiological and pathological 
+regulation of NOX/DUOX in the gastrointestinal tract is an absolute 
+pre-requisite for the development of therapeutic strategies that can modulate 
+ROS levels in space and time.
+
+DOI: 10.1089/ars.2020.8018
+PMID: 31968991 [Indexed for MEDLINE]
+
+
+19. Hum Gene Ther. 2020 Feb;31(3-4):199-210. doi: 10.1089/hum.2019.194. Epub 2020 
+Jan 23.
+
+Differential Transgene Silencing of Myeloid-Specific Promoters in the AAVS1 Safe 
+Harbor Locus of Induced Pluripotent Stem Cell-Derived Myeloid Cells.
+
+Klatt D(1)(2), Cheng E(1)(2), Hoffmann D(1)(2), Santilli G(3), Thrasher 
+AJ(3)(4), Brendel C(5), Schambach A(1)(2)(6).
+
+Author information:
+(1)Institute of Experimental Hematology, Hannover Medical School, Hannover, 
+Germany.
+(2)REBIRTH Cluster of Excellence, Hannover Medical School, Hannover, Germany.
+(3)Infection, Immunity and Inflammation Program, Molecular and Cellular 
+Immunology Section, UCL Great Ormond Street Institute of Child Health, 
+University College London, London, United Kingdom.
+(4)Great Ormond Street Hospital NHS Foundation Trust, London, United Kingdom.
+(5)Dana-Farber/Boston Children's Cancer and Blood Disorders Center, Harvard 
+Medical School, Boston, Massachusetts.
+(6)Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical 
+School, Boston, Massachusetts.
+
+Targeted integration into a genomic safe harbor, such as the AAVS1 locus on 
+chromosome 19, promises predictable transgene expression and reduces the risk of 
+insertional mutagenesis in the host genome. The application of gamma-retroviral 
+long terminal repeat (LTR)-driven vectors, which semirandomly integrate into the 
+genome, has previously caused severe adverse events in some clinical studies due 
+to transactivation of neighboring proto-oncogenes. Consequently, the 
+site-specific integration of a therapeutic transgene into a genomic safe harbor 
+locus would allow stable genetic correction with a reduced risk of insertional 
+mutagenesis. However, recent studies revealed that transgene silencing, 
+especially in case of weaker cell type-specific promoters, can occur in the 
+AAVS1 locus of human pluripotent stem cells (PSCs) and can impede transgene 
+expression during differentiation. In this study, we aimed to correct p47phox 
+deficiency, which is the second most common cause of chronic granulomatous 
+disease, by insertion of a therapeutic p47phox transgene into the AAVS1 locus of 
+human induced PSCs (iPSCs) using CRISPR-Cas9. We analyzed transgene expression 
+and functional correction from three different myeloid-specific promoters 
+(miR223, CatG/cFes, and myeloid-related protein 8 [MRP8]). Upon myeloid 
+differentiation of corrected iPSC clones, we observed that the miR223 and 
+CatG/cFes promoters achieved therapeutically relevant levels of p47phox 
+expression and nicotinamide adenine dinucleotide phosphate oxidase activity, 
+whereas the MRP8 promoter was less efficient. Analysis of the different 
+promoters revealed high CpG methylation of the MRP8 promoter in differentiated 
+cells, which correlated with the transgene expression data. In summary, we 
+identified the miR223 and CatG/cFes promoters as cell type-specific promoters 
+that allow stable transgene expression in the AAVS1 locus of iPSC-derived 
+myeloid cells. Our findings further indicate that promoter silencing can occur 
+in the AAVS1 safe harbor locus in differentiated hematopoietic cells and that a 
+comparison of different promoters is necessary to achieve optimal transgene 
+expression for therapeutic application of iPSC-derived cells.
+
+DOI: 10.1089/hum.2019.194
+PMCID: PMC7047106
+PMID: 31773990 [Indexed for MEDLINE]
+
+Conflict of interest statement: No competing financial interests exist.
+
+
+20. Methods Mol Biol. 2019;1982:695-713. doi: 10.1007/978-1-4939-9424-3_38.
+
+NAPDH Oxidases in Inflammatory Bowel Disease.
+
+Stenke E(1), Bourke B(1)(2), Knaus UG(3).
+
+Author information:
+(1)Conway Institute, School of Medicine, University College Dublin, Dublin, 
+Ireland.
+(2)Department of Paediatric Gastroenterology, Our Lady's Children's Hospital 
+Crumlin, Dublin, Ireland.
+(3)Conway Institute, School of Medicine, University College Dublin, Dublin, 
+Ireland. ulla.knaus@ucd.ie.
+
+Erratum in
+    Methods Mol Biol. 2019;1982:C1. doi: 10.1007/978-1-4939-9424-3_39.
+
+Inflammatory bowel diseases (IBD), categorized as ulcerative colitis (UC), 
+Crohn's disease (CD), or IBD-undetermined (IBDU), are increasing in incidence. 
+IBD is understood to result from environmental factors interacting with a 
+pre-existing genetic susceptibility. Approximately 1% of all patients with 
+inflammatory bowel disease (IBD) are diagnosed before the age of 6 years, 
+designated as very-early-onset IBD (VEOIBD). This cohort of patients is 
+distinguished from other age groups by differences in disease phenotype and by a 
+higher burden of genetic mutations. Recent studies have linked mutations in 
+NADPH oxidase function to VEOIBD and even pediatric IBD. Loss-of-function NOX2 
+variants expressed in phagocytes and NOX1/DUOX2 variants expressed in intestinal 
+epithelial cells have been associated with VEOIBD and pediatric and adult IBD in 
+patients. Cell and animal studies suggest a protective role for these reactive 
+oxygen species (ROS)-producing enzymes in intestinal homeostasis-a paradigm that 
+challenges the conventional concept that only increased ROS result in cell and 
+tissue damage. Examining the role of NADPH oxidases in VEOIBD may improve our 
+understanding of the pathophysiology of this disease and will uncover new 
+therapeutic possibilities.
+
+DOI: 10.1007/978-1-4939-9424-3_38
+PMID: 31172500 [Indexed for MEDLINE]
+
+
+21. FASEB J. 2019 Mar;33(3):3985-3996. doi: 10.1096/fj.201801414R. Epub 2018 Dec 6.
+
+Development of a host-microbiome model of the small intestine.
+
+Calatayud M(1), Dezutter O(1), Hernandez-Sanabria E(1), Hidalgo-Martinez S(2), 
+Meysman FJR(2)(3), Van de Wiele T(1).
+
+Author information:
+(1)Center for Microbial Ecology and Technology (CMET), Ghent University, Ghent, 
+Belgium.
+(2)Department of Biology, Ecosystem Management Research Group (ECOBE), 
+University of Antwerp, Wilrijk, Belgium; and.
+(3)Department of Biotechnology, Delft University of Technology, Delft, The 
+Netherlands.
+
+The intestinal epithelium plays an essential role in the balance between 
+tolerant and protective immune responses to infectious agents. In vitro models 
+do not typically consider the innate immune response and gut microbiome in 
+detail, so these models do not fully mimic the physiologic aspects of the small 
+intestine. We developed and characterized a long-term in vitro model containing 
+enterocyte, goblet, and immune-like cells exposed to a synthetic microbial 
+community representative of commensal inhabitants of the small intestine. This 
+model showed differential responses toward a synthetic microbial community of 
+commensal bacterial inhabitants of the small intestine in the absence or 
+presence of LPS from Escherichia coli O111:B4. Simultaneous exposure to LPS and 
+microbiota induced impaired epithelial barrier function; increased production of 
+IL-8, IL-6, TNF-α, and C-X-C motif chemokine ligand 16; and augmented 
+differentiation and adhesion of macrophage-like cells and the overexpression of 
+dual oxidase 2 and TLR-2 and -4 mRNA. In addition, the model demonstrated the 
+ability to assess the adhesion of specific bacterial strains from the synthetic 
+microbial community-more specifically, Veillonella parvula-to the simulated 
+epithelium. This novel in vitro model may assist in overcoming sampling and 
+retrieval difficulties when studying host-microbiome interactions in the small 
+intestine.-Calatayud, M., Dezutter, O., Hernandez-Sanabria, E., 
+Hidalgo-Martinez, S., Meysman, F. J. R., Van de Wiele, T. Development of a 
+host-microbiome model of the small intestine.
+
+DOI: 10.1096/fj.201801414R
+PMID: 30521380 [Indexed for MEDLINE]
+
+
+22. Sci Adv. 2018 May 16;4(5):eaas9864. doi: 10.1126/sciadv.aas9864. eCollection 
+2018 May.
+
+Mannan-induced Nos2 in macrophages enhances IL-17-driven psoriatic arthritis by 
+innate lymphocytes.
+
+Zhong J(1), Scholz T(2), Yau ACY(1), Guerard S(1), Hüffmeier U(3), Burkhardt 
+H(2), Holmdahl R(1)(4).
+
+Author information:
+(1)Medical Inflammation Research, Department of Medical Biochemistry and 
+Biophysics, Karolinska Institutet, Stockholm 171 77, Sweden.
+(2)Project Group Translational Medicine and Pharmacology, Fraunhofer Institute 
+for Molecular Biology and Applied Ecology and Division of Rheumatology, 
+University Hospital Frankfurt, Goethe University, Frankfurt am Main 605 90, 
+Germany.
+(3)Institute of Human Genetics, Friedrich-Alexander-Universität 
+Erlangen-Nürnberg, Erlangen 910 54, Germany.
+(4)School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, 
+China.
+
+Previous identification of the inducible nitric oxide synthase (NOS2) gene as a 
+risk allele for psoriasis (Ps) and psoriatic arthritis (PsA) suggests a possible 
+pathogenic role of nitric oxide (NO). Using a mouse model of mannan-induced Ps 
+and PsA (MIP), where macrophages play a regulatory role by releasing reactive 
+oxygen species (ROS), we found that NO was detectable before disease onset in 
+mice, independent of a functional nicotinamide adenine dinucleotide phosphate 
+oxidase 2 complex. MIP was suppressed by either deletion of Nos2 or inhibition 
+of NO synthases with NG-nitro-l-arginine methyl ester, demonstrating that 
+Nos2-derived NO is pathogenic. NOS2 expression was also up-regulated in 
+lipopolysaccharide- and interferon-γ-stimulated monocyte subsets from patients 
+with PsA compared to healthy controls. Nos2-dependent interleukin-1α (IL-1α) 
+release from skin macrophages was essential for arthritis development by 
+promoting IL-17 production of innate lymphoid cells. We conclude that 
+Nos2-derived NO by tissue macrophages promotes MIP, in contrast to the 
+protective effect by ROS.
+
+DOI: 10.1126/sciadv.aas9864
+PMCID: PMC5955621
+PMID: 29774240 [Indexed for MEDLINE]
+
+
+23. Inflamm Res. 2018 Jun;67(6):539-551. doi: 10.1007/s00011-018-1145-8. Epub 2018 
+Apr 3.
+
+A large lung gene expression study identifying IL1B as a novel player in airway 
+inflammation in COPD airway epithelial cells.
+
+Yi G(1)(2), Liang M(2), Li M(1)(2), Fang X(1), Liu J(2), Lai Y(2), Chen J(1)(2), 
+Yao W(2), Feng X(2), Hu L(2), Lin C(1), Zhou X(3)(4), Liu Z(5)(6).
+
+Author information:
+(1)Department of Respiratory Medicine, State Key Laboratory of Respiratory 
+Disease, The Fifth Affiliated Hospital of Guangzhou Medical University, 
+Guangzhou, 510700, China.
+(2)Department of Center Laboratory, The Fifth Affiliated Hospital of Guangzhou 
+Medical University, Guangzhou, 510700, China.
+(3)Department of Respiratory Medicine, State Key Laboratory of Respiratory 
+Disease, The Fifth Affiliated Hospital of Guangzhou Medical University, 
+Guangzhou, 510700, China. zxkstarr@126.com.
+(4)Department of Center Laboratory, The Fifth Affiliated Hospital of Guangzhou 
+Medical University, Guangzhou, 510700, China. zxkstarr@126.com.
+(5)Department of Respiratory Medicine, State Key Laboratory of Respiratory 
+Disease, The Fifth Affiliated Hospital of Guangzhou Medical University, 
+Guangzhou, 510700, China. GYWYer@126.com.
+(6)Department of Center Laboratory, The Fifth Affiliated Hospital of Guangzhou 
+Medical University, Guangzhou, 510700, China. GYWYer@126.com.
+
+BACKGROUND: Chronic obstructive pulmonary disease (COPD) is a chronic and 
+progressive lung disease characterized by a mixture of small airway disease and 
+lung tissue parenchymal destruction. Abnormal inflammatory responses to 
+cigarette smoking and other noxious particles are generally thought to be 
+responsible for causing of COPD. Since airway inflammation is a key factor in 
+COPD progress, it is crucial to unravel its underlying molecular mechanisms. 
+Unbiased analysis of genome-wide gene expression profiles in lung small airway 
+epithelial cells provides a powerful tool to investigate this.
+METHODS: Gene expression data of GSE611906, GSE20257, GSE8545 were downloaded 
+from GEO database. All 288 lung small airway samples in these cohorts, including 
+donors with (n = 61) and without (n = 227) COPD, were chosen for differential 
+gene expression analysis. The gene ontology (GO) function, Kyoto Encyclopedia of 
+Genes and Genomes pathway (KEGG) enrichment analyses, gene co-expression network 
+analysis (WGCNA) and protein-protein interaction (PPI) network analysis were 
+performed. Subsequently, the analyses of IL1B expression level, the Pearson 
+correlation between IL1B and several COPD biomarkers were performed using other 
+cohorts to validate our main findings.
+RESULTS: With a change ≥ twofold and P value < 0.05 cutoff, we found 38 genes 
+were up-regulated and 114 genes were down-regulated in patients with COPD 
+compared with health controls, while using cutoff fold change 1.5 and P 
+value < 0.05, there were 318 genes up-regulated and 333 genes down-regulated. 
+Among the most up-regulated genes were IL1B, CCL2, CCL23, and CXCL14, all 
+implicated in inflammation triggering. GO, KEGG and WGCNA analysis all disclosed 
+IL1B was highly correlated to COPD disease trait. The expression profile of IL1B 
+was further validated using independent cohorts from COPD airway epithelium, 
+lung tissue, sputum, and blood. We demonstrated higher IL1B gene expression in 
+COPD small airway epithelial cells, but not in COPD lung tissue, sputum, and 
+blood. Strong co-expression of IL1B with COPD biomarkers, such as DUOX2, MMP12, 
+CCL2, and CXCL14, were validated in silico analysis. Finally, PPI network 
+analysis using enriched data showed IL1B, CCL2, CCL7 and BMP7 were in the same 
+hub node with high degrees.
+CONCLUSIONS: We identified IL1B was significantly up-regulated in COPD small 
+airway epithelial cells and propose IL1B as a novel player in airway 
+inflammation in COPD.
+
+DOI: 10.1007/s00011-018-1145-8
+PMID: 29616282 [Indexed for MEDLINE]
+
+
+24. Appl Microbiol Biotechnol. 2018 May;102(10):4339-4343. doi: 
+10.1007/s00253-018-8956-y. Epub 2018 Mar 30.
+
+Duox2-induced innate immune responses in the respiratory epithelium and 
+intranasal delivery of Duox2 DNA using polymer that mediates immunization.
+
+Jeon YJ(1), Kim HJ(2).
+
+Author information:
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Seoul National 
+University Hospital, Seoul National University College of Medicine, 103, 
+Daehak-ro, Jongno-gu, Seoul, South Korea.
+(2)Department of Otorhinolaryngology-Head and Neck Surgery, Seoul National 
+University Hospital, Seoul National University College of Medicine, 103, 
+Daehak-ro, Jongno-gu, Seoul, South Korea. hyunjerry@snu.ac.kr.
+
+Respiratory mucosa especially nasal epithelium is well known as the first-line 
+barrier of air-borne pathogens. High levels of reactive oxygen species (ROS) are 
+detected in in vitro cultured human epithelial cells and in vivo lung. With 
+identification of NADPH oxidase (Nox) system of respiratory epithelium, the 
+antimicrobial role of ROS has been studied. Duox2 is the most abundant Nox 
+isoform and produces the regulated amount of ROS in respiratory epithelium. 
+Duox2-derived ROS are involved in antiviral innate immune responses but more 
+studies are needed to verify the mechanism. In respiratory epithelium, 
+Duox2-derived ROS is critical for recognition of virus through families retinoic 
+acid-inducible gene-I (RIG-I) and melanoma differentiation-associated protein 5 
+(MDA5) at the early stage of antiviral innate immune responses. Various secreted 
+interferons (IFNs) play essential roles for antiviral host defense by downstream 
+cell signaling, and transcription of IFN-stimulated genes is started to suppress 
+viral replication. Type I and type III IFNs are verified more responsible for 
+influenza A virus (IAV) infection in respiratory epithelium and Duox2 is 
+required to regulate IFN-related immune responses. Transient overexpression of 
+Duox2 using cationic polymer polyethylenimine (PEI) induces secretion of type I 
+and type III IFNs and significantly attenuated IAV replication in respiratory 
+epithelium. Here, we discuss Duox2-mediated antiviral innate immune responses 
+and the role of Duox2 as a mucosal vaccine to resist respiratory viral 
+infection.
+
+DOI: 10.1007/s00253-018-8956-y
+PMID: 29600494 [Indexed for MEDLINE]
+
+
+25. Br J Pharmacol. 2018 May;175(9):1401-1418. doi: 10.1111/bph.14158. Epub 2018 Mar 
+15.
+
+Dual oxidase: a novel therapeutic target in allergic disease.
+
+van der Vliet A(1)(2), Danyal K(1)(2), Heppner DE(3)(4).
+
+Author information:
+(1)Department of Pathology and Laboratory Medicine, The Robert Larner, M.D. 
+College of Medicine, University of Vermont, Burlington, VT, USA.
+(2)Vermont Lung Center, University of Vermont, Burlington, VT, USA.
+(3)Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, USA.
+(4)Department of Biological Chemistry and Molecular Pharmacology, Harvard 
+Medical School, Boston, MA, USA.
+
+NADPH oxidases (NOXs) represent a family of enzymes that mediate regulated 
+cellular production of reactive oxygen species (ROS) and play various functional 
+roles in physiology. Among the NOX family, the dual oxidases DUOX1 and DUOX2 are 
+prominently expressed in epithelial cell types at mucosal surfaces and have 
+therefore been considered to have important roles in innate host defence 
+pathways. Recent studies have revealed important insights into the host defence 
+mechanisms of DUOX enzymes, which control innate immune response pathways in 
+response to either microbial or allergic triggers. In this review, we discuss 
+the current level of understanding with respect to the biological role(s) of 
+DUOX enzymes and the unique role of DUOX1 in mediating innate immune responses 
+to epithelial injury and allergens and in the development of allergic disease. 
+These novel findings highlight DUOX1 as an attractive therapeutic target, and 
+opportunities for the development of selective inhibitor strategies will be 
+discussed.
+
+© 2018 The British Pharmacological Society.
+
+DOI: 10.1111/bph.14158
+PMCID: PMC5900994
+PMID: 29405261 [Indexed for MEDLINE]
+
+
+26. Eur J Pharmacol. 2018 Jan 5;818:67-73. doi: 10.1016/j.ejphar.2017.10.030. Epub 
+2017 Oct 18.
+
+Probucol reverses homocysteine induced inflammatory monocytes differentiation 
+and oxidative stress.
+
+Zhang M(1), Hou Y(2), Shen Y(3), Guo X(4), Shang D(5), Zhang D(6).
+
+Author information:
+(1)Department of Cardiology, Shengjing Hospital of China Medical 
+University, No.36, Sanhao Street, Heping District, Shenyang City 110004, 
+Liaoning Province, PR China. Electronic address: zhangminli081208@163.com.
+(2)Department of Cardiology, Shengjing Hospital of China Medical 
+University, No.36, Sanhao Street, Heping District, Shenyang City 110004, 
+Liaoning Province, PR China. Electronic address: houyuchen1991@163.com.
+(3)Department of Cardiology, Shengjing Hospital of China Medical 
+University, No.36, Sanhao Street, Heping District, Shenyang City 110004, 
+Liaoning Province, PR China. Electronic address: shenyali_cmu@163.com.
+(4)Department of Cardiology, Shengjing Hospital of China Medical 
+University, No.36, Sanhao Street, Heping District, Shenyang City 110004, 
+Liaoning Province, PR China. Electronic address: hdguoxu0811@163.com.
+(5)Department of Cell Biology, China Medical University, No.77 Puhe Road, 
+Shenyang North New Area, Shenyang City 110122, Liaoning Province, PR China. 
+Electronic address: 2367306724@qq.com.
+(6)Department of Cardiology, Shengjing Hospital of China Medical 
+University, No.36, Sanhao Street, Heping District, Shenyang City 110004, 
+Liaoning Province, PR China. Electronic address: zhangdaqing@vip.163.com.
+
+Reactive oxygen species have been demonstrated to involve in 
+homocysteine-induced Ly-6Chi monocytes differentiation. Probucol is an 
+anti-oxidant agent that has been used to treat atherosclerosis. We sought to 
+evaluate the effect and potential mechanism of probucol on homocysteine-induced 
+inflammatory monocytes differentiation. The primary mouse splenocytes 
+suspensions were initiated by recombinant interferon-γ and cultured with 
+L-homocysteine in the presence or absence of probucol. The cells were 
+co-incubated with monoclonal antibodies to CD11b-PE and Ly-6C FITC. Flow 
+cytometry analysis was performed on BD FACS caliber. Data were analyzed using 
+the FlowJo software. Mononuclear cells were gated according to the lower 
+granular and larger size, distinguished with granulocytes and lymphocytes. 
+Monocytes were defined as CD11b+ mononuclear cells and further divided into 
+three groups based on their Ly-6C expressions, Ly-6Chi, Ly-6Cmid and Ly-6Clow 
+subsets. The productions of reactive oxygen species in monocytes subsets were 
+detected by 2',7'-dichlorofluorescein-diacetate (DCFH-DA) containing monocytes 
+were marked as DCFH-DA+ cells in both Ly-6C+ and Ly-6C- subsets. The activity of 
+nicotinamide adenine dinucleotide phosphate oxidase in THP-1 cells was measured 
+by assay kit on enzyme-labelling instrument. L-homocysteine promoted 
+inflammatory monocytes differentiation and its reactive oxygen species 
+productions in dose-dependent manner. Probucol dose-dependently suppressed the 
+differentiation and reactive oxygen species productions of inflammatory 
+monocytes induced by L-homocysteine. Furthermore, the increased NADPH oxidase 
+activity induced by L-homocysteine was significantly reversed by probucol in 
+THP-1 cells. Probucol prevented L-homocysteine-induced inflammatory monocytes 
+differentiation and its reactive oxygen species generation probably through 
+inhibiting NADPH oxidase activity.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2017.10.030
+PMID: 29055785 [Indexed for MEDLINE]
+
+
+27. Appl Microbiol Biotechnol. 2018 Jan;102(1):105-115. doi: 
+10.1007/s00253-017-8512-1. Epub 2017 Sep 21.
+
+Intranasal delivery of Duox2 DNA using cationic polymer can prevent acute 
+influenza A viral infection in vivo lung.
+
+Kim BJ(1), Cho SW(2), Jeon YJ(2), An S(2), Jo A(2), Lim JH(2), Kim DY(2), Won 
+TB(2), Han DH(2), Rhee CS(2), Kim HJ(3).
+
+Author information:
+(1)Wide River Institute of Immunology, Seoul National University College of 
+Medicine, Seoul, South Korea.
+(2)Department of Otorhinolaryngology, Seoul National University College of 
+Medicine, 103 Daehak-ro, Jongno-gu, Seoul, 110-799, South Korea.
+(3)Department of Otorhinolaryngology, Seoul National University College of 
+Medicine, 103 Daehak-ro, Jongno-gu, Seoul, 110-799, South Korea. 
+hyunjerry@snu.ac.kr.
+
+We studied the contribution of Duox2 in mucosal host defense against influenza A 
+virus (IAV) infection in in vivo lung. We found that Duox2 was required for the 
+induction of type I and III interferon (IFN)s and transient Duox2 overexpression 
+using cationic polymer polyethyleneimine (PEI) leads to suppression of IAV 
+infection in in vivo lung. Twenty mice (C57BL/6J) were anesthetized and 
+challenged by intranasal administration of 213 pfu/30 μl of IAV (WS/33/H1N1), 
+and IAV-infected mice were euthanized at 1, 3, 5, 7, 10, 14 days post infection 
+(dpi). Duox2 small hairpin RNA (shRNA) and pCMV-Duox2 formulated with PEI were 
+inoculated to mice to assess the regulatory mechanism between Duox2 and IFN 
+secretion. Following intranasal IAV inoculation, viral infection was 
+significantly aggravated from 3 dpi in in vivo lung and viral titer was highest 
+at 7 dpi. Consistent with this, Duox2 messenger RNA (mRNA) and protein 
+expressions were significantly induced from 3 dpi in the lung tissue of 
+IAV-infected mice. Viral titer was much higher in IAV-infected mice that were 
+inoculated with Duox2 shRNA accompanied with lower survival rate and extensive 
+lung pathologies. Interestingly, severe lung pathologies in IAV-infected mice 
+were not observed and viral titer was significantly reduced in mice with 
+pulmonary administration of pCMV-Duox2 formulated with PEI before IAV 
+inoculation. Both mRNA and secreted protein levels of IFN-β and IFN-λ2/3 were 
+highly elevated in IAV-infected mice with pCMV-Duox2 formulated with PEI. Duox2 
+is necessary for the regulation of IFN secretion in in vivo lung, and pulmonary 
+administration of Duox2 DNA using cationic polymer triggers the induction of 
+type I and III IFNs resulting in more complete suppression of IAV infection.
+
+DOI: 10.1007/s00253-017-8512-1
+PMID: 28936773 [Indexed for MEDLINE]
+
+
+28. Biochem Biophys Res Commun. 2018 Mar 25;498(1):1-8. doi: 
+10.1016/j.bbrc.2017.06.197. Epub 2017 Jul 1.
+
+Hv1 proton channel facilitates production of ROS and pro-inflammatory cytokines 
+in microglia and enhances oligodendrocyte progenitor cells damage from 
+oxygen-glucose deprivation in vitro.
+
+Yu Y(1), Yu Z(1), Xie M(1), Wang W(1), Luo X(2).
+
+Author information:
+(1)Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan 430030, China.
+(2)Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan 430030, China. Electronic address: 
+tjhfile@tjh.tjmu.edu.cn.
+
+The contribution of microglial activation to oligodendrocyte precursor cell 
+(OPC) damage in the brain is considered to be a principal pathophysiological 
+feature of periventricular leukomalacia (PVL). Nicotinamide adenine dinucleotide 
+phosphate oxidase (NOX)-dependent reactive oxygen species (ROS) produced in 
+microglia has been shown to be significantly toxic to OPCs. The voltage-gated 
+proton channel Hv1 is selectively expressed in microglia and is essential for 
+NOX-dependent ROS production in the central nervous system. This study aimed to 
+investigate the effects of microglial Hv1 deficiency on the protection of OPCs 
+from oxygen-glucose deprivation (OGD)-induced injury in vitro. In the present 
+study, the levels of OGD-induced ROS and pro-inflammatory cytokine production 
+were dramatically lower in Hv1-deficient microglia (Hv1-/-) than in wild-type 
+(WT) microglia. Following OGD, OPCs co-cultured with WT microglia had increased 
+apoptosis and decreased proliferation and maturation, while those co-cultured 
+with Hv1-/- microglia had attenuated apoptosis and greater proliferation and 
+differentiation. Furthermore, the attenuated damage and enhanced regeneration of 
+OPCs were associated with decreases in extracellular signal-regulated kinase 1/2 
+and p38 mitogen-activated protein kinase phosphorylation. These results indicate 
+that the protective effects of Hv1 deficiency on OPCs are due to the suppression 
+of ROS and pro-inflammatory cytokine production in microglia. We thus suggest 
+that the microglial proton channel Hv1 may be a potential therapeutic target in 
+PVL.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2017.06.197
+PMID: 28676401 [Indexed for MEDLINE]
+
+
+29. Nitric Oxide. 2017 Jun 1;66:53-61. doi: 10.1016/j.niox.2017.03.003. Epub 2017 
+Mar 14.
+
+The nitric oxide synthase 2 pathway is targeted by both pro- and 
+anti-inflammatory treatments in the immature human intestine.
+
+Ferretti E(1), Tremblay E(2), Thibault MP(2), Grynspan D(3), Burghardt KM(4), 
+Bettolli M(5), Babakissa C(6), Levy E(7), Beaulieu JF(8).
+
+Author information:
+(1)Research Consortium on Child Intestinal Inflammation, Division of 
+Neonatology, Department of Pediatrics, University of Ottawa, Ottawa, Canada.
+(2)Research Consortium on Child Intestinal Inflammation, Department of Anatomy 
+and Cell Biology, Faculty of Medicine and Health Sciences, Université de 
+Sherbrooke, Sherbrooke, Canada.
+(3)Research Consortium on Child Intestinal Inflammation, Department of Pathology 
+and Laboratory Medicine, University of Ottawa, Ottawa, Canada.
+(4)Research Consortium on Child Intestinal Inflammation, Division of 
+Gastroenterology, Hepatology and Nutrition, Hospital for Sick Children and 
+Department of Pediatrics, University of Toronto, Toronto, Canada.
+(5)Research Consortium on Child Intestinal Inflammation, Department of Surgery, 
+University of Ottawa, Ottawa, Canada.
+(6)Research Consortium on Child Intestinal Inflammation, Department of 
+Pediatrics, Faculty of Medicine and Health Sciences, Université de Sherbrooke, 
+Sherbrooke, Canada.
+(7)Research Consortium on Child Intestinal Inflammation, Department of 
+Nutrition, CHU Sainte-Justine, Université de Montréal, Montréal, Canada.
+(8)Research Consortium on Child Intestinal Inflammation, Department of Anatomy 
+and Cell Biology, Faculty of Medicine and Health Sciences, Université de 
+Sherbrooke, Sherbrooke, Canada. Electronic address: 
+jean-francois.beaulieu@usherbrooke.ca.
+
+BACKGROUND AND AIM: NO synthase 2 (NOS2) was recently identified as one the most 
+overexpressed genes in intestinal samples of premature infants with necrotizing 
+enterocolitis (NEC). NOS2 is widely implicated in the processes of epithelial 
+cell injury/apoptosis and host immune defense but its specific role in 
+inflammation of the immature human intestinal mucosa remains unclear. 
+Interestingly, factors that prevent NEC such as epidermal growth factor (EGF) 
+attenuate the inflammatory response in the mid-gestation human small intestine 
+using serum-free organ culture while drugs that are associated with NEC 
+occurrence such as the non-steroidal anti-inflammatory drug, indomethacin 
+(INDO), exert multiple detrimental effects on the immature human intestine. In 
+this study we investigate the potential role of NOS2 in modulating the gut 
+inflammatory response under protective and stressful conditions by determining 
+the expression profile of NOS2 and its downstream pathways in the immature 
+intestine.
+METHODS: Gene expression profiles of cultured mid-gestation human intestinal 
+explants were investigated in the absence or presence of a physiological 
+concentration of EGF (50 ng/ml) or 1 μM INDO for 48 h using Illumina whole 
+genome microarrays, Ingenuity Pathway Analysis software and quantitative PCR to 
+investigate the expression of NOS2 and NOS2-pathway related genes.
+RESULTS: In the immature intestine, NOS2 expression was found to be increased by 
+EGF and repressed by INDO. Bioinformatic analysis identified differentially 
+regulated pathways where NOS2 is known to play an important role including 
+citrulline/arginine metabolism, epithelial cell junctions and oxidative stress. 
+At the individual gene level, we identified many differentially expressed genes 
+of the citrulline/arginine metabolism pathway such as ARG1, ARG2, GLS, OAT and 
+OTC in response to EGF and INDO. Gene expression of tight junction components 
+such as CLDN1, CLDN2, CLDN7 and OCN and of antioxidant markers such as DUOX2, 
+GPX2, SOD2 were also found to be differentially modulated by EGF and INDO.
+CONCLUSION: These results suggest that the protective effect of EGF and the 
+deleterious influence of INDO on the immature intestine could be mediated via 
+regulation of NOS2. Pathways downstream of NOS2 involved with these effects 
+include metabolism linked to NO production, epithelial barrier permeability and 
+antioxidant expression. These results suggest that NOS2 is a likely regulator of 
+the inflammatory response in the immature human gut and may provide a 
+mechanistic basis for the protective effect of EGF and the deleterious effects 
+of INDO.
+
+Copyright © 2017 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.niox.2017.03.003
+PMID: 28315470 [Indexed for MEDLINE]
+
+
+30. Am J Respir Cell Mol Biol. 2017 Jan;56(1):121-130. doi: 
+10.1165/rcmb.2016-0035OC.
+
+Induction of Pulmonary Granuloma Formation by Propionibacterium acnes Is 
+Regulated by MyD88 and Nox2.
+
+Werner JL(1), Escolero SG(1), Hewlett JT(1), Mak TN(1), Williams BP(1), Eishi 
+Y(2), Núñez G(1).
+
+Author information:
+(1)1 Department of Pathology and Comprehensive Cancer Center, University of 
+Michigan Medical School, Ann Arbor, Michigan; and.
+(2)2 Department of Human Pathology, Graduate School and Faculty of Medicine, 
+Tokyo Medical and Dental University, Tokyo, Japan.
+
+Sarcoidosis is characterized by noncaseating granulomas with an unknown cause 
+that present primarily in the lung. Propionibacterium acnes, an immunogenic 
+commensal skin bacterium involved in acne vulgaris, has been implicated as a 
+possible causative agent of sarcoidosis. Here, we demonstrate that a viable 
+strain of P. acnes isolated from a patient with sarcoidosis and instilled 
+intratracheally into wild-type mice can generate pulmonary granulomas similar to 
+those observed in patients with sarcoidosis. The formation of these granulomas 
+is dependent on the administration of viable P. acnes. We also found that mice 
+deficient in the innate immunity adapter protein MyD88 had a greater number and 
+a larger area of granuloma lesions compared with wild-type mice administered P. 
+acnes. Early after P. acnes administration, wild-type mice produced 
+proinflammatory mediators and recruited neutrophils into the lung, a response 
+that is dependent on MyD88. In addition, there was an increase in granuloma 
+number and size after instillation with P. acnes in mice deficient in CybB, a 
+critical component of nicotinamide adenine dinucleotide phosphate oxidase 
+required for the production of reactive oxygen species in the phagosome. 
+Myd88-/- or Cybb-/- mice both had increased persistence of P. acnes in the lung, 
+together with enhanced granuloma formation. In conclusion, we have generated a 
+mouse model of early granuloma formation induced by a clinically relevant strain 
+of P. acnes isolated from a patient with sarcoidosis, and, using this model, we 
+have shown that a deficiency in MyD88 or CybB is associated with impaired 
+bacterial clearance and increased granuloma formation in the lung.
+
+DOI: 10.1165/rcmb.2016-0035OC
+PMCID: PMC5248957
+PMID: 27607191 [Indexed for MEDLINE]
+
+
+31. J Mol Med (Berl). 2016 Dec;94(12):1359-1371. doi: 10.1007/s00109-016-1451-y. 
+Epub 2016 Aug 4.
+
+Resveratrol inhibits renal interstitial fibrosis in diabetic nephropathy by 
+regulating AMPK/NOX4/ROS pathway.
+
+He T(1), Xiong J(1), Nie L(1), Yu Y(1), Guan X(1), Xu X(1), Xiao T(1), Yang 
+K(1), Liu L(1), Zhang D(1), Huang Y(1), Zhang J(1), Wang J(2), Sharma K(3)(4), 
+Zhao J(5).
+
+Author information:
+(1)Department of Nephrology, Institute of Nephrology of Chongqing and Kidney 
+Center of PLA, Xinqiao Hospital, Third Military Medical University, Chongqing, 
+400037, People's Republic of China.
+(2)State Key Laboratory of Trauma, Burns and Combined Injury, Institute of 
+Combined Injury of PLA, Third Military Medical University, Chongqing, 400038, 
+People's Republic of China.
+(3)Center for Renal Translational Medicine, Division of Nephrology-Hypertension, 
+University of California, La Jolla, CA, USA.
+(4)Veterans Administration San Diego HealthCare System, La Jolla, CA, USA.
+(5)Department of Nephrology, Institute of Nephrology of Chongqing and Kidney 
+Center of PLA, Xinqiao Hospital, Third Military Medical University, Chongqing, 
+400037, People's Republic of China. zhaojh@tmmu.edu.cn.
+
+Renal interstitial fibrosis is a major pathologic feature of diabetic 
+nephropathy, while the pathogenesis and therapeutic interventions of diabetic 
+renal interstitial fibrosis are not well established. In this study, we first 
+demonstrated that high glucose could induce renal fibroblast (NRK-49F) cell 
+proliferation and activation to myofibroblasts, accompanied by a significant 
+increase in the intracellular levels of reactive oxygen species (ROS) derived 
+from nicotinamide adenine dinucleotide phosphate oxidase 4 (NOX4). ROS-mediated 
+ERK1/2 activation was found to play a crucial role in high glucose-induced 
+fibroblast proliferation and activation. Resveratrol, like the NOX4-targeting 
+small interfering RNA (siRNA), markedly inhibited high glucose-induced 
+fibroblast proliferation and activation by reducing NOX4-derived ROS production. 
+It was then revealed that the increase in the expression of NOX4 induced by high 
+glucose was due to the inactivation of AMP-activated protein kinase (AMPK), 
+which could be reversed by resveratrol. Further in vivo investigation 
+demonstrated that resveratrol treatment significantly attenuated renal fibrosis 
+in db/db mice, accompanied by an evident increase in phospho-AMPK and decrease 
+in NOX4. In summary, our results suggest that high glucose can directly promote 
+renal fibroblasts proliferation and activation in a ROS-dependent manner, and 
+resveratrol is a potential therapeutic agent against diabetic renal fibrosis via 
+regulation of AMPK/NOX4/ROS signaling.
+KEY MESSAGE: Resveratrol inhibits high glucose-induced NRK cell activation by 
+decreasing NOX4-derived ROS. Resveratrol inhibits high glucose-induced NOX4 
+expression in NRK cells via activation of AMPK. ROS-activated ERK1/2 signaling 
+is involved in high glucose-induced NRK cell activation. Resveratrol attenuated 
+renal fibrosis in db/db mice via regulation of AMPK/NOX4/ROS signaling.
+
+DOI: 10.1007/s00109-016-1451-y
+PMID: 27488452 [Indexed for MEDLINE]
+
+
+32. Mucosal Immunol. 2017 Mar;10(2):493-507. doi: 10.1038/mi.2016.60. Epub 2016 Jul 
+20.
+
+TRPM2 ion channels regulate macrophage polarization and gastric inflammation 
+during Helicobacter pylori infection.
+
+Beceiro S(1), Radin JN(2), Chatuvedi R(2), Piazuelo MB(2), Horvarth DJ(2), 
+Cortado H(1), Gu Y(3), Dixon B(2), Gu C(3), Lange I(4), Koomoa DL(4), Wilson 
+KT(2)(5)(6), Algood HM(2)(5)(6), Partida-Sánchez S(1)(7).
+
+Author information:
+(1)Center for Microbial Pathogenesis, The Research Institute at Nationwide 
+Children's Hospital, Columbus, Ohio, USA.
+(2)Department of Medicine, Vanderbilt University School of Medicine, Nashville, 
+Tennessee, USA.
+(3)Department of Neuroscience, College of Medicine, The Ohio State University, 
+Columbus, Ohio, USA.
+(4)The Daniel K Inouye College of Pharmacy, University of Hawaii at Hilo, Hilo, 
+Hawaii, USA.
+(5)Tennessee Valley Healthcare System, Department of Veterans Affairs, 
+Nashville, Tennessee, USA.
+(6)Department of Pathology, Microbiology and Immunology, Vanderbilt University 
+School of Medicine, Nashville, Tennessee, USA.
+(7)Department of Pediatrics, College of Medicine, The Ohio State University, 
+Columbus, Ohio, USA.
+
+Calcium signaling in phagocytes is essential for cellular activation, migration, 
+and the potential resolution of infection or inflammation. The generation of 
+reactive oxygen species (ROS) via activation of NADPH (nicotinamide adenine 
+dinucleotide phosphate)-oxidase activity in macrophages has been linked to 
+altered intracellular calcium concentrations. Because of its role as an 
+oxidative stress sensor in phagocytes, we investigated the function of the 
+cation channel transient receptor potential melastatin 2 (TRPM2) in macrophages 
+during oxidative stress responses induced by Helicobacter pylori infection. We 
+show that Trpm2-/- mice, when chronically infected with H. pylori, exhibit 
+increased gastric inflammation and decreased bacterial colonization compared 
+with wild-type (WT) mice. The absence of TRPM2 triggers greater macrophage 
+production of inflammatory mediators and promotes classically activated 
+macrophage M1 polarization in response to H. pylori. TRPM2-deficient macrophages 
+upon H. pylori stimulation are unable to control intracellular calcium levels, 
+which results in calcium overloading. Furthermore, increased intracellular 
+calcium in TRPM2-/- macrophages enhanced mitogen-activated protein kinase and 
+NADPH-oxidase activities, compared with WT macrophages. Our data suggest that 
+augmented production of ROS and inflammatory cytokines with TRPM2 deletion 
+regulates oxidative stress in macrophages and consequently decreases H. pylori 
+gastric colonization while increasing inflammation in the gastric mucosa.
+
+DOI: 10.1038/mi.2016.60
+PMCID: PMC5250617
+PMID: 27435104 [Indexed for MEDLINE]
+
+
+33. J Allergy Clin Immunol. 2016 Jul;138(1):219-228.e9. doi: 
+10.1016/j.jaci.2015.11.028. Epub 2016 Feb 4.
+
+Hyperinflammation in patients with chronic granulomatous disease leads to 
+impairment of hematopoietic stem cell functions.
+
+Weisser M(1), Demel UM(2), Stein S(1), Chen-Wichmann L(1), Touzot F(3), Santilli 
+G(4), Sujer S(5), Brendel C(1), Siler U(6), Cavazzana M(3), Thrasher AJ(4), 
+Reichenbach J(6), Essers MAG(2), Schwäble J(7), Grez M(8).
+
+Author information:
+(1)Institute for Tumor Biology and Experimental Therapy, Georg-Speyer-Haus, 
+Frankfurt, Germany.
+(2)Junior Research Group "Hematopoietic Stem Cells and Stress," German Cancer 
+Research Center (DKFZ), INF280, Heidelberg, Germany; Heidelberg Institute for 
+Stem Cell Technology and Experimental Medicine (HI-STEM), INF280, Heidelberg, 
+Germany.
+(3)Biotherapy Department, Necker Children's Hospital, Assistance 
+Publique-Hôpitaux de Paris, Paris, France; Paris Descartes-Sorbonne Paris Cité 
+University, Imagine Institute, Paris, France.
+(4)Section of Molecular and Cellular Immunology, UCL Institute of Child Health, 
+London, United Kingdom.
+(5)Junior Research Group "Hematopoietic Stem Cells and Stress," German Cancer 
+Research Center (DKFZ), INF280, Heidelberg, Germany.
+(6)Division of Immunology, University Children's Hospital, and Children's 
+Research Centre Zürich, Zurich, Switzerland.
+(7)Institute for Tumor Biology and Experimental Therapy, Georg-Speyer-Haus, 
+Frankfurt, Germany; Department of Medicine, Hematology/Oncology, Goethe 
+University, Frankfurt, Germany.
+(8)Institute for Tumor Biology and Experimental Therapy, Georg-Speyer-Haus, 
+Frankfurt, Germany. Electronic address: grez@gsh.uni-frankfurt.de.
+
+BACKGROUND: Defects in phagocytic nicotinamide adenine dinucleotide phosphate 
+oxidase 2 (NOX2) function cause chronic granulomatous disease (CGD), a primary 
+immunodeficiency characterized by dysfunctional microbicidal activity and 
+chronic inflammation.
+OBJECTIVE: We sought to study the effect of chronic inflammation on the 
+hematopoietic compartment in patients and mice with X-linked chronic 
+granulomatous disease (X-CGD).
+METHODS: We used immunostaining and functional analyses to study the 
+hematopoietic compartment in patients with CGD.
+RESULTS: An analysis of bone marrow cells from patients and mice with X-CGD 
+revealed a dysregulated hematopoiesis characterized by increased numbers of 
+hematopoietic progenitor cells (HPCs) at the expense of repopulating 
+hematopoietic stem cells (HSCs). In patients with X-CGD, there was a clear 
+reduction in the proportion of HSCs in bone marrow and peripheral blood, and 
+they were also more rapidly exhausted after in vitro culture. In mice with 
+X-CGD, increased cycling of HSCs, expansion of HPCs, and impaired long-term 
+engraftment capacity were found to be associated with high concentrations of 
+proinflammatory cytokines, including IL-1β. Treatment of wild-type mice with 
+IL-1β induced enhanced cell-cycle entry of HSCs, expansion of HPCs, and defects 
+in long-term engraftment, mimicking the effects observed in mice with X-CGD. 
+Inhibition of cytokine signaling in mice with X-CGD reduced HPC numbers but had 
+only minor effects on the repopulating ability of HSCs.
+CONCLUSIONS: Persistent chronic inflammation in patients with CGD is associated 
+with hematopoietic proliferative stress, leading to a decrease in the functional 
+activity of HSCs. Our observations have clinical implications for the 
+development of successful autologous cell therapy approaches.
+
+Copyright © 2016 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaci.2015.11.028
+PMID: 26853280 [Indexed for MEDLINE]
+
+
+34. J Biol Chem. 2016 Mar 18;291(12):6423-32. doi: 10.1074/jbc.M115.664854. Epub 
+2016 Jan 28.
+
+Dual Oxidase 2 (Duox2) Regulates Pannexin 1-mediated ATP Release in Primary 
+Human Airway Epithelial Cells via Changes in Intracellular pH and Not H2O2 
+Production.
+
+Krick S(1), Wang J(2), St-Pierre M(1), Gonzalez C(3), Dahl G(2), Salathe M(4).
+
+Author information:
+(1)From the Division of Pulmonary, Allergy, Critical Care, and Sleep Medicine 
+and.
+(2)Department of Physiology and Biophysics, University of Miami, Miami, Florida 
+33136 and.
+(3)the Interdisciplinary Center for Neuroscience of Valparaíso, Universidad de 
+Valparaíso, Valparaíso, 2362735, Chile.
+(4)From the Division of Pulmonary, Allergy, Critical Care, and Sleep Medicine 
+and msalathe@med.miami.edu.
+
+Human airway epithelial cells express pannexin 1 (Panx1) channels to release 
+ATP, which regulates mucociliary clearance. Airway inflammation causes 
+mucociliary dysfunction. Exposure of primary human airway epithelial cell 
+cultures to IFN-γ for 48 h did not alter Panx1 protein expression but 
+significantly decreased ATP release in response to hypotonic stress. The 
+IFN-γ-induced functional down-regulation of Panx1 was due to the up-regulation 
+of dual oxidase 2 (Duox2). Duox2 suppression by siRNA led to an increase in ATP 
+release in control cells and restoration of ATP release in cells treated with 
+IFN-γ. Both effects were reduced by the pannexin inhibitor probenecid. Duox2 
+up-regulation stoichiometrically increases H2O2 and proton production. H2O2 
+inhibited Panx1 function temporarily by formation of disulfide bonds at the 
+thiol group of its terminal cysteine. Long-term exposure to H2O2, however, had 
+no inhibitory effect. To assess the role of cellular acidification upon IFN-γ 
+treatment, fully differentiated airway epithelial cells were exposed to ammonium 
+chloride to alkalinize the cytosol. This led to a 2-fold increase in ATP release 
+in cells treated with IFN-γ that was also inhibited by probenecid. Duox2 
+knockdown also partially corrected IFN-γ-mediated acidification. The direct 
+correlation between intracellular pH and Panx1 open probability was shown in 
+oocytes. Therefore, airway epithelial cells release less ATP in response to 
+hypotonic stress in an inflammatory environment (IFN-γ exposure). Decreased 
+Panx1 function is a response to cell acidification mediated by IFN-γ-induced 
+up-regulation of Duox2, representing a novel mechanism for mucociliary 
+dysfunction in inflammatory airway diseases.
+
+© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M115.664854
+PMCID: PMC4813552
+PMID: 26823467 [Indexed for MEDLINE]
+
+
+35. Free Radic Biol Med. 2015 Dec;89:1203-17. doi: 
+10.1016/j.freeradbiomed.2015.10.423. Epub 2015 Oct 31.
+
+Stimulation of vasculogenesis and leukopoiesis of embryonic stem cells by 
+extracellular transfer RNA and ribosomal RNA.
+
+Sharifpanah F(1), De Silva S(1), Bekhite MM(2), Hurtado-Oliveros J(3), Preissner 
+KT(4), Wartenberg M(5), Sauer H(6).
+
+Author information:
+(1)Department of Physiology, Medical School, Justus Liebig University, Giessen, 
+Germany.
+(2)Clinic of Internal Medicine I, Cardiology Division, Friedrich Schiller 
+University, Jena, Germany; Department of Zoology, Faculty of Science, Tanta 
+University, Tanta, Egypt.
+(3)Department of Biochemistry, Medical School, Justus Liebig University, 
+Giessen, Germany.
+(4)Center for Sepsis Control and Care, Jena University Hospital, Jena, Germany.
+(5)Clinic of Internal Medicine I, Cardiology Division, Friedrich Schiller 
+University, Jena, Germany.
+(6)Department of Physiology, Medical School, Justus Liebig University, Giessen, 
+Germany. Electronic address: heinrich.sauer@physiologie.med.uni-giessen.de.
+
+OBJECTIVE: Cell injury releases nucleic acids supporting inflammation and stem 
+cell activation. Here, the impact of extracellular ribonucleic acid, especially 
+transfer RNA (ex-tRNA), on vasculogenesis and leukopoiesis of mouse embryonic 
+stem (ES) cells was investigated.
+APPROACH AND RESULTS: ex-tRNA, whole cell RNA and ribosomal RNA (ex-rRNA) but 
+not DNA increased CD31-positive vascular structures in embryoid bodies. Ex-tRNA 
+and ex-rRNA increased numbers of VEGFR2(+), CD31(+) and VE-cadherin(+) vascular 
+cells as well as CD18(+), CD45(+) and CD68(+) cells, indicating 
+leukocyte/macrophage differentiation. This was paralleled by mRNA and protein 
+expression of hypoxia-inducible factor-1α (HIF-1α), vascular endothelial growth 
+factor-165 (VEGF165) and neuropilin 1 (NRP1), phosphorylation of phosphatidyl 
+inositol 3-kinase (PI3K) and VEGF receptor 2 (VEGFR2) as well as mRNA expression 
+of α-smooth muscle actin (α-SMA). ex-tRNA was taken up by endosomes, increased 
+expression of the pro-angiogenic semaphorin B4 receptor plexin B1 as well as the 
+ephrin-type B receptor 4 (EphB4) and ephrinB2 ligand and enhanced cell 
+migration, which was inhibited by the VEGFR2 antagonist SU5614 and the PI3K 
+inhibitor LY294002. This likewise abolished the effects of ex-tRNA on 
+vasculogenesis and leukopoiesis of ES cells. Ex-tRNA increased NOX1, NOX2, NOX4 
+and DUOX2 mRNA and boosted the generation of superoxide and hydrogen peroxide 
+which was inhibited by radical scavengers, the NADPH oxidase inhibitors 
+apocynin, VAS2870, ML171, and plumbagin as well as shRNA silencing of NOX1 and 
+NOX4.
+CONCLUSIONS: Our findings indicate that ex-tRNA treatment induces vasculogenesis 
+and leukopoiesis of ES cells via superoxide/hydrogen peroxide generated by NADPH 
+oxidase and activation of VEGFR2 and PI3K.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.freeradbiomed.2015.10.423
+PMID: 26524400 [Indexed for MEDLINE]
+
+
+36. Endocrinology. 2015 Dec;156(12):4492-501. doi: 10.1210/en.2015-1413. Epub 2015 
+Sep 15.
+
+Differences in the Osteogenic Differentiation Capacity of Omental 
+Adipose-Derived Stem Cells in Obese Patients With and Without Metabolic 
+Syndrome.
+
+Oliva-Olivera W(1), Leiva Gea A(1), Lhamyani S(1), Coín-Aragüez L(1), Alcaide 
+Torres J(1), Bernal-López MR(1), García-Luna PP(1), Morales Conde S(1), 
+Fernández-Veledo S(1), El Bekay R(1), Tinahones FJ(1).
+
+Author information:
+(1)Department of Clinical Endocrinology and Nutrition (W.O.-O., S.L., L.C.-A., 
+J.A.T., R.E.B., F.J.T.), Institute of Biomedical Research of Malaga, Hospital 
+Complex of Malaga (Virgen de la Victoria), University of Malaga, and Department 
+of Orthopedic Surgery and Traumatology (A.L.G.), Virgen de la Victoria 
+University Hospital and University of Malaga, and Department of Internal 
+Medicine (M.R.B.-L.), Regional University Hospital of Malaga, Institute of 
+Biomedical Research of Malaga, 29010 Malaga, Spain; Centro de Investigación 
+Biomédica en Red of Obesity Physiopathology and Nutrition (W.O.-O., S.L., 
+L..C.-A., J.A.T., M.R.B.-L., R.E.B., F.J.T.), and Centro de Investigación 
+Biomédica en Red of Diabetes and Associated Metabolic Disorders (S.F.-V.), 
+Institute of Health Salud Carlos III, 28029 Madrid, Spain; Department of 
+Endocrinology and Nutrition (P.P.G.L.) and Unit of Innovation in Minimally 
+Invasive Surgery (S.M.C.), Department of Surgery, Virgen del Rocío University 
+Hospital, 41013 Seville, Spain; and University Hospital of Tarragona Joan XXIII 
+Institut d'Investigació (S.F.-V.), Sanitaria Pere Virgili, Universitat Rovirai 
+Virgili, 43003 Tarragona, Spain.
+
+Multiple studies have suggested that the reduced differentiation capacity of 
+multipotent adipose tissue-derived mesenchymal stem cells (ASCs) in obese 
+subjects could compromise their use in cell therapy. Our aim was to assess the 
+osteogenic potential of omental ASCs and to examine the status of the isolated 
+CD34(negative)-enriched fraction of omental-derived ASCs from subjects with 
+different metabolic profiles. Omental ASCs from normal-weight subjects and 
+subjects with or without metabolic syndrome were isolated, and the osteogenic 
+potential of omental ASCs was evaluated. Additionally, osteogenic and clonogenic 
+potential, proliferation rate, mRNA expression levels of proteins involved in 
+redox balance, and fibrotic proteins were examined in the 
+CD34(negative)-enriched fraction of omental-derived ASCs. Both the omental ASCs 
+and the CD34(negative)-enriched fraction of omental ASCs from subjects without 
+metabolic syndrome have a greater osteogenic potential than those from subjects 
+with metabolic syndrome. The alkaline phosphatase and osteonectin mRNA were 
+negatively correlated with nicotinamide adenine dinucleotide phosphate oxidase-2 
+mRNA and the mRNA expression levels of the fibrotic proteins correlated 
+positively with nicotinamide adenine dinucleotide phosphate oxidase-5 mRNA and 
+the homeostasis model assessment. Although the population doubling time was 
+significantly higher in subjects with a body mass index of 25 kg/m(2) or 
+greater, only the CD34(negative)-enriched omental ASC fraction in the subjects 
+with metabolic syndrome had a higher population doubling time than the 
+normal-weight subjects. The osteogenic, clonogenic, fibrotic potential, and 
+proliferation rate observed in vitro suggest that omental ASCs from subjects 
+without metabolic syndrome are more suitable for therapeutic osteogenic 
+applications than those from subjects with metabolic syndrome.
+
+DOI: 10.1210/en.2015-1413
+PMCID: PMC4655209
+PMID: 26372179 [Indexed for MEDLINE]
+
+
+37. Exp Brain Res. 2015 Oct;233(10):2823-31. doi: 10.1007/s00221-015-4352-3. Epub 
+2015 Jun 13.
+
+Protective effect of ginsenoside Rb1 on integrity of blood-brain barrier 
+following cerebral ischemia.
+
+Chen W(1), Guo Y(1), Yang W(1), Zheng P(1), Zeng J(1), Tong W(2).
+
+Author information:
+(1)The People's Hospital of Pu Dong New Area, 490 South Chuanhuan Road, Chuansha 
+New Town, Shanghai, 201299, People's Republic of China.
+(2)The People's Hospital of Pu Dong New Area, 490 South Chuanhuan Road, Chuansha 
+New Town, Shanghai, 201299, People's Republic of China. wusongtong@163.com.
+
+Ginsenosides, the major bioactive compounds in ginseng root, have been found to 
+have antioxidant, immunomodulatory, and anti-inflammatory activities. In the 
+present study, we sought to investigate whether and how ginsenoside Rb1 
+(GS-Rb1), the most abundant ginsenoside, can protect blood-brain barrier (BBB) 
+integrity following cerebral ischemia in middle cerebral artery occlusion (MCAO) 
+animal model. ICR mice underwent MCAO and received GS-Rb1 by intraperitoneal 
+injection at 3 h after reperfusion. We evaluated infarction, neurological 
+scores, brain edema, Evans blue (EB) extravasation, and tight junction protein 
+expression at 48 h after MCAO. We further examined whether GS-Rb1 protected BBB 
+integrity by suppressing post-ischemic inflammation-induced activity of matrix 
+metalloproteinase-9 (MMP-9) and nicotinamide adenine dinucleotide phosphate 
+oxidase (NOX). First, GS-Rb1 decreased infarction and improved neurological 
+deficits in MCAO animals. In addition, GS-Rb1 reduced EB extravasation and brain 
+edema and preserved expression of tight junction proteins in the ischemic brain. 
+Moreover, GS-Rb1 inhibited expression of pro-inflammatory factors including 
+nitric oxide synthase and IL-1β, but increased expression of anti-inflammatory 
+markers arginase 1 and IL-10 in the ischemic brain. Consistently, GS-Rb1 
+attenuated ischemia-induced expression and activity of MMP9. Finally, GS-Rb1 
+reduced NOX-4 mRNA expression and NOX activity in ischemic brain. These results 
+suggest that GS-Rb1 protects loss of BBB integrity in ischemic stroke by 
+suppressing neuroinflammation induction of MMP-9 and NOX4-derived free radicals, 
+and indicate its potential for treating brain injuries, such as ischemia and 
+stroke.
+
+DOI: 10.1007/s00221-015-4352-3
+PMID: 26070903 [Indexed for MEDLINE]
+
+
+38. Int J Mol Med. 2015 Aug;36(2):551-8. doi: 10.3892/ijmm.2015.2234. Epub 2015 Jun 
+3.
+
+DUOX2 promotes the elimination of the Klebsiella pneumoniae strain K5 from T24 
+cells through the reactive oxygen species pathway.
+
+Lu H(1), Wu Q(2), Yang H(1).
+
+Author information:
+(1)Department of Anatomy, Basic Medical and Forensic Medical Institute, Sichuan 
+University, Chengdu, Sichuan 610041, P.R. China.
+(2)Innate Immunity Research Laboratory, Basic Medical and Forensic Medical 
+Institute, Sichuan University, Chengdu, Sichuan 610041, P.R. China.
+
+Dual oxidase 2 (DUOX2) plays a major role in host defense in intestinal and 
+airway epithelial cells through the reactive oxygen species (ROS) pathway. 
+Klebsiella pneumoniae is a uropathogen that causes urinary tract infections. It 
+is not known whether DUOX2 plays a role in host defense in bladder cancer 
+epithelial cells. It is also not known whether Klebsiella pneumoniae invades T24 
+human bladder carcinoma cells and whether DUOX2 plays a role in eliminating the 
+Klebsiella pneumoniae strain K5 through the ROS pathway in T24 cells. Thus, in 
+the present study, we aimed to investigate the infectious capability of the 
+Klebsiella pneumoniae K5 strain and the immunity-promoting capability of DUOX2 
+in T24 cells. We quantified the number of viable intracellular bacteria using 
+the plate count method. DUOX2 expression was evaluated by western blot analysis 
+and reverse transcription-quantitative PCR (RT-qPCR) following treatment with or 
+without multiple cytokines, phorbol 12-myristate 13-acetate (PMA), muramyl 
+dipeptide (MDP), N-acetylmuramyl-D-alanyl-D-isoglutamine (MDP-DD), H2O2 
+inhibitor, catalase (CAT), the nicotinamide adenine dinucleotide 
+phosphate-oxidase (NADPH) oxidase inhibitor, diphenyleneiodonium (DPI), or siRNA 
+targeting DUOX2 (siDUOX2). The levels of ROS in the T24 cells infected with the 
+K5 strain were examined following treatment with DPI, CAT or siDUOX2. Our 
+results revealed that DUOX2 expression increased and the number of viable 
+intracellular bacteria decreased in the T24 cells following infection with the 
+K4 bacteria. Treatment with the cytokines and MDP and PMA also induced DUOX2 
+expression and decreased the number of viable intracellular bacteria. The levels 
+of ROS also increased following treatment with the cytokines and MDP and PMA. 
+However, when the cells were treated with the inhibitors (DPI or CAT), these 
+effects were all reversed. Our data demonstrated that DUOX2 played an important 
+role in innate immunity against bacterial cytoinvasion through the ROS pathway 
+in T24 cells. Our findings also provide insight into the protection of 
+uroepithelial cells from Klebsiella pneumoniae K5 bacterial cytoinvasion, and 
+thus lay the foundation for the development of novel therapies for urinary tract 
+infections.
+
+DOI: 10.3892/ijmm.2015.2234
+PMID: 26046128 [Indexed for MEDLINE]
+
+
+39. Stem Cells. 2015 Jun;33(6):1863-77. doi: 10.1002/stem.2005. Epub 2015 Apr 21.
+
+Icariin promotes angiogenic differentiation and prevents oxidative 
+stress-induced autophagy in endothelial progenitor cells.
+
+Tang Y(1)(2), Jacobi A(1), Vater C(1), Zou L(3), Zou X(4), Stiehler M(1).
+
+Author information:
+(1)Department of Orthopaedics and Centre for Translational Bone, Joint and Soft 
+Tissue Research, Medical Faculty and University Centre for Orthopaedics and 
+Trauma Surgery, University Hospital Carl Gustav Carus at Technische Universität 
+Dresden, Dresden, Germany.
+(2)Department of Pharmacy, the First Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China.
+(3)Department of Burn surgery and Gastroenterology, The First Affiliated 
+Hospital of Nanchang University, Nanchang, China.
+(4)Department of Spinal Surgery, the First Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China.
+
+Reduced tissue levels of endothelial progenitor cells (EPCs) and functional 
+impairment of endothelium are frequently observed in patients with diabetes and 
+cardiovascular disease. The vascular endothelium is specifically sensitive to 
+oxidative stress, and this is one of the mechanisms that causes widespread 
+endothelial dysfunction in most cardiovascular diseases and disorders. Hence 
+attention has increasingly been paid to enhance mobilization and differentiation 
+of EPCs for therapeutic purposes. The aim of this study was to investigate 
+whether Icariin, a natural bioactive component known from traditional Chinese 
+Medicine, can induce angiogenic differentiation and inhibit oxidative 
+stress-induced cell dysfunction in bone marrow-derived EPCs (BM-EPCs), and, if 
+so, through what mechanisms. We observed that treatment of BM-EPCs with Icariin 
+significantly promoted cell migration and capillary tube formation, 
+substantially abrogated hydrogen peroxide (H2 O2 )-induced apoptotic and 
+autophagic programmed cell death that was linked to the reduced intracellular 
+reactive oxygen species levels and restored mitochondrial membrane potential. 
+Icariin downregulated endothelial nitric oxide synthase 3, as well as 
+nicotinamide-adenine dinucleotide phosphate-oxidase expression upon H2 O2 
+induction. These antiapoptotic and antiautophagic effects of Icariin are 
+possibly mediated by restoring the loss of mammalian target of rapamycin 
+/p70S6K/4EBP1 phosphorylation as well as attenuation of ATF2 and ERK1/2 protein 
+levels after H2 O2 treatment. In summary, favorable modulation of the 
+angiogenesis and redox states in BM-EPCs make Icariin a promising proangiogenic 
+agent both enhancing vasculogenesis and protecting against endothelial 
+dysfunction.
+
+© 2015 AlphaMed Press.
+
+DOI: 10.1002/stem.2005
+PMID: 25787271 [Indexed for MEDLINE]
+
+
+40. Immunology. 2015 Jul;145(3):391-403. doi: 10.1111/imm.12453.
+
+Proteinase activated receptor-2-mediated dual oxidase-2 up-regulation is 
+involved in enhanced airway reactivity and inflammation in a mouse model of 
+allergic asthma.
+
+Nadeem A(1), Alharbi NO(1), Vliagoftis H(2), Tyagi M(3), Ahmad SF(1), 
+Sayed-Ahmed MM(1).
+
+Author information:
+(1)Department of Pharmacology & Toxicology, College of Pharmacy, King Saud 
+University, Riyadh, Saudi Arabia.
+(2)Pulmonary Research Group, Department of Medicine, University of Alberta, 
+Edmonton, AB, Canada.
+(3)Pulmonary Medicine and Critical Care, University of Maryland School of 
+Medicine, Baltimore, MD, USA.
+
+Airway epithelial cells (AECs) express a variety of receptors, which sense 
+danger signals from various aeroallergens/pathogens being inhaled constantly. 
+Proteinase-activated receptor 2 (PAR-2) is one such receptor and is activated by 
+cockroach allergens, which have intrinsic serine proteinase activity. Recently, 
+dual oxidases (DUOX), especially DUOX-2, have been shown to be involved in 
+airway inflammation in response to Toll-like receptor activation. However, the 
+association between PAR-2 and DUOX-2 has not been explored in airways of 
+allergic mice. Therefore, this study investigated the contribution of 
+DUOX-2/reactive oxygen species (ROS) signalling in airway reactivity and 
+inflammation after PAR-2 activation. Mice were sensitized intraperitoneally with 
+intact cockroach allergen extract (CE) in the presence of aluminium hydroxide 
+followed by intranasal challenge with CE. Mice were then assessed for airway 
+reactivity, inflammation, oxidative stress (DUOX-2, ROS, inducible nitric oxide 
+synthase, nitrite, nitrotyrosine and protein carbonyls) and apoptosis (Bax, 
+Bcl-2, caspase-3). Challenge with CE led to up-regulation of DUOX-2 and ROS in 
+AECs with concomitant increases in airway reactivity/inflammation and parameters 
+of oxidative stress, and apoptosis. All of these changes were significantly 
+inhibited by intranasal administration of ENMD-1068, a small molecule antagonist 
+of PAR-2 in allergic mice. Administration of diphenyliodonium to allergic mice 
+also led to improvement of allergic airway responses via inhibition of the 
+DUOX-2/ROS pathway; however, these effects were less pronounced than PAR-2 
+antagonism. The current study suggests that PAR-2 activation leads to 
+up-regulation of the DUOX-2/ROS pathway in AECs, which is involved in regulation 
+of airway reactivity and inflammation via oxidative stress and apoptosis.
+
+© 2015 John Wiley & Sons Ltd.
+
+DOI: 10.1111/imm.12453
+PMCID: PMC4479538
+PMID: 25684443 [Indexed for MEDLINE]
+
+
+41. Hamostaseologie. 2016 May 10;36(2):77-88. doi: 10.5482/HAMO-14-11-0076. Epub 
+2015 Feb 4.
+
+Oxidative stress, NADPH oxidases, and arteries.
+
+Sun QA, Runge MS(1), Madamanchi NR.
+
+Author information:
+(1)Marschall S. Runge, MD PhD, Department of Medicine, 125 MacNider Hall, 
+University of North Carolina, Chapel Hill, NC 27599-7005, USA, E-mail: 
+mrunge@med.unc.edu.
+
+Atherosclerosis and its major complications - myocardial infarction and stroke - 
+remain major causes of death and disability in the United States and world-wide. 
+Indeed, with dramatic increases in obesity and diabetes mellitus, the prevalence 
+and public health impact of cardiovascular diseases (CVD) will likely remain 
+high. Major advances have been made in development of new therapies to reduce 
+the incidence of atherosclerosis and CVD, in particular for treatment of 
+hypercholesterolemia and hypertension. Oxidative stress is the common 
+mechanistic link for many CVD risk factors. However, only recently have the 
+tools existed to study the interface between oxidative stress and CVD in animal 
+models. The most important source of reactive oxygen species (and hence 
+oxidative stress) in vascular cells are the multiple forms of enzymes 
+nicotinamide adenine dinucleotide phosphate oxidase (NADPH oxidase). Recently 
+published and emerging studies now clearly establish that: 1) NADPH oxidases are 
+of critical importance in atherosclerosis and hypertension in animal models; 2) 
+given the tissue-specific expression of key components of NADPH oxidase, it may 
+be possible to target vascular oxidative stress for prevention of CVD.
+
+DOI: 10.5482/HAMO-14-11-0076
+PMCID: PMC5625353
+PMID: 25649240 [Indexed for MEDLINE]
+
+
+42. Inflammation. 2015;38(3):1289-96. doi: 10.1007/s10753-014-0099-4.
+
+Wear Particles Impair Antimicrobial Activity Via Suppression of Reactive Oxygen 
+Species Generation and ERK1/2 Phosphorylation in Activated Macrophages.
+
+Chen W(1), Li Z, Guo Y, Zhou Y, Zhang Y, Luo G, Yang X, Li C, Liao W, Sheng P.
+
+Author information:
+(1)Department of Orthopaedic Surgery, The First Affiliated Hospital of Sun 
+Yat-sen University, #58 Zhongshan 2nd Road, Guangzhou, 510080, China.
+
+Implant-related infection (IRI) is closely related to the local immunity of 
+peri-implant tissues. The generation of reactive oxygen species (ROS) in 
+activated macrophages plays a prominent role in the innate immune response. In 
+previous studies, we indicated that implant wear particles promote endotoxin 
+tolerance by decreasing the release of proinflammatory cytokines. However, it is 
+unclear whether ROS are involved in the damage of the local immunity of 
+peri-implant tissues. In the present study, we assessed the mechanism of local 
+immunosuppression using titanium (Ti) particles and/or lipopolysaccharide (LPS) 
+to stimulate RAW 264.7 cells. The results indicate that the Ti particles induced 
+the generation of a moderate amount of ROS through nicotinamide adenine 
+dinucleotide phosphate oxidase-1, but not through catalase. Pre-exposure to Ti 
+particles inhibited ROS generation and extracellular-regulated protein kinase 
+activation in LPS-stimulated macrophages. These findings indicate that chronic 
+stimulation by Ti particles may lead to a state of oxidative stress and 
+persistent inflammation, which may result in the attenuation of the immune 
+response of macrophages to bacterial components such as LPS. Eventually, 
+immunosuppression develops in peri-implant tissues, which may be a risk factor 
+for IRI.
+
+DOI: 10.1007/s10753-014-0099-4
+PMID: 25577344 [Indexed for MEDLINE]
+
+
+43. Exp Cell Res. 2015 Feb 15;331(2):267-77. doi: 10.1016/j.yexcr.2014.12.018. Epub 
+2015 Jan 6.
+
+Scoparone attenuates RANKL-induced osteoclastic differentiation through 
+controlling reactive oxygen species production and scavenging.
+
+Lee SH(1), Jang HD(2).
+
+Author information:
+(1)Department of Food and Nutrition, Hannam University, Daejeon, Republic of 
+Korea.
+(2)Department of Food and Nutrition, Hannam University, Daejeon, Republic of 
+Korea. Electronic address: haedong@hnu.kr.
+
+Scoparone, one of the bioactive components of Artemisia capillaris Thunb, has 
+various biological properties including immunosuppressive, hepatoprotective, 
+anti-allergic, anti-inflammatory, and antioxidant effects. This study aims at 
+evaluating the anti-osteoporotic effect of scoparone and its underlying 
+mechanism in vitro. Scoparone demonstrated potent cellular antioxidant capacity. 
+It was also found that scoparone inhibited the receptor activator of nuclear 
+factor-κB ligand (RANKL)-induced osteoclast differentiation and suppressed 
+cathepsin K and tartrate-resistant acid phosphatase (TRAP) expression via c-jun 
+N-terminal kinase (JNK)/extracellular signal-regulated kinase (ERK)/p38-mediated 
+c-Fos-nuclear factor of activated T cells, cytoplasmic 1 (NFATc1) signaling 
+pathway. During osteoclast differentiation, the production of general reactive 
+oxygen species (ROS) and superoxide anions was dose-dependently attenuated by 
+scoparone. In addition, scoparone diminished NADPH (nicotinamide adenine 
+dinucleotide phosphate) oxidase 1 (Nox1) expression and activation via the tumor 
+necrosis factor receptor-associated factor 6 (TRAF6)-cSrc-phosphatidylinositol 
+3-kinase (PI3k) signaling pathway and prevented the disruption of mitochondrial 
+electron transport chain system. Furthermore, scoparone augmented the expression 
+of superoxide dismutase 1 (SOD1) and catalase (CAT). The overall results 
+indicate that the inhibitory effect of scoparone on RANKL-induced osteoclast 
+differentiation is attributed to the suppressive effect on ROS and superoxide 
+anion production by inhibiting Nox1 expression and activation and protecting the 
+mitochondrial electron transport chain system and the scavenging effect of ROS 
+resulting from elevated SOD1 and CAT expression.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexcr.2014.12.018
+PMID: 25576385 [Indexed for MEDLINE]
+
+
+44. Sleep. 2014 May 1;37(5):999-1009. doi: 10.5665/sleep.3678.
+
+Sleep fragmentation in mice induces nicotinamide adenine dinucleotide phosphate 
+oxidase 2-dependent mobilization, proliferation, and differentiation of 
+adipocyte progenitors in visceral white adipose tissue.
+
+Khalyfa A(1), Wang Y(1), Zhang SX(1), Qiao Z(1), Abdelkarim A(1), Gozal D(1).
+
+Author information:
+(1)Section of Pediatric Sleep Medicine, Department of Pediatrics, Pritzker 
+School of Medicine, Biological Sciences Division, The University of Chicago, 
+Chicago, IL.
+
+BACKGROUND: Chronic sleep fragmentation (SF) without sleep curtailment induces 
+increased adiposity. However, it remains unclear whether mobilization, 
+proliferation, and differentiation of adipocyte progenitors (APs) occurs in 
+visceral white adipose tissue (VWAT), and whether nicotinamide adenine 
+dinucleotide phosphate (NADPH) oxidase 2 (Nox2) activity plays a role.
+METHODS: Changes in VWAT depot cell size and AP proliferation were assessed in 
+wild-type and Nox2 null male mice exposed to SF and control sleep (SC). To 
+assess mobilization, proliferation, and differentiation of bone marrow 
+mesenchymal stem cells (BM-MSC), Sca-1+ bone marrow progenitors were isolated 
+from GFP+ or RFP+ mice, and injected intravenously to adult male mice (C57BL/6) 
+previously exposed to SF or SC.
+RESULTS: In comparison with SC, SF was associated with increased weight accrual 
+at 3 w and thereafter, larger subcutaneous and visceral fat depots, and overall 
+adipocyte size at 8 w. Increased global AP numbers in VWAT along with enhanced 
+AP BrDU labeling in vitro and in vivo emerged in SF. Systemic injections of GFP+ 
+BM-MSC resulted in increased AP in VWAT, as well as in enhanced differentiation 
+into adipocytes in SF-exposed mice. No differences occurred between SF and SC in 
+Nox2 null mice for any of these measurements.
+CONCLUSIONS: Chronic sleep fragmentation (SF) induces obesity in mice and 
+increased proliferation and differentiation of adipocyte progenitors (AP) in 
+visceral white adipose tissue (VWAT) that are mediated by increased Nox2 
+activity. In addition, enhanced migration of bone marrow mesenchymal stem cells 
+from the systemic circulation into VWAT, along with AP differentiation, 
+proliferation, and adipocyte formation occur in SF-exposed wild-type but not in 
+oxidase 2 (Nox2) null mice. Thus, Nox2 may provide a therapeutic target to 
+prevent obesity in the context of sleep disorders.
+
+DOI: 10.5665/sleep.3678
+PMCID: PMC3985100
+PMID: 24790279 [Indexed for MEDLINE]
+
+
+45. Antioxid Redox Signal. 2014 Oct 10;21(11):1605-19. doi: 10.1089/ars.2014.5941. 
+Epub 2014 Jun 26.
+
+Reactive oxygen species regulate hematopoietic stem cell self-renewal, migration 
+and development, as well as their bone marrow microenvironment.
+
+Ludin A(1), Gur-Cohen S, Golan K, Kaufmann KB, Itkin T, Medaglia C, Lu XJ, 
+Ledergor G, Kollet O, Lapidot T.
+
+Author information:
+(1)1 Department of Immunology, Weizmann Institute of Science , Rehovot, Israel .
+
+SIGNIFICANCE: Blood forming, hematopoietic stem cells (HSCs) mostly reside in 
+the bone marrow in a quiescent, nonmotile state via adhesion interactions with 
+stromal cells and macrophages. Quiescent, proliferating, and differentiating 
+stem cells have different metabolism, and accordingly different amounts of 
+intracellular reactive oxygen species (ROS). Importantly, ROS is not just a 
+byproduct of metabolism, but also plays a role in stem cell state and function.
+RECENT ADVANCES: ROS levels are dynamic and reversibly dictate enhanced cycling 
+and myeloid bias in ROS(high) short-term repopulating stem cells, and ROS(low) 
+quiescent long-term repopulating stem cells. Low levels of ROS, regulated by 
+intrinsic factors such as cell respiration or nicotinamide adenine dinucleotide 
+phosphate-oxidase (NADPH oxidase) activity, or extrinsic factors such as stem 
+cell factor or prostaglandin E2 are required for maintaining stem cell 
+self-renewal. High ROS levels, due to stress and inflammation, induce stem cell 
+differentiation and enhanced motility.
+CRITICAL ISSUES: Stem cells need to be protected from high ROS levels to avoid 
+stem cell exhaustion, insufficient host immunity, and leukemic transformation 
+that may occur during chronic inflammation. However, continuous low ROS 
+production will lead to lack of stem cell function and opportunistic infections. 
+Ultimately, balanced ROS levels are crucial for maintaining the small stem cell 
+pool and host immunity, both in homeostasis and during stress situations.
+FUTURE DIRECTIONS: Deciphering the signaling pathway of ROS in HSC will provide 
+a better understanding of ROS roles in switching HSC from quiescence to 
+activation and vice versa, and will also shed light on the possible roles of ROS 
+in leukemia initiation and development.
+
+DOI: 10.1089/ars.2014.5941
+PMCID: PMC4175025
+PMID: 24762207 [Indexed for MEDLINE]
+
+
+46. Free Radic Biol Med. 2014 Apr;69:377-89. doi: 
+10.1016/j.freeradbiomed.2014.02.003. Epub 2014 Feb 11.
+
+Serotonin regulates innate immune responses of colon epithelial cells through 
+Nox2-derived reactive oxygen species.
+
+Regmi SC(1), Park SY(1), Ku SK(2), Kim JA(3).
+
+Author information:
+(1)College of Pharmacy, Yeungnam University, Gyeongsan 712-749, South Korea.
+(2)Department of Anatomy and Histology, Daegu Hany University, Gyeongsan 
+712-715, South Korea.
+(3)College of Pharmacy, Yeungnam University, Gyeongsan 712-749, South Korea. 
+Electronic address: jakim@yu.ac.kr.
+
+Changes in serotonin (5-hydroxytryptamine, 5-HT) content in the gut of patients 
+with inflammatory bowel disease (IBD) and animal models of colitis suggest an 
+important role of 5-HT in the pathogenesis of IBD. In this study, we examined 
+the role and mechanism of action of 5-HT in the inflammatory response of colon 
+epithelial cells in vitro and in vivo. In colon epithelial cells (CCD 841, 
+HT-29, Caco-2), direct application of 5-HT induced production of reactive oxygen 
+species (ROS) and monocyte-epithelial adhesion, an initial event of 
+inflammation, which were blocked not only by 5-HT receptor antagonists 
+(tropisetron, RS39604, and SB269970), antioxidants (ascorbic acid, apocynin), 
+and various inhibitors of NADPH oxidase (DPI), CREB (KG-501), and NF-κB (PDTC), 
+but also by transfection with Nox2 siRNA. Nox2-derived production of ROS 
+corresponded with the rapid and brief activation of Rac. In addition, 5-HT 
+induced Nox2, p67(phox), and Duox2 without altering the level of Nox1 or Duox1 
+in colon epithelial cells, and silencing of Nox2 suppressed 5-HT-induced Duox2 
+increase. 5-HT also induced an increase in the expression of MCP-1, IL-8, and 
+ICAM-1 and a decrease in E-cadherin expression. Exogenous application of 5-HT to 
+rat colon through the rectum caused a minimal level of inflammation, which was 
+demonstrated by histological examination, MPO activity, and inflammatory 
+cytokine induction. However, 5-HT combined with a low dose of 
+2,4,6-trinitrobenzene sulfonic acid (TNBS), the level of which caused a minimal 
+level of colitis, exaggerated colon inflammation accompanied by much more 
+enhanced induction of inflammatory cytokines, IL-6, IL-8, and MCP-1, indicating 
+that colon epithelial cells directly exposed to 5-HT are primed toward 
+inflammation. In the colon at the lesion site, treatment with 5-HT resulted in 
+an increase in the level of epithelial Nox2 but not of constitutively expressed 
+Nox1, which is the opposite result of TNBS treatment. Furthermore, 5-HT 
+treatment of Nox2-knockout mice did not induce colon inflammation, in contrast 
+to 5-HT-treated wild-type mice. The results demonstrate that colon epithelial 
+cells directly exposed to 5-HT are primed for inflammatory reactions, which is 
+an important innate immune response, and the underlying mechanism for the 
+priming is associated with Nox2-activated signaling pathways, including ERK/p38 
+MAPK, NF-κB, and CREB.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.freeradbiomed.2014.02.003
+PMID: 24524998 [Indexed for MEDLINE]
+
+
+47. J Dermatol Sci. 2014 Apr;74(1):56-63. doi: 10.1016/j.jdermsci.2013.11.011. Epub 
+2013 Nov 27.
+
+Hydrogen peroxide generated by DUOX1 regulates the expression levels of specific 
+differentiation markers in normal human keratinocytes.
+
+Choi H(1), Park JY(1), Kim HJ(1), Noh M(2), Ueyama T(3), Bae Y(4), Lee TR(5), 
+Shin DW(6).
+
+Author information:
+(1)Bioscience Research Institute, Amorepacific Corporation R&D Center, 
+Yongin-si, Gyeonggi-do 446-729, Republic of Korea.
+(2)College of Pharmacy, Seoul University, Seoul 151-742, Republic of Korea.
+(3)Laboratory of Molecular Pharmacology, Biosignal Research Center, Kobe 
+University, Kobe 657-8501, Republic of Korea.
+(4)Department of Life Sciences, Ewha Womans University, Seoul 120-750, Republic 
+of Korea.
+(5)Bioscience Research Institute, Amorepacific Corporation R&D Center, 
+Yongin-si, Gyeonggi-do 446-729, Republic of Korea. Electronic address: 
+TRLee@amorepacific.com.
+(6)Bioscience Research Institute, Amorepacific Corporation R&D Center, 
+Yongin-si, Gyeonggi-do 446-729, Republic of Korea. Electronic address: 
+biopang@amorepacific.com.
+
+BACKGROUND: Recent studies have demonstrated that the production of reactive 
+oxygen species (ROS) itself plays an indispensable role in the process of 
+differentiation in various tissues. However, it is unclear whether ROS have an 
+effect on the differentiation of keratinocytes essential for the development of 
+the epidermal permeability barrier.
+OBJECTIVE: The aim of the study is to determine a major H2O2-generating source 
+by ionomycin in normal human keratinocytes (NHKs), and elucidate the 
+physiological role of H2O2 generated by identified dual oxidase 1 (DUOX1) on 
+differentiation markers of NHKs.
+METHODS: To detect H2O2 level generated by ionomycin in NHKs, luminal-HRP assays 
+are performed. To examine the effects of DUOX1 on differentiation markers of 
+NHKs, analysis of Q-RT-PCR, siRNA knockdown, and Western blot analysis were 
+performed.
+RESULTS: We found that levels of H2O2 generated by ionomycin, a Ca(2+) signal 
+inducer, showed Ca(2+) dependence manner. In addition, DPI, an inhibitor of 
+NOXes, significantly reversed the ionomycin-induced H2O2 level, and inhibited 
+the mRNA expression levels of keratin 1, keratin 10, and filaggrin compared with 
+other ROS generating system inhibitors. Interestingly, we demonstrated that 
+extracellular Ca(2+) markedly up-regulated mRNA expression levels of DUOX1 among 
+NADPH oxidase (NOX) isoforms. Knockdown of DUOX1 by RNA interference (RNAi) in 
+NHKs significantly antagonized an increase of ionomycin-induced H2O2 level, and 
+specifically decreased the expressions of several keratinocyte differentiation 
+markers such as keratin 1, transglutaminase 3, desmoglein 1, and aquaporin 9. In 
+addition, we also found that formation of cornified envelope was significantly 
+reduced in DUOX1-knockdown NHKs.
+CONCLUSION: These results suggest that DUOX1 is the major H2O2-producing source 
+in NHKs stimulated with Ca(2+), and plays a significant role in regulating the 
+expression of specific markers necessary for the normal differentiation of 
+keratinocytes.
+
+Copyright © 2013 Japanese Society for Investigative Dermatology. Published by 
+Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.jdermsci.2013.11.011
+PMID: 24332816 [Indexed for MEDLINE]
+
+
+48. Antioxid Redox Signal. 2014 Jun 10;20(17):2776-93. doi: 10.1089/ars.2013.5602. 
+Epub 2013 Oct 25.
+
+Roles of DUOX-mediated hydrogen peroxide in metabolism, host defense, and 
+signaling.
+
+De Deken X(1), Corvilain B, Dumont JE, Miot F.
+
+Author information:
+(1)Faculté de Médecine, Institut de Recherche Interdisciplinaire en Biologie 
+Humaine et Moléculaire (IRIBHM), Université Libre de Bruxelles (ULB) , Brussels, 
+Belgium .
+
+SIGNIFICANCE: Among the NADPH oxidases, the dual oxidases, DUOX1 and DUOX2, 
+constitute a distinct subfamily initially called thyroid oxidases, based on 
+their high level of expression in thyroid tissue. Genetic alterations causing 
+inherited hypothyroidism clearly demonstrate their physiological implication in 
+thyroid hormonogenesis. However, a growing list of biological functions 
+triggered by DUOX-dependent reactive oxygen species (ROS) in highly 
+differentiated mucosae have recently emerged.
+RECENT ADVANCES: A role of DUOX enzymes as ROS providers for 
+lactoperoxidase-mediated killing of invading pathogens has been well established 
+and a role in bacteria chemorepulsion has been proposed. Control of DUOX 
+expression and activity by inflammatory molecules and immune receptor activation 
+consolidates their contributions to innate immune defense of mucosal surfaces. 
+Recent studies conducted in ancestral organisms have identified effectors of 
+DUOX redox signaling involved in wound healing including epithelium regeneration 
+and leukocyte recruitment. Moreover, local generation of hydrogen peroxide 
+(H2O2) by DUOX has also been suggested to constitute a positive feedback loop to 
+promote receptor signaling activation.
+CRITICAL ISSUES: A correct balance between H2O2 generation and detoxification 
+mechanisms must be properly maintained to avoid oxidative damages. 
+Overexpression of DUOX genes has been associated with an increasing number of 
+chronic inflammatory diseases. Furthermore, H2O2-mediated DNA damage supports a 
+mutagenic function promoting tumor development.
+FUTURE DIRECTIONS: Despite the high sequence similarity shared between DUOX1 and 
+DUOX2, the two isoforms present distinct regulations, tissue expression and 
+catalytic functions. The phenotypic characterization of novel DUOX/DUOXA 
+invalidated animal models will be very useful for defining their medical 
+importance in pathological conditions.
+
+DOI: 10.1089/ars.2013.5602
+PMID: 24161126 [Indexed for MEDLINE]
+
+
+49. Am J Respir Cell Mol Biol. 2014 Jan;50(1):125-34. doi: 10.1165/rcmb.2013-0254OC.
+
+Histamine stimulates hydrogen peroxide production by bronchial epithelial cells 
+via histamine H1 receptor and dual oxidase.
+
+Rada B(1), Boudreau HE, Park JJ, Leto TL.
+
+Author information:
+(1)1 Department of Infectious Diseases, College of Veterinary Medicine, 
+University of Georgia, Athens, Georgia; and.
+
+Oxidative stress has been implicated in the pathogenesis of bronchial asthma. 
+Besides granulocytes, the airway epithelium can produce large amounts of 
+reactive oxygen species and can contribute to asthma-related oxidative stress. 
+Histamine is a major inflammatory mediator present in large quantities in 
+asthmatic airways. Whether histamine triggers epithelium-derived oxidative 
+stress is unknown. We therefore aimed at characterizing human airway epithelial 
+H2O2 production stimulated by histamine. We found that air-liquid interface 
+cultures of primary human bronchial epithelial cells (BECs) and an immortalized 
+BEC model (Cdk4/hTERT HBEC) produce H2O2 in response to histamine. The main 
+source of airway epithelial H2O2 is an NADPH dual oxidase, Duox1. Out of the 
+four histamine receptors (H1R-H4R), H1R has the highest expression in BECs and 
+mediates the H2O2-producing effects of histamine. IL-4 induces Duox1 gene and 
+protein expression levels and enhances histamine-induced H2O2 production by 
+epithelial cells. Using HEK-293 cells expressing Duox1 or Duox2 and endogenous 
+H1R, histamine triggers an immediate intracellular calcium signal and H2O2 
+release. Overexpression of H1R further increases the oxidative output of 
+Duox-expressing HEK-293 cells. Our observations show that BECs respond to 
+histamine with Duox-mediated H2O2 production. These findings reveal a mechanism 
+that could be an important contributor to oxidative stress characteristic of 
+asthmatic airways, suggesting novel therapeutic targets for treating asthmatic 
+airway disease.
+
+DOI: 10.1165/rcmb.2013-0254OC
+PMCID: PMC3930938
+PMID: 23962049 [Indexed for MEDLINE]
+
+
+50. Free Radic Biol Med. 2013 Dec;65:38-46. doi: 
+10.1016/j.freeradbiomed.2013.06.012. Epub 2013 Jun 11.
+
+Dual oxidase regulates neutrophil recruitment in allergic airways.
+
+Chang S(1), Linderholm A(1), Franzi L(1), Kenyon N(1), Grasberger H(2), Harper 
+R(3).
+
+Author information:
+(1)Department of Internal Medicine, Division of Pulmonary and Critical Care 
+Medicine, School of Medicine, University of California at Davis, Davis, CA 
+95616, USA.
+(2)Department of Medicine, University of Michigan, Ann Arbor, MI 48109, USA.
+(3)Department of Internal Medicine, Division of Pulmonary and Critical Care 
+Medicine, School of Medicine, University of California at Davis, Davis, CA 
+95616, USA. Electronic address: rwharper@ucdavis.edu.
+
+Enhanced reactive oxygen species production in allergic airways is well 
+described and correlates with increased airway contractions, inflammatory cell 
+infiltration, goblet cell metaplasia, and mucus hypersecretion. There is also an 
+abundance of interleukin-4/interleukin-13 (IL-4/IL-13)- or 
+interleukin-5-secreting cells that are thought to be central to the pathogenesis 
+of allergic asthma. We postulated that the dual oxidases (DUOX1 and DUOX2), 
+members of the nicotinamide adenine dinucleotide phosphate oxidase family that 
+release hydrogen peroxide (H2O2) in the respiratory tract, are critical proteins 
+in the pathogenesis of allergic airways. DUOX activity is regulated by 
+cytokines, including IL-4 and IL-13, and DUOX-mediated H2O2 influences several 
+important features of allergic asthma: mucin production, IL-8 secretion, and 
+wound healing. The objective of this study was to establish the contribution of 
+DUOXs to the development of allergic asthma in a murine model. To accomplish 
+this goal, we utilized a DUOXA-deficient mouse model (Duoxa(-/-)) that lacked 
+maturation factors for both DUOX1 and DUOX2. Our results are the first to 
+demonstrate evidence of DUOX protein and DUOX functional activity in murine 
+airway epithelium. We also demonstrate that DUOXA maturation factors are 
+required for airway-specific H2O2 production and localization of DUOX to cilia 
+of fully differentiated airway epithelial cells. We compared wild-type and 
+Duoxa(-/-) mice in an ovalbumin exposure model to determine the role of DUOX in 
+allergic asthma. In comparison to DUOX-intact mice, Duoxa(-/-) mice had reduced 
+mucous cell metaplasia and lower levels of TH2 cytokine levels in 
+bronchoalveolar fluid. In addition, increased airway resistance in response to 
+methacholine was observed in Duoxa(+/+) mice, as expected, but was absent in 
+Duoxa(-/-) mice. Surprisingly, Duoxa(-/-) mice had decreased influx of 
+neutrophils in bronchoalveolar fluid and lung tissue sections associated with a 
+lower level of the chemotactic cytokine IL-6. These findings suggest that 
+DUOX-derived H2O2 has an important role in signaling neutrophils into allergic 
+airways.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.freeradbiomed.2013.06.012
+PMCID: PMC3859817
+PMID: 23770197 [Indexed for MEDLINE]
+
+
+51. Cell Res. 2013 May;23(5):673-90. doi: 10.1038/cr.2013.47. Epub 2013 Apr 2.
+
+IFNβ/TNFα synergism induces a non-canonical STAT2/IRF9-dependent pathway 
+triggering a novel DUOX2 NADPH oxidase-mediated airway antiviral response.
+
+Fink K(1), Martin L, Mukawera E, Chartier S, De Deken X, Brochiero E, Miot F, 
+Grandvaux N.
+
+Author information:
+(1)Centre de Recherche du CHUM (CRCHUM), Montréal, Québec, Canada.
+
+Erratum in
+    Cell Res. 2014 Apr;24(4):509.
+
+Airway epithelial cells are key initial innate immune responders in the fight 
+against respiratory viruses, primarily via the secretion of antiviral and 
+proinflammatory cytokines that act in an autocrine/paracrine fashion to trigger 
+the establishment of an antiviral state. It is currently thought that the early 
+antiviral state in airway epithelial cells primarily relies on IFNβ secretion 
+and the subsequent activation of the interferon-stimulated gene factor 3 (ISGF3) 
+transcription factor complex, composed of STAT1, STAT2 and IRF9, which regulates 
+the expression of a panoply of interferon-stimulated genes encoding proteins 
+with antiviral activities. However, the specific pathways engaged by the 
+synergistic action of different cytokines during viral infections, and the 
+resulting physiological outcomes are still ill-defined. Here, we unveil a novel 
+delayed antiviral response in the airways, which is initiated by the synergistic 
+autocrine/paracrine action of IFNβ and TNFα, and signals through a non-canonical 
+STAT2- and IRF9-dependent, but STAT1-independent cascade. This pathway 
+ultimately leads to the late induction of the DUOX2 NADPH oxidase expression. 
+Importantly, our study uncovers that the development of the antiviral state 
+relies on DUOX2-dependent H2O2 production. Key antiviral pathways are often 
+targeted by evasion strategies evolved by various pathogenic viruses. In this 
+regard, the importance of the novel DUOX2-dependent antiviral pathway is further 
+underlined by the observation that the human respiratory syncytial virus is able 
+to subvert DUOX2 induction.
+
+DOI: 10.1038/cr.2013.47
+PMCID: PMC3641604
+PMID: 23545780 [Indexed for MEDLINE]
+
+
+52. Int J Oncol. 2013 Apr;42(4):1229-38. doi: 10.3892/ijo.2013.1821. Epub 2013 Feb 
+11.
+
+Functional activity and tumor-specific expression of dual oxidase 2 in 
+pancreatic cancer cells and human malignancies characterized with a novel 
+monoclonal antibody.
+
+Wu Y(1), Antony S, Hewitt SM, Jiang G, Yang SX, Meitzler JL, Juhasz A, Lu J, Liu 
+H, Doroshow JH, Roy K.
+
+Author information:
+(1)Laboratory of Molecular Pharmacology, National Cancer Institute, National 
+Institutes of Health, Bethesda, MD 20892, USA.
+
+Dual oxidase 2 (Duox2), one of the seven members of the NADPH oxidase gene 
+family, plays a critical role in generating H2O2 for thyroid hormone 
+biosynthesis and as an integral part of the host defense system of the 
+respiratory epithelium and the gastrointestinal tract. Recent evidence suggests 
+that the regulation of Duox2 expression is under the control of pro-inflammatory 
+cytokines and that Duox2-induced reactive oxygen species (ROS) contribute to the 
+inflammation-related tissue injury that occurs in two pre-malignant, 
+inflammatory conditions: chronic pancreatitis and inflammatory bowel disease. 
+Because no reliable Duox antibodies are commercially available, we report the 
+development of a murine monoclonal antibody (MAb) to Duox2 (clone Duox S-12) and 
+its use for the characterization of Duox2 expression in human tumors, tumor cell 
+lines and normal tissues. Duox S-12 specifically detected both endogenously- and 
+ectopically-expressed Duox2 protein by immunoblotting, immunofluorescence 
+microscopy and immunohistochemistry (where both membranous and cytoplasmic 
+staining were present). Duox2 expression detected by Duox S-12 was functionally 
+coupled to the generation of H(2)O(2) in pancreatic cancer cells that expressed 
+Duox2 and its cognate maturation factor DuoxA2. Although Duox S-12 recognizes 
+ectopically expressed Duox1 protein because of the extensive amino acid homology 
+between Duox1 and Duox2, the lack of substantial Duox1 mRNA expression in human 
+tumors (except thyroid cancer) allowed us to evaluate Duox2 expression across a 
+wide range of normal and malignant tissues by immuno-histochemistry. Duox2 was 
+expressed at elevated levels in many human cancers, most notably tumors of the 
+prostate, lung, colon and breast while brain tumors and lymphomas demonstrated 
+the lowest frequency of expression. The Duox-specific monoclonal antibody 
+described here provides a promising tool for the further examination of the role 
+of Duox-dependent reactive oxygen production in inflammation-related 
+carcinogenesis, where alterations in oxidant tone play a critical role in cell 
+growth and proliferation.
+
+DOI: 10.3892/ijo.2013.1821
+PMCID: PMC3622675
+PMID: 23404210 [Indexed for MEDLINE]
+
+
+53. J Nutr Biochem. 2013 Jan;24(1):289-97. doi: 10.1016/j.jnutbio.2012.06.007. Epub 
+2012 Aug 16.
+
+Zinc deficiency induces production of the proinflammatory cytokines IL-1β and 
+TNFα in promyeloid cells via epigenetic and redox-dependent mechanisms.
+
+Wessels I(1), Haase H, Engelhardt G, Rink L, Uciechowski P.
+
+Author information:
+(1)Institute of Immunology, Medical Faculty, RWTH Aachen University, Pauwelsstr. 
+30, D-52074 Aachen, Germany.
+
+The deprivation of zinc, caused by malnutrition or as a consequence of aging or 
+disease, strongly affects immune cell functions, causing higher frequency of 
+infections. Among other effects, an increased production of reactive oxygen 
+species (ROS) and proinflammatory cytokines has been observed in zinc-deficient 
+patients, but the underlying mechanisms were unknown. The aim of the current 
+study was to define mechanisms explaining the increase in proinflammatory 
+cytokine production during zinc deficiency, focusing on the role of epigenetic 
+and redox-mediated mechanisms. Interleukin (IL)-1β and tumor necrosis factor 
+(TNF)α production was increased in HL-60 cells under zinc deficiency. Analyses 
+of the chromatin structure demonstrated that the elevated cytokine production 
+was due to increased accessibilities of IL-1β and TNFα promoters in 
+zinc-deficient cells. Moreover, the level of nicotinamide adenine dinucleotide 
+phosphate-oxidase (NADPH) oxidase-produced ROS was elevated under zinc 
+deficiency, subsequently leading to p38 mitogen-activated protein kinase (MAPK) 
+phosphorylation. The increased activation of p38 MAPK appeared to be necessary 
+for posttranscriptional processes in IL-1β and TNFα synthesis. These data 
+demonstrate that IL-1β and TNFα expression under zinc deficiency is regulated 
+via epigenetic and redox-mediated mechanisms. Assuming an important role of zinc 
+in proinflammatory cytokine regulation, this should encourage research in the 
+use of zinc supplementation for treatment of inflammatory diseases.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jnutbio.2012.06.007
+PMID: 22902331 [Indexed for MEDLINE]
+
+
+54. Free Radic Biol Med. 2012 May 1;52(9):1569-76. doi: 
+10.1016/j.freeradbiomed.2012.02.009. Epub 2012 Feb 15.
+
+Expression of lactoperoxidase in differentiated mouse colon epithelial cells.
+
+Kim BW(1), Esworthy RS, Hahn MA, Pfeifer GP, Chu FF.
+
+Author information:
+(1)Department of Cancer Biology, Beckman Research Institute of City of Hope, 
+Duarte, CA 91010, USA.
+
+Lactoperoxidase (LPO) is known to be present in secreted fluids, such as milk 
+and saliva. Functionally, LPO teams up with dual oxidases (DUOXs) to generate 
+bactericidal hypothiocyanite in the presence of thiocyanate. DUOX2 is expressed 
+in intestinal epithelium, but there is little information on LPO expression in 
+this tissue. To fill the gap of knowledge, we have analyzed Lpo gene expression 
+and its regulation in mouse intestine. In wild-type (WT) C57BL/6 (B6) mouse 
+intestine, an appreciable level of mouse Lpo gene expression was detected in the 
+colon, but not the ileum. However, in B6 mice deficient in glutathione 
+peroxidase (GPx)-1 and -2, GPx1/2-double-knockout (DKO), which had intestinal 
+pathology, the colon Lpo mRNA levels increased 5- to 12-fold depending on mouse 
+age. The Lpo mRNA levels in WT and DKO 129S1/SvlmJ (129) colon were even higher, 
+9- and 5-fold, than in B6 DKO colon. Higher levels of Lpo protein and enzymatic 
+activity were also detected in the 129 mouse colon compared to B6 colon. Lpo 
+protein was expressed in the differentiated colon epithelial cells, away from 
+the crypt base, as shown by immunohistochemistry. Similar to human LPO mRNA, 
+mouse Lpo mRNA had multiple spliced forms, although only the full-length variant 
+1 was translated. Higher methylation was found in the 129 than in the B6 strain, 
+in DKO than in control colon, and in older than in juvenile mice. However, 
+methylation of the Lpo intragenic CpG island was not directly induced by 
+inflammation, because dextran sulfate sodium-induced colitis did not increase 
+DNA methylation in B6 DKO colon. Also, Lpo DNA methylation is not correlated 
+with gene expression.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.freeradbiomed.2012.02.009
+PMCID: PMC3341587
+PMID: 22343415 [Indexed for MEDLINE]
+
+
+55. Cardiovasc Ther. 2013 Jun;31(3):125-37. doi: 10.1111/j.1755-5922.2011.00310.x. 
+Epub 2012 Jan 26.
+
+Opportunity nox: the future of NADPH oxidases as therapeutic targets in 
+cardiovascular disease.
+
+Streeter J(1), Thiel W, Brieger K, Miller FJ Jr.
+
+Author information:
+(1)Departments of Anatomy and Cell Biology, Free Radical and Radiation Biology, 
+and Internal Medicine, University of Iowa, Iowa City, IA 52242, USA. 
+jennifer-streeter@uiowa.edu
+
+Over 40 years ago, NADPH (nicotinamide adenine dinucleotide phosphate) oxidase 2 
+(Nox2) was discovered in phagocytes and found to be essential in innate 
+immunity. More than 20 years passed before additional Nox isoforms were 
+discovered; and since then, studies have revealed that several of these isoforms 
+(Nox1, Nox2, Nox4, and Nox5) are found in human cardiac and vascular cells and 
+contribute to the pathogenesis of cardiovascular diseases (CVDs). Recently, 
+major efforts have focused on identifying inhibitors capable of ameliorating 
+Nox-mediated CVD. In this review, we briefly discuss the role of each Nox 
+isoform in CVD, identify steps in Nox signaling that will serve as potential 
+targets for the design of therapeutics, and highlight innovative strategies 
+likely to yield effective Nox inhibitors within the next decade.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1755-5922.2011.00310.x
+PMID: 22280098 [Indexed for MEDLINE]
+
+
+56. Ann Neurol. 2011 Oct;70(4):606-15. doi: 10.1002/ana.22476.
+
+Significance of marrow-derived nicotinamide adenine dinucleotide phosphate 
+oxidase in experimental ischemic stroke.
+
+Tang XN(1), Zheng Z, Giffard RG, Yenari MA.
+
+Author information:
+(1)Department of Neurology, University of California-San Francisco and San 
+Francisco Veterans Affairs Medical Center, San Francisco, CA, USA.
+
+OBJECTIVE: Reperfusion after stroke leads to infiltration of inflammatory cells 
+into the ischemic brain. Nicotinamide adenine dinucleotide phosphate oxidase 
+(NOX2) is a major enzyme system that generates superoxide in immune cells. We 
+studied the effect of NOX2 derived from the immune cells in the brain and in 
+blood cells in experimental stroke.
+METHODS: To establish whether NOX2 plays a role in brain ischemia, strokes were 
+created in mice, then mice were treated with the NOX2 inhibitor apocynin or 
+vehicle and compared to mice deficient in NOX2's gp91 subunit and their 
+wild-type littermates. To determine whether NOX2 in circulating cells versus 
+brain resident cells contribute to ischemic injury, bone marrow chimeras were 
+generated by transplanting bone marrow from wild-type or NOX2-deficient mice 
+into NOX2 or wild-type hosts, respectively.
+RESULTS: Apocynin and NOX2 deletion both significantly reduced infarct size, 
+blood-brain barrier disruption, and hemorrhagic transformation of the infarcts, 
+compared to untreated wild-type controls. This was associated with decreased 
+matrix metalloproteinase 9 expression and reduced loss of tight junction 
+proteins. NOX2-deficient mice receiving wild-type marrow had better outcomes 
+compared to the wild-type mice receiving wild-type marrow. Interestingly, 
+wild-type mice receiving NOX2-deficient marrow had even smaller infarct sizes 
+and less hemorrhage than NOX2-deficient mice receiving wild-type marrow.
+INTERPRETATION: This indicates that NOX2, whether present in circulating cells 
+or brain resident cells, contributes to ischemic brain injury and hemorrhage. 
+However, NOX2 from the circulating cells contributed more to the exacerbation of 
+stroke than that from brain resident cells. These data suggest the importance of 
+targeting the peripheral immune system for treatment of stroke.
+
+Copyright © 2011 American Neurological Association.
+
+DOI: 10.1002/ana.22476
+PMCID: PMC3205431
+PMID: 22028221 [Indexed for MEDLINE]
+
+
+57. Antioxid Redox Signal. 2012 Jan 1;16(1):57-70. doi: 10.1089/ars.2011.3898. Epub 
+2011 Aug 8.
+
+Dual oxidase 2 is essential for the toll-like receptor 5-mediated inflammatory 
+response in airway mucosa.
+
+Joo JH(1), Ryu JH, Kim CH, Kim HJ, Suh MS, Kim JO, Chung SY, Lee SN, Kim HM, Bae 
+YS, Yoon JH.
+
+Author information:
+(1)Research Center for Natural Human Defense System, Yonsei University College 
+of Medicine, Seoul, South Korea.
+
+AIMS: Airway mucosa is constantly exposed to various airborne microbes, and 
+epithelial host defense requires a robust innate immunity. Recently, it has been 
+suggested that NADPH oxidase (NOX) isozymes serve functional roles in toll-like 
+receptor (TLR)-mediated innate immune responses. However, the molecular 
+mechanism between TLR and NOX-mediated reactive oxygen species (ROS) production 
+in human airway mucosa has been poorly understood.
+RESULTS: Here, we show that flagellin-induced ROS generation is dependent on 
+dual oxidase 2 (DUOX2) activation, which is regulated by [Ca(2+)](i) 
+mobilization in primary normal human nasal epithelial (NHNE) cells. 
+Interestingly, we observed that silencing of DUOX2 expression in NHNE cells and 
+nasal epithelium of Duox2 knockout mice failed to trigger mucin and MIP-2? 
+production upon challenging flagellin.
+INNOVATION: Our observation in this study reveals that flagellin-induced 
+hydrogen peroxide (H(2)O(2)) generation is critical for TLR5-dependent innate 
+immune responses, including IL-8 production and MUC5AC expression in the nasal 
+epithelium. Furthermore, DUOX2-mediated H(2)O(2) generation activated by the 
+flagellin-TLR5 axis might serve as a novel therapeutic target for infectious 
+inflammation diseases in the airway tract.
+CONCLUSION: Taken together, we propose that DUOX2 plays pivotal roles in 
+TLR5-dependent inflammatory response of nasal airway epithelium.
+
+DOI: 10.1089/ars.2011.3898
+PMID: 21714724 [Indexed for MEDLINE]
+
+
+58. Mol Endocrinol. 2011 Mar;25(3):503-15. doi: 10.1210/me.2010-0340. Epub 2011 Jan 
+27.
+
+ROS signaling by NOX4 drives fibroblast-to-myofibroblast differentiation in the 
+diseased prostatic stroma.
+
+Sampson N(1), Koziel R, Zenzmaier C, Bubendorf L, Plas E, Jansen-Dürr P, Berger 
+P.
+
+Author information:
+(1)Institute of Biomedical Aging Research, Austrian Academy of Science, Rennweg 
+10, Innsbruck, Austria.
+
+Stromal remodeling, in particular fibroblast-to-myofibroblast differentiation, 
+is a hallmark of benign prostatic hyperplasia (BPH) and solid tumors, including 
+prostate cancer (PCa). Increased local production of TGFβ1 is considered the 
+inducing stimulus. Given that stromal remodeling actively promotes BPH/PCa 
+development, there is considerable interest in developing stromal-targeted 
+therapies. Microarray and quantitative PCR analysis of primary human prostatic 
+stromal cells induced to undergo fibroblast-to-myofibroblast differentiation 
+with TGFβ1 revealed up-regulation of the reactive oxygen species (ROS) producer 
+reduced nicotinamide adenine dinucleotide phosphate oxidase 4 (NOX4) and 
+down-regulation of the selenium-containing ROS-scavenging enzymes glutathione 
+peroxidase 3, thioredoxin reductase 1 (TXNRD1), and the selenium transporter 
+selenoprotein P plasma 1. Consistently, NOX4 expression correlated specifically 
+with the myofibroblast phenotype in vivo, and loss of selenoprotein P plasma 1 
+was observed in tumor-associated stroma of human PCa biopsies. Using lentiviral 
+NOX4 short hairpin RNA-mediated knockdown, pharmacological inhibitors, 
+antioxidants, and selenium, we demonstrate that TGFβ1 induction of NOX4-derived 
+ROS is required for TGFβ1-mediated phosphorylation of c-jun N-terminal kinase, 
+which in turn is essential for subsequent downstream cytoskeletal remodeling. 
+Significantly, selenium supplementation inhibited differentiation by increasing 
+ROS-scavenging selenoenzyme biosynthesis because glutathione peroxidase 3 and 
+TXNRD1 expression and TXNRD1 enzyme activity were restored. Consistently, 
+selenium depleted ROS levels downstream of NOX4 induction. Collectively, this 
+work demonstrates that dysregulated redox homeostasis driven by elevated 
+NOX4-derived ROS signaling underlies fibroblast-to-myofibroblast differentiation 
+in the diseased prostatic stroma. Further, these data indicate the potential 
+clinical value of selenium and/or NOX4 inhibitors in preventing the functional 
+pathogenic changes of stromal cells in BPH and PCa.
+
+DOI: 10.1210/me.2010-0340
+PMCID: PMC5417274
+PMID: 21273445 [Indexed for MEDLINE]
+
+
+59. Mol Vis. 2010 Feb 23;16:283-93.
+
+Rod and cone photoreceptor cells produce ROS in response to stress in a live 
+retinal explant system.
+
+Bhatt L(1), Groeger G, McDermott K, Cotter TG.
+
+Author information:
+(1)Cell Development and Disease Laboratory, Biochemistry Department, Biosciences 
+Institute, University College Cork, Cork, Ireland.
+
+PURPOSE: The production of reactive oxygen species (ROS) can lead to oxidative 
+stress, which is a strong contributory factor to many ocular diseases. In this 
+study, the removal of trophic factors is used as a model system to investigate 
+the effects of stress in the retina. The aims were to determine if both rod and 
+cone photoreceptor cells produce ROS when they are deprived of trophic factor 
+support and to demonstrate if the nicotinamide adenine dinucleotide phosphate 
+(NADPH) oxidase (Nox) enzymes are responsible for this ROS production.
+METHODS: Retinas were explanted from mice aged between postnatal days 8-10 and 
+cultured overnight. The following morning, confocal microscopy combined with 
+various fluorescent probes was used to detect the production of ROS. Each time 
+peanut agglutinin (PNA), a cone photoreceptor marker, was used to facilitate 
+orientation of the retina. Dihydroethidium and dihydrorhodamine 123 (DHR123) 
+were used to determine which cells produce ROS. Subsequently, western blots of 
+retinal serial sections were used to detect the presence of Noxs in the 
+different retinal layers. The Nox inhibitor apocynin was then tested to 
+determine if it altered the production of ROS within these cells.
+RESULTS: Live retinal explants, viewed at high magnifications using confocal 
+microscopy, displayed an increase in the fluorescent products of dihydroethidium 
+and DHR123 upon serum removal when compared to controls. DHR123 fluorescence, 
+once oxidized, localized to mitochondria and was found in the same focal plane 
+as the PNA staining. This showed that cones and rods produced ROS when stressed. 
+Retinal serial sectioning established that the photoreceptor layer expressed 
+Nox4, dual oxidase (Duox) 1, and Duox2 at varying levels. Finally, the Nox 
+inhibitor apocynin decreased the burst stimulated by the stress of serum 
+removal.
+CONCLUSIONS: Confocal microscopy and PNA staining allowed differentiation of 
+cell types within the outermost layers of the retina, demonstrating that both 
+rods and cones generated ROS in response to the stress of serum deprivation. 
+Nox4 was the most abundantly expressed Nox in the photoreceptor layer, but Duox1 
+and Duox2 were also present at detectable levels, and as apocynin reduced the 
+levels of ROS produced, this implied that these proteins may play some role in 
+this production.
+
+PMCID: PMC2825485
+PMID: 20177432 [Indexed for MEDLINE]
+
+
+60. Am J Pathol. 2009 Oct;175(4):1699-708. doi: 10.2353/ajpath.2009.090460. Epub 
+2009 Sep 3.
+
+Innate immune cells induce hemorrhage in tumors during thrombocytopenia.
+
+Ho-Tin-Noé B(1), Carbo C, Demers M, Cifuni SM, Goerge T, Wagner DD.
+
+Author information:
+(1)Immune Disease Institute, Boston, MA 02115, USA.
+
+Platelets are crucial regulators of tumor vascular homeostasis and continuously 
+prevent tumor hemorrhage through secretion of their granules. However, the 
+reason for tumor bleeding in the absence of platelets remains unknown. Tumors 
+are associated with inflammation, a cause of hemorrhage in thrombocytopenia. 
+Here, we investigated the role of the inflamed tumor microenvironment in the 
+induction of tumor vessel injury in thrombocytopenic mice. Using s.c. injections 
+of vascular endothelial growth factor or tumor necrosis factor-alpha combined 
+with depletion of neutrophils, we demonstrate that enhancing the opening of 
+endothelial cell junctions was not sufficient to cause bleeding in the absence 
+of platelets; instead, induction of tissue hemorrhage in thrombocytopenia 
+required recruitment of leukocytes. Immunohistology revealed that 
+thrombocytopenia-induced tumor hemorrhage occurs at sites of macrophage and 
+neutrophil accumulation. Mice deficient in beta2 or beta3 integrins, which have 
+decreased neutrophil and/or macrophage infiltration in their tumor stroma, were 
+protected from thrombocytopenia-induced tumor hemorrhage, indicating that, in 
+the absence of platelets, stroma-infiltrating leukocytes induced tumor vessel 
+injury. This injury was independent of reactive oxygen species generation and of 
+complement activation, as suggested by the persistence of tumor hemorrhage in 
+C3- and nicotinamide adenine dinucleotide phosphate oxidase-deficient 
+thrombocytopenic mice. Our results show that platelets counteract 
+tumor-associated inflammation and that the absence of this platelet function 
+elicits vascular injuries by tumor-infiltrating innate immune cells.
+
+DOI: 10.2353/ajpath.2009.090460
+PMCID: PMC2751565
+PMID: 19729481 [Indexed for MEDLINE]
+
+
+61. J Cell Sci. 2009 Apr 15;122(Pt 8):1238-47. doi: 10.1242/jcs.044123.
+
+Heterodimerization controls localization of Duox-DuoxA NADPH oxidases in airway 
+cells.
+
+Luxen S(1), Noack D, Frausto M, Davanture S, Torbett BE, Knaus UG.
+
+Author information:
+(1)Department of Immunology and Microbial Science, The Scripps Research 
+Institute, La Jolla, CA 92037, USA.
+
+Duox NADPH oxidases generate hydrogen peroxide at the air-liquid interface of 
+the respiratory tract and at apical membranes of thyroid follicular cells. 
+Inactivating mutations of Duox2 have been linked to congenital hypothyroidism, 
+and epigenetic silencing of Duox is frequently observed in lung cancer. To study 
+Duox regulation by maturation factors in detail, its association with these 
+factors, differential use of subunits and localization was analyzed in a lung 
+cancer cell line and undifferentiated or polarized lung epithelial cells. We 
+show here that Duox proteins form functional heterodimers with their respective 
+DuoxA subunits, in close analogy to the phagocyte NADPH oxidase. 
+Characterization of novel DuoxA1 isoforms and mispaired Duox-DuoxA complexes 
+revealed that heterodimerization is a prerequisite for reactive oxygen species 
+production. Functional Duox1 and Duox2 localize to the leading edge of migrating 
+cells, augmenting motility and wound healing. DuoxA subunits are responsible for 
+targeting functional oxidases to distinct cellular compartments in lung 
+epithelial cells, including Duox2 expression in ciliated cells in an ex vivo 
+differentiated lung epithelium. As these locations probably define signaling 
+specificity of Duox1 versus Duox2, these findings will facilitate monitoring 
+Duox isoform expression in lung disease, a first step for early screening 
+procedures and rational drug development.
+
+DOI: 10.1242/jcs.044123
+PMCID: PMC2714442
+PMID: 19339556 [Indexed for MEDLINE]
+
+
+62. J Am Coll Cardiol. 2008 Sep 2;52(10):843-50. doi: 10.1016/j.jacc.2008.05.043.
+
+Dysregulation of antioxidant mechanisms contributes to increased oxidative 
+stress in calcific aortic valvular stenosis in humans.
+
+Miller JD(1), Chu Y, Brooks RM, Richenbacher WE, Peña-Silva R, Heistad DD.
+
+Author information:
+(1)Department of Internal Medicine, University of Iowa Carver College of 
+Medicine, Iowa City, Iowa 52242, USA. jordanmiller@uiowa.edu
+
+Comment in
+    J Am Coll Cardiol. 2008 Sep 2;52(10):851-4. doi: 10.1016/j.jacc.2008.05.044.
+
+OBJECTIVES: The aim of this study was to determine whether oxidative stress is 
+increased in calcified, stenotic aortic valves and to examine mechanisms that 
+might contribute to increased oxidative stress.
+BACKGROUND: Oxidative stress is increased in atherosclerotic lesions and might 
+play an important role in plaque progression and calcification. The role of 
+oxidative stress in valve disease is not clear.
+METHODS: Superoxide (dihydroethidium fluorescence and lucigenin-enhanced 
+chemiluminescence), hydrogen peroxide H2O2 (dichlorofluorescein fluorescence), 
+and expression and activity of pro- and anti-oxidant enzymes were measured in 
+normal valves from hearts not suitable for transplantation and stenotic aortic 
+valves that were removed during surgical replacement of the valve.
+RESULTS: In normal valves, superoxide levels were relatively low and distributed 
+homogeneously throughout the valve. In stenotic valves, superoxide levels were 
+increased 2-fold near the calcified regions of the valve (p < 0.05); 
+noncalcified regions did not differ significantly from normal valves. Hydrogen 
+peroxide levels were also markedly elevated in calcified regions of stenotic 
+valves. Nicotinamide adenine dinucleotide phosphate oxidase activity was not 
+increased in calcified regions of stenotic valves. Superoxide levels in stenotic 
+valves were significantly reduced by inhibition of nitric oxide synthases (NOS), 
+which suggests uncoupling of the enzyme. Antioxidant mechanisms were reduced in 
+calcified regions of the aortic valve, because total superoxide dismutase (SOD) 
+activity and expression of all 3 SOD isoforms was significantly decreased. 
+Catalase expression also was reduced in pericalcific regions.
+CONCLUSIONS: This study provides the first evidence that oxidative stress is 
+increased in calcified regions of stenotic aortic valves from humans. Increased 
+oxidative stress is due at least in part to reduction in expression and activity 
+of antioxidant enzymes and perhaps to uncoupled NOS activity. Thus, mechanisms 
+of oxidative stress differ greatly between stenotic aortic valves and 
+atherosclerotic arteries.
+
+DOI: 10.1016/j.jacc.2008.05.043
+PMCID: PMC2748760
+PMID: 18755348 [Indexed for MEDLINE]
+
+
+63. Immunology. 2008 Jul;124(3):357-67. doi: 10.1111/j.1365-2567.2007.02782.x. Epub 
+2008 Jan 8.
+
+Microbicidal protein psoriasin is a multifunctional modulator of neutrophil 
+activation.
+
+Zheng Y(1), Niyonsaba F, Ushio H, Ikeda S, Nagaoka I, Okumura K, Ogawa H.
+
+Author information:
+(1)Department of Dermatology, Atopy Allergy Research Centre, Juntendo University 
+School of Medicine, Tokyo, Japan.
+
+As effector cells in host defence, neutrophils actively destroy invading 
+microorganisms via a potent antimicrobial arsenal composed of oxidants and 
+antimicrobial peptides. Psoriasin, an Escherichia coli-cidal antimicrobial 
+protein, has been found to be overexpressed in psoriasis, a skin disease 
+characterized by infiltration of neutrophils. In addition to its microbicidal 
+activities and chemotaxis of neutrophils reported previously, we hypothesized 
+that psoriasin might regulate other neutrophil functions such as cytokine and 
+chemokine production, reactive oxygen species generation, and release of 
+antimicrobial peptides. In the current study, we demonstrate that psoriasin 
+activates neutrophils to produce a range of cytokines and chemokines including 
+interleukin-6 (IL-6), IL-8/CXCL8, tumour necrosis factor-alpha, macrophage 
+inflammatory protein-1alpha (MIP-1alpha)/CCL3, MIP-1beta/CCL4 and 
+MIP-3alpha/CCL20. Furthermore, psoriasin induces phosphorylation of 
+mitogen-activated protein kinase p38 and extracellular signal-regulated kinase 
+(ERK), but not c-Jun N-terminal kinase (JNK), both of which are required for the 
+production of cytokines and chemokines as evidenced by the inhibitory effects of 
+p38 and ERK inhibitors on psoriasin-mediated neutrophil activation. Moreover, 
+psoriasin stimulates the generation of reactive oxygen species from neutrophils, 
+most likely via nicotinamide adenine dinucleotide phosphate oxidase activation. 
+Finally, we demonstrate that psoriasin enhances messenger RNA expression of 
+alpha-defensins, termed human neutrophil peptides (HNP) 1 to 3, and induces 
+their extracellular release. Besides its antimicrobial properties, therefore, 
+psoriasin may contribute to innate immunity through enhancing neutrophil host 
+defence functions at sites of inflammation or infection.
+
+DOI: 10.1111/j.1365-2567.2007.02782.x
+PMCID: PMC2440830
+PMID: 18194266 [Indexed for MEDLINE]
+
+
+64. Am J Hypertens. 2008 Feb;21(2):206-12. doi: 10.1038/ajh.2007.50. Epub 2008 Jan 
+10.
+
+Blockade of AT1 receptor improves adipocyte differentiation in atherosclerotic 
+and diabetic models.
+
+Tomono Y(1), Iwai M, Inaba S, Mogi M, Horiuchi M.
+
+Author information:
+(1)Department of Molecular Cardiovascular Biology and Pharmacology, Ehime 
+University Graduate School of Medicine, Shitsukawa, Tohon, Ehime, Japan.
+
+BACKGROUND: The roles of the angiotensin (Ang) II type 1 (AT(1)) receptor in the 
+changes in white adipose tissue were explored in an animal model of 
+atherosclerosis using apolipoprotein E-deficient (ApoEKO) mice.
+METHODS: Apolipoprotein E-deficient (ApoEKO) mice and KK-A(y) mice were used. 
+Expression of markers for adipocyte differentiation and inflammation was 
+determined by real-time reverse-transcription polymerase chain reaction.
+RESULTS: Adipose tissue weight and adipocyte size in epididymal white adipose 
+tissue were increased in ApoEKO mice and KK-A(y) mice. In the adipose tissue of 
+these models, expression of adiponectin and peroxisome proliferator-activated 
+receptor-gamma (PPARgamma), which induce adipocyte differentiation, and 
+expression of transcription factors of adipocyte differentiation, such as 
+CCAAT-enhancer-binding protein-alpha (C/EBPalpha) and aP2, were decreased. 
+Expression of inflammatory markers and nicotinamide adenine dinucleotide 
+phosphate oxidase subunits was also increased. Deletion of AT(1)a receptor in 
+ApoEKO mice and administration of an AT(1) receptor blocker, valsartan, to 
+KK-A(y) mice reduced epididymal adipose tissue weight and adipocyte size 
+significantly. Blockade of the AT(1) receptor also reduced the expression of 
+inflammatory chemokines and oxidative stress markers. Moreover, AT(1)a receptor 
+deletion in ApoEKO mice and AT(1) receptor blockade in KK-A(y) mice prevented 
+the decrease in expression of adiponectin, PPARgamma, C/EBPalpha, and aP2. 
+Valsartan also increased glucose uptake induced by insulin in adipose tissue of 
+KK-A(y) mice.
+CONCLUSIONS: These results suggest that enlargement and weakened differentiation 
+of adipocytes are observed in atherosclerosis and diabetes, and that AT(1) 
+receptor blockade prevented adipocyte enlargement and promoted adipocyte 
+differentiation in these models.
+
+DOI: 10.1038/ajh.2007.50
+PMID: 18188158 [Indexed for MEDLINE]
+
+
+65. Antioxid Redox Signal. 2006 Sep-Oct;8(9-10):1573-82. doi: 
+10.1089/ars.2006.8.1573.
+
+NADPH oxidases in the gastrointestinal tract: a potential role of Nox1 in innate 
+immune response and carcinogenesis.
+
+Rokutan K(1), Kawahara T, Kuwano Y, Tominaga K, Sekiyama A, Teshima-Kondo S.
+
+Author information:
+(1)Department of Stress Science, Institute of Health Biosciences, The University 
+of Tokushima Graduate School, Tokushima, Japan. 
+rokutan@basic.med.tokushima-u.ac.jp
+
+The gastrointestinal epithelium functions as physical and innate immune barriers 
+against commensal or pathogenic microbes. NADPH oxidase 1 (Nox1) and dual 
+oxidase 2 (Duox2), highly expressed in the colon, are suggested to play a 
+potential role in host defense. Guinea-pig gastric pit cells and human colonic 
+epithelial cells (T84 cells) express Nox1. With regard to activation of Nox1, 
+the gastric epithelial cells are primed with Helicobacter pylori 
+lipopolysaccharide, whereas T84 cells preferentially use the Toll-like receptor 
+(TLR) 5, rather than TLR4, against Salmonella enteritidis infection. Thus, 
+gastric and colonic epithelial cells may use different TLR members to discern 
+pathogenicities among bacteria, depending on their environments and to activate 
+Nox1 appropriately for host defense. Nox1-derived reactive oxygen species (ROS) 
+have been implicated in the pathogenesis of inflammation-associated tumor 
+development. The human stomach does not express Nox1. Helicobacter pylori 
+infection alone does not induce it, whereas Nox1 is specifically expressed in 
+gastric adenocarcinomas. In the human colon, Nox1 is differentiation-dependently 
+expressed, and its expression is upregulated in adenomas and well-differentiated 
+adenocarcinomas. Although Nox1 expression may not be directly linked to 
+mitogenic activity, Nox1-derived ROS may exert a cancer-promoting effect by 
+increasing resistance to programmed cell death of tumor cells.
+
+DOI: 10.1089/ars.2006.8.1573
+PMID: 16987012 [Indexed for MEDLINE]
+
+
+66. Int J Biochem Cell Biol. 2006;38(11):1926-38. doi: 10.1016/j.biocel.2006.05.014. 
+Epub 2006 Jun 6.
+
+Characterization of monocyte differentiation-inducing (MDI) factors derived from 
+human fetal membrane chorion cells undergoing apoptosis after influenza virus 
+infection.
+
+Uchide N(1), Tadera C, Sarai H, Ohyama K, Bessho T, Toyoda H.
+
+Author information:
+(1)Department of Clinical Molecular Genetics, School of Pharmacy, Tokyo 
+University of Pharmacy and Life Science, 1432-1 Horinouchi, Hachioji, Tokyo 
+192-0392, Japan. uchide@ps.toyaku.ac.jp
+
+Influenza virus infection during pregnancy has been implicated as one of cause 
+of premature delivery, abortion and stillbirth. We have reported that cultured 
+human fetal membrane chorion cells undergoing apoptosis by influenza virus 
+infection secrete unidentified heat-stable monocyte differentiation-inducing 
+(MDI) factors. In this study, cellular, biological and immunochemical 
+characteristics of MDI factors were investigated using human monocytic leukemia 
+THP-1 cells by nitroblue tetrazolium reduction and cell adhesion assays. The 
+treatment of THP-1 cells with culture supernatants from the influenza 
+virus-infected chorion cells induced the nitroblue tetrazolium reduction 
+ability, which was inhibited by the addition of superoxide dismutase and 
+diphenyleneiodonium chloride, an inhibitor for reduced nicotinamide adenine 
+dinucleotide phosphate oxidase. The phenomenon was also observed in human 
+peripheral blood monocytes and histiocytic leukemia U937 cells, but not in 
+promyelocytic leukemia HL-60 cells. The induction of nitroblue tetrazolium 
+reduction and adhesion abilities in THP-1 cells was closely correlated with the 
+concentrations of interleukin-6 protein in the culture supernatants. These 
+abilities were inhibited to approximately 60% by the addition of antibodies 
+against interleukin-6, or alpha-chain (gp80) or beta-chain (gp130) of IL-6 
+receptor. The induction of nitroblue tetrazolium reduction was increased by the 
+addition of supernatants from amniochorion tissue cultures after influenza virus 
+infection. These results indicate that chorion cell-derived interleukin-6 is 
+partly responsible for monocyte differentiation to macrophages capable of 
+generating superoxide anion. It is possible that these pathways represent part 
+of the mechanism for birth complications associated with intrauterine influenza 
+infection in pregnancy.
+
+DOI: 10.1016/j.biocel.2006.05.014
+PMID: 16824780 [Indexed for MEDLINE]
+
+
+67. Immunol Cell Biol. 2003 Dec;81(6):472-9. doi: 10.1046/j.1440-1711.2003.01190.x.
+
+The inducibility of TNF-alpha production is different in the granulocytic and 
+monocytic differentiated forms of wild type and CGD-mutant PLB-985 cells.
+
+Selmeczy Z(1), Szelényi J, Német K, Vizi ES.
+
+Author information:
+(1)Department of Pharmacology, Institute of Experimental Medicine, National 
+Medical Centre, Budapest, Hungary.
+
+Chronic granulomatous disease is an inherited disorder associated with a defect 
+in phagocytic cell oxidative metabolism resulting in ineffective microbicidal 
+activity. Consequently, patients with chronic granulomatous disease suffer from 
+recurrent infections. Published data show that besides the failure to produce 
+superoxide and its derivatives, other functional problems can also be found in 
+chronic granulomatous disease-mutant cells. Since in innate immune responses 
+other mediators, such as cytokines, also play an important role, we hypothesized 
+that there may be a disturbance in cytokine production by chronic granulomatous 
+disease-mutant cells as well. To prove this hypothesis, the production of tumour 
+necrosis factor-alpha, an important proinflammatory cytokine, was determined by 
+enzyme-linked immunosorbent assay in wild-type and chronic granulomatous 
+disease-mutant myelomonoblastic PLB-985 cells in their immature, granulocytic 
+and monocytic/macrophage differentiated forms. Tumour necrosis factor-alpha 
+production was induced with N-formyl-L-methionyl-L-leucyl-L-phenylalanine (100 
+nmol/L), lipopolysaccharide (10 micro g/mL), opsonized zymosan (100 micro g/mL) 
+or phorbol 12-myristate 13-acetate (100 nmol/L) for 24 h. We could demonstrate 
+that: (i) there were marked differences in tumour necrosis factor-alpha 
+production only in the differentiated forms of both wild-type and chronic 
+granulomatous disease-mutant cells, while there were no differences in the case 
+of their immature counterparts; (ii) only chronic granulomatous disease-mutant 
+cells retained sensitivity to phorbol 12-myristate 13-acetate both in their 
+granulocytic and monocytic forms, although phorbol 12-myristate 13-acetate 
+responsiveness was a characteristic of both types of immature cells; (iii) the 
+granulocytic form of wild-type cells produced tumour necrosis factor-alpha after 
+opsonized zymosan stimulation, but such a response was not observed in cells 
+originating from the chronic granulomatous disease-mutant cell line; (iv) with 
+the monocytic forms, significantly higher tumour necrosis factor-alpha 
+production could be induced by lipopolysaccharide in the wild-type cells than in 
+the chronic granulomatous disease-mutant cells, although there was no difference 
+in their lipopolysaccharide receptor CD14 expression. In summary, these data 
+show an altered inducibility of tumour necrosis factor-alpha production by 
+chronic granulomatous disease-mutant cells. Our observations suggest a further 
+defect in differentiated chronic granulomatous disease-mutant cells in addition 
+to the known defect in reduced nicotinamide adenine dinucleotide phosphate 
+oxidase, which may contribute to the development of susceptibility to infections 
+in people with chronic granulomatous disease.
+
+DOI: 10.1046/j.1440-1711.2003.01190.x
+PMID: 14636244 [Indexed for MEDLINE]
+
+
+68. Cell Mol Life Sci. 2000 Dec;57(13-14):1950-63. doi: 10.1007/pl00000675.
+
+The role of ras and other low molecular weight guanine nucleotide (GTP)-binding 
+proteins during hematopoietic cell differentiation.
+
+Scheele JS(1), Ripple D, Lübbert M.
+
+Author information:
+(1)Department of Medicine, University of Freiburg Medical Center, Germany. 
+scheele@mm11.ukl.uni-freiburg.de
+
+Recent progress in the understanding of signal transduction and gene regulation 
+in hematopoietic cells has shown that many intracellular signalling pathways are 
+modulated by low molecular weight guanine nucleotide (GTP)-binding proteins 
+(LMWGs). LMWGs act as molecular switches for regulating a wide range of 
+signal-transduction pathways in virtually all cells. In hematopoietic cells, 
+LMWGs have been shown to participate in essential functions such as growth 
+control, differentiation, cytoskeletal organization, cytokine and 
+chemoattractant-induced signalling events, reduced nicotinamide adenine 
+dinucleotide phosphate oxidase activity, intracellular vesicle transport and 
+secretion. In human leukemias, myelodysplastic syndromes and myeloproliferative 
+disorders, Ras activation occurs by point mutations, overexpression or by 
+alteration of NF-1 Ras-GTPase activating protein (GAP). These are postinitiation 
+events in leukemia but may modulate growth-factor-dependent and independent 
+leukemic growth. Two animal models of mutated N-ras expression resulting in 
+myelodysplastic and myeloproliferative features are discussed. The role of Ras 
+in organ development is discussed in the context of transgenic knockout mice. 
+More LMWG functions will certainly be identified as we gain a better 
+understanding of regulatory pathways modulating myeloid signal transduction. 
+This review will summarize our current understanding of this rapidly advancing 
+area of research.
+
+DOI: 10.1007/pl00000675
+PMCID: PMC11146877
+PMID: 11215520 [Indexed for MEDLINE]
+
+
+69. Blood. 1998 Sep 1;92(5):1576-85.
+
+Neutrophils deficient in PU.1 do not terminally differentiate or become 
+functionally competent.
+
+Anderson KL(1), Smith KA, Pio F, Torbett BE, Maki RA.
+
+Author information:
+(1)The Burnham Institute and the Department of Immunology, The Scripps Research 
+Institute, La Jolla, CA, USA.
+
+PU.1 is an ets family transcription factor that is expressed specifically in 
+hematopoietic lineages. Through gene disruption studies in mice we have 
+previously shown that the expression of PU.1 is not essential for early myeloid 
+lineage or neutrophil commitment, but is essential for monocyte/macrophage 
+development. We have also shown that PU.1-null (deficient) neutrophils have 
+neutrophil morphology and express neutrophil-specific markers such as Gr-1 and 
+chloroacetate esterase both in vivo and in vitro. We now demonstrate that 
+although PU.1-null mice develop neutrophils, these cells fail to terminally 
+differentiate as shown by the absence of messages for neutrophil secondary 
+granule components and the absence or deficiency of cellular responses to 
+stimuli that normally invoke neutrophil function. Specifically, PU.1-deficient 
+neutrophils fail to respond to selected chemokines, do not generate superoxide 
+ions, and are ineffective at bacterial uptake and killing. The failure to 
+produce superoxide could, in part, be explained by the absence of the gp91 
+subunit of nicotinamide adenine dinucleotide phosphate oxidase, as shown by our 
+inability to detect messages for the gp91(phox) gene. Incomplete maturation of 
+PU.1-deficient neutrophils is cell autonomous and persists in cultured 
+PU.1-deficient cells. Our results indicate that PU.1 is not necessary for 
+neutrophil lineage commitment but is essential for normal development, 
+maturation, and function of neutrophils.
+
+Copyright 1998 by The American Society of Hematology.
+
+PMID: 9716585 [Indexed for MEDLINE]

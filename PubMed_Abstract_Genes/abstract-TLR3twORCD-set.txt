@@ -1,0 +1,748 @@
+1. Vaccine. 2023 Jul 12;41(31):4508-4524. doi: 10.1016/j.vaccine.2023.05.073. Epub 
+2023 Jun 12.
+
+Evaluation of protection and immunity induced by infectious bronchitis vaccines 
+administered by oculonasal, spray or gel routes in commercial broiler chicks.
+
+Al-Rasheed M(1), Ball C(2), Parthiban S(3), Ganapathy K(4).
+
+Author information:
+(1)Institute of Infection and Global Health, University of Liverpool, Cheshire, 
+UK; College of Veterinary Medicine, King Faisal University, Al-Ahsa, Saudi 
+Arabia; Avian Research Center, King Faisal University, Al-Ahsa, Saudi Arabia.
+(2)Institute of Infection and Global Health, University of Liverpool, Cheshire, 
+UK.
+(3)Institute of Infection and Global Health, University of Liverpool, Cheshire, 
+UK; Department of Animal Biotechnology, Madras Veterinary College, Tamil Nadu 
+Veterinary and Animal Sciences University, Chennai, India.
+(4)Institute of Infection and Global Health, University of Liverpool, Cheshire, 
+UK. Electronic address: gana@liverpool.ac.uk.
+
+Broiler chicks' responses following combined IBV live attenuated Massachusetts 
+and 793B strains through gel, spray or oculonasal (ON) vaccination routes were 
+cross-compared. Subsequently, the responses following IBV M41 challenge of the 
+unvaccinated and vaccinated groups were also assessed. Post-vaccination humoral 
+and mucosal immune responses, alongside viral load kinetics in swabs and 
+tissues, were determined using commercial ELISA assays, monoclonal 
+antibody-based IgG and IgA ELISA assays and qRT-PCR respectively. After 
+challenged with IBV-M41 strain, humoral and mucosal immune responses, ciliary 
+protection, viral load kinetics, and immune gene mRNA transcriptions between the 
+three vaccination methods were examined and compared. Findings showed that 
+post-vaccinal humoral and mucosal immune responses were similar in all three 
+vaccination methods. Post vaccinal viral load kinetics is influenced by method 
+of administration. The viral load peaked in the ON group within the tissues and 
+the OP/CL swabs in the first and third weeks respectively. Following M41 
+challenge, ciliary protection and mucosal immune responses were not influenced 
+by vaccination methods as all three methods offered equal ciliary protection. 
+Immune gene mRNA transcriptions varied by vaccination methods. Significant 
+up-regulation of MDA5, TLR3, IL-6, IFN-α and IFN-β genes were recorded for ON 
+method. For both spray and gel methods, significant up-regulation of only MDA5 
+and IL-6 genes were noted. The spray and gel-based vaccination methods gave 
+equivalent levels of ciliary protection and mucosal immunity to M41 virulent 
+challenge comparable to those provided by the ON vaccination. Analysis of viral 
+load and patterns of immune gene transcription of the vaccinated-challenged 
+groups revealed high similarity between turbinate and choanal cleft tissues 
+compared to HG and trachea. With regards to immune gene mRNA transcription, for 
+all the vaccinated-challenged groups, similar results were found except for 
+IFN-α, IFN-β and TLR3, which were up-regulated only in ON compared to gel and 
+spray vaccination methods.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2023.05.073
+PMID: 37316407 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. J Immunol. 2022 May 15;208(10):2390-2402. doi: 10.4049/jimmunol.2101085. Epub 
+2022 Apr 22.
+
+Extracellular Nucleotides and Histamine Suppress TLR3- and RIG-I-Mediated 
+Release of Antiviral IFNs from Human Airway Epithelial Cells.
+
+Kountz TS(1), Biyasheva A(2), Schleimer RP(2), Prakriya M(3)(2).
+
+Author information:
+(1)Department of Pharmacology, Northwestern University Feinberg School of 
+Medicine, Chicago, IL; and.
+(2)Division of Allergy and Immunology, Department of Medicine, Northwestern 
+University Feinberg School of Medicine, Chicago, IL.
+(3)Department of Pharmacology, Northwestern University Feinberg School of 
+Medicine, Chicago, IL; and m-prakriya@northwestern.edu.
+
+Respiratory viruses stimulate the release of antiviral IFNs from the airway 
+epithelium. Previous studies have shown that asthmatic patients show diminished 
+release of type I and type III IFNs from bronchial epithelia. However, the 
+mechanism of this suppression is not understood. In this study, we report that 
+extracellular nucleotides and histamine, which are elevated in asthmatic 
+airways, strongly inhibit release of type I and type III IFNs from human 
+bronchial airway epithelial cells (AECs). Specifically, ATP, UTP, and histamine 
+all inhibited the release of type I and type III IFNs from AECs induced by 
+activation of TLR3, retinoic acid-inducible gene I (RIG-I), or cyclic GMP-AMP 
+synthase-STING. This inhibition was at least partly mediated by Gq signaling 
+through purinergic P2Y2 and H1 receptors, but it did not involve store-operated 
+calcium entry. Pharmacological blockade of protein kinase C partially reversed 
+inhibition of IFN production. Conversely, direct activation of protein kinase C 
+with phorbol esters strongly inhibited TLR3- and RIG-I-mediated IFN production. 
+Inhibition of type I and type III IFNs by ATP, UTP, histamine, and the 
+proteinase-activated receptor 2 (PAR2) receptor agonist SLIGKV also occurred in 
+differentiated AECs grown at an air-liquid interface, indicating that the 
+suppression is conserved following mucociliary differentiation. Importantly, 
+histamine and, more strikingly, ATP inhibited type I IFN release from human 
+airway cells infected with live influenza A virus or rhinovirus 1B. These 
+results reveal an important role for extracellular nucleotides and histamine in 
+attenuating the induction of type I and III IFNs from AECs and help explain the 
+molecular basis of the suppression of IFN responses in asthmatic patients.
+
+Copyright © 2022 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.2101085
+PMCID: PMC9444327
+PMID: 35459743 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests N/A.
+
+
+3. Biomol Ther (Seoul). 2022 Mar 1;30(2):170-178. doi: 10.4062/biomolther.2022.009.
+
+Primary Cilium by Polyinosinic:Polycytidylic Acid Regulates the Regenerative 
+Migration of Beas-2B Bronchial Epithelial Cells.
+
+Gweon B(1), Jang TK(2), Thuy PX(2), Moon EY(2).
+
+Author information:
+(1)Department of Mechanical Engineering, Sejong University, Seoul 05006, 
+Republic of Korea.
+(2)Department of Integrated Bioscience and Biotechnology, Sejong University, 
+Seoul 05006, Republic of Korea.
+
+The airway epithelium is equipped with the ability to resist respiratory disease 
+development and airway damage, including the migration of airway epithelial 
+cells and the activation of TLR3, which recognizes double-stranded (ds) RNA. 
+Primary cilia on airway epithelial cells are involved in the cell cycle and cell 
+differentiation and repair. In this study, we used Beas-2B human bronchial 
+epithelial cells to investigate the effects of the TLR3 agonist 
+polyinosinic:polycytidylic acid [Poly(I:C)] on airway cell migration and primary 
+cilia (PC) formation. PC formation increased in cells incubated under serum 
+deprivation. Migration was faster in Beas-2B cells pretreated with Poly(I:C) 
+than in control cells, as judged by a wound healing assay, single-cell path 
+tracking, and a Transwell migration assay. No changes in cell migration were 
+observed when the cells were incubated in conditioned medium from 
+Poly(I:C)-treated cells. PC formation was enhanced by Poly(I:C) treatment, but 
+was reduced when the cells were exposed to the ciliogenesis inhibitor 
+ciliobrevin A (CilioA). The inhibition of Beas-2B cell migration by CilioA was 
+also assessed and a slight decrease in ciliogenesis was detected in SARS-CoV-2 
+spike protein (SP)-treated Beas-2B cells overexpressing ACE2 compared to control 
+cells. Cell migration was decreased by SP but restored by Poly(I:C) treatment. 
+Taken together, our results demonstrate that impaired migration by SP-treated 
+cells can be attenuated by Poly(I:C) treatment, thus increasing airway cell 
+migration through the regulation of ciliogenesis.
+
+DOI: 10.4062/biomolther.2022.009
+PMCID: PMC8902458
+PMID: 35221299
+
+Conflict of interest statement: CONFLICT OF INTEREST The authors declare no 
+competing financial and non- financial interests.
+
+
+4. mSphere. 2021 Dec 22;6(6):e0082021. doi: 10.1128/mSphere.00820-21. Epub 2021 Dec 
+22.
+
+The Betacoronavirus PHEV Replicates and Disrupts the Respiratory Epithelia and 
+Upregulates Key Pattern Recognition Receptor Genes and Downstream Mediators, 
+Including IL-8 and IFN-λ.
+
+Nelli RK(1), Mora-Díaz JC(1), Giménez-Lirola LG(1).
+
+Author information:
+(1)Veterinary Diagnostic Laboratory, Department of Veterinary Diagnostic & 
+Production Animal Medicine, College of Veterinary Medicine, Iowa State 
+Universitygrid.34421.30, Ames, Iowa, USA.
+
+The upper respiratory tract is the primary site of infection by porcine 
+hemagglutinating encephalomyelitis virus (PHEV). In this study, primary porcine 
+respiratory epithelial cells (PRECs) were cultured in an air-liquid interface 
+(ALI) to differentiate into a pseudostratified columnar epithelium, 
+proliferative basal cells, M cells, ciliated cells, and mucus-secreting goblet 
+cells. ALI-PRECs recreates a cell culture environment morphologically and 
+functionally more representative of the epithelial lining of the swine trachea 
+than traditional culture systems. PHEV replicated actively in this environment, 
+inducing cytopathic changes and progressive disruption of the mucociliary 
+apparatus. The innate immunity against PHEV was comparatively evaluated in 
+ALI-PREC cultures and tracheal tissue sections derived from the same 
+cesarean-derived, colostrum-deprived (CDCD) neonatal donor pigs. Increased 
+expression levels of TLR3 and/or TLR7, RIG1, and MyD88 genes were detected in 
+response to infection, resulting in the transcriptional upregulation of IFN-λ1 
+in both ALI-PREC cultures and tracheal epithelia. IFN-λ1 triggered the 
+upregulation of the transcription factor STAT1, which in turn induced the 
+expression of the antiviral IFN-stimulated genes OAS1 and Mx1. No significant 
+modulation of the major proinflammatory cytokines interleukin-1β (IL-1β), IL-6, 
+and tumor necrosis factor alpha (TNF-α) was detected in response to PHEV 
+infection. However, a significant upregulation of different chemokines was 
+observed in ALI-PREC cultures (CCL2, CCL5, CXCL8, and CXCL10) and tracheal 
+epithelium (CXCL8 and CXCL10). This study shed light on the molecular mechanisms 
+driving the innate immune response to PHEV at the airway epithelium, 
+underscoring the important role of respiratory epithelial cells in the 
+maintenance of respiratory homeostasis and on the initiation, resolution, and 
+outcome of the infectious process. IMPORTANCE The neurotropic betacoronavirus 
+porcine hemagglutinating encephalomyelitis virus (PHEV) primarily infects and 
+replicates in the swine upper respiratory tract, causing vomiting and wasting 
+disease and/or encephalomyelitis in suckling pigs. This study investigated the 
+modulation of key early innate immune genes at the respiratory epithelia in 
+vivo, on tracheal tissue sections from experimentally infected pigs, and in 
+vitro, on air-liquid interface porcine respiratory cell cultures. The results 
+from the study underscore the important role of respiratory epithelial cells in 
+maintaining respiratory homeostasis and on the initiation, resolution, and 
+outcome of the PHEV infectious process.
+
+DOI: 10.1128/mSphere.00820-21
+PMCID: PMC8694173
+PMID: 34935443 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+5. Respir Res. 2020 Oct 27;21(1):282. doi: 10.1186/s12931-020-01555-1.
+
+Influenza A virus enhances ciliary activity and mucociliary clearance via TLR3 
+in airway epithelium.
+
+Kamiya Y(1), Fujisawa T(2), Katsumata M(1), Yasui H(1), Suzuki Y(1), Karayama 
+M(1), Hozumi H(1), Furuhashi K(1), Enomoto N(1), Nakamura Y(1), Inui N(1)(3), 
+Setou M(4), Ito M(5), Suzuki T(5), Ikegami K(4)(6), Suda T(1).
+
+Author information:
+(1)Second Division, Department of Internal Medicine, Hamamatsu University School 
+of Medicine, 1-20-1 Handayama, Higashi-ku, Hamamatsu, Shizuoka, 431-3192, Japan.
+(2)Second Division, Department of Internal Medicine, Hamamatsu University School 
+of Medicine, 1-20-1 Handayama, Higashi-ku, Hamamatsu, Shizuoka, 431-3192, Japan. 
+fujisawa@hama-med.ac.jp.
+(3)Department of Clinical Pharmacology and Therapeutics, Hamamatsu University 
+School of Medicine, 1-20-1 Handayama, Higashi-ku, Hamamatsu, 431-3192, Japan.
+(4)Department of Cellular and Molecular Anatomy and International Mass Imaging 
+Center, Hamamatsu University School of Medicine, 1-20-1 Handayama, Higashi-ku, 
+Hamamatsu, 431-3192, Japan.
+(5)Department of Virology and Parasitology, Hamamatsu University School of 
+Medicine, 1-20-1 Handayama, Higashi-ku, Hamamatsu, 431-3192, Japan.
+(6)Department of Anatomy and Developmental Biology, Graduate School of 
+Biomedical and Health Sciences, Hiroshima University, 1-2-3 Kasumi, Minamiku, 
+Hiroshima, 734-8553, Japan.
+
+BACKGROUND: Viral respiratory tract infections, such as influenza A virus (IAV), 
+are common and life-threatening illnesses worldwide. The mechanisms by which 
+viruses are removed from the respiratory tract are indispensable for airway host 
+defense. Mucociliary clearance is an airway defense mechanism that removes 
+pathogens from the respiratory tract. The coordination and modulation of the 
+ciliary beating of airway epithelial cells play key roles in maintaining 
+effective mucociliary clearance. However, the impact of respiratory virus 
+infection on ciliary activity and mucociliary clearance remains unclear.
+METHODS: Tracheal samples were taken from wild-type (WT) and Toll-like receptor 
+3 (TLR3)-knockout (KO) mice. Transient organ culture of murine trachea was 
+performed in the presence or absence of IAV, polyI:C, a synthetic TLR3 ligand, 
+and/or reagents. Subsequently, cilia-driven flow and ciliary motility were 
+analyzed. To evaluate cilia-driven flow, red fluorescent beads were loaded into 
+culture media and movements of the beads onto the tracheal surface were observed 
+using a fluorescence microscope. To evaluate ciliary motility, cilia tips were 
+labeled with Indian ink diluted with culture medium. The motility of ink-labeled 
+cilia tips was recorded by high-speed cameras.
+RESULTS: Short-term IAV infection significantly increased cilia-driven flow and 
+ciliary beat frequency (CBF) compared with the control level in WT culture. 
+Whereas IAV infection did not elicit any increases of cilia-driven flow and CBF 
+in TLR3-KO culture, indicating that TLR3 was essential to elicit an increase of 
+cilia-driven flow and CBF in response to IAV infection. TLR3 activation by 
+polyI:C readily induced adenosine triphosphate (ATP) release from the trachea 
+and increases of cilia-driven flow and CBF in WT culture, but not in TLR3-KO 
+culture. Moreover, blockade of purinergic P2 receptors (P2Rs) signaling using 
+P2R antagonist, suramin, suppressed polyI:C-mediated increases of cilia-driven 
+flow and CBF, indicating that TLR3-mediated ciliary activation depended on 
+released extracellular ATP and the autocrine ATP-P2R loop.
+CONCLUSIONS: IAV infection readily increases ciliary activity and cilia-driven 
+flow via TLR3 activation in the airway epithelium, thereby hastening mucociliary 
+clearance and "sweeping" viruses from the airway as an initial host defense 
+response. Mechanically, extracellular ATP release in response to TLR3 activation 
+promotes ciliary activity through autocrine ATP-P2R loop.
+
+DOI: 10.1186/s12931-020-01555-1
+PMCID: PMC7590254
+PMID: 33109186 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interest.
+
+
+6. Respir Res. 2020 Aug 26;21(1):222. doi: 10.1186/s12931-020-01486-x.
+
+Flagellin shifts 3D bronchospheres towards mucus hyperproduction.
+
+Sprott RF(1), Ritzmann F(1), Langer F(2), Yao Y(1), Herr C(1), Kohl Y(3), 
+Tschernig T(4), Bals R(1), Beisswenger C(5).
+
+Author information:
+(1)Department of Internal Medicine V - Pulmonology, Allergology and Respiratory 
+Critical Care Medicine, Saarland University, Kirrberger Str. 100, Building 41M, 
+66421, Homburg/Saar, Germany.
+(2)Department of Thoracic and Cardiovascular Surgery, Saarland University, 
+66421, Homburg, Germany.
+(3)Department Bioprocessing & Bioanalytics, Fraunhofer Institute for Biomedical 
+Engineering, Joseph-von-Fraunhofer-Weg 1, 66280, Sulzbach, Germany.
+(4)Institute of Anatomy and Cell Biology, Saarland University, 66421, Homburg, 
+Germany.
+(5)Department of Internal Medicine V - Pulmonology, Allergology and Respiratory 
+Critical Care Medicine, Saarland University, Kirrberger Str. 100, Building 41M, 
+66421, Homburg/Saar, Germany. Christoph.Beisswenger@uks.eu.
+
+Cystic fibrosis (CF) and chronic obstructive pulmonary disease (COPD) are 
+associated with acute and chronic bacterial infections of the lung. Excessive 
+differentiation of basal cells to mucus-producing goblet cells can result in 
+mucus hyperproduction and loss of mucociliary clearance in the airways of CF and 
+COPD patients. Here, we aimed to investigate the effect of pathogen-associated 
+molecular patterns (PAMPs) on the differentiation of human 3D bronchospheres. 
+Primary human bronchial epithelial cells (HBECs) were differentiated to 
+bronchospheres in the presence of bacterial flagellin and LPS and the synthetic 
+Toll-like receptor (TLR) ligands Pam3CSK4 (TLR-2) and polyinosinic:polycytidylic 
+acid (pIC, TLR-3). Electron and fluorescence microscopy showed that the 
+differentiation of bronchospheres associated with the formation of lumina and 
+appearance of cilia within 30 days after seeding. Incubation with flagellin 
+resulted in a decreased formation of lumina and loss of cilia formation. 
+Incubation with Pam3CSK, pIC, and LPS did not significantly affect formation of 
+lumina and ciliation. Mucus production was strongly increased in response to 
+flagellin and, to a lesser degree, in response to Pam3CSK4. Our results indicate 
+that bacterial factors, such as flagellin, drive the differentiation of the 
+respiratory epithelium towards mucus hyperproduction.
+
+DOI: 10.1186/s12931-020-01486-x
+PMCID: PMC7448433
+PMID: 32847538 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors have a financial 
+relationship with a commercial entity that has an interest in the subject of 
+this manuscript. Robert Bals is the Editor-in-Chief of Respiratory Research 
+starting from Feb 1st 2020.
+
+
+7. Clin Exp Reprod Med. 2018 Mar;45(1):1-9. doi: 10.5653/cerm.2018.45.1.1. Epub 
+2018 Mar 30.
+
+Variable localization of Toll-like receptors in human fallopian tube epithelial 
+cells.
+
+Amjadi F(1)(2), Zandieh Z(1)(2), Salehi E(2)(3), Jafari R(4), Ghasemi N(5), 
+Aflatoonian A(5), Fazeli A(6), Aflatoonian R(2).
+
+Author information:
+(1)Department of Anatomical Sciences, School of Medicine, Iran University of 
+Medical Sciences, Tehran, Iran.
+(2)Department of Endocrinology and Female Infertility, Reproductive Biomedicine 
+Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, 
+Iran.
+(3)Department of Anatomy, Tehran University of Medical Sciences, Tehran, Iran.
+(4)Department of Immunology, Iran University of Medical Sciences, Tehran, Iran.
+(5)Research and Clinical Center for Infertility, Shahid Sadoughi University of 
+Medical Sciences, Yazd, Iran.
+(6)Academic Unit of Reproductive and Developmental Medicine, Department of 
+Oncology and Metabolism, University of Sheffield, Sheffield, UK.
+
+OBJECTIVE: To determine the localization, expression, and function of Toll-like 
+receptors (TLRs) in fallopian tube epithelial cells.
+METHODS: The localization of TLRs in fallopian tube epithelial cells was 
+investigated by immunostaining. Surprisingly, the intensity of staining was not 
+equal in the secretory and ciliated cells. After primary cell culture of 
+fallopian tube epithelial cells, ring cloning was used to isolate colonies of 
+ciliated epithelial cells, distinct from non-ciliated epithelial cells. The 
+expression of TLRs 1-10 was examined by quantitative real-time polymerase chain 
+reaction, and protein localization was confirmed by immunostaining. The function 
+of the TLRs was determined by interleukin (IL)-6 and IL-8 production in response 
+to TLR2, TLR3, TLR5, TLR7, and TLR9 ligands.
+RESULTS: Fallopian tube epithelial cells expressed TLRs 1-10 in a 
+cell-type-specific manner. Exposing fallopian tube epithelial cells to TLR2, 
+TLR3, TLR5, TLR7, and TLR9 agonists induced the secretion of proinflammatory 
+cytokines such as IL-6 and IL-8.
+CONCLUSION: Our findings suggest that TLR expression in the fallopian tubes is 
+cell-type-specific. According to our results, ciliated cells may play more 
+effective role than non-ciliated cells in the innate immune defense of the 
+fallopian tubes, and in interactions with gametes and embryos.
+
+DOI: 10.5653/cerm.2018.45.1.1
+PMCID: PMC5897241
+PMID: 29662819
+
+Conflict of interest statement: Conflict of interest: No potential conflict of 
+interest relevant to this article was reported.
+
+
+8. Virus Res. 2016 Mar 2;214:39-48. doi: 10.1016/j.virusres.2016.01.006. Epub 2016 
+Jan 18.
+
+Use of a feline respiratory epithelial cell culture system grown at the 
+air-liquid interface to characterize the innate immune response following feline 
+herpesvirus 1 infection.
+
+Nelli RK(1), Maes R(2), Kiupel M(3), Hussey GS(4).
+
+Author information:
+(1)Department of Pathobiology and Diagnostic Investigation, College of 
+Veterinary Medicine, 784 Wilson Road, East Lansing, MI 48824, USA. Electronic 
+address: rknelli@msu.edu.
+(2)Diagnostic Center for Population and Animal Health, 4125 Beaumont Road, 
+Building 0215, Lansing, MI 48910, USA. Electronic address: maes@dcpah.msu.edu.
+(3)Diagnostic Center for Population and Animal Health, 4125 Beaumont Road, 
+Building 0215, Lansing, MI 48910, USA. Electronic address: kiupel@dcpah.msu.edu.
+(4)Department of Pathobiology and Diagnostic Investigation, College of 
+Veterinary Medicine, 784 Wilson Road, East Lansing, MI 48824, USA. Electronic 
+address: husseygi@msu.edu.
+
+Infection with feline herpesvirus-1 (FHV-1) accounts for 50% of viral upper 
+respiratory diseases in domestic cats and is a significant cause of ocular 
+diseases. Despite the clinical significance and high prevalence of FHV-1 
+infection, currently available vaccines cannot completely protect cats from 
+infection and lifelong latency. FHV-1 infects via the mucous membranes and 
+replicates in respiratory epithelial cells, but very little is known about the 
+early innate immunity at this site. To address questions about immunity to 
+FHV-1, feline respiratory epithelial cells cultured at air-liquid interface 
+(ALI-FRECs) were established by collecting respiratory tracts from 6 healthy 
+cats after euthanasia. Cells were isolated, cultured and characterized 
+histologically and immunologically before infection with FHV-1. The expression 
+of Toll-like receptors (TLRs), cytokine and chemokine responses were measured by 
+real time PCR. ALI-FRECs morphologically resembled the natural airways of cats 
+with multilayered columnar epithelial cells and cilia. Immunological properties 
+of the natural airways were maintained in ALI-FRECs, as evidenced by the 
+expression of TLRs, cytokines, chemokines, interferons, beta-defensins, and 
+other regulatory genes. Furthermore, ALI-FRECs were able to support infection 
+and replication of FHV-1, as well as modulate transcriptional regulation of 
+various immune genes in response to infection. IL-1β and TNFα were increased in 
+ALI-FRECs by 24hpi, whereas expression levels of IFN-α and TLR9 were not 
+increased until 36hpi. In contrast, TLR3, GM-CSF and TGF-1β expression was 
+down-regulated at 36hpi. The data presented show the development of a system 
+ideal for investigating the molecular pathogenesis and immunity of FHV-1 or 
+other respiratory pathogens.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.virusres.2016.01.006
+PMID: 26795546 [Indexed for MEDLINE]
+
+
+9. Fish Shellfish Immunol. 2015 Oct;46(2):745-52. doi: 10.1016/j.fsi.2015.08.013. 
+Epub 2015 Aug 17.
+
+Expression profiles and interaction suggest TBK1 can be regulated by Nrdp1 in 
+response to immune stimulation in large yellow croaker Larimichthys crocea.
+
+Zhang DL(1), Yu DH(2), Chen J(1), Fan S(2), Wang ZY(3).
+
+Author information:
+(1)Key Laboratory of Healthy Mariculture for The East China Sea, Ministry of 
+Agriculture, Fisheries College, Jimei University, Xiamen 361021, PR China.
+(2)South China Sea Resource Exploitation and Protection Collaborative Innovation 
+Center (SCS-REPIC), South China Sea Fisheries Research Institute, Chinese 
+Academy of Fishery Sciences, Guangzhou, 510300, PR China.
+(3)Key Laboratory of Healthy Mariculture for The East China Sea, Ministry of 
+Agriculture, Fisheries College, Jimei University, Xiamen 361021, PR China. 
+Electronic address: zywang@jmu.edu.cn.
+
+TBK1 has been extensively studied in mammals because of its important roles as a 
+molecular bridge, linking the TLRs (TLR3 and TLR4) and RLRs signals to activate 
+transcriptional factors IRF3 and IRF7 for IFN-I production. However, the 
+information on molecular and functional characteristics of TBK1 in teleosts is 
+limited. In this study, the molecular characterization and immune response of 
+TBK1 in Larimichthys crocea (named as LcTBK1) as well as its interaction with 
+Nrdp1 were investigated. Sequence analysis demonstrated that LcTBK1 included 
+four functional motifs, the N-terminal protein kinase domain and ATP-binding 
+site, middle ULD and C-terminal coiled-coil domain. The tissue expression 
+profiles indicated that LcTBK1 gene was constitutively expressed in the twelve 
+tissues examined, with high expression in brain. Temporal expression analysis 
+showed that LcTBK1 mRNA was obviously increased in the liver after injection of 
+LPS, Poly I:C and inactive Vibrio parahaemolyticus, however, declined at some 
+time points in spleen and head-kidney. Furthermore, we found that LcTBK1 can 
+interact with LcNrdp1, an E3 ubiquitin ligase that involved in immune response 
+to Cryptocaryon irritans infection in L. crocea. The qPCR showed that LcNrdp1 
+was also significantly up-regulated in liver, down-regualted at some time points 
+in spleen and head-kidney after LPS, Poly I:C and inactive V. parahaemolyticus 
+injection, although the expression patterns of the two genes after the three 
+treatments were different in change magnitude and up-regulation timespan. These 
+results suggested that LcTBK1 was involved in L. crocea defense against the 
+pathogen infection and can be regulated by Nrdp1 in PPRs signaling pathway of 
+fishes.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2015.08.013
+PMID: 26291490 [Indexed for MEDLINE]
+
+
+10. Am J Hum Genet. 2013 Nov 7;93(5):926-31. doi: 10.1016/j.ajhg.2013.10.007. Epub 
+2013 Oct 31.
+
+WDR34 mutations that cause short-rib polydactyly syndrome type III/severe 
+asphyxiating thoracic dysplasia reveal a role for the NF-κB pathway in cilia.
+
+Huber C(1), Wu S, Kim AS, Sigaudy S, Sarukhanov A, Serre V, Baujat G, Le Quan 
+Sang KH, Rimoin DL, Cohn DH, Munnich A, Krakow D, Cormier-Daire V.
+
+Author information:
+(1)Department of Genetics, INSERM U781, Université Paris Descartes-Sorbonne 
+Paris Cité, Institut Imagine, Hôpital Necker Enfants Malades (AP-HP), Paris 
+75015, France.
+
+Short-rib polydactyly (SRP) syndrome type III, or Verma-Naumoff syndrome, is an 
+autosomal-recessive chondrodysplasia characterized by short ribs, a narrow 
+thorax, short long bones, an abnormal acetabulum, and numerous extraskeletal 
+malformations and is lethal in the perinatal period. Presently, mutations in two 
+genes, IFT80 and DYNC2H1, have been identified as being responsible for SRP type 
+III. Via homozygosity mapping in three affected siblings, a locus for the 
+disease was identified on chromosome 9q34.11, and homozygosity for three 
+missense mutations in WDR34 were found in three independent families, as well as 
+compound heterozygosity for mutations in one family. WDR34 encodes a member of 
+the WD repeat protein family with five WD40 domains, which acts as a 
+TAK1-associated suppressor of the IL-1R/TLR3/TLR4-induced NF-κB activation 
+pathway. We showed, through structural modeling, that two of the three mutations 
+altered specific structural domains of WDR34. We found that primary cilia in 
+WDR34 mutant fibroblasts were significantly shorter than normal and had a 
+bulbous tip. This report expands on the pathogenesis of SRP type III and 
+demonstrates that a regulator of the NF-κB activation pathway is involved in the 
+pathogenesis of the skeletal ciliopathies.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2013.10.007
+PMCID: PMC3824112
+PMID: 24183449 [Indexed for MEDLINE]
+
+
+11. J Leukoc Biol. 2011 Dec;90(6):1159-66. doi: 10.1189/jlb.0511249. Epub 2011 Sep 
+20.
+
+Investigation of the differential potentials of TLR agonists to elicit uveitis 
+in mice.
+
+Allensworth JJ(1), Planck SR, Rosenbaum JT, Rosenzweig HL.
+
+Author information:
+(1)Casey Eye Institute, Portland, Oregon, USA.
+
+TLRs are critical for host defense and innate immunity. Emerging evidence also 
+supports a role for TLRs in many chronic inflammatory diseases, including 
+inflammatory eye disease, known as uveitis. The activation of TLR4 by endotoxin 
+induces a standard model of murine uveitis. How activation of additional TLRs 
+influences the onset and/or severity of anterior uveitis has not been examined. 
+We sought to elucidate the potential of TLRs (TLR1/2, TLR2/6, TLR3, TLR4, TLR5, 
+TLR7/8, and TLR9) to trigger uveitis in mice. Directly stimulated iris/ciliary 
+body explants demonstrated a marked increase in production of inflammatory 
+cytokines TNF-α, IL-6, IP-10/CXCL10, MCP-1, and KC with relatively little 
+production of IFN-γ, IL-10, IL-12p40, IL-12p70, IL-17, IL-1β, IL-4, or RANTES. 
+The cytokine-response profiles were comparable amongst the TLR agonists, albeit 
+some differences were noted, such as greater IP-10 production following TLR3 
+activation. Intra-ocular injection of TLR agonists increased leukocyte 
+interactions with the endothelium of the iris vasculature and resulted in 
+chemotaxis into the iris tissue. Assessment of leukocytic responses by ivt 
+videomicroscopy and histology revealed quantitative differences amongst 
+responses to the TLR agonists with respect to the timing and numbers of rolling, 
+adhering, iris-infiltrating, and aqueous humor-infiltrating cells, along with 
+cytokine levels in vivo. Our data demonstrate the eye's responsiveness to a 
+diverse array of microbial products, which activates TLRs, and reveal 
+differences in relative cellular response among the various TLR agonists in 
+vivo.
+
+DOI: 10.1189/jlb.0511249
+PMCID: PMC3236551
+PMID: 21934069 [Indexed for MEDLINE]
+
+
+12. Am J Respir Cell Mol Biol. 2011 Nov;45(5):1101-10. doi: 
+10.1165/rcmb.2011-0020OC. Epub 2011 May 26.
+
+Toll-like receptor 4 potentiates Ca2+-dependent secretion of electrolytes from 
+swine tracheal glands.
+
+Murakami K(1), Tamada T, Nara M, Muramatsu S, Kikuchi T, Kanehira M, Maruyama Y, 
+Ebina M, Nukiwa T.
+
+Author information:
+(1)Department of Respiratory Medicine, Tohoku University Graduate School of 
+Medicine, Aoba-Ku, Sendai, Japan.
+
+Airway surface fluids are mainly secreted from submucosal glands, and play 
+important roles in the defense of airways via the up-regulation of mucociliary 
+transport, resulting in an exclusion of many microbes or foreign substances. 
+Although there are many articles concerning the importance of Toll-like 
+receptors (TLRs) in airway immune systems, whether TLRs directly cooperate with 
+tracheal submucosal glands to increase secretion remains unknown. We 
+investigated the effects of ligands of the three TLR subtypes (TLR2, TLR3, and 
+TLR4) on the physiologic secretion of electrolytes by using a patch-clamp 
+technique. Among these TLRs, only the TLR4 ligand, LPS, showed potentiating 
+effects on acetylcholine (ACh)-induced ionic currents in a dose-dependent 
+manner. These potentiating effects were completely abolished by pretreatment 
+with a specific TLR4 antagonist or the anti-TLR4 antibody. LPS per se exerted no 
+appreciable effect on baseline currents. Next, we demonstrated the abundant 
+expression of TLR4 in submucosal gland acinar cells by using immunofluorescent 
+staining and RT-PCR. Furthermore, we revealed that both nitric oxide synthase 
+inhibitors and cyclic guanosine monophosphate (cGMP)-dependent protein kinase 
+(cGK) inhibitors abolished the LPS-induced potentiating effects completely. 
+Analyses of fluorescence intensities, using an intracellular nitric oxide (NO) 
+indicator, demonstrated that LPS could further increase the ACh-induced 
+synthesis of NO. These findings suggest that TLR4 takes part in airway mucosal 
+defense systems as a unique exogenous potentiator of electrolyte-water secretion 
+from submucosal gland acinar cells, and that NO/cGMP/cGK signaling is involved 
+in this rapid TLR4 signaling pathway.
+
+DOI: 10.1165/rcmb.2011-0020OC
+PMID: 21617200 [Indexed for MEDLINE]
+
+
+13. Am J Respir Cell Mol Biol. 2009 May;40(5):610-9. doi: 10.1165/rcmb.2008-0223OC. 
+Epub 2008 Oct 31.
+
+Rhinovirus-induced major airway mucin production involves a novel 
+TLR3-EGFR-dependent pathway.
+
+Zhu L(1), Lee PK, Lee WM, Zhao Y, Yu D, Chen Y.
+
+Author information:
+(1)Division of Translational Biology, the Hamner Institutes for Health Research, 
+Research Triangle Park, North Carolina, USA.
+
+Mucociliary clearance is a critical innate defense system responsible for 
+clearing up invading pathogens including bacteria and virus. Although the right 
+amount of mucus is good, excessive mucus causes airway obstruction and tends to 
+precipitate disease symptoms. Rhinovirus (RV) is a common cold virus that causes 
+asthma and chronic obstructive pulmonary disease exacerbation. Mucus 
+overproduction has been linked to the pathogenesis of RV-induced diseases and 
+disease exacerbations. However, the molecular mechanism is not clear. In this 
+study, using one of the major airway mucin-MUC5AC as marker, we found that both 
+major and minor groups of RV induced mucin production in primary human 
+epithelial cells and cell line. RV1A (a minor group of RV) could induce mucous 
+cell metaplasia in vivo. Viral replication was needed for RV-induced mucin 
+expression, and this induction was also dependent on TLR3, suggesting the 
+involvement of double-stranded (ds) RNA signaling. Indeed, dsRNA alone could 
+also induce mucin expression. TLR3-mediated mucin induction was negatively 
+regulated by MyD88, and only partially dependent on TRIF, which suggests a 
+departure from well-documented TLR3 signaling paradigm that mediates 
+inflammatory and other innate defense gene inductions. In addition, TLR3 
+signaling activated epidermal growth factor receptor (EGFR) through inductions 
+of the expression of EGFR ligands (transforming growth factor-alpha and 
+amphiregulin), which in turn activated EGFR-ERK signaling and mucin expression 
+through an autocrine/paracrine loop. This novel coupling of antiviral defense 
+machinery (i.e., TLR3) and major epithelial proliferation/repair pathway (i.e., 
+EGFR) might play an important role in viral-induced airway remodeling and airway 
+disease exacerbation.
+
+DOI: 10.1165/rcmb.2008-0223OC
+PMCID: PMC2677440
+PMID: 18978302 [Indexed for MEDLINE]
+
+
+14. Acta Otolaryngol. 2007 Apr;127(4):395-402. doi: 10.1080/00016480601089416.
+
+Expression of Toll-like receptors in cultured nasal epithelial cells.
+
+Lin CF(1), Tsai CH, Cheng CH, Chen YS, Tournier F, Yeh TH.
+
+Author information:
+(1)Department of Otolaryngology, National Taiwan University Hospital, College of 
+Medicine, Taipei, Taiwan.
+
+CONCLUSIONS: Nasal epithelial cells are constitutively equipped with all 
+Toll-like receptors (TLRs) which are essential for innate immunity. Both mRNA 
+and protein levels of TLR3 expression increased in more differentiated nasal 
+epithelial cells. Considering that the ligand for TLR3 is viral dsRNA, this 
+result is in good accordance with previous reports demonstrating that more 
+differentiated airway epithelial cells have increased resistance to rhinovirus 
+infection.
+OBJECTIVE: Nasal epithelial cells use innate immune responses to combat inspired 
+potential pathogens. TLRs are receptors that recognize pathogen-associated 
+molecular patterns of microbes. Therefore, we investigated the expression of 
+TLRs in cultured nasal epithelial cells obtained from nasal polyps.
+MATERIALS AND METHODS: Submerged single layer (SSL) and air-liquid interface 
+(ALI) nasal epithelial cell cultures with or without 10(-7) M retinoid acid (+/- 
+RA) were created.
+RESULTS: ALI + RA culture developed ciliary differentiation as observed by light 
+and scanning electron microscopic examination in 3 weeks. It had higher 
+interleukin (IL)-8 basal secretion (21.9 vs 0.82-1.45 ng/ml) and transepithelial 
+potential (-20.4 mV). TLR1-10 mRNA expression in cultured nasal epithelial cells 
+was determined by RT-PCR. Only TLR3 mRNA significantly increased at day 20 vs 
+day 1 (n=5, p=0.02) in ALI + RA cell culture. Higher TLR3 protein was also 
+expressed at day 20 in ALI + RA cell culture but not in SSL culture by western 
+blotting.
+
+DOI: 10.1080/00016480601089416
+PMID: 17453460 [Indexed for MEDLINE]
+
+
+15. Vet Res. 2007 Mar-Apr;38(2):153-80. doi: 10.1051/vetres:2006053. Epub 2007 Jan 
+25.
+
+Bovine respiratory syncytial virus infection.
+
+Valarcher JF(1), Taylor G.
+
+Author information:
+(1)IVI-Animal Health, Lärkbacken, 740 20 Vänge, Uppsala, Sweden.
+
+Bovine respiratory syncytial virus (BRSV) belongs to the pneumovirus genus 
+within the family Paramyxoviridae and is a major cause of respiratory disease in 
+young calves. BRSV is enveloped and contains a negative sense, single-stranded 
+RNA genome encoding 11 proteins. The virus replicates predominantly in ciliated 
+respiratory epithelial cells but also in type II pneumocytes. It appears to 
+cause little or no cytopathology in ciliated epithelial cell cultures in vitro, 
+suggesting that much of the pathology is due to the host's response to virus 
+infection. RSV infection induces an array of pro-inflammatory chemokines and 
+cytokines that recruit neutrophils, macrophages and lymphocytes to the 
+respiratory tract resulting in respiratory disease. Although the mechanisms 
+responsible for induction of these chemokines and cytokines are unclear, studies 
+on the closely related human (H)RSV suggest that activation of NF-kappaB via 
+TLR4 and TLR3 signalling pathways is involved. An understanding of the 
+mechanisms by which BRSV is able to establish infection and induce an 
+inflammatory response has been facilitated by advances in reverse genetics, 
+which have enabled manipulation of the virus genome. These studies have 
+demonstrated an important role for the non-structural proteins in 
+anti-interferon activity, a role for a virokinin, released during proteolytic 
+cleavage of the fusion protein, in the inflammatory response and a role for the 
+SH and the secreted form of the G protein in establishing pulmonary infection. 
+Knowledge gained from these studies has also provided the opportunity to develop 
+safe, stable, live attenuated virus vaccine candidates.
+
+DOI: 10.1051/vetres:2006053
+PMID: 17257568 [Indexed for MEDLINE]
+
+
+16. FASEB J. 2006 Oct;20(12):2121-3. doi: 10.1096/fj.06-5806fje. Epub 2006 Aug 16.
+
+H. influenzae potentiates airway epithelial cell responses to rhinovirus by 
+increasing ICAM-1 and TLR3 expression.
+
+Sajjan US(1), Jia Y, Newcomb DC, Bentley JK, Lukacs NW, LiPuma JJ, Hershenson 
+MB.
+
+Author information:
+(1)Department of Pediatrics and Communicable Diseases, University of Michigan, 
+Ann Arbor, MI, USA.
+
+Rhinovirus (RV) is an important trigger of chronic obstructive pulmonary disease 
+(COPD) exacerbations. In addition, respiratory viruses are more likely to be 
+isolated in patients with a history of frequent exacerbations, suggesting that 
+these patients are more susceptible to viral infection. To examine potential 
+mechanisms for cooperative effects between bacterial and viral infection in 
+COPD, we studied the responses of cultured human airway epithelial cells to 
+nontypeable Hemophilus influenzae and RV. In both 16HBE14o- and primary 
+mucociliary-differentiated cells, preincubation with H. influenzae enhanced RV 
+serotype 39-induced protein expression of interleukin (IL)-8, epithelial-derived 
+neutrophil attractant-78, and growth-related oncogene-alpha. H. influenzae 
+infection also increased the binding of RV39 to cultured cells, as well as 
+expression of intercellular adhesion molecule (ICAM)-1 and Toll-like receptor 
+(TLR)-3, receptors for RV and dsRNA, respectively. Neutralizing antibody against 
+tumor necrosis factor-alpha inhibited IL-8 expression induced by H. influenzae 
+and RV39. Finally, siRNA against TLR3 attenuated RV-induced IL-8 expression. We 
+conclude that H. influenzae infection increases airway epithelial cell ICAM-1 
+and TLR3 expression, leading to enhanced binding of RV and a potentiation of 
+RV-induced chemokine release. These data provide a cellular mechanism by which 
+H. influenzae infection may increase the susceptibility of COPD patients to 
+RV-induced exacerbations.
+
+DOI: 10.1096/fj.06-5806fje
+PMID: 16914605 [Indexed for MEDLINE]
